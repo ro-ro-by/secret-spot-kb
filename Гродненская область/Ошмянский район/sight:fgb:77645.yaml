@@ -1,0 +1,16 @@
+id: 'sight:fgb:77645'
+title: 'Валун Студенецкий'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ошмянский район'
+meta:
+    fgb:
+        post_id: '77645'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77645#77645'
+                version: '22 Nov 2021, Mon, 23:10'

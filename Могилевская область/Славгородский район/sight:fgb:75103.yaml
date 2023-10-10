@@ -1,0 +1,16 @@
+id: 'sight:fgb:75103'
+title: 'Лысая гара'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75103'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75103#75103'
+                version: '20 Jun 2023, Tue, 22:28'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75980'
+title: Пекалинский
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Смолевичский район'
+meta:
+    fgb:
+        post_id: '75980'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75980#75980'
+                version: '10 Sep 2021, Fri, 15:38'

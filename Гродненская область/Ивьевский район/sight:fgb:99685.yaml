@@ -1,0 +1,16 @@
+id: 'sight:fgb:99685'
+title: 'Парк Ивьевский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '99685'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99685#99685'
+                version: '16 Feb 2022, Wed, 23:22'

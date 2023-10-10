@@ -1,0 +1,16 @@
+id: 'sight:fgb:101785'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Толочинский район'
+meta:
+    fgb:
+        post_id: '101785'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101785#101785'
+                version: '14 Nov 2022, Mon, 23:14'

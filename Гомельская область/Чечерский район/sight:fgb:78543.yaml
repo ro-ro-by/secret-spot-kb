@@ -1,0 +1,16 @@
+id: 'sight:fgb:78543'
+title: Хлебный
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '78543'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78543#78543'
+                version: '15 Nov 2021, Mon, 16:42'

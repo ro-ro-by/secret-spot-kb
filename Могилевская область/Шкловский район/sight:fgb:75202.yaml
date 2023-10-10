@@ -1,0 +1,16 @@
+id: 'sight:fgb:75202'
+title: 'Городской парк'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75202'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75202#75202'
+                version: '11 Nov 2022, Fri, 0:57'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99647'
+title: 'Парк Грушево'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Кобринский район'
+meta:
+    fgb:
+        post_id: '99647'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99647#99647'
+                version: '15 Feb 2022, Tue, 23:31'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75690'
+title: 'Родник Лесной'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '75690'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75690#75690'
+                version: '06 May 2021, Thu, 8:35'

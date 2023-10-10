@@ -1,0 +1,16 @@
+id: 'sight:fgb:75444'
+title: 'Свято-Троицкий родник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
+meta:
+    fgb:
+        post_id: '75444'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75444#75444'
+                version: '15 Nov 2021, Mon, 12:21'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:78383'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Витебский район'
+meta:
+    fgb:
+        post_id: '78383'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78383#78383'
+                version: '25 Jul 2020, Sat, 15:55'

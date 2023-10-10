@@ -1,0 +1,16 @@
+id: 'sight:fgb:101044'
+title: 'Камень са знакам'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '101044'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101044#101044'
+                version: '17 Aug 2022, Wed, 22:00'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77500'
+title: 'Лекавы камень'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '77500'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77500#77500'
+                version: '27 Jul 2020, Mon, 23:21'

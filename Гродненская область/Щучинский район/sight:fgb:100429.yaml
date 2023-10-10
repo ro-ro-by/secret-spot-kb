@@ -1,0 +1,16 @@
+id: 'sight:fgb:100429'
+title: 'Валун Красненский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '100429'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100429#100429'
+                version: '21 Jun 2022, Tue, 17:05'

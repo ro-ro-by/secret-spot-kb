@@ -1,0 +1,16 @@
+id: 'sight:fgb:75445'
+title: Чирковичский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Светлогорский район'
+meta:
+    fgb:
+        post_id: '75445'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75445#75445'
+                version: '09 Oct 2021, Sat, 12:57'

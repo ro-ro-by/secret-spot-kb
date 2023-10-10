@@ -1,0 +1,16 @@
+id: 'sight:fgb:102017'
+title: Дуб
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '102017'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=102017#102017'
+                version: '27 Dec 2022, Tue, 7:58'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75661'
+title: 'Лечебный камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Копыльский район'
+meta:
+    fgb:
+        post_id: '75661'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75661#75661'
+                version: '30 Jul 2022, Sat, 11:12'

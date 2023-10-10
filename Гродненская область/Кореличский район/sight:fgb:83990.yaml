@@ -1,0 +1,16 @@
+id: 'sight:fgb:83990'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Кореличский район'
+meta:
+    fgb:
+        post_id: '83990'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83990#83990'
+                version: '08 Jan 2022, Sat, 22:13'

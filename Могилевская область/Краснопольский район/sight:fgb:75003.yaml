@@ -1,0 +1,16 @@
+id: 'sight:fgb:75003'
+title: 'Лёксина криница'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '75003'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75003#75003'
+                version: '05 Oct 2021, Tue, 13:01'

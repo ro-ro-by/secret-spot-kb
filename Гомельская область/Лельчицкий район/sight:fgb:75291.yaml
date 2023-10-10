@@ -1,0 +1,16 @@
+id: 'sight:fgb:75291'
+title: 'Уникальные участки леса (дубравы)'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лельчицкий район'
+meta:
+    fgb:
+        post_id: '75291'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75291#75291'
+                version: '03 Nov 2022, Thu, 13:05'

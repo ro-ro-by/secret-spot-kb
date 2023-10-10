@@ -1,0 +1,16 @@
+id: 'sight:fgb:93131'
+title: Перелёвка-2
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '93131'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=93131#93131'
+                version: '03 Jul 2020, Fri, 0:02'

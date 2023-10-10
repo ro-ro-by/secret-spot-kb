@@ -1,0 +1,16 @@
+id: 'sight:fgb:74505'
+title: 'Меловой карьер Кабаки-Малеч'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Берёзовский район'
+meta:
+    fgb:
+        post_id: '74505'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74505#74505'
+                version: '19 Feb 2020, Wed, 15:00'

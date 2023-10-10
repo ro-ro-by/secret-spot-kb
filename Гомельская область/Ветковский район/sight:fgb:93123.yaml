@@ -1,0 +1,16 @@
+id: 'sight:fgb:93123'
+title: Великонемковский-2
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '93123'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=93123#93123'
+                version: '02 Jul 2020, Thu, 23:14'

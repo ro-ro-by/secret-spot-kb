@@ -1,0 +1,16 @@
+id: 'sight:fgb:75402'
+title: Кадовб
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Наровлянский район'
+meta:
+    fgb:
+        post_id: '75402'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75402#75402'
+                version: '27 Jul 2020, Mon, 23:42'

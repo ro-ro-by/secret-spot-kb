@@ -1,0 +1,16 @@
+id: 'sight:fgb:103882'
+title: 'Гара Маяк'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '103882'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103882#103882'
+                version: '06 Jun 2023, Tue, 8:46'

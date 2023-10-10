@@ -1,0 +1,16 @@
+id: 'sight:fgb:99632'
+title: 'Парк Лыщицы'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '99632'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99632#99632'
+                version: '15 Feb 2022, Tue, 23:01'

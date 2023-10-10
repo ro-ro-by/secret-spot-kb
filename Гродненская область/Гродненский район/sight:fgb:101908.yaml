@@ -1,0 +1,16 @@
+id: 'sight:fgb:101908'
+title: 'Тополь белый'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '101908'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101908#101908'
+                version: '08 Dec 2022, Thu, 13:13'

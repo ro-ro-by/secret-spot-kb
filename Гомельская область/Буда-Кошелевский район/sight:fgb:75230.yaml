@@ -1,0 +1,16 @@
+id: 'sight:fgb:75230'
+title: Буда-Кошелевский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Буда-Кошелевский район'
+meta:
+    fgb:
+        post_id: '75230'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75230#75230'
+                version: '20 Jun 2020, Sat, 23:34'

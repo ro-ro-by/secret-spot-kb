@@ -1,0 +1,16 @@
+id: 'sight:fgb:100903'
+title: 'Чортаў камень'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '100903'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100903#100903'
+                version: '01 Aug 2022, Mon, 11:00'

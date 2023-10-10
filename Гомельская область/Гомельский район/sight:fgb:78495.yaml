@@ -1,0 +1,16 @@
+id: 'sight:fgb:78495'
+title: 'Святой источник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Гомельский район'
+meta:
+    fgb:
+        post_id: '78495'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78495#78495'
+                version: '17 Nov 2021, Wed, 16:54'

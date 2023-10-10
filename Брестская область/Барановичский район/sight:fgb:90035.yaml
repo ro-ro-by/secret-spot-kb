@@ -1,0 +1,16 @@
+id: 'sight:fgb:90035'
+title: Мурованка-1
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '90035'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90035#90035'
+                version: '04 Apr 2022, Mon, 13:19'

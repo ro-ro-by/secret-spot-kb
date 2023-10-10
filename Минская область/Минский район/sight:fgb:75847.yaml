@@ -1,0 +1,16 @@
+id: 'sight:fgb:75847'
+title: 'Родник доктора Пастернацкого'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '75847'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75847#75847'
+                version: '24 Jan 2021, Sun, 23:15'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:103859'
+title: Гарадок
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '103859'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103859#103859'
+                version: '06 Jun 2023, Tue, 15:00'

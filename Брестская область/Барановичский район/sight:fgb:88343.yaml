@@ -1,0 +1,16 @@
+id: 'sight:fgb:88343'
+title: Родник
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '88343'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88343#88343'
+                version: '13 Feb 2020, Thu, 22:41'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:101049'
+title: 'Камень са знакам'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '101049'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101049#101049'
+                version: '17 Aug 2022, Wed, 22:21'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:103120'
+title: 'Чорная гара'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Браславский район'
+meta:
+    fgb:
+        post_id: '103120'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103120#103120'
+                version: '08 May 2023, Mon, 10:21'

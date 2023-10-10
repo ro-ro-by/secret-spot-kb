@@ -1,0 +1,16 @@
+id: 'sight:fgb:75855'
+title: 'Целебный источник'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '75855'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75855#75855'
+                version: '26 Jan 2021, Tue, 11:38'

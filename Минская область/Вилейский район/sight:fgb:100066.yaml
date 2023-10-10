@@ -1,0 +1,16 @@
+id: 'sight:fgb:100066'
+title: 'Вялікі камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '100066'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100066#100066'
+                version: '23 Aug 2022, Tue, 0:38'

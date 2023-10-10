@@ -1,0 +1,16 @@
+id: 'sight:fgb:75535'
+title: 'Парк Героев'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '75535'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75535#75535'
+                version: '08 Nov 2022, Tue, 21:53'

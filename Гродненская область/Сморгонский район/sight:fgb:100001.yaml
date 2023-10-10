@@ -1,0 +1,16 @@
+id: 'sight:fgb:100001'
+title: 'Культавы камень каля гарадзішча'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Сморгонский район'
+meta:
+    fgb:
+        post_id: '100001'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100001#100001'
+                version: '20 Jun 2022, Mon, 21:17'

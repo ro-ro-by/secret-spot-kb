@@ -1,0 +1,16 @@
+id: 'sight:fgb:99887'
+title: 'Адамаў камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Молодечненский район'
+meta:
+    fgb:
+        post_id: '99887'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99887#99887'
+                version: '09 Aug 2022, Tue, 22:25'

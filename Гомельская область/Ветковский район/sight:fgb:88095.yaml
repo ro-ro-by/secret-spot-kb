@@ -1,0 +1,16 @@
+id: 'sight:fgb:88095'
+title: Святой
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '88095'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88095#88095'
+                version: '27 Jan 2021, Wed, 15:57'

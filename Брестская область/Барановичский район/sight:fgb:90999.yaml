@@ -1,0 +1,16 @@
+id: 'sight:fgb:90999'
+title: 'Сунгловщина-2 (Школьный)'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '90999'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90999#90999'
+                version: '03 Jun 2020, Wed, 0:08'

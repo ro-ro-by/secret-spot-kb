@@ -1,0 +1,16 @@
+id: 'sight:fgb:75100'
+title: 'У братской могилы (Есин А.С., Фальковский)'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Осиповичский район'
+meta:
+    fgb:
+        post_id: '75100'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75100#75100'
+                version: '12 Nov 2021, Fri, 15:55'

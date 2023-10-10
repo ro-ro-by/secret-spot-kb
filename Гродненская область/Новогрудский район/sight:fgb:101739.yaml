@@ -1,0 +1,16 @@
+id: 'sight:fgb:101739'
+title: 'Эталонное насаждение сосны Вселюбское'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '101739'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101739#101739'
+                version: '08 Nov 2022, Tue, 21:43'

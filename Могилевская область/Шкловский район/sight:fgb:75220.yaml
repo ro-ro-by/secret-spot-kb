@@ -1,0 +1,16 @@
+id: 'sight:fgb:75220'
+title: Мельница
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75220'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75220#75220'
+                version: '16 Nov 2021, Tue, 11:52'

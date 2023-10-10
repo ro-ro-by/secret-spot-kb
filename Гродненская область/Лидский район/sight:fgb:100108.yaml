@@ -1,0 +1,16 @@
+id: 'sight:fgb:100108'
+title: 'Камень з трыма паглыбленнямі'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Лидский район'
+meta:
+    fgb:
+        post_id: '100108'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100108#100108'
+                version: '22 Aug 2022, Mon, 1:00'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77769'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Сморгонский район'
+meta:
+    fgb:
+        post_id: '77769'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77769#77769'
+                version: '24 Nov 2021, Wed, 14:16'

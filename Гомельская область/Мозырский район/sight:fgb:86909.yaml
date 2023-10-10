@@ -1,0 +1,16 @@
+id: 'sight:fgb:86909'
+title: 'У истока Тура'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Мозырский район'
+meta:
+    fgb:
+        post_id: '86909'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=86909#86909'
+                version: '23 Aug 2020, Sun, 20:06'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:76360'
+title: 'Дубовые насаждения Поляны'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Верхнедвинский район'
+meta:
+    fgb:
+        post_id: '76360'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76360#76360'
+                version: '23 Sep 2022, Fri, 0:35'

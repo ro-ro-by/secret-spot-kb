@@ -1,0 +1,16 @@
+id: 'sight:fgb:77802'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '77802'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77802#77802'
+                version: '20 Jun 2023, Tue, 20:39'

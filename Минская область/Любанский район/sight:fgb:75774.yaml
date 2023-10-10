@@ -1,0 +1,16 @@
+id: 'sight:fgb:75774'
+title: Полянка
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Любанский район'
+meta:
+    fgb:
+        post_id: '75774'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75774#75774'
+                version: '30 Sep 2021, Thu, 11:41'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:100617'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '100617'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100617#100617'
+                version: '11 Jul 2022, Mon, 22:42'

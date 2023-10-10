@@ -1,0 +1,16 @@
+id: 'sight:fgb:88381'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '88381'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88381#88381'
+                version: '17 Nov 2021, Wed, 15:07'

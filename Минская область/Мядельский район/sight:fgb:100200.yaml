@@ -1,0 +1,16 @@
+id: 'sight:fgb:100200'
+title: 'Рымарчыкаў камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Мядельский район'
+meta:
+    fgb:
+        post_id: '100200'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100200#100200'
+                version: '19 May 2022, Thu, 14:10'

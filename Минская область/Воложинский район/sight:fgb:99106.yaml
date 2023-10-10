@@ -1,0 +1,16 @@
+id: 'sight:fgb:99106'
+title: Марудовка
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Воложинский район'
+meta:
+    fgb:
+        post_id: '99106'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99106#99106'
+                version: '19 Nov 2021, Fri, 15:21'

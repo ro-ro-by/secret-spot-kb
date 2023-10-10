@@ -1,0 +1,16 @@
+id: 'sight:fgb:100051'
+title: 'Скарбавы камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '100051'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100051#100051'
+                version: '20 Jun 2022, Mon, 22:45'

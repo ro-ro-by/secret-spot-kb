@@ -1,0 +1,16 @@
+id: 'sight:fgb:98750'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Кличевский район'
+meta:
+    fgb:
+        post_id: '98750'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98750#98750'
+                version: '17 Sep 2021, Fri, 21:01'

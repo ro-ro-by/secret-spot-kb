@@ -1,0 +1,16 @@
+id: 'sight:fgb:99099'
+title: 'Александра Невского'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Осиповичский район'
+meta:
+    fgb:
+        post_id: '99099'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99099#99099'
+                version: '12 Nov 2021, Fri, 16:42'

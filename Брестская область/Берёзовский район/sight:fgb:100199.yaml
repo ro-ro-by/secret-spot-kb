@@ -1,0 +1,16 @@
+id: 'sight:fgb:100199'
+title: 'Камень з падковай'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Берёзовский район'
+meta:
+    fgb:
+        post_id: '100199'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100199#100199'
+                version: '19 May 2022, Thu, 14:03'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:95760'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '95760'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95760#95760'
+                version: '25 Aug 2021, Wed, 17:03'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75052'
+title: Прибережье
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '75052'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75052#75052'
+                version: '20 Sep 2021, Mon, 12:04'

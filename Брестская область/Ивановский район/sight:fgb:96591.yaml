@@ -1,0 +1,16 @@
+id: 'sight:fgb:96591'
+title: Родник
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ивановский район'
+meta:
+    fgb:
+        post_id: '96591'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96591#96591'
+                version: '24 Aug 2020, Mon, 8:37'

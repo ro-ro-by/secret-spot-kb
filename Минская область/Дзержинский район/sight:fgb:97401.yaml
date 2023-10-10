@@ -1,0 +1,16 @@
+id: 'sight:fgb:97401'
+title: 'Парк Гарутишки'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Дзержинский район'
+meta:
+    fgb:
+        post_id: '97401'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97401#97401'
+                version: '01 Feb 2021, Mon, 19:57'

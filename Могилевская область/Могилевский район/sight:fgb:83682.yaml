@@ -1,0 +1,16 @@
+id: 'sight:fgb:83682'
+title: Печерский
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '83682'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83682#83682'
+                version: '06 Oct 2021, Wed, 10:32'

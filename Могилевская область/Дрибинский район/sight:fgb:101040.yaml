@@ -1,0 +1,16 @@
+id: 'sight:fgb:101040'
+title: 'Камень са знакам'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Дрибинский район'
+meta:
+    fgb:
+        post_id: '101040'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101040#101040'
+                version: '17 Aug 2022, Wed, 21:42'

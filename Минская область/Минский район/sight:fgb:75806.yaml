@@ -1,0 +1,16 @@
+id: 'sight:fgb:75806'
+title: Прилепский
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '75806'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75806#75806'
+                version: '25 Jan 2021, Mon, 20:34'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77125'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Сенненский район'
+meta:
+    fgb:
+        post_id: '77125'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77125#77125'
+                version: '02 Oct 2021, Sat, 11:48'

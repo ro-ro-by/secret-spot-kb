@@ -1,0 +1,16 @@
+id: 'sight:fgb:75245'
+title: Дубрава
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Гомельский район'
+meta:
+    fgb:
+        post_id: '75245'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75245#75245'
+                version: '03 Nov 2022, Thu, 12:29'

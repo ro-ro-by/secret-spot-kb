@@ -1,0 +1,16 @@
+id: 'sight:fgb:74521'
+title: 'Парк Люта'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '74521'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74521#74521'
+                version: '04 Dec 2020, Fri, 22:24'

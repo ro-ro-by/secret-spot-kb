@@ -1,0 +1,16 @@
+id: 'sight:fgb:83045'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '83045'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83045#83045'
+                version: '22 May 2021, Sat, 12:30'

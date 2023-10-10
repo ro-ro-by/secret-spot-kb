@@ -1,0 +1,16 @@
+id: 'sight:fgb:75628'
+title: 'Воложинский парк'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Воложинский район'
+meta:
+    fgb:
+        post_id: '75628'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75628#75628'
+                version: '27 Oct 2021, Wed, 6:41'

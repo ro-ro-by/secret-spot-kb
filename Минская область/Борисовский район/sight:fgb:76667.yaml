@@ -1,0 +1,16 @@
+id: 'sight:fgb:76667'
+title: Покровский
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '76667'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76667#76667'
+                version: '10 Nov 2020, Tue, 21:43'

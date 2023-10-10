@@ -1,0 +1,16 @@
+id: 'sight:fgb:99803'
+title: Огородники
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '99803'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99803#99803'
+                version: '04 Apr 2022, Mon, 15:18'

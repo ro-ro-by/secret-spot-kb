@@ -1,0 +1,16 @@
+id: 'sight:fgb:101050'
+title: 'Камяні са знакамі'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Зельвенский район'
+meta:
+    fgb:
+        post_id: '101050'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101050#101050'
+                version: '17 Aug 2022, Wed, 22:23'

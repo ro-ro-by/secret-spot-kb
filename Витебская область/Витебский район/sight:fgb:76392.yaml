@@ -1,0 +1,16 @@
+id: 'sight:fgb:76392'
+title: Витебский
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Витебский район'
+meta:
+    fgb:
+        post_id: '76392'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76392#76392'
+                version: '25 Jul 2020, Sat, 11:39'

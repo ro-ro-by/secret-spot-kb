@@ -1,0 +1,16 @@
+id: 'sight:fgb:100904'
+title: 'Чортаў камень'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Сморгонский район'
+meta:
+    fgb:
+        post_id: '100904'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100904#100904'
+                version: '01 Aug 2022, Mon, 11:05'

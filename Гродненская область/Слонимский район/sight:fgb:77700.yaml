@@ -1,0 +1,16 @@
+id: 'sight:fgb:77700'
+title: 'Загорьевский концовоморенный массив'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Слонимский район'
+meta:
+    fgb:
+        post_id: '77700'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77700#77700'
+                version: '29 Oct 2021, Fri, 8:43'

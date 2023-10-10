@@ -1,0 +1,16 @@
+id: 'sight:fgb:103888'
+title: 'Гара Пясчаная'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '103888'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103888#103888'
+                version: '06 Jun 2023, Tue, 8:53'

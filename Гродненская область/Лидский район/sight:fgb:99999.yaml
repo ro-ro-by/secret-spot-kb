@@ -1,0 +1,16 @@
+id: 'sight:fgb:99999'
+title: 'Акамянелае вяселле'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Лидский район'
+meta:
+    fgb:
+        post_id: '99999'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99999#99999'
+                version: '13 May 2022, Fri, 8:30'

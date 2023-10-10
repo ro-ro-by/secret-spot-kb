@@ -1,0 +1,16 @@
+id: 'sight:fgb:100210'
+title: Камень-следавік
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '100210'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100210#100210'
+                version: '20 May 2022, Fri, 13:30'

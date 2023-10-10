@@ -1,0 +1,16 @@
+id: 'sight:fgb:99069'
+title: 'Дубенецкий дуб'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Столинский район'
+meta:
+    fgb:
+        post_id: '99069'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99069#99069'
+                version: '25 Oct 2021, Mon, 21:18'

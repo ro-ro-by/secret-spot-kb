@@ -1,0 +1,16 @@
+id: 'sight:fgb:75005'
+title: 'Выдренка-2 (Барановского)'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '75005'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75005#75005'
+                version: '05 Oct 2021, Tue, 19:42'

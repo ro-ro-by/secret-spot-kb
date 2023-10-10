@@ -1,0 +1,16 @@
+id: 'sight:fgb:77576'
+title: Новогрудский
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '77576'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77576#77576'
+                version: '25 Aug 2021, Wed, 14:52'

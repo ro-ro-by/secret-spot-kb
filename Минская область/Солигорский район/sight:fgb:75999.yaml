@@ -1,0 +1,16 @@
+id: 'sight:fgb:75999'
+title: Величковичи
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Солигорский район'
+meta:
+    fgb:
+        post_id: '75999'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75999#75999'
+                version: '10 Sep 2021, Fri, 14:02'

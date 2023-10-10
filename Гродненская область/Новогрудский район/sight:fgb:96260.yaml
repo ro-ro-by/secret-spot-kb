@@ -1,0 +1,16 @@
+id: 'sight:fgb:96260'
+title: 'Парк Новогрудский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '96260'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96260#96260'
+                version: '25 Aug 2021, Wed, 17:06'

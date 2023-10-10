@@ -1,0 +1,16 @@
+id: 'sight:fgb:99265'
+title: Стаи
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '99265'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99265#99265'
+                version: '23 Nov 2021, Tue, 10:55'

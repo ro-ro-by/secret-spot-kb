@@ -1,0 +1,16 @@
+id: 'sight:fgb:99664'
+title: 'Парк Зеленевичи'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Пружанский район'
+meta:
+    fgb:
+        post_id: '99664'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99664#99664'
+                version: '16 Feb 2022, Wed, 0:02'

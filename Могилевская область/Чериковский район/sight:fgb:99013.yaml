@@ -1,0 +1,16 @@
+id: 'sight:fgb:99013'
+title: Ржавец-1
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чериковский район'
+meta:
+    fgb:
+        post_id: '99013'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99013#99013'
+                version: '15 Nov 2021, Mon, 15:59'

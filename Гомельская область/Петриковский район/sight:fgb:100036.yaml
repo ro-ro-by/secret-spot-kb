@@ -1,0 +1,16 @@
+id: 'sight:fgb:100036'
+title: 'Каменныя валы'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '100036'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100036#100036'
+                version: '14 May 2022, Sat, 11:51'

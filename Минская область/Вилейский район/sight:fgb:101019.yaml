@@ -1,0 +1,16 @@
+id: 'sight:fgb:101019'
+title: 'Камень Напалеона'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '101019'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101019#101019'
+                version: '17 Aug 2022, Wed, 14:18'

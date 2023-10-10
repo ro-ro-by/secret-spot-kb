@@ -1,0 +1,16 @@
+id: 'sight:fgb:99315'
+title: Зрой
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99315'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99315#99315'
+                version: '03 Dec 2021, Fri, 15:17'

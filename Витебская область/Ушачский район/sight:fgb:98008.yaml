@@ -1,0 +1,16 @@
+id: 'sight:fgb:98008'
+title: Черноручье
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Ушачский район'
+meta:
+    fgb:
+        post_id: '98008'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98008#98008'
+                version: '14 May 2021, Fri, 0:42'

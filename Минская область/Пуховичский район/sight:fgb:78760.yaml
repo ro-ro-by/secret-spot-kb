@@ -1,0 +1,16 @@
+id: 'sight:fgb:78760'
+title: 'Родник Школьный'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '78760'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78760#78760'
+                version: '12 Nov 2022, Sat, 23:23'

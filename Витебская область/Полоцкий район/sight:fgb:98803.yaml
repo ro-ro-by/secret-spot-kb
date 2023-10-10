@@ -1,0 +1,16 @@
+id: 'sight:fgb:98803'
+title: 'Парк Двор Вороничи'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '98803'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98803#98803'
+                version: '20 Sep 2021, Mon, 21:15'

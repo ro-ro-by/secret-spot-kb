@@ -1,0 +1,16 @@
+id: 'sight:fgb:75425'
+title: Миргородский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '75425'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75425#75425'
+                version: '27 Jan 2021, Wed, 7:47'

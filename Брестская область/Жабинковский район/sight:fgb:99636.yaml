@@ -1,0 +1,16 @@
+id: 'sight:fgb:99636'
+title: 'Парк Глубокое'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Жабинковский район'
+meta:
+    fgb:
+        post_id: '99636'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99636#99636'
+                version: '15 Feb 2022, Tue, 23:12'

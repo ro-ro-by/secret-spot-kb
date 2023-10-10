@@ -1,0 +1,16 @@
+id: 'sight:fgb:101789'
+title: 'Бювет на Мицкевича'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '101789'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101789#101789'
+                version: '15 Nov 2022, Tue, 0:08'

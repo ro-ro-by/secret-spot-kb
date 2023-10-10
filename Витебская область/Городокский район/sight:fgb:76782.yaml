@@ -1,0 +1,16 @@
+id: 'sight:fgb:76782'
+title: 'Родник Исток'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Городокский район'
+meta:
+    fgb:
+        post_id: '76782'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76782#76782'
+                version: '04 Aug 2021, Wed, 20:11'

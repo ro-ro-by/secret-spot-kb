@@ -1,0 +1,16 @@
+id: 'sight:fgb:75137'
+title: 'Эталонное насаждение сосны'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Хотимский район'
+meta:
+    fgb:
+        post_id: '75137'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75137#75137'
+                version: '10 Nov 2022, Thu, 23:34'

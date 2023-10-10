@@ -1,0 +1,16 @@
+id: 'sight:fgb:75144'
+title: 'Святое озеро'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Хотимский район'
+meta:
+    fgb:
+        post_id: '75144'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75144#75144'
+                version: '20 Oct 2021, Wed, 12:40'

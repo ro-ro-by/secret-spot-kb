@@ -1,0 +1,16 @@
+id: 'sight:fgb:95476'
+title: 'Беловежская пуща'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Свислочский район'
+meta:
+    fgb:
+        post_id: '95476'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95476#95476'
+                version: '05 Mar 2020, Thu, 14:26'

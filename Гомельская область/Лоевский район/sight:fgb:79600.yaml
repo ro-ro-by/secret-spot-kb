@@ -1,0 +1,16 @@
+id: 'sight:fgb:79600'
+title: Фонтан
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лоевский район'
+meta:
+    fgb:
+        post_id: '79600'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=79600#79600'
+                version: '28 Jul 2020, Tue, 23:25'

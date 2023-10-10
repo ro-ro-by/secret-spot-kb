@@ -1,0 +1,16 @@
+id: 'sight:fgb:100107'
+title: 'Валун з прыроднай выемкай'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Лидский район'
+meta:
+    fgb:
+        post_id: '100107'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100107#100107'
+                version: '17 May 2022, Tue, 9:49'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:100016'
+title: 'Вялікі камень'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Кобринский район'
+meta:
+    fgb:
+        post_id: '100016'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100016#100016'
+                version: '14 May 2022, Sat, 8:10'

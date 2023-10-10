@@ -1,0 +1,16 @@
+id: 'sight:fgb:75655'
+title: 'Парк Грозов'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Копыльский район'
+meta:
+    fgb:
+        post_id: '75655'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75655#75655'
+                version: '08 Apr 2021, Thu, 22:34'

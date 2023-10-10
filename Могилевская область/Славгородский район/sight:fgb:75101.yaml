@@ -1,0 +1,16 @@
+id: 'sight:fgb:75101'
+title: 'Источник Голубая криница (Синий колодец)'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75101'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75101#75101'
+                version: '06 Dec 2022, Tue, 20:26'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:100115'
+title: 'Чырвоны камень'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '100115'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100115#100115'
+                version: '17 May 2022, Tue, 11:37'

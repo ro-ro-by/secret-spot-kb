@@ -1,0 +1,16 @@
+id: 'sight:fgb:100816'
+title: 'След Святога'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '100816'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100816#100816'
+                version: '29 Jul 2022, Fri, 17:50'

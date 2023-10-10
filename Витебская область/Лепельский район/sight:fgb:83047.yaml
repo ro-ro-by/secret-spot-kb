@@ -1,0 +1,16 @@
+id: 'sight:fgb:83047'
+title: 'Макаров родник'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '83047'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83047#83047'
+                version: '30 Aug 2021, Mon, 21:11'

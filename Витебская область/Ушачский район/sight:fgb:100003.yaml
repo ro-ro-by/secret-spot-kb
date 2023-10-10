@@ -1,0 +1,16 @@
+id: 'sight:fgb:100003'
+title: 'Камень Воласень'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Ушачский район'
+meta:
+    fgb:
+        post_id: '100003'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100003#100003'
+                version: '13 May 2022, Fri, 13:59'

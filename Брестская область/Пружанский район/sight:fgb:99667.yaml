@@ -1,0 +1,16 @@
+id: 'sight:fgb:99667'
+title: 'Парк Чахецкий'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Пружанский район'
+meta:
+    fgb:
+        post_id: '99667'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99667#99667'
+                version: '16 Feb 2022, Wed, 0:05'

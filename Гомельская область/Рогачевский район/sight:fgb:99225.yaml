@@ -1,0 +1,16 @@
+id: 'sight:fgb:99225'
+title: 'Родник 2'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
+meta:
+    fgb:
+        post_id: '99225'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99225#99225'
+                version: '15 Nov 2021, Mon, 12:55'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:83993'
+title: 'Водолей  (Больничный)'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '83993'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83993#83993'
+                version: '17 Nov 2021, Wed, 15:59'

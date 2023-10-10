@@ -1,0 +1,16 @@
+id: 'sight:fgb:75453'
+title: 'На Восточной'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '75453'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75453#75453'
+                version: '13 Nov 2021, Sat, 13:25'

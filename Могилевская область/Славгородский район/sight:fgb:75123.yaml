@@ -1,0 +1,16 @@
+id: 'sight:fgb:75123'
+title: 'Петро-Павловская криница'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75123'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75123#75123'
+                version: '06 Feb 2021, Sat, 20:13'

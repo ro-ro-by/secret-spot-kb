@@ -1,0 +1,16 @@
+id: 'sight:fgb:88110'
+title: 'Святой родник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
+meta:
+    fgb:
+        post_id: '88110'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88110#88110'
+                version: '15 Nov 2021, Mon, 12:47'

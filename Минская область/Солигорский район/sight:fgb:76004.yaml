@@ -1,0 +1,16 @@
+id: 'sight:fgb:76004'
+title: 'Красное озеро'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Солигорский район'
+meta:
+    fgb:
+        post_id: '76004'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76004#76004'
+                version: '10 Sep 2021, Fri, 15:10'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77005'
+title: Купа
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Оршанский район'
+meta:
+    fgb:
+        post_id: '77005'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77005#77005'
+                version: '01 Oct 2021, Fri, 10:15'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:92221'
+title: Хатки-3
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '92221'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=92221#92221'
+                version: '03 Jun 2020, Wed, 0:20'

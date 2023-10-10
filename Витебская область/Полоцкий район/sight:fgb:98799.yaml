@@ -1,0 +1,16 @@
+id: 'sight:fgb:98799'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '98799'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98799#98799'
+                version: '20 Sep 2021, Mon, 21:04'

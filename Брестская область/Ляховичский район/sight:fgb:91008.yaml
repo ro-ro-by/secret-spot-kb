@@ -1,0 +1,16 @@
+id: 'sight:fgb:91008'
+title: Пуща-2
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ляховичский район'
+meta:
+    fgb:
+        post_id: '91008'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=91008#91008'
+                version: '15 Nov 2020, Sun, 12:13'

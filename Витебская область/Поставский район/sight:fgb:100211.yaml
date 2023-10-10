@@ -1,0 +1,16 @@
+id: 'sight:fgb:100211'
+title: Камень-следавік
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '100211'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100211#100211'
+                version: '20 May 2022, Fri, 13:32'

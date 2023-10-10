@@ -1,0 +1,16 @@
+id: 'sight:fgb:75115'
+title: 'Синий колодец'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75115'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75115#75115'
+                version: '05 Feb 2021, Fri, 22:33'

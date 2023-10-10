@@ -1,0 +1,16 @@
+id: 'sight:fgb:91033'
+title: Юзефовка
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '91033'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=91033#91033'
+                version: '03 Dec 2021, Fri, 10:09'

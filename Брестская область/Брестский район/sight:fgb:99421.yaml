@@ -1,0 +1,16 @@
+id: 'sight:fgb:99421'
+title: Бювет
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '99421'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99421#99421'
+                version: '08 Jan 2022, Sat, 20:17'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99422'
+title: Бювет
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Бобруйский район'
+meta:
+    fgb:
+        post_id: '99422'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99422#99422'
+                version: '08 Jan 2022, Sat, 20:27'

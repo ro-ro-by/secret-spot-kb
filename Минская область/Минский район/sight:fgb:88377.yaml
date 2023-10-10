@@ -1,0 +1,16 @@
+id: 'sight:fgb:88377'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '88377'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88377#88377'
+                version: '26 Jan 2021, Tue, 13:56'

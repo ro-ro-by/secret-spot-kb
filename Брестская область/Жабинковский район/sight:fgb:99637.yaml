@@ -1,0 +1,16 @@
+id: 'sight:fgb:99637'
+title: 'Парк Петровичи'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Жабинковский район'
+meta:
+    fgb:
+        post_id: '99637'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99637#99637'
+                version: '15 Feb 2022, Tue, 23:13'

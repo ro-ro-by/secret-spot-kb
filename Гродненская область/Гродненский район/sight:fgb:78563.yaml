@@ -1,0 +1,16 @@
+id: 'sight:fgb:78563'
+title: Литовский-3
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '78563'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78563#78563'
+                version: '26 Jul 2020, Sun, 22:33'

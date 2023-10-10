@@ -1,0 +1,16 @@
+id: 'sight:fgb:83966'
+title: Клинники
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Докшицкий район'
+meta:
+    fgb:
+        post_id: '83966'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83966#83966'
+                version: '04 Aug 2021, Wed, 22:38'

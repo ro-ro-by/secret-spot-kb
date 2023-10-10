@@ -1,0 +1,16 @@
+id: 'sight:fgb:75010'
+title: 'Мяфедова криница'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '75010'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75010#75010'
+                version: '05 Oct 2021, Tue, 13:59'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75703'
+title: Московский
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '75703'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75703#75703'
+                version: '06 May 2021, Thu, 8:32'

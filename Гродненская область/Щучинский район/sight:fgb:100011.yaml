@@ -1,0 +1,16 @@
+id: 'sight:fgb:100011'
+title: 'Акамянелая пара'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '100011'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100011#100011'
+                version: '13 May 2022, Fri, 15:18'

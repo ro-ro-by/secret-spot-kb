@@ -1,0 +1,16 @@
+id: 'sight:fgb:76716'
+title: Водозабор-2
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '76716'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76716#76716'
+                version: '22 Jan 2021, Fri, 15:30'

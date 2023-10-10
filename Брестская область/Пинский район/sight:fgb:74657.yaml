@@ -1,0 +1,16 @@
+id: 'sight:fgb:74657'
+title: Родник
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Пинский район'
+meta:
+    fgb:
+        post_id: '74657'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74657#74657'
+                version: '09 Apr 2021, Fri, 13:31'

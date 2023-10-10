@@ -1,0 +1,16 @@
+id: 'sight:fgb:77255'
+title: 'Парк Лишки'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '77255'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77255#77255'
+                version: '08 Nov 2022, Tue, 20:35'

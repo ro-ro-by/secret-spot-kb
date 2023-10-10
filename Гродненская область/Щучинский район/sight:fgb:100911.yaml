@@ -1,0 +1,16 @@
+id: 'sight:fgb:100911'
+title: 'Камень кахання'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '100911'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100911#100911'
+                version: '01 Aug 2022, Mon, 11:41'

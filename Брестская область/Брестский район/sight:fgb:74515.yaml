@@ -1,0 +1,16 @@
+id: 'sight:fgb:74515'
+title: 'Прибужское Полесье'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '74515'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74515#74515'
+                version: '20 Jun 2020, Sat, 22:11'

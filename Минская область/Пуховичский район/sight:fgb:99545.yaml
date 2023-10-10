@@ -1,0 +1,16 @@
+id: 'sight:fgb:99545'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '99545'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99545#99545'
+                version: '23 Jan 2022, Sun, 0:52'

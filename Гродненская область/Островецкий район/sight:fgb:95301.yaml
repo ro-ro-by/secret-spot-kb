@@ -1,0 +1,16 @@
+id: 'sight:fgb:95301'
+title: 'Белый мох'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Островецкий район'
+meta:
+    fgb:
+        post_id: '95301'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95301#95301'
+                version: '04 Nov 2021, Thu, 9:50'

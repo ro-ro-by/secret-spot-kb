@@ -1,0 +1,16 @@
+id: 'sight:fgb:77539'
+title: 'Котловины Гумнище и Подберезье'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Мостовский район'
+meta:
+    fgb:
+        post_id: '77539'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77539#77539'
+                version: '15 Feb 2021, Mon, 23:55'

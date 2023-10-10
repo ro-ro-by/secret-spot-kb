@@ -1,0 +1,16 @@
+id: 'sight:fgb:76722'
+title: 'Родник Мосарский'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '76722'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76722#76722'
+                version: '24 Jan 2021, Sun, 21:52'

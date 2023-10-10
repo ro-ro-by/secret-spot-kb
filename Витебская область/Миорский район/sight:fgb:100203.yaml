@@ -1,0 +1,16 @@
+id: 'sight:fgb:100203'
+title: 'Камень са знакам паўсферы'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Миорский район'
+meta:
+    fgb:
+        post_id: '100203'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100203#100203'
+                version: '17 Aug 2022, Wed, 22:51'

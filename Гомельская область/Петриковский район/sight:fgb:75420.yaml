@@ -1,0 +1,16 @@
+id: 'sight:fgb:75420'
+title: Комаровичский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '75420'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75420#75420'
+                version: '27 Jan 2021, Wed, 12:29'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75261'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ельский район'
+meta:
+    fgb:
+        post_id: '75261'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75261#75261'
+                version: '22 Jan 2021, Fri, 12:11'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75206'
+title: 'Парк Березовка'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75206'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75206#75206'
+                version: '16 Oct 2021, Sat, 13:45'

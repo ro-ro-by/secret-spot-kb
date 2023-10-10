@@ -1,0 +1,16 @@
+id: 'sight:fgb:77343'
+title: Солы-1
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77343'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77343#77343'
+                version: '03 Dec 2021, Fri, 9:18'

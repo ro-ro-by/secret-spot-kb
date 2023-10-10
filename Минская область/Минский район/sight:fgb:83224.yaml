@@ -1,0 +1,16 @@
+id: 'sight:fgb:83224'
+title: Лошица
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '83224'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83224#83224'
+                version: '26 Jan 2021, Tue, 13:13'

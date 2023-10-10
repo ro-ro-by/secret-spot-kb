@@ -1,0 +1,16 @@
+id: 'sight:fgb:98002'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Шумилинский район'
+meta:
+    fgb:
+        post_id: '98002'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98002#98002'
+                version: '13 May 2021, Thu, 23:28'

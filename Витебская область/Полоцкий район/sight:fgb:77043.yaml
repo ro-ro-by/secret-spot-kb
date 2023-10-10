@@ -1,0 +1,16 @@
+id: 'sight:fgb:77043'
+title: 'В санатории'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '77043'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77043#77043'
+                version: '20 Sep 2021, Mon, 20:38'

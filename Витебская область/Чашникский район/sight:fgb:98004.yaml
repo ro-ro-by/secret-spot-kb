@@ -1,0 +1,16 @@
+id: 'sight:fgb:98004'
+title: 'Парк Иванск'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Чашникский район'
+meta:
+    fgb:
+        post_id: '98004'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98004#98004'
+                version: '13 May 2021, Thu, 23:51'

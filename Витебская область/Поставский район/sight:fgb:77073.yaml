@@ -1,0 +1,16 @@
+id: 'sight:fgb:77073'
+title: 'Большой камень Комайский'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '77073'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77073#77073'
+                version: '20 Aug 2021, Fri, 12:33'

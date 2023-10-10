@@ -1,0 +1,16 @@
+id: 'sight:fgb:77030'
+title: 'Камень с надписью'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '77030'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77030#77030'
+                version: '12 May 2022, Thu, 12:59'

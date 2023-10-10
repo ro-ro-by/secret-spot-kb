@@ -1,0 +1,16 @@
+id: 'sight:fgb:92291'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Хотимский район'
+meta:
+    fgb:
+        post_id: '92291'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=92291#92291'
+                version: '10 Nov 2021, Wed, 16:02'

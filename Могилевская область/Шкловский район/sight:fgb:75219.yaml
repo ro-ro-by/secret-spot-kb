@@ -1,0 +1,16 @@
+id: 'sight:fgb:75219'
+title: Студенец
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75219'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75219#75219'
+                version: '15 Nov 2021, Mon, 13:52'

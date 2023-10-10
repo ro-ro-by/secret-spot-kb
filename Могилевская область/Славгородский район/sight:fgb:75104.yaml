@@ -1,0 +1,16 @@
+id: 'sight:fgb:75104'
+title: 'Парк Славгород'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75104'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75104#75104'
+                version: '06 Feb 2021, Sat, 19:45'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:98782'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '98782'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98782#98782'
+                version: '20 Sep 2021, Mon, 6:24'

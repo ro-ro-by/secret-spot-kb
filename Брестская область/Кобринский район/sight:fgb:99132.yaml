@@ -1,0 +1,16 @@
+id: 'sight:fgb:99132'
+title: 'Каменный могильник'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Кобринский район'
+meta:
+    fgb:
+        post_id: '99132'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99132#99132'
+                version: '30 Oct 2021, Sat, 21:22'

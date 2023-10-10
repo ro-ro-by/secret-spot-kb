@@ -1,0 +1,16 @@
+id: 'sight:fgb:101124'
+title: 'Скарбавы камень'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Лидский район'
+meta:
+    fgb:
+        post_id: '101124'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101124#101124'
+                version: '21 Aug 2022, Sun, 22:26'

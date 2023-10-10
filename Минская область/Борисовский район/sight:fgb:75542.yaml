@@ -1,0 +1,16 @@
+id: 'sight:fgb:75542'
+title: Здань-Камень
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '75542'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75542#75542'
+                version: '04 Jun 2021, Fri, 16:34'

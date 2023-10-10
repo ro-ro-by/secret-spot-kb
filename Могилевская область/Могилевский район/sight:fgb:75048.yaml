@@ -1,0 +1,16 @@
+id: 'sight:fgb:75048'
+title: 'Дашковский парк'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '75048'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75048#75048'
+                version: '11 Nov 2022, Fri, 1:04'

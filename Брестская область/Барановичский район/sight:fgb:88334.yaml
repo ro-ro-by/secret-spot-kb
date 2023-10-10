@@ -1,0 +1,16 @@
+id: 'sight:fgb:88334'
+title: 'На Едунова'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '88334'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88334#88334'
+                version: '04 Apr 2022, Mon, 14:21'

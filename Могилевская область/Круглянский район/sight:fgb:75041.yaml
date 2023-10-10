@@ -1,0 +1,16 @@
+id: 'sight:fgb:75041'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75041'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75041#75041'
+                version: '10 Jan 2016, Sun, 15:56'

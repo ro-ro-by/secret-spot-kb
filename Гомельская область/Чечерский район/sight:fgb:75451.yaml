@@ -1,0 +1,16 @@
+id: 'sight:fgb:75451'
+title: 'На Лесной'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '75451'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75451#75451'
+                version: '13 Nov 2021, Sat, 13:22'

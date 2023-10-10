@@ -1,0 +1,16 @@
+id: 'sight:fgb:75418'
+title: 'Пойма Птичи'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '75418'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75418#75418'
+                version: '27 Jan 2021, Wed, 12:12'

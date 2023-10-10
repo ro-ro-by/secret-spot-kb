@@ -1,0 +1,16 @@
+id: 'sight:fgb:74799'
+title: Пан-ключ
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Дрибинский район'
+meta:
+    fgb:
+        post_id: '74799'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74799#74799'
+                version: '10 Nov 2021, Wed, 11:52'

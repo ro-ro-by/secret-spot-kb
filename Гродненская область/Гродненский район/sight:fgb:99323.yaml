@@ -1,0 +1,16 @@
+id: 'sight:fgb:99323'
+title: 'Бовина криничка'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99323'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99323#99323'
+                version: '03 Dec 2021, Fri, 15:22'

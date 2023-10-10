@@ -1,0 +1,16 @@
+id: 'sight:fgb:90053'
+title: 'На Калинина'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '90053'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90053#90053'
+                version: '05 Oct 2021, Tue, 19:55'

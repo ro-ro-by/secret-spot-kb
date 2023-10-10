@@ -1,0 +1,16 @@
+id: 'sight:fgb:77584'
+title: 'Конгломерат Запольский-2'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '77584'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77584#77584'
+                version: '30 Oct 2021, Sat, 22:06'

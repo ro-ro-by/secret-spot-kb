@@ -1,0 +1,16 @@
+id: 'sight:fgb:90051'
+title: 'Прилуки-1 (у моста)'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '90051'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90051#90051'
+                version: '04 Apr 2022, Mon, 13:03'

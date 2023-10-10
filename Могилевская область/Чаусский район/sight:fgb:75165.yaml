@@ -1,0 +1,16 @@
+id: 'sight:fgb:75165'
+title: Заказник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '75165'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75165#75165'
+                version: '18 Oct 2021, Mon, 12:23'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99024'
+title: 'Географические культуры ели'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чериковский район'
+meta:
+    fgb:
+        post_id: '99024'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99024#99024'
+                version: '16 Oct 2021, Sat, 8:16'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:96612'
+title: 'Парк Регинов'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ивацевичский район'
+meta:
+    fgb:
+        post_id: '96612'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96612#96612'
+                version: '26 Aug 2020, Wed, 20:59'

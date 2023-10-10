@@ -1,0 +1,16 @@
+id: 'sight:fgb:75788'
+title: 'Пойма реки Сож'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '75788'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75788#75788'
+                version: '16 Oct 2021, Sat, 7:34'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:98575'
+title: 'Парк Фатынь'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '98575'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98575#98575'
+                version: '30 Aug 2021, Mon, 21:33'

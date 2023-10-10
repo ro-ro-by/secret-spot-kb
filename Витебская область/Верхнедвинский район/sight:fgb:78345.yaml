@@ -1,0 +1,16 @@
+id: 'sight:fgb:78345'
+title: Турский
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Верхнедвинский район'
+meta:
+    fgb:
+        post_id: '78345'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78345#78345'
+                version: '30 Jun 2020, Tue, 21:20'

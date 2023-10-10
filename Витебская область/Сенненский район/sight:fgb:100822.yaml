@@ -1,0 +1,16 @@
+id: 'sight:fgb:100822'
+title: 'След дзіцяці'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Сенненский район'
+meta:
+    fgb:
+        post_id: '100822'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100822#100822'
+                version: '29 Jul 2022, Fri, 18:16'

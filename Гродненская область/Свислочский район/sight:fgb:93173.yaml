@@ -1,0 +1,16 @@
+id: 'sight:fgb:93173'
+title: 'Исток Свинки'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Свислочский район'
+meta:
+    fgb:
+        post_id: '93173'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=93173#93173'
+                version: '06 Oct 2021, Wed, 19:14'

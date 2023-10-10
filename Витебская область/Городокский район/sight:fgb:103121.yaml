@@ -1,0 +1,16 @@
+id: 'sight:fgb:103121'
+title: Буда
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Городокский район'
+meta:
+    fgb:
+        post_id: '103121'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103121#103121'
+                version: '08 May 2023, Mon, 10:29'

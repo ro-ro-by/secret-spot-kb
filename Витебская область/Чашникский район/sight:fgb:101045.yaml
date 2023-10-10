@@ -1,0 +1,16 @@
+id: 'sight:fgb:101045'
+title: 'Камень са знакам'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Чашникский район'
+meta:
+    fgb:
+        post_id: '101045'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101045#101045'
+                version: '17 Aug 2022, Wed, 22:04'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99133'
+title: 'Камень с изображениями и надписями'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Кобринский район'
+meta:
+    fgb:
+        post_id: '99133'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99133#99133'
+                version: '30 Oct 2021, Sat, 21:30'

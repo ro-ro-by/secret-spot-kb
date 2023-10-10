@@ -1,0 +1,16 @@
+id: 'sight:fgb:95498'
+title: Выгонощанское
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ляховичский район'
+meta:
+    fgb:
+        post_id: '95498'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95498#95498'
+                version: '05 Mar 2020, Thu, 21:00'

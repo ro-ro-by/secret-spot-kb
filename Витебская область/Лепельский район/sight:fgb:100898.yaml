@@ -1,0 +1,16 @@
+id: 'sight:fgb:100898'
+title: Камень-стол
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '100898'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100898#100898'
+                version: '01 Aug 2022, Mon, 10:12'

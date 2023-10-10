@@ -1,0 +1,16 @@
+id: 'sight:fgb:75922'
+title: 'Парк Будслав'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Мядельский район'
+meta:
+    fgb:
+        post_id: '75922'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75922#75922'
+                version: '08 Nov 2022, Tue, 23:38'

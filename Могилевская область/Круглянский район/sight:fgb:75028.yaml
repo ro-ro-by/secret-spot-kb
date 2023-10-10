@@ -1,0 +1,16 @@
+id: 'sight:fgb:75028'
+title: Щиток
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75028'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75028#75028'
+                version: '18 Sep 2021, Sat, 13:45'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77324'
+title: 'Гродненские форты'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77324'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77324#77324'
+                version: '03 Aug 2020, Mon, 23:19'

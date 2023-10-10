@@ -1,0 +1,16 @@
+id: 'sight:fgb:99521'
+title: 'Надпись из деревьев "СССР ПОЛЕТ ЛЕНИНУ 100"'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Дзержинский район'
+meta:
+    fgb:
+        post_id: '99521'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99521#99521'
+                version: '22 Jan 2022, Sat, 12:46'

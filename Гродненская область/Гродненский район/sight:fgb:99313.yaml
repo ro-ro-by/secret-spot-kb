@@ -1,0 +1,16 @@
+id: 'sight:fgb:99313'
+title: Горница
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99313'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99313#99313'
+                version: '03 Dec 2021, Fri, 15:16'

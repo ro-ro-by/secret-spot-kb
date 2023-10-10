@@ -1,0 +1,16 @@
+id: 'sight:fgb:96111'
+title: Маслянки
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '96111'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96111#96111'
+                version: '20 Jun 2020, Sat, 0:40'

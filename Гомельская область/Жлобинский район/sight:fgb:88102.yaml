@@ -1,0 +1,16 @@
+id: 'sight:fgb:88102'
+title: Истобки-1
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Жлобинский район'
+meta:
+    fgb:
+        post_id: '88102'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88102#88102'
+                version: '27 Jul 2021, Tue, 19:05'

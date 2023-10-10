@@ -1,0 +1,16 @@
+id: 'sight:fgb:75064'
+title: Кипячики
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '75064'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75064#75064'
+                version: '06 Oct 2021, Wed, 8:48'

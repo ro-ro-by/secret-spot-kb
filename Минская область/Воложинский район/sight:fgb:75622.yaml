@@ -1,0 +1,16 @@
+id: 'sight:fgb:75622'
+title: 'Парк Чеховщина'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Воложинский район'
+meta:
+    fgb:
+        post_id: '75622'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75622#75622'
+                version: '27 Oct 2021, Wed, 15:42'

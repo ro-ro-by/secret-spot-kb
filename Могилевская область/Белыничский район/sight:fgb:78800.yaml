@@ -1,0 +1,16 @@
+id: 'sight:fgb:78800'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Белыничский район'
+meta:
+    fgb:
+        post_id: '78800'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78800#78800'
+                version: '28 Feb 2016, Sun, 18:37'

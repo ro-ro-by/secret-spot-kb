@@ -1,0 +1,16 @@
+id: 'sight:fgb:75741'
+title: 'Логойский парк'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Логойский район'
+meta:
+    fgb:
+        post_id: '75741'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75741#75741'
+                version: '09 Nov 2022, Wed, 1:03'

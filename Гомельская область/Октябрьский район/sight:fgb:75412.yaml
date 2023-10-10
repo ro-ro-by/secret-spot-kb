@@ -1,0 +1,16 @@
+id: 'sight:fgb:75412'
+title: Октябрьский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Октябрьский район'
+meta:
+    fgb:
+        post_id: '75412'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75412#75412'
+                version: '08 Nov 2020, Sun, 12:03'

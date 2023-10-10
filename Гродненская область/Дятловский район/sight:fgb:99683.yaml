@@ -1,0 +1,16 @@
+id: 'sight:fgb:99683'
+title: 'Парк Мировщина'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Дятловский район'
+meta:
+    fgb:
+        post_id: '99683'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99683#99683'
+                version: '08 Nov 2022, Tue, 21:31'

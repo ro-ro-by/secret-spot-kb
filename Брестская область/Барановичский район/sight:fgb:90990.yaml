@@ -1,0 +1,16 @@
+id: 'sight:fgb:90990'
+title: 'Родник под дамбой'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '90990'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90990#90990'
+                version: '04 Apr 2022, Mon, 13:18'

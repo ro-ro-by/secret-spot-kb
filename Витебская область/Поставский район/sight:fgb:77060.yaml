@@ -1,0 +1,16 @@
+id: 'sight:fgb:77060'
+title: 'Холм Гора Лысая'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '77060'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77060#77060'
+                version: '12 May 2022, Thu, 7:05'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99657'
+title: 'Парк Флорианово'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ляховичский район'
+meta:
+    fgb:
+        post_id: '99657'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99657#99657'
+                version: '15 Feb 2022, Tue, 23:46'

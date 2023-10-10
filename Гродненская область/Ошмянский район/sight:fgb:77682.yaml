@@ -1,0 +1,16 @@
+id: 'sight:fgb:77682'
+title: 'В лесопарке'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ошмянский район'
+meta:
+    fgb:
+        post_id: '77682'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77682#77682'
+                version: '23 Nov 2021, Tue, 10:19'

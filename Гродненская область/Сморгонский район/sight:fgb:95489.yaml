@@ -1,0 +1,16 @@
+id: 'sight:fgb:95489'
+title: 'Исток Шляхтянки-2'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Сморгонский район'
+meta:
+    fgb:
+        post_id: '95489'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95489#95489'
+                version: '24 Nov 2021, Wed, 16:00'

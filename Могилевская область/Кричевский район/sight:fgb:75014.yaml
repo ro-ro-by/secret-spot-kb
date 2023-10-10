@@ -1,0 +1,16 @@
+id: 'sight:fgb:75014'
+title: Лебедев
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Кричевский район'
+meta:
+    fgb:
+        post_id: '75014'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75014#75014'
+                version: '20 Sep 2021, Mon, 6:05'

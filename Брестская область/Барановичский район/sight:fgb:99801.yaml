@@ -1,0 +1,16 @@
+id: 'sight:fgb:99801'
+title: Войно-Ясенецких
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '99801'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99801#99801'
+                version: '04 Apr 2022, Mon, 14:40'

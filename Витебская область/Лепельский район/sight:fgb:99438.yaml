@@ -1,0 +1,16 @@
+id: 'sight:fgb:99438'
+title: Постойка
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Лепельский район'
+meta:
+    fgb:
+        post_id: '99438'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99438#99438'
+                version: '08 Jan 2022, Sat, 21:32'

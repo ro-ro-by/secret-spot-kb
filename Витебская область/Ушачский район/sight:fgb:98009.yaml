@@ -1,0 +1,16 @@
+id: 'sight:fgb:98009'
+title: Логи
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Ушачский район'
+meta:
+    fgb:
+        post_id: '98009'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98009#98009'
+                version: '14 May 2021, Fri, 1:05'

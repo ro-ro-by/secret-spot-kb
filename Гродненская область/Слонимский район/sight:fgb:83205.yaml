@@ -1,0 +1,16 @@
+id: 'sight:fgb:83205'
+title: 'Святой колодец'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Слонимский район'
+meta:
+    fgb:
+        post_id: '83205'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83205#83205'
+                version: '22 Nov 2021, Mon, 16:36'

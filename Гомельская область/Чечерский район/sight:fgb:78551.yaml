@@ -1,0 +1,16 @@
+id: 'sight:fgb:78551'
+title: 'На Кооперативной'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '78551'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78551#78551'
+                version: '19 Nov 2021, Fri, 15:50'

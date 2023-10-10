@@ -1,0 +1,16 @@
+id: 'sight:fgb:77330'
+title: 'Низшее место Беларуси'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77330'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77330#77330'
+                version: '05 Aug 2020, Wed, 21:33'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:83237'
+title: ГРЭС
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Смолевичский район'
+meta:
+    fgb:
+        post_id: '83237'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83237#83237'
+                version: '10 Sep 2021, Fri, 16:30'

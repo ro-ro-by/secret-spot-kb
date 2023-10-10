@@ -1,0 +1,16 @@
+id: 'sight:fgb:101768'
+title: 'Родник Усадебный'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '101768'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101768#101768'
+                version: '12 Nov 2022, Sat, 23:30'

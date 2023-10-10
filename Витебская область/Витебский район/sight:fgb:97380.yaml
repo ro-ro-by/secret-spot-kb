@@ -1,0 +1,16 @@
+id: 'sight:fgb:97380'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Витебский район'
+meta:
+    fgb:
+        post_id: '97380'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97380#97380'
+                version: '27 Jan 2021, Wed, 16:59'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:90987'
+title: 'Бювет на Брестской'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '90987'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90987#90987'
+                version: '12 Oct 2020, Mon, 10:19'

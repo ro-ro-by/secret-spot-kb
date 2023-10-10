@@ -1,0 +1,16 @@
+id: 'sight:fgb:75422'
+title: 'Парк Шкляревского'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '75422'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75422#75422'
+                version: '03 Nov 2022, Thu, 14:28'

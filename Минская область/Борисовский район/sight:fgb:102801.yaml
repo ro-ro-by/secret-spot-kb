@@ -1,0 +1,16 @@
+id: 'sight:fgb:102801'
+title: "Вітагор'е"
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '102801'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=102801#102801'
+                version: '29 Apr 2023, Sat, 13:42'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:76819'
+title: 'Территория карьера льнозавода'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Дубровенский район'
+meta:
+    fgb:
+        post_id: '76819'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76819#76819'
+                version: '15 May 2021, Sat, 10:38'

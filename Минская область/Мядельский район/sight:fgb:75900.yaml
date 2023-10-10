@@ -1,0 +1,16 @@
+id: 'sight:fgb:75900'
+title: 'Валун Большой камень гулийский'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Мядельский район'
+meta:
+    fgb:
+        post_id: '75900'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75900#75900'
+                version: '30 Oct 2021, Sat, 20:52'

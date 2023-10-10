@@ -1,0 +1,16 @@
+id: 'sight:fgb:98945'
+title: 'Святой Приднепровский'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
+meta:
+    fgb:
+        post_id: '98945'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98945#98945'
+                version: '03 Dec 2021, Fri, 16:16'

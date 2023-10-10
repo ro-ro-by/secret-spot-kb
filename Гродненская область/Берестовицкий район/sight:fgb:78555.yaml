@@ -1,0 +1,16 @@
+id: 'sight:fgb:78555'
+title: 'На Лесной'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '78555'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78555#78555'
+                version: '19 Feb 2020, Wed, 13:30'

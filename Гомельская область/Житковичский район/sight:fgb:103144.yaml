@@ -1,0 +1,16 @@
+id: 'sight:fgb:103144'
+title: 'Бараняя гара'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Житковичский район'
+meta:
+    fgb:
+        post_id: '103144'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103144#103144'
+                version: '08 May 2023, Mon, 11:11'

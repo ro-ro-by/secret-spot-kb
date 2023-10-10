@@ -1,0 +1,16 @@
+id: 'sight:fgb:75234'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Буда-Кошелевский район'
+meta:
+    fgb:
+        post_id: '75234'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75234#75234'
+                version: '27 Jan 2021, Wed, 14:08'

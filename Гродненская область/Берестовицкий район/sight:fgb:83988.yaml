@@ -1,0 +1,16 @@
+id: 'sight:fgb:83988'
+title: 'У чварака'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '83988'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83988#83988'
+                version: '19 Feb 2020, Wed, 13:31'

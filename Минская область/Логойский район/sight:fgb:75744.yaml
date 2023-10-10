@@ -1,0 +1,16 @@
+id: 'sight:fgb:75744'
+title: 'Логойский родник Святого Николая'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Логойский район'
+meta:
+    fgb:
+        post_id: '75744'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75744#75744'
+                version: '30 Sep 2021, Thu, 12:41'

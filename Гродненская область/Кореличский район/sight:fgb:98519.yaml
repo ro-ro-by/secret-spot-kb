@@ -1,0 +1,16 @@
+id: 'sight:fgb:98519'
+title: Бухово
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Кореличский район'
+meta:
+    fgb:
+        post_id: '98519'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98519#98519'
+                version: '25 Aug 2021, Wed, 18:11'

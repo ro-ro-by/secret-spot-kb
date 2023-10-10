@@ -1,0 +1,16 @@
+id: 'sight:fgb:96469'
+title: 'Парк Туча'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Клецкий район'
+meta:
+    fgb:
+        post_id: '96469'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96469#96469'
+                version: '20 Aug 2021, Fri, 17:30'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99331'
+title: Зроик
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99331'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99331#99331'
+                version: '03 Dec 2021, Fri, 15:27'

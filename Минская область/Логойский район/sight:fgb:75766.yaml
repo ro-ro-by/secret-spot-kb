@@ -1,0 +1,16 @@
+id: 'sight:fgb:75766'
+title: 'Святого Юрия'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Логойский район'
+meta:
+    fgb:
+        post_id: '75766'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75766#75766'
+                version: '30 Sep 2021, Thu, 15:24'

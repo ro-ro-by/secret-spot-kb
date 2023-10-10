@@ -1,0 +1,16 @@
+id: 'sight:fgb:78125'
+title: Родник
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Лунинецкий район'
+meta:
+    fgb:
+        post_id: '78125'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78125#78125'
+                version: '28 Jul 2020, Tue, 21:37'

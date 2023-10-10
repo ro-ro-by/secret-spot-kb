@@ -1,0 +1,16 @@
+id: 'sight:fgb:95454'
+title: Ельня
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Миорский район'
+meta:
+    fgb:
+        post_id: '95454'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95454#95454'
+                version: '30 Apr 2021, Fri, 19:06'

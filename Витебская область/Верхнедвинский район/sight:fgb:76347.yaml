@@ -1,0 +1,16 @@
+id: 'sight:fgb:76347'
+title: 'Городской парк'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Верхнедвинский район'
+meta:
+    fgb:
+        post_id: '76347'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76347#76347'
+                version: '23 Sep 2022, Fri, 0:05'

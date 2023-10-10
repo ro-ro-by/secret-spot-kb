@@ -1,0 +1,16 @@
+id: 'sight:fgb:75563'
+title: 'Парк Луковец'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '75563'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75563#75563'
+                version: '09 Nov 2022, Wed, 0:24'

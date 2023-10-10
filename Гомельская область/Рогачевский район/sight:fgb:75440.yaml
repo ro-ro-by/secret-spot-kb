@@ -1,0 +1,16 @@
+id: 'sight:fgb:75440'
+title: 3-Р
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
+meta:
+    fgb:
+        post_id: '75440'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75440#75440'
+                version: '15 Nov 2021, Mon, 10:32'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:104026'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '104026'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104026#104026'
+                version: '20 Jun 2023, Tue, 20:21'

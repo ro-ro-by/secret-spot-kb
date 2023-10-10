@@ -1,0 +1,16 @@
+id: 'sight:fgb:77200'
+title: Кропильницы
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Шарковщинский район'
+meta:
+    fgb:
+        post_id: '77200'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77200#77200'
+                version: '13 May 2021, Thu, 15:41'

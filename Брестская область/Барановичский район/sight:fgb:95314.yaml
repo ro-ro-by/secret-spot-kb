@@ -1,0 +1,16 @@
+id: 'sight:fgb:95314'
+title: 'Родник Козловичи-2'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '95314'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95314#95314'
+                version: '03 Jun 2020, Wed, 0:22'

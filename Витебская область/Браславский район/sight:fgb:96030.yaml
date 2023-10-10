@@ -1,0 +1,16 @@
+id: 'sight:fgb:96030'
+title: 'Парк Опса'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Браславский район'
+meta:
+    fgb:
+        post_id: '96030'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96030#96030'
+                version: '19 Jun 2020, Fri, 13:22'

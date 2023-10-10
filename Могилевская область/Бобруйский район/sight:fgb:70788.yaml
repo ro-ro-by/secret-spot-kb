@@ -1,0 +1,16 @@
+id: 'sight:fgb:70788'
+title: Черница
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Бобруйский район'
+meta:
+    fgb:
+        post_id: '70788'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=70788#70788'
+                version: '03 Jul 2020, Fri, 23:08'

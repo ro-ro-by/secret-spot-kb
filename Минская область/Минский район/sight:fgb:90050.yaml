@@ -1,0 +1,16 @@
+id: 'sight:fgb:90050'
+title: 'Прилуки-2 (около бровара)'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '90050'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90050#90050'
+                version: '26 Jan 2021, Tue, 14:27'

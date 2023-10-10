@@ -1,0 +1,16 @@
+id: 'sight:fgb:76169'
+title: 'Родник Лазенки (Лазёнки, Сероводородный, Смердонские воды, Видзовский)'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Браславский район'
+meta:
+    fgb:
+        post_id: '76169'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76169#76169'
+                version: '19 Jun 2020, Fri, 13:07'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:98789'
+title: Здоровец-3
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Мстиславский район'
+meta:
+    fgb:
+        post_id: '98789'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98789#98789'
+                version: '20 Sep 2021, Mon, 6:36'

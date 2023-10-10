@@ -1,0 +1,16 @@
+id: 'sight:fgb:100625'
+title: 'Родник Кирпичный'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Любанский район'
+meta:
+    fgb:
+        post_id: '100625'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100625#100625'
+                version: '11 Jul 2022, Mon, 23:50'

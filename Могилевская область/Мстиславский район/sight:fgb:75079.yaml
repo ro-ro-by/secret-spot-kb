@@ -1,0 +1,16 @@
+id: 'sight:fgb:75079'
+title: 'Святой источник Пустынский'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Мстиславский район'
+meta:
+    fgb:
+        post_id: '75079'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75079#75079'
+                version: '06 Oct 2021, Wed, 12:42'

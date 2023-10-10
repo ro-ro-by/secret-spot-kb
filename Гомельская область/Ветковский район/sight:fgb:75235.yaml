@@ -1,0 +1,16 @@
+id: 'sight:fgb:75235'
+title: 'Родник Матюшин'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '75235'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75235#75235'
+                version: '27 Jan 2021, Wed, 15:52'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:100002'
+title: Камень-кадрыль
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Березинский район'
+meta:
+    fgb:
+        post_id: '100002'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100002#100002'
+                version: '01 Aug 2022, Mon, 11:39'

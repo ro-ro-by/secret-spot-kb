@@ -1,0 +1,16 @@
+id: 'sight:fgb:78867'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Кричевский район'
+meta:
+    fgb:
+        post_id: '78867'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78867#78867'
+                version: '05 Oct 2021, Tue, 20:40'

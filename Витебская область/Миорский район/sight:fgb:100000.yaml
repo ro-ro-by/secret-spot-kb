@@ -1,0 +1,16 @@
+id: 'sight:fgb:100000'
+title: Пярун-камень
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Миорский район'
+meta:
+    fgb:
+        post_id: '100000'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100000#100000'
+                version: '13 May 2022, Fri, 8:40'

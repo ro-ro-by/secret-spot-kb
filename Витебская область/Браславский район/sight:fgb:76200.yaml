@@ -1,0 +1,16 @@
+id: 'sight:fgb:76200'
+title: Маковея
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Браславский район'
+meta:
+    fgb:
+        post_id: '76200'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76200#76200'
+                version: '03 Jul 2020, Fri, 23:52'

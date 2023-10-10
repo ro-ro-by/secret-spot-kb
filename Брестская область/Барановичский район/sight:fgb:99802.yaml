@@ -1,0 +1,16 @@
+id: 'sight:fgb:99802'
+title: 'Исток Коросинки'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '99802'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99802#99802'
+                version: '04 Apr 2022, Mon, 14:43'

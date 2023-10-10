@@ -1,0 +1,16 @@
+id: 'sight:fgb:98935'
+title: 'На Парковой'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Кормянский район'
+meta:
+    fgb:
+        post_id: '98935'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98935#98935'
+                version: '18 Nov 2021, Thu, 16:20'

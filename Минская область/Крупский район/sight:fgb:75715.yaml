@@ -1,0 +1,16 @@
+id: 'sight:fgb:75715'
+title: Водяной
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '75715'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75715#75715'
+                version: '23 Jan 2022, Sun, 0:28'

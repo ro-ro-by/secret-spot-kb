@@ -1,0 +1,16 @@
+id: 'sight:fgb:95456'
+title: Козьянский
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '95456'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95456#95456'
+                version: '13 May 2021, Thu, 23:38'

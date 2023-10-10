@@ -1,0 +1,16 @@
+id: 'sight:fgb:75606'
+title: 'Синяя гора'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Воложинский район'
+meta:
+    fgb:
+        post_id: '75606'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75606#75606'
+                version: '27 Oct 2021, Wed, 16:03'

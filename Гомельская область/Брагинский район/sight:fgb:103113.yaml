@@ -1,0 +1,16 @@
+id: 'sight:fgb:103113'
+title: 'Красная гара'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Брагинский район'
+meta:
+    fgb:
+        post_id: '103113'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103113#103113'
+                version: '08 May 2023, Mon, 9:56'

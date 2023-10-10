@@ -1,0 +1,16 @@
+id: 'sight:fgb:100017'
+title: 'Закляты камень'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Браславский район'
+meta:
+    fgb:
+        post_id: '100017'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100017#100017'
+                version: '14 May 2022, Sat, 9:03'

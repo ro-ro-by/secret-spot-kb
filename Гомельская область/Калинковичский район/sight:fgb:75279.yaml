@@ -1,0 +1,16 @@
+id: 'sight:fgb:75279'
+title: 'Насаждения сосны'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Калинковичский район'
+meta:
+    fgb:
+        post_id: '75279'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75279#75279'
+                version: '03 Nov 2022, Thu, 13:01'

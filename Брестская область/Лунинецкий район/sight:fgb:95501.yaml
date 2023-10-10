@@ -1,0 +1,16 @@
+id: 'sight:fgb:95501'
+title: Борский
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Лунинецкий район'
+meta:
+    fgb:
+        post_id: '95501'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95501#95501'
+                version: '20 Aug 2020, Thu, 22:01'

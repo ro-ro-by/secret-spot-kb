@@ -1,0 +1,16 @@
+id: 'sight:fgb:101770'
+title: 'Родник на Втором переулке'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '101770'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101770#101770'
+                version: '12 Nov 2022, Sat, 23:36'

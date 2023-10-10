@@ -1,0 +1,16 @@
+id: 'sight:fgb:75212'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75212'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75212#75212'
+                version: '15 Nov 2021, Mon, 13:21'

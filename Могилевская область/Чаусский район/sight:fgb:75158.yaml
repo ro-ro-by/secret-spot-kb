@@ -1,0 +1,16 @@
+id: 'sight:fgb:75158'
+title: 'Городской парк'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '75158'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75158#75158'
+                version: '11 Nov 2022, Fri, 0:50'

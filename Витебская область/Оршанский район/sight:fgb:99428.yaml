@@ -1,0 +1,16 @@
+id: 'sight:fgb:99428'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Оршанский район'
+meta:
+    fgb:
+        post_id: '99428'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99428#99428'
+                version: '08 Jan 2022, Sat, 20:38'

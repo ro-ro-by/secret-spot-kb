@@ -1,0 +1,16 @@
+id: 'sight:fgb:99688'
+title: 'Парк Кушлянский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Сморгонский район'
+meta:
+    fgb:
+        post_id: '99688'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99688#99688'
+                version: '16 Feb 2022, Wed, 23:35'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77505'
+title: 'Парк Мир'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Кореличский район'
+meta:
+    fgb:
+        post_id: '77505'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77505#77505'
+                version: '08 Nov 2022, Tue, 20:06'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75254'
+title: 'Насаждения сосны'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Добрушский район'
+meta:
+    fgb:
+        post_id: '75254'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75254#75254'
+                version: '10 Jan 2016, Sun, 20:38'

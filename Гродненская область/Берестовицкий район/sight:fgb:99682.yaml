@@ -1,0 +1,16 @@
+id: 'sight:fgb:99682'
+title: 'Парк Мурованский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '99682'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99682#99682'
+                version: '16 Feb 2022, Wed, 23:06'

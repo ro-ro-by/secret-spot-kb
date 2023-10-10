@@ -1,0 +1,16 @@
+id: 'sight:fgb:99101'
+title: 'Камень с фигурами'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Слонимский район'
+meta:
+    fgb:
+        post_id: '99101'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99101#99101'
+                version: '29 Oct 2021, Fri, 15:47'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99631'
+title: 'Парк Кустынь'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '99631'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99631#99631'
+                version: '15 Feb 2022, Tue, 23:00'

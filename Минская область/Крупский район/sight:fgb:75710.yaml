@@ -1,0 +1,16 @@
+id: 'sight:fgb:75710'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '75710'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75710#75710'
+                version: '06 May 2021, Thu, 8:49'

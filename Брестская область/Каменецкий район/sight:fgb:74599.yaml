@@ -1,0 +1,16 @@
+id: 'sight:fgb:74599'
+title: 'Ставы-2 (У лесника)'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Каменецкий район'
+meta:
+    fgb:
+        post_id: '74599'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74599#74599'
+                version: '13 Nov 2020, Fri, 21:35'

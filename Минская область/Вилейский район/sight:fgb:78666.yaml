@@ -1,0 +1,16 @@
+id: 'sight:fgb:78666'
+title: 'Под Белой горой'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '78666'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78666#78666'
+                version: '03 Jul 2020, Fri, 21:37'

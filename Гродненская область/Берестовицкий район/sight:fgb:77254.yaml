@@ -1,0 +1,16 @@
+id: 'sight:fgb:77254'
+title: 'Гродненская Свислочь'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '77254'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77254#77254'
+                version: '26 Jul 2020, Sun, 20:29'

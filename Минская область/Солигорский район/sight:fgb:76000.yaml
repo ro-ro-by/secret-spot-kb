@@ -1,0 +1,16 @@
+id: 'sight:fgb:76000'
+title: 'Ковалева Лоза'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Солигорский район'
+meta:
+    fgb:
+        post_id: '76000'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76000#76000'
+                version: '10 Sep 2021, Fri, 15:23'

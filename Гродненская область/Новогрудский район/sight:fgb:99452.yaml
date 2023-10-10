@@ -1,0 +1,16 @@
+id: 'sight:fgb:99452'
+title: Родник-2
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Новогрудский район'
+meta:
+    fgb:
+        post_id: '99452'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99452#99452'
+                version: '08 Jan 2022, Sat, 22:23'

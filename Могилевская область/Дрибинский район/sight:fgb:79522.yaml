@@ -1,0 +1,16 @@
+id: 'sight:fgb:79522'
+title: 'На Гагарина'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Дрибинский район'
+meta:
+    fgb:
+        post_id: '79522'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=79522#79522'
+                version: '10 Nov 2021, Wed, 14:13'

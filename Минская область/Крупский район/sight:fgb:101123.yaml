@@ -1,0 +1,16 @@
+id: 'sight:fgb:101123'
+title: 'Скарбавы камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '101123'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101123#101123'
+                version: '21 Aug 2022, Sun, 22:25'

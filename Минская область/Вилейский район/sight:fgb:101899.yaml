@@ -1,0 +1,16 @@
+id: 'sight:fgb:101899'
+title: 'Камень с надписями'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '101899'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101899#101899'
+                version: '06 Dec 2022, Tue, 22:10'

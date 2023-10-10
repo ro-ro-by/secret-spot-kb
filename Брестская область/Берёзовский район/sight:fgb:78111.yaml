@@ -1,0 +1,16 @@
+id: 'sight:fgb:78111'
+title: 'Селецкий источник'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Берёзовский район'
+meta:
+    fgb:
+        post_id: '78111'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78111#78111'
+                version: '04 Apr 2022, Mon, 15:38'

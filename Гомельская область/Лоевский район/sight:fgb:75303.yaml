@@ -1,0 +1,16 @@
+id: 'sight:fgb:75303'
+title: 'Обнажение Лоев'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лоевский район'
+meta:
+    fgb:
+        post_id: '75303'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75303#75303'
+                version: '28 Jul 2020, Tue, 23:14'

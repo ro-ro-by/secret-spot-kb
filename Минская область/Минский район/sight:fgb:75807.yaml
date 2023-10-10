@@ -1,0 +1,16 @@
+id: 'sight:fgb:75807'
+title: Тресковщина
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '75807'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75807#75807'
+                version: '25 Jan 2021, Mon, 21:47'

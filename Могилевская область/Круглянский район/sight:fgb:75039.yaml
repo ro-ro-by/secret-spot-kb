@@ -1,0 +1,16 @@
+id: 'sight:fgb:75039'
+title: 'Святое озеро'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75039'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75039#75039'
+                version: '18 Sep 2021, Sat, 13:43'

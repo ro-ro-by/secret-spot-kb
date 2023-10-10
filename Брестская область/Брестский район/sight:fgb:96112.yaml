@@ -1,0 +1,16 @@
+id: 'sight:fgb:96112'
+title: 'У шлюза-1 (Калдубец)'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Брестский район'
+meta:
+    fgb:
+        post_id: '96112'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=96112#96112'
+                version: '14 Nov 2020, Sat, 22:28'

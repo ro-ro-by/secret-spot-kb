@@ -1,0 +1,16 @@
+id: 'sight:fgb:99977'
+title: 'Дуб кары'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '99977'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99977#99977'
+                version: '12 May 2022, Thu, 6:46'

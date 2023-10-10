@@ -1,0 +1,16 @@
+id: 'sight:fgb:75130'
+title: Замковый
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '75130'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75130#75130'
+                version: '06 Feb 2021, Sat, 20:21'

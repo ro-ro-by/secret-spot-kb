@@ -1,0 +1,16 @@
+id: 'sight:fgb:75270'
+title: 'Насаждения дуба'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Житковичский район'
+meta:
+    fgb:
+        post_id: '75270'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75270#75270'
+                version: '03 Nov 2022, Thu, 13:38'

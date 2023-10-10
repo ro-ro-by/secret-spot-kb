@@ -1,0 +1,16 @@
+id: 'sight:fgb:98989'
+title: 'На Красноармейской'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Горецкий район'
+meta:
+    fgb:
+        post_id: '98989'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98989#98989'
+                version: '14 Oct 2021, Thu, 6:49'

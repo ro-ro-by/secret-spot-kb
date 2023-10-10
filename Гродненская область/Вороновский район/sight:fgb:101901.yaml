@@ -1,0 +1,16 @@
+id: 'sight:fgb:101901'
+title: 'Музей скандинавских валунов'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Вороновский район'
+meta:
+    fgb:
+        post_id: '101901'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101901#101901'
+                version: '06 Dec 2022, Tue, 22:37'

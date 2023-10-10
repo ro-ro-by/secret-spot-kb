@@ -1,0 +1,16 @@
+id: 'sight:fgb:76811'
+title: 'Исток Вилии'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Докшицкий район'
+meta:
+    fgb:
+        post_id: '76811'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76811#76811'
+                version: '04 Aug 2021, Wed, 22:16'

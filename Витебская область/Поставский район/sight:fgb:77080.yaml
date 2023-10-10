@@ -1,0 +1,16 @@
+id: 'sight:fgb:77080'
+title: 'Камень с ямками'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '77080'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77080#77080'
+                version: '07 Feb 2022, Mon, 21:10'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:103012'
+title: 'Лоева гара'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лоевский район'
+meta:
+    fgb:
+        post_id: '103012'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103012#103012'
+                version: '04 May 2023, Thu, 12:48'

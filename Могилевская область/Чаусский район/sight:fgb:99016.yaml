@@ -1,0 +1,16 @@
+id: 'sight:fgb:99016'
+title: Рагозинка-2
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '99016'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99016#99016'
+                version: '17 Nov 2021, Wed, 15:18'

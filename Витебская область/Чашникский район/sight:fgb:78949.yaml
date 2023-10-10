@@ -1,0 +1,16 @@
+id: 'sight:fgb:78949'
+title: Ляшевичев
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Чашникский район'
+meta:
+    fgb:
+        post_id: '78949'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78949#78949'
+                version: '08 Jan 2022, Sat, 21:50'

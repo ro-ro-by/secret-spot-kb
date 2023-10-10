@@ -1,0 +1,16 @@
+id: 'sight:fgb:97610'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Славгородский район'
+meta:
+    fgb:
+        post_id: '97610'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97610#97610'
+                version: '27 Mar 2021, Sat, 23:40'

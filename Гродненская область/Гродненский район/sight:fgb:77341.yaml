@@ -1,0 +1,16 @@
+id: 'sight:fgb:77341'
+title: 'Исток литовского ручья'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77341'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77341#77341'
+                version: '03 Dec 2021, Fri, 9:17'

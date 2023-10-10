@@ -1,0 +1,16 @@
+id: 'sight:fgb:77325'
+title: 'Парк в городе Скидель'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77325'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77325#77325'
+                version: '03 Nov 2022, Thu, 14:56'

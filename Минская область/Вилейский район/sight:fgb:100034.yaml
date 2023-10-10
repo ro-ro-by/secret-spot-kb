@@ -1,0 +1,16 @@
+id: 'sight:fgb:100034'
+title: 'Чортаў камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '100034'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100034#100034'
+                version: '01 Aug 2022, Mon, 10:44'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:100012'
+title: 'Акамянелы сын'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Жлобинский район'
+meta:
+    fgb:
+        post_id: '100012'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100012#100012'
+                version: '13 May 2022, Fri, 15:21'

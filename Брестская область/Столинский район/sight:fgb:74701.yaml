@@ -1,0 +1,16 @@
+id: 'sight:fgb:74701'
+title: Лозы
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Столинский район'
+meta:
+    fgb:
+        post_id: '74701'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74701#74701'
+                version: '01 Feb 2021, Mon, 17:57'

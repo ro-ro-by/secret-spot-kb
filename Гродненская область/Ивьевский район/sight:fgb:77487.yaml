@@ -1,0 +1,16 @@
+id: 'sight:fgb:77487'
+title: 'Урочище Красное'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '77487'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77487#77487'
+                version: '27 Jul 2020, Mon, 22:45'

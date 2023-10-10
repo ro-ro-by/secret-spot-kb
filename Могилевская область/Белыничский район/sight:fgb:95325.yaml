@@ -1,0 +1,16 @@
+id: 'sight:fgb:95325'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Белыничский район'
+meta:
+    fgb:
+        post_id: '95325'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95325#95325'
+                version: '14 Feb 2020, Fri, 11:42'

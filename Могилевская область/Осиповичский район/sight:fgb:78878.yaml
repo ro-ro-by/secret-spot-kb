@@ -1,0 +1,16 @@
+id: 'sight:fgb:78878'
+title: Смык-1
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Осиповичский район'
+meta:
+    fgb:
+        post_id: '78878'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78878#78878'
+                version: '12 Nov 2021, Fri, 16:02'

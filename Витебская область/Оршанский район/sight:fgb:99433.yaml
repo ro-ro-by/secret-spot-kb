@@ -1,0 +1,16 @@
+id: 'sight:fgb:99433'
+title: 'Большая Харьковка'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Оршанский район'
+meta:
+    fgb:
+        post_id: '99433'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99433#99433'
+                version: '08 Jan 2022, Sat, 20:44'

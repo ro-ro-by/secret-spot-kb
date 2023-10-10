@@ -1,0 +1,16 @@
+id: 'sight:fgb:99312'
+title: Мазурова
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99312'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99312#99312'
+                version: '03 Dec 2021, Fri, 15:15'

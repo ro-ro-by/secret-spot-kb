@@ -1,0 +1,16 @@
+id: 'sight:fgb:99005'
+title: Рясно-3
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Дрибинский район'
+meta:
+    fgb:
+        post_id: '99005'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99005#99005'
+                version: '22 Jan 2022, Sat, 11:01'

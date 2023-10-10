@@ -1,0 +1,16 @@
+id: 'sight:fgb:99644'
+title: 'Парк Минковичи'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Каменецкий район'
+meta:
+    fgb:
+        post_id: '99644'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99644#99644'
+                version: '15 Feb 2022, Tue, 23:26'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75185'
+title: 'Шеперово 1'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '75185'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75185#75185'
+                version: '21 Jun 2023, Wed, 23:26'

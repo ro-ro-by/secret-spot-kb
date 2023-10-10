@@ -1,0 +1,16 @@
+id: 'sight:fgb:75263'
+title: Распутка
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ельский район'
+meta:
+    fgb:
+        post_id: '75263'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75263#75263'
+                version: '22 Jan 2021, Fri, 12:12'

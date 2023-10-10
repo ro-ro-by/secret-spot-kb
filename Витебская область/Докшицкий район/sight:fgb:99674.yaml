@@ -1,0 +1,16 @@
+id: 'sight:fgb:99674'
+title: 'Парк Ситцы'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Докшицкий район'
+meta:
+    fgb:
+        post_id: '99674'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99674#99674'
+                version: '16 Feb 2022, Wed, 22:24'

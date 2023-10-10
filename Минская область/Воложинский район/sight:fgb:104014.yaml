@@ -1,0 +1,16 @@
+id: 'sight:fgb:104014'
+title: 'Родник Грибовского'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Воложинский район'
+meta:
+    fgb:
+        post_id: '104014'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104014#104014'
+                version: '20 Jun 2023, Tue, 18:39'

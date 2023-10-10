@@ -1,0 +1,16 @@
+id: 'sight:fgb:75033'
+title: 'Пойма реки Друть'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75033'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75033#75033'
+                version: '18 Sep 2021, Sat, 13:51'

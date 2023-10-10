@@ -1,0 +1,16 @@
+id: 'sight:fgb:78502'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лельчицкий район'
+meta:
+    fgb:
+        post_id: '78502'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78502#78502'
+                version: '16 Nov 2021, Tue, 12:37'

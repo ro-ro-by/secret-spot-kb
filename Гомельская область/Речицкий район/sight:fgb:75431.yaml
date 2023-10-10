@@ -1,0 +1,16 @@
+id: 'sight:fgb:75431'
+title: 'Покровский источник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Речицкий район'
+meta:
+    fgb:
+        post_id: '75431'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75431#75431'
+                version: '07 Feb 2021, Sun, 0:01'

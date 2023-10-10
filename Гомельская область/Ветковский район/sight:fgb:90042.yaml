@@ -1,0 +1,16 @@
+id: 'sight:fgb:90042'
+title: Студёнка
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '90042'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90042#90042'
+                version: '02 Jul 2020, Thu, 23:05'

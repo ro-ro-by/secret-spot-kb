@@ -1,0 +1,16 @@
+id: 'sight:fgb:104069'
+title: Лесной
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '104069'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104069#104069'
+                version: '22 Jun 2023, Thu, 0:17'

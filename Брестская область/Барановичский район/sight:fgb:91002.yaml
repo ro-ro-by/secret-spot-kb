@@ -1,0 +1,16 @@
+id: 'sight:fgb:91002'
+title: Поручин
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '91002'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=91002#91002'
+                version: '12 Oct 2020, Mon, 10:20'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75711'
+title: 'Витов колодец'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Крупский район'
+meta:
+    fgb:
+        post_id: '75711'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75711#75711'
+                version: '06 May 2021, Thu, 8:50'

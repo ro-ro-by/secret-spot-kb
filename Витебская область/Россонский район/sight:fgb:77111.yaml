@@ -1,0 +1,16 @@
+id: 'sight:fgb:77111'
+title: 'Камень с подковой'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Россонский район'
+meta:
+    fgb:
+        post_id: '77111'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77111#77111'
+                version: '11 Apr 2022, Mon, 14:16'

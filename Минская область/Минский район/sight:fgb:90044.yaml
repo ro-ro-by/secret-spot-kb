@@ -1,0 +1,16 @@
+id: 'sight:fgb:90044'
+title: Родник-2009
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '90044'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90044#90044'
+                version: '26 Jan 2021, Tue, 13:59'

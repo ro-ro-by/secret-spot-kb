@@ -1,0 +1,16 @@
+id: 'sight:fgb:83021'
+title: Родник-1
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '83021'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83021#83021'
+                version: '22 Jan 2021, Fri, 15:58'

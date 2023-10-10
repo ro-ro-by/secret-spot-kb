@@ -1,0 +1,16 @@
+id: 'sight:fgb:82502'
+title: 'Колодец Щекотова-2'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Мозырский район'
+meta:
+    fgb:
+        post_id: '82502'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=82502#82502'
+                version: '23 Aug 2020, Sun, 20:12'

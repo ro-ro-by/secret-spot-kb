@@ -1,0 +1,16 @@
+id: 'sight:fgb:99417'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '99417'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99417#99417'
+                version: '08 Jan 2022, Sat, 20:11'

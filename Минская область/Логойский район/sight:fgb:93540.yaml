@@ -1,0 +1,16 @@
+id: 'sight:fgb:93540'
+title: 'Теплый Стан (Исток)'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Логойский район'
+meta:
+    fgb:
+        post_id: '93540'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=93540#93540'
+                version: '30 Sep 2021, Thu, 15:53'

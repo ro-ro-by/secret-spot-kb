@@ -1,0 +1,16 @@
+id: 'sight:fgb:75336'
+title: 'Иванов (№24)'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Мозырский район'
+meta:
+    fgb:
+        post_id: '75336'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75336#75336'
+                version: '23 Aug 2020, Sun, 16:12'

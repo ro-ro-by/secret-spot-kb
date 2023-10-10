@@ -1,0 +1,16 @@
+id: 'sight:fgb:103005'
+title: 'Залатая горка'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '103005'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103005#103005'
+                version: '04 May 2023, Thu, 12:37'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:101030'
+title: 'Камень са знакам'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '101030'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101030#101030'
+                version: '17 Aug 2022, Wed, 18:35'

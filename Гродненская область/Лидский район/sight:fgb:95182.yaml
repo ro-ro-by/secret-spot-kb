@@ -1,0 +1,16 @@
+id: 'sight:fgb:95182'
+title: Камень
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Лидский район'
+meta:
+    fgb:
+        post_id: '95182'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95182#95182'
+                version: '20 Jan 2020, Mon, 0:00'

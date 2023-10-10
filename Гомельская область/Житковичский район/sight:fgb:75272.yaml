@@ -1,0 +1,16 @@
+id: 'sight:fgb:75272'
+title: 'Живой родник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Житковичский район'
+meta:
+    fgb:
+        post_id: '75272'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75272#75272'
+                version: '28 Jan 2021, Thu, 17:38'

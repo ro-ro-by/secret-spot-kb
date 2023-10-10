@@ -1,0 +1,16 @@
+id: 'sight:fgb:98928'
+title: Паричи-3
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Светлогорский район'
+meta:
+    fgb:
+        post_id: '98928'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98928#98928'
+                version: '07 Oct 2021, Thu, 6:45'

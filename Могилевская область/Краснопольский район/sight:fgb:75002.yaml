@@ -1,0 +1,16 @@
+id: 'sight:fgb:75002'
+title: 'Костел (Ясеневый гай)'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Краснопольский район'
+meta:
+    fgb:
+        post_id: '75002'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75002#75002'
+                version: '05 Oct 2021, Tue, 20:03'

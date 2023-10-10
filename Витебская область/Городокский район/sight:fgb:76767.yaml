@@ -1,0 +1,16 @@
+id: 'sight:fgb:76767'
+title: 'Городской парк'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Городокский район'
+meta:
+    fgb:
+        post_id: '76767'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76767#76767'
+                version: '31 Jan 2016, Sun, 11:37'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:78599'
+title: 'Исток Вильни'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ошмянский район'
+meta:
+    fgb:
+        post_id: '78599'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78599#78599'
+                version: '28 Jan 2021, Thu, 19:39'

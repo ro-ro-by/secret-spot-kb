@@ -1,0 +1,16 @@
+id: 'sight:fgb:99202'
+title: 'На Рабочей'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Горецкий район'
+meta:
+    fgb:
+        post_id: '99202'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99202#99202'
+                version: '10 Nov 2021, Wed, 16:40'

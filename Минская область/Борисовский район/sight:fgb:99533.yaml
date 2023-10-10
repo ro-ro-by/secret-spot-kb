@@ -1,0 +1,16 @@
+id: 'sight:fgb:99533'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '99533'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99533#99533'
+                version: '23 Jan 2022, Sun, 0:17'

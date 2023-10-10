@@ -1,0 +1,16 @@
+id: 'sight:fgb:75280'
+title: 'Старинный парк'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Калинковичский район'
+meta:
+    fgb:
+        post_id: '75280'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75280#75280'
+                version: '03 Nov 2022, Thu, 13:03'

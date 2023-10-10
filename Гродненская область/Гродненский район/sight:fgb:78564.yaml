@@ -1,0 +1,16 @@
+id: 'sight:fgb:78564'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '78564'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78564#78564'
+                version: '09 Apr 2021, Fri, 19:06'

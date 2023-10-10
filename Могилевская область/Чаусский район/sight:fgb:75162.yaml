@@ -1,0 +1,16 @@
+id: 'sight:fgb:75162'
+title: Озерище
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чаусский район'
+meta:
+    fgb:
+        post_id: '75162'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75162#75162'
+                version: '18 Oct 2021, Mon, 12:11'

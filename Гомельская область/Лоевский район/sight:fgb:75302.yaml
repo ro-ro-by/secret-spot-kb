@@ -1,0 +1,16 @@
+id: 'sight:fgb:75302'
+title: Днепро-Сожский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лоевский район'
+meta:
+    fgb:
+        post_id: '75302'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75302#75302'
+                version: '28 Jul 2020, Tue, 23:12'

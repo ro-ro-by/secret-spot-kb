@@ -1,0 +1,16 @@
+id: 'sight:fgb:101780'
+title: Гута
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Хотимский район'
+meta:
+    fgb:
+        post_id: '101780'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101780#101780'
+                version: '14 Nov 2022, Mon, 22:22'

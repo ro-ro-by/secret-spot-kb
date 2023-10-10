@@ -1,0 +1,16 @@
+id: 'sight:fgb:99689'
+title: 'Парк Головичпольский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '99689'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99689#99689'
+                version: '20 Sep 2022, Tue, 21:41'

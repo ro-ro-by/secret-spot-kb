@@ -1,0 +1,16 @@
+id: 'sight:fgb:77702'
+title: 'Гора Стражынае'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Слонимский район'
+meta:
+    fgb:
+        post_id: '77702'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77702#77702'
+                version: '29 Oct 2021, Fri, 15:25'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:88123'
+title: Плёсы
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Молодечненский район'
+meta:
+    fgb:
+        post_id: '88123'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88123#88123'
+                version: '08 Oct 2021, Fri, 9:28'

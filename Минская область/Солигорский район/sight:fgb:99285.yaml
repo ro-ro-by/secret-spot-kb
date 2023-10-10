@@ -1,0 +1,16 @@
+id: 'sight:fgb:99285'
+title: Старобинский
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Солигорский район'
+meta:
+    fgb:
+        post_id: '99285'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99285#99285'
+                version: '28 Nov 2021, Sun, 20:09'

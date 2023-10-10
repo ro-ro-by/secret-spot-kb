@@ -1,0 +1,16 @@
+id: 'sight:fgb:101018'
+title: 'Камень Напалеона'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Глубокский район'
+meta:
+    fgb:
+        post_id: '101018'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101018#101018'
+                version: '17 Aug 2022, Wed, 14:10'

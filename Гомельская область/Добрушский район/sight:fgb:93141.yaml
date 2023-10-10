@@ -1,0 +1,16 @@
+id: 'sight:fgb:93141'
+title: 'Святой источник'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Добрушский район'
+meta:
+    fgb:
+        post_id: '93141'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=93141#93141'
+                version: '06 Apr 2021, Tue, 14:01'

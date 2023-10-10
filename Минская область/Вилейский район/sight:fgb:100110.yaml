@@ -1,0 +1,16 @@
+id: 'sight:fgb:100110'
+title: 'Звінячы камень'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '100110'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100110#100110'
+                version: '22 Aug 2022, Mon, 21:21'

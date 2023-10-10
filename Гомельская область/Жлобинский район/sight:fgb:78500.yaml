@@ -1,0 +1,16 @@
+id: 'sight:fgb:78500'
+title: 'Ильинка (Святого Илии)'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Жлобинский район'
+meta:
+    fgb:
+        post_id: '78500'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78500#78500'
+                version: '06 Feb 2021, Sat, 20:52'

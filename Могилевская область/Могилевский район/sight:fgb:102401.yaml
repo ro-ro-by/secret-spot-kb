@@ -1,0 +1,16 @@
+id: 'sight:fgb:102401'
+title: 'Лысая гара'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '102401'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=102401#102401'
+                version: '13 Mar 2023, Mon, 11:51'

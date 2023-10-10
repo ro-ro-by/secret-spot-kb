@@ -1,0 +1,16 @@
+id: 'sight:fgb:78553'
+title: 'На Маркса'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '78553'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78553#78553'
+                version: '19 Nov 2021, Fri, 15:55'

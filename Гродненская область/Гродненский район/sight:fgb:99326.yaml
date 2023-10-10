@@ -1,0 +1,16 @@
+id: 'sight:fgb:99326'
+title: Стасинка
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99326'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99326#99326'
+                version: '03 Dec 2021, Fri, 15:24'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75360'
+title: Расоха
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Мозырский район'
+meta:
+    fgb:
+        post_id: '75360'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75360#75360'
+                version: '23 Aug 2020, Sun, 17:11'

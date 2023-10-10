@@ -1,0 +1,16 @@
+id: 'sight:fgb:99234'
+title: Сероводородный
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лельчицкий район'
+meta:
+    fgb:
+        post_id: '99234'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99234#99234'
+                version: '16 Nov 2021, Tue, 12:55'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77501'
+title: Родник
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '77501'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77501#77501'
+                version: '27 Jul 2020, Mon, 23:08'

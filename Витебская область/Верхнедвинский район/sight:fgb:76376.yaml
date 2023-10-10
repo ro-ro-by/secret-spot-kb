@@ -1,0 +1,16 @@
+id: 'sight:fgb:76376'
+title: 'Исток Мощилицы'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Верхнедвинский район'
+meta:
+    fgb:
+        post_id: '76376'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76376#76376'
+                version: '27 Jan 2021, Wed, 16:10'

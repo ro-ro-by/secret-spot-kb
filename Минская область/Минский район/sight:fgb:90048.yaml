@@ -1,0 +1,16 @@
+id: 'sight:fgb:90048'
+title: 'Под Лысой горой'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Минский район'
+meta:
+    fgb:
+        post_id: '90048'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=90048#90048'
+                version: '26 Jan 2021, Tue, 14:20'

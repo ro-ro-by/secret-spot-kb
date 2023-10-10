@@ -1,0 +1,16 @@
+id: 'sight:fgb:97301'
+title: 'Парк Забайкал'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Толочинский район'
+meta:
+    fgb:
+        post_id: '97301'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97301#97301'
+                version: '22 Jan 2021, Fri, 10:55'

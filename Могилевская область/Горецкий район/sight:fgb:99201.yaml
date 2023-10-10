@@ -1,0 +1,16 @@
+id: 'sight:fgb:99201'
+title: Железнодорожный
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Горецкий район'
+meta:
+    fgb:
+        post_id: '99201'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99201#99201'
+                version: '10 Nov 2021, Wed, 16:39'

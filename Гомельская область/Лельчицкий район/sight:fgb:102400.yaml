@@ -1,0 +1,16 @@
+id: 'sight:fgb:102400'
+title: 'Сіянская (Святая) гара'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лельчицкий район'
+meta:
+    fgb:
+        post_id: '102400'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=102400#102400'
+                version: '13 Mar 2023, Mon, 11:50'

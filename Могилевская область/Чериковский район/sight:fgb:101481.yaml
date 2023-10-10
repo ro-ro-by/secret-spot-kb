@@ -1,0 +1,16 @@
+id: 'sight:fgb:101481'
+title: 'Петровы дубы Чериковского района'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чериковский район'
+meta:
+    fgb:
+        post_id: '101481'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101481#101481'
+                version: '20 Jun 2023, Tue, 22:27'

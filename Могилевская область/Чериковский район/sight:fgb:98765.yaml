@@ -1,0 +1,16 @@
+id: 'sight:fgb:98765'
+title: Чериковский
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Чериковский район'
+meta:
+    fgb:
+        post_id: '98765'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98765#98765'
+                version: '18 Sep 2021, Sat, 12:55'

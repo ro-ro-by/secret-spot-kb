@@ -1,0 +1,16 @@
+id: 'sight:fgb:75401'
+title: Криница
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Наровлянский район'
+meta:
+    fgb:
+        post_id: '75401'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75401#75401'
+                version: '27 Jul 2020, Mon, 23:41'

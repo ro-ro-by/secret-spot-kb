@@ -1,0 +1,16 @@
+id: 'sight:fgb:77333'
+title: 'Группа валунов Святская'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '77333'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77333#77333'
+                version: '03 Aug 2020, Mon, 22:51'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75416'
+title: 'Геологическое обнажение Дорошевичи'
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Петриковский район'
+meta:
+    fgb:
+        post_id: '75416'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75416#75416'
+                version: '27 Jan 2021, Wed, 8:16'

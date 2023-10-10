@@ -1,0 +1,16 @@
+id: 'sight:fgb:75025'
+title: Хотомле
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75025'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75025#75025'
+                version: '18 Sep 2021, Sat, 13:52'

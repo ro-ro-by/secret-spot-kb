@@ -1,0 +1,16 @@
+id: 'sight:fgb:78539'
+title: Полесье-2
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '78539'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78539#78539'
+                version: '15 Nov 2021, Mon, 16:27'

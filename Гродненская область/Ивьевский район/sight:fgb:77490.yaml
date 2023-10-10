@@ -1,0 +1,16 @@
+id: 'sight:fgb:77490'
+title: 'Гора Маяк'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '77490'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77490#77490'
+                version: '27 Jul 2020, Mon, 22:51'

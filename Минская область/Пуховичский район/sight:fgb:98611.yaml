@@ -1,0 +1,16 @@
+id: 'sight:fgb:98611'
+title: 'Шацкий парк'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '98611'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98611#98611'
+                version: '03 Sep 2021, Fri, 23:56'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75450'
+title: Залесье-1
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Чечерский район'
+meta:
+    fgb:
+        post_id: '75450'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75450#75450'
+                version: '13 Nov 2021, Sat, 13:15'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:101773'
+title: 'Ленинский лес'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Ивановский район'
+meta:
+    fgb:
+        post_id: '101773'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101773#101773'
+                version: '13 Nov 2022, Sun, 0:20'

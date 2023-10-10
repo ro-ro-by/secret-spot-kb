@@ -1,0 +1,16 @@
+id: 'sight:fgb:75370'
+title: Михалковский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Мозырский район'
+meta:
+    fgb:
+        post_id: '75370'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75370#75370'
+                version: '23 Aug 2020, Sun, 17:16'

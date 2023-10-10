@@ -1,0 +1,16 @@
+id: 'sight:fgb:83981'
+title: Добричский
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Кормянский район'
+meta:
+    fgb:
+        post_id: '83981'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83981#83981'
+                version: '18 Nov 2021, Thu, 16:02'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:99799'
+title: Емельяновичи-4
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '99799'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99799#99799'
+                version: '04 Apr 2022, Mon, 13:54'

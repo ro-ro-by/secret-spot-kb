@@ -1,0 +1,16 @@
+id: 'sight:fgb:101116'
+title: 'Скарбавы камень'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Костюковичский район'
+meta:
+    fgb:
+        post_id: '101116'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101116#101116'
+                version: '21 Aug 2022, Sun, 21:24'

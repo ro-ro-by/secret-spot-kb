@@ -1,0 +1,16 @@
+id: 'sight:fgb:104020'
+title: 'Родник Кушлики-1'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Полоцкий район'
+meta:
+    fgb:
+        post_id: '104020'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104020#104020'
+                version: '20 Jun 2023, Tue, 19:59'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75432'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Речицкий район'
+meta:
+    fgb:
+        post_id: '75432'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75432#75432'
+                version: '07 Feb 2021, Sun, 0:07'

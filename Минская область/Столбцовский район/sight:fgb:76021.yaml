@@ -1,0 +1,16 @@
+id: 'sight:fgb:76021'
+title: 'Парк Новая Веска'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Столбцовский район'
+meta:
+    fgb:
+        post_id: '76021'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76021#76021'
+                version: '09 Nov 2022, Wed, 0:10'

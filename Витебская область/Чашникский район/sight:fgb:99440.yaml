@@ -1,0 +1,16 @@
+id: 'sight:fgb:99440'
+title: 'Василя Тяпинского'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Чашникский район'
+meta:
+    fgb:
+        post_id: '99440'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99440#99440'
+                version: '22 Jan 2022, Sat, 11:19'

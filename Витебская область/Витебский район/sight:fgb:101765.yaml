@@ -1,0 +1,16 @@
+id: 'sight:fgb:101765'
+title: 'Родник Лучёса-Май'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Витебский район'
+meta:
+    fgb:
+        post_id: '101765'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=101765#101765'
+                version: '12 Nov 2022, Sat, 22:14'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77257'
+title: 'Парк Старый Дворец'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Берестовицкий район'
+meta:
+    fgb:
+        post_id: '77257'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77257#77257'
+                version: '08 Nov 2022, Tue, 20:38'

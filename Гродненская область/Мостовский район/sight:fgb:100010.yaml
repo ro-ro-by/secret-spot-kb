@@ -1,0 +1,16 @@
+id: 'sight:fgb:100010'
+title: 'Акамянелае вяселле'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Мостовский район'
+meta:
+    fgb:
+        post_id: '100010'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100010#100010'
+                version: '13 May 2022, Fri, 15:14'

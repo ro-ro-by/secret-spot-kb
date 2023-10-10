@@ -1,0 +1,16 @@
+id: 'sight:fgb:99690'
+title: 'Парк Цитва'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Пуховичский район'
+meta:
+    fgb:
+        post_id: '99690'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99690#99690'
+                version: '17 Feb 2022, Thu, 0:09'

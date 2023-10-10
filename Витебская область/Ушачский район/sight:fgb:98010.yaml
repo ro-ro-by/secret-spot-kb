@@ -1,0 +1,16 @@
+id: 'sight:fgb:98010'
+title: Крушиновка
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Ушачский район'
+meta:
+    fgb:
+        post_id: '98010'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98010#98010'
+                version: '14 May 2021, Fri, 0:44'

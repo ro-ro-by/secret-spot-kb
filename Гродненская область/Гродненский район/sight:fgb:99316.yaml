@@ -1,0 +1,16 @@
+id: 'sight:fgb:99316'
+title: СтрОкова
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Гродненский район'
+meta:
+    fgb:
+        post_id: '99316'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99316#99316'
+                version: '03 Dec 2021, Fri, 15:18'

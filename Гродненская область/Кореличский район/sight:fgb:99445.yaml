@@ -1,0 +1,16 @@
+id: 'sight:fgb:99445'
+title: 'Большие Туполы-2'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Кореличский район'
+meta:
+    fgb:
+        post_id: '99445'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99445#99445'
+                version: '08 Jan 2022, Sat, 22:06'

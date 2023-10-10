@@ -1,0 +1,16 @@
+id: 'sight:fgb:103900'
+title: 'Гара Міска'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '103900'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103900#103900'
+                version: '06 Jun 2023, Tue, 9:07'

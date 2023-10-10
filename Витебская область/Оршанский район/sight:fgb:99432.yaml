@@ -1,0 +1,16 @@
+id: 'sight:fgb:99432'
+title: Телентеево
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Оршанский район'
+meta:
+    fgb:
+        post_id: '99432'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99432#99432'
+                version: '08 Jan 2022, Sat, 20:43'

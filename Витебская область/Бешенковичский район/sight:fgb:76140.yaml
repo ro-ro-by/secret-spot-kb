@@ -1,0 +1,16 @@
+id: 'sight:fgb:76140'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Бешенковичский район'
+meta:
+    fgb:
+        post_id: '76140'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76140#76140'
+                version: '21 Feb 2020, Fri, 13:29'

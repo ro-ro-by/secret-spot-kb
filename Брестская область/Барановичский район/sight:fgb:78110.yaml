@@ -1,0 +1,16 @@
+id: 'sight:fgb:78110'
+title: Святой
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Барановичский район'
+meta:
+    fgb:
+        post_id: '78110'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=78110#78110'
+                version: '12 Feb 2020, Wed, 23:24'

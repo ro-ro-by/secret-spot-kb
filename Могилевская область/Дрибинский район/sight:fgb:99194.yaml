@@ -1,0 +1,16 @@
+id: 'sight:fgb:99194'
+title: Преобаженск-1
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Дрибинский район'
+meta:
+    fgb:
+        post_id: '99194'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99194#99194'
+                version: '10 Nov 2021, Wed, 15:28'

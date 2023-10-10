@@ -1,0 +1,16 @@
+id: 'sight:fgb:77206'
+title: 'Морозовский валун'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Шумилинский район'
+meta:
+    fgb:
+        post_id: '77206'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77206#77206'
+                version: '30 Oct 2021, Sat, 20:49'

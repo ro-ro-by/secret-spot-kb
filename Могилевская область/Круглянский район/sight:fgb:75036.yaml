@@ -1,0 +1,16 @@
+id: 'sight:fgb:75036'
+title: 'На Победе'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Круглянский район'
+meta:
+    fgb:
+        post_id: '75036'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75036#75036'
+                version: '05 Oct 2021, Tue, 20:11'

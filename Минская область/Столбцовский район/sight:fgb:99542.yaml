@@ -1,0 +1,16 @@
+id: 'sight:fgb:99542'
+title: Мацейчекова-2
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Столбцовский район'
+meta:
+    fgb:
+        post_id: '99542'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99542#99542'
+                version: '23 Jan 2022, Sun, 0:38'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75223'
+title: 'Живая криница'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Шкловский район'
+meta:
+    fgb:
+        post_id: '75223'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75223#75223'
+                version: '15 Nov 2021, Mon, 13:59'

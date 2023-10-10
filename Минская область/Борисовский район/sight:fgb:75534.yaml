@@ -1,0 +1,16 @@
+id: 'sight:fgb:75534'
+title: 'Парк Буденичи'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Борисовский район'
+meta:
+    fgb:
+        post_id: '75534'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75534#75534'
+                version: '08 Nov 2022, Tue, 21:51'

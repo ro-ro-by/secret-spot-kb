@@ -1,0 +1,16 @@
+id: 'sight:fgb:99708'
+title: Павленка
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Костюковичский район'
+meta:
+    fgb:
+        post_id: '99708'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99708#99708'
+                version: '18 Feb 2022, Fri, 22:48'

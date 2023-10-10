@@ -1,0 +1,16 @@
+id: 'sight:fgb:103789'
+title: 'Гара Карагач'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '103789'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103789#103789'
+                version: '03 Jun 2023, Sat, 11:30'

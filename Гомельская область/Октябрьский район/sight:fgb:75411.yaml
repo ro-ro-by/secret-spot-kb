@@ -1,0 +1,16 @@
+id: 'sight:fgb:75411'
+title: Бабинец
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Октябрьский район'
+meta:
+    fgb:
+        post_id: '75411'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75411#75411'
+                version: '08 Nov 2020, Sun, 11:54'

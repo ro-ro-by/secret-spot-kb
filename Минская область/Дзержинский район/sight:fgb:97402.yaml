@@ -1,0 +1,16 @@
+id: 'sight:fgb:97402'
+title: 'Парк Волма'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Дзержинский район'
+meta:
+    fgb:
+        post_id: '97402'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97402#97402'
+                version: '01 Feb 2021, Mon, 19:59'

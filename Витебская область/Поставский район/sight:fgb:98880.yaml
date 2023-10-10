@@ -1,0 +1,16 @@
+id: 'sight:fgb:98880'
+title: 'Парк Крикалы'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Поставский район'
+meta:
+    fgb:
+        post_id: '98880'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=98880#98880'
+                version: '01 Oct 2021, Fri, 9:17'

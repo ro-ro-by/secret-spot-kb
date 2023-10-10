@@ -1,0 +1,16 @@
+id: 'sight:fgb:100819'
+title: 'След Анёлка'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '100819'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100819#100819'
+                version: '29 Jul 2022, Fri, 18:01'

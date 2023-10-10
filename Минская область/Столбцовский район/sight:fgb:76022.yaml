@@ -1,0 +1,16 @@
+id: 'sight:fgb:76022'
+title: 'Парк Сула'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Столбцовский район'
+meta:
+    fgb:
+        post_id: '76022'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76022#76022'
+                version: '09 Nov 2022, Wed, 0:11'

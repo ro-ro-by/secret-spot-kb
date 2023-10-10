@@ -1,0 +1,16 @@
+id: 'sight:fgb:102721'
+title: 'Гара Гарадок'
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Верхнедвинский район'
+meta:
+    fgb:
+        post_id: '102721'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=102721#102721'
+                version: '21 Apr 2023, Fri, 13:41'

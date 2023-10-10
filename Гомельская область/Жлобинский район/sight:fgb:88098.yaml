@@ -1,0 +1,16 @@
+id: 'sight:fgb:88098'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Жлобинский район'
+meta:
+    fgb:
+        post_id: '88098'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88098#88098'
+                version: '06 Feb 2021, Sat, 20:35'

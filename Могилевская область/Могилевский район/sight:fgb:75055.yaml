@@ -1,0 +1,16 @@
+id: 'sight:fgb:75055'
+title: 'На Дубровенке'
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Могилевский район'
+meta:
+    fgb:
+        post_id: '75055'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75055#75055'
+                version: '06 Oct 2021, Wed, 8:41'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:77778'
+title: 'Валун Зеневский'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Щучинский район'
+meta:
+    fgb:
+        post_id: '77778'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77778#77778'
+                version: '30 Oct 2021, Sat, 14:16'

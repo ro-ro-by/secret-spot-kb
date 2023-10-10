@@ -1,0 +1,16 @@
+id: 'sight:fgb:103600'
+title: 'Кавалёва гара'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '103600'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=103600#103600'
+                version: '02 Jun 2023, Fri, 10:14'

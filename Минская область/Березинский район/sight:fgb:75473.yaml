@@ -1,0 +1,16 @@
+id: 'sight:fgb:75473'
+title: 'Святое озеро'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Березинский район'
+meta:
+    fgb:
+        post_id: '75473'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75473#75473'
+                version: '17 Feb 2020, Mon, 14:05'

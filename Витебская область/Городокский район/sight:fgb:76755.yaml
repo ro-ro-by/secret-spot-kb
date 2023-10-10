@@ -1,0 +1,16 @@
+id: 'sight:fgb:76755'
+title: Родник
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Городокский район'
+meta:
+    fgb:
+        post_id: '76755'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76755#76755'
+                version: '04 Aug 2021, Wed, 21:13'

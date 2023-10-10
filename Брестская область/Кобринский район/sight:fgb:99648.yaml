@@ -1,0 +1,16 @@
+id: 'sight:fgb:99648'
+title: 'Парк Литвинки'
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Кобринский район'
+meta:
+    fgb:
+        post_id: '99648'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99648#99648'
+                version: '15 Feb 2022, Tue, 23:32'

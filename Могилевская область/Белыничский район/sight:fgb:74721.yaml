@@ -1,0 +1,16 @@
+id: 'sight:fgb:74721'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Белыничский район'
+meta:
+    fgb:
+        post_id: '74721'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74721#74721'
+                version: '06 Feb 2021, Sat, 22:24'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:79449'
+title: 'Чистый исток-1'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Вороновский район'
+meta:
+    fgb:
+        post_id: '79449'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=79449#79449'
+                version: '23 Nov 2021, Tue, 9:04'

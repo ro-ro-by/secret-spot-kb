@@ -1,0 +1,16 @@
+id: 'sight:fgb:88364'
+title: Родник
+belongsTo:
+    region: 'Брестская область'
+    subregion: 'Столинский район'
+meta:
+    fgb:
+        post_id: '88364'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88364#88364'
+                version: '01 Feb 2021, Mon, 17:47'

@@ -1,0 +1,16 @@
+id: 'sight:fgb:75469'
+title: Родник
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Березинский район'
+meta:
+    fgb:
+        post_id: '75469'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=75469#75469'
+                version: '17 Feb 2020, Mon, 14:02'

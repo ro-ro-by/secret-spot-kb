@@ -1,0 +1,16 @@
+id: 'sight:fgb:97370'
+title: 'Исток Новосёлки'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Дзержинский район'
+meta:
+    fgb:
+        post_id: '97370'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=97370#97370'
+                version: '27 Jan 2021, Wed, 14:50'

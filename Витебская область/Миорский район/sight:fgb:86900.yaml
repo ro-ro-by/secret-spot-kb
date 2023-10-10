@@ -1,0 +1,16 @@
+id: 'sight:fgb:86900'
+title: Николаев
+belongsTo:
+    region: 'Витебская область'
+    subregion: 'Миорский район'
+meta:
+    fgb:
+        post_id: '86900'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=86900#86900'
+                version: '30 Apr 2021, Fri, 18:37'

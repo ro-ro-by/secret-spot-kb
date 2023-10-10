@@ -1,0 +1,16 @@
+id: 'sight:fgb:77489'
+title: 'Котловина Ройста'
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Ивьевский район'
+meta:
+    fgb:
+        post_id: '77489'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77489#77489'
+                version: '31 Dec 2019, Tue, 20:35'

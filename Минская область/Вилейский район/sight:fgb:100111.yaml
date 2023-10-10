@@ -1,0 +1,16 @@
+id: 'sight:fgb:100111'
+title: Камень-следавік
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Вилейский район'
+meta:
+    fgb:
+        post_id: '100111'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=100111#100111'
+                version: '17 May 2022, Tue, 10:47'

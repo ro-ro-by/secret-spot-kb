@@ -1,0 +1,16 @@
+id: 'sight:fgb:88096'
+title: Родник
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Ветковский район'
+meta:
+    fgb:
+        post_id: '88096'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=88096#88096'
+                version: '09 Sep 2017, Sat, 13:25'

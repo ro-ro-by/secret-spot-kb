@@ -1,0 +1,16 @@
+id: 'sight:fgb:83203'
+title: Бояры-2
+belongsTo:
+    region: 'Гродненская область'
+    subregion: 'Слонимский район'
+meta:
+    fgb:
+        post_id: '83203'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=83203#83203'
+                version: '22 Nov 2021, Mon, 16:32'

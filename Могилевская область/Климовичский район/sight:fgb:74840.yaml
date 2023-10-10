@@ -1,0 +1,16 @@
+id: 'sight:fgb:74840'
+title: Родник
+belongsTo:
+    region: 'Могилевская область'
+    subregion: 'Климовичский район'
+meta:
+    fgb:
+        post_id: '74840'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=74840#74840'
+                version: '18 Feb 2022, Fri, 22:41'

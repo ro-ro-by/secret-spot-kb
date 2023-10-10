@@ -1,0 +1,16 @@
+id: 'sight:fgb:76003'
+title: 'Святое озеро'
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Солигорский район'
+meta:
+    fgb:
+        post_id: '76003'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76003#76003'
+                version: '10 Sep 2021, Fri, 15:02'

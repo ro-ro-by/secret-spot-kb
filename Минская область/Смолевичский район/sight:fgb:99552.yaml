@@ -1,0 +1,16 @@
+id: 'sight:fgb:99552'
+title: Ковалевщина-2
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Смолевичский район'
+meta:
+    fgb:
+        post_id: '99552'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99552#99552'
+                version: '23 Jan 2022, Sun, 1:01'

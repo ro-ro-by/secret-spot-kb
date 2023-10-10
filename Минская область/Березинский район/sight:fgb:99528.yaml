@@ -1,0 +1,16 @@
+id: 'sight:fgb:99528'
+title: Санаторный
+belongsTo:
+    region: 'Минская область'
+    subregion: 'Березинский район'
+meta:
+    fgb:
+        post_id: '99528'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99528#99528'
+                version: '23 Jan 2022, Sun, 0:06'
