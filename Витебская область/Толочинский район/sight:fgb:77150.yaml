@@ -3,6 +3,11 @@ title: Борисоглебка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.56217'
+        lon: '29.70530'
 meta:
     fgb:
         post_id: '77150'

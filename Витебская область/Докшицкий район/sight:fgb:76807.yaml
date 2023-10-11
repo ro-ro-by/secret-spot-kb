@@ -3,6 +3,11 @@ title: 'Сосна Акулина (Сасна Кулина)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.712863'
+        lon: '27.946045'
 meta:
     fgb:
         post_id: '76807'

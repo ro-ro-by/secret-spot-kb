@@ -3,6 +3,11 @@ title: Гать
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.99326'
+        lon: '25.69057'
 meta:
     fgb:
         post_id: '88339'

@@ -3,6 +3,11 @@ title: 'Камень-валун Пасутичский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.141767'
+        lon: '24.631218'
 meta:
     fgb:
         post_id: '77375'

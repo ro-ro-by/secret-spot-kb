@@ -3,6 +3,11 @@ title: 'Кагальный колодец'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.02577'
+        lon: '31.72513'
 meta:
     fgb:
         post_id: '75077'

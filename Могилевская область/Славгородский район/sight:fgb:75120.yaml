@@ -3,6 +3,11 @@ title: 'Киреева криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57011'
+        lon: '31.03804'
 meta:
     fgb:
         post_id: '75120'

@@ -3,6 +3,11 @@ title: Солы-2
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65174'
+        lon: '23.86907'
 meta:
     fgb:
         post_id: '77344'

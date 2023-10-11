@@ -3,6 +3,11 @@ title: 'Родник у Чёрной речки'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.05989'
+        lon: '31.58933'
 meta:
     fgb:
         post_id: '78876'

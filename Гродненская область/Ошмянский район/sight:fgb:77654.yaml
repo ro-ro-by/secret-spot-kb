@@ -3,6 +3,11 @@ title: 'Бородовщинский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.253720'
+        lon: '26.133616'
 meta:
     fgb:
         post_id: '77654'

@@ -3,6 +3,11 @@ title: 'Кожарского (На Казарщине, Святой)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.80708'
+        lon: '29.58456'
 meta:
     fgb:
         post_id: '77122'

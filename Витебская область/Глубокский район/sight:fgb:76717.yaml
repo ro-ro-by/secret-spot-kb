@@ -3,6 +3,11 @@ title: 'Придорожный (Аута)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.24970'
+        lon: '28.10030'
 meta:
     fgb:
         post_id: '76717'

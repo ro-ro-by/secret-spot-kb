@@ -3,6 +3,11 @@ title: 'Родник Дубойский'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.09306'
+        lon: '25.77303'
 meta:
     fgb:
         post_id: '74659'

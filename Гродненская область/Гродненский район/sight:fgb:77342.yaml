@@ -3,6 +3,11 @@ title: 'В Фомичёвском овраге'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.66040'
+        lon: '23.84820'
 meta:
     fgb:
         post_id: '77342'

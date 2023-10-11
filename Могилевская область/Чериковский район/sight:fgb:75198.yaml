@@ -3,6 +3,11 @@ title: 'Родник святого Ильи'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.61568'
+        lon: '31.26487'
 meta:
     fgb:
         post_id: '75198'

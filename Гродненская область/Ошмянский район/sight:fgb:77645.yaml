@@ -3,6 +3,11 @@ title: 'Валун Студенецкий'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.249261'
+        lon: '26.139909'
 meta:
     fgb:
         post_id: '77645'

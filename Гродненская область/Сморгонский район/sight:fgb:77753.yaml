@@ -3,6 +3,11 @@ title: 'Войстомский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.571581'
+        lon: '26.602094'
 meta:
     fgb:
         post_id: '77753'

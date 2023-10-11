@@ -3,6 +3,11 @@ title: Криница
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.51271'
+        lon: '26.78596'
 meta:
     fgb:
         post_id: '76033'

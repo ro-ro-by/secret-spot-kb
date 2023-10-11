@@ -3,6 +3,11 @@ title: Логойск-3
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.20390'
+        lon: '27.84809'
 meta:
     fgb:
         post_id: '97019'

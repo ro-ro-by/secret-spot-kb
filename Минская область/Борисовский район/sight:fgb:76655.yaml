@@ -3,6 +3,11 @@ title: 'На Центральной'
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.14823'
+        lon: '28.61625'
 meta:
     fgb:
         post_id: '76655'

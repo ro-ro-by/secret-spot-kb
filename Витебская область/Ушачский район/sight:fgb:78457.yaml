@@ -3,6 +3,11 @@ title: Замошье
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.03252'
+        lon: '28.47024'
 meta:
     fgb:
         post_id: '78457'

@@ -3,6 +3,11 @@ title: 'На 1-й Заводской'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.52141'
+        lon: '30.45126'
 meta:
     fgb:
         post_id: '79527'

@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.32216'
+        lon: '27.36305'
 meta:
     fgb:
         post_id: '104026'

@@ -3,6 +3,11 @@ title: 'Ревучая криница (Петропавловская)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.34637'
+        lon: '29.81286'
 meta:
     fgb:
         post_id: '77149'

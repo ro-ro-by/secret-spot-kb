@@ -3,6 +3,11 @@ title: 'Валун Большой камень полторавщинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.345122'
+        lon: '26.212992'
 meta:
     fgb:
         post_id: '77732'

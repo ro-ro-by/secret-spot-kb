@@ -3,6 +3,11 @@ title: Корма
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ельский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.70977'
+        lon: '28.60691'
 meta:
     fgb:
         post_id: '75267'

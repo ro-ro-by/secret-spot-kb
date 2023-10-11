@@ -3,6 +3,11 @@ title: 'Криница 2 (№10)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.0495'
+        lon: '28.618'
 meta:
     fgb:
         post_id: '75339'

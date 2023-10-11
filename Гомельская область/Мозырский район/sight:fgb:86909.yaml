@@ -3,6 +3,11 @@ title: 'У истока Тура'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.00707'
+        lon: '28.98386'
 meta:
     fgb:
         post_id: '86909'

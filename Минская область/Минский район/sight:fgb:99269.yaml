@@ -3,6 +3,11 @@ title: Тресковщина
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.91063'
+        lon: '27.09753'
 meta:
     fgb:
         post_id: '99269'

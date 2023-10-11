@@ -3,6 +3,11 @@ title: 'Замлынне (Замлинье, №8)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.0492'
+        lon: '28.85137'
 meta:
     fgb:
         post_id: '75381'

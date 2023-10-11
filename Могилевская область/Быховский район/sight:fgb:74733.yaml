@@ -3,6 +3,11 @@ title: 'Сосны-гиганты Новобоярские'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.42021'
+        lon: '30.0037'
 meta:
     fgb:
         post_id: '74733'

@@ -3,6 +3,11 @@ title: Мехеды
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.26375'
+        lon: '28.15686'
 meta:
     fgb:
         post_id: '75750'

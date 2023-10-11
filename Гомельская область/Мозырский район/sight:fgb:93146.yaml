@@ -3,6 +3,11 @@ title: 'Колодец Лучежевичи (Лучижевичи-2)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.09229'
+        lon: '29.1799'
 meta:
     fgb:
         post_id: '93146'

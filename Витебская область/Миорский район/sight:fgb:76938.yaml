@@ -3,6 +3,11 @@ title: 'Кублищинский Большой Камень (1)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Миорский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.541806'
+        lon: '27.523149'
 meta:
     fgb:
         post_id: '76938'

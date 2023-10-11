@@ -3,6 +3,11 @@ title: 'Свято-Троицкий Щарский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.41214'
+        lon: '24.88656'
 meta:
     fgb:
         post_id: '77547'

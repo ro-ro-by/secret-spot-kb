@@ -3,6 +3,11 @@ title: 'Волчья гора'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.12887'
+        lon: '29.50658'
 meta:
     fgb:
         post_id: '70796'

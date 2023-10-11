@@ -3,6 +3,11 @@ title: 'Святоянская криница'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.79447'
+        lon: '25.8568'
 meta:
     fgb:
         post_id: '77635'

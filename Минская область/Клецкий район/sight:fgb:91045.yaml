@@ -3,6 +3,11 @@ title: Понача
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.96093'
+        lon: '26.47522'
 meta:
     fgb:
         post_id: '91045'

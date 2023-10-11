@@ -3,6 +3,11 @@ title: 'Витов колодец'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.27286'
+        lon: '29.08679'
 meta:
     fgb:
         post_id: '75711'

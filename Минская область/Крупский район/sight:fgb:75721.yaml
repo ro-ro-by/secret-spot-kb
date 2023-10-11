@@ -3,6 +3,11 @@ title: 'Кравец (Цар-Камень)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.595312'
+        lon: '29.154362'
 meta:
     fgb:
         post_id: '75721'

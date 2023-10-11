@@ -3,6 +3,11 @@ title: Гидропарк
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.19826'
+        lon: '27.24075'
 meta:
     fgb:
         post_id: '98351'

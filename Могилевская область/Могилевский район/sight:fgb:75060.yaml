@@ -3,6 +3,11 @@ title: 'Данилова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.77777'
+        lon: '30.33971'
 meta:
     fgb:
         post_id: '75060'

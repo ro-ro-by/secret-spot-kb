@@ -3,6 +3,11 @@ title: 'Каменка - 2'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.5874'
+        lon: '23.77691'
 meta:
     fgb:
         post_id: '79320'

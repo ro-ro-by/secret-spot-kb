@@ -3,6 +3,11 @@ title: Ключики
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.82475'
+        lon: '31.05342'
 meta:
     fgb:
         post_id: '78485'

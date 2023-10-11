@@ -3,6 +3,11 @@ title: 'Родник Хартов (Архиерейская дача)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.15691'
+        lon: '30.19589'
 meta:
     fgb:
         post_id: '78377'

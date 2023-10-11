@@ -3,6 +3,11 @@ title: 'Бювет "Ангел"'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.85129'
+        lon: '27.61438'
 meta:
     fgb:
         post_id: '75839'

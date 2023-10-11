@@ -3,6 +3,11 @@ title: 'Принеманское-1 (Жидовщина-1)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65462'
+        lon: '23.90286'
 meta:
     fgb:
         post_id: '98357'

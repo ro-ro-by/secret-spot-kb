@@ -3,6 +3,11 @@ title: 'Малая Каменка'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.33510'
+        lon: '30.7025'
 meta:
     fgb:
         post_id: '99268'

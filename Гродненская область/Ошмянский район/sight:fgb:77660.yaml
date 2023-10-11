@@ -3,6 +3,11 @@ title: 'Гологурский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.531135'
+        lon: '25.945640'
 meta:
     fgb:
         post_id: '77660'

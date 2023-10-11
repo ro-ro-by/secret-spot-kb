@@ -3,6 +3,11 @@ title: 'Святых Маккавеев'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.9029'
+        lon: '29.4004'
 meta:
     fgb:
         post_id: '74722'

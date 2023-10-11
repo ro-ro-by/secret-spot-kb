@@ -3,6 +3,11 @@ title: 'Пресвятой Богородицы (Святой колодец, С
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.86159'
+        lon: '27.85048'
 meta:
     fgb:
         post_id: '75777'

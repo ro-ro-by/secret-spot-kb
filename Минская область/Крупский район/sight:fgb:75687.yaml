@@ -3,6 +3,11 @@ title: 'Родник Бобр'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.33274'
+        lon: '29.25105'
 meta:
     fgb:
         post_id: '75687'

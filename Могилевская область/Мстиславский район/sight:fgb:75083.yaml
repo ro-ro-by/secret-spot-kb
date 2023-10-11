@@ -3,6 +3,11 @@ title: 'Рыбацкая криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.04751'
+        lon: '31.69858'
 meta:
     fgb:
         post_id: '75083'

@@ -3,6 +3,11 @@ title: Аэродромный
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.63664'
+        lon: '23.73427'
 meta:
     fgb:
         post_id: '99266'

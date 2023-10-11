@@ -3,6 +3,11 @@ title: Гирмантовцы
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.27630'
+        lon: '25.92690'
 meta:
     fgb:
         post_id: '78321'

@@ -3,6 +3,11 @@ title: 'Родники живой и мёртвой воды'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.45620'
+        lon: '25.80871'
 meta:
     fgb:
         post_id: '77599'

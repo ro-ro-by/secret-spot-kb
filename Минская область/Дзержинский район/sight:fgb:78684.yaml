@@ -3,6 +3,11 @@ title: 'Исток р.Птичь'
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.85886'
+        lon: '27.10104'
 meta:
     fgb:
         post_id: '78684'

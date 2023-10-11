@@ -3,6 +3,11 @@ title: 'Родник Николая Чудотворца'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36026'
+        lon: '25.81093'
 meta:
     fgb:
         post_id: '78141'

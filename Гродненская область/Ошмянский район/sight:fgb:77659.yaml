@@ -3,6 +3,11 @@ title: 'Гологурский большой камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.530976'
+        lon: '25.943070'
 meta:
     fgb:
         post_id: '77659'

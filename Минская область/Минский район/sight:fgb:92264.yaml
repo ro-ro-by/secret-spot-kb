@@ -3,6 +3,11 @@ title: 'У соснового бора  (Городищанский-5)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.82812'
+        lon: '27.33599'
 meta:
     fgb:
         post_id: '92264'

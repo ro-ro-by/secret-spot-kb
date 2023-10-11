@@ -3,6 +3,11 @@ title: 'Родник Исток'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Городокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.60966'
+        lon: '29.98692'
 meta:
     fgb:
         post_id: '76782'

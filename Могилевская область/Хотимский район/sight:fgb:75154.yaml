@@ -3,6 +3,11 @@ title: Леванова
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.24038'
+        lon: '32.41503'
 meta:
     fgb:
         post_id: '75154'

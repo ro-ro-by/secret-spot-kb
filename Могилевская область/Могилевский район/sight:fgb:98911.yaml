@@ -3,6 +3,11 @@ title: Дунаёк
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.81246'
+        lon: '30.28921'
 meta:
     fgb:
         post_id: '98911'

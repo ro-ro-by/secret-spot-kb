@@ -3,6 +3,11 @@ title: 'Родник Хоментовских'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.33343'
+        lon: '29.79511'
 meta:
     fgb:
         post_id: '100626'

@@ -3,6 +3,11 @@ title: Водолей
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.99583'
+        lon: '28.11805'
 meta:
     fgb:
         post_id: '98654'

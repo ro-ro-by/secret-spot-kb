@@ -3,6 +3,11 @@ title: 'Бювет в Уручье'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.94554'
+        lon: '27.67830'
 meta:
     fgb:
         post_id: '78724'

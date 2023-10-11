@@ -3,6 +3,11 @@ title: Липка
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.64014'
+        lon: '28.15527'
 meta:
     fgb:
         post_id: '99532'

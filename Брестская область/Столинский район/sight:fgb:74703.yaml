@@ -3,6 +3,11 @@ title: 'У Эолового холма'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Столинский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.9257'
+        lon: '26.7981'
 meta:
     fgb:
         post_id: '74703'

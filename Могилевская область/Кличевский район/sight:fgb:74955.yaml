@@ -3,6 +3,11 @@ title: 'Криница совхоз  Кличевский (Кличевский 
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кличевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.58405'
+        lon: '29.44236'
 meta:
     fgb:
         post_id: '74955'

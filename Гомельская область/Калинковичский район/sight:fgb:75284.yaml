@@ -3,6 +3,11 @@ title: 'Пеница (Рождества Богородицы)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Калинковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.03138'
+        lon: '29.39561'
 meta:
     fgb:
         post_id: '75284'

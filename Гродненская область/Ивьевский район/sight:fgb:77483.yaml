@@ -3,6 +3,11 @@ title: 'Валун Довнарский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.969677'
+        lon: '26.079730'
 meta:
     fgb:
         post_id: '77483'

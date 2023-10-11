@@ -3,6 +3,11 @@ title: 'Мацкевичев камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.701131'
+        lon: '25.831065'
 meta:
     fgb:
         post_id: '77619'

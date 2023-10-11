@@ -3,6 +3,11 @@ title: 'Заполье Мотыкалы'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.21901'
+        lon: '23.59116'
 meta:
     fgb:
         post_id: '74523'

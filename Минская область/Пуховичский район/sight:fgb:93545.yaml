@@ -3,6 +3,11 @@ title: 'Родник на 2-й Набережной'
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52171'
+        lon: '28.15832'
 meta:
     fgb:
         post_id: '93545'

@@ -3,6 +3,11 @@ title: Барсуки-2
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.88872'
+        lon: '28.40527'
 meta:
     fgb:
         post_id: '88126'

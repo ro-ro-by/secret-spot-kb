@@ -3,6 +3,11 @@ title: 'Большой камень  тусуманский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.175611'
+        lon: '25.413446'
 meta:
     fgb:
         post_id: '77301'

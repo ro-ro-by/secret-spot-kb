@@ -3,6 +3,11 @@ title: 'У одинокой сосны'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.40986'
+        lon: '29.00279'
 meta:
     fgb:
         post_id: '99090'

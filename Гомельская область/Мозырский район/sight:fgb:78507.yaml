@@ -3,6 +3,11 @@ title: 'На Нагорной-2'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.04933'
+        lon: '29.25352'
 meta:
     fgb:
         post_id: '78507'

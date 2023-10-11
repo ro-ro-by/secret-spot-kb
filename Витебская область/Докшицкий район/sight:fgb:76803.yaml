@@ -3,6 +3,11 @@ title: 'Окаменелый Степан'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.712999'
+        lon: '27.944296'
 meta:
     fgb:
         post_id: '76803'

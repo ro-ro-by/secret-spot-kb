@@ -3,6 +3,11 @@ title: 'Помещика Пищало-2 (Городищанский-4)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.82961'
+        lon: '27.34173'
 meta:
     fgb:
         post_id: '91049'

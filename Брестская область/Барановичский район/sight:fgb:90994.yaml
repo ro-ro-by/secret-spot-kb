@@ -3,6 +3,11 @@ title: Ежонка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.99747'
+        lon: '25.63239'
 meta:
     fgb:
         post_id: '90994'

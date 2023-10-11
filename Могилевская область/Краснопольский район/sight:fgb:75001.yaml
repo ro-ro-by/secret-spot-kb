@@ -3,6 +3,11 @@ title: Криница
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.37307'
+        lon: '31.40639'
 meta:
     fgb:
         post_id: '75001'

@@ -3,6 +3,11 @@ title: 'Камень малиновщинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.122417'
+        lon: '25.326888'
 meta:
     fgb:
         post_id: '77297'

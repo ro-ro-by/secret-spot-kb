@@ -3,6 +3,11 @@ title: 'Бювет Белорусочка'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.96700'
+        lon: '27.43441'
 meta:
     fgb:
         post_id: '86911'

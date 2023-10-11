@@ -3,6 +3,11 @@ title: Королевский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68383'
+        lon: '23.83031'
 meta:
     fgb:
         post_id: '77340'

@@ -3,6 +3,11 @@ title: 'На Северной'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Светлогорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.81358'
+        lon: '29.41963'
 meta:
     fgb:
         post_id: '98927'

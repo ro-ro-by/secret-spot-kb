@@ -3,6 +3,11 @@ title: 'Родник около д. Трубенок'
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.05412'
+        lon: '28.32357'
 meta:
     fgb:
         post_id: '98653'

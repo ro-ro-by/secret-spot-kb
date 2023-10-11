@@ -3,6 +3,11 @@ title: 'Сунгловщина-2 (Школьный)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.3174'
+        lon: '25.68046'
 meta:
     fgb:
         post_id: '90999'

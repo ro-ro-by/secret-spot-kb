@@ -3,6 +3,11 @@ title: Калинино
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.20443'
+        lon: '29.16309'
 meta:
     fgb:
         post_id: '74730'

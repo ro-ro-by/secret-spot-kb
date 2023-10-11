@@ -3,6 +3,11 @@ title: Зарекуша
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Глусский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.75784'
+        lon: '28.76555'
 meta:
     fgb:
         post_id: '74774'

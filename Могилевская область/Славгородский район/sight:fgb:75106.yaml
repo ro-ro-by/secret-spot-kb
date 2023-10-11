@@ -3,6 +3,11 @@ title: 'Алексеева криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.50473'
+        lon: '31.11784'
 meta:
     fgb:
         post_id: '75106'

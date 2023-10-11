@@ -3,6 +3,11 @@ title: 'Родник доктора Пастернацкого'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.70304'
+        lon: '27.52275'
 meta:
     fgb:
         post_id: '75847'

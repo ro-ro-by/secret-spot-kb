@@ -3,6 +3,11 @@ title: Успенский
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.21005'
+        lon: '31.194'
 meta:
     fgb:
         post_id: '74785'

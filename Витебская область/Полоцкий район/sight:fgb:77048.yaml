@@ -3,6 +3,11 @@ title: 'Божий ключ'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Полоцкий район'
+location:
+    type: point
+    coordinates:
+        lat: '55.63715'
+        lon: '29.36657'
 meta:
     fgb:
         post_id: '77048'

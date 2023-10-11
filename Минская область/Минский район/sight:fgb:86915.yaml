@@ -3,6 +3,11 @@ title: Пралеска
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.96028'
+        lon: '27.41149'
 meta:
     fgb:
         post_id: '86915'

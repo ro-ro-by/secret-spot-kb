@@ -3,6 +3,11 @@ title: 'Козловичи-1 (Под Ясенем)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.30476'
+        lon: '25.80112'
 meta:
     fgb:
         post_id: '95313'

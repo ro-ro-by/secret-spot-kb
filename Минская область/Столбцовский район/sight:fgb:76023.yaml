@@ -3,6 +3,11 @@ title: 'Судницкие родники'
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.50153'
+        lon: '26.619'
 meta:
     fgb:
         post_id: '76023'

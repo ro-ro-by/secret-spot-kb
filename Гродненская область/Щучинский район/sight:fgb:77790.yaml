@@ -3,6 +3,11 @@ title: 'Валун Лятсквысокий (Валун в д. Лядск Выс
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.634259'
+        lon: '24.599287'
 meta:
     fgb:
         post_id: '77790'

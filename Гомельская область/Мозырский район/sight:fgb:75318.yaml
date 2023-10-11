@@ -3,6 +3,11 @@ title: 'Живой (№23)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.96438'
+        lon: '29.4013'
 meta:
     fgb:
         post_id: '75318'

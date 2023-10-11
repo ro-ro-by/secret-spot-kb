@@ -3,6 +3,11 @@ title: Заборок
 belongsTo:
     region: 'Витебская область'
     subregion: 'Городокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.57716'
+        lon: '30.47171'
 meta:
     fgb:
         post_id: '76751'

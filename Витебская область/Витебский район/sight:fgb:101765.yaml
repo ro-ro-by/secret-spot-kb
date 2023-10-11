@@ -3,6 +3,11 @@ title: 'Родник Лучёса-Май'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.15697'
+        lon: '30.19981'
 meta:
     fgb:
         post_id: '101765'

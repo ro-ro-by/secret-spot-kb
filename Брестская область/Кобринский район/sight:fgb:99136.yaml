@@ -3,6 +3,11 @@ title: 'Надмогильный камень'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.219642'
+        lon: '24.539638'
 meta:
     fgb:
         post_id: '99136'

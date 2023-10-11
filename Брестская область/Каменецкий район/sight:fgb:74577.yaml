@@ -3,6 +3,11 @@ title: 'Родник Ставы (Свято Михайловский)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.22754'
+        lon: '23.31889'
 meta:
     fgb:
         post_id: '74577'

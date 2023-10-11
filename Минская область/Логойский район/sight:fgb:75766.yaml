@@ -3,6 +3,11 @@ title: 'Святого Юрия'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.27126'
+        lon: '27.89868'
 meta:
     fgb:
         post_id: '75766'

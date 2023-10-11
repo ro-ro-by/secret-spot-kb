@@ -3,6 +3,11 @@ title: Осова
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.07728'
+        lon: '25.21742'
 meta:
     fgb:
         post_id: '79450'

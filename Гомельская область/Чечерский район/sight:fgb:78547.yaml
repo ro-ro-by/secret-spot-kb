@@ -3,6 +3,11 @@ title: Сидоровичи-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.03757'
+        lon: '31.15349'
 meta:
     fgb:
         post_id: '78547'

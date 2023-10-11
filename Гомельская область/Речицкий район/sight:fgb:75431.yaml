@@ -3,6 +3,11 @@ title: 'Покровский источник'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Речицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.46655'
+        lon: '30.36710'
 meta:
     fgb:
         post_id: '75431'

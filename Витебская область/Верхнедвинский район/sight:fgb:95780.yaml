@@ -3,6 +3,11 @@ title: 'Молочный (Святой)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.90995'
+        lon: '27.8854'
 meta:
     fgb:
         post_id: '95780'

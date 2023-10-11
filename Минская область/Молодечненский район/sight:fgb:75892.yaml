@@ -3,6 +3,11 @@ title: 'Янки Купалы'
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.09033'
+        lon: '27.19682'
 meta:
     fgb:
         post_id: '75892'

@@ -3,6 +3,11 @@ title: Ильянка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.74294'
+        lon: '29.79002'
 meta:
     fgb:
         post_id: '78432'

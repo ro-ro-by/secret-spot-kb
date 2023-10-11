@@ -3,6 +3,11 @@ title: Новосёлки
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.60603'
+        lon: '31.08151'
 meta:
     fgb:
         post_id: '93129'

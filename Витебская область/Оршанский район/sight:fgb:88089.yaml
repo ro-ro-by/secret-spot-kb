@@ -3,6 +3,11 @@ title: Василенка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.6089'
+        lon: '30.10861'
 meta:
     fgb:
         post_id: '88089'

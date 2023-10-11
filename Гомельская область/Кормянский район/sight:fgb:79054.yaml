@@ -3,6 +3,11 @@ title: Литвиновичи-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Кормянский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.1799'
+        lon: '30.85478'
 meta:
     fgb:
         post_id: '79054'

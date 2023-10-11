@@ -3,6 +3,11 @@ title: 'Заценьский родник'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.9751'
+        lon: '27.5014'
 meta:
     fgb:
         post_id: '86954'

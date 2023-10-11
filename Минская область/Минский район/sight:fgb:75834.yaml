@@ -3,6 +3,11 @@ title: 'Бювет Криница'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.95459'
+        lon: '27.42485'
 meta:
     fgb:
         post_id: '75834'

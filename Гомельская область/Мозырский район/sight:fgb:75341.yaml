@@ -3,6 +3,11 @@ title: 'Придорожная (№3)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.91849'
+        lon: '29.29386'
 meta:
     fgb:
         post_id: '75341'

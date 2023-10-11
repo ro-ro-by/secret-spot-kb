@@ -3,6 +3,11 @@ title: 'Под Замковой горой (Забелышинская, Сели
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69244'
+        lon: '31.71862'
 meta:
     fgb:
         post_id: '75016'

@@ -3,6 +3,11 @@ title: 'Исток реки Западная Березина'
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.06925'
+        lon: '27.10033'
 meta:
     fgb:
         post_id: '78741'

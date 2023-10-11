@@ -3,6 +3,11 @@ title: 'Большой камень ясловицкий'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.869380'
+        lon: '25.844490'
 meta:
     fgb:
         post_id: '77495'

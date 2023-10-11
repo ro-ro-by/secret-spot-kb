@@ -3,6 +3,11 @@ title: 'Валун Большой камень дайновский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.063541'
+        lon: '25.402805'
 meta:
     fgb:
         post_id: '77283'

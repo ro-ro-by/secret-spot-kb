@@ -3,6 +3,11 @@ title: Усошное
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.92210'
+        lon: '31.23619'
 meta:
     fgb:
         post_id: '78549'

@@ -3,6 +3,11 @@ title: 'Абчасаны валун з выявай мяча і надпісам
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.946473'
+        lon: '27.099394'
 meta:
     fgb:
         post_id: '75933'

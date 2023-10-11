@@ -3,6 +3,11 @@ title: Хорошевский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.75554'
+        lon: '25.89516'
 meta:
     fgb:
         post_id: '79502'

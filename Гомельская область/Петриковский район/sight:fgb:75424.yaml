@@ -3,6 +3,11 @@ title: 'Святая криница около аг.Челющевичи'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Петриковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.36097'
+        lon: '28.70831'
 meta:
     fgb:
         post_id: '75424'

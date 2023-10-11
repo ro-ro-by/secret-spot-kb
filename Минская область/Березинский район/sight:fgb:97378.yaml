@@ -3,6 +3,11 @@ title: 'Родник Ладони'
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.76735'
+        lon: '28.92615'
 meta:
     fgb:
         post_id: '97378'

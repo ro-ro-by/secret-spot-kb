@@ -3,6 +3,11 @@ title: 'Родник Ясенец (Кипяток)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.35469'
+        lon: '26.05344'
 meta:
     fgb:
         post_id: '70743'

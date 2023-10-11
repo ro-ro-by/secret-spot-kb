@@ -3,6 +3,11 @@ title: 'Божкова (Лучежевичи 4 дачи, №28)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.09473'
+        lon: '29.15550'
 meta:
     fgb:
         post_id: '75355'

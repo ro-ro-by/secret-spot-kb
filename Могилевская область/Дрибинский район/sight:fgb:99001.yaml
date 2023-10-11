@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.02485'
+        lon: '30.9825'
 meta:
     fgb:
         post_id: '99001'

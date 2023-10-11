@@ -3,6 +3,11 @@ title: Кипяча
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.43924'
+        lon: '29.97945'
 meta:
     fgb:
         post_id: '74754'

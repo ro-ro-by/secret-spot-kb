@@ -3,6 +3,11 @@ title: 'Бориса и Глеба (Борисоглебская, Святочн
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Шкловский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.28513'
+        lon: '30.29067'
 meta:
     fgb:
         post_id: '75221'

@@ -3,6 +3,11 @@ title: 'В санатории'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Полоцкий район'
+location:
+    type: point
+    coordinates:
+        lat: '55.54922'
+        lon: '28.6179'
 meta:
     fgb:
         post_id: '77043'

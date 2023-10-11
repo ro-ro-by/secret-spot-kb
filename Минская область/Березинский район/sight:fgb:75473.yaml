@@ -3,6 +3,11 @@ title: 'Святое озеро'
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.79665'
+        lon: '29.08896'
 meta:
     fgb:
         post_id: '75473'

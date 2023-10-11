@@ -3,6 +3,11 @@ title: 'Поляновский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.723033'
+        lon: '26.360084'
 meta:
     fgb:
         post_id: '77748'

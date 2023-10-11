@@ -3,6 +3,11 @@ title: Царь-сосна
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Житковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.00119'
+        lon: '27.85768'
 meta:
     fgb:
         post_id: '99518'

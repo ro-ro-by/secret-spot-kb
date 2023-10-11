@@ -3,6 +3,11 @@ title: Липино
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.33681'
+        lon: '25.95655'
 meta:
     fgb:
         post_id: '74665'

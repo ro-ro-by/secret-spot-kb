@@ -3,6 +3,11 @@ title: 'Святой Ров'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.54538'
+        lon: '25.94094'
 meta:
     fgb:
         post_id: '78595'

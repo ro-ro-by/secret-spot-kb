@@ -3,6 +3,11 @@ title: Полесье-4
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.0788'
+        lon: '31.2876'
 meta:
     fgb:
         post_id: '98966'

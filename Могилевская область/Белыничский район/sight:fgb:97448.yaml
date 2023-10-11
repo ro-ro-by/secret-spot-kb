@@ -3,6 +3,11 @@ title: 'Аверкава криница (Фамильный)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.78583'
+        lon: '29.75268'
 meta:
     fgb:
         post_id: '97448'

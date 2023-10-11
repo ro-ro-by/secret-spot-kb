@@ -3,6 +3,11 @@ title: Кипучка
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02402'
+        lon: '31.17922'
 meta:
     fgb:
         post_id: '98964'

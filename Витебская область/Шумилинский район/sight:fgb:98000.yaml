@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.36366'
+        lon: '29.23982'
 meta:
     fgb:
         post_id: '98000'

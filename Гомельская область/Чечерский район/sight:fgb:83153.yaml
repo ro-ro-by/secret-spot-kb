@@ -3,6 +3,11 @@ title: Сергеева-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.99235'
+        lon: '31.17673'
 meta:
     fgb:
         post_id: '83153'

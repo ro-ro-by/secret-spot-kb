@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.84122'
+        lon: '30.02883'
 meta:
     fgb:
         post_id: '78873'

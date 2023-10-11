@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.33172'
+        lon: '28.21674'
 meta:
     fgb:
         post_id: '75548'

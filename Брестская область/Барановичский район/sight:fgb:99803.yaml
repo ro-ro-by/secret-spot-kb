@@ -3,6 +3,11 @@ title: Огородники
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.25735'
+        lon: '25.87824'
 meta:
     fgb:
         post_id: '99803'

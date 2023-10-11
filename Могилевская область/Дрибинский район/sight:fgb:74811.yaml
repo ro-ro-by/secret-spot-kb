@@ -3,6 +3,11 @@ title: 'Халимонова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.04804'
+        lon: '30.97246'
 meta:
     fgb:
         post_id: '74811'

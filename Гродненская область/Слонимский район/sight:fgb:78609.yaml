@@ -3,6 +3,11 @@ title: Деревная-1
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.20329'
+        lon: '25.50081'
 meta:
     fgb:
         post_id: '78609'

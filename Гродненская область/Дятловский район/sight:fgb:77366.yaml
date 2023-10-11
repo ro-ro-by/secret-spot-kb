@@ -3,6 +3,11 @@ title: 'Жуковщинский (на Дарашовщине)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Дятловский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52284'
+        lon: '25.35517'
 meta:
     fgb:
         post_id: '77366'

@@ -3,6 +3,11 @@ title: 'Селецкий источник'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Берёзовский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.57902'
+        lon: '24.83602'
 meta:
     fgb:
         post_id: '78111'

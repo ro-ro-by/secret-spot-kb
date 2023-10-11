@@ -3,6 +3,11 @@ title: Олехновичи
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.15363'
+        lon: '27.10458'
 meta:
     fgb:
         post_id: '75893'

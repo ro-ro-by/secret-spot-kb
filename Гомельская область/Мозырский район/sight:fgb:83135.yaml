@@ -3,6 +3,11 @@ title: Придорожная-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.91822'
+        lon: '29.29428'
 meta:
     fgb:
         post_id: '83135'

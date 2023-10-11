@@ -3,6 +3,11 @@ title: 'Николковский ключ'
 belongsTo:
     region: 'Минская область'
     subregion: 'Узденский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.51039'
+        lon: '27.40626'
 meta:
     fgb:
         post_id: '76043'

@@ -3,6 +3,11 @@ title: Придорожный
 belongsTo:
     region: 'Витебская область'
     subregion: 'Бешенковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.12226'
+        lon: '29.28339'
 meta:
     fgb:
         post_id: '76731'

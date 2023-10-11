@@ -3,6 +3,11 @@ title: 'Исток р. Селища'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36309'
+        lon: '26.16659'
 meta:
     fgb:
         post_id: '74491'

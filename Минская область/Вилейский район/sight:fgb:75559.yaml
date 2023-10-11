@@ -3,6 +3,11 @@ title: 'Обнажение Поповцы'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.576962'
+        lon: '26.704780'
 meta:
     fgb:
         post_id: '75559'

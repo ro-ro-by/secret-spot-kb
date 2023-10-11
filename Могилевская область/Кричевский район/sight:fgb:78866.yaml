@@ -3,6 +3,11 @@ title: Ильинский
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.70228'
+        lon: '31.72817'
 meta:
     fgb:
         post_id: '78866'

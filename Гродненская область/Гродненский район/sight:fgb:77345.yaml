@@ -3,6 +3,11 @@ title: 'Криничная-1 (Исток ручья, 100 крыниц)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.83827'
+        lon: '23.89327'
 meta:
     fgb:
         post_id: '77345'

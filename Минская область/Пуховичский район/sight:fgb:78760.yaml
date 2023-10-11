@@ -3,6 +3,11 @@ title: 'Родник Школьный'
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52475'
+        lon: '28.17993'
 meta:
     fgb:
         post_id: '78760'

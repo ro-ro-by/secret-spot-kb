@@ -3,6 +3,11 @@ title: 'Бювет вокзальный'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.13240'
+        lon: '25.99276'
 meta:
     fgb:
         post_id: '90988'

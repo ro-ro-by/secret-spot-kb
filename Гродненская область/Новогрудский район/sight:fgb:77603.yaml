@@ -3,6 +3,11 @@ title: 'Святителя Николая Чудотворца'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.60269'
+        lon: '25.90458'
 meta:
     fgb:
         post_id: '77603'

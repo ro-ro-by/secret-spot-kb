@@ -3,6 +3,11 @@ title: Иоаннов
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.73091'
+        lon: '25.00845'
 meta:
     fgb:
         post_id: '77532'

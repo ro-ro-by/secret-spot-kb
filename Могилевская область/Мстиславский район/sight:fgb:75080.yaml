@@ -3,6 +3,11 @@ title: 'Родник Пустынский в часовне'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.10076'
+        lon: '31.74948'
 meta:
     fgb:
         post_id: '75080'

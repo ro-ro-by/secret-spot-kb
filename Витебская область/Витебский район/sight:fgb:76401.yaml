@@ -3,6 +3,11 @@ title: 'Иоанна Крестителя'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.20841'
+        lon: '30.25380'
 meta:
     fgb:
         post_id: '76401'

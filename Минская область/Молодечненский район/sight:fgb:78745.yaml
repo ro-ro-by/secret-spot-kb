@@ -3,6 +3,11 @@ title: Вязынка
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.12183'
+        lon: '27.20992'
 meta:
     fgb:
         post_id: '78745'

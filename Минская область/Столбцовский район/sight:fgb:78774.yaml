@@ -3,6 +3,11 @@ title: 'Кипяток (Кипяток, Кипетни, Котлы, Отмыт)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.61101'
+        lon: '26.67232'
 meta:
     fgb:
         post_id: '78774'

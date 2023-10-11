@@ -3,6 +3,11 @@ title: 'Родник у дворца'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.61052'
+        lon: '24.74413'
 meta:
     fgb:
         post_id: '83994'

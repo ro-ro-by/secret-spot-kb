@@ -3,6 +3,11 @@ title: Метявичи
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.79919'
+        lon: '27.58772'
 meta:
     fgb:
         post_id: '76005'

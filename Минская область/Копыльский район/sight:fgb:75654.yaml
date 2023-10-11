@@ -3,6 +3,11 @@ title: 'Шпаковщина (Криница)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.12917'
+        lon: '27.05633'
 meta:
     fgb:
         post_id: '75654'

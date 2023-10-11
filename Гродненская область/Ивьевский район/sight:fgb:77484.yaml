@@ -3,6 +3,11 @@ title: 'Валун Большой камень гудишкинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.979028'
+        lon: '26.118420'
 meta:
     fgb:
         post_id: '77484'

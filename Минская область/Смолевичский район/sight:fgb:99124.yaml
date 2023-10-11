@@ -3,6 +3,11 @@ title: Камень-следавік
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.830150'
+        lon: '27.963697'
 meta:
     fgb:
         post_id: '99124'

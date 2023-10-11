@@ -3,6 +3,11 @@ title: 'Войневичский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.367905'
+        lon: '26.048453'
 meta:
     fgb:
         post_id: '77667'

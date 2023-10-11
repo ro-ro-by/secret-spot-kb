@@ -3,6 +3,11 @@ title: Рудня
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.88483'
+        lon: '28.36881'
 meta:
     fgb:
         post_id: '78778'

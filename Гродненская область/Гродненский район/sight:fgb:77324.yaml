@@ -3,6 +3,11 @@ title: 'Гродненские форты'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.619733'
+        lon: '23.670977'
 meta:
     fgb:
         post_id: '77324'

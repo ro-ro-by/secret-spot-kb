@@ -3,6 +3,11 @@ title: 'Живоносная Крыничка (Кристальная, №4)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ельский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.85763'
+        lon: '29.22949'
 meta:
     fgb:
         post_id: '75266'

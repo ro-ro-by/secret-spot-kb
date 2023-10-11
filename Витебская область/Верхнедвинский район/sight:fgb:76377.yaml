@@ -3,6 +3,11 @@ title: Пятинка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.90573'
+        lon: '27.74298'
 meta:
     fgb:
         post_id: '76377'

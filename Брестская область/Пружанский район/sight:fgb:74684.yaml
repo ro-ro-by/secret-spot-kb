@@ -3,6 +3,11 @@ title: 'Родник святой Троицы'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.47617'
+        lon: '24.12985'
 meta:
     fgb:
         post_id: '74684'

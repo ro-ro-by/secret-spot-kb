@@ -3,6 +3,11 @@ title: 'Синява (Столбцовский)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.45972'
+        lon: '26.71039'
 meta:
     fgb:
         post_id: '76031'

@@ -3,6 +3,11 @@ title: Подыгрушка
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.94085'
+        lon: '31.09102'
 meta:
     fgb:
         post_id: '78534'

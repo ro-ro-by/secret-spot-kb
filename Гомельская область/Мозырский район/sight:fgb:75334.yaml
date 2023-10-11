@@ -3,6 +3,11 @@ title: 'Волчий-2, Воўчая крыніца'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.03145'
+        lon: '29.12515'
 meta:
     fgb:
         post_id: '75334'

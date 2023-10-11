@@ -3,6 +3,11 @@ title: 'Бювет в Малиновке'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.85771'
+        lon: '27.43951'
 meta:
     fgb:
         post_id: '78733'

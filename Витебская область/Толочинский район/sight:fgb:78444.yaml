@@ -3,6 +3,11 @@ title: Коханово-1
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.46173'
+        lon: '29.99422'
 meta:
     fgb:
         post_id: '78444'

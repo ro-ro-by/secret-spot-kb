@@ -3,6 +3,11 @@ title: 'Родник Крыжики (За чёрным бродом)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.58228'
+        lon: '28.86801'
 meta:
     fgb:
         post_id: '104016'

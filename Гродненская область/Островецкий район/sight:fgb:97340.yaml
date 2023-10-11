@@ -3,6 +3,11 @@ title: Комаришки
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.86278'
+        lon: '26.32639'
 meta:
     fgb:
         post_id: '97340'

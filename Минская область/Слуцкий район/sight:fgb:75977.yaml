@@ -3,6 +3,11 @@ title: 'Божией Матери Остробрамской'
 belongsTo:
     region: 'Минская область'
     subregion: 'Слуцкий район'
+location:
+    type: point
+    coordinates:
+        lat: '53.19009'
+        lon: '27.57178'
 meta:
     fgb:
         post_id: '75977'

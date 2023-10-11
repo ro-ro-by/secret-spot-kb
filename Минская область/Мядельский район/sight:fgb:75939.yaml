@@ -3,6 +3,11 @@ title: 'Виктосева Криница'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.88797'
+        lon: '26.90065'
 meta:
     fgb:
         post_id: '75939'

@@ -3,6 +3,11 @@ title: 'Родник Завершье'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.98537'
+        lon: '25.32801'
 meta:
     fgb:
         post_id: '100628'

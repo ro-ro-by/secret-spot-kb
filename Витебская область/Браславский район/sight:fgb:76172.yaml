@@ -3,6 +3,11 @@ title: 'Родник Исток Никли'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Браславский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.77593'
+        lon: '27.31165'
 meta:
     fgb:
         post_id: '76172'

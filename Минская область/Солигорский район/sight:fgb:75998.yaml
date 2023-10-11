@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.59563'
+        lon: '27.10978'
 meta:
     fgb:
         post_id: '75998'

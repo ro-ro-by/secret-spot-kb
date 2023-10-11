@@ -3,6 +3,11 @@ title: Святой
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.98318'
+        lon: '25.55431'
 meta:
     fgb:
         post_id: '78110'

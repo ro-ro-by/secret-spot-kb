@@ -3,6 +3,11 @@ title: 'Родник Живица (Иконы Божией Матери Живо
 belongsTo:
     region: 'Витебская область'
     subregion: 'Городокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.46288'
+        lon: '29.99024'
 meta:
     fgb:
         post_id: '76781'

@@ -3,6 +3,11 @@ title: Басины
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02648'
+        lon: '25.59220'
 meta:
     fgb:
         post_id: '88346'

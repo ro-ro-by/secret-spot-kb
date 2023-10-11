@@ -3,6 +3,11 @@ title: 'Бювет на Мирошниченко'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.95580'
+        lon: '27.60272'
 meta:
     fgb:
         post_id: '78725'

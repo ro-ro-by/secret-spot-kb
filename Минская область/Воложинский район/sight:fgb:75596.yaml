@@ -3,6 +3,11 @@ title: 'Валуны Макасичские'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.910164'
+        lon: '26.855914'
 meta:
     fgb:
         post_id: '75596'

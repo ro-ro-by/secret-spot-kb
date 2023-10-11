@@ -3,6 +3,11 @@ title: 'Вкусная вода'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.25298'
+        lon: '27.72357'
 meta:
     fgb:
         post_id: '75756'

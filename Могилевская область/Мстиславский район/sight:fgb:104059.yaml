@@ -3,6 +3,11 @@ title: Подцерковщина
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.07590'
+        lon: '31.61825'
 meta:
     fgb:
         post_id: '104059'

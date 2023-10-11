@@ -3,6 +3,11 @@ title: 'Казацкие Болсуны'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.92368'
+        lon: '31.3533'
 meta:
     fgb:
         post_id: '93125'

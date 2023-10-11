@@ -3,6 +3,11 @@ title: 'У оборонительного вала (Городищанский, 
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.82841'
+        lon: '27.33905'
 meta:
     fgb:
         post_id: '91046'

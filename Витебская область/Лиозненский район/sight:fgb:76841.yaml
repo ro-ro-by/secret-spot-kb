@@ -3,6 +3,11 @@ title: Добромысли
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лиозненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.93242'
+        lon: '30.6676'
 meta:
     fgb:
         post_id: '76841'

@@ -3,6 +3,11 @@ title: 'Дзедава спадчына'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.84488'
+        lon: '28.54328'
 meta:
     fgb:
         post_id: '76835'

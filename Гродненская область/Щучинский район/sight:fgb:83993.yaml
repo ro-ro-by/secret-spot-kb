@@ -3,6 +3,11 @@ title: 'Водолей  (Больничный)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.74454'
+        lon: '24.52501'
 meta:
     fgb:
         post_id: '83993'

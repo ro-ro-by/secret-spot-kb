@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.80888'
+        lon: '29.28498'
 meta:
     fgb:
         post_id: '75472'

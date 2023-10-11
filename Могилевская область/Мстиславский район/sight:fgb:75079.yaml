@@ -3,6 +3,11 @@ title: 'Святой источник Пустынский'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.10174'
+        lon: '31.74921'
 meta:
     fgb:
         post_id: '75079'

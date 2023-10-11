@@ -3,6 +3,11 @@ title: 'Целителя Пантелеймона'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Костюковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.33405'
+        lon: '32.08071'
 meta:
     fgb:
         post_id: '92280'

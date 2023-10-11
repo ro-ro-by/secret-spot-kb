@@ -3,6 +3,11 @@ title: 'Качановичи-2 (исток Уши)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.18901'
+        lon: '26.73599'
 meta:
     fgb:
         post_id: '98352'

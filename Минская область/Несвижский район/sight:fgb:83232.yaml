@@ -3,6 +3,11 @@ title: Малево-2
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.20516'
+        lon: '26.57645'
 meta:
     fgb:
         post_id: '83232'

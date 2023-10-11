@@ -3,6 +3,11 @@ title: 'На реке Саморанка'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.15804'
+        lon: '25.53406'
 meta:
     fgb:
         post_id: '74554'

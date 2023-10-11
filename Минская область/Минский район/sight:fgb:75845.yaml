@@ -3,6 +3,11 @@ title: Усяжа-1
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.06450'
+        lon: '27.71740'
 meta:
     fgb:
         post_id: '75845'

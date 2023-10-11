@@ -3,6 +3,11 @@ title: 'На Набережной'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.33731'
+        lon: '31.39819'
 meta:
     fgb:
         post_id: '98758'

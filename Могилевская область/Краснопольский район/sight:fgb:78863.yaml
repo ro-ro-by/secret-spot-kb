@@ -3,6 +3,11 @@ title: 'Иоанна Крестителя (Святой ключ)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.19627'
+        lon: '31.34353'
 meta:
     fgb:
         post_id: '78863'

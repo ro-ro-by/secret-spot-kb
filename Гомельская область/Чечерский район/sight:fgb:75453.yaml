@@ -3,6 +3,11 @@ title: 'На Восточной'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.90971'
+        lon: '30.93416'
 meta:
     fgb:
         post_id: '75453'

@@ -3,6 +3,11 @@ title: 'Исторический камень "Хутор Пелевцы"'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.741341'
+        lon: '24.592877'
 meta:
     fgb:
         post_id: '103482'

@@ -3,6 +3,11 @@ title: 'Бювет Восток-1'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.93382'
+        lon: '27.64155'
 meta:
     fgb:
         post_id: '78729'

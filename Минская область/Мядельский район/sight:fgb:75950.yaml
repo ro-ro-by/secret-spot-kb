@@ -3,6 +3,11 @@ title: Куельский
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.95669'
+        lon: '26.43749'
 meta:
     fgb:
         post_id: '75950'

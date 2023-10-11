@@ -3,6 +3,11 @@ title: 'Малютка (№12)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.00083'
+        lon: '29.34284'
 meta:
     fgb:
         post_id: '75348'

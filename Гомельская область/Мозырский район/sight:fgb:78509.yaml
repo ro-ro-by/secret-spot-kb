@@ -3,6 +3,11 @@ title: 'На Льва Толстого'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.03499'
+        lon: '29.27367'
 meta:
     fgb:
         post_id: '78509'

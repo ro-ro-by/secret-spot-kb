@@ -3,6 +3,11 @@ title: 'Родник Святая вода Дехтяревская'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Миорский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.57360'
+        lon: '27.48894'
 meta:
     fgb:
         post_id: '76937'

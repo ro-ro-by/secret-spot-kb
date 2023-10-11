@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Добрушский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.18964'
+        lon: '31.75698'
 meta:
     fgb:
         post_id: '97770'

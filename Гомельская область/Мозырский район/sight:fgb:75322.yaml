@@ -3,6 +3,11 @@ title: 'Комаровка (№ 20)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.06753'
+        lon: '28.92996'
 meta:
     fgb:
         post_id: '75322'

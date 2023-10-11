@@ -3,6 +3,11 @@ title: Левобережный
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.41050'
+        lon: '24.51047'
 meta:
     fgb:
         post_id: '79492'

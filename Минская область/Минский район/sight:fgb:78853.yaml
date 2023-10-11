@@ -3,6 +3,11 @@ title: 'Хмелёвка (Песчаный)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.03242'
+        lon: '27.25542'
 meta:
     fgb:
         post_id: '78853'

@@ -3,6 +3,11 @@ title: 'Родник Лесной'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.5077'
+        lon: '29.15051'
 meta:
     fgb:
         post_id: '75690'

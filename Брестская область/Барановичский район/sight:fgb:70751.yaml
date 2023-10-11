@@ -3,6 +3,11 @@ title: 'Валун Камень Филаретов'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.37377'
+        lon: '26.11168'
 meta:
     fgb:
         post_id: '70751'

@@ -3,6 +3,11 @@ title: Молчадка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.2897'
+        lon: '25.82669'
 meta:
     fgb:
         post_id: '78108'

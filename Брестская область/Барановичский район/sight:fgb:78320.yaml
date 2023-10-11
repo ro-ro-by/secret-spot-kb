@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.33983'
+        lon: '26.01245'
 meta:
     fgb:
         post_id: '78320'

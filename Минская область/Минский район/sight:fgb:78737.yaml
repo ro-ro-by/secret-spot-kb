@@ -3,6 +3,11 @@ title: 'На Птичи-1'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.86631'
+        lon: '27.31692'
 meta:
     fgb:
         post_id: '78737'

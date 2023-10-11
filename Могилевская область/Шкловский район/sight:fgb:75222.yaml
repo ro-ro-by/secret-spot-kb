@@ -3,6 +3,11 @@ title: 'Ходевичский родник'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Шкловский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.15912'
+        lon: '30.20827'
 meta:
     fgb:
         post_id: '75222'

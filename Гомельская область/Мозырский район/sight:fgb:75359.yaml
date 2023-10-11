@@ -3,6 +3,11 @@ title: Борисковичи-4
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.03873'
+        lon: '29.13407'
 meta:
     fgb:
         post_id: '75359'

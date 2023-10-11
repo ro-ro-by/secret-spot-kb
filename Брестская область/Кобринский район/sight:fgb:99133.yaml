@@ -3,6 +3,11 @@ title: 'Камень с изображениями и надписями'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.266687'
+        lon: '24.692310'
 meta:
     fgb:
         post_id: '99133'

@@ -3,6 +3,11 @@ title: Горожка
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36621'
+        lon: '28.7733'
 meta:
     fgb:
         post_id: '75099'

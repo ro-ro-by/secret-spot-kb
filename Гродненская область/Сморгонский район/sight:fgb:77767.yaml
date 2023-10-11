@@ -3,6 +3,11 @@ title: 'Боровая Мельница (Крыница)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.49508'
+        lon: '26.42909'
 meta:
     fgb:
         post_id: '77767'

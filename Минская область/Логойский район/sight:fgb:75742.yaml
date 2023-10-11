@@ -3,6 +3,11 @@ title: 'Погребищенские родники'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.25861'
+        lon: '28.01539'
 meta:
     fgb:
         post_id: '75742'

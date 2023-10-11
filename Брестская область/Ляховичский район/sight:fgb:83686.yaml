@@ -3,6 +3,11 @@ title: Замковый
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ляховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.04091'
+        lon: '26.25636'
 meta:
     fgb:
         post_id: '83686'

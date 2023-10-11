@@ -3,6 +3,11 @@ title: Франчиха
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лельчицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '51.86837'
+        lon: '28.06258'
 meta:
     fgb:
         post_id: '86908'

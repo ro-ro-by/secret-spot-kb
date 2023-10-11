@@ -3,6 +3,11 @@ title: 'Казанской иконы Божией Матери'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Костюковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.35335'
+        lon: '32.09742'
 meta:
     fgb:
         post_id: '78861'

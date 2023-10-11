@@ -3,6 +3,11 @@ title: 'Бытенский (Три криницы, №13)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.91681'
+        lon: '25.49488'
 meta:
     fgb:
         post_id: '74570'

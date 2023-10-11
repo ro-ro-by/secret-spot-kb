@@ -3,6 +3,11 @@ title: Тарасов
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.08419'
+        lon: '29.33648'
 meta:
     fgb:
         post_id: '71238'

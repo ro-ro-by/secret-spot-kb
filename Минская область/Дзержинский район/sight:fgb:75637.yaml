@@ -3,6 +3,11 @@ title: Радима
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.59222'
+        lon: '27.29586'
 meta:
     fgb:
         post_id: '75637'

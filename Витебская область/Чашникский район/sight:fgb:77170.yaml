@@ -3,6 +3,11 @@ title: 'Родник Святая вода (Jesus, Иезус)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Чашникский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.85070'
+        lon: '29.29009'
 meta:
     fgb:
         post_id: '77170'

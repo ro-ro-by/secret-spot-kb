@@ -3,6 +3,11 @@ title: 'На склоне Луковой горы'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.20811'
+        lon: '29.22791'
 meta:
     fgb:
         post_id: '70790'

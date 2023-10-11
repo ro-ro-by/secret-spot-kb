@@ -3,6 +3,11 @@ title: Горовата
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.51660'
+        lon: '26.53251'
 meta:
     fgb:
         post_id: '88356'

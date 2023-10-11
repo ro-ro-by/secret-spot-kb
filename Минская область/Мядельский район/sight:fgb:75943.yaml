@@ -3,6 +3,11 @@ title: Нарочанский-4
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.90361'
+        lon: '26.6952'
 meta:
     fgb:
         post_id: '75943'

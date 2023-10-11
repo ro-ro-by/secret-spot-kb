@@ -3,6 +3,11 @@ title: 'Иоанна Предтечи (Святого Яна)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.01832'
+        lon: '25.34812'
 meta:
     fgb:
         post_id: '77718'

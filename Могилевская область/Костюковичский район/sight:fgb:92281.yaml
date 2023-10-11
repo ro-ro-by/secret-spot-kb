@@ -3,6 +3,11 @@ title: Крупня-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Костюковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.43737'
+        lon: '31.94155'
 meta:
     fgb:
         post_id: '92281'

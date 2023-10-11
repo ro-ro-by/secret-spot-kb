@@ -3,6 +3,11 @@ title: 'Родник Бутовщина'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.10550'
+        lon: '28.80990'
 meta:
     fgb:
         post_id: '104019'

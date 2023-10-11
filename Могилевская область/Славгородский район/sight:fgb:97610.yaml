@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.3494513'
+        lon: '30.6339518'
 meta:
     fgb:
         post_id: '97610'

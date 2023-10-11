@@ -3,6 +3,11 @@ title: Иканы
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.50111'
+        lon: '28.21307'
 meta:
     fgb:
         post_id: '76660'

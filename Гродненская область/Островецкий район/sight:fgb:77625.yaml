@@ -3,6 +3,11 @@ title: 'Германишский валун-1'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.573632'
+        lon: '25.925771'
 meta:
     fgb:
         post_id: '77625'

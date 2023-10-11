@@ -3,6 +3,11 @@ title: Лошница-2
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.27614'
+        lon: '28.75753'
 meta:
     fgb:
         post_id: '96991'

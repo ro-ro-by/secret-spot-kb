@@ -3,6 +3,11 @@ title: Павлиново-2
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02522'
+        lon: '25.81760'
 meta:
     fgb:
         post_id: '99800'

@@ -3,6 +3,11 @@ title: 'Костёльный (В Фарном костеле)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.60128'
+        lon: '25.83003'
 meta:
     fgb:
         post_id: '92260'

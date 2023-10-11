@@ -3,6 +3,11 @@ title: Мельничный
 belongsTo:
     region: 'Минская область'
     subregion: 'Узденский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.41866'
+        lon: '27.13202'
 meta:
     fgb:
         post_id: '96444'

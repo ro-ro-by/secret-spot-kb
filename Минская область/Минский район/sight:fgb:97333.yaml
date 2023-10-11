@@ -3,6 +3,11 @@ title: 'На Птичи-2'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.86633'
+        lon: '27.31667'
 meta:
     fgb:
         post_id: '97333'

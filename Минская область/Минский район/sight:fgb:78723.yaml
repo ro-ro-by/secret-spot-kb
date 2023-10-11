@@ -3,6 +3,11 @@ title: 'Бювет в сквере Шевченко'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.91544'
+        lon: '27.55791'
 meta:
     fgb:
         post_id: '78723'

@@ -3,6 +3,11 @@ title: Ливье
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.5856'
+        lon: '26.91513'
 meta:
     fgb:
         post_id: '97376'

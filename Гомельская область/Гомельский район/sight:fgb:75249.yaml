@@ -3,6 +3,11 @@ title: 'Явицкий (Клёнки)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.45650'
+        lon: '31.08826'
 meta:
     fgb:
         post_id: '75249'

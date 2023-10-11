@@ -3,6 +3,11 @@ title: Логи
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.97810'
+        lon: '28.36462'
 meta:
     fgb:
         post_id: '98009'

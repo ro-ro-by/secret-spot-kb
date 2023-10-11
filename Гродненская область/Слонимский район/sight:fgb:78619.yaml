@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02728'
+        lon: '25.47323'
 meta:
     fgb:
         post_id: '78619'

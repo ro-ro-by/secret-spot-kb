@@ -3,6 +3,11 @@ title: Щатково-2
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.23016'
+        lon: '29.19713'
 meta:
     fgb:
         post_id: '70795'

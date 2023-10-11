@@ -3,6 +3,11 @@ title: 'Белыничской иконы Божией Матери'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.99293'
+        lon: '29.70094'
 meta:
     fgb:
         post_id: '71237'

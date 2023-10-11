@@ -3,6 +3,11 @@ title: 'Дуб черешчатый Буда-Кошелевский-2'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Буда-Кошелевский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.726727'
+        lon: '30.490691'
 meta:
     fgb:
         post_id: '75232'

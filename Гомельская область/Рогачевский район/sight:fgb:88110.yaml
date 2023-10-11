@@ -3,6 +3,11 @@ title: 'Святой родник'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Рогачевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.19452'
+        lon: '30.54923'
 meta:
     fgb:
         post_id: '88110'

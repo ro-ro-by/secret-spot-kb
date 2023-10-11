@@ -3,6 +3,11 @@ title: 'Любны (на Любенской)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.41158'
+        lon: '30.9922'
 meta:
     fgb:
         post_id: '78493'

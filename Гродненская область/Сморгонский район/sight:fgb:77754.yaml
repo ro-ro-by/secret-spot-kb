@@ -3,6 +3,11 @@ title: 'Углянский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.514542'
+        lon: '26.609350'
 meta:
     fgb:
         post_id: '77754'

@@ -3,6 +3,11 @@ title: Журавкова
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.77709'
+        lon: '31.80976'
 meta:
     fgb:
         post_id: '75013'

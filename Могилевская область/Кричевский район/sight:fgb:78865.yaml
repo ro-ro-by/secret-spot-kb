@@ -3,6 +3,11 @@ title: 'Около пляжа (Забелышинский-???)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68853'
+        lon: '31.72075'
 meta:
     fgb:
         post_id: '78865'

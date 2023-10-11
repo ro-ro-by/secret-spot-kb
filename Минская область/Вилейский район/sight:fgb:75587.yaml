@@ -3,6 +3,11 @@ title: 'Язэпаў камень'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.530384'
+        lon: '27.034255'
 meta:
     fgb:
         post_id: '75587'

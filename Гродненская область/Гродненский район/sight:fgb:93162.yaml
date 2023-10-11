@@ -3,6 +3,11 @@ title: Иволга
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.8565'
+        lon: '23.83666'
 meta:
     fgb:
         post_id: '93162'

@@ -3,6 +3,11 @@ title: Сухари
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.96764'
+        lon: '30.72387'
 meta:
     fgb:
         post_id: '98910'

@@ -3,6 +3,11 @@ title: Гливинский
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.17346'
+        lon: '28.59311'
 meta:
     fgb:
         post_id: '76659'

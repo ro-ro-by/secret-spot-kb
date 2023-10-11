@@ -3,6 +3,11 @@ title: 'Попова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.70235'
+        lon: '31.4438'
 meta:
     fgb:
         post_id: '75023'

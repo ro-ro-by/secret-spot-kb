@@ -3,6 +3,11 @@ title: 'Святителя Николая Чудотворца (Міколкав
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.63384'
+        lon: '30.25002'
 meta:
     fgb:
         post_id: '74741'

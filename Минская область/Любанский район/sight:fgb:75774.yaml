@@ -3,6 +3,11 @@ title: Полянка
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.53991'
+        lon: '28.31288'
 meta:
     fgb:
         post_id: '75774'

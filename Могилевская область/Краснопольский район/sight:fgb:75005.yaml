@@ -3,6 +3,11 @@ title: 'Выдренка-2 (Барановского)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.13278'
+        lon: '31.29087'
 meta:
     fgb:
         post_id: '75005'

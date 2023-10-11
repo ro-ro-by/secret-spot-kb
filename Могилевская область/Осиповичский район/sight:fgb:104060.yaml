@@ -3,6 +3,11 @@ title: Лапичи
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.43709'
+        lon: '28.54141'
 meta:
     fgb:
         post_id: '104060'

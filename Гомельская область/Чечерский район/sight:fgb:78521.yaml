@@ -3,6 +3,11 @@ title: 'Попова криница'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.96479'
+        lon: '31.02876'
 meta:
     fgb:
         post_id: '78521'

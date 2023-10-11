@@ -3,6 +3,11 @@ title: 'Новинский (Навiнская крынiца)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.98417'
+        lon: '26.91244'
 meta:
     fgb:
         post_id: '83212'

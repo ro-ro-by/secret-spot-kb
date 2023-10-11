@@ -3,6 +3,11 @@ title: 'Видинишский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.795092'
+        lon: '25.925766'
 meta:
     fgb:
         post_id: '77623'

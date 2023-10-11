@@ -3,6 +3,11 @@ title: 'Валун Большой камень смовжитский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.964704'
+        lon: '24.961738'
 meta:
     fgb:
         post_id: '77697'

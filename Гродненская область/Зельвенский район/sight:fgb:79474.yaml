@@ -3,6 +3,11 @@ title: 'На Соловьёва'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.15362'
+        lon: '24.82304'
 meta:
     fgb:
         post_id: '79474'

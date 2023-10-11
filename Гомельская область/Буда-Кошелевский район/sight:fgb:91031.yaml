@@ -3,6 +3,11 @@ title: Еленец-3
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Буда-Кошелевский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.62015'
+        lon: '30.3163'
 meta:
     fgb:
         post_id: '91031'

@@ -3,6 +3,11 @@ title: Лубянка-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.56613'
+        lon: '29.99386'
 meta:
     fgb:
         post_id: '74756'

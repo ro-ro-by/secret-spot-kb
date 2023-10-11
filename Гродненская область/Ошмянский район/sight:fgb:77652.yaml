@@ -3,6 +3,11 @@ title: 'Огороднитский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.414004'
+        lon: '26.038868'
 meta:
     fgb:
         post_id: '77652'

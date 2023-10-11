@@ -3,6 +3,11 @@ title: Верхпольница
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.86731'
+        lon: '23.86882'
 meta:
     fgb:
         post_id: '93160'

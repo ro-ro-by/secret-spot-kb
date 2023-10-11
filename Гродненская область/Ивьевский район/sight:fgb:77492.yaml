@@ -3,6 +3,11 @@ title: 'Большой камень довнарский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.970305'
+        lon: '26.080966'
 meta:
     fgb:
         post_id: '77492'

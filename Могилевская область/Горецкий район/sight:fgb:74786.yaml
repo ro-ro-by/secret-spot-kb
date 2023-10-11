@@ -3,6 +3,11 @@ title: 'На Лесной'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.30986'
+        lon: '30.64798'
 meta:
     fgb:
         post_id: '74786'

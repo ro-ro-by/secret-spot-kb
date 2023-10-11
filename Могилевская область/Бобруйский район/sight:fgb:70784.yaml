@@ -3,6 +3,11 @@ title: 'Вековая сосна'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.025424'
+        lon: '29.138746'
 meta:
     fgb:
         post_id: '70784'

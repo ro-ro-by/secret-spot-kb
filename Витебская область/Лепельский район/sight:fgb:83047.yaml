@@ -3,6 +3,11 @@ title: 'Макаров родник'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.73924'
+        lon: '28.63328'
 meta:
     fgb:
         post_id: '83047'

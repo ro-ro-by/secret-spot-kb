@@ -3,6 +3,11 @@ title: 'Валун Каменный вол кузьмичевский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.607027'
+        lon: '26.946888'
 meta:
     fgb:
         post_id: '75555'

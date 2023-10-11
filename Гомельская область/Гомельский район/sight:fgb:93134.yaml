@@ -3,6 +3,11 @@ title: Поколюбичи-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.50472'
+        lon: '31.02904'
 meta:
     fgb:
         post_id: '93134'

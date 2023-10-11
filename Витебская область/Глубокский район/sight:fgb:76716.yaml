@@ -3,6 +3,11 @@ title: Водозабор-2
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.13734'
+        lon: '27.70853'
 meta:
     fgb:
         post_id: '76716'

@@ -3,6 +3,11 @@ title: Речные
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.97999'
+        lon: '27.9813'
 meta:
     fgb:
         post_id: '86898'

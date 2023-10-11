@@ -3,6 +3,11 @@ title: 'На Садовой'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.57044'
+        lon: '31.13473'
 meta:
     fgb:
         post_id: '78486'

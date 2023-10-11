@@ -3,6 +3,11 @@ title: 'Хведевичский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.797263'
+        lon: '26.446647'
 meta:
     fgb:
         post_id: '77751'

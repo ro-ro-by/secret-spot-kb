@@ -3,6 +3,11 @@ title: 'Фёдоров равок'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.03588'
+        lon: '29.23963'
 meta:
     fgb:
         post_id: '83136'

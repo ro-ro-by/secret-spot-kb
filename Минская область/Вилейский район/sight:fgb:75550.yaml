@@ -3,6 +3,11 @@ title: 'Валун Большой камень дворецкий'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.670732'
+        lon: '26.732236'
 meta:
     fgb:
         post_id: '75550'

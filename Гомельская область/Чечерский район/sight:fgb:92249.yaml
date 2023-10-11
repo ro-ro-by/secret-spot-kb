@@ -3,6 +3,11 @@ title: Ключевой-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.9725'
+        lon: '31.1531'
 meta:
     fgb:
         post_id: '92249'

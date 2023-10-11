@@ -3,6 +3,11 @@ title: Горы
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.27042'
+        lon: '31.19825'
 meta:
     fgb:
         post_id: '79603'

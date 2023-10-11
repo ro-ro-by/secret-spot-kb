@@ -3,6 +3,11 @@ title: Василёк
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69316'
+        lon: '27.24239'
 meta:
     fgb:
         post_id: '97375'

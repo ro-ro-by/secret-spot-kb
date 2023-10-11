@@ -3,6 +3,11 @@ title: 'Родник МариАнны (Криничная-4, Мар’яны)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.8493'
+        lon: '23.886'
 meta:
     fgb:
         post_id: '93158'

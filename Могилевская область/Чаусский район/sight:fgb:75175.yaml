@@ -3,6 +3,11 @@ title: 'Нупрэева криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.66412'
+        lon: '30.91705'
 meta:
     fgb:
         post_id: '75175'

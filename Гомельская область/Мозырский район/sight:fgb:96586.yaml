@@ -3,6 +3,11 @@ title: 'Проньки (Лучижевичи-3)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.0859'
+        lon: '29.18788'
 meta:
     fgb:
         post_id: '96586'

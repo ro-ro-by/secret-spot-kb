@@ -3,6 +3,11 @@ title: 'Явхимова (Ефимова)  криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.6282'
+        lon: '31.07732'
 meta:
     fgb:
         post_id: '75113'

@@ -3,6 +3,11 @@ title: 'Исток ручья'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68802'
+        lon: '25.94541'
 meta:
     fgb:
         post_id: '79499'

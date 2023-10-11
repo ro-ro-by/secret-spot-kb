@@ -3,6 +3,11 @@ title: Пятенка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.32805'
+        lon: '29.69104'
 meta:
     fgb:
         post_id: '77218'

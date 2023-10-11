@@ -3,6 +3,11 @@ title: 'Витов колодец'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.44396'
+        lon: '30.45743'
 meta:
     fgb:
         post_id: '74744'

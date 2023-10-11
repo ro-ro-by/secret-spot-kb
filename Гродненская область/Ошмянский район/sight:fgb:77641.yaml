@@ -3,6 +3,11 @@ title: 'Валун Большой камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.378499'
+        lon: '25.885614'
 meta:
     fgb:
         post_id: '77641'

@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.75941'
+        lon: '25.21556'
 meta:
     fgb:
         post_id: '91005'

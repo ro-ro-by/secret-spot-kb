@@ -3,6 +3,11 @@ title: 'Крупецкий источник'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.93708'
+        lon: '27.49466'
 meta:
     fgb:
         post_id: '75835'

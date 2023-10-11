@@ -3,6 +3,11 @@ title: 'Петро-Павловская криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.53736'
+        lon: '30.91195'
 meta:
     fgb:
         post_id: '75123'

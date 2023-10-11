@@ -3,6 +3,11 @@ title: 'Святого Ильи'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.77726'
+        lon: '29.71185'
 meta:
     fgb:
         post_id: '77135'

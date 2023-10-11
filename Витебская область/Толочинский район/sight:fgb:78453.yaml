@@ -3,6 +3,11 @@ title: 'На правом берегу'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.40634'
+        lon: '29.69044'
 meta:
     fgb:
         post_id: '78453'

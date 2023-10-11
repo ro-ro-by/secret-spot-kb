@@ -3,6 +3,11 @@ title: Черёсово
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.02322'
+        lon: '28.91451'
 meta:
     fgb:
         post_id: '83050'

@@ -3,6 +3,11 @@ title: 'Родник Воложинский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.10003'
+        lon: '26.53039'
 meta:
     fgb:
         post_id: '75619'

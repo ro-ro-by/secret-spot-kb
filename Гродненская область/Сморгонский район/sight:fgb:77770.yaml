@@ -3,6 +3,11 @@ title: Нестанишки
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.76718'
+        lon: '26.3246'
 meta:
     fgb:
         post_id: '77770'

@@ -3,6 +3,11 @@ title: 'Ясачка (Песчанка)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Светлогорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.75268'
+        lon: '29.36332'
 meta:
     fgb:
         post_id: '83986'

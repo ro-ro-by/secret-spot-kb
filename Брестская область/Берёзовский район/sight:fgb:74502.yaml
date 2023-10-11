@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Берёзовский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.58911'
+        lon: '24.87177'
 meta:
     fgb:
         post_id: '74502'

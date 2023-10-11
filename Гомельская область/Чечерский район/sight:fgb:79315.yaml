@@ -3,6 +3,11 @@ title: Озерцы
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.90171'
+        lon: '30.94448'
 meta:
     fgb:
         post_id: '79315'

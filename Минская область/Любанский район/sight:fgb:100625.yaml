@@ -3,6 +3,11 @@ title: 'Родник Кирпичный'
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.87141'
+        lon: '27.82187'
 meta:
     fgb:
         post_id: '100625'

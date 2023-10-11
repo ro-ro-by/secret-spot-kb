@@ -3,6 +3,11 @@ title: 'Камень гудинишкинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.942621'
+        lon: '24.798917'
 meta:
     fgb:
         post_id: '77304'

@@ -3,6 +3,11 @@ title: 'Федорин ключок (Бункер)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.91008'
+        lon: '27.88652'
 meta:
     fgb:
         post_id: '96022'

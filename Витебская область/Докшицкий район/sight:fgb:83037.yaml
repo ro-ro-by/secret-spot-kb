@@ -3,6 +3,11 @@ title: 'Шведский колодец'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.72284'
+        lon: '28.08908'
 meta:
     fgb:
         post_id: '83037'

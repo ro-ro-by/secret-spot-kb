@@ -3,6 +3,11 @@ title: Вишневский
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.14176'
+        lon: '26.20977'
 meta:
     fgb:
         post_id: '75630'

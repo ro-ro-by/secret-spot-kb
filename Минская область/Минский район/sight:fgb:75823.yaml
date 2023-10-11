@@ -3,6 +3,11 @@ title: 'Роговский родник (Святого Яна)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.12583'
+        lon: '27.30029'
 meta:
     fgb:
         post_id: '75823'

@@ -3,6 +3,11 @@ title: 'Валуны Топилишкинские'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.642862'
+        lon: '24.719496'
 meta:
     fgb:
         post_id: '77783'

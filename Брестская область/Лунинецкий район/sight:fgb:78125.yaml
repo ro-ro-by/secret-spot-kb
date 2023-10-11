@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Лунинецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.2674'
+        lon: '26.7056'
 meta:
     fgb:
         post_id: '78125'

@@ -3,6 +3,11 @@ title: 'Серафима Соровского'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.24729'
+        lon: '30.13027'
 meta:
     fgb:
         post_id: '76409'

@@ -3,6 +3,11 @@ title: 'Парк Ясенец'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.354187'
+        lon: '26.039043'
 meta:
     fgb:
         post_id: '95959'

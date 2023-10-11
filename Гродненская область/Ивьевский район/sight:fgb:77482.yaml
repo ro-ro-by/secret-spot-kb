@@ -3,6 +3,11 @@ title: 'Валун Баранишкинский (Барашкаў камень)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.966479'
+        lon: '26.034034'
 meta:
     fgb:
         post_id: '77482'

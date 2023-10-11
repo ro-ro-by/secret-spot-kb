@@ -3,6 +3,11 @@ title: 'Родник Белёво'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.43070'
+        lon: '23.75005'
 meta:
     fgb:
         post_id: '74573'

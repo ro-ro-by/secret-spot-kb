@@ -3,6 +3,11 @@ title: Хатки-1
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.10208'
+        lon: '25.69198'
 meta:
     fgb:
         post_id: '92216'

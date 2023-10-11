@@ -3,6 +3,11 @@ title: Войново
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.75802'
+        lon: '26.02627'
 meta:
     fgb:
         post_id: '93168'

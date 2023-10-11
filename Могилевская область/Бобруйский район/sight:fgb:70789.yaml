@@ -3,6 +3,11 @@ title: 'Панский родник'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.23323'
+        lon: '29.18979'
 meta:
     fgb:
         post_id: '70789'

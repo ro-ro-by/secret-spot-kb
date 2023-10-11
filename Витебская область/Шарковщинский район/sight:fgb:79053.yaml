@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шарковщинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.36787'
+        lon: '27.83571'
 meta:
     fgb:
         post_id: '79053'

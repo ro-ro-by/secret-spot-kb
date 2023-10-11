@@ -3,6 +3,11 @@ title: 'Криница Горки (Святой)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.54170'
+        lon: '31.3295'
 meta:
     fgb:
         post_id: '75194'

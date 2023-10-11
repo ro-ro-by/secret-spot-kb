@@ -3,6 +3,11 @@ title: 'Новый (Ближний, иконы Божией Матери)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.01078'
+        lon: '25.35502'
 meta:
     fgb:
         post_id: '77717'

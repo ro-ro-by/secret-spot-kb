@@ -3,6 +3,11 @@ title: 'Валун Чеслав камень вороновский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.161461'
+        lon: '25.167047'
 meta:
     fgb:
         post_id: '77284'

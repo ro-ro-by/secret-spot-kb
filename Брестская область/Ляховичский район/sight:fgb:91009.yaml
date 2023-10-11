@@ -3,6 +3,11 @@ title: 'Колодец Бохвицей'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ляховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.09219'
+        lon: '26.26869'
 meta:
     fgb:
         post_id: '91009'

@@ -3,6 +3,11 @@ title: 'Рождества Пресвятой Богородицы'
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.83014'
+        lon: '27.96359'
 meta:
     fgb:
         post_id: '78767'

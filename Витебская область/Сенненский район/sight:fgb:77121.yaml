@@ -3,6 +3,11 @@ title: 'Добринский грот (Синявкина)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.79786'
+        lon: '30.30548'
 meta:
     fgb:
         post_id: '77121'

@@ -3,6 +3,11 @@ title: 'Святителя Николая Чудотворца'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.40365'
+        lon: '24.08855'
 meta:
     fgb:
         post_id: '78120'

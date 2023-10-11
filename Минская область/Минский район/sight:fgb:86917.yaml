@@ -3,6 +3,11 @@ title: Крыжовка
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.94164'
+        lon: '27.30104'
 meta:
     fgb:
         post_id: '86917'

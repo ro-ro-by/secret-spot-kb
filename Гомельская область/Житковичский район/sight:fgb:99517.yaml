@@ -3,6 +3,11 @@ title: Царь-дуб
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Житковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.00992'
+        lon: '27.88655'
 meta:
     fgb:
         post_id: '99517'

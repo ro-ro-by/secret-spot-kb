@@ -3,6 +3,11 @@ title: 'Ставы-2 (У лесника)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.24223'
+        lon: '23.36438'
 meta:
     fgb:
         post_id: '74599'

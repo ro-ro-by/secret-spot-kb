@@ -3,6 +3,11 @@ title: 'Зусцэвье (???)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.92474'
+        lon: '28.15363'
 meta:
     fgb:
         post_id: '76809'

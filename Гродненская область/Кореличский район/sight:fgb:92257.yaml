@@ -3,6 +3,11 @@ title: Рутковичи
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52866'
+        lon: '26.05705'
 meta:
     fgb:
         post_id: '92257'

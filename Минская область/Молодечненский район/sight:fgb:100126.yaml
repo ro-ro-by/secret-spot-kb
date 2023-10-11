@@ -3,6 +3,11 @@ title: 'Камень следавік'
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.307166'
+        lon: '26.836802'
 meta:
     fgb:
         post_id: '100126'

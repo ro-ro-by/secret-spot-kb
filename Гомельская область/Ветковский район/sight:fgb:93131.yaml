@@ -3,6 +3,11 @@ title: Перелёвка-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.88594'
+        lon: '31.40704'
 meta:
     fgb:
         post_id: '93131'

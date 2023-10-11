@@ -3,6 +3,11 @@ title: Энергетик
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.2029'
+        lon: '29.91969'
 meta:
     fgb:
         post_id: '96439'

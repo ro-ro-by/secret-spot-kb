@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.36139'
+        lon: '28.20868'
 meta:
     fgb:
         post_id: '76654'

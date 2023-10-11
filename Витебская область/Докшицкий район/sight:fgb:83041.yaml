@@ -3,6 +3,11 @@ title: Кромовичи
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.66985'
+        lon: '27.84295'
 meta:
     fgb:
         post_id: '83041'

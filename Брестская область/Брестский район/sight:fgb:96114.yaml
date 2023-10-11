@@ -3,6 +3,11 @@ title: Жуково
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.75006'
+        lon: '23.68517'
 meta:
     fgb:
         post_id: '96114'

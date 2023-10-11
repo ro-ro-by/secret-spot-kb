@@ -3,6 +3,11 @@ title: Купа
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.52114'
+        lon: '30.45300'
 meta:
     fgb:
         post_id: '77005'

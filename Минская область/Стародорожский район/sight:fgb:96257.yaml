@@ -3,6 +3,11 @@ title: 'Борисов Гай (Борисова Роща, Прошча)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Стародорожский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.199616'
+        lon: '27.981934'
 meta:
     fgb:
         post_id: '96257'

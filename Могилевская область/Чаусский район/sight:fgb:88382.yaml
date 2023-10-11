@@ -3,6 +3,11 @@ title: Заложье-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.01233'
+        lon: '31.04152'
 meta:
     fgb:
         post_id: '88382'

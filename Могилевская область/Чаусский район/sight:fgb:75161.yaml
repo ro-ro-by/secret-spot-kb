@@ -3,6 +3,11 @@ title: 'Родники Байково'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69843'
+        lon: '30.98865'
 meta:
     fgb:
         post_id: '75161'

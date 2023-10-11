@@ -3,6 +3,11 @@ title: №26
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.9639'
+        lon: '29.073'
 meta:
     fgb:
         post_id: '83133'

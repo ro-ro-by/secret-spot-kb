@@ -3,6 +3,11 @@ title: 'Святого Яна'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.31208'
+        lon: '25.56315'
 meta:
     fgb:
         post_id: '74556'

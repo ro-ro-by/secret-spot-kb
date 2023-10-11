@@ -3,6 +3,11 @@ title: 'Реготун (Хохотун)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Климовичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.60929'
+        lon: '31.68715'
 meta:
     fgb:
         post_id: '74831'

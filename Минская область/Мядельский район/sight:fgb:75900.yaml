@@ -3,6 +3,11 @@ title: 'Валун Большой камень гулийский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.921927'
+        lon: '27.201117'
 meta:
     fgb:
         post_id: '75900'

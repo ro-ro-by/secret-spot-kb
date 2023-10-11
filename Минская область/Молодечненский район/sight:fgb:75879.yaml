@@ -3,6 +3,11 @@ title: 'Родник Лешно (Святой)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.30322'
+        lon: '26.73713'
 meta:
     fgb:
         post_id: '75879'

@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Дубровенский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.67305'
+        lon: '31.03192'
 meta:
     fgb:
         post_id: '76825'

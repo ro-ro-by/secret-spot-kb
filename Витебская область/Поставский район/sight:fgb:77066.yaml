@@ -3,6 +3,11 @@ title: 'Щербишские родники'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Поставский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.07603'
+        lon: '26.42421'
 meta:
     fgb:
         post_id: '77066'

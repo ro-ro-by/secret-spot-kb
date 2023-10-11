@@ -3,6 +3,11 @@ title: 'Родник Зеньковский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.97707'
+        lon: '24.87522'
 meta:
     fgb:
         post_id: '77381'

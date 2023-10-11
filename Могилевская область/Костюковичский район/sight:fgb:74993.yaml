@@ -3,6 +3,11 @@ title: 'Криница д. Тупичино'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Костюковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.39027'
+        lon: '32.23773'
 meta:
     fgb:
         post_id: '74993'

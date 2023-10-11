@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.58582'
+        lon: '28.24323'
 meta:
     fgb:
         post_id: '91051'

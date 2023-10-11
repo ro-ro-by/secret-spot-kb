@@ -3,6 +3,11 @@ title: Рышт
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.95518'
+        lon: '30.85143'
 meta:
     fgb:
         post_id: '75172'

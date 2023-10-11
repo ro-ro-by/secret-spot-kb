@@ -3,6 +3,11 @@ title: 'Памяти Матери-3'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.80864'
+        lon: '27.39682'
 meta:
     fgb:
         post_id: '86914'

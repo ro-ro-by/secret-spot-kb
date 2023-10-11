@@ -3,6 +3,11 @@ title: 'Обнажение Винцентово'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.364942'
+        lon: '27.254627'
 meta:
     fgb:
         post_id: '75558'

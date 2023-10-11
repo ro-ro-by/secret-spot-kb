@@ -3,6 +3,11 @@ title: 'На Победе'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Круглянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.24843'
+        lon: '29.80735'
 meta:
     fgb:
         post_id: '75036'

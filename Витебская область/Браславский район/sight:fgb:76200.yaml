@@ -3,6 +3,11 @@ title: Маковея
 belongsTo:
     region: 'Витебская область'
     subregion: 'Браславский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.4261'
+        lon: '26.80044'
 meta:
     fgb:
         post_id: '76200'

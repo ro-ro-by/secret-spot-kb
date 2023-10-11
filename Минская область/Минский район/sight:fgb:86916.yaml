@@ -3,6 +3,11 @@ title: 'Место родника Слёзы Рогнеды-1'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.00828'
+        lon: '27.28871'
 meta:
     fgb:
         post_id: '86916'

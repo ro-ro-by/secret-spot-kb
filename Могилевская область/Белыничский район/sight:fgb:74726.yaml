@@ -3,6 +3,11 @@ title: 'Святая криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.88987'
+        lon: '29.74588'
 meta:
     fgb:
         post_id: '74726'

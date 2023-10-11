@@ -3,6 +3,11 @@ title: Пятинка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.88699'
+        lon: '28.68276'
 meta:
     fgb:
         post_id: '78396'

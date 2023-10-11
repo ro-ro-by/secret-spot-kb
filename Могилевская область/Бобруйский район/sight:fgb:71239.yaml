@@ -3,6 +3,11 @@ title: Селиба
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.06474'
+        lon: '29.24411'
 meta:
     fgb:
         post_id: '71239'

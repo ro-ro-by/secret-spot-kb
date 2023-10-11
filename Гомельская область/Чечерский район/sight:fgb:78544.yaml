@@ -3,6 +3,11 @@ title: Рудня-Нисимковичский-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.92106'
+        lon: '31.17352'
 meta:
     fgb:
         post_id: '78544'

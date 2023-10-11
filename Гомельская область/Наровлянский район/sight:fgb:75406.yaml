@@ -3,6 +3,11 @@ title: 'Жаливля (Лечебная Вода)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Наровлянский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.53854'
+        lon: '29.42619'
 meta:
     fgb:
         post_id: '75406'

@@ -3,6 +3,11 @@ title: Кипячики
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.01297'
+        lon: '30.18612'
 meta:
     fgb:
         post_id: '75064'

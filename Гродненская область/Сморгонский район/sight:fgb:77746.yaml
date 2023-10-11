@@ -3,6 +3,11 @@ title: 'Сутьковский большой камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.391654'
+        lon: '26.376483'
 meta:
     fgb:
         post_id: '77746'

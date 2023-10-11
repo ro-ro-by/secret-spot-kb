@@ -3,6 +3,11 @@ title: 'Романова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.28980'
+        lon: '30.71164'
 meta:
     fgb:
         post_id: '75127'

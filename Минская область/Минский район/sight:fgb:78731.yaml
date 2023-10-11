@@ -3,6 +3,11 @@ title: 'Бювет на Матусевича'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.91670'
+        lon: '27.44641'
 meta:
     fgb:
         post_id: '78731'

@@ -3,6 +3,11 @@ title: Яруга
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.5346'
+        lon: '25.97659'
 meta:
     fgb:
         post_id: '92259'

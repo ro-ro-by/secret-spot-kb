@@ -3,6 +3,11 @@ title: 'Пресвятой Троицы'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.10464'
+        lon: '24.43153'
 meta:
     fgb:
         post_id: '93521'

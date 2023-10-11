@@ -3,6 +3,11 @@ title: 'Красная криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36352'
+        lon: '31.39017'
 meta:
     fgb:
         post_id: '79525'

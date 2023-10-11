@@ -3,6 +3,11 @@ title: 'Забалацкі камень з лункамі'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.667715'
+        lon: '27.007243'
 meta:
     fgb:
         post_id: '76908'

@@ -3,6 +3,11 @@ title: 'Святой источник'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07451'
+        lon: '31.28386'
 meta:
     fgb:
         post_id: '78540'

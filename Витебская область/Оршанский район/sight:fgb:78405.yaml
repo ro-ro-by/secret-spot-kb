@@ -3,6 +3,11 @@ title: Боровка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.38963'
+        lon: '30.36036'
 meta:
     fgb:
         post_id: '78405'

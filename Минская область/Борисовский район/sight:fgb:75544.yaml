@@ -3,6 +3,11 @@ title: 'Татарский колодец'
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.14673'
+        lon: '28.57225'
 meta:
     fgb:
         post_id: '75544'

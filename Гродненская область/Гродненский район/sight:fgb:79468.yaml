@@ -3,6 +3,11 @@ title: 'Скидель - 2'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.56665'
+        lon: '24.19516'
 meta:
     fgb:
         post_id: '79468'

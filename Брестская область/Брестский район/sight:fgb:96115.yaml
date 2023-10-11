@@ -3,6 +3,11 @@ title: Щитники-1
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.23119'
+        lon: '23.50458'
 meta:
     fgb:
         post_id: '96115'

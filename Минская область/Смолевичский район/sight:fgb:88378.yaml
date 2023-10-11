@@ -3,6 +3,11 @@ title: Домашаны
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.01786'
+        lon: '27.94707'
 meta:
     fgb:
         post_id: '88378'

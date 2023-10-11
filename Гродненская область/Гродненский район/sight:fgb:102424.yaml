@@ -3,6 +3,11 @@ title: 'Студня Одельская (Зруй)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.40981'
+        lon: '23.75662'
 meta:
     fgb:
         post_id: '102424'

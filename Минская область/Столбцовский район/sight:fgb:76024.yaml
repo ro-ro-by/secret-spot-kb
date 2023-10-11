@@ -3,6 +3,11 @@ title: 'Родник Красный'
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.77175'
+        lon: '26.64375'
 meta:
     fgb:
         post_id: '76024'

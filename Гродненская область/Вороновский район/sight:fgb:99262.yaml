@@ -3,6 +3,11 @@ title: Мантунский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.84238'
+        lon: '24.85286'
 meta:
     fgb:
         post_id: '99262'

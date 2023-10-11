@@ -3,6 +3,11 @@ title: 'Камень Кравец'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Светлогорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.737413'
+        lon: '29.310423'
 meta:
     fgb:
         post_id: '75446'

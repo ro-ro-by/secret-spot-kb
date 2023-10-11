@@ -3,6 +3,11 @@ title: Супонец-1
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.17725'
+        lon: '28.31442'
 meta:
     fgb:
         post_id: '76725'

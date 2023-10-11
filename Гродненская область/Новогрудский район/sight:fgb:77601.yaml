@@ -3,6 +3,11 @@ title: 'У Колодезной башни (Замковый)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.60072'
+        lon: '25.82781'
 meta:
     fgb:
         post_id: '77601'

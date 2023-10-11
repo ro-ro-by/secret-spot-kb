@@ -3,6 +3,11 @@ title: 'Мартина Туровского'
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.14934'
+        lon: '27.09665'
 meta:
     fgb:
         post_id: '75667'

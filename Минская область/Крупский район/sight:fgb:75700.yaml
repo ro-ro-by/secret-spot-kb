@@ -3,6 +3,11 @@ title: Еленка
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.28215'
+        lon: '29.15124'
 meta:
     fgb:
         post_id: '75700'

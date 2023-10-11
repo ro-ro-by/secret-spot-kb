@@ -3,6 +3,11 @@ title: 'Большой камень туланский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.114166'
+        lon: '25.551599'
 meta:
     fgb:
         post_id: '77494'

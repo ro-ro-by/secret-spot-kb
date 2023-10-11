@@ -3,6 +3,11 @@ title: 'Казанской иконы'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.01408'
+        lon: '25.34524'
 meta:
     fgb:
         post_id: '77720'

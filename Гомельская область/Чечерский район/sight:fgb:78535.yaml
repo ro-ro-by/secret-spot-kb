@@ -3,6 +3,11 @@ title: 'Кипячие ключи'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.92838'
+        lon: '31.03712'
 meta:
     fgb:
         post_id: '78535'

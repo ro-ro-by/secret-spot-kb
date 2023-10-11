@@ -3,6 +3,11 @@ title: 'Родник в деревне Старый Сокол'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.14159'
+        lon: '29.22022'
 meta:
     fgb:
         post_id: '75691'

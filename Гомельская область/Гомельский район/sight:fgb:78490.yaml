@@ -3,6 +3,11 @@ title: Випра
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.45548'
+        lon: '31.00879'
 meta:
     fgb:
         post_id: '78490'

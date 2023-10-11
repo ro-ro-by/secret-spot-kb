@@ -3,6 +3,11 @@ title: Великонемковский-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.86379'
+        lon: '31.32958'
 meta:
     fgb:
         post_id: '93122'

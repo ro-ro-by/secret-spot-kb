@@ -3,6 +3,11 @@ title: Санаторный
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.75624'
+        lon: '28.92522'
 meta:
     fgb:
         post_id: '99528'

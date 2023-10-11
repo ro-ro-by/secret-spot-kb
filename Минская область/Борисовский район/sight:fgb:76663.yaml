@@ -3,6 +3,11 @@ title: Ельница
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.16436'
+        lon: '28.44677'
 meta:
     fgb:
         post_id: '76663'

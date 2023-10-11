@@ -3,6 +3,11 @@ title: Рудаковский
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.89933'
+        lon: '26.89014'
 meta:
     fgb:
         post_id: '75938'

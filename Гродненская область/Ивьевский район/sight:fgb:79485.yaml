@@ -3,6 +3,11 @@ title: Жемыславский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.12827'
+        lon: '25.76716'
 meta:
     fgb:
         post_id: '79485'

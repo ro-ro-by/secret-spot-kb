@@ -3,6 +3,11 @@ title: 'Большой камень Харабровский'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.708771'
+        lon: '27.936051'
 meta:
     fgb:
         post_id: '76364'

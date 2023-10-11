@@ -3,6 +3,11 @@ title: 'На Энке'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07462'
+        lon: '25.30770'
 meta:
     fgb:
         post_id: '77723'

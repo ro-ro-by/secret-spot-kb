@@ -3,6 +3,11 @@ title: 'Копаники (Исток ручья)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57422'
+        lon: '23.75913'
 meta:
     fgb:
         post_id: '93156'

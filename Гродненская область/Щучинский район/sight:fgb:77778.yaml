@@ -3,6 +3,11 @@ title: 'Валун Зеневский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.690617'
+        lon: '24.965302'
 meta:
     fgb:
         post_id: '77778'

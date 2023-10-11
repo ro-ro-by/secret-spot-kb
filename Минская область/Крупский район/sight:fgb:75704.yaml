@@ -3,6 +3,11 @@ title: Смина
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.54732'
+        lon: '29.18972'
 meta:
     fgb:
         post_id: '75704'

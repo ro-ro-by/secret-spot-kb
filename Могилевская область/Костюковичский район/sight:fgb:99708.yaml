@@ -3,6 +3,11 @@ title: Павленка
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Костюковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.14880'
+        lon: '32.07865'
 meta:
     fgb:
         post_id: '99708'

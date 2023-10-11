@@ -3,6 +3,11 @@ title: 'Жорновский дендросад'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.457748'
+        lon: '28.617488'
 meta:
     fgb:
         post_id: '75091'

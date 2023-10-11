@@ -3,6 +3,11 @@ title: 'Родник Песчанка'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.80562'
+        lon: '29.70625'
 meta:
     fgb:
         post_id: '77131'

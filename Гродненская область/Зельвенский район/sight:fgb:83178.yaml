@@ -3,6 +3,11 @@ title: Козюльки
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.15072'
+        lon: '24.87782'
 meta:
     fgb:
         post_id: '83178'

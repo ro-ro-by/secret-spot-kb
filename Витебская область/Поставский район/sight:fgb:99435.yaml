@@ -3,6 +3,11 @@ title: 'Святая криница Верховье'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Поставский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.05163'
+        lon: '27.33775'
 meta:
     fgb:
         post_id: '99435'

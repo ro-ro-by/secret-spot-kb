@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.36403'
+        lon: '23.53307'
 meta:
     fgb:
         post_id: '74593'

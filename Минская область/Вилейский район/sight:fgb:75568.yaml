@@ -3,6 +3,11 @@ title: 'Большой камень ивашиновичский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.558181'
+        lon: '27.130126'
 meta:
     fgb:
         post_id: '75568'

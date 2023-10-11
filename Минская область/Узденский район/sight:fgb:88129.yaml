@@ -3,6 +3,11 @@ title: Замостье
 belongsTo:
     region: 'Минская область'
     subregion: 'Узденский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.42274'
+        lon: '27.00599'
 meta:
     fgb:
         post_id: '88129'

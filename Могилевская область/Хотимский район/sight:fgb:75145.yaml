@@ -3,6 +3,11 @@ title: 'Святая криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.31319'
+        lon: '32.33844'
 meta:
     fgb:
         post_id: '75145'

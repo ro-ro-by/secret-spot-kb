@@ -3,6 +3,11 @@ title: 'У Яна (Яна Купала, Щитно, Лососин)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.77770'
+        lon: '24.89819'
 meta:
     fgb:
         post_id: '92240'

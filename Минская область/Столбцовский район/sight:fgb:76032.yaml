@@ -3,6 +3,11 @@ title: 'Иосифа и Камилии (Рубежевичи, Гореликов
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68984'
+        lon: '26.85738'
 meta:
     fgb:
         post_id: '76032'

@@ -3,6 +3,11 @@ title: Гремячка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.70361'
+        lon: '29.85027'
 meta:
     fgb:
         post_id: '78937'

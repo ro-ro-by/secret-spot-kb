@@ -3,6 +3,11 @@ title: 'Валун Большой камень побоевский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.284198'
+        lon: '24.855981'
 meta:
     fgb:
         post_id: '77535'

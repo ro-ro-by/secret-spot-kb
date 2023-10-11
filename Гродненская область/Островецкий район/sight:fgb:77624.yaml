@@ -3,6 +3,11 @@ title: 'Безданишкинский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.639167'
+        lon: '26.144581'
 meta:
     fgb:
         post_id: '77624'

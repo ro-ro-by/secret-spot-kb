@@ -3,6 +3,11 @@ title: 'Валун Большой камень плисский-2'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.221528'
+        lon: '27.930328'
 meta:
     fgb:
         post_id: '76686'

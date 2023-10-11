@@ -3,6 +3,11 @@ title: Юзефовка
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.6155'
+        lon: '23.7623'
 meta:
     fgb:
         post_id: '91033'

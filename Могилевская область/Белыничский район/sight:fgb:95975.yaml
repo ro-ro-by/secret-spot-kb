@@ -3,6 +3,11 @@ title: 'Родник Крынки'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.84688'
+        lon: '29.75971'
 meta:
     fgb:
         post_id: '95975'

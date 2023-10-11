@@ -3,6 +3,11 @@ title: 'Карасинский родник'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Браславский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.67309'
+        lon: '26.69331'
 meta:
     fgb:
         post_id: '76173'

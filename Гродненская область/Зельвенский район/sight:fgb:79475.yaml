@@ -3,6 +3,11 @@ title: 'У дамбы'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.14507'
+        lon: '24.83146'
 meta:
     fgb:
         post_id: '79475'

@@ -3,6 +3,11 @@ title: 'Гиневский валун-2'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.353914'
+        lon: '26.061592'
 meta:
     fgb:
         post_id: '77675'

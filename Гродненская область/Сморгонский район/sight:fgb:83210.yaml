@@ -3,6 +3,11 @@ title: 'Бювет в Лесной Поляне'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.63682'
+        lon: '26.41550'
 meta:
     fgb:
         post_id: '83210'

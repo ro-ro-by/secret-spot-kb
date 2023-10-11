@@ -3,6 +3,11 @@ title: Малонемковский-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.86409'
+        lon: '31.36586'
 meta:
     fgb:
         post_id: '93127'

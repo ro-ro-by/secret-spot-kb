@@ -3,6 +3,11 @@ title: 'Апостола Петра (Святых Апостолов Петра 
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.31668'
+        lon: '26.13919'
 meta:
     fgb:
         post_id: '77681'

@@ -3,6 +3,11 @@ title: 'Чернушкинский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.346236'
+        lon: '26.084532'
 meta:
     fgb:
         post_id: '77670'

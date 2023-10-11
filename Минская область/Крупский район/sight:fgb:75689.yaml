@@ -3,6 +3,11 @@ title: 'Родник Бездонная Яма'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.26952'
+        lon: '28.97226'
 meta:
     fgb:
         post_id: '75689'

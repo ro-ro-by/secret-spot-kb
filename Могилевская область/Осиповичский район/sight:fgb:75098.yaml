@@ -3,6 +3,11 @@ title: Крынка
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.23296'
+        lon: '28.37022'
 meta:
     fgb:
         post_id: '75098'

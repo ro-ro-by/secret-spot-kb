@@ -3,6 +3,11 @@ title: Береснёвка
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кировский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.33604'
+        lon: '29.63127'
 meta:
     fgb:
         post_id: '83681'

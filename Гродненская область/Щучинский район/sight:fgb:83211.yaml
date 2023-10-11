@@ -3,6 +3,11 @@ title: Перекоп
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.46827'
+        lon: '24.81210'
 meta:
     fgb:
         post_id: '83211'

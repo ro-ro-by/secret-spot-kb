@@ -3,6 +3,11 @@ title: 'На Дмитриева'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.34091'
+        lon: '31.39015'
 meta:
     fgb:
         post_id: '98759'

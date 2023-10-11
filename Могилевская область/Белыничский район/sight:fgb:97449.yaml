@@ -3,6 +3,11 @@ title: 'Минеральный (Солёный)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.78108'
+        lon: '29.763'
 meta:
     fgb:
         post_id: '97449'

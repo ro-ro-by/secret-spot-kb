@@ -3,6 +3,11 @@ title: 'Валун Большой камень красницкий'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.853418'
+        lon: '26.452720'
 meta:
     fgb:
         post_id: '75901'

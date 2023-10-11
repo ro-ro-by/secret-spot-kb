@@ -3,6 +3,11 @@ title: Мстибово-2
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.11454'
+        lon: '24.24080'
 meta:
     fgb:
         post_id: '78559'

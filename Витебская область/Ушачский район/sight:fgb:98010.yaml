@@ -3,6 +3,11 @@ title: Крушиновка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.00705'
+        lon: '28.36864'
 meta:
     fgb:
         post_id: '98010'

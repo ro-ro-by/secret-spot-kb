@@ -3,6 +3,11 @@ title: Боровиковщина-2
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.96018'
+        lon: '26.73298'
 meta:
     fgb:
         post_id: '91042'

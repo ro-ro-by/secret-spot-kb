@@ -3,6 +3,11 @@ title: 'Валун Большой камень бортникский'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.282066'
+        lon: '28.058234'
 meta:
     fgb:
         post_id: '76684'

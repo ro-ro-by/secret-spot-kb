@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '53.09337'
+        lon: '26.73521'
 meta:
     fgb:
         post_id: '93536'

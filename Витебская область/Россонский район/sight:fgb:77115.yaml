@@ -3,6 +3,11 @@ title: 'Морозовый ключ (Морозов лужок)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Россонский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.90288'
+        lon: '29.32580'
 meta:
     fgb:
         post_id: '77115'

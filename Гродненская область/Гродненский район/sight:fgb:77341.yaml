@@ -3,6 +3,11 @@ title: 'Исток литовского ручья'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69190'
+        lon: '23.81020'
 meta:
     fgb:
         post_id: '77341'

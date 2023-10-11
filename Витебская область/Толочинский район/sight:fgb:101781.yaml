@@ -3,6 +3,11 @@ title: 'Родник святителя Николая Чудотворца'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.40701'
+        lon: '29.70094'
 meta:
     fgb:
         post_id: '101781'

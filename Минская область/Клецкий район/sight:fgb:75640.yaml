@@ -3,6 +3,11 @@ title: 'Два сросшихся дуба черешчатых Голынков
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.937976'
+        lon: '26.424801'
 meta:
     fgb:
         post_id: '75640'

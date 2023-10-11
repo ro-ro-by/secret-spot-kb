@@ -3,6 +3,11 @@ title: Студёнка-2
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.10945'
+        lon: '28.86547'
 meta:
     fgb:
         post_id: '76657'

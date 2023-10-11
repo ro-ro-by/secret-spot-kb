@@ -3,6 +3,11 @@ title: 'Державной иконы Божией Матери'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.11633'
+        lon: '25.15695'
 meta:
     fgb:
         post_id: '77393'

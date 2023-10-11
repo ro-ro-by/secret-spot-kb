@@ -3,6 +3,11 @@ title: 'Василя Тяпинского'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Чашникский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.82297'
+        lon: '29.03223'
 meta:
     fgb:
         post_id: '99440'

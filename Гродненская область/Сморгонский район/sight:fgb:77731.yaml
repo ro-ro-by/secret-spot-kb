@@ -3,6 +3,11 @@ title: 'Валун Большой камень кревский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.323487'
+        lon: '26.302889'
 meta:
     fgb:
         post_id: '77731'

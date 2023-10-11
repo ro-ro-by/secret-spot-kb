@@ -3,6 +3,11 @@ title: 'Кагальный колодец'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Бешенковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.13221'
+        lon: '29.87322'
 meta:
     fgb:
         post_id: '76139'

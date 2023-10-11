@@ -3,6 +3,11 @@ title: 'Исток Свинки'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Свислочский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.9971'
+        lon: '24.31316'
 meta:
     fgb:
         post_id: '93173'

@@ -3,6 +3,11 @@ title: Градно
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.93996'
+        lon: '28.65342'
 meta:
     fgb:
         post_id: '88127'

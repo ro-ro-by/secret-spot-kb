@@ -3,6 +3,11 @@ title: Заставье
 belongsTo:
     region: 'Брестская область'
     subregion: 'Дрогичинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.29893'
+        lon: '25.30927'
 meta:
     fgb:
         post_id: '92227'

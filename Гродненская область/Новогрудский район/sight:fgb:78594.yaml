@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.48736'
+        lon: '25.85261'
 meta:
     fgb:
         post_id: '78594'

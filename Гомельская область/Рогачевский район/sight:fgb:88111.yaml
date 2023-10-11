@@ -3,6 +3,11 @@ title: Приднепровский-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Рогачевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07889'
+        lon: '30.20338'
 meta:
     fgb:
         post_id: '88111'

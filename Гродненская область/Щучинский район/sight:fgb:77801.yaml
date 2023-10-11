@@ -3,6 +3,11 @@ title: Буйвичи
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.58934'
+        lon: '24.70779'
 meta:
     fgb:
         post_id: '77801'

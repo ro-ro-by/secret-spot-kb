@@ -3,6 +3,11 @@ title: 'Кустовница-Криничанский (№13, в честь ик
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.00397'
+        lon: '29.33857'
 meta:
     fgb:
         post_id: '75347'

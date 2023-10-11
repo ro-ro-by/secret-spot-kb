@@ -3,6 +3,11 @@ title: 'Жидковичский (Святая криница)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.91134'
+        lon: '29.84219'
 meta:
     fgb:
         post_id: '74723'

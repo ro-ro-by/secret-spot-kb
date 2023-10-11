@@ -3,6 +3,11 @@ title: 'Напротив пляжа'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.63437'
+        lon: '26.41188'
 meta:
     fgb:
         post_id: '78626'

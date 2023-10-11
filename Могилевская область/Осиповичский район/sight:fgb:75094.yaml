@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.29603'
+        lon: '28.64426'
 meta:
     fgb:
         post_id: '75094'

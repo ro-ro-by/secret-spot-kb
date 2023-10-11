@@ -3,6 +3,11 @@ title: 'Святой источник'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Добрушский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.18886'
+        lon: '31.50472'
 meta:
     fgb:
         post_id: '93139'

@@ -3,6 +3,11 @@ title: 'Придорожный колодец'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Лунинецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.23746'
+        lon: '27.26591'
 meta:
     fgb:
         post_id: '88084'

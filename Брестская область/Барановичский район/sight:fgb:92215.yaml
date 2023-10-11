@@ -3,6 +3,11 @@ title: Берёзовка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.03942'
+        lon: '25.77672'
 meta:
     fgb:
         post_id: '92215'

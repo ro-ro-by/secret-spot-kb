@@ -3,6 +3,11 @@ title: 'Валун Большой камень венцевичский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.887737'
+        lon: '26.506548'
 meta:
     fgb:
         post_id: '75898'

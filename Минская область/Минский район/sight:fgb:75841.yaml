@@ -3,6 +3,11 @@ title: 'Бювет на Долгобродской'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.90185'
+        lon: '27.59987'
 meta:
     fgb:
         post_id: '75841'

@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.81355'
+        lon: '26.69666'
 meta:
     fgb:
         post_id: '101816'

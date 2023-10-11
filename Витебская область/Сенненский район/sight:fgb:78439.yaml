@@ -3,6 +3,11 @@ title: 'Колодец Куповать'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.72280'
+        lon: '29.89875'
 meta:
     fgb:
         post_id: '78439'

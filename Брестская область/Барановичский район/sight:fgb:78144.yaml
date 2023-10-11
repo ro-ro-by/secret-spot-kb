@@ -3,6 +3,11 @@ title: Ельских
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.09204'
+        lon: '25.68724'
 meta:
     fgb:
         post_id: '78144'

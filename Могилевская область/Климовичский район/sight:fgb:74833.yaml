@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Климовичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.59869'
+        lon: '32.35803'
 meta:
     fgb:
         post_id: '74833'

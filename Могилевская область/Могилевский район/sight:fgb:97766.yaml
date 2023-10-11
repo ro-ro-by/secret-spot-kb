@@ -3,6 +3,11 @@ title: Семукачи
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.75542'
+        lon: '29.83637'
 meta:
     fgb:
         post_id: '97766'

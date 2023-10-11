@@ -3,6 +3,11 @@ title: 'Под кручей'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.01581'
+        lon: '31.16324'
 meta:
     fgb:
         post_id: '83157'

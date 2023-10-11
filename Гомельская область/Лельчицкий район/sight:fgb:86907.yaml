@@ -3,6 +3,11 @@ title: Симоничи-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лельчицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '51.8849'
+        lon: '28.09966'
 meta:
     fgb:
         post_id: '86907'

@@ -3,6 +3,11 @@ title: 'Лукашова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57129'
+        lon: '31.05611'
 meta:
     fgb:
         post_id: '75119'

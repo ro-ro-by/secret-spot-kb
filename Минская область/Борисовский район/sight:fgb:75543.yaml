@@ -3,6 +3,11 @@ title: 'Ксении Петребургской источник'
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.4925'
+        lon: '28.67629'
 meta:
     fgb:
         post_id: '75543'

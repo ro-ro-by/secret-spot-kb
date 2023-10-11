@@ -3,6 +3,11 @@ title: 'Панский ключок'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.23389'
+        lon: '26.08944'
 meta:
     fgb:
         post_id: '74493'

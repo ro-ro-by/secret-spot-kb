@@ -3,6 +3,11 @@ title: 'Валун Большой камень кучкунский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.011841'
+        lon: '27.106147'
 meta:
     fgb:
         post_id: '75595'

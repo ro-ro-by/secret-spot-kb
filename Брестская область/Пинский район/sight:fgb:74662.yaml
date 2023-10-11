@@ -3,6 +3,11 @@ title: 'Пресвятой Богородицы (Святые колодцы)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.17668'
+        lon: '25.92678'
 meta:
     fgb:
         post_id: '74662'

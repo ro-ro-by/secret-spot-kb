@@ -3,6 +3,11 @@ title: 'Ключевая криница'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.96286'
+        lon: '31.02339'
 meta:
     fgb:
         post_id: '78520'

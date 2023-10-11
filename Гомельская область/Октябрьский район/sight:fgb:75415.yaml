@@ -3,6 +3,11 @@ title: 'Колодец Святой Троицы'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Октябрьский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.62604'
+        lon: '29.00536'
 meta:
     fgb:
         post_id: '75415'

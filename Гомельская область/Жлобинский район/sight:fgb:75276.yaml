@@ -3,6 +3,11 @@ title: Лесань
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Жлобинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.83241'
+        lon: '29.92720'
 meta:
     fgb:
         post_id: '75276'

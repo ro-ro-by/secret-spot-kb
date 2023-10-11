@@ -3,6 +3,11 @@ title: 'Дубы (Сосновец)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.28640'
+        lon: '29.12946'
 meta:
     fgb:
         post_id: '75716'

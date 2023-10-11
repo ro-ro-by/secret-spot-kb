@@ -3,6 +3,11 @@ title: 'Ядвигина Ш.'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.20082'
+        lon: '27.50873'
 meta:
     fgb:
         post_id: '75757'

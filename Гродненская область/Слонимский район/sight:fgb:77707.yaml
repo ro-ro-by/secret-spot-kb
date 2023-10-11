@@ -3,6 +3,11 @@ title: 'Большой камень рудавкавский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.038134'
+        lon: '24.981018'
 meta:
     fgb:
         post_id: '77707'

@@ -3,6 +3,11 @@ title: 'Большая Харьковка'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.43445'
+        lon: '30.41406'
 meta:
     fgb:
         post_id: '99433'

@@ -3,6 +3,11 @@ title: 'Под Петровой горкой (На Мстиславском пе
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.28938'
+        lon: '30.99501'
 meta:
     fgb:
         post_id: '99199'

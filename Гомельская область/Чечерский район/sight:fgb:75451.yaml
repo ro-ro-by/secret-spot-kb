@@ -3,6 +3,11 @@ title: 'На Лесной'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.0542'
+        lon: '31.19068'
 meta:
     fgb:
         post_id: '75451'

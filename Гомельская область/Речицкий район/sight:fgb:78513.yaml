@@ -3,6 +3,11 @@ title: 'Живец (Панский)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Речицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.49359'
+        lon: '30.32739'
 meta:
     fgb:
         post_id: '78513'

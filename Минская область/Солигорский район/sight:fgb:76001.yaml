@@ -3,6 +3,11 @@ title: 'Тычины 1'
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.76512'
+        lon: '27.50779'
 meta:
     fgb:
         post_id: '76001'

@@ -3,6 +3,11 @@ title: 'Большой камень толочкинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.912572'
+        lon: '24.825966'
 meta:
     fgb:
         post_id: '77295'

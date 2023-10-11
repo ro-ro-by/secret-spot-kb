@@ -3,6 +3,11 @@ title: Цагельня
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.89936'
+        lon: '28.98150'
 meta:
     fgb:
         post_id: '97377'

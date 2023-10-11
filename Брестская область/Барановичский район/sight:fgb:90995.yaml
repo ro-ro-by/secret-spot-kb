@@ -3,6 +3,11 @@ title: Студенец
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.28359'
+        lon: '25.85071'
 meta:
     fgb:
         post_id: '90995'

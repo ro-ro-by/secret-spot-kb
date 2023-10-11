@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.47746'
+        lon: '29.42345'
 meta:
     fgb:
         post_id: '79316'

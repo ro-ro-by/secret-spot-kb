@@ -3,6 +3,11 @@ title: 'Большой камень Сеньковщинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.188818'
+        lon: '25.174178'
 meta:
     fgb:
         post_id: '77706'

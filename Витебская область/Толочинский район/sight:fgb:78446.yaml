@@ -3,6 +3,11 @@ title: Баня
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.61749'
+        lon: '29.73478'
 meta:
     fgb:
         post_id: '78446'

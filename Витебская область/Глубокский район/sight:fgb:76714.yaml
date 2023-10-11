@@ -3,6 +3,11 @@ title: Гирстуны
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.13775'
+        lon: '27.5808'
 meta:
     fgb:
         post_id: '76714'

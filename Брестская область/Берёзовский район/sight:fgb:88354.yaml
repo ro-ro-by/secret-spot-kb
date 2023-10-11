@@ -3,6 +3,11 @@ title: Островище
 belongsTo:
     region: 'Брестская область'
     subregion: 'Берёзовский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.57079'
+        lon: '25.10065'
 meta:
     fgb:
         post_id: '88354'

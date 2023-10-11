@@ -3,6 +3,11 @@ title: 'Святой Приднепровский'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Рогачевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07914'
+        lon: '30.20252'
 meta:
     fgb:
         post_id: '98945'

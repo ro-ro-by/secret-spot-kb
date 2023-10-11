@@ -3,6 +3,11 @@ title: 'В парке деревни Дубое'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.0919'
+        lon: '25.77301'
 meta:
     fgb:
         post_id: '74660'

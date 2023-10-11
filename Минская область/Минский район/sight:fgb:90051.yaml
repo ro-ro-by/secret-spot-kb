@@ -3,6 +3,11 @@ title: 'Прилуки-1 (у моста)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.79049'
+        lon: '27.44767'
 meta:
     fgb:
         post_id: '90051'

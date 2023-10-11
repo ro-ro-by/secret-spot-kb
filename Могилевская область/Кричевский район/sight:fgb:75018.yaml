@@ -3,6 +3,11 @@ title: 'Боровая криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.85011'
+        lon: '31.5245'
 meta:
     fgb:
         post_id: '75018'

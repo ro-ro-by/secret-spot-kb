@@ -3,6 +3,11 @@ title: 'Партизанская криничка'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.32092'
+        lon: '30.97733'
 meta:
     fgb:
         post_id: '78494'

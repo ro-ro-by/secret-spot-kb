@@ -3,6 +3,11 @@ title: 'Шпили (Антонины)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.14632'
+        lon: '30.19977'
 meta:
     fgb:
         post_id: '99264'

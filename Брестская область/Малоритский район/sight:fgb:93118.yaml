@@ -3,6 +3,11 @@ title: 'Суворовский колодец (Суворовская студн
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.94156'
+        lon: '23.97065'
 meta:
     fgb:
         post_id: '93118'

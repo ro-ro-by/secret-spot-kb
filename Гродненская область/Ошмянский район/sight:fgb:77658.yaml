@@ -3,6 +3,11 @@ title: 'Анкудовский большой камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.504231'
+        lon: '26.002515'
 meta:
     fgb:
         post_id: '77658'

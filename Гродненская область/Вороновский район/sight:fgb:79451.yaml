@@ -3,6 +3,11 @@ title: 'Святого Георгия'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.0778'
+        lon: '25.21604'
 meta:
     fgb:
         post_id: '79451'

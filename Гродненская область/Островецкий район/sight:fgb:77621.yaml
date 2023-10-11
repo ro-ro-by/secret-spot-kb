@@ -3,6 +3,11 @@ title: 'Ваверанский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.582773'
+        lon: '25.889110'
 meta:
     fgb:
         post_id: '77621'

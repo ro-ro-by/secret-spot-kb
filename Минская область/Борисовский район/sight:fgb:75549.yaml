@@ -3,6 +3,11 @@ title: "Ёзусик\t(Святого Яна)"
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.50278'
+        lon: '28.22334'
 meta:
     fgb:
         post_id: '75549'

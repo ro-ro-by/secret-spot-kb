@@ -3,6 +3,11 @@ title: Кропильница
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.890128'
+        lon: '27.909259'
 meta:
     fgb:
         post_id: '75987'

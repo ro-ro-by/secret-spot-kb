@@ -3,6 +3,11 @@ title: Тартак
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.75536'
+        lon: '25.886'
 meta:
     fgb:
         post_id: '95307'

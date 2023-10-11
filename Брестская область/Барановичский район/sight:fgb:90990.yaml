@@ -3,6 +3,11 @@ title: 'Родник под дамбой'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02600'
+        lon: '25.75548'
 meta:
     fgb:
         post_id: '90990'

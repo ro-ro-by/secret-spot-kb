@@ -3,6 +3,11 @@ title: Мерея
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.41371'
+        lon: '31.1311'
 meta:
     fgb:
         post_id: '74787'

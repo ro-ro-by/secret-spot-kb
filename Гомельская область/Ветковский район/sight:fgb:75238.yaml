@@ -3,6 +3,11 @@ title: 'Святой великомученицы Параскевы'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.65082'
+        lon: '31.07825'
 meta:
     fgb:
         post_id: '75238'

@@ -3,6 +3,11 @@ title: Дягильно
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68902'
+        lon: '27.07776'
 meta:
     fgb:
         post_id: '78681'

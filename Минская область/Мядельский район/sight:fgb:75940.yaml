@@ -3,6 +3,11 @@ title: 'Купа (Нарочанский-1, Нарочанский-2)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.90671'
+        lon: '26.71258'
 meta:
     fgb:
         post_id: '75940'

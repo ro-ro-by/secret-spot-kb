@@ -3,6 +3,11 @@ title: Телентеево
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.47875'
+        lon: '30.36019'
 meta:
     fgb:
         post_id: '99432'

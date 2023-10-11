@@ -3,6 +3,11 @@ title: 'Колодец королевы Боны'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.20974'
+        lon: '26.3464'
 meta:
     fgb:
         post_id: '74658'

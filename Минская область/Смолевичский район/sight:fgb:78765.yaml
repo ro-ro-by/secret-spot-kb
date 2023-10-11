@@ -3,6 +3,11 @@ title: 'Казацкая (???)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.94828'
+        lon: '28.22770'
 meta:
     fgb:
         post_id: '78765'

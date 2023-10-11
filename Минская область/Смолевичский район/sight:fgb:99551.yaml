@@ -3,6 +3,11 @@ title: Ковалевщина-1
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.11772'
+        lon: '27.91499'
 meta:
     fgb:
         post_id: '99551'

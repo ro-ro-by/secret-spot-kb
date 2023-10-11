@@ -3,6 +3,11 @@ title: Мельница
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.31507'
+        lon: '25.705897'
 meta:
     fgb:
         post_id: '71235'

@@ -3,6 +3,11 @@ title: 'Большой камень подсосенский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.714351'
+        lon: '26.664317'
 meta:
     fgb:
         post_id: '75570'

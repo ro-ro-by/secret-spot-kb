@@ -3,6 +3,11 @@ title: 'Родники на Левонабережной'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.67358'
+        lon: '23.82259'
 meta:
     fgb:
         post_id: '78570'

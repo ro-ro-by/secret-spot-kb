@@ -3,6 +3,11 @@ title: 'Теплый Стан (Исток)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.20859'
+        lon: '27.47367'
 meta:
     fgb:
         post_id: '93540'

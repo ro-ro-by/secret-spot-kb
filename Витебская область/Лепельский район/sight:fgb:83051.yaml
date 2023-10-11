@@ -3,6 +3,11 @@ title: 'В Эссенской круче'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.82074'
+        lon: '28.66574'
 meta:
     fgb:
         post_id: '83051'

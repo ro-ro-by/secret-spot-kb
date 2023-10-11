@@ -3,6 +3,11 @@ title: Косаричи-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Глусский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.75584'
+        lon: '28.76986'
 meta:
     fgb:
         post_id: '74773'

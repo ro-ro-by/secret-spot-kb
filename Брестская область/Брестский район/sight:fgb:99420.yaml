@@ -3,6 +3,11 @@ title: 'Колонка «Артезианская скважина №4»'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.08534'
+        lon: '23.68159'
 meta:
     fgb:
         post_id: '99420'

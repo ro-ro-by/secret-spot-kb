@@ -3,6 +3,11 @@ title: 'Якентанский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.616511'
+        lon: '26.133035'
 meta:
     fgb:
         post_id: '77627'

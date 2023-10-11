@@ -3,6 +3,11 @@ title: 'Вока Циклопа (Сероводородный)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.96482'
+        lon: '26.42059'
 meta:
     fgb:
         post_id: '97917'

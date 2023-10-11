@@ -3,6 +3,11 @@ title: 'Верхи-1 и Верхи-2'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.38566'
+        lon: '23.44215'
 meta:
     fgb:
         post_id: '74589'

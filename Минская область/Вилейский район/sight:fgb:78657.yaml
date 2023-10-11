@@ -3,6 +3,11 @@ title: 'На Стахановской'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.49884'
+        lon: '26.92881'
 meta:
     fgb:
         post_id: '78657'

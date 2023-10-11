@@ -3,6 +3,11 @@ title: 'Великая криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.54811'
+        lon: '31.52185'
 meta:
     fgb:
         post_id: '75196'

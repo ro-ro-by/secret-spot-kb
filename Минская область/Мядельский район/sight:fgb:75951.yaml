@@ -3,6 +3,11 @@ title: 'Великий Болцикский (Золотой)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.95084'
+        lon: '26.46530'
 meta:
     fgb:
         post_id: '75951'

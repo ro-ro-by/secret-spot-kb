@@ -3,6 +3,11 @@ title: 'Исток Шляхтянки-2'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.31423'
+        lon: '26.28295'
 meta:
     fgb:
         post_id: '95489'

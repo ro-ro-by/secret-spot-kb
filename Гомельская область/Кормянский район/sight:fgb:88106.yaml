@@ -3,6 +3,11 @@ title: Волынцы-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Кормянский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.18243'
+        lon: '30.99807'
 meta:
     fgb:
         post_id: '88106'

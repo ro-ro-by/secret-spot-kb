@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.5407'
+        lon: '24.2934'
 meta:
     fgb:
         post_id: '91012'

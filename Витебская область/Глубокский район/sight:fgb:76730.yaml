@@ -3,6 +3,11 @@ title: Хролы
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.16687'
+        lon: '28.25823'
 meta:
     fgb:
         post_id: '76730'

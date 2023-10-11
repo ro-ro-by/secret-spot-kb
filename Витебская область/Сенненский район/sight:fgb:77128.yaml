@@ -3,6 +3,11 @@ title: 'Валун Перун'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.7078791'
+        lon: '29.7282095'
 meta:
     fgb:
         post_id: '77128'

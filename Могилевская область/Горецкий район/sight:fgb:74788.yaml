@@ -3,6 +3,11 @@ title: Труд-Аэропорт-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.29709'
+        lon: '30.95636'
 meta:
     fgb:
         post_id: '74788'

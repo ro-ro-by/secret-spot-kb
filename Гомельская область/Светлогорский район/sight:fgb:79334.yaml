@@ -3,6 +3,11 @@ title: 'Янченкова (Святой родник Паричский)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Светлогорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.80983'
+        lon: '29.4212'
 meta:
     fgb:
         post_id: '79334'

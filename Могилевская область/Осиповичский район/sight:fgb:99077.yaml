@@ -3,6 +3,11 @@ title: 'Колодцы с карт РККА'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36775'
+        lon: '28.94072'
 meta:
     fgb:
         post_id: '99077'

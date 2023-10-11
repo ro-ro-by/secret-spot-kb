@@ -3,6 +3,11 @@ title: 'Валун Большой камень смолянковский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.326896'
+        lon: '26.073283'
 meta:
     fgb:
         post_id: '77642'

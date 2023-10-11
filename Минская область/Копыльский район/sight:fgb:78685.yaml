@@ -3,6 +3,11 @@ title: 'Костёлок (Богуши)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.12963'
+        lon: '26.96075'
 meta:
     fgb:
         post_id: '78685'

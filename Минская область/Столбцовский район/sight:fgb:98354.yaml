@@ -3,6 +3,11 @@ title: Мацейчекова
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57939'
+        lon: '26.85231'
 meta:
     fgb:
         post_id: '98354'

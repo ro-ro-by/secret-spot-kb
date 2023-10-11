@@ -3,6 +3,11 @@ title: Истобки-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Жлобинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.80681'
+        lon: '29.91943'
 meta:
     fgb:
         post_id: '88102'

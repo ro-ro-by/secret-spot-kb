@@ -3,6 +3,11 @@ title: 'Рутковский (Рудковский)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.18188'
+        lon: '28.30725'
 meta:
     fgb:
         post_id: '76724'

@@ -3,6 +3,11 @@ title: 'Родник Ветеран труда'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.15834'
+        lon: '30.19915'
 meta:
     fgb:
         post_id: '101764'

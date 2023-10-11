@@ -3,6 +3,11 @@ title: 'Исакова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.85936'
+        lon: '31.5491'
 meta:
     fgb:
         post_id: '75019'

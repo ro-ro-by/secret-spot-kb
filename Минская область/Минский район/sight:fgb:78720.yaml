@@ -3,6 +3,11 @@ title: Стайки
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.80288'
+        lon: '27.73176'
 meta:
     fgb:
         post_id: '78720'

@@ -3,6 +3,11 @@ title: 'Бювет в Сухарево'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.89071'
+        lon: '27.43447'
 meta:
     fgb:
         post_id: '75838'

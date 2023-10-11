@@ -3,6 +3,11 @@ title: 'Валун Козий камень (Ядвиговский)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.307631'
+        lon: '26.199096'
 meta:
     fgb:
         post_id: '77735'

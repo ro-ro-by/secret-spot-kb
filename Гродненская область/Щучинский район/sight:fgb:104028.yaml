@@ -3,6 +3,11 @@ title: 'Липичненский родник'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.54052'
+        lon: '24.91382'
 meta:
     fgb:
         post_id: '104028'

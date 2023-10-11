@@ -3,6 +3,11 @@ title: 'След Божьей Матери и След Собаки'
 belongsTo:
     region: 'Минская область'
     subregion: 'Стародорожский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.038728'
+        lon: '28.332353'
 meta:
     fgb:
         post_id: '76016'

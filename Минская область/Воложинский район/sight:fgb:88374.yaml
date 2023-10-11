@@ -3,6 +3,11 @@ title: 'Юзефов (Каменьщина)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.95598'
+        lon: '26.76742'
 meta:
     fgb:
         post_id: '88374'

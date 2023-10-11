@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.91657'
+        lon: '27.88999'
 meta:
     fgb:
         post_id: '76381'

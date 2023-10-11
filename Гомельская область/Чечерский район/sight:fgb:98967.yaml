@@ -3,6 +3,11 @@ title: Полесье-5
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.08103'
+        lon: '31.28817'
 meta:
     fgb:
         post_id: '98967'

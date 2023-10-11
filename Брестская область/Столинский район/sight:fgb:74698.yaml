@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Столинский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.83823'
+        lon: '26.70804'
 meta:
     fgb:
         post_id: '74698'

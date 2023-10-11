@@ -3,6 +3,11 @@ title: 'Скобелевский (Жерствянка, Жерствянник)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.03006'
+        lon: '25.75716'
 meta:
     fgb:
         post_id: '91001'

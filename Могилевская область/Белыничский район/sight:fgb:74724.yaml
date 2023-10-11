@@ -3,6 +3,11 @@ title: 'Майская (Спасовская) криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.03275'
+        lon: '29.53935'
 meta:
     fgb:
         post_id: '74724'

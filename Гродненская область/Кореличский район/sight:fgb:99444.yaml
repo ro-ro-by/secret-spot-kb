@@ -3,6 +3,11 @@ title: 'Большие Туполы-1'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.53419'
+        lon: '26.03032'
 meta:
     fgb:
         post_id: '99444'

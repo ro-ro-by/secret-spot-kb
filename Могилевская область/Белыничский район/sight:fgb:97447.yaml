@@ -3,6 +3,11 @@ title: Федорин-2
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.78474'
+        lon: '29.74998'
 meta:
     fgb:
         post_id: '97447'

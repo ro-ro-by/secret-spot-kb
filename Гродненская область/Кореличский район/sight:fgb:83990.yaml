@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57775'
+        lon: '26.09065'
 meta:
     fgb:
         post_id: '83990'

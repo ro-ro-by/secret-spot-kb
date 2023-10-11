@@ -3,6 +3,11 @@ title: 'Школьный (на болоте)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.05126'
+        lon: '31.17856'
 meta:
     fgb:
         post_id: '78542'

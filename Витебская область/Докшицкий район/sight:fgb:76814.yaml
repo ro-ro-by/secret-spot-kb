@@ -3,6 +3,11 @@ title: 'Святой колодец (Божий колодец)'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.73667'
+        lon: '28.10505'
 meta:
     fgb:
         post_id: '76814'

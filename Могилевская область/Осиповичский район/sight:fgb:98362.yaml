@@ -3,6 +3,11 @@ title: 'Камень (столб) со знаками (?)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.348447'
+        lon: '28.964156'
 meta:
     fgb:
         post_id: '98362'

@@ -3,6 +3,11 @@ title: Панский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.42396'
+        lon: '24.62454'
 meta:
     fgb:
         post_id: '77545'

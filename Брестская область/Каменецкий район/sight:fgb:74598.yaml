@@ -3,6 +3,11 @@ title: Грушка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.49393'
+        lon: '23.4906'
 meta:
     fgb:
         post_id: '74598'

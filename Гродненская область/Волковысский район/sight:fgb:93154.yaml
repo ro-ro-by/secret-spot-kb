@@ -3,6 +3,11 @@ title: Ольхово
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.29818'
+        lon: '24.28792'
 meta:
     fgb:
         post_id: '93154'

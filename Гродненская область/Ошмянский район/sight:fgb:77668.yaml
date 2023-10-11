@@ -3,6 +3,11 @@ title: 'Мочиловский валун-1'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.357278'
+        lon: '26.034512'
 meta:
     fgb:
         post_id: '77668'

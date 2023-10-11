@@ -3,6 +3,11 @@ title: 'Камень вороновскинский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.159026'
+        lon: '25.338111'
 meta:
     fgb:
         post_id: '77299'

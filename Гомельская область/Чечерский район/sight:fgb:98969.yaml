@@ -3,6 +3,11 @@ title: 'У стадиона (Полесье-7)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07128'
+        lon: '31.28622'
 meta:
     fgb:
         post_id: '98969'

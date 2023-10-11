@@ -3,6 +3,11 @@ title: 'Панская криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.30838'
+        lon: '30.81479'
 meta:
     fgb:
         post_id: '75124'

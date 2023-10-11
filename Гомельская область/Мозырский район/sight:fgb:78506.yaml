@@ -3,6 +3,11 @@ title: 'Лисов (Три Бочки, Борисковичи-5)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.04215'
+        lon: '29.14658'
 meta:
     fgb:
         post_id: '78506'

@@ -3,6 +3,11 @@ title: 'Валун Васьков камень (Чёртов камень)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.124787'
+        lon: '26.489924'
 meta:
     fgb:
         post_id: '75592'

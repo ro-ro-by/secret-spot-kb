@@ -3,6 +3,11 @@ title: Безназоўны
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.523040'
+        lon: '26.656361'
 meta:
     fgb:
         post_id: '75581'

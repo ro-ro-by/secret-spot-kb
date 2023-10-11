@@ -3,6 +3,11 @@ title: Плёсы
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.42186'
+        lon: '26.79493'
 meta:
     fgb:
         post_id: '88123'

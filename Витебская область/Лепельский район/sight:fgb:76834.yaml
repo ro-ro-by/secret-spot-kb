@@ -3,6 +3,11 @@ title: 'На крестах'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.91440'
+        lon: '28.94648'
 meta:
     fgb:
         post_id: '76834'

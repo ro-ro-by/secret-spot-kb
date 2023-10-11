@@ -3,6 +3,11 @@ title: Шевели
 belongsTo:
     region: 'Витебская область'
     subregion: 'Браславский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.70808'
+        lon: '26.99491'
 meta:
     fgb:
         post_id: '79279'

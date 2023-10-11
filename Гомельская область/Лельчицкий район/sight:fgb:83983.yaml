@@ -3,6 +3,11 @@ title: 'Осов - 2'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лельчицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '51.86071'
+        lon: '28.06718'
 meta:
     fgb:
         post_id: '83983'

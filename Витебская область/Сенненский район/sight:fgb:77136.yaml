@@ -3,6 +3,11 @@ title: "Кравец\t(Церковище)"
 belongsTo:
     region: 'Витебская область'
     subregion: 'Сенненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.65836'
+        lon: '29.87332'
 meta:
     fgb:
         post_id: '77136'

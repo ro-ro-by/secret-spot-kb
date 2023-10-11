@@ -3,6 +3,11 @@ title: Клёнки-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.45575'
+        lon: '31.08255'
 meta:
     fgb:
         post_id: '78489'

@@ -3,6 +3,11 @@ title: Бискупцы
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.16645'
+        lon: '24.51913'
 meta:
     fgb:
         post_id: '79438'

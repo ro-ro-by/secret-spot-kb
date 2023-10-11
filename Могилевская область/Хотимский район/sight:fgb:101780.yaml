@@ -3,6 +3,11 @@ title: Гута
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.30489'
+        lon: '32.40984'
 meta:
     fgb:
         post_id: '101780'

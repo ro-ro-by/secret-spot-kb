@@ -3,6 +3,11 @@ title: 'Теплый Стан-2'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.20607'
+        lon: '27.474'
 meta:
     fgb:
         post_id: '93541'

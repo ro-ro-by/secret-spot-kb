@@ -3,6 +3,11 @@ title: Ляшевичев
 belongsTo:
     region: 'Витебская область'
     subregion: 'Чашникский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.60970'
+        lon: '29.28898'
 meta:
     fgb:
         post_id: '78949'

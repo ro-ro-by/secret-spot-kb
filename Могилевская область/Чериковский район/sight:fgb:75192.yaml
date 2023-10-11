@@ -3,6 +3,11 @@ title: 'Криница  Езёрская'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.56645'
+        lon: '31.19836'
 meta:
     fgb:
         post_id: '75192'

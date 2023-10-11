@@ -3,6 +3,11 @@ title: 'Вощининский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.339124'
+        lon: '26.111516'
 meta:
     fgb:
         post_id: '77664'

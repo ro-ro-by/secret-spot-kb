@@ -3,6 +3,11 @@ title: Мир-2
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.45253'
+        lon: '26.46841'
 meta:
     fgb:
         post_id: '77520'

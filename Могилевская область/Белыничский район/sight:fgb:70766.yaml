@@ -3,6 +3,11 @@ title: 'Святого Маковея (Макавье)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.81666'
+        lon: '29.60157'
 meta:
     fgb:
         post_id: '70766'

@@ -3,6 +3,11 @@ title: 'Родниково-ручьевой природный комплекс 
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.17125'
+        lon: '28.0882'
 meta:
     fgb:
         post_id: '76710'

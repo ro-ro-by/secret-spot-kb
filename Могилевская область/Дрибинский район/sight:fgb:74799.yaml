@@ -3,6 +3,11 @@ title: Пан-ключ
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.05209'
+        lon: '31.13028'
 meta:
     fgb:
         post_id: '74799'

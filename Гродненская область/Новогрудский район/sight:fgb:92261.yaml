@@ -3,6 +3,11 @@ title: Сенежицы
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.54618'
+        lon: '25.94941'
 meta:
     fgb:
         post_id: '92261'

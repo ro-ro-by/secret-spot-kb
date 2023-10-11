@@ -3,6 +3,11 @@ title: 'Родник Жужлянка-2'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.38934'
+        lon: '28.55704'
 meta:
     fgb:
         post_id: '101796'

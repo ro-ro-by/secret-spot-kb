@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.27750'
+        lon: '28.6172'
 meta:
     fgb:
         post_id: '78880'

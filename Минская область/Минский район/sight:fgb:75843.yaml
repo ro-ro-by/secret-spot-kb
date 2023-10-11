@@ -3,6 +3,11 @@ title: 'Питьевой фонтан на Ташкентской'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.83875'
+        lon: '27.62907'
 meta:
     fgb:
         post_id: '75843'

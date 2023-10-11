@@ -3,6 +3,11 @@ title: 'Родник Усадебный'
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52632'
+        lon: '28.19104'
 meta:
     fgb:
         post_id: '101768'

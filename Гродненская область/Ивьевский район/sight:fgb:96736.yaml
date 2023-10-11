@@ -3,6 +3,11 @@ title: Миколаево
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.83076'
+        lon: '25.90405'
 meta:
     fgb:
         post_id: '96736'

@@ -3,6 +3,11 @@ title: 'Мартишкинский камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.546992'
+        lon: '26.518381'
 meta:
     fgb:
         post_id: '77755'

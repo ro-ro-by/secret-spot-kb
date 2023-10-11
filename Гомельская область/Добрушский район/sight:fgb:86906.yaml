@@ -3,6 +3,11 @@ title: 'Под Ольхой (Под горой, Дедов)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Добрушский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.43946'
+        lon: '31.32074'
 meta:
     fgb:
         post_id: '86906'

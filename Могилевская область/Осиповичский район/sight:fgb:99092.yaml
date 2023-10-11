@@ -3,6 +3,11 @@ title: Елизово
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.38999'
+        lon: '29.01751'
 meta:
     fgb:
         post_id: '99092'

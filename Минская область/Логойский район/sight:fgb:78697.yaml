@@ -3,6 +3,11 @@ title: Добренево
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.25139'
+        lon: '27.82709'
 meta:
     fgb:
         post_id: '78697'

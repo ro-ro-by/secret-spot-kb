@@ -3,6 +3,11 @@ title: 'На Лесной'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Берестовицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '53.28816'
+        lon: '23.94507'
 meta:
     fgb:
         post_id: '78555'

@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.54849'
+        lon: '30.51992'
 meta:
     fgb:
         post_id: '99434'

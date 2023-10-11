@@ -3,6 +3,11 @@ title: 'Слюнькиной (Партизанский)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.50778'
+        lon: '31.33059'
 meta:
     fgb:
         post_id: '78889'

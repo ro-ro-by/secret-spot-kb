@@ -3,6 +3,11 @@ title: Сорочинская-2
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.19932'
+        lon: '28.77205'
 meta:
     fgb:
         post_id: '99439'

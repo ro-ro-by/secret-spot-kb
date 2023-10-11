@@ -3,6 +3,11 @@ title: 'Родник Галковского'
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.73998'
+        lon: '28.70499'
 meta:
     fgb:
         post_id: '76054'

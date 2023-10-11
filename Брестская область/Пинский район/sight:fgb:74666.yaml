@@ -3,6 +3,11 @@ title: Александровка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.36228'
+        lon: '26.18118'
 meta:
     fgb:
         post_id: '74666'

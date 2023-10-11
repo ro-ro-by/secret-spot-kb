@@ -3,6 +3,11 @@ title: Видуш-гора
 belongsTo:
     region: 'Брестская область'
     subregion: 'Лунинецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.195505'
+        lon: '27.035928'
 meta:
     fgb:
         post_id: '96493'

@@ -3,6 +3,11 @@ title: Весенний
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.68118'
+        lon: '23.80034'
 meta:
     fgb:
         post_id: '79458'

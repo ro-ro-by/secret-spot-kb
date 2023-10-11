@@ -3,6 +3,11 @@ title: 'Прилуки-2 (около бровара)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.78906'
+        lon: '27.45358'
 meta:
     fgb:
         post_id: '90050'

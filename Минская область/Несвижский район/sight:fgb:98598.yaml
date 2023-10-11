@@ -3,6 +3,11 @@ title: 'Студня Ундины'
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.22473'
+        lon: '26.69297'
 meta:
     fgb:
         post_id: '98598'

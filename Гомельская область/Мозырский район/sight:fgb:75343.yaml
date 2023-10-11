@@ -3,6 +3,11 @@ title: 'Венгерова (№12)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.9945'
+        lon: '29.1124'
 meta:
     fgb:
         post_id: '75343'

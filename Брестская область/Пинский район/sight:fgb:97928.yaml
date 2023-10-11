@@ -3,6 +3,11 @@ title: 'Святой колодец'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.13653'
+        lon: '26.16584'
 meta:
     fgb:
         post_id: '97928'

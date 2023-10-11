@@ -3,6 +3,11 @@ title: 'Под горой'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лоевский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.87139'
+        lon: '30.70249'
 meta:
     fgb:
         post_id: '93145'

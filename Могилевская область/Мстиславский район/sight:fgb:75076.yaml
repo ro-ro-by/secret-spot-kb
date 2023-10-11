@@ -3,6 +3,11 @@ title: 'Подгорный колодец'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.02527'
+        lon: '31.73027'
 meta:
     fgb:
         post_id: '75076'

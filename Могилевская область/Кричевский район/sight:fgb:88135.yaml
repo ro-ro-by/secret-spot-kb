@@ -3,6 +3,11 @@ title: Иллёвичава
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69656'
+        lon: '31.80667'
 meta:
     fgb:
         post_id: '88135'

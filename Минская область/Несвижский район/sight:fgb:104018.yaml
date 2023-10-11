@@ -3,6 +3,11 @@ title: 'Родник в п.Альба'
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.20205'
+        lon: '26.64307'
 meta:
     fgb:
         post_id: '104018'

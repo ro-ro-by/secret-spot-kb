@@ -3,6 +3,11 @@ title: Пески
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.01383'
+        lon: '31.18673'
 meta:
     fgb:
         post_id: '99002'

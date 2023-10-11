@@ -3,6 +3,11 @@ title: Кочерыжка
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.02370'
+        lon: '25.78204'
 meta:
     fgb:
         post_id: '78319'

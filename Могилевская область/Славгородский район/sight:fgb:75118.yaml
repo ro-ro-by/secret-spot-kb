@@ -3,6 +3,11 @@ title: 'Денисова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.57048'
+        lon: '31.04066'
 meta:
     fgb:
         post_id: '75118'

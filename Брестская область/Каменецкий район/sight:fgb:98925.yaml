@@ -3,6 +3,11 @@ title: 'Графский (Турна)'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.27066'
+        lon: '23.75732'
 meta:
     fgb:
         post_id: '98925'

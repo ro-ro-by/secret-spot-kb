@@ -3,6 +3,11 @@ title: 'Питьевой фонтан у Минскводоканала'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.89821'
+        lon: '27.57806'
 meta:
     fgb:
         post_id: '78728'

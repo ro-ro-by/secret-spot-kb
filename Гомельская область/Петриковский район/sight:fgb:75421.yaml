@@ -3,6 +3,11 @@ title: 'Камень с надписью «Року 1595 месяца іюля 1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Петриковский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.105327'
+        lon: '28.293145'
 meta:
     fgb:
         post_id: '75421'

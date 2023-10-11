@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.89469'
+        lon: '26.73235'
 meta:
     fgb:
         post_id: '78677'

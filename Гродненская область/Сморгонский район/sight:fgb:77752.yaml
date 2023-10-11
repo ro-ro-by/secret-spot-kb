@@ -3,6 +3,11 @@ title: 'Катериновский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.562012'
+        lon: '26.576954'
 meta:
     fgb:
         post_id: '77752'

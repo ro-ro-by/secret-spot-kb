@@ -3,6 +3,11 @@ title: Галактика
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65215'
+        lon: '23.73527'
 meta:
     fgb:
         post_id: '98359'

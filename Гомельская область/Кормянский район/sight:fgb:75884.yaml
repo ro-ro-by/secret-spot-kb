@@ -3,6 +3,11 @@ title: 'У больницы-2'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Кормянский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.12463'
+        lon: '30.8039'
 meta:
     fgb:
         post_id: '75884'

@@ -3,6 +3,11 @@ title: Замковый
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.88644'
+        lon: '25.30173'
 meta:
     fgb:
         post_id: '77533'

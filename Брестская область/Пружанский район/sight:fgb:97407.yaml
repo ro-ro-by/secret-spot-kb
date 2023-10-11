@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.67384'
+        lon: '24.09295'
 meta:
     fgb:
         post_id: '97407'

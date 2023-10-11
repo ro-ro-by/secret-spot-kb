@@ -3,6 +3,11 @@ title: 'На Речной'
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.09995'
+        lon: '28.368'
 meta:
     fgb:
         post_id: '83236'

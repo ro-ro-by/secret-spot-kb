@@ -3,6 +3,11 @@ title: 'Камень 1846 года'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.283060'
+        lon: '24.521139'
 meta:
     fgb:
         post_id: '99129'

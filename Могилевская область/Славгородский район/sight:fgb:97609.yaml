@@ -3,6 +3,11 @@ title: 'Дальние сажелки'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65385'
+        lon: '31.07242'
 meta:
     fgb:
         post_id: '97609'

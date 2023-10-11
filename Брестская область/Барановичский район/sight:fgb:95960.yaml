@@ -3,6 +3,11 @@ title: 'Парк Колдычево'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.281481'
+        lon: '26.062492'
 meta:
     fgb:
         post_id: '95960'

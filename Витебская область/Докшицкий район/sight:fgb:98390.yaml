@@ -3,6 +3,11 @@ title: 'На Подгорной'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.89713'
+        lon: '27.76037'
 meta:
     fgb:
         post_id: '98390'

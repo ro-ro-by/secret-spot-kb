@@ -3,6 +3,11 @@ title: Богдашевских
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.7373'
+        lon: '27.30582'
 meta:
     fgb:
         post_id: '97371'

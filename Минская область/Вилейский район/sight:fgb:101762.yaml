@@ -3,6 +3,11 @@ title: 'Родник Еськовлянка'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.65259'
+        lon: '27.55362'
 meta:
     fgb:
         post_id: '101762'

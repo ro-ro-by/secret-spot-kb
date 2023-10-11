@@ -3,6 +3,11 @@ title: 'Крынки (№2)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.92029'
+        lon: '29.45699'
 meta:
     fgb:
         post_id: '75385'

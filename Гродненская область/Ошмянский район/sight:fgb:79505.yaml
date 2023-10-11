@@ -3,6 +3,11 @@ title: Сухой
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.43091'
+        lon: '25.97483'
 meta:
     fgb:
         post_id: '79505'

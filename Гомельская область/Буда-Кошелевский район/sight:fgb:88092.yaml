@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Буда-Кошелевский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.67536'
+        lon: '30.80786'
 meta:
     fgb:
         post_id: '88092'

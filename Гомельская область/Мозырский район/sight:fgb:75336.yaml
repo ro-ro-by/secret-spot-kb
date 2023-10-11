@@ -3,6 +3,11 @@ title: 'Иванов (№24)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.967'
+        lon: '29.066'
 meta:
     fgb:
         post_id: '75336'

@@ -3,6 +3,11 @@ title: Арламчикова
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кричевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.77873'
+        lon: '31.79583'
 meta:
     fgb:
         post_id: '98779'

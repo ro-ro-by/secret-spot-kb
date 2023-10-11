@@ -3,6 +3,11 @@ title: Хлебный
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.04966'
+        lon: '31.18334'
 meta:
     fgb:
         post_id: '78543'

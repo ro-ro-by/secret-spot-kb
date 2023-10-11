@@ -3,6 +3,11 @@ title: 'Крево-1 (У Юровой горы)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Сморгонский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.30774'
+        lon: '26.28442'
 meta:
     fgb:
         post_id: '78637'

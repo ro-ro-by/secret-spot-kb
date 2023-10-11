@@ -3,6 +3,11 @@ title: Печковская
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.01803'
+        lon: '31.79157'
 meta:
     fgb:
         post_id: '75078'

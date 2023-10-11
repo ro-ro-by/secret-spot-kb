@@ -3,6 +3,11 @@ title: 'Камень з ямкамі з-пад в.Тураўшчына'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.595575'
+        lon: '26.876603'
 meta:
     fgb:
         post_id: '77834'

@@ -3,6 +3,11 @@ title: Пятигорье-4
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.69308'
+        lon: '27.24683'
 meta:
     fgb:
         post_id: '97374'

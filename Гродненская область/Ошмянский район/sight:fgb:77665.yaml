@@ -3,6 +3,11 @@ title: 'Петковский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.363765'
+        lon: '26.003656'
 meta:
     fgb:
         post_id: '77665'

@@ -3,6 +3,11 @@ title: 'Родник в урочище Первый Переток'
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.92314'
+        lon: '27.93464'
 meta:
     fgb:
         post_id: '75773'

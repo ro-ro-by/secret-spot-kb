@@ -3,6 +3,11 @@ title: 'У больницы'
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65768'
+        lon: '27.80924'
 meta:
     fgb:
         post_id: '88124'

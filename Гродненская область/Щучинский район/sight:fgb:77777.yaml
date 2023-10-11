@@ -3,6 +3,11 @@ title: 'Валун Зареченский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.577125'
+        lon: '24.641832'
 meta:
     fgb:
         post_id: '77777'

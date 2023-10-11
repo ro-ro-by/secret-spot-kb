@@ -3,6 +3,11 @@ title: Сипайлы
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.00652'
+        lon: '29.94371'
 meta:
     fgb:
         post_id: '95323'

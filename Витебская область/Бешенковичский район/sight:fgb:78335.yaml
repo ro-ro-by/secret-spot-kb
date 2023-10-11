@@ -3,6 +3,11 @@ title: Лесничка
 belongsTo:
     region: 'Витебская область'
     subregion: 'Бешенковичский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.05767'
+        lon: '29.49495'
 meta:
     fgb:
         post_id: '78335'

@@ -3,6 +3,11 @@ title: Водяной
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.50318'
+        lon: '29.38173'
 meta:
     fgb:
         post_id: '75715'

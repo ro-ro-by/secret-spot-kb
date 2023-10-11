@@ -3,6 +3,11 @@ title: Брязгун
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.67769'
+        lon: '31.31352'
 meta:
     fgb:
         post_id: '75193'

@@ -3,6 +3,11 @@ title: 'Камень у гонар ад выратавання ад эпідэм
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.028575'
+        lon: '24.939118'
 meta:
     fgb:
         post_id: '101161'

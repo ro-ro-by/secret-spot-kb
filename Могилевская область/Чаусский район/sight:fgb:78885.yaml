@@ -3,6 +3,11 @@ title: 'Кипящая криница-1'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.71432'
+        lon: '31.05372'
 meta:
     fgb:
         post_id: '78885'

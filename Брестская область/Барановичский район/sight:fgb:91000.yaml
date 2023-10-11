@@ -3,6 +3,11 @@ title: Мурованка-3
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.31346'
+        lon: '25.70843'
 meta:
     fgb:
         post_id: '91000'

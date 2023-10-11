@@ -3,6 +3,11 @@ title: 'Живой и мёртвой воды'
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.31708'
+        lon: '26.5742'
 meta:
     fgb:
         post_id: '78750'

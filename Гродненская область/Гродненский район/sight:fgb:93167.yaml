@@ -3,6 +3,11 @@ title: 'Щечиново (Щачиново)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.64647'
+        lon: '23.96536'
 meta:
     fgb:
         post_id: '93167'

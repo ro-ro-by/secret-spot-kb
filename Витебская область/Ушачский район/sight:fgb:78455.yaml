@@ -3,6 +3,11 @@ title: 'Панская криница'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.06048'
+        lon: '28.42765'
 meta:
     fgb:
         post_id: '78455'

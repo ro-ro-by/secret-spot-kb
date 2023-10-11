@@ -3,6 +3,11 @@ title: "Криница колхоха им.Ленина\t(2)"
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кличевский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.41978'
+        lon: '29.21672'
 meta:
     fgb:
         post_id: '74954'

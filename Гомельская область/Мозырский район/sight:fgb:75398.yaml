@@ -3,6 +3,11 @@ title: 'Холодная криница'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.06531'
+        lon: '29.03198'
 meta:
     fgb:
         post_id: '75398'

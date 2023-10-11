@@ -3,6 +3,11 @@ title: Стрешинский
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Жлобинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.7162'
+        lon: '30.1221'
 meta:
     fgb:
         post_id: '88103'

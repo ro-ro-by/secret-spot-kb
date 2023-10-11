@@ -3,6 +3,11 @@ title: Свитанок
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.42885'
+        lon: '30.40728'
 meta:
     fgb:
         post_id: '99427'

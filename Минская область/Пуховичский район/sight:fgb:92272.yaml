@@ -3,6 +3,11 @@ title: 'Родник Блонь'
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.52624'
+        lon: '28.17747'
 meta:
     fgb:
         post_id: '92272'

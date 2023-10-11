@@ -3,6 +3,11 @@ title: 'Белая криница'
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.11723'
+        lon: '27.58717'
 meta:
     fgb:
         post_id: '75754'

@@ -3,6 +3,11 @@ title: 'Место родника Параскевы Пятницы (Живая 
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лоевский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.89196'
+        lon: '30.7192'
 meta:
     fgb:
         post_id: '78504'

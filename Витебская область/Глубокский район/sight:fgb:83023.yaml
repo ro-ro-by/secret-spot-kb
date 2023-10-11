@@ -3,6 +3,11 @@ title: Геничина
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.22573'
+        lon: '27.8607'
 meta:
     fgb:
         post_id: '83023'

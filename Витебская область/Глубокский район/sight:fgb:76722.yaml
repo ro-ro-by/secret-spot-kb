@@ -3,6 +3,11 @@ title: 'Родник Мосарский'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.22335'
+        lon: '27.46822'
 meta:
     fgb:
         post_id: '76722'

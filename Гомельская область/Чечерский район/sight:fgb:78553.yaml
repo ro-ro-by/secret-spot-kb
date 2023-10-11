@@ -3,6 +3,11 @@ title: 'На Маркса'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.91529'
+        lon: '30.89012'
 meta:
     fgb:
         post_id: '78553'

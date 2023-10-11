@@ -3,6 +3,11 @@ title: 'Бювет «Святая вода»'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.42439'
+        lon: '31.01699'
 meta:
     fgb:
         post_id: '79593'

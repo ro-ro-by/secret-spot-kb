@@ -3,6 +3,11 @@ title: Бювет
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.83584'
+        lon: '26.83423'
 meta:
     fgb:
         post_id: '75941'

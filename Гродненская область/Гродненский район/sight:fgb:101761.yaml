@@ -3,6 +3,11 @@ title: 'Колодец Элизы Ожешко'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.55997'
+        lon: '24.40291'
 meta:
     fgb:
         post_id: '101761'

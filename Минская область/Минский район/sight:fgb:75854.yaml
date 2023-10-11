@@ -3,6 +3,11 @@ title: Бахметовка
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.19395'
+        lon: '27.32997'
 meta:
     fgb:
         post_id: '75854'

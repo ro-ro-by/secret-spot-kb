@@ -3,6 +3,11 @@ title: 'Родник Гордуновка (Гордовин)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Добрушский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.22904'
+        lon: '31.31652'
 meta:
     fgb:
         post_id: '93138'

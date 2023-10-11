@@ -3,6 +3,11 @@ title: 'Старый Сокол-1'
 belongsTo:
     region: 'Минская область'
     subregion: 'Крупский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.13259'
+        lon: '29.21497'
 meta:
     fgb:
         post_id: '99538'

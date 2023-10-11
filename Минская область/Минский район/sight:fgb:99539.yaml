@@ -3,6 +3,11 @@ title: Черёмуха
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.98373'
+        lon: '27.14865'
 meta:
     fgb:
         post_id: '99539'

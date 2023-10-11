@@ -3,6 +3,11 @@ title: Звенячи-1
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.93403'
+        lon: '27.11479'
 meta:
     fgb:
         post_id: '90045'

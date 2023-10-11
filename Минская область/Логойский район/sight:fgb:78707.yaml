@@ -3,6 +3,11 @@ title: Шейбака
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.22865'
+        lon: '27.48718'
 meta:
     fgb:
         post_id: '78707'

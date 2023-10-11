@@ -3,6 +3,11 @@ title: 'Валун Мартин камень кузьмичский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.654221'
+        lon: '24.567385'
 meta:
     fgb:
         post_id: '77780'

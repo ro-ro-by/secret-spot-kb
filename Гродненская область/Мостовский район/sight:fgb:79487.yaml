@@ -3,6 +3,11 @@ title: 'Фенечка (Дороглянец)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.27436'
+        lon: '24.85586'
 meta:
     fgb:
         post_id: '79487'

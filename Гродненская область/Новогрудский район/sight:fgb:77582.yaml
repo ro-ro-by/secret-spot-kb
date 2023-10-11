@@ -3,6 +3,11 @@ title: 'Валун Святой камень сенежицкий'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.540969'
+        lon: '25.960464'
 meta:
     fgb:
         post_id: '77582'

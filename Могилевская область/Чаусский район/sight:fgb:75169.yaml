@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.79697'
+        lon: '30.74847'
 meta:
     fgb:
         post_id: '75169'

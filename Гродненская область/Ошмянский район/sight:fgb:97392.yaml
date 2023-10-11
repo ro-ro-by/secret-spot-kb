@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.4371'
+        lon: '26.1003'
 meta:
     fgb:
         post_id: '97392'

@@ -3,6 +3,11 @@ title: 'Анютины Глазки'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.8542'
+        lon: '23.63378'
 meta:
     fgb:
         post_id: '88112'

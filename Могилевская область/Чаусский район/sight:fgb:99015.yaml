@@ -3,6 +3,11 @@ title: Рагозинка-1
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.94372'
+        lon: '30.93188'
 meta:
     fgb:
         post_id: '99015'

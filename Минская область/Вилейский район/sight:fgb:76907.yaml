@@ -3,6 +3,11 @@ title: 'Валун з лункамі сцебярацкі ІІ'
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.683553'
+        lon: '26.939287'
 meta:
     fgb:
         post_id: '76907'

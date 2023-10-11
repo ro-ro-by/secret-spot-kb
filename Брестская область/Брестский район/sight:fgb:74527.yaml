@@ -3,6 +3,11 @@ title: Бояры-Цуприкинский
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.28788'
+        lon: '23.57257'
 meta:
     fgb:
         post_id: '74527'

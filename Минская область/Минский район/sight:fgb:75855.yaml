@@ -3,6 +3,11 @@ title: 'Целебный источник'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.1736'
+        lon: '27.51975'
 meta:
     fgb:
         post_id: '75855'

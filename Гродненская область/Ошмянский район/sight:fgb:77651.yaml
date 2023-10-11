@@ -3,6 +3,11 @@ title: 'Огородникский большой камень'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.412357'
+        lon: '26.051339'
 meta:
     fgb:
         post_id: '77651'

@@ -3,6 +3,11 @@ title: 'Маринина криница (Святой)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.89012'
+        lon: '30.77017'
 meta:
     fgb:
         post_id: '98972'

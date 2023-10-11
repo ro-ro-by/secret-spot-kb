@@ -3,6 +3,11 @@ title: 'Валун Большой камень залесский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Воложинский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.056037'
+        lon: '27.035323'
 meta:
     fgb:
         post_id: '75599'

@@ -3,6 +3,11 @@ title: 'Родник Тадеуша Костюшко'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.75590'
+        lon: '25.14882'
 meta:
     fgb:
         post_id: '96994'

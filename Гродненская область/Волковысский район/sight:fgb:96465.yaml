@@ -3,6 +3,11 @@ title: Длугополь-1
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.35498'
+        lon: '24.30922'
 meta:
     fgb:
         post_id: '96465'

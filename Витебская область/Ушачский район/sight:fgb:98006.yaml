@@ -3,6 +3,11 @@ title: Муроги
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.00346'
+        lon: '28.37741'
 meta:
     fgb:
         post_id: '98006'

@@ -3,6 +3,11 @@ title: Бобриха
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.45099'
+        lon: '31.01096'
 meta:
     fgb:
         post_id: '78491'

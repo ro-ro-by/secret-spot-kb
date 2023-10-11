@@ -3,6 +3,11 @@ title: 'Святой источник'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.80240'
+        lon: '28.45813'
 meta:
     fgb:
         post_id: '76832'

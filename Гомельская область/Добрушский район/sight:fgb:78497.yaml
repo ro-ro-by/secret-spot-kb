@@ -3,6 +3,11 @@ title: Студень
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Добрушский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.16339'
+        lon: '31.75341'
 meta:
     fgb:
         post_id: '78497'

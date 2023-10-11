@@ -3,6 +3,11 @@ title: Пастухов
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.04256'
+        lon: '29.14906'
 meta:
     fgb:
         post_id: '83132'

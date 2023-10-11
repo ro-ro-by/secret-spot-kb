@@ -3,6 +3,11 @@ title: Хотимча
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.50201'
+        lon: '32.38134'
 meta:
     fgb:
         post_id: '96977'

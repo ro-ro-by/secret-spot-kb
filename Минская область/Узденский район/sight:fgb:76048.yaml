@@ -3,6 +3,11 @@ title: 'Святой Троицы'
 belongsTo:
     region: 'Минская область'
     subregion: 'Узденский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.38722'
+        lon: '26.91653'
 meta:
     fgb:
         post_id: '76048'

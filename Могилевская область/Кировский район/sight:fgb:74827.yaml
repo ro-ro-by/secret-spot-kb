@@ -3,6 +3,11 @@ title: 'Вольский (Святой)'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кировский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.26137'
+        lon: '29.47803'
 meta:
     fgb:
         post_id: '74827'

@@ -3,6 +3,11 @@ title: 'Живая криничка'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Наровлянский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.4956'
+        lon: '29.6039'
 meta:
     fgb:
         post_id: '75409'

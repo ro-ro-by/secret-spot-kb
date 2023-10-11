@@ -3,6 +3,11 @@ title: 'Белая криница (Альбертин)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.07448'
+        lon: '25.44008'
 meta:
     fgb:
         post_id: '78621'

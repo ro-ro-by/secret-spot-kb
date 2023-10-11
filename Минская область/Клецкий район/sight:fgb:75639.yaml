@@ -3,6 +3,11 @@ title: 'Дуб черешчатый Новинковский'
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '52.893704'
+        lon: '26.63312'
 meta:
     fgb:
         post_id: '75639'

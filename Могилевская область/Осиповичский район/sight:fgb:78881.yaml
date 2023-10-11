@@ -3,6 +3,11 @@ title: Смык-2
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.39478'
+        lon: '28.59722'
 meta:
     fgb:
         post_id: '78881'

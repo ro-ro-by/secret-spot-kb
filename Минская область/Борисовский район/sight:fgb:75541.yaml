@@ -3,6 +3,11 @@ title: 'Святы камень (Акамянелая Жанчына)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.334243'
+        lon: '28.432873'
 meta:
     fgb:
         post_id: '75541'

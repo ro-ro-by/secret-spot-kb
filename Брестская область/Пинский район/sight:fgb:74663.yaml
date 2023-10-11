@@ -3,6 +3,11 @@ title: Ковнятин
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.33746'
+        lon: '26.02514'
 meta:
     fgb:
         post_id: '74663'

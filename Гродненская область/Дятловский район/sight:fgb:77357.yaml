@@ -3,6 +3,11 @@ title: Обельковичи-2
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Дятловский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.38302'
+        lon: '25.52822'
 meta:
     fgb:
         post_id: '77357'

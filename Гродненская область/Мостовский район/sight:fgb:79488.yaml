@@ -3,6 +3,11 @@ title: Лихиничский
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.30457'
+        lon: '24.73866'
 meta:
     fgb:
         post_id: '79488'

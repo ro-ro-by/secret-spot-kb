@@ -3,6 +3,11 @@ title: Тиунцы
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.10788'
+        lon: '25.75085'
 meta:
     fgb:
         post_id: '78326'

@@ -3,6 +3,11 @@ title: 'Лазарава крыніца'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Россонский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.82943'
+        lon: '28.78091'
 meta:
     fgb:
         post_id: '77089'

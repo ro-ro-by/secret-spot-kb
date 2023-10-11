@@ -3,6 +3,11 @@ title: 'Кропильница и каменный крест'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.722752'
+        lon: '27.858951'
 meta:
     fgb:
         post_id: '76806'

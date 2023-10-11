@@ -3,6 +3,11 @@ title: Савченки
 belongsTo:
     region: 'Витебская область'
     subregion: 'Ушачский район'
+location:
+    type: point
+    coordinates:
+        lat: '55.15493'
+        lon: '28.38741'
 meta:
     fgb:
         post_id: '98011'

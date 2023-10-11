@@ -3,6 +3,11 @@ title: Мосток
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.65209'
+        lon: '31.08019'
 meta:
     fgb:
         post_id: '97607'

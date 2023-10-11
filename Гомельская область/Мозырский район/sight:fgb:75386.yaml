@@ -3,6 +3,11 @@ title: 'Прокоповская криница (Лучижевичи-1)'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.09462'
+        lon: '29.17082'
 meta:
     fgb:
         post_id: '75386'

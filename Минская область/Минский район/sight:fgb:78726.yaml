@@ -3,6 +3,11 @@ title: 'Питьевой фонтан на Волоха'
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.89701'
+        lon: '27.51647'
 meta:
     fgb:
         post_id: '78726'

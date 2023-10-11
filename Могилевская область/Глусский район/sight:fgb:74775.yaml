@@ -3,6 +3,11 @@ title: Симоновичи
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Глусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.08295'
+        lon: '28.64445'
 meta:
     fgb:
         post_id: '74775'

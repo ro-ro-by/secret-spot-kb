@@ -3,6 +3,11 @@ title: 'Ровский валун'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ошмянский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.242696'
+        lon: '26.174879'
 meta:
     fgb:
         post_id: '77671'

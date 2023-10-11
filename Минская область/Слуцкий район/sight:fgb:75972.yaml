@@ -3,6 +3,11 @@ title: 'Святы камень (След Хрыста)'
 belongsTo:
     region: 'Минская область'
     subregion: 'Слуцкий район'
+location:
+    type: point
+    coordinates:
+        lat: '53.133158'
+        lon: '27.447749'
 meta:
     fgb:
         post_id: '75972'

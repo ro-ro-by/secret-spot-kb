@@ -3,6 +3,11 @@ title: 'Господняя слеза'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.29677'
+        lon: '30.90366'
 meta:
     fgb:
         post_id: '74793'

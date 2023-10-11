@@ -3,6 +3,11 @@ title: Нисимковичи-1
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.94693'
+        lon: '31.17280'
 meta:
     fgb:
         post_id: '78536'

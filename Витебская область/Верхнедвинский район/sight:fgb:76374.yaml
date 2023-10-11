@@ -3,6 +3,11 @@ title: Родник
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates:
+        lat: '56.03948'
+        lon: '28.26416'
 meta:
     fgb:
         post_id: '76374'

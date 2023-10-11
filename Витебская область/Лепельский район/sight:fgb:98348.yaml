@@ -3,6 +3,11 @@ title: Заровье
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.95892'
+        lon: '28.43940'
 meta:
     fgb:
         post_id: '98348'

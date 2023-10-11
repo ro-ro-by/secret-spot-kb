@@ -3,6 +3,11 @@ title: 'Брестская родниковая струга (Родник на 
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.11077'
+        lon: '23.63825'
 meta:
     fgb:
         post_id: '74522'

@@ -3,6 +3,11 @@ title: 'Родник с часовней'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.295441'
+        lon: '30.808850'
 meta:
     fgb:
         post_id: '97606'

@@ -3,6 +3,11 @@ title: Ловчицы
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '51.96819'
+        lon: '29.39025'
 meta:
     fgb:
         post_id: '92246'

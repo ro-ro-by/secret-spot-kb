@@ -3,6 +3,11 @@ title: 'Камень полужский'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Вороновский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.144475'
+        lon: '25.105461'
 meta:
     fgb:
         post_id: '77303'

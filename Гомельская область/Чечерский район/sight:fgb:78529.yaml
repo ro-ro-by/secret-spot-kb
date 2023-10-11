@@ -3,6 +3,11 @@ title: Залесье-2
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Чечерский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.89055'
+        lon: '30.98979'
 meta:
     fgb:
         post_id: '78529'

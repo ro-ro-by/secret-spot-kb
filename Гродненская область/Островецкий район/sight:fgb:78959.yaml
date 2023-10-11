@@ -3,6 +3,11 @@ title: 'Свирянский-1 (Свирянский ручей)'
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+location:
+    type: point
+    coordinates:
+        lat: '54.82662'
+        lon: '26.04498'
 meta:
     fgb:
         post_id: '78959'

@@ -3,6 +3,11 @@ title: 'Колодец Щекотова-2'
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.01849'
+        lon: '29.1182'
 meta:
     fgb:
         post_id: '82502'

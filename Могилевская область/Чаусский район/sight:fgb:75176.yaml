@@ -3,6 +3,11 @@ title: 'Петрова криница'
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.748'
+        lon: '30.96432'
 meta:
     fgb:
         post_id: '75176'

@@ -3,6 +3,11 @@ title: 'Исток Коросинки'
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates:
+        lat: '53.36045'
+        lon: '26.02981'
 meta:
     fgb:
         post_id: '99802'

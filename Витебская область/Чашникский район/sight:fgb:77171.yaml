@@ -3,6 +3,11 @@ title: 'Петра и Павла'
 belongsTo:
     region: 'Витебская область'
     subregion: 'Чашникский район'
+location:
+    type: point
+    coordinates:
+        lat: '54.71251'
+        lon: '29.15695'
 meta:
     fgb:
         post_id: '77171'

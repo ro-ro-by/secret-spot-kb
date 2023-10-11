@@ -3,6 +3,11 @@ title: 'Святителя Николая Чудотворца'
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates:
+        lat: '52.85585'
+        lon: '27.16454'
 meta:
     fgb:
         post_id: '75996'
