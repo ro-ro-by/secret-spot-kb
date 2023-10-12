@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Лунинецкий район'
+location:
+    type: point
+    coordinates:
+        lat: 52.19975
+        lon: 27.01325
 tree:
     type: oak
 meta:

@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Мозырский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '51°52′03,0″N'
+        lon: '29°15′09,2″E'
 tree:
     type: oak
 meta:

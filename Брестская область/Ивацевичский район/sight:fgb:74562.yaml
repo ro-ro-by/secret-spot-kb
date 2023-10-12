@@ -1,11 +1,16 @@
 id: 'sight:fgb:74562'
 title: 'Турнянские чёрные берёзы'
 type: forest
-forest:
-    dominated_type: birch_black
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+forest:
+    dominated_type: birch_black
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°30'01,3''"
+        lon: "25°44'45,5''"
 meta:
     fgb:
         post_id: '74562'

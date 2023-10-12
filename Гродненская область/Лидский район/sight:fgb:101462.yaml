@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°47′50,1″N'
+        lon: '25°08′52,3″E'
 meta:
     fgb:
         post_id: '101462'

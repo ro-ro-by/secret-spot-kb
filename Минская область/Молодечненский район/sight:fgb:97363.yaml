@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "54°24'20,17''"
+        lon: "26°37'11,32''"
 tree:
     type: oak
 meta:

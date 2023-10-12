@@ -1,11 +1,16 @@
 id: 'sight:fgb:74510'
 title: 'Плющ обыкновенный'
 type: tree
-tree:
-    type: ivy
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°05'30,7''"
+        lon: "23°43'32,9''"
+tree:
+    type: ivy
 meta:
     fgb:
         post_id: '74510'

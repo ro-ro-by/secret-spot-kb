@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°18′09,7″N'
+        lon: '32°34′26,4″E'
 meta:
     fgb:
         post_id: '75138'

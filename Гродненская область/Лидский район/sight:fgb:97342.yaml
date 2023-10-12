@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°50′40,6″N'
+        lon: '25°22′40,8″E'
 tree:
     type: pine
 meta:

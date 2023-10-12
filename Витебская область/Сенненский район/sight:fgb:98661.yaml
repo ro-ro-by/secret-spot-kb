@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Сенненский район'
 forest:
     dominated_type: oak
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°51′24,2″N'
+        lon: '30°25′29,7″E'
 meta:
     fgb:
         post_id: '98661'

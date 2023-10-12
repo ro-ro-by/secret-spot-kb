@@ -1,12 +1,17 @@
 id: 'sight:fgb:75871'
 title: 'Лесные культуры с участием пихты белой'
 type: forest
-forest:
-    types:
-        - fir
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+forest:
+    types:
+        - fir
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°20′41,8″N'
+        lon: '26°48′13,4″E'
 meta:
     fgb:
         post_id: '75871'

@@ -4,6 +4,11 @@ type: TODO
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°06′35,1″N'
+        lon: '31°11′02,7″E'
 meta:
     fgb:
         post_id: '74797'

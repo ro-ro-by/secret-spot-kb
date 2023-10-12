@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Мостовский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°24′55,9″N'
+        lon: '24°33′43,1″E'
 meta:
     fgb:
         post_id: '101465'

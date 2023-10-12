@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°10′32,8″N'
+        lon: '28°29′16,7″E'
 tree:
     type: oak
 meta:

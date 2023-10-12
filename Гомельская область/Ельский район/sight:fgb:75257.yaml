@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ельский район'
+location:
+    type: point
+    coordinates:
+        lat: 51.756
+        lon: 29.03447
 tree:
     type: pine
 meta:

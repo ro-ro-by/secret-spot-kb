@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°31′01,1″N'
+        lon: '31°11′51,8″E'
 meta:
     fgb:
         post_id: '99024'

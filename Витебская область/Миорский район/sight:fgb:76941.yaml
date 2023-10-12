@@ -4,6 +4,11 @@ type: hill
 belongsTo:
     region: 'Витебская область'
     subregion: 'Миорский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.68165
+        lon: 27.52852
 meta:
     fgb:
         post_id: '76941'

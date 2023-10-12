@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Витебская область'
     subregion: 'Россонский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.92739
+        lon: 29.27294
 meta:
     fgb:
         post_id: '77091'

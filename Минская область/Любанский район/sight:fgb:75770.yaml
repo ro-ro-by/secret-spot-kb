@@ -1,11 +1,11 @@
 id: 'sight:fgb:75770'
 title: 'Группа деревьев березы черной'
 type: tree
-tree:
-    type: birch_black
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+tree:
+    type: birch_black
 meta:
     fgb:
         post_id: '75770'

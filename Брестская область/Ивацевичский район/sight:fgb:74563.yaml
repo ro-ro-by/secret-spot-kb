@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°36′55,5″N'
+        lon: '25°46′38,7″E'
 tree:
     type: oak
 meta:

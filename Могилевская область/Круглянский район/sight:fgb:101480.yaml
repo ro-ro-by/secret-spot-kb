@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Круглянский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°07′43,7″N'
+        lon: '29°41′41,7″E'
 tree:
     type: oak
 meta:

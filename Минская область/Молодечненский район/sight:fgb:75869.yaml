@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°14′09,5″N'
+        lon: '26°40′03,6″E'
 meta:
     fgb:
         post_id: '75869'

@@ -1,11 +1,16 @@
 id: 'sight:fgb:76105'
 title: 'Тополь-великан (Вековой тополь)'
 type: tree
-tree:
-    type: cottonwood
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°54′08,9″N'
+        lon: '27°34′30,3″E'
+tree:
+    type: cottonwood
 meta:
     fgb:
         post_id: '76105'

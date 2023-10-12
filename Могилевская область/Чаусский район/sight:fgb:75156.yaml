@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чаусский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°42′03,9″N'
+        lon: '31°05′53,1″E'
 tree:
     type: oak
 meta:

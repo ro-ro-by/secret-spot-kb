@@ -1,13 +1,13 @@
 id: 'sight:fgb:75277'
 title: 'Островные ельники Калинковичские'
 type: forest
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Калинковичский район'
 forest:
     dominated_type: spruce
     types:
         - spruce
-belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Калинковичский район'
 meta:
     fgb:
         post_id: '75277'

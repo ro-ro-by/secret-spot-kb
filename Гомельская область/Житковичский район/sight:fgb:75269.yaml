@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Житковичский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.25417
+        lon: 27.78247
 meta:
     fgb:
         post_id: '75269'

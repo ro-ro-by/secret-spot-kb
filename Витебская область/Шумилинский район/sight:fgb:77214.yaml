@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°31′23,8″N'
+        lon: '29°31′04,4″E'
 tree:
     type: tilia
 meta:

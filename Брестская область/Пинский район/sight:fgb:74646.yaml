@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°22′04,8″N'
+        lon: '23°22′34,5″E'
 tree:
     type: elm
 meta:

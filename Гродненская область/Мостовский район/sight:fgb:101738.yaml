@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Мостовский район'
 forest:
     dominated_type: oak
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°28′50,4″N'
+        lon: '24°23′06,5″E'
 meta:
     fgb:
         post_id: '101738'

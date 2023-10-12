@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°21′30,4″N'
+        lon: '25°44′04,6″E'
 meta:
     fgb:
         post_id: '70752'

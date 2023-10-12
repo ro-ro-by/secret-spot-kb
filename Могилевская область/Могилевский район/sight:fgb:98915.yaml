@@ -4,6 +4,11 @@ type: TODO
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°57′45,5″N'
+        lon: '30°22′58,6″E'
 meta:
     fgb:
         post_id: '98915'

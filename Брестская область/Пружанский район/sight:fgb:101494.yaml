@@ -1,11 +1,16 @@
 id: 'sight:fgb:101494'
 title: 'Городечненские сосны'
 type: tree
-tree:
-    type: pine
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°25′17,0″N'
+        lon: '24°18′31,0″E'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '101494'

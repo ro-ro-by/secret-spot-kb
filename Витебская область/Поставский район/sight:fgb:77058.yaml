@@ -4,6 +4,11 @@ type: hill
 belongsTo:
     region: 'Витебская область'
     subregion: 'Поставский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.11111
+        lon: 26.2875
 meta:
     fgb:
         post_id: '77058'

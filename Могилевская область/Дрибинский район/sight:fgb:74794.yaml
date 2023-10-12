@@ -1,11 +1,16 @@
 id: 'sight:fgb:74794'
 title: 'Каменский бор'
 type: forest
-forest:
-    dominated_type: pine
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Дрибинский район'
+forest:
+    dominated_type: pine
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°56′56,3″N'
+        lon: '31°09′36,2″E'
 meta:
     fgb:
         post_id: '74794'

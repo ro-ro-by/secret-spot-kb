@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°34′05,9″N'
+        lon: '31°22′53,4″E'
 tree:
     type: oak
 meta:

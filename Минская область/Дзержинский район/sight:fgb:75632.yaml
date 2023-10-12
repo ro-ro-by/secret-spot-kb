@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°38′03,6″N'
+        lon: '27°13′19,8″E'
 meta:
     fgb:
         post_id: '75632'

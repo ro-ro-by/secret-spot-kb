@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Брестская область'
     subregion: 'Жабинковский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.19632
+        lon: 24.05934
 meta:
     fgb:
         post_id: '96597'

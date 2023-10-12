@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Шкловский район'
 forest:
     dominated_type: oak
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°16′14,3″N'
+        lon: '30°06′23,3″E'
 meta:
     fgb:
         post_id: '75203'

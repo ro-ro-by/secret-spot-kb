@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ветковский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°50'00,3''"
+        lon: "31°29'57,4''"
 tree:
     type: oak
 meta:

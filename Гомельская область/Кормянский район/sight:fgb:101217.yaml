@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Кормянский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°09′35,8″N'
+        lon: '31°02′55,4″E'
 tree:
     type: oak
 meta:

@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°46′41,3″N'
+        lon: '26°37′38,5″E'
 tree:
     type: oak
 meta:

@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кировский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°09′22,8″N'
+        lon: '29°41′24,4″E'
 meta:
     fgb:
         post_id: '74819'

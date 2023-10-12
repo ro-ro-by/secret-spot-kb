@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Витебская область'
     subregion: 'Бешенковичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°02′40,4″N'
+        lon: '29°27′41,6″E'
 meta:
     fgb:
         post_id: '76132'

@@ -1,11 +1,16 @@
 id: 'sight:fgb:75859'
 title: 'Ясень Александровского сквера'
 type: tree
-tree:
-    type: ash
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°54′06,3″N'
+        lon: '27°33′46,6″E'
+tree:
+    type: ash
 meta:
     fgb:
         post_id: '75859'

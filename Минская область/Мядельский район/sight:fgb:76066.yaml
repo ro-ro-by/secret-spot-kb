@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°50′29,91″N'
+        lon: '26°27′48,95″E'
 tree:
     type: oak
 meta:

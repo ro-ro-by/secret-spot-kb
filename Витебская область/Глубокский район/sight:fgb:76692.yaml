@@ -4,6 +4,11 @@ type: hill
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.7668
+        lon: 28.78513
 meta:
     fgb:
         post_id: '76692'

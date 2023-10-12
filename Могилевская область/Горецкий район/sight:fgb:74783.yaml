@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Горецкий район'
 forest:
     dominated_type: birch
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°16′48,6″N'
+        lon: '31°06′06,7″E'
 meta:
     fgb:
         post_id: '74783'

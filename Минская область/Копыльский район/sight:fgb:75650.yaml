@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°09′07,9″N'
+        lon: '27°00′02,9″E'
 meta:
     fgb:
         post_id: '75650'

@@ -1,11 +1,16 @@
 id: 'sight:fgb:74514'
 title: 'Островные ельники «Меднянские» (карпатская раса)'
 type: forest
-forest:
-    dominated_type: spruce
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+forest:
+    dominated_type: spruce
+location:
+    type: point
+    coordinates_v3:
+        lat: "51°50'37,0''"
+        lon: "23°46'09,0''"
 meta:
     fgb:
         post_id: '74514'

@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°03′29,9″N'
+        lon: '27°08′57,0″E'
 tree:
     type: fir
 meta:

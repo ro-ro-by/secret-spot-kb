@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°16′41,1″N'
+        lon: '28°28′32,7″E'
 tree:
     type: oak
 meta:

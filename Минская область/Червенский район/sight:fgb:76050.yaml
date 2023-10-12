@@ -1,11 +1,16 @@
 id: 'sight:fgb:76050'
 title: 'Сосны черные Смиловичские'
 type: tree
-tree:
-    type: pine_black
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°45′07,30″N'
+        lon: '28°00′23,80″E'
+tree:
+    type: pine_black
 meta:
     fgb:
         post_id: '76050'

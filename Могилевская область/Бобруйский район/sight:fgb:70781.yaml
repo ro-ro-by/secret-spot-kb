@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°08′33,1″N'
+        lon: '29°13′48,1″E'
 tree:
     type: oak
 meta:

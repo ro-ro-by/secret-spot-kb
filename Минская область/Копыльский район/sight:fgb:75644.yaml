@@ -1,11 +1,16 @@
 id: 'sight:fgb:75644'
 title: 'Клены ложноплатановые Бобовнянские'
 type: tree
-tree:
-    type: maple
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°15′32,2″N'
+        lon: '26°56′55,7″E'
+tree:
+    type: maple
 meta:
     fgb:
         post_id: '75644'

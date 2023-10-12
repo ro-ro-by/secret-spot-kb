@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+location:
+    type: point
+    coordinates:
+        lat: 53.894713
+        lon: 25.534013
 meta:
     fgb:
         post_id: '95182'

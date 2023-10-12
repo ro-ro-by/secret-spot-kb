@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°25′18,6″N'
+        lon: '30°00′53,0″E'
 meta:
     fgb:
         post_id: '75239'

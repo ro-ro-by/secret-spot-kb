@@ -4,6 +4,11 @@ type: alley
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°18′07,1″N'
+        lon: '26°46′14,3″E'
 meta:
     fgb:
         post_id: '99516'

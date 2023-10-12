@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Дрогичинский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°14'21,6''"
+        lon: "24°55'02,8''"
 tree:
     type: oak
 meta:

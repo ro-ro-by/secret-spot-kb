@@ -4,6 +4,11 @@ type: esker
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.75
+        lon: 30.46667
 meta:
     fgb:
         post_id: '76979'

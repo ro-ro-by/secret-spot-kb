@@ -1,11 +1,16 @@
 id: 'sight:fgb:75634'
 title: 'Участок карельской березы'
 type: forest
-forest:
-    dominated_type: birch_curly
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+forest:
+    dominated_type: birch_curly
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°42′17,7″N'
+        lon: '27°01′45,4″E'
 meta:
     fgb:
         post_id: '75634'

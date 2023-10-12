@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°43′21,7″N'
+        lon: '27°31′12,9″E'
 meta:
     fgb:
         post_id: '75992'

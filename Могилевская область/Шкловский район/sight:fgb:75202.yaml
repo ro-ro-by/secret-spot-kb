@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Шкловский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°12′18,1″N'
+        lon: '30°17′33,4″E'
 meta:
     fgb:
         post_id: '75202'

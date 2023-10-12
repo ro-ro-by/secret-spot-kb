@@ -1,11 +1,16 @@
 id: 'sight:fgb:101771'
 title: 'Поречский листвяг'
 type: forest
-forest:
-    dominated_type: larch
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+forest:
+    dominated_type: larch
+location:
+    type: point
+    coordinates:
+        lat: 52.27579
+        lon: 25.78441
 meta:
     fgb:
         post_id: '101771'

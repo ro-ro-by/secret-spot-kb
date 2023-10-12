@@ -1,11 +1,16 @@
 id: 'sight:fgb:76018'
 title: 'Липы американские Нововесковские'
 type: tree
-tree:
-    type: tilia
 belongsTo:
     region: 'Минская область'
     subregion: 'Столбцовский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°13′17,8″N'
+        lon: '26°40′25,1″E'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '76018'

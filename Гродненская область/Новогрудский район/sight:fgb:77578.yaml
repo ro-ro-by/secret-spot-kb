@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°26′19,9″N'
+        lon: '25°54′33,9″E'
 tree:
     type: oak
 meta:

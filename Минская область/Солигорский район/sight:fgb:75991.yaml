@@ -1,11 +1,16 @@
 id: 'sight:fgb:75991'
 title: Клен
 type: tree
-tree:
-    type: maple
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°50′00,5″N'
+        lon: '27°20′17,1″E'
+tree:
+    type: maple
 meta:
     fgb:
         post_id: '75991'

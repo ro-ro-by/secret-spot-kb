@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.43499
+        lon: 25.57394
 meta:
     fgb:
         post_id: '99519'

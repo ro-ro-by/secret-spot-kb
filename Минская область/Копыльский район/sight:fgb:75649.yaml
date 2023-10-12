@@ -1,11 +1,16 @@
 id: 'sight:fgb:75649'
 title: 'Дерево Черная береза'
 type: tree
-tree:
-    type: birch_black
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°08′55,4″N'
+        lon: '27°00′52,6″E'
+tree:
+    type: birch_black
 meta:
     fgb:
         post_id: '75649'

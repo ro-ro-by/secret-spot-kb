@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°56′38,2″N'
+        lon: '24°56′22,2″E'
 meta:
     fgb:
         post_id: '97287'

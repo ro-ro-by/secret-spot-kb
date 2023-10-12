@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°07′54,7″N'
+        lon: '29°45′59,4″E'
 meta:
     fgb:
         post_id: '99684'

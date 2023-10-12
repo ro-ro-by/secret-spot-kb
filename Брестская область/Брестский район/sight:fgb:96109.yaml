@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Брестский район'
 forest:
     dominated_type: fir
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°05'08,5''"
+        lon: "23°41'05,2''"
 meta:
     fgb:
         post_id: '96109'

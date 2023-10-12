@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°58′25,2″N'
+        lon: '28°03′58,2″E'
 meta:
     fgb:
         post_id: '76359'

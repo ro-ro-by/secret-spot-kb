@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.55003
+        lon: 30.47611
 meta:
     fgb:
         post_id: '76994'

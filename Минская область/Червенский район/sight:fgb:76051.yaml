@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Червенский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°53′03,2″N'
+        lon: '28°36′57,6″E'
 meta:
     fgb:
         post_id: '76051'

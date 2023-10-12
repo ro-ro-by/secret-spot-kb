@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°46′22,8″N'
+        lon: '24°11′24,4″E'
 meta:
     fgb:
         post_id: '78569'

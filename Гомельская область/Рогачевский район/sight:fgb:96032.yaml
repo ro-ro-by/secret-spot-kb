@@ -1,13 +1,13 @@
 id: 'sight:fgb:96032'
 title: 'Группа деревьев (Кристопольские вековые деревья)'
 type: forest
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Рогачевский район'
 forest:
     dominated_type: oak
     types:
         - tilia
-belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Рогачевский район'
 meta:
     fgb:
         post_id: '96032'

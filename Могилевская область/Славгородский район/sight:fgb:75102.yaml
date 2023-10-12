@@ -1,11 +1,16 @@
 id: 'sight:fgb:75102'
 title: 'Лиственница вековая'
 type: tree
-tree:
-    type: larch
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°33′45,9″N'
+        lon: '30°57′29,3″E'
+tree:
+    type: larch
 meta:
     fgb:
         post_id: '75102'

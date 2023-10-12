@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°15′14,9″N'
+        lon: '27°41′08,8″E'
 meta:
     fgb:
         post_id: '76694'

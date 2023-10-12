@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Быховский район'
 forest:
     dominated_type: oak
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°29′03,7″N'
+        lon: '30°17′19,1″E'
 meta:
     fgb:
         post_id: '74735'

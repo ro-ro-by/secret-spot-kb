@@ -1,11 +1,11 @@
 id: 'sight:fgb:75643'
 title: 'Каштан восьмитычинковый Бобовнянский'
 type: tree
-tree:
-    type: chestnuts
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+tree:
+    type: chestnuts
 meta:
     fgb:
         post_id: '75643'

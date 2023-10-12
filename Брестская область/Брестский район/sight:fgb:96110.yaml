@@ -1,11 +1,16 @@
 id: 'sight:fgb:96110'
 title: 'Берестейские платаны'
 type: tree
-tree:
-    type: plane_tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°05'35,2''"
+        lon: "23°40'31,3''"
+tree:
+    type: plane_tree
 meta:
     fgb:
         post_id: '96110'

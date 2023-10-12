@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°13′46,0″N'
+        lon: '26°41′27,6″E'
 tree:
     type: oak
 meta:

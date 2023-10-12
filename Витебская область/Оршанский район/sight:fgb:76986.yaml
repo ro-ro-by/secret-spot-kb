@@ -4,6 +4,11 @@ type: hill
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.68124
+        lon: 30.50817
 meta:
     fgb:
         post_id: '76986'

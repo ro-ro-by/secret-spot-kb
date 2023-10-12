@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.55833
+        lon: 30.49584
 meta:
     fgb:
         post_id: '76976'

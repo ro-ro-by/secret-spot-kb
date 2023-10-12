@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Витебская область'
     subregion: 'Витебский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°15′09,1″N'
+        lon: '30°07′56,6″E'
 meta:
     fgb:
         post_id: '76396'

@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.19072
+        lon: 29.71417
 meta:
     fgb:
         post_id: '77208'

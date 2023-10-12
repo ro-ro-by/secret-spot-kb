@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Витебская область'
     subregion: 'Миорский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.496
+        lon: 27.51306
 meta:
     fgb:
         post_id: '76939'

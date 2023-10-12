@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Кировский район'
 forest:
     dominated_type: oak
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°12′06,9″N'
+        lon: '29°16′43,3″E'
 meta:
     fgb:
         post_id: '74820'

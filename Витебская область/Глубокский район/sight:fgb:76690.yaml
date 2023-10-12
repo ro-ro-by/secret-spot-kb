@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Витебская область'
     subregion: 'Глубокский район'
+location:
+    type: point
+    coordinates:
+        lat: 55.26277
+        lon: 27.90639
 meta:
     fgb:
         post_id: '76690'

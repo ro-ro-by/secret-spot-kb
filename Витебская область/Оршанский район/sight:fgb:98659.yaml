@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°20′25,0″N'
+        lon: '30°33′34,4″E'
 tree:
     type: oak
 meta:

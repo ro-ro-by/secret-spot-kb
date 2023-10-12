@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°40′32,2″N'
+        lon: '27°58′04,4″E'
 tree:
     type: oak
 meta:

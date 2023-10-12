@@ -1,13 +1,13 @@
 id: 'sight:fgb:75292'
 title: 'Уникальные участки леса (сосна)'
 type: forest
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Лельчицкий район'
 forest:
     dominated_type: oak
     types:
         - pine
-belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
 meta:
     fgb:
         post_id: '75292'

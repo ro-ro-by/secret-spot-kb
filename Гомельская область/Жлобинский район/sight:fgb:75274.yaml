@@ -1,11 +1,11 @@
 id: 'sight:fgb:75274'
 title: 'Лесной массив в урочище Чашевка'
 type: forest
-forest:
-    dominated_type: pine
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Жлобинский район'
+forest:
+    dominated_type: pine
 meta:
     fgb:
         post_id: '75274'

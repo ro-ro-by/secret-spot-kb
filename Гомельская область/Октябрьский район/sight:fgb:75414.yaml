@@ -1,11 +1,11 @@
 id: 'sight:fgb:75414'
 title: 'Отдельно стоящие деревья дуба'
 type: forest
-forest:
-    dominated_type: oak
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Октябрьский район'
+forest:
+    dominated_type: oak
 meta:
     fgb:
         post_id: '75414'

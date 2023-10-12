@@ -4,6 +4,11 @@ type: outcrop
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.55745
+        lon: 30.48681
 meta:
     fgb:
         post_id: '76983'

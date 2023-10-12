@@ -1,13 +1,13 @@
 id: 'sight:fgb:75428'
 title: 'Участки широколиственно-сосновых лесов'
 type: forest
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Речицкий район'
 forest:
     dominated_type: oak
     types:
         - pine
-belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
 meta:
     fgb:
         post_id: '75428'

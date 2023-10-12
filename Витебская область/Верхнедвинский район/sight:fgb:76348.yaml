@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '55°44′36,3″N'
+        lon: '27°58′11,6″E'
 meta:
     fgb:
         post_id: '76348'

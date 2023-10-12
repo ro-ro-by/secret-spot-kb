@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°21'50,7''"
+        lon: "23°22'14,5''"
 meta:
     fgb:
         post_id: '74580'

@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°11′47,0″N'
+        lon: '26°09′11,0″E'
 meta:
     fgb:
         post_id: '70744'

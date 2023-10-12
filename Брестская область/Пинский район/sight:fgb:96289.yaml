@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°06′47,8″N'
+        lon: '26°25′22,8″E'
 meta:
     fgb:
         post_id: '96289'

@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кличевский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°30′13,4″N'
+        lon: '29°17′05,1″E'
 meta:
     fgb:
         post_id: '74973'

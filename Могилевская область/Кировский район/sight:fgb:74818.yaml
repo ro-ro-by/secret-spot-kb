@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кировский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°22′47,7″N'
+        lon: '29°48′03,5″E'
 meta:
     fgb:
         post_id: '74818'

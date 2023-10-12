@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Несвижский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°13′33,4″N'
+        lon: '26°41′37,8″E'
 meta:
     fgb:
         post_id: '75954'

@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°46′49,4″N'
+        lon: '25°45′25,0″E'
 meta:
     fgb:
         post_id: '101739'

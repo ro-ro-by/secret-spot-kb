@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°30′27,0″N'
+        lon: '28°55′51,7″E'
 meta:
     fgb:
         post_id: '75092'

@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Борисовский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°16′39,5″N'
+        lon: '28°29′07,6″E'
 meta:
     fgb:
         post_id: '75535'

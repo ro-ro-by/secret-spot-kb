@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°53′29,6″N'
+        lon: '26°29′28,7″E'
 meta:
     fgb:
         post_id: '97800'

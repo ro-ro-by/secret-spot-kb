@@ -1,11 +1,11 @@
 id: 'sight:fgb:101908'
 title: 'Тополь белый'
 type: tree
-tree:
-    type: populus
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+tree:
+    type: populus
 meta:
     fgb:
         post_id: '101908'

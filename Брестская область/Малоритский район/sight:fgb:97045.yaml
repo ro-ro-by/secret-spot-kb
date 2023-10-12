@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '51°49′55,0″N'
+        lon: '24°05′13,0″E'
 meta:
     fgb:
         post_id: '97045'

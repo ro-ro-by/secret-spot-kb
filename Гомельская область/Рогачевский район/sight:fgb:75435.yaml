@@ -1,11 +1,11 @@
 id: 'sight:fgb:75435'
 title: 'Произрастание дуба и других деревьев'
 type: forest
-forest:
-    dominated_type: oak
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Рогачевский район'
+forest:
+    dominated_type: oak
 meta:
     fgb:
         post_id: '75435'

@@ -1,11 +1,16 @@
 id: 'sight:fgb:74512'
 title: 'Ели обыкновенные змеевидной формы «Брестские»'
 type: tree
-tree:
-    type: spruce
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "52°05'33,0''"
+        lon: "23°40'24,0''"
+tree:
+    type: spruce
 meta:
     fgb:
         post_id: '74512'

@@ -1,11 +1,16 @@
 id: 'sight:fgb:96228'
 title: 'Ель плакучая'
 type: tree
-tree:
-    type: spruce
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°33′52,1″N'
+        lon: '26°59′41,4″E'
+tree:
+    type: spruce
 meta:
     fgb:
         post_id: '96228'

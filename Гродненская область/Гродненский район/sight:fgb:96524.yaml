@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Гродненский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°36′37,7″N'
+        lon: '24°12′41,0″E'
 meta:
     fgb:
         post_id: '96524'

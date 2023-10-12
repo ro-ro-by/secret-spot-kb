@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Жабинковский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.21278
+        lon: 24.05833
 tree:
     type: oak
 meta:

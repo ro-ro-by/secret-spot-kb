@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°54′53,9″N'
+        lon: '27°36′48,8″E'
 meta:
     fgb:
         post_id: '75816'

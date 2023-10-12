@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Минская область'
     subregion: 'Слуцкий район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°59′32,9″N'
+        lon: '27°38′04,9″E'
 meta:
     fgb:
         post_id: '75968'

@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Брестская область'
     subregion: 'Жабинковский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.19759
+        lon: 24.0601
 meta:
     fgb:
         post_id: '95165'

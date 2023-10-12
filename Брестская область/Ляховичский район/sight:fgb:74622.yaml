@@ -1,11 +1,11 @@
 id: 'sight:fgb:74622'
 title: 'Рододендрон жёлтый, или азалия понтийская'
 type: forest
-forest:
-    dominated_type: azalea_yellow
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ляховичский район'
+forest:
+    dominated_type: azalea_yellow
 meta:
     fgb:
         post_id: '74622'

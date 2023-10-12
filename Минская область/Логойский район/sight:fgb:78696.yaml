@@ -4,6 +4,11 @@ type: alley
 belongsTo:
     region: 'Минская область'
     subregion: 'Логойский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°28′41,0″N'
+        lon: '27°39′01,8″E'
 meta:
     fgb:
         post_id: '78696'

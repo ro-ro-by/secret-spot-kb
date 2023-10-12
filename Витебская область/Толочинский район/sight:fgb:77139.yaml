@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°19′54,2″N'
+        lon: '30°02′09,5″E'
 meta:
     fgb:
         post_id: '77139'

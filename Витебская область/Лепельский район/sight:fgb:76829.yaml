@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Лепельский район'
+location:
+    type: point
+    coordinates:
+        lat: 54.80055
+        lon: 28.87347
 tree:
     type: oak
 meta:

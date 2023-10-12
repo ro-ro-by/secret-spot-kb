@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'
+location:
+    type: point
+    coordinates_v3:
+        lat: "51°42'27,0''"
+        lon: "24°05'31,0''"
 tree:
     type: tilia
 meta:

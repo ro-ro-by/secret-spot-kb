@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Смолевичский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°57′40,7″N'
+        lon: '28°17′25,1″E'
 meta:
     fgb:
         post_id: '75981'

@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'
+location:
+    type: point
+    coordinates:
+        lat: 52.23281
+        lon: 24.27569
 tree:
     type: oak
 meta:

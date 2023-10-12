@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°15′34,0″N'
+        lon: '26°17′39,0″E'
 meta:
     fgb:
         post_id: '74656'

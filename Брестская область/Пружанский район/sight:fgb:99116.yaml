@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '52°57′12,2″N'
+        lon: '24°49′57,7″E'
 meta:
     fgb:
         post_id: '99116'

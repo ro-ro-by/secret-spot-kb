@@ -1,11 +1,11 @@
 id: 'sight:fgb:99613'
 title: 'Клен на Менесковой горе'
 type: tree
-tree:
-    type: maple
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: maple
 meta:
     fgb:
         post_id: '99613'

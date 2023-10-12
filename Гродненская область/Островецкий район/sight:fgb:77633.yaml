@@ -1,11 +1,11 @@
 id: 'sight:fgb:77633'
 title: 'Канадский тополь'
 type: tree
-tree:
-    type: populus
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+tree:
+    type: populus
 meta:
     fgb:
         post_id: '77633'

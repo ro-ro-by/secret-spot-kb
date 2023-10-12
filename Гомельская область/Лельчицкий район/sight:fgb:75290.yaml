@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лельчицкий район'
+location:
+    type: point
+    coordinates:
+        lat: 51.79569
+        lon: 28.01053
 tree:
     type: oak
 meta:

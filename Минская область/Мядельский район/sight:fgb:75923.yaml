@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Минская область'
     subregion: 'Мядельский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '54°52′54,9″N'
+        lon: '26°55′26,5″E'
 meta:
     fgb:
         post_id: '75923'

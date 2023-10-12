@@ -1,11 +1,16 @@
 id: 'sight:fgb:74692'
 title: 'Пихты кавказские «Маньковичские»'
 type: tree
-tree:
-    type: fir
 belongsTo:
     region: 'Брестская область'
     subregion: 'Столинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '51°53′47,0″N'
+        lon: '26°52′29,0″E'
+tree:
+    type: fir
 meta:
     fgb:
         post_id: '74692'

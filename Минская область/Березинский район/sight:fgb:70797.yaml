@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°47′12,9″N'
+        lon: '29°15′24,3″E'
 tree:
     type: oak
 meta:

@@ -1,11 +1,11 @@
 id: 'sight:fgb:101736'
 title: 'Пихтарник Волковысский'
 type: forest
-forest:
-    dominated_type: fir
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'
+forest:
+    dominated_type: fir
 meta:
     fgb:
         post_id: '101736'

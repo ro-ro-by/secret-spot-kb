@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°31′41,2″N'
+        lon: '30°19′52,8″E'
 meta:
     fgb:
         post_id: '74736'

@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Дятловский район'
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°27′36,6″N'
+        lon: '25°19′26,1″E'
 meta:
     fgb:
         post_id: '99683'

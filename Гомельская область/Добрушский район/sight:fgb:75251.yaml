@@ -1,13 +1,13 @@
 id: 'sight:fgb:75251'
 title: 'Островные ельники Добрушские'
 type: forest
+belongsTo:
+    region: 'Гомельская область'
+    subregion: 'Добрушский район'
 forest:
     dominated_type: spruce
     types:
         - spruce
-belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Добрушский район'
 meta:
     fgb:
         post_id: '75251'

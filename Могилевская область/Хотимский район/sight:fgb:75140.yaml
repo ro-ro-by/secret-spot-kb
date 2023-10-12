@@ -6,6 +6,11 @@ belongsTo:
     subregion: 'Хотимский район'
 forest:
     dominated_type: birch
+location:
+    type: point
+    coordinates_v2:
+        lat: '53°23′24,4″N'
+        lon: '32°29′22,9″E'
 meta:
     fgb:
         post_id: '75140'
