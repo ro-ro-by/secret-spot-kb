@@ -1,8 +1,11 @@
 id: 'sight:fgb:97060'
 title: 'Дуб Вацлава Ластовского'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Полоцкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '97060'

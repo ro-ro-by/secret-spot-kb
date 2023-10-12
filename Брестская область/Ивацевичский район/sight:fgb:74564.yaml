@@ -1,8 +1,11 @@
 id: 'sight:fgb:74564'
 title: 'Руднянский дуб'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74564'

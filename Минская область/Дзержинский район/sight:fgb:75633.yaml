@@ -1,8 +1,11 @@
 id: 'sight:fgb:75633'
 title: 'Два дуба в д.Ляховичи'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Дзержинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75633'

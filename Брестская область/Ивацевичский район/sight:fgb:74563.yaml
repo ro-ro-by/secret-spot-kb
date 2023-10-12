@@ -1,8 +1,11 @@
 id: 'sight:fgb:74563'
 title: 'Бобровичский дуб (Дубы черешчатые на кладбище)'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74563'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:78718'
 title: 'Вековой дуб'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '78718'

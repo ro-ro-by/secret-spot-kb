@@ -1,8 +1,11 @@
 id: 'sight:fgb:74630'
 title: 'Хотиславские липы'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '74630'

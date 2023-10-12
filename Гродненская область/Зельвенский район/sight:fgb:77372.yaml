@@ -1,8 +1,11 @@
 id: 'sight:fgb:77372'
 title: Дуб-тройник
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77372'

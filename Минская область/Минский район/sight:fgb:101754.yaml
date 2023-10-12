@@ -1,8 +1,11 @@
 id: 'sight:fgb:101754'
 title: 'Липа мелколистная'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '101754'

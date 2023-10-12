@@ -1,8 +1,11 @@
 id: 'sight:fgb:74607'
 title: 'Дуб Суворовский'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74607'

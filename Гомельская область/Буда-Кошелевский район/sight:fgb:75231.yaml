@@ -1,5 +1,6 @@
 id: 'sight:fgb:75231'
 title: 'Дуб черешчатый Буда-Кошелевский-1'
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Буда-Кошелевский район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '52.764888'
         lon: '30.496207'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75231'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:101196'
 title: 'Липа мелколистная в деревне Ясенец'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '101196'

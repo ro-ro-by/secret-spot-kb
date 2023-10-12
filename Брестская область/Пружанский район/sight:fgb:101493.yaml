@@ -1,8 +1,11 @@
 id: 'sight:fgb:101493'
 title: 'Наполеоновский дуб'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пружанский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101493'

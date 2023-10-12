@@ -1,8 +1,11 @@
 id: 'sight:fgb:98526'
 title: 'Два отдельных дуба'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '98526'

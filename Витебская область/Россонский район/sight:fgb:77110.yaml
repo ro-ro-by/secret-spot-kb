@@ -1,8 +1,11 @@
 id: 'sight:fgb:77110'
 title: 'Дубы Повалишкинские (Дубы в деревне Янковичи)'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Россонский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77110'

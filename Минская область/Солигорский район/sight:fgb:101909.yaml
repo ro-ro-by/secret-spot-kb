@@ -1,8 +1,11 @@
 id: 'sight:fgb:101909'
 title: 'Дуб черешчатый'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101909'

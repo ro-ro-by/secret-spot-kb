@@ -1,8 +1,11 @@
 id: 'sight:fgb:96564'
 title: 'Сосна Веймутова'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '96564'

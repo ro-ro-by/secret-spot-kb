@@ -1,8 +1,11 @@
 id: 'sight:fgb:101460'
 title: 'Дуб черешчатый в деревне Нароши'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101460'

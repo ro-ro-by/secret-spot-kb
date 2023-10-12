@@ -1,8 +1,11 @@
 id: 'sight:fgb:77211'
 title: 'Сосна обыкновенная'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '77211'

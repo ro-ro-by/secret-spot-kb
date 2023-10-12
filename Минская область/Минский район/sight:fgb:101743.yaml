@@ -1,8 +1,11 @@
 id: 'sight:fgb:101743'
 title: 'Вековой дуб в д. Новое Поле'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101743'

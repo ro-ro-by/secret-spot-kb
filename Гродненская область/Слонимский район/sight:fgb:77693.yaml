@@ -1,8 +1,11 @@
 id: 'sight:fgb:77693'
 title: 'Дуб зимний Сеньковщинский'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Слонимский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77693'

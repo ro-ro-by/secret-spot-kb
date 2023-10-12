@@ -1,8 +1,11 @@
 id: 'sight:fgb:77786'
 title: 'Вековые сосны в окрестности г. Щучин'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Щучинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77786'

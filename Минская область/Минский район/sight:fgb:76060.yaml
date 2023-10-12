@@ -1,8 +1,11 @@
 id: 'sight:fgb:76060'
 title: 'Липа Губернаторского сада'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '76060'

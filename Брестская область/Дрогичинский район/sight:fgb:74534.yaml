@@ -1,8 +1,11 @@
 id: 'sight:fgb:74534'
 title: 'Кария овальная «Брашевичская»'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Дрогичинский район'
+tree:
+    type: carya
 meta:
     fgb:
         post_id: '74534'

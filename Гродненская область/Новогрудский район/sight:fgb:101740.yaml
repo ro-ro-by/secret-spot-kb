@@ -1,8 +1,11 @@
 id: 'sight:fgb:101740'
 title: 'Вековые дубы в окрестностях д. Миратичи'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101740'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:77374'
 title: Сосна
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Зельвенский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '77374'

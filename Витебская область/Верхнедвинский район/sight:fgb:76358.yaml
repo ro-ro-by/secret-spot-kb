@@ -1,8 +1,11 @@
 id: 'sight:fgb:76358'
 title: 'Дуб черешчатый Сахоновский (Дуб в окрестностях д. Вышнарево)'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '76358'

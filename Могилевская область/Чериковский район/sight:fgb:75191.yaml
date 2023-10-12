@@ -1,8 +1,11 @@
 id: 'sight:fgb:75191'
 title: 'Дуб Великан'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75191'

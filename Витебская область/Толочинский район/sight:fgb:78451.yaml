@@ -1,8 +1,11 @@
 id: 'sight:fgb:78451'
 title: 'Дуб - место явления иконы святых Бориса и Глеба'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Толочинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '78451'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:95774'
 title: 'Дуб Александра Блока'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '95774'

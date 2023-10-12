@@ -1,8 +1,11 @@
 id: 'sight:fgb:83222'
 title: 'Обручальный (Заручальный) дуб'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '83222'

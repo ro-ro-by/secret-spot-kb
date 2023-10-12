@@ -1,8 +1,11 @@
 id: 'sight:fgb:75040'
 title: 'Дуб пана Гардиловского'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Круглянский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75040'

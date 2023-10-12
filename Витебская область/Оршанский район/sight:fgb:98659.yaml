@@ -1,8 +1,11 @@
 id: 'sight:fgb:98659'
 title: 'Дуб черешчатый'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Оршанский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '98659'

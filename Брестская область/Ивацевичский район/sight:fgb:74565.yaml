@@ -1,8 +1,11 @@
 id: 'sight:fgb:74565'
 title: '«Новинская хвоя»'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '74565'

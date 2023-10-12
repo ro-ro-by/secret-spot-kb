@@ -1,8 +1,11 @@
 id: 'sight:fgb:101813'
 title: 'Целующиеся дубы'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Климовичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101813'

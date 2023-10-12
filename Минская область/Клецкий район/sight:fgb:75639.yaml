@@ -1,5 +1,6 @@
 id: 'sight:fgb:75639'
 title: 'Дуб черешчатый Новинковский'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '52.893704'
         lon: '26.63312'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75639'

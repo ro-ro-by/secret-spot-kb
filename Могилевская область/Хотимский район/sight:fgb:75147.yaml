@@ -1,8 +1,11 @@
 id: 'sight:fgb:75147'
 title: 'Отдельно стоящий дуб'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75147'

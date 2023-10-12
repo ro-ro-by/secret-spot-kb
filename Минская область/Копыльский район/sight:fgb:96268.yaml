@@ -1,8 +1,11 @@
 id: 'sight:fgb:96268'
 title: 'Поклонная сосна'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '96268'

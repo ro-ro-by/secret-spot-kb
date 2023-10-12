@@ -1,5 +1,6 @@
 id: 'sight:fgb:99518'
 title: Царь-сосна
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Житковичский район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '52.00119'
         lon: '27.85768'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '99518'

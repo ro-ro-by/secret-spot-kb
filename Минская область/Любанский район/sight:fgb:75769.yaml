@@ -1,8 +1,11 @@
 id: 'sight:fgb:75769'
 title: 'Группа из шести деревьев дуба черешчатого'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75769'

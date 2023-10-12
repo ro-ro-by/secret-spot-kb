@@ -1,8 +1,11 @@
 id: 'sight:fgb:101737'
 title: 'Вековой дуб у станции Белогруда'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101737'

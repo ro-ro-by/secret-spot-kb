@@ -1,8 +1,11 @@
 id: 'sight:fgb:102017'
 title: Дуб
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '102017'

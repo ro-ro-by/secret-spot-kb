@@ -1,8 +1,11 @@
 id: 'sight:fgb:95777'
 title: 'Дуб Минтус'
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Речицкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '95777'

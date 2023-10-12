@@ -1,8 +1,11 @@
 id: 'sight:fgb:77214'
 title: 'Липа мелколистная'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '77214'

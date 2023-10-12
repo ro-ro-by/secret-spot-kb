@@ -1,8 +1,11 @@
 id: 'sight:fgb:77615'
 title: 'Дуб №3'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77615'

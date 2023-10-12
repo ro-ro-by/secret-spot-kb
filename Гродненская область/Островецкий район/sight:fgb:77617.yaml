@@ -1,8 +1,11 @@
 id: 'sight:fgb:77617'
 title: 'Старажытны дуб'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77617'

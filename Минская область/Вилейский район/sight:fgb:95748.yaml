@@ -1,5 +1,6 @@
 id: 'sight:fgb:95748'
 title: 'Святой дуб'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Вилейский район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '54.497619'
         lon: '26.741344'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '95748'

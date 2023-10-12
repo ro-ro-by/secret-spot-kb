@@ -1,8 +1,11 @@
 id: 'sight:fgb:97341'
 title: 'Вековая сосна'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '97341'

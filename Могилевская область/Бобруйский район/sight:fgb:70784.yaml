@@ -1,5 +1,6 @@
 id: 'sight:fgb:70784'
 title: 'Вековая сосна'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '53.025424'
         lon: '29.138746'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '70784'

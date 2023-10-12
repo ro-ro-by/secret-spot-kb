@@ -1,8 +1,11 @@
 id: 'sight:fgb:96604'
 title: 'Липа мелколистная'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '96604'

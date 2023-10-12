@@ -1,8 +1,11 @@
 id: 'sight:fgb:101217'
 title: 'Дуб черешчатый в деревне Кляпин'
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Кормянский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101217'

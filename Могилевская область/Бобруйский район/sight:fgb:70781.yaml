@@ -1,8 +1,11 @@
 id: 'sight:fgb:70781'
 title: Дуб-великан
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Бобруйский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '70781'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:75047'
 title: 'Вековое дерево дуб-2'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Могилевский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75047'

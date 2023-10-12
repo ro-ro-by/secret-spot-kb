@@ -1,8 +1,11 @@
 id: 'sight:fgb:74639'
 title: 'Царь-дуб Пожежинский'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74639'

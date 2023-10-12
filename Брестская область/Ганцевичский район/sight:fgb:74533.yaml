@@ -1,8 +1,11 @@
 id: 'sight:fgb:74533'
 title: 'Дуб Волат'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74533'

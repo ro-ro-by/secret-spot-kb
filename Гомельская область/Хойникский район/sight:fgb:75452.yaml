@@ -1,8 +1,11 @@
 id: 'sight:fgb:75452'
 title: 'Сосна Королева'
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Хойникский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '75452'

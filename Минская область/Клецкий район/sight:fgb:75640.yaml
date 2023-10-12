@@ -1,5 +1,6 @@
 id: 'sight:fgb:75640'
 title: 'Два сросшихся дуба черешчатых Голынковские'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Клецкий район'
@@ -8,6 +9,8 @@ location:
     coordinates:
         lat: '52.937976'
         lon: '26.424801'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75640'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:74529'
 title: 'Сосна Веймутова'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '74529'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:101477'
 title: 'Вековой дуб в деревне Шипиловичи'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101477'

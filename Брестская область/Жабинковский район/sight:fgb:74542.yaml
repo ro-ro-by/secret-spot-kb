@@ -1,8 +1,11 @@
 id: 'sight:fgb:74542'
 title: 'Дуб черешчатый «Петровичский»-1'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Жабинковский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74542'

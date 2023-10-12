@@ -1,8 +1,11 @@
 id: 'sight:fgb:99977'
 title: 'Дуб кары'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Поставский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '99977'

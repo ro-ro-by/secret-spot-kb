@@ -1,8 +1,11 @@
 id: 'sight:fgb:77876'
 title: 'Дуб Мицкевича'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '77876'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:75143'
 title: 'Два отдельно стоящих дуба'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '75143'

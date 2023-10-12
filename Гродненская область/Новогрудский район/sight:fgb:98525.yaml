@@ -1,8 +1,11 @@
 id: 'sight:fgb:98525'
 title: 'Двухсотлетний дуб в окрестности д. Понемонь'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '98525'

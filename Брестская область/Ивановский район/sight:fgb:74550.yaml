@@ -1,8 +1,11 @@
 id: 'sight:fgb:74550'
 title: 'Сосна Веймутова'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивановский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '74550'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:76812'
 title: Царь-дуб
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Докшицкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '76812'

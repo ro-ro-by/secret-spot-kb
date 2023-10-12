@@ -1,8 +1,11 @@
 id: 'sight:fgb:70798'
 title: 'Дуб черешчатый Любушанский-2'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Березинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '70798'

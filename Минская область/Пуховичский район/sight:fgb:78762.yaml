@@ -1,8 +1,11 @@
 id: 'sight:fgb:78762'
 title: 'Дукорский старинный "Дуб желаний"'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Пуховичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '78762'

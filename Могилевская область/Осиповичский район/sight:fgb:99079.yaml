@@ -1,8 +1,11 @@
 id: 'sight:fgb:99079'
 title: 'Вековой дуб в Дараганово'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '99079'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:96264'
 title: 'Поклонная сосна'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '96264'

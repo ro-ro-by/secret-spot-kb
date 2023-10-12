@@ -1,8 +1,11 @@
 id: 'sight:fgb:99069'
 title: 'Дубенецкий дуб'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Столинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '99069'

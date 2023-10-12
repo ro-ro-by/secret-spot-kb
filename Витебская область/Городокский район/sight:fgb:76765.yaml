@@ -1,8 +1,11 @@
 id: 'sight:fgb:76765'
 title: 'Дуб-великан Волат'
+type: tree
 belongsTo:
     region: 'Витебская область'
     subregion: 'Городокский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '76765'

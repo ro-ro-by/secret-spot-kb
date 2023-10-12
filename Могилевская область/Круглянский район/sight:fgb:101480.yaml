@@ -1,8 +1,11 @@
 id: 'sight:fgb:101480'
 title: 'Вековой дуб Белыничского лесхоза'
+type: tree
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Круглянский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101480'

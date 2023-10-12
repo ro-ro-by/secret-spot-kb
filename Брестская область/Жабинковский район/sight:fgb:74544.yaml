@@ -1,8 +1,11 @@
 id: 'sight:fgb:74544'
 title: 'Сосна Веймутова «Жабинковская»'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Жабинковский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74544'

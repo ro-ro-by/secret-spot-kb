@@ -1,8 +1,11 @@
 id: 'sight:fgb:101220'
 title: 'Вековые дубы в городе Островец'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '101220'

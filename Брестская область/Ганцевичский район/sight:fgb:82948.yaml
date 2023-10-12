@@ -1,8 +1,11 @@
 id: 'sight:fgb:82948'
 title: 'Телешев Дуб'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '82948'

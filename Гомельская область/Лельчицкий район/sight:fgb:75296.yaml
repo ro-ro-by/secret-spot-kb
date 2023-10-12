@@ -1,8 +1,11 @@
 id: 'sight:fgb:75296'
 title: Липа
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Лельчицкий район'
+tree:
+    type: tilia
 meta:
     fgb:
         post_id: '75296'

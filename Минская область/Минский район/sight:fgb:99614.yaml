@@ -1,8 +1,11 @@
 id: 'sight:fgb:99614'
 title: 'Дуб Волат Волатович'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '99614'

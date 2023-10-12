@@ -1,8 +1,11 @@
 id: 'sight:fgb:70749'
 title: 'Дубы пирамидальные Барановичские'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Барановичский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '70749'

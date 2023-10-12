@@ -1,8 +1,11 @@
 id: 'sight:fgb:74691'
 title: 'Два дуба черешчатых "Речицкие"'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Столинский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '74691'

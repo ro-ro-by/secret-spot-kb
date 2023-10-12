@@ -1,8 +1,11 @@
 id: 'sight:fgb:95772'
 title: 'Вековой  дуб у Крестовоздвиженской церкви (Дуб Адама Мицкевича)'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '95772'

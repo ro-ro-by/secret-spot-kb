@@ -1,8 +1,11 @@
 id: 'sight:fgb:95770'
 title: 'Дуб Мицкевича'
+type: tree
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Новогрудский район'
+tree:
+    type: oak
 meta:
     fgb:
         post_id: '95770'
