@@ -1,8 +1,11 @@
 id: 'sight:fgb:97007'
 title: 'Лик Богородицы с младенцем на вязе'
+type: tree
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Хойникский район'
+tree:
+    type: elm
 meta:
     fgb:
         post_id: '97007'

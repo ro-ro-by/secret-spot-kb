@@ -1,8 +1,13 @@
 id: 'sight:fgb:75068'
 title: 'Дубрава Лютня'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Мстиславский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '75068'

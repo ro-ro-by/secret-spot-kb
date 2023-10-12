@@ -1,8 +1,11 @@
 id: 'sight:fgb:88587'
 title: 'Руднянские вязы'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+tree:
+    type: elm
 meta:
     fgb:
         post_id: '88587'

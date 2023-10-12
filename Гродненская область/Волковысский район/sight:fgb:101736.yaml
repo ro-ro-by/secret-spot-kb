@@ -1,5 +1,8 @@
 id: 'sight:fgb:101736'
 title: 'Пихтарник Волковысский'
+type: forest
+forest:
+    dominated_type: fir
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Волковысский район'

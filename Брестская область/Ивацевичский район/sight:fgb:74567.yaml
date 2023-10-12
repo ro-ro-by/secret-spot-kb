@@ -1,8 +1,13 @@
 id: 'sight:fgb:74567'
 title: 'Чистая дубрава «Борецкая»'
+type: forest
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ивацевичский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '74567'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:97338'
 title: Вяз-старожил
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'
+tree:
+    type: elm
 meta:
     fgb:
         post_id: '97338'

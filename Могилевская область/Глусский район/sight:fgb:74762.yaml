@@ -1,8 +1,13 @@
 id: 'sight:fgb:74762'
 title: 'Дубрава (1)'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Глусский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '74762'

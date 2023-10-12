@@ -1,8 +1,11 @@
 id: 'sight:fgb:75645'
 title: 'Пихта калифорнийская Чижевичская'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Копыльский район'
+tree:
+    type: fir
 meta:
     fgb:
         post_id: '75645'

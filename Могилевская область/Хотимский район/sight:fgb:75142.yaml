@@ -1,8 +1,11 @@
 id: 'sight:fgb:75142'
 title: 'Ивановская роща'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+forest:
+    dominated_type: birch
 meta:
     fgb:
         post_id: '75142'

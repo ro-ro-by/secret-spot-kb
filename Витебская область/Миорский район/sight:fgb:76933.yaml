@@ -1,8 +1,13 @@
 id: 'sight:fgb:76933'
 title: 'Чистая дубрава Язненская'
+type: forest
 belongsTo:
     region: 'Витебская область'
     subregion: 'Миорский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '76933'

@@ -1,8 +1,13 @@
 id: 'sight:fgb:75814'
 title: 'Дубрава Щемыслицкая'
+type: forest
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '75814'

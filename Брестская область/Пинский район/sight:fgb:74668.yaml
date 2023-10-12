@@ -1,8 +1,11 @@
 id: 'sight:fgb:74668'
 title: 'Пихта белая'
+type: tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'
+tree:
+    type: fir
 meta:
     fgb:
         post_id: '74668'

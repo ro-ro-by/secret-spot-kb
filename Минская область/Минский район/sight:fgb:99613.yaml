@@ -1,5 +1,8 @@
 id: 'sight:fgb:99613'
 title: 'Клен на Менесковой горе'
+type: tree
+tree:
+    type: maple
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'

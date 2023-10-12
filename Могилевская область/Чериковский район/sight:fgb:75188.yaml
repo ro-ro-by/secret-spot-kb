@@ -1,8 +1,13 @@
 id: 'sight:fgb:75188'
 title: 'Вепринская дубрава'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Чериковский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '75188'

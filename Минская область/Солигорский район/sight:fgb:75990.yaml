@@ -1,8 +1,13 @@
 id: 'sight:fgb:75990'
 title: 'Дубрава - 2'
+type: forest
 belongsTo:
     region: 'Минская область'
     subregion: 'Солигорский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '75990'

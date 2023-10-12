@@ -1,8 +1,13 @@
 id: 'sight:fgb:97339'
 title: 'Островецкая дубрава'
+type: forest
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Островецкий район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '97339'

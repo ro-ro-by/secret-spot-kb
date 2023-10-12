@@ -1,8 +1,13 @@
 id: 'sight:fgb:101216'
 title: 'Дубрава в Дёрновичском лесничестве'
+type: forest
 belongsTo:
     region: 'Витебская область'
     subregion: 'Полоцкий район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '101216'

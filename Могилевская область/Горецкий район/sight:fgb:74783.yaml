@@ -1,8 +1,11 @@
 id: 'sight:fgb:74783'
 title: 'Полящицкая роща'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Горецкий район'
+forest:
+    dominated_type: birch
 meta:
     fgb:
         post_id: '74783'

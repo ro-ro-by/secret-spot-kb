@@ -1,8 +1,11 @@
 id: 'sight:fgb:75203'
 title: 'Отдельно стоящие дубы'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Шкловский район'
+forest:
+    dominated_type: oak
 meta:
     fgb:
         post_id: '75203'

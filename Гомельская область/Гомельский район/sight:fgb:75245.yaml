@@ -1,8 +1,13 @@
 id: 'sight:fgb:75245'
 title: Дубрава
+type: forest
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Гомельский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '75245'

@@ -1,8 +1,11 @@
 id: 'sight:fgb:101479'
 title: 'Вяз шершавый'
+type: tree
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
+tree:
+    type: elm
 meta:
     fgb:
         post_id: '101479'

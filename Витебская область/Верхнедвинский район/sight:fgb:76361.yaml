@@ -1,8 +1,13 @@
 id: 'sight:fgb:76361'
 title: 'Дубовые насаждения Тоболки (Дубрава в Верхнедвинском лесничестве)'
+type: forest
 belongsTo:
     region: 'Витебская область'
     subregion: 'Верхнедвинский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '76361'

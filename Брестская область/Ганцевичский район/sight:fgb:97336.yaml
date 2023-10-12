@@ -1,8 +1,13 @@
 id: 'sight:fgb:97336'
 title: 'Дубрава Ганцевичская'
+type: forest
 belongsTo:
     region: 'Брестская область'
     subregion: 'Ганцевичский район'
+forest:
+    dominated_type: oak
+    types:
+        - oak
 meta:
     fgb:
         post_id: '97336'

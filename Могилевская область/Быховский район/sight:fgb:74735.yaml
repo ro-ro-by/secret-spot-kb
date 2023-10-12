@@ -1,8 +1,11 @@
 id: 'sight:fgb:74735'
 title: 'Дубовая роща в урочище Дубки'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'
+forest:
+    dominated_type: oak
 meta:
     fgb:
         post_id: '74735'

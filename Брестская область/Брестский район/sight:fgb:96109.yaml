@@ -1,8 +1,11 @@
 id: 'sight:fgb:96109'
 title: 'Брестский пихтарник'
+type: forest
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'
+forest:
+    dominated_type: fir
 meta:
     fgb:
         post_id: '96109'

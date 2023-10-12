@@ -1,8 +1,11 @@
 id: 'sight:fgb:75140'
 title: 'Боханская березовая роща'
+type: forest
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Хотимский район'
+forest:
+    dominated_type: birch
 meta:
     fgb:
         post_id: '75140'
