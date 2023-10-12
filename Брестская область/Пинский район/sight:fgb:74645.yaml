@@ -1,5 +1,8 @@
 id: 'sight:fgb:74645'
 title: 'Перехрестенские бересты'
+type: tree
+tree:
+    type: elm
 belongsTo:
     region: 'Брестская область'
     subregion: 'Пинский район'

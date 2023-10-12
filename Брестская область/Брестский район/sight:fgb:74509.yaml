@@ -1,5 +1,8 @@
 id: 'sight:fgb:74509'
 title: 'Бук лесной'
+type: tree
+tree:
+    type: beech
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

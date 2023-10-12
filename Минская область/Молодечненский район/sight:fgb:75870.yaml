@@ -1,5 +1,8 @@
 id: 'sight:fgb:75870'
 title: 'Лиственница в Лебедевском лесничестве'
+type: tree
+tree:
+    type: larch
 belongsTo:
     region: 'Минская область'
     subregion: 'Молодечненский район'

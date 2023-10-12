@@ -1,5 +1,8 @@
 id: 'sight:fgb:96108'
 title: 'Брестские гледичии'
+type: tree
+tree:
+    type: honey_locust
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

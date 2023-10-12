@@ -1,5 +1,8 @@
 id: 'sight:fgb:75087'
 title: Дуброва
+type: forest
+forest:
+    dominated_type: oak
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Осиповичский район'

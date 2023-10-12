@@ -1,5 +1,8 @@
 id: 'sight:fgb:74512'
 title: 'Ели обыкновенные змеевидной формы «Брестские»'
+type: tree
+tree:
+    type: spruce
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

@@ -1,5 +1,8 @@
 id: 'sight:fgb:75258'
 title: 'Береза черная'
+type: tree
+tree:
+    type: birch_black
 belongsTo:
     region: 'Гомельская область'
     subregion: 'Ельский район'

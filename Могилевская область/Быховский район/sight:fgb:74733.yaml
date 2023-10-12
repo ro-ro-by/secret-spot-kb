@@ -1,5 +1,8 @@
 id: 'sight:fgb:74733'
 title: 'Сосны-гиганты Новобоярские'
+type: tree
+tree:
+    type: pine
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Быховский район'

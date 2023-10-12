@@ -1,5 +1,8 @@
 id: 'sight:fgb:74951'
 title: 'Участко добово-ясеневого леса'
+type: forest
+forest:
+    dominated_type: oak
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Кличевский район'

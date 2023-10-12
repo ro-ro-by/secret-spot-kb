@@ -1,5 +1,8 @@
 id: 'sight:fgb:77213'
 title: 'Осина (тополь дрожащий)'
+type: tree
+tree:
+    type: aspen
 belongsTo:
     region: 'Витебская область'
     subregion: 'Шумилинский район'

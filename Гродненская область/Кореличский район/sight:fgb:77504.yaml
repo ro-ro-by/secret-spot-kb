@@ -1,5 +1,8 @@
 id: 'sight:fgb:77504'
 title: 'Каштан восьмитычинковый Райцевский'
+type: tree
+tree:
+    type: chestnut
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Кореличский район'

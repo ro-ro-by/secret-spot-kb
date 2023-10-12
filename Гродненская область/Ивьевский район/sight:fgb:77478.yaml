@@ -1,5 +1,8 @@
 id: 'sight:fgb:77478'
 title: 'Ясень пенсильванский аукуболистный Жемыславский'
+type: tree
+tree:
+    type: ash
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Ивьевский район'

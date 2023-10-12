@@ -1,5 +1,8 @@
 id: 'sight:fgb:96269'
 title: 'Поклонные березы'
+type: tree
+tree:
+    type: birch
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Белыничский район'

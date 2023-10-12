@@ -1,5 +1,8 @@
 id: 'sight:fgb:75767'
 title: 'Дерево липы мелколистной в д. Юшковичи'
+type: tree
+tree:
+    type: tilia
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'

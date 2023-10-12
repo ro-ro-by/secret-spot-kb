@@ -1,5 +1,8 @@
 id: 'sight:fgb:74632'
 title: 'Островные ельники Пожежинские (карпатская раса)'
+type: forest
+forest:
+    dominated_type: spruce
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'

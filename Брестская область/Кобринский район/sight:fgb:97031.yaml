@@ -1,5 +1,8 @@
 id: 'sight:fgb:97031'
 title: 'Группа дубов'
+type: tree
+tree:
+    type: oak
 belongsTo:
     region: 'Брестская область'
     subregion: 'Кобринский район'

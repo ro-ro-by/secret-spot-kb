@@ -1,5 +1,8 @@
 id: 'sight:fgb:75770'
 title: 'Группа деревьев березы черной'
+type: tree
+tree:
+    type: birch_black
 belongsTo:
     region: 'Минская область'
     subregion: 'Любанский район'

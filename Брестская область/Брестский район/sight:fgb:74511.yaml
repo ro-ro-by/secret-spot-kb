@@ -1,5 +1,8 @@
 id: 'sight:fgb:74511'
 title: 'Вишня птичья'
+type: tree
+tree:
+    type: cherry_sweet
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

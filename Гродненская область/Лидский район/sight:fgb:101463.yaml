@@ -1,5 +1,8 @@
 id: 'sight:fgb:101463'
 title: 'Двухсотлетние сосны Белогрудские'
+type: tree
+tree:
+    type: pine
 belongsTo:
     region: 'Гродненская область'
     subregion: 'Лидский район'

@@ -1,5 +1,8 @@
 id: 'sight:fgb:75102'
 title: 'Лиственница вековая'
+type: tree
+tree:
+    type: larch
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Славгородский район'

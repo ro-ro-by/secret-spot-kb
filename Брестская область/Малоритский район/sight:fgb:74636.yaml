@@ -1,5 +1,8 @@
 id: 'sight:fgb:74636'
 title: 'Буки лесные «Великоритские»'
+type: tree
+tree:
+    type: beech
 belongsTo:
     region: 'Брестская область'
     subregion: 'Малоритский район'

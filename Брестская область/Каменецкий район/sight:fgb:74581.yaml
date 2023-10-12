@@ -1,5 +1,8 @@
 id: 'sight:fgb:74581'
 title: 'Плющевник Верховичский плющевник'
+type: forest
+forest:
+    dominated_type: ivy
 belongsTo:
     region: 'Брестская область'
     subregion: 'Каменецкий район'

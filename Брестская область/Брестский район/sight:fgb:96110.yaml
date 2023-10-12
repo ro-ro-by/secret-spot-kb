@@ -1,5 +1,8 @@
 id: 'sight:fgb:96110'
 title: 'Берестейские платаны'
+type: tree
+tree:
+    type: plane_tree
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

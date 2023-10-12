@@ -1,5 +1,8 @@
 id: 'sight:fgb:74513'
 title: 'Буки лесные пурпурные «Лютинские»'
+type: tree
+tree:
+    type: beech
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

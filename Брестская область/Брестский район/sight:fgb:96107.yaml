@@ -1,5 +1,8 @@
 id: 'sight:fgb:96107'
 title: 'Бульварный каштан'
+type: tree
+tree:
+    type: chestnut
 belongsTo:
     region: 'Брестская область'
     subregion: 'Брестский район'

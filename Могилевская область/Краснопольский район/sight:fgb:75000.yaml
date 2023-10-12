@@ -1,5 +1,11 @@
 id: 'sight:fgb:75000'
 title: Селище
+type: forest
+forest:
+    dominated_type: oak
+    types:
+        - pine
+        - aspen
 belongsTo:
     region: 'Могилевская область'
     subregion: 'Краснопольский район'

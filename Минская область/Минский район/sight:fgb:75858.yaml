@@ -1,5 +1,8 @@
 id: 'sight:fgb:75858'
 title: 'Клены Александровского сквера'
+type: tree
+tree:
+    type: maple
 belongsTo:
     region: 'Минская область'
     subregion: 'Минский район'
