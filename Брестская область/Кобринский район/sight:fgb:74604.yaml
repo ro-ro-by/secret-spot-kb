@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Кобринский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°01'50,9''"
-        lon: "24°38'43,9''"
+    coordinates:
+        lat: 52.030806
+        lon: 24.645528
 meta:
     fgb:
         post_id: '74604'

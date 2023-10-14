@@ -8,9 +8,9 @@ forest:
     dominated_type: birch_black
 location:
     type: point
-    coordinates_v3:
-        lat: "52°30'01,3''"
-        lon: "25°44'45,5''"
+    coordinates:
+        lat: 52.500361
+        lon: 25.745972
 meta:
     fgb:
         post_id: '74562'

@@ -8,9 +8,9 @@ forest:
     dominated_type: fir
 location:
     type: point
-    coordinates_v3:
-        lat: "52°05'08,5''"
-        lon: "23°41'05,2''"
+    coordinates:
+        lat: 52.085694
+        lon: 23.684778
 meta:
     fgb:
         post_id: '96109'

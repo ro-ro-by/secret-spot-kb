@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Жабинковский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°08'57,0''"
-        lon: "24°00'00,3''"
+    coordinates:
+        lat: 52.149167
+        lon: 24.000083
 tree:
     type: oak
 meta:

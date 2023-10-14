@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Ивацевичский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°36'55,1''"
-        lon: "25°48'44,9''"
+    coordinates:
+        lat: 52.615306
+        lon: 25.812472
 meta:
     fgb:
         post_id: '74560'

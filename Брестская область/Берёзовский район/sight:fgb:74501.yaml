@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Берёзовский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°30'30,0''"
-        lon: "25°07'14,0''"
+    coordinates:
+        lat: 52.508333
+        lon: 25.120556
 meta:
     fgb:
         post_id: '74501'

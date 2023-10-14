@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Малоритский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "51°56'10,3''"
-        lon: "24°04'04,1''"
+    coordinates:
+        lat: 51.936194
+        lon: 24.067806
 meta:
     fgb:
         post_id: '74628'

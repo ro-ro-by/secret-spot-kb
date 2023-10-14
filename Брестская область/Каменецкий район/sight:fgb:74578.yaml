@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Каменецкий район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°17'01,4''"
-        lon: "23°20'43,1''"
+    coordinates:
+        lat: 52.283722
+        lon: 23.345306
 meta:
     fgb:
         post_id: '74578'

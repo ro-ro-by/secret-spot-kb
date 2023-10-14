@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Ганцевичский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°45'35,1''"
-        lon: "26°41'47,1''"
+    coordinates:
+        lat: 52.75975
+        lon: 26.696417
 tree:
     type: pine
 meta:

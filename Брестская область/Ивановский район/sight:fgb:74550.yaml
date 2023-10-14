@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Ивановский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°08'02,4''"
-        lon: "25°39'02,0''"
+    coordinates:
+        lat: 52.134
+        lon: 25.650556
 tree:
     type: pine
 meta:

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Ляховичский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°55'01,9''"
-        lon: "26°24'28,1''"
+    coordinates:
+        lat: 52.917194
+        lon: 26.407806
 meta:
     fgb:
         post_id: '74616'

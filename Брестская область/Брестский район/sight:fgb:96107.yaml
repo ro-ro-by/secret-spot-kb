@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Брестский район'
 location:
     type: point
-    coordinates_v3:
-        lat: "52°05'38,6''"
-        lon: "23°41'12,9''"
+    coordinates:
+        lat: 52.094056
+        lon: 23.686917
 tree:
     type: chestnut
 meta:
