@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Дрибинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°07′44,4″N'
-        lon: '30°54′56,6″E'
+    coordinates:
+        lat: 54.129
+        lon: 30.915722
 meta:
     fgb:
         post_id: '74795'

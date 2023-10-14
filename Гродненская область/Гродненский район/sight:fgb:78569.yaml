@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Гродненский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°46′22,8″N'
-        lon: '24°11′24,4″E'
+    coordinates:
+        lat: 53.773
+        lon: 24.190111
 meta:
     fgb:
         post_id: '78569'

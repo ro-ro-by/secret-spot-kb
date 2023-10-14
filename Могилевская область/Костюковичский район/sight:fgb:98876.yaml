@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Костюковичский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°11′02,72″N'
-        lon: '32°02′40,90″E'
+    coordinates:
+        lat: 53.184089
+        lon: 32.044694
 tree:
     type: oak
 meta:

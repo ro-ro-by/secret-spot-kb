@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Несвижский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°17′19,0″N'
-        lon: '26°43′53,5″E'
+    coordinates:
+        lat: 53.288611
+        lon: 26.731528
 meta:
     fgb:
         post_id: '75956'

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Дятловский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°27′36,6″N'
-        lon: '25°19′26,1″E'
+    coordinates:
+        lat: 53.460167
+        lon: 25.323917
 meta:
     fgb:
         post_id: '99683'

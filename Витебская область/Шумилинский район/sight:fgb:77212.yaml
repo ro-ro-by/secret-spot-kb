@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Шумилинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°31′33,1″N'
-        lon: '29°34′29,1″E'
+    coordinates:
+        lat: 55.525861
+        lon: 29.57475
 tree:
     type: pine
 meta:

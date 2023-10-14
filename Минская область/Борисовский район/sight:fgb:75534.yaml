@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Борисовский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°31′16,0″N'
-        lon: '28°17′35,6″E'
+    coordinates:
+        lat: 54.521111
+        lon: 28.293222
 meta:
     fgb:
         post_id: '75534'

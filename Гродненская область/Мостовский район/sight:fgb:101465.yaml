@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Мостовский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°24′55,9″N'
-        lon: '24°33′43,1″E'
+    coordinates:
+        lat: 53.415528
+        lon: 24.561972
 meta:
     fgb:
         post_id: '101465'

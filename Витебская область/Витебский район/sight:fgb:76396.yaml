@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Витебский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°15′09,1″N'
-        lon: '30°07′56,6″E'
+    coordinates:
+        lat: 55.252528
+        lon: 30.132389
 meta:
     fgb:
         post_id: '76396'

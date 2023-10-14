@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Молодечненский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°18′07,1″N'
-        lon: '26°46′14,3″E'
+    coordinates:
+        lat: 54.301972
+        lon: 26.770639
 meta:
     fgb:
         post_id: '99516'

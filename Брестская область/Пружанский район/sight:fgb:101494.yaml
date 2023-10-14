@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Пружанский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°25′17,0″N'
-        lon: '24°18′31,0″E'
+    coordinates:
+        lat: 52.421389
+        lon: 24.308611
 tree:
     type: pine
 meta:

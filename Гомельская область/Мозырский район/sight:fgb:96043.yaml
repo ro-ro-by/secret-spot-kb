@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Мозырский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '51°52′03,0″N'
-        lon: '29°15′09,2″E'
+    coordinates:
+        lat: 51.8675
+        lon: 29.252556
 tree:
     type: oak
 meta:

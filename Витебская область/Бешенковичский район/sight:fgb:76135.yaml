@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Бешенковичский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°03′24,4″N'
-        lon: '29°09′16,6″E'
+    coordinates:
+        lat: 55.056778
+        lon: 29.154611
 meta:
     fgb:
         post_id: '76135'

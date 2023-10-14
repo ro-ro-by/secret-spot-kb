@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Столинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°00′41,5″N'
-        lon: '26°59′21,6″E'
+    coordinates:
+        lat: 52.011528
+        lon: 26.989333
 meta:
     fgb:
         post_id: '74689'

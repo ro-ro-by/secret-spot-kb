@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Круглянский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°07′43,7″N'
-        lon: '29°41′41,7″E'
+    coordinates:
+        lat: 54.128806
+        lon: 29.694917
 tree:
     type: oak
 meta:

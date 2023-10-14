@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Смолевичский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°57′40,7″N'
-        lon: '28°17′25,1″E'
+    coordinates:
+        lat: 53.961306
+        lon: 28.290306
 meta:
     fgb:
         post_id: '75981'

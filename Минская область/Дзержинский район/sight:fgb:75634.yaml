@@ -8,9 +8,9 @@ forest:
     dominated_type: birch_curly
 location:
     type: point
-    coordinates_v2:
-        lat: '53°42′17,7″N'
-        lon: '27°01′45,4″E'
+    coordinates:
+        lat: 53.704917
+        lon: 27.029278
 meta:
     fgb:
         post_id: '75634'

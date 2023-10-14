@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Березинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°47′20,2″N'
-        lon: '29°15′28,4″E'
+    coordinates:
+        lat: 53.788944
+        lon: 29.257889
 tree:
     type: oak
 meta:

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Щучинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°32′44,0″N'
-        lon: '24°27′33,3″E'
+    coordinates:
+        lat: 53.545556
+        lon: 24.45925
 tree:
     type: oak
 meta:

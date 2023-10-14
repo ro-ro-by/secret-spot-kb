@@ -8,9 +8,9 @@ forest:
     dominated_type: larch
 location:
     type: point
-    coordinates_v2:
-        lat: '54°16′50,9″N'
-        lon: '26°27′33,8″E'
+    coordinates:
+        lat: 54.280806
+        lon: 26.459389
 meta:
     fgb:
         post_id: '75872'

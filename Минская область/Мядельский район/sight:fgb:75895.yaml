@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Мядельский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°54′16,4″N'
-        lon: '27°04′41,1″E'
+    coordinates:
+        lat: 54.904556
+        lon: 27.078083
 meta:
     fgb:
         post_id: '75895'

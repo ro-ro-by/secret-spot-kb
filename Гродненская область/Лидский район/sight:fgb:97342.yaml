@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Лидский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°50′40,6″N'
-        lon: '25°22′40,8″E'
+    coordinates:
+        lat: 53.844611
+        lon: 25.378
 tree:
     type: pine
 meta:

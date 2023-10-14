@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Толочинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°23′57,0″N'
-        lon: '29°42′53,4″E'
+    coordinates:
+        lat: 54.399167
+        lon: 29.714833
 meta:
     fgb:
         post_id: '77140'

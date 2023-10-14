@@ -8,9 +8,9 @@ forest:
     dominated_type: tilia
 location:
     type: point
-    coordinates_v2:
-        lat: '53°25′09,0″N'
-        lon: '26°49′10,4″E'
+    coordinates:
+        lat: 53.419167
+        lon: 26.819556
 meta:
     fgb:
         post_id: '76019'

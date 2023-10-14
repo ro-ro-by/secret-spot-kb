@@ -8,9 +8,9 @@ forest:
     dominated_type: birch
 location:
     type: point
-    coordinates_v2:
-        lat: '54°16′48,6″N'
-        lon: '31°06′06,7″E'
+    coordinates:
+        lat: 54.280167
+        lon: 31.101861
 meta:
     fgb:
         post_id: '74783'

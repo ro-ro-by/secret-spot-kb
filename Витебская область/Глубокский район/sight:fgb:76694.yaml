@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Глубокский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°15′14,9″N'
-        lon: '27°41′08,8″E'
+    coordinates:
+        lat: 55.254139
+        lon: 27.685778
 meta:
     fgb:
         post_id: '76694'

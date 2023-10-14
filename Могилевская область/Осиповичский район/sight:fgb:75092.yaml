@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Осиповичский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°30′27,0″N'
-        lon: '28°55′51,7″E'
+    coordinates:
+        lat: 53.5075
+        lon: 28.931028
 meta:
     fgb:
         post_id: '75092'

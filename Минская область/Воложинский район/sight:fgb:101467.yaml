@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Воложинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°57′51,2″N'
-        lon: '26°42′30,3″E'
+    coordinates:
+        lat: 53.964222
+        lon: 26.708417
 tree:
     type: oak
 meta:

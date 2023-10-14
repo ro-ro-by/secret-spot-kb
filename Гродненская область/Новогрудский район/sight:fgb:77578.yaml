@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Новогрудский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°26′19,9″N'
-        lon: '25°54′33,9″E'
+    coordinates:
+        lat: 53.438861
+        lon: 25.909417
 tree:
     type: oak
 meta:

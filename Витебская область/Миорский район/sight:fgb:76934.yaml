@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Миорский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°36′51,8″N'
-        lon: '27°37′28,0″E'
+    coordinates:
+        lat: 55.614389
+        lon: 27.624444
 meta:
     fgb:
         post_id: '76934'

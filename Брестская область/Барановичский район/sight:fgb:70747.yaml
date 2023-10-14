@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Барановичский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°17′41,0″N'
-        lon: '26°14′09,0″E'
+    coordinates:
+        lat: 53.294722
+        lon: 26.235833
 meta:
     fgb:
         post_id: '70747'

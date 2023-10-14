@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Чериковский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°31′01,1″N'
-        lon: '31°11′51,8″E'
+    coordinates:
+        lat: 53.516972
+        lon: 31.197722
 meta:
     fgb:
         post_id: '99024'

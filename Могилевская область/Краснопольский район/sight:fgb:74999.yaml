@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Краснопольский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°19′01,5″N'
-        lon: '31°31′03,0″E'
+    coordinates:
+        lat: 53.317083
+        lon: 31.5175
 meta:
     fgb:
         post_id: '74999'

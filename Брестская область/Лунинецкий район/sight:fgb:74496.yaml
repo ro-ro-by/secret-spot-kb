@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Лунинецкий район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°14′57,0″N'
-        lon: '26°49′58,2″E'
+    coordinates:
+        lat: 52.249167
+        lon: 26.832833
 meta:
     fgb:
         post_id: '74496'

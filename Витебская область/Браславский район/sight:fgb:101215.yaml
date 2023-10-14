@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Браславский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°43′17,7″N'
-        lon: '27°04′05,3″E'
+    coordinates:
+        lat: 55.721583
+        lon: 27.068139
 tree:
     type: juniper
 meta:

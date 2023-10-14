@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Городокский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°24′29,2″N'
-        lon: '29°59′14,4″E'
+    coordinates:
+        lat: 55.408111
+        lon: 29.987333
 tree:
     type: oak
 meta:

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Любанский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°43′23,5″N'
-        lon: '28°00′37,7″E'
+    coordinates:
+        lat: 52.723194
+        lon: 28.010472
 tree:
     type: oak
 meta:

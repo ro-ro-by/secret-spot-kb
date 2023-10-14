@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Ивьевский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°07′54,7″N'
-        lon: '29°45′59,4″E'
+    coordinates:
+        lat: 54.131861
+        lon: 29.7665
 meta:
     fgb:
         post_id: '99684'

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Червенский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°53′03,2″N'
-        lon: '28°36′57,6″E'
+    coordinates:
+        lat: 53.884222
+        lon: 28.616
 meta:
     fgb:
         post_id: '76051'

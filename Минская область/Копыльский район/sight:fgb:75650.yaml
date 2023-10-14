@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Копыльский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°09′07,9″N'
-        lon: '27°00′02,9″E'
+    coordinates:
+        lat: 53.152194
+        lon: 27.000806
 meta:
     fgb:
         post_id: '75650'

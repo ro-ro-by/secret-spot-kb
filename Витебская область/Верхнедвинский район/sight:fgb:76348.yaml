@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Верхнедвинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '55°44′36,3″N'
-        lon: '27°58′11,6″E'
+    coordinates:
+        lat: 55.743417
+        lon: 27.969889
 meta:
     fgb:
         post_id: '76348'

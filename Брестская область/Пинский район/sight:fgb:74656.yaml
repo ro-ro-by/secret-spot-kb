@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Пинский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°15′34,0″N'
-        lon: '26°17′39,0″E'
+    coordinates:
+        lat: 52.259444
+        lon: 26.294167
 meta:
     fgb:
         post_id: '74656'

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Логойский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°12′19,8″N'
-        lon: '27°50′51,4″E'
+    coordinates:
+        lat: 54.2055
+        lon: 27.847611
 meta:
     fgb:
         post_id: '75741'

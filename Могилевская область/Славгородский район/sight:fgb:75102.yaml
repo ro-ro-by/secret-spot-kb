@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Славгородский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°33′45,9″N'
-        lon: '30°57′29,3″E'
+    coordinates:
+        lat: 53.56275
+        lon: 30.958139
 tree:
     type: larch
 meta:

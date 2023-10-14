@@ -8,9 +8,9 @@ forest:
     dominated_type: oak
 location:
     type: point
-    coordinates_v2:
-        lat: '53°22′16,0″N'
-        lon: '29°01′36,2″E'
+    coordinates:
+        lat: 53.371111
+        lon: 29.026722
 meta:
     fgb:
         post_id: '74951'

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Быховский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°31′41,2″N'
-        lon: '30°19′52,8″E'
+    coordinates:
+        lat: 53.528111
+        lon: 30.331333
 meta:
     fgb:
         post_id: '74736'

@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Бобруйский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°08′33,1″N'
-        lon: '29°13′48,1″E'
+    coordinates:
+        lat: 53.142528
+        lon: 29.230028
 tree:
     type: oak
 meta:

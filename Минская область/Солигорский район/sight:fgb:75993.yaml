@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Солигорский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '52°50′45,3″N'
-        lon: '27°38′45,5″E'
+    coordinates:
+        lat: 52.845917
+        lon: 27.645972
 meta:
     fgb:
         post_id: '75993'

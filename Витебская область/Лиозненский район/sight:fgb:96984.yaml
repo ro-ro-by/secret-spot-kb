@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Лиозненский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°53′21,3″N'
-        lon: '30°32′53,7″E'
+    coordinates:
+        lat: 54.88925
+        lon: 30.54825
 tree:
     type: pine
 meta:

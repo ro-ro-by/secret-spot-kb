@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Могилевский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°57′45,5″N'
-        lon: '30°22′58,6″E'
+    coordinates:
+        lat: 53.962639
+        lon: 30.382944
 meta:
     fgb:
         post_id: '98915'

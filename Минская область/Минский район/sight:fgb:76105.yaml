@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Минский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°54′08,9″N'
-        lon: '27°34′30,3″E'
+    coordinates:
+        lat: 53.902472
+        lon: 27.575083
 tree:
     type: cottonwood
 meta:

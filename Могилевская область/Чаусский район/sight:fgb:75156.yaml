@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Чаусский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°42′03,9″N'
-        lon: '31°05′53,1″E'
+    coordinates:
+        lat: 53.701083
+        lon: 31.098083
 tree:
     type: oak
 meta:

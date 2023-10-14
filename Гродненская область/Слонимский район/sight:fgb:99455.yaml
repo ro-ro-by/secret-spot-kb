@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Слонимский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°06′45,5″N'
-        lon: '25°11′49,8″E'
+    coordinates:
+        lat: 53.112639
+        lon: 25.197167
 tree:
     type: oak
 meta:

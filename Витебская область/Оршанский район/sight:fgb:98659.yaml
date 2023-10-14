@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Оршанский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°20′25,0″N'
-        lon: '30°33′34,4″E'
+    coordinates:
+        lat: 54.340278
+        lon: 30.559556
 tree:
     type: oak
 meta:

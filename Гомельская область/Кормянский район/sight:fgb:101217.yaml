@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Кормянский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°09′35,8″N'
-        lon: '31°02′55,4″E'
+    coordinates:
+        lat: 53.159944
+        lon: 31.048722
 tree:
     type: oak
 meta:

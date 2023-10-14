@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Стародорожский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°07′11,5″N'
-        lon: '28°22′50,4″E'
+    coordinates:
+        lat: 53.119861
+        lon: 28.380667
 meta:
     fgb:
         post_id: '101744'

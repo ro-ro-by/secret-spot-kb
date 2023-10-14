@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Горецкий район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°17′26,1″N'
-        lon: '30°59′23,1″E'
+    coordinates:
+        lat: 54.290583
+        lon: 30.98975
 meta:
     fgb:
         post_id: '74782'

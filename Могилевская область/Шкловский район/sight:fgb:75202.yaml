@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Шкловский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°12′18,1″N'
-        lon: '30°17′33,4″E'
+    coordinates:
+        lat: 54.205028
+        lon: 30.292611
 meta:
     fgb:
         post_id: '75202'

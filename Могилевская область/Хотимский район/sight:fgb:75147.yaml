@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Хотимский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°25′42,2″N'
-        lon: '32°37′13,8″E'
+    coordinates:
+        lat: 53.428389
+        lon: 32.6205
 tree:
     type: oak
 meta:

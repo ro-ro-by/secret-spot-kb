@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Вилейский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°19′36,9″N'
-        lon: '27°27′15,5″E'
+    coordinates:
+        lat: 54.326917
+        lon: 27.454306
 meta:
     fgb:
         post_id: '75563'

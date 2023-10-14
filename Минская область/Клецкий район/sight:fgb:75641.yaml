@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Клецкий район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°00′32,8″N'
-        lon: '26°40′27,7″E'
+    coordinates:
+        lat: 53.009111
+        lon: 26.674361
 meta:
     fgb:
         post_id: '75641'

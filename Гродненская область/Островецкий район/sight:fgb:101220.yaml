@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Островецкий район'
 location:
     type: point
-    coordinates_v2:
-        lat: '54°36′36,4″N'
-        lon: '25°58′29,9″E'
+    coordinates:
+        lat: 54.610111
+        lon: 25.974972
 tree:
     type: oak
 meta:

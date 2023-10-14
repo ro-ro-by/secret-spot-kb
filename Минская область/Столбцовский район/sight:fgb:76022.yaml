@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Столбцовский район'
 location:
     type: point
-    coordinates_v2:
-        lat: '53°44′38,0″N'
-        lon: '26°52′43,8″E'
+    coordinates:
+        lat: 53.743889
+        lon: 26.878833
 meta:
     fgb:
         post_id: '76022'

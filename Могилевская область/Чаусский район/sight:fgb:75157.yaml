@@ -8,9 +8,9 @@ forest:
     dominated_type: pine
 location:
     type: point
-    coordinates_v2:
-        lat: '53°49′43,2″N'
-        lon: '30°58′55,4″E'
+    coordinates:
+        lat: 53.828667
+        lon: 30.982056
 meta:
     fgb:
         post_id: '75157'
