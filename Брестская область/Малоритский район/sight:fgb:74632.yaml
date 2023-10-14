@@ -8,9 +8,9 @@ forest:
     dominated_type: spruce
 location:
     type: point
-    coordinates_v4:
-        lat: 51°52′36″
-        lon: 23°58′54″
+    coordinates:
+        lat: 51.876667
+        lon: 23.981667
 meta:
     fgb:
         post_id: '74632'

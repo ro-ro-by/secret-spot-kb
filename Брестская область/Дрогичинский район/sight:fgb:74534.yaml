@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Дрогичинский район'
 location:
     type: point
-    coordinates_v4:
-        lat: 51°12′29″
-        lon: 25°01′16″
+    coordinates:
+        lat: 51.208056
+        lon: 25.021111
 tree:
     type: carya
 meta:

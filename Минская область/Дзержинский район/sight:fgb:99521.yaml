@@ -6,9 +6,9 @@ belongsTo:
     subregion: 'Дзержинский район'
 location:
     type: point
-    coordinates_v4:
-        lat: 53°41′46″
-        lon: 27°07′21″
+    coordinates:
+        lat: 53.696111
+        lon: 27.1225
 meta:
     fgb:
         post_id: '99521'
