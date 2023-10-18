@@ -2,8 +2,8 @@ id: 'sight:fgb:95469'
 title: Выдрица
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Светлогорский район'
+    region: 'region:gomel'
+    subregion: 'subregion:svlg'
 meta:
     fgb:
         post_id: '95469'

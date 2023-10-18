@@ -2,8 +2,8 @@ id: 'sight:fgb:76900'
 title: 'Голубицкая пуща'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '76900'

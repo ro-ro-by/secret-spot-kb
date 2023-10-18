@@ -2,8 +2,8 @@ id: 'sight:fgb:77295'
 title: 'Большой камень толочкинский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 location:
     type: point
     coordinates:

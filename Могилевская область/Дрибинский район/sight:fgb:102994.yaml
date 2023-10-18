@@ -2,8 +2,8 @@ id: 'sight:fgb:102994'
 title: 'Чортава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '102994'

@@ -2,8 +2,8 @@ id: 'sight:fgb:97046'
 title: 'Олтушская берёза'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 tree:
     type: birch_black
 meta:

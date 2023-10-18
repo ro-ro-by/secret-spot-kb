@@ -2,8 +2,8 @@ id: 'sight:fgb:77322'
 title: 'Чертово болото'
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '77322'

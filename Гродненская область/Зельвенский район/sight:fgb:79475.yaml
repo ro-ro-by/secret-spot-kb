@@ -2,8 +2,8 @@ id: 'sight:fgb:79475'
 title: 'У дамбы'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

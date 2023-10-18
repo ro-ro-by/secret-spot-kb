@@ -2,8 +2,8 @@ id: 'sight:fgb:101166'
 title: 'Жукава магіла'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Житковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhtk'
 meta:
     fgb:
         post_id: '101166'

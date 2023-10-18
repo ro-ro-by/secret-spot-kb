@@ -2,8 +2,8 @@ id: 'sight:fgb:77021'
 title: 'Гара Замак Вараніцкая'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '77021'

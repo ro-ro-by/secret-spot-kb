@@ -2,8 +2,8 @@ id: 'sight:fgb:75412'
 title: Октябрьский
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Октябрьский район'
+    region: 'region:gomel'
+    subregion: 'subregion:akt'
 meta:
     fgb:
         post_id: '75412'

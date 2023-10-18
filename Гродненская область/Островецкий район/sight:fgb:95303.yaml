@@ -2,8 +2,8 @@ id: 'sight:fgb:95303'
 title: Быстрица-2
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 meta:
     fgb:
         post_id: '95303'

@@ -2,8 +2,8 @@ id: 'sight:fgb:70762'
 title: 'Острова Дулебы'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 meta:
     fgb:
         post_id: '70762'

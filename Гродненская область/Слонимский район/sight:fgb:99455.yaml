@@ -2,8 +2,8 @@ id: 'sight:fgb:99455'
 title: 'Дуб черешчатый в окрестностях деревни Ходевичи'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 location:
     type: point
     coordinates:

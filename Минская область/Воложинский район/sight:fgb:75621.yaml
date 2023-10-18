@@ -2,8 +2,8 @@ id: 'sight:fgb:75621'
 title: 'Дуб черешчатый'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 tree:
     type: oak
 meta:

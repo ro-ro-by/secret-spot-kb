@@ -2,8 +2,8 @@ id: 'sight:fgb:96124'
 title: 'Парк Скоки'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Брестский район'
+    region: 'region:brest'
+    subregion: 'subregion:brst'
 meta:
     fgb:
         post_id: '96124'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77142'
 title: 'Пяты Барысаў камень (Сцяпан, Кравец)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '77142'

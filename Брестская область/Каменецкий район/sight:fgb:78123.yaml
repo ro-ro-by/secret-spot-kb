@@ -2,8 +2,8 @@ id: 'sight:fgb:78123'
 title: 'Тумин Второй'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 meta:
     fgb:
         post_id: '78123'

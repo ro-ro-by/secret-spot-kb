@@ -2,8 +2,8 @@ id: 'sight:fgb:88131'
 title: 'На Папенке'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Могилевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mhl'
 meta:
     fgb:
         post_id: '88131'

@@ -2,8 +2,8 @@ id: 'sight:fgb:99926'
 title: 'Ведзьміна Печ (Ломіна Печ)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '99926'

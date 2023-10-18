@@ -2,8 +2,8 @@ id: 'sight:fgb:93146'
 title: 'Колодец Лучежевичи (Лучижевичи-2)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

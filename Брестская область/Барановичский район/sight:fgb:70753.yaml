@@ -2,8 +2,8 @@ id: 'sight:fgb:70753'
 title: Стронга
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '70753'

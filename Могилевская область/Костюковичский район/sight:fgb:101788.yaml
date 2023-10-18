@@ -2,8 +2,8 @@ id: 'sight:fgb:101788'
 title: Мохи
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 meta:
     fgb:
         post_id: '101788'

@@ -2,8 +2,8 @@ id: 'sight:fgb:76693'
 title: 'Холм Мосарский (Мосарскі камоід)'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 location:
     type: point
     coordinates:

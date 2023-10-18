@@ -2,8 +2,8 @@ id: 'sight:fgb:79449'
 title: 'Чистый исток-1'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 location:
     type: point
     coordinates:

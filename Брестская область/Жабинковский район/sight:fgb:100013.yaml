@@ -2,8 +2,8 @@ id: 'sight:fgb:100013'
 title: 'Акамянелае дзіця і кумы'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 meta:
     fgb:
         post_id: '100013'

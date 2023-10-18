@@ -2,8 +2,8 @@ id: 'sight:fgb:75236'
 title: 'Вдовий ключ (Вдовья криница, Удовина криница, святой великомученицы Параскевы)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

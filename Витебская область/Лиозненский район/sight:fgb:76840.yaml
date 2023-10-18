@@ -2,8 +2,8 @@ id: 'sight:fgb:76840'
 title: Бор
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лиозненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lzn'
 meta:
     fgb:
         post_id: '76840'

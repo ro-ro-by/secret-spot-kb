@@ -2,8 +2,8 @@ id: 'sight:fgb:100889'
 title: 'Чортаў камень (Камень-печ)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Витебский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vtb'
 meta:
     fgb:
         post_id: '100889'

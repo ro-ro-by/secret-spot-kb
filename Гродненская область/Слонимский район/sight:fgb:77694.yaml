@@ -2,8 +2,8 @@ id: 'sight:fgb:77694'
 title: 'Липа каролинская Альбертинская'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 tree:
     type: tilia
 meta:

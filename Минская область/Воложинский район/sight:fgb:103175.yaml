@@ -2,8 +2,8 @@ id: 'sight:fgb:103175'
 title: 'Сіняя гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '103175'

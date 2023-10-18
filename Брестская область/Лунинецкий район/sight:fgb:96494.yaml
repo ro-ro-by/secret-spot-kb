@@ -2,8 +2,8 @@ id: 'sight:fgb:96494'
 title: Велута
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Лунинецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:lnn'
 meta:
     fgb:
         post_id: '96494'

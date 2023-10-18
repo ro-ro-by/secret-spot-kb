@@ -2,8 +2,8 @@ id: 'sight:fgb:101215'
 title: 'Можжевельник обыкновенный в окрестностях деревни Кезики'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 location:
     type: point
     coordinates:

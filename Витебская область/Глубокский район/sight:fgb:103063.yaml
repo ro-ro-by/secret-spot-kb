@@ -2,8 +2,8 @@ id: 'sight:fgb:103063'
 title: 'Залатая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '103063'

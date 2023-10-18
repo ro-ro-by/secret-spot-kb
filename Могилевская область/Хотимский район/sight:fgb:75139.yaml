@@ -2,8 +2,8 @@ id: 'sight:fgb:75139'
 title: 'Эталонное насаждение сосны'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 meta:
     fgb:
         post_id: '75139'

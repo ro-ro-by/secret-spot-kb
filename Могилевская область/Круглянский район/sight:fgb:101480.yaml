@@ -2,8 +2,8 @@ id: 'sight:fgb:101480'
 title: 'Вековой дуб Белыничского лесхоза'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Круглянский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krg'
 location:
     type: point
     coordinates:

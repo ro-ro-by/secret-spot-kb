@@ -2,8 +2,8 @@ id: 'sight:fgb:77390'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

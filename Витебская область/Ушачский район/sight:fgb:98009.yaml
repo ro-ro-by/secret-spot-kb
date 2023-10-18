@@ -2,8 +2,8 @@ id: 'sight:fgb:98009'
 title: Логи
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 location:
     type: point
     coordinates:

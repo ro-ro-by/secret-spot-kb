@@ -2,8 +2,8 @@ id: 'sight:fgb:75173'
 title: Криница
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 meta:
     fgb:
         post_id: '75173'

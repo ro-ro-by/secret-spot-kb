@@ -2,8 +2,8 @@ id: 'sight:fgb:75585'
 title: 'Белы Камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 meta:
     fgb:
         post_id: '75585'

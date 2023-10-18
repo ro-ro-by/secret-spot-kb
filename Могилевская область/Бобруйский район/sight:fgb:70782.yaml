@@ -2,8 +2,8 @@ id: 'sight:fgb:70782'
 title: 'Дубовский каскад озер'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 meta:
     fgb:
         post_id: '70782'

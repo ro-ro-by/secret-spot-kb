@@ -2,8 +2,8 @@ id: 'sight:fgb:76814'
 title: 'Святой колодец (Божий колодец)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

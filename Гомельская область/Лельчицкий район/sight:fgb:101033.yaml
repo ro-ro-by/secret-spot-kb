@@ -2,8 +2,8 @@ id: 'sight:fgb:101033'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 meta:
     fgb:
         post_id: '101033'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98968'
 title: 'Сивая криница (Болсуновская, Полесье-6)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 location:
     type: point
     coordinates:

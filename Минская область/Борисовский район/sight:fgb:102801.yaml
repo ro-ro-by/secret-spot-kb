@@ -2,8 +2,8 @@ id: 'sight:fgb:102801'
 title: "Вітагор'е"
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '102801'

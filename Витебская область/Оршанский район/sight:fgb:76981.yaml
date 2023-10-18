@@ -2,8 +2,8 @@ id: 'sight:fgb:76981'
 title: 'Обнажение Кобеляки'
 type: outcrop
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75887'
 title: 'Вялікі камень маркаўскі'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '75887'

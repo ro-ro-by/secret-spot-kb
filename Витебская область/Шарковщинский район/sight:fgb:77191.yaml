@@ -2,8 +2,8 @@ id: 'sight:fgb:77191'
 title: 'Большой камень Лапуновский'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '77191'

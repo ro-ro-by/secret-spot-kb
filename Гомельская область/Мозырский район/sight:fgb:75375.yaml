@@ -2,8 +2,8 @@ id: 'sight:fgb:75375'
 title: 'Моисеевка (Макарова криница, Карабунова криница, №17)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

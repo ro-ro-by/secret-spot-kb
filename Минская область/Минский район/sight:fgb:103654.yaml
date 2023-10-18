@@ -2,8 +2,8 @@ id: 'sight:fgb:103654'
 title: 'Бітая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '103654'

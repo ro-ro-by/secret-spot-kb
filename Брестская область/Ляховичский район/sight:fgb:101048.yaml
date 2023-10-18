@@ -2,8 +2,8 @@ id: 'sight:fgb:101048'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '101048'

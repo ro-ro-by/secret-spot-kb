@@ -2,8 +2,8 @@ id: 'sight:fgb:77771'
 title: Котра
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 meta:
     fgb:
         post_id: '77771'

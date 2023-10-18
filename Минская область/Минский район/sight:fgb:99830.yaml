@@ -2,8 +2,8 @@ id: 'sight:fgb:99830'
 title: 'Камень са следам падковы'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '99830'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96265'
 title: 'Поклонная сосна'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Берёзовский район'
+    region: 'region:brest'
+    subregion: 'subregion:brz'
 tree:
     type: pine
 meta:

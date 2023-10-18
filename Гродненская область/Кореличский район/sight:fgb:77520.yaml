@@ -2,8 +2,8 @@ id: 'sight:fgb:77520'
 title: Мир-2
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Кореличский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:krl'
 location:
     type: point
     coordinates:

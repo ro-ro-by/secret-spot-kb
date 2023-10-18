@@ -2,8 +2,8 @@ id: 'sight:fgb:102936'
 title: Валы
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 meta:
     fgb:
         post_id: '102936'

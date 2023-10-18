@@ -2,8 +2,8 @@ id: 'sight:fgb:75878'
 title: 'Шведская гора'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '75878'

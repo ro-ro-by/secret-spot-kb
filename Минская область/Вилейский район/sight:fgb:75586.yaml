@@ -2,8 +2,8 @@ id: 'sight:fgb:75586'
 title: 'Камень з адбіткам пяткі Хрыста і яго кіёчка (Камень-следавік з Бараўцаў, Сядзенне Хрыста)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 location:
     type: point
     coordinates:

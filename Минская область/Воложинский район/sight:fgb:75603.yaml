@@ -2,8 +2,8 @@ id: 'sight:fgb:75603'
 title: 'Гора Замечек'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '75603'

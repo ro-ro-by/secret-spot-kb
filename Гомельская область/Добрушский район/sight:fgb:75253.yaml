@@ -2,8 +2,8 @@ id: 'sight:fgb:75253'
 title: 'Обнажение Добруш'
 type: outcrop
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Добрушский район'
+    region: 'region:gomel'
+    subregion: 'subregion:drb'
 meta:
     fgb:
         post_id: '75253'

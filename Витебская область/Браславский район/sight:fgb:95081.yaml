@@ -2,8 +2,8 @@ id: 'sight:fgb:95081'
 title: 'Найніжэйшая кропка паўночнай Беларусі  Фядорынкі'
 type: TODO
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '95081'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75115'
 title: 'Синий колодец'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Славгородский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:slgrd'
 meta:
     fgb:
         post_id: '75115'

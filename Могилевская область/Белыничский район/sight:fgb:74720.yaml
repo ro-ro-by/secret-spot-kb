@@ -2,8 +2,8 @@ id: 'sight:fgb:74720'
 title: Туровск
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 meta:
     fgb:
         post_id: '74720'

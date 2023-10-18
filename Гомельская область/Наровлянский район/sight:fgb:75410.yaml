@@ -2,8 +2,8 @@ id: 'sight:fgb:75410'
 title: 'Савчуковская криница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Наровлянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:nrvl'
 location:
     type: point
     coordinates:

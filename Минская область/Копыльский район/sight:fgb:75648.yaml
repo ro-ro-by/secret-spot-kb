@@ -2,8 +2,8 @@ id: 'sight:fgb:75648'
 title: 'Парк Бобовня'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 location:
     type: point
     coordinates:

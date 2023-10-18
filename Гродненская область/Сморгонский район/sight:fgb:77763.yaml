@@ -2,8 +2,8 @@ id: 'sight:fgb:77763'
 title: 'У пляжа (Жодишки-2)'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

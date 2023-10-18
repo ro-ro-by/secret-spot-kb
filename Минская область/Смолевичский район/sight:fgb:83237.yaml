@@ -2,8 +2,8 @@ id: 'sight:fgb:83237'
 title: ГРЭС
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '83237'

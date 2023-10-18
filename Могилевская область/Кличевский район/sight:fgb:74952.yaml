@@ -2,8 +2,8 @@ id: 'sight:fgb:74952'
 title: 'Криница совхоза  Долговский (Долговский)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 location:
     type: point
     coordinates:

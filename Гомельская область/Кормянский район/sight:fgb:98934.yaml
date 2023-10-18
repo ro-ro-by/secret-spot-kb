@@ -2,8 +2,8 @@ id: 'sight:fgb:98934'
 title: 'Степанова криница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Кормянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:krm'
 location:
     type: point
     coordinates:

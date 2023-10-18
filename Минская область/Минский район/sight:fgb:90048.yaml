@@ -2,8 +2,8 @@ id: 'sight:fgb:90048'
 title: 'Под Лысой горой'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '90048'

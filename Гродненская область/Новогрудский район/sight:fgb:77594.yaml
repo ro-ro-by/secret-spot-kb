@@ -2,8 +2,8 @@ id: 'sight:fgb:77594'
 title: 'Акамянелая Жанчына'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 meta:
     fgb:
         post_id: '77594'

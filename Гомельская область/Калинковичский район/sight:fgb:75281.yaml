@@ -2,8 +2,8 @@ id: 'sight:fgb:75281'
 title: 'Царь-дуб и Царица-дуб'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Калинковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:klnk'
 tree:
     type: oak
 meta:

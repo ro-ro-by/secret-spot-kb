@@ -2,8 +2,8 @@ id: 'sight:fgb:95377'
 title: Лаппы
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Бешенковичский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:bshn'
 meta:
     fgb:
         post_id: '95377'

@@ -2,8 +2,8 @@ id: 'sight:fgb:97347'
 title: 'Парк Аннополь'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '97347'

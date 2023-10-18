@@ -2,8 +2,8 @@ id: 'sight:fgb:86905'
 title: Маккавеев
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Добрушский район'
+    region: 'region:gomel'
+    subregion: 'subregion:drb'
 meta:
     fgb:
         post_id: '86905'

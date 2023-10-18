@@ -2,8 +2,8 @@ id: 'sight:fgb:75217'
 title: 'Овечий брод'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Шкловский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:shkl'
 meta:
     fgb:
         post_id: '75217'

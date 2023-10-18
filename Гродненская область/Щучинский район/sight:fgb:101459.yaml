@@ -2,8 +2,8 @@ id: 'sight:fgb:101459'
 title: 'Памятник усадебно-парковой архитектуры ХХ века Лебёдка Ивановская'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 location:
     type: point
     coordinates:

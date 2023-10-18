@@ -2,8 +2,8 @@ id: 'sight:fgb:77266'
 title: 'Старинное дерево-дуб (Царь-дуб)'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 tree:
     type: oak
 meta:

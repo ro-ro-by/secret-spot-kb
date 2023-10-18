@@ -2,8 +2,8 @@ id: 'sight:fgb:77511'
 title: 'Турецкие гряды (гляциодислокации)'
 type: esker
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Кореличский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:krl'
 meta:
     fgb:
         post_id: '77511'

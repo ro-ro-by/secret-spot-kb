@@ -2,8 +2,8 @@ id: 'sight:fgb:98487'
 title: 'Парк Двор Черепито'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '98487'

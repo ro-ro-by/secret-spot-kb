@@ -2,8 +2,8 @@ id: 'sight:fgb:97451'
 title: 'Вековые деревья Речицкого лесхоза (Группа деревьев)'
 type: TODO
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 meta:
     fgb:
         post_id: '97451'

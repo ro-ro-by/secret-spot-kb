@@ -2,8 +2,8 @@ id: 'sight:fgb:77745'
 title: 'Чертов камень войневицкий'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '77745'

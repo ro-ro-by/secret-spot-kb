@@ -2,8 +2,8 @@ id: 'sight:fgb:78674'
 title: 'Парк Душково'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '78674'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101068'
 title: 'Паклонны камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Солигорский район'
+    region: 'region:minsk'
+    subregion: 'subregion:slg'
 meta:
     fgb:
         post_id: '101068'

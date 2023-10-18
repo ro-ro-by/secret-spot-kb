@@ -2,8 +2,8 @@ id: 'sight:fgb:95776'
 title: 'Андрианов дуб'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 tree:
     type: oak
 meta:

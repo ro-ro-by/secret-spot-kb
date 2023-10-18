@@ -2,8 +2,8 @@ id: 'sight:fgb:77172'
 title: 'Валун Змеев камень'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 meta:
     fgb:
         post_id: '77172'

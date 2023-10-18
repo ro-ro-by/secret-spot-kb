@@ -2,8 +2,8 @@ id: 'sight:fgb:103862'
 title: Гарадзішча
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 meta:
     fgb:
         post_id: '103862'

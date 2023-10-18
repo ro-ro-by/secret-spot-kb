@@ -2,8 +2,8 @@ id: 'sight:fgb:75257'
 title: 'Сосна обыкновенная (Оберег)'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 location:
     type: point
     coordinates:

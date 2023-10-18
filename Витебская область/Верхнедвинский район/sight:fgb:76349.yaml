@@ -2,8 +2,8 @@ id: 'sight:fgb:76349'
 title: 'Старинный парк Освейский'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102637'
 title: 'Калечая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 meta:
     fgb:
         post_id: '102637'

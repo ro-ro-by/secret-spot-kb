@@ -2,8 +2,8 @@ id: 'sight:fgb:101115'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '101115'

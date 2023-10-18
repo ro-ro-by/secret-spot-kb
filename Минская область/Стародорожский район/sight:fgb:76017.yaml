@@ -2,8 +2,8 @@ id: 'sight:fgb:76017'
 title: Богоявленский
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Стародорожский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stdrg'
 meta:
     fgb:
         post_id: '76017'

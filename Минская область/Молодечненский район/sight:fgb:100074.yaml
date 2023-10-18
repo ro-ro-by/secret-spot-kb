@@ -2,8 +2,8 @@ id: 'sight:fgb:100074'
 title: 'Камень Вінцусь'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '100074'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96129'
 title: 'Парк Рогинь'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 meta:
     fgb:
         post_id: '96129'

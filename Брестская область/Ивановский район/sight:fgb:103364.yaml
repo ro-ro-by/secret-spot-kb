@@ -2,8 +2,8 @@ id: 'sight:fgb:103364'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивановский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivnv'
 meta:
     fgb:
         post_id: '103364'

@@ -2,8 +2,8 @@ id: 'sight:fgb:99419'
 title: Бювет
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Брестский район'
+    region: 'region:brest'
+    subregion: 'subregion:brst'
 meta:
     fgb:
         post_id: '99419'

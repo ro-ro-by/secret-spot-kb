@@ -2,8 +2,8 @@ id: 'sight:fgb:76715'
 title: Водозабор-1
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 location:
     type: point
     coordinates:

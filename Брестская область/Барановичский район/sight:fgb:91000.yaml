@@ -2,8 +2,8 @@ id: 'sight:fgb:91000'
 title: Мурованка-3
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

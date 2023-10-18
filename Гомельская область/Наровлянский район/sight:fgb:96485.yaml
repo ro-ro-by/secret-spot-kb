@@ -2,8 +2,8 @@ id: 'sight:fgb:96485'
 title: 'Древнейший дорожный знак'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Наровлянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:nrvl'
 meta:
     fgb:
         post_id: '96485'

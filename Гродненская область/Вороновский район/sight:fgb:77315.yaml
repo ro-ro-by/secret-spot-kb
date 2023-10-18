@@ -2,8 +2,8 @@ id: 'sight:fgb:77315'
 title: 'Камень з талеркападобнымі паглыбленнямі'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '77315'

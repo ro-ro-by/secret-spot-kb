@@ -2,8 +2,8 @@ id: 'sight:fgb:76389'
 title: Мошно
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Витебский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vtb'
 meta:
     fgb:
         post_id: '76389'

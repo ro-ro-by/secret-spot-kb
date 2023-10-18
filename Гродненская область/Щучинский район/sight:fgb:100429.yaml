@@ -2,8 +2,8 @@ id: 'sight:fgb:100429'
 title: 'Валун Красненский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 meta:
     fgb:
         post_id: '100429'

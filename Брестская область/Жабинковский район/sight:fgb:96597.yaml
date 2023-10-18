@@ -2,8 +2,8 @@ id: 'sight:fgb:96597'
 title: 'Здитовский сквер'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 location:
     type: point
     coordinates:

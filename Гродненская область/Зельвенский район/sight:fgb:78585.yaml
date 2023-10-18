@@ -2,8 +2,8 @@ id: 'sight:fgb:78585'
 title: 'Турецкий колодец'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '78585'

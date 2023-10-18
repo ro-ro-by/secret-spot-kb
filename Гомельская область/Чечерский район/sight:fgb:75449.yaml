@@ -2,8 +2,8 @@ id: 'sight:fgb:75449'
 title: 'Святая криница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 location:
     type: point
     coordinates:

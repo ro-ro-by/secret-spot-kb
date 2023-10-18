@@ -2,8 +2,8 @@ id: 'sight:fgb:76004'
 title: 'Красное озеро'
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Солигорский район'
+    region: 'region:minsk'
+    subregion: 'subregion:slg'
 meta:
     fgb:
         post_id: '76004'

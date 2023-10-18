@@ -2,8 +2,8 @@ id: 'sight:fgb:77707'
 title: 'Большой камень рудавкавский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 location:
     type: point
     coordinates:

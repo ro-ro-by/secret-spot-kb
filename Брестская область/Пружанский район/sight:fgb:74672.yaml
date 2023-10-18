@@ -2,8 +2,8 @@ id: 'sight:fgb:74672'
 title: 'Линовский пихтарник'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 tree:
     type: fir
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:103050'
 title: 'Мікольская (Мікалаеўская) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Логойский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lgsk'
 meta:
     fgb:
         post_id: '103050'

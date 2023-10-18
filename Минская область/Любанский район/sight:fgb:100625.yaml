@@ -2,8 +2,8 @@ id: 'sight:fgb:100625'
 title: 'Родник Кирпичный'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 location:
     type: point
     coordinates:

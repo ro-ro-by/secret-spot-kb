@@ -2,8 +2,8 @@ id: 'sight:fgb:76728'
 title: Мнюта
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 location:
     type: point
     coordinates:

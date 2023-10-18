@@ -2,8 +2,8 @@ id: 'sight:fgb:77762'
 title: 'Камяні Касцюшку і Ралею'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '77762'

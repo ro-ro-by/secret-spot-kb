@@ -2,8 +2,8 @@ id: 'sight:fgb:77712'
 title: 'Абчасаны камень з незразумелымі надпісамі'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '77712'

@@ -2,8 +2,8 @@ id: 'sight:fgb:104020'
 title: 'Родник Кушлики-1'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76360'
 title: 'Дубовые насаждения Поляны'
 type: forest
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 location:
     type: point
     coordinates:

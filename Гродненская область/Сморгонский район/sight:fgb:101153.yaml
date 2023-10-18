@@ -2,8 +2,8 @@ id: 'sight:fgb:101153'
 title: 'Школьны камень'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '101153'

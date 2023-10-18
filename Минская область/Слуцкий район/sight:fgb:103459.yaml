@@ -2,8 +2,8 @@ id: 'sight:fgb:103459'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 meta:
     fgb:
         post_id: '103459'

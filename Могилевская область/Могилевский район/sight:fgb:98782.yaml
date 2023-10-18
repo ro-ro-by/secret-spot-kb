@@ -2,8 +2,8 @@ id: 'sight:fgb:98782'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Могилевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mhl'
 location:
     type: point
     coordinates:

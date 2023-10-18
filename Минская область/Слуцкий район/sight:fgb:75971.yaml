@@ -2,8 +2,8 @@ id: 'sight:fgb:75971'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 meta:
     fgb:
         post_id: '75971'

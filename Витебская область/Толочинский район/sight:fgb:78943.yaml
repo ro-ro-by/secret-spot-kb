@@ -2,8 +2,8 @@ id: 'sight:fgb:78943'
 title: 'Теклин (Вознесенский ключ)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '78943'

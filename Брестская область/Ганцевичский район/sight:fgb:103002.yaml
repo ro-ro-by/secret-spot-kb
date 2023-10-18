@@ -2,8 +2,8 @@ id: 'sight:fgb:103002'
 title: 'Гуменная гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '103002'

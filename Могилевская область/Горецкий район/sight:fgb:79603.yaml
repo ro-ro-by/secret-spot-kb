@@ -2,8 +2,8 @@ id: 'sight:fgb:79603'
 title: Горы
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 location:
     type: point
     coordinates:

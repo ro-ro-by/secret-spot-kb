@@ -2,8 +2,8 @@ id: 'sight:fgb:98608'
 title: 'Парк Блонь'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 meta:
     fgb:
         post_id: '98608'

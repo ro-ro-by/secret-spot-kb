@@ -2,8 +2,8 @@ id: 'sight:fgb:98751'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 location:
     type: point
     coordinates:

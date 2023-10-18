@@ -2,8 +2,8 @@ id: 'sight:fgb:74639'
 title: 'Царь-дуб Пожежинский'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 location:
     type: point
     coordinates:

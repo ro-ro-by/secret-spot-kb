@@ -2,8 +2,8 @@ id: 'sight:fgb:99438'
 title: Постойка
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 location:
     type: point
     coordinates:

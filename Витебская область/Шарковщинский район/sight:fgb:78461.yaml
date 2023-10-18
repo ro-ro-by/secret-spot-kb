@@ -2,8 +2,8 @@ id: 'sight:fgb:78461'
 title: 'Святого Яна'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '78461'

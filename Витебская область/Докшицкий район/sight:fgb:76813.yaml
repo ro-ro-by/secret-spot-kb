@@ -2,8 +2,8 @@ id: 'sight:fgb:76813'
 title: Покровский
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102887'
 title: 'Дзмітрыева (?) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '102887'

@@ -2,8 +2,8 @@ id: 'sight:fgb:86907'
 title: Симоничи-1
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 location:
     type: point
     coordinates:

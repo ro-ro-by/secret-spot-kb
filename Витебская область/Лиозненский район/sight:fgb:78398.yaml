@@ -2,8 +2,8 @@ id: 'sight:fgb:78398'
 title: Живописный
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лиозненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lzn'
 meta:
     fgb:
         post_id: '78398'

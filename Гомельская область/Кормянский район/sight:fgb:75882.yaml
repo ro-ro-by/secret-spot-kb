@@ -2,8 +2,8 @@ id: 'sight:fgb:75882'
 title: 'Святая криница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Кормянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:krm'
 location:
     type: point
     coordinates:

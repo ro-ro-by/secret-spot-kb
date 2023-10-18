@@ -2,8 +2,8 @@ id: 'sight:fgb:77527'
 title: 'След Богородицы (След Иисуса Христа)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Лидский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:lida'
 meta:
     fgb:
         post_id: '77527'

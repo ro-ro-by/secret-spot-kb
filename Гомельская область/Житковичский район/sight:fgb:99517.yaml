@@ -2,8 +2,8 @@ id: 'sight:fgb:99517'
 title: Царь-дуб
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Житковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhtk'
 location:
     type: point
     coordinates:

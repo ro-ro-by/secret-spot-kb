@@ -2,8 +2,8 @@ id: 'sight:fgb:93118'
 title: 'Суворовский колодец (Суворовская студня)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 location:
     type: point
     coordinates:

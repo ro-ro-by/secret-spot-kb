@@ -2,8 +2,8 @@ id: 'sight:fgb:99985'
 title: 'Архаічная крапільніца'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 meta:
     fgb:
         post_id: '99985'

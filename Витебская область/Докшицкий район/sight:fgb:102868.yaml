@@ -2,8 +2,8 @@ id: 'sight:fgb:102868'
 title: 'Гара Горад'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '102868'

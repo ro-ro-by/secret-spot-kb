@@ -2,8 +2,8 @@ id: 'sight:fgb:95755'
 title: 'Дуб Девайтис'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 tree:
     type: oak
 meta:

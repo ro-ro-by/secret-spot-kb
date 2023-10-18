@@ -2,8 +2,8 @@ id: 'sight:fgb:100073'
 title: 'Белы камень'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '100073'

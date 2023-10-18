@@ -2,8 +2,8 @@ id: 'sight:fgb:75934'
 title: Камень-ступа
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '75934'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74698'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 location:
     type: point
     coordinates:

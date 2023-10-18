@@ -2,8 +2,8 @@ id: 'sight:fgb:96612'
 title: 'Парк Регинов'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 meta:
     fgb:
         post_id: '96612'

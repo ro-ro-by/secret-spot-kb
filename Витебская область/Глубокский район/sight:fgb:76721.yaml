@@ -2,8 +2,8 @@ id: 'sight:fgb:76721'
 title: Криница
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '76721'

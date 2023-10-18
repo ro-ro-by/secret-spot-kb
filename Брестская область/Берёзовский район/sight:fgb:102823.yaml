@@ -2,8 +2,8 @@ id: 'sight:fgb:102823'
 title: 'Каралёва (Каралеўская) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Берёзовский район'
+    region: 'region:brest'
+    subregion: 'subregion:brz'
 meta:
     fgb:
         post_id: '102823'

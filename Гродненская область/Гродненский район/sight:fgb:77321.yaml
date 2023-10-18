@@ -2,8 +2,8 @@ id: 'sight:fgb:77321'
 title: 'Скопление глыб валунно-галечного конгломерата Принеманское'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '77321'

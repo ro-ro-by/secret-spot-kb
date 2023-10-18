@@ -2,8 +2,8 @@ id: 'sight:fgb:99672'
 title: 'Парк Псуйский'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '99672'

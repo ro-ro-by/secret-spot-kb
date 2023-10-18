@@ -2,8 +2,8 @@ id: 'sight:fgb:79444'
 title: 'Ключ Надежды'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 location:
     type: point
     coordinates:

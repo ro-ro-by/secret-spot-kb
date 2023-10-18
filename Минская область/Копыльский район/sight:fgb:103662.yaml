@@ -2,8 +2,8 @@ id: 'sight:fgb:103662'
 title: 'Гара Боўшава'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 meta:
     fgb:
         post_id: '103662'

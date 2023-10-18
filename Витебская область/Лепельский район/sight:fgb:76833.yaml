@@ -2,8 +2,8 @@ id: 'sight:fgb:76833'
 title: 'Под Краснолучкой (Три ключа, Пресвятой Богородицы Три Ключа)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 location:
     type: point
     coordinates:

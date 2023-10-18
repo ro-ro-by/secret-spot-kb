@@ -2,8 +2,8 @@ id: 'sight:fgb:76031'
 title: 'Синява (Столбцовский)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

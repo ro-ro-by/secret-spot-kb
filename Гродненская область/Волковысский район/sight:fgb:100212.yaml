@@ -2,8 +2,8 @@ id: 'sight:fgb:100212'
 title: 'Камень-следавік (След Божай Маці)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '100212'

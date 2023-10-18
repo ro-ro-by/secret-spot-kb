@@ -2,8 +2,8 @@ id: 'sight:fgb:75646'
 title: 'Дубрава кисличная'
 type: forest
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 forest:
     dominated_type: oak
     types:

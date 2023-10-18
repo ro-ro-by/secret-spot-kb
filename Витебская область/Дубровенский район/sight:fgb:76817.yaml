@@ -2,8 +2,8 @@ id: 'sight:fgb:76817'
 title: Дуб-великан
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Дубровенский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dbrn'
 tree:
     type: oak
 meta:

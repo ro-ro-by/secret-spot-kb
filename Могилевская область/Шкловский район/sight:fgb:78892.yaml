@@ -2,8 +2,8 @@ id: 'sight:fgb:78892'
 title: 'Янава криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Шкловский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:shkl'
 meta:
     fgb:
         post_id: '78892'

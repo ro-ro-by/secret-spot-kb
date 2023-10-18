@@ -2,8 +2,8 @@ id: 'sight:fgb:100170'
 title: 'Надмагільныя камяні са знакамі паўсферы'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '100170'

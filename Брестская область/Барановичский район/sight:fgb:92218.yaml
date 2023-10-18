@@ -2,8 +2,8 @@ id: 'sight:fgb:92218'
 title: 'Моргач-1 (истоки р.Горольянка)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

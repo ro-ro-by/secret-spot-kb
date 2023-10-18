@@ -2,8 +2,8 @@ id: 'sight:fgb:88370'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 location:
     type: point
     coordinates:

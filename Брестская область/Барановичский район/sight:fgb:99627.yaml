@@ -2,8 +2,8 @@ id: 'sight:fgb:99627'
 title: 'Парк Новосады'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '99627'

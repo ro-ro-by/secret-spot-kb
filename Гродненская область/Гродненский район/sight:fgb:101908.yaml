@@ -2,8 +2,8 @@ id: 'sight:fgb:101908'
 title: 'Тополь белый'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 tree:
     type: populus
 meta:

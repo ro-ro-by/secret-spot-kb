@@ -2,8 +2,8 @@ id: 'sight:fgb:74545'
 title: Непокойчицы
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 meta:
     fgb:
         post_id: '74545'

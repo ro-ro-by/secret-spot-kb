@@ -2,8 +2,8 @@ id: 'sight:fgb:77787'
 title: 'Двухсотлетний дуб в окрестности д. Пузыновцы'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76679'
 title: 'Голубицкая пуща'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '76679'

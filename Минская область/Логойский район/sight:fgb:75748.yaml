@@ -2,8 +2,8 @@ id: 'sight:fgb:75748'
 title: 'Родник на Ольховой горке'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Логойский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lgsk'
 location:
     type: point
     coordinates:

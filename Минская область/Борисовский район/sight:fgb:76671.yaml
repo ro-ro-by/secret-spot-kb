@@ -2,8 +2,8 @@ id: 'sight:fgb:76671'
 title: 'Камень в форме фигуры человека'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '76671'

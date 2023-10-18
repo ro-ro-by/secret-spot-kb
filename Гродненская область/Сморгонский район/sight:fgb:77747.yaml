@@ -2,8 +2,8 @@ id: 'sight:fgb:77747'
 title: 'Селецкий валун'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76941'
 title: 'Буяноўскі пагорак (Астанец) / Буяновский погурок'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 location:
     type: point
     coordinates:

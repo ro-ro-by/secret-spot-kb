@@ -2,8 +2,8 @@ id: 'sight:fgb:101148'
 title: 'Камень з талеркападобнымі паглыбленнямі'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '101148'

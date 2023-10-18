@@ -2,8 +2,8 @@ id: 'sight:fgb:76732'
 title: 'Водяной орех'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Городокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:grdk'
 meta:
     fgb:
         post_id: '76732'

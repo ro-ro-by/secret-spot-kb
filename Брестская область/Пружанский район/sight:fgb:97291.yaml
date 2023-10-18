@@ -2,8 +2,8 @@ id: 'sight:fgb:97291'
 title: 'Парк Каштановка'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '97291'

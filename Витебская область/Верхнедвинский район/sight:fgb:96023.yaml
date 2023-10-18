@@ -2,8 +2,8 @@ id: 'sight:fgb:96023'
 title: 'Живец в Верхнем гаю'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '96023'

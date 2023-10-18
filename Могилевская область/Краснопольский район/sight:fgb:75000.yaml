@@ -2,8 +2,8 @@ id: 'sight:fgb:75000'
 title: Селище
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 forest:
     dominated_type: oak
     types:

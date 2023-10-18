@@ -2,8 +2,8 @@ id: 'sight:fgb:101041'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 meta:
     fgb:
         post_id: '101041'

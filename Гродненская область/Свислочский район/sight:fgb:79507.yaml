@@ -2,8 +2,8 @@ id: 'sight:fgb:79507'
 title: Первомайский
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Свислочский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:svsl'
 meta:
     fgb:
         post_id: '79507'

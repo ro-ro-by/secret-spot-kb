@@ -2,8 +2,8 @@ id: 'sight:fgb:95473'
 title: Стрельский
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 meta:
     fgb:
         post_id: '95473'

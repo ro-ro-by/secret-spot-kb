@@ -2,8 +2,8 @@ id: 'sight:fgb:94957'
 title: 'Скразная даліна ракі Заходняя Бярэзіна'
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '94957'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77349'
 title: Камень-богатырь
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 location:
     type: point
     coordinates:

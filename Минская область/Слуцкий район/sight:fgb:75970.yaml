@@ -2,8 +2,8 @@ id: 'sight:fgb:75970'
 title: 'Поклонное дерево'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 meta:
     fgb:
         post_id: '75970'

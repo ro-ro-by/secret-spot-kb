@@ -2,8 +2,8 @@ id: 'sight:fgb:93122'
 title: Великонемковский-1
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

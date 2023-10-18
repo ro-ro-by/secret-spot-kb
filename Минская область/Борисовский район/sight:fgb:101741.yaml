@@ -2,8 +2,8 @@ id: 'sight:fgb:101741'
 title: 'Вековые липы в д. Упиревичи'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:88094'
 title: 'На Васильковой горе'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '88094'

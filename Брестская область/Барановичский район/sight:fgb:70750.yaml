@@ -2,8 +2,8 @@ id: 'sight:fgb:70750'
 title: 'Дубы-близнецы Тугановичские'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

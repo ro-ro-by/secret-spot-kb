@@ -2,8 +2,8 @@ id: 'sight:fgb:101084'
 title: 'Камень, які расце'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Витебский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vtb'
 meta:
     fgb:
         post_id: '101084'

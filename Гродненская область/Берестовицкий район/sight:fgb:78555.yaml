@@ -2,8 +2,8 @@ id: 'sight:fgb:78555'
 title: 'На Лесной'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Берестовицкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:brstv'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:78591'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 meta:
     fgb:
         post_id: '78591'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74576'
 title: 'Поклонная грушка'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 tree:
     type: pear
 meta:

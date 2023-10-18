@@ -2,8 +2,8 @@ id: 'sight:fgb:83158'
 title: 'Парк Осиновка'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '83158'

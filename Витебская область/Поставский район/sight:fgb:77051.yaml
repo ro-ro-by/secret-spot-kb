@@ -2,8 +2,8 @@ id: 'sight:fgb:77051'
 title: 'Гора Большая'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '77051'

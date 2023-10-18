@@ -2,8 +2,8 @@ id: 'sight:fgb:79528'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '79528'

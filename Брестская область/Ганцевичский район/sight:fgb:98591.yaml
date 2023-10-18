@@ -2,8 +2,8 @@ id: 'sight:fgb:98591'
 title: 'Начевская аллея'
 type: alley
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '98591'

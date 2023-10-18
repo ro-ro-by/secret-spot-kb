@@ -2,8 +2,8 @@ id: 'sight:fgb:88349'
 title: Святой
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '88349'

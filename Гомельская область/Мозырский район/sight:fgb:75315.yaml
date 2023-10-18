@@ -2,8 +2,8 @@ id: 'sight:fgb:75315'
 title: 'Каменные волы'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 meta:
     fgb:
         post_id: '75315'

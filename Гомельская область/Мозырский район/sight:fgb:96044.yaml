@@ -2,8 +2,8 @@ id: 'sight:fgb:96044'
 title: 'Вековая дубрава в окрестностях агрогородка Белая'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 forest:
     dominated_type: oak
     types:

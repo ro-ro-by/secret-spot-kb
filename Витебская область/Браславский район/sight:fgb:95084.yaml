@@ -2,8 +2,8 @@ id: 'sight:fgb:95084'
 title: 'Гара Маяк'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '95084'

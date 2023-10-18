@@ -2,8 +2,8 @@ id: 'sight:fgb:103123'
 title: Замак
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Дубровенский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dbrn'
 meta:
     fgb:
         post_id: '103123'

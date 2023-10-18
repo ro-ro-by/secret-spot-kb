@@ -2,8 +2,8 @@ id: 'sight:fgb:97094'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Берестовицкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:brstv'
 meta:
     fgb:
         post_id: '97094'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103556'
 title: 'Вінная гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 meta:
     fgb:
         post_id: '103556'

@@ -2,8 +2,8 @@ id: 'sight:fgb:76820'
 title: 'Бородинцевская криница (Киреёвская, Гаючая криница, в Грутовом рве, Параскевы Пятницы)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Дубровенский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dbrn'
 location:
     type: point
     coordinates:

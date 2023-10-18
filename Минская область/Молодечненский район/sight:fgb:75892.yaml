@@ -2,8 +2,8 @@ id: 'sight:fgb:75892'
 title: 'Янки Купалы'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 location:
     type: point
     coordinates:

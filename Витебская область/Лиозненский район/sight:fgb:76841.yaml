@@ -2,8 +2,8 @@ id: 'sight:fgb:76841'
 title: Добромысли
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лиозненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lzn'
 location:
     type: point
     coordinates:

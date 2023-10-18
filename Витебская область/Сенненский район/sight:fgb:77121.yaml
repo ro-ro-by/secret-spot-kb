@@ -2,8 +2,8 @@ id: 'sight:fgb:77121'
 title: 'Добринский грот (Синявкина)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:77150'
 title: Борисоглебка
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 location:
     type: point
     coordinates:

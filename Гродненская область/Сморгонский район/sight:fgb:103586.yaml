@@ -2,8 +2,8 @@ id: 'sight:fgb:103586'
 title: 'Гара Шылаватая'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '103586'

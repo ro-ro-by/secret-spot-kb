@@ -2,8 +2,8 @@ id: 'sight:fgb:93536'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 location:
     type: point
     coordinates:

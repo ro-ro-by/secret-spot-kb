@@ -2,8 +2,8 @@ id: 'sight:fgb:77709'
 title: 'Акамянелыя людзі'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '77709'

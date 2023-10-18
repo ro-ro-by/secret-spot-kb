@@ -2,8 +2,8 @@ id: 'sight:fgb:100133'
 title: 'Камень з выемкай'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Наровлянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:nrvl'
 meta:
     fgb:
         post_id: '100133'

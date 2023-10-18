@@ -2,8 +2,8 @@ id: 'sight:fgb:75953'
 title: 'Дуб пирамидальный Заозерский'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

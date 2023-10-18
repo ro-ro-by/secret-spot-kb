@@ -2,8 +2,8 @@ id: 'sight:fgb:77237'
 title: 'Дуб и ель "Партизанские"'
 type: TODO
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 meta:
     fgb:
         post_id: '77237'

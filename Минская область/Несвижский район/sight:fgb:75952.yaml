@@ -2,8 +2,8 @@ id: 'sight:fgb:75952'
 title: 'Дуб черешчатый «Козловский» («Дуб-Якуб»)'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

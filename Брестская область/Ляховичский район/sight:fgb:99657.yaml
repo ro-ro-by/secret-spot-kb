@@ -2,8 +2,8 @@ id: 'sight:fgb:99657'
 title: 'Парк Флорианово'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '99657'

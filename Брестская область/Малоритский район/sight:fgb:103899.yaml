@@ -2,8 +2,8 @@ id: 'sight:fgb:103899'
 title: 'Гара Мелавая (Вапнярка)'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 meta:
     fgb:
         post_id: '103899'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96053'
 title: Черневский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '96053'

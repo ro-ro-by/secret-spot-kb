@@ -2,8 +2,8 @@ id: 'sight:fgb:77226'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шумилинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shmln'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75688'
 title: 'Родник в урочище Высокие горы'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 location:
     type: point
     coordinates:

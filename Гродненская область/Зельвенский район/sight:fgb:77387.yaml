@@ -2,8 +2,8 @@ id: 'sight:fgb:77387'
 title: 'Большой Камень мижеричский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '77387'

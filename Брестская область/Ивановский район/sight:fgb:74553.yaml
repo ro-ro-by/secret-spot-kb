@@ -2,8 +2,8 @@ id: 'sight:fgb:74553'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивановский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivnv'
 meta:
     fgb:
         post_id: '74553'

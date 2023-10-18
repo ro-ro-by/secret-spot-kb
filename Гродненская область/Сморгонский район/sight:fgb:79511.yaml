@@ -2,8 +2,8 @@ id: 'sight:fgb:79511'
 title: Дворище-Гай
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

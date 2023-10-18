@@ -2,8 +2,8 @@ id: 'sight:fgb:88125'
 title: Барсуки-1
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 meta:
     fgb:
         post_id: '88125'

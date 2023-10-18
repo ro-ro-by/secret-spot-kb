@@ -2,8 +2,8 @@ id: 'sight:fgb:95769'
 title: 'Дуб Троцкого'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 tree:
     type: oak
 meta:

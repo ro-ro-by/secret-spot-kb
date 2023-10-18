@@ -2,8 +2,8 @@ id: 'sight:fgb:76162'
 title: 'Валун Большой камень пашевичский'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '76162'

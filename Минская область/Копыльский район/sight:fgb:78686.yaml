@@ -2,8 +2,8 @@ id: 'sight:fgb:78686'
 title: Шестаки
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 location:
     type: point
     coordinates:

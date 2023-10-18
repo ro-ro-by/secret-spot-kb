@@ -2,8 +2,8 @@ id: 'sight:fgb:74617'
 title: Лагоня
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '74617'

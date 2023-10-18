@@ -2,8 +2,8 @@ id: 'sight:fgb:75311'
 title: 'Дубрава Лешнянская (Три дуба)'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 forest:
     dominated_type: oak
     types:

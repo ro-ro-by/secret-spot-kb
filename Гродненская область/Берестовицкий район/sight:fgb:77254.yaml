@@ -2,8 +2,8 @@ id: 'sight:fgb:77254'
 title: 'Гродненская Свислочь'
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Берестовицкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:brstv'
 meta:
     fgb:
         post_id: '77254'

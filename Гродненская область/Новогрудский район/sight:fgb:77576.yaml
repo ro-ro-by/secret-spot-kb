@@ -2,8 +2,8 @@ id: 'sight:fgb:77576'
 title: Новогрудский
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 meta:
     fgb:
         post_id: '77576'

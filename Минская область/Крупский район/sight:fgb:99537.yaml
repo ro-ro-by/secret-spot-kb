@@ -2,8 +2,8 @@ id: 'sight:fgb:99537'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 location:
     type: point
     coordinates:

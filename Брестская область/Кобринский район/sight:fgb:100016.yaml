@@ -2,8 +2,8 @@ id: 'sight:fgb:100016'
 title: 'Вялікі камень'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '100016'

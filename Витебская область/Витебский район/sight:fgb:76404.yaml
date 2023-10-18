@@ -2,8 +2,8 @@ id: 'sight:fgb:76404'
 title: 'Параскевы Пятницы'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Витебский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vtb'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102897'
 title: 'Іванішчына (Касцельная - ?) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Логойский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lgsk'
 meta:
     fgb:
         post_id: '102897'

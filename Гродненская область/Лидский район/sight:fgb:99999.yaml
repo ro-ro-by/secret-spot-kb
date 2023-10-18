@@ -2,8 +2,8 @@ id: 'sight:fgb:99999'
 title: 'Акамянелае вяселле'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Лидский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:lida'
 meta:
     fgb:
         post_id: '99999'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96444'
 title: Мельничный
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 location:
     type: point
     coordinates:

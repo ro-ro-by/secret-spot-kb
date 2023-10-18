@@ -2,8 +2,8 @@ id: 'sight:fgb:70786'
 title: 'Пойменная дубрава'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 forest:
     dominated_type: oak
     types:

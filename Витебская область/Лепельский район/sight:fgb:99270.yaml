@@ -2,8 +2,8 @@ id: 'sight:fgb:99270'
 title: 'Березинская водная система'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '99270'

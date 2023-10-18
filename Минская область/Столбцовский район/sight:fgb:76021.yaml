@@ -2,8 +2,8 @@ id: 'sight:fgb:76021'
 title: 'Парк Новая Веска'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

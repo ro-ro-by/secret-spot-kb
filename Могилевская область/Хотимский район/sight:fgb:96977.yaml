@@ -2,8 +2,8 @@ id: 'sight:fgb:96977'
 title: Хотимча
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 location:
     type: point
     coordinates:

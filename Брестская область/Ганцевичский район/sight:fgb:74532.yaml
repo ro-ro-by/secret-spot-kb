@@ -2,8 +2,8 @@ id: 'sight:fgb:74532'
 title: 'След Божьей Матери'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '74532'

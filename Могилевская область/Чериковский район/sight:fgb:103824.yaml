@@ -2,8 +2,8 @@ id: 'sight:fgb:103824'
 title: 'Шкутоўская гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чериковский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chrk'
 meta:
     fgb:
         post_id: '103824'

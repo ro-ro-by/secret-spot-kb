@@ -2,8 +2,8 @@ id: 'sight:fgb:88103'
 title: Стрешинский
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:77115'
 title: 'Морозовый ключ (Морозов лужок)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 location:
     type: point
     coordinates:

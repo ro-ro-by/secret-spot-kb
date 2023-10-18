@@ -2,8 +2,8 @@ id: 'sight:fgb:102807'
 title: Гарадзішча
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 meta:
     fgb:
         post_id: '102807'

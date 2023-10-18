@@ -2,8 +2,8 @@ id: 'sight:fgb:74736'
 title: 'Дубовая роща в лесопарковой зоне Ворониновского лесничества'
 type: park
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 location:
     type: point
     coordinates:

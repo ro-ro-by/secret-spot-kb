@@ -2,8 +2,8 @@ id: 'sight:fgb:77539'
 title: 'Котловины Гумнище и Подберезье'
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 meta:
     fgb:
         post_id: '77539'

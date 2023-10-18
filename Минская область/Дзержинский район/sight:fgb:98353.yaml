@@ -2,8 +2,8 @@ id: 'sight:fgb:98353'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 meta:
     fgb:
         post_id: '98353'

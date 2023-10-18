@@ -2,8 +2,8 @@ id: 'sight:fgb:99538'
 title: 'Старый Сокол-1'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 location:
     type: point
     coordinates:

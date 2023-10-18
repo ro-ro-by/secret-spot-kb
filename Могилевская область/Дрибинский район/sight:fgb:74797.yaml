@@ -2,8 +2,8 @@ id: 'sight:fgb:74797'
 title: Гонтовля
 type: TODO
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 location:
     type: point
     coordinates:

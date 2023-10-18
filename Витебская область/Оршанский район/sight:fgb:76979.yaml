@@ -2,8 +2,8 @@ id: 'sight:fgb:76979'
 title: 'Гряда Орешкинская'
 type: esker
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

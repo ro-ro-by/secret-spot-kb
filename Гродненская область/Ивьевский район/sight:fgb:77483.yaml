@@ -2,8 +2,8 @@ id: 'sight:fgb:77483'
 title: 'Валун Довнарский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 location:
     type: point
     coordinates:

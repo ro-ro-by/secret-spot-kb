@@ -2,8 +2,8 @@ id: 'sight:fgb:94954'
 title: 'Біцюнскі камавы масіў'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '94954'

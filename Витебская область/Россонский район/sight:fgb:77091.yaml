@@ -2,8 +2,8 @@ id: 'sight:fgb:77091'
 title: 'Гара Гваздзіха'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 location:
     type: point
     coordinates:

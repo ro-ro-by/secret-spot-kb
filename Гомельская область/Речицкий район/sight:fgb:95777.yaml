@@ -2,8 +2,8 @@ id: 'sight:fgb:95777'
 title: 'Дуб Минтус'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 tree:
     type: oak
 meta:

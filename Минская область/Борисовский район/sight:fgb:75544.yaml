@@ -2,8 +2,8 @@ id: 'sight:fgb:75544'
 title: 'Татарский колодец'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 location:
     type: point
     coordinates:

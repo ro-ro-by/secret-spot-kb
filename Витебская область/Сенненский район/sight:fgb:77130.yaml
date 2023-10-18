@@ -2,8 +2,8 @@ id: 'sight:fgb:77130'
 title: 'Родник Капличка'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 location:
     type: point
     coordinates:

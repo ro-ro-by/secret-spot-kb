@@ -2,8 +2,8 @@ id: 'sight:fgb:103445'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 meta:
     fgb:
         post_id: '103445'

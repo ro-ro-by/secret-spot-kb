@@ -2,8 +2,8 @@ id: 'sight:fgb:103598'
 title: Звонаўка
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '103598'

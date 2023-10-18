@@ -2,8 +2,8 @@ id: 'sight:fgb:101140'
 title: 'Архаічная крапільніца'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '101140'

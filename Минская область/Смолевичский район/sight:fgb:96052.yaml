@@ -2,8 +2,8 @@ id: 'sight:fgb:96052'
 title: Борисовский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '96052'

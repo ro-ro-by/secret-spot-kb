@@ -2,8 +2,8 @@ id: 'sight:fgb:83689'
 title: 'У Бакасова рва'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '83689'

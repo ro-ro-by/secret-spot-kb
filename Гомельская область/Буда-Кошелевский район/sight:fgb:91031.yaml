@@ -2,8 +2,8 @@ id: 'sight:fgb:91031'
 title: Еленец-3
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75007'
 title: 'Антонова криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 meta:
     fgb:
         post_id: '75007'

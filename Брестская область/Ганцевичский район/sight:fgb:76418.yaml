@@ -2,8 +2,8 @@ id: 'sight:fgb:76418'
 title: 'Языческий символ (?)'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '76418'

@@ -2,8 +2,8 @@ id: 'sight:fgb:83018'
 title: 'Святой ключок'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '83018'

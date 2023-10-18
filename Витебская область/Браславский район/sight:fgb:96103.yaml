@@ -2,8 +2,8 @@ id: 'sight:fgb:96103'
 title: 'Камовые холмы, имеющие дугообразные очертания, на оз. Богинское'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '96103'

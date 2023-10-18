@@ -2,8 +2,8 @@ id: 'sight:fgb:76807'
 title: 'Сосна Акулина (Сасна Кулина)'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

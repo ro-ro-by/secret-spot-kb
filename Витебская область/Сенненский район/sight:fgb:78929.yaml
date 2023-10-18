@@ -2,8 +2,8 @@ id: 'sight:fgb:78929'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 location:
     type: point
     coordinates:

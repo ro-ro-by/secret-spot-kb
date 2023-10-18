@@ -2,8 +2,8 @@ id: 'sight:fgb:77302'
 title: 'Камень на довгеньках Якубовский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 location:
     type: point
     coordinates:

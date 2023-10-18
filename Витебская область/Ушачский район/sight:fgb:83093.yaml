@@ -2,8 +2,8 @@ id: 'sight:fgb:83093'
 title: 'Парк Двор-Плино'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 meta:
     fgb:
         post_id: '83093'

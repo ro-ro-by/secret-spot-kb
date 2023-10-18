@@ -2,8 +2,8 @@ id: 'sight:fgb:95471'
 title: Смычок
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 meta:
     fgb:
         post_id: '95471'

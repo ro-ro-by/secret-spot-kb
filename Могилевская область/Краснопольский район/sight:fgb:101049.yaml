@@ -2,8 +2,8 @@ id: 'sight:fgb:101049'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 meta:
     fgb:
         post_id: '101049'

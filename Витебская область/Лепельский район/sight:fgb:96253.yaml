@@ -2,8 +2,8 @@ id: 'sight:fgb:96253'
 title: 'Девичье озеро'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '96253'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103005'
 title: 'Залатая горка'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '103005'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75347'
 title: 'Кустовница-Криничанский (№13, в честь иконы Божией Матери "Живоносный источник")'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

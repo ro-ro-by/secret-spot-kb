@@ -2,8 +2,8 @@ id: 'sight:fgb:99420'
 title: 'Колонка «Артезианская скважина №4»'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Брестский район'
+    region: 'region:brest'
+    subregion: 'subregion:brst'
 location:
     type: point
     coordinates:

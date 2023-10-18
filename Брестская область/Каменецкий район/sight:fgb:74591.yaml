@@ -2,8 +2,8 @@ id: 'sight:fgb:74591'
 title: 'Святой Барбары (Радости, Куйовщизна)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 location:
     type: point
     coordinates:

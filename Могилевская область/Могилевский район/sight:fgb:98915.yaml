@@ -2,8 +2,8 @@ id: 'sight:fgb:98915'
 title: 'Полыковичские вековые деревья'
 type: TODO
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Могилевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mhl'
 location:
     type: point
     coordinates:

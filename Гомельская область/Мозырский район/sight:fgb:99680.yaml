@@ -2,8 +2,8 @@ id: 'sight:fgb:99680'
 title: 'Парк Скрыгаловский'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 meta:
     fgb:
         post_id: '99680'

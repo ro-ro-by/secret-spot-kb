@@ -2,8 +2,8 @@ id: 'sight:fgb:77547'
 title: 'Свято-Троицкий Щарский'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 location:
     type: point
     coordinates:

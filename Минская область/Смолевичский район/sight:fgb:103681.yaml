@@ -2,8 +2,8 @@ id: 'sight:fgb:103681'
 title: 'Гара Опенная'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '103681'

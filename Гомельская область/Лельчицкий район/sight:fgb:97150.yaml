@@ -2,8 +2,8 @@ id: 'sight:fgb:97150'
 title: Крест-идол
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 meta:
     fgb:
         post_id: '97150'

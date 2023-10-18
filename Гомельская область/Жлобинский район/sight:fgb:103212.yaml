@@ -2,8 +2,8 @@ id: 'sight:fgb:103212'
 title: 'Красная гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '103212'

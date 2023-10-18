@@ -2,8 +2,8 @@ id: 'sight:fgb:75085'
 title: 'Вековой дуб Брицаловичский'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

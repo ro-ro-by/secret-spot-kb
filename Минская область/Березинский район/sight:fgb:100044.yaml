@@ -2,8 +2,8 @@ id: 'sight:fgb:100044'
 title: Пястун-камень
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '100044'

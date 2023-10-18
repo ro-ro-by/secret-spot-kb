@@ -2,8 +2,8 @@ id: 'sight:fgb:93166'
 title: 'Королевский ручей (Струбка-2)'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 location:
     type: point
     coordinates:

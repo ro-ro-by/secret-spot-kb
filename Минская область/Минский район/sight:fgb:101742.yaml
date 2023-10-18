@@ -2,8 +2,8 @@ id: 'sight:fgb:101742'
 title: 'Вековые ясени в д. Новое Поле'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 location:
     type: point
     coordinates:

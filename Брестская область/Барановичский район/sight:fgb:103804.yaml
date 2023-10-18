@@ -2,8 +2,8 @@ id: 'sight:fgb:103804'
 title: 'Гара Гай'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '103804'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75598'
 title: 'Валун Большой камень бузуновский'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '75598'

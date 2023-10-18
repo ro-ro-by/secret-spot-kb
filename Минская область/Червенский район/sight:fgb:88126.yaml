@@ -2,8 +2,8 @@ id: 'sight:fgb:88126'
 title: Барсуки-2
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 location:
     type: point
     coordinates:

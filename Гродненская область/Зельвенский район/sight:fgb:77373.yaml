@@ -2,8 +2,8 @@ id: 'sight:fgb:77373'
 title: Дуб
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 tree:
     type: oak
 meta:

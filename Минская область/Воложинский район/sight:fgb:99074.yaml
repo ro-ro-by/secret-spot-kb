@@ -2,8 +2,8 @@ id: 'sight:fgb:99074'
 title: 'Януковы горы (Капцы)'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '99074'

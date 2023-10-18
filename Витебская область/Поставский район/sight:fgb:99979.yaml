@@ -2,8 +2,8 @@ id: 'sight:fgb:99979'
 title: 'Вялікі камень старадворскі'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '99979'

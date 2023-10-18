@@ -2,8 +2,8 @@ id: 'sight:fgb:76793'
 title: Отрубок
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '76793'

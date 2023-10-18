@@ -2,8 +2,8 @@ id: 'sight:fgb:78684'
 title: 'Исток р.Птичь'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 location:
     type: point
     coordinates:

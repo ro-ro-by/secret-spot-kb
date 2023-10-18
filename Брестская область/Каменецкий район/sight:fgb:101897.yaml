@@ -2,8 +2,8 @@ id: 'sight:fgb:101897'
 title: 'Дерево «тройник скального дуба»'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 tree:
     type: oak
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:100214'
 title: 'Камень-следавік (Божы Слядок, След Пастуха, След Авечкі)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '100214'

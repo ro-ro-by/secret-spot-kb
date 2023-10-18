@@ -2,8 +2,8 @@ id: 'sight:fgb:74802'
 title: Голомукское
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '74802'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98469'
 title: 'Парк Накрышки'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 meta:
     fgb:
         post_id: '98469'

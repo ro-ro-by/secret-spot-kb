@@ -2,8 +2,8 @@ id: 'sight:fgb:75278'
 title: 'Уникальные участки леса "Насаждения дуба, ясеня"'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Калинковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:klnk'
 meta:
     fgb:
         post_id: '75278'

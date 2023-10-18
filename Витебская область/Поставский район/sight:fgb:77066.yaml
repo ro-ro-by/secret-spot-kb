@@ -2,8 +2,8 @@ id: 'sight:fgb:77066'
 title: 'Щербишские родники'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 location:
     type: point
     coordinates:

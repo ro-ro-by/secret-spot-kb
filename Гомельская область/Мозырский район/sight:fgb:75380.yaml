@@ -2,8 +2,8 @@ id: 'sight:fgb:75380'
 title: 'На Крулёвой горе'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 meta:
     fgb:
         post_id: '75380'

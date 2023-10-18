@@ -2,8 +2,8 @@ id: 'sight:fgb:74784'
 title: 'Кукшинский мох'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 meta:
     fgb:
         post_id: '74784'

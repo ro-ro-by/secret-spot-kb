@@ -2,8 +2,8 @@ id: 'sight:fgb:75406'
 title: 'Жаливля (Лечебная Вода)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Наровлянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:nrvl'
 location:
     type: point
     coordinates:

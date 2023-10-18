@@ -2,8 +2,8 @@ id: 'sight:fgb:98664'
 title: 'Парк Старая Белица'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 meta:
     fgb:
         post_id: '98664'

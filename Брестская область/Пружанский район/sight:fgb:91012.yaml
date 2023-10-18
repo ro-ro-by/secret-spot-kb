@@ -2,8 +2,8 @@ id: 'sight:fgb:91012'
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76019'
 title: 'Липы мелколистные Миколаевщинские'
 type: forest
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 forest:
     dominated_type: tilia
 location:

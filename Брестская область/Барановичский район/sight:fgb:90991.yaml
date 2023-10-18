@@ -2,8 +2,8 @@ id: 'sight:fgb:90991'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '90991'

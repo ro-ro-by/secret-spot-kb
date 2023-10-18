@@ -2,8 +2,8 @@ id: 'sight:fgb:75697'
 title: 'Поклонная сосна'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 tree:
     type: pine
 meta:

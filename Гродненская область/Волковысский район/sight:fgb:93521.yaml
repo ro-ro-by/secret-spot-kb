@@ -2,8 +2,8 @@ id: 'sight:fgb:93521'
 title: 'Пресвятой Троицы'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 location:
     type: point
     coordinates:

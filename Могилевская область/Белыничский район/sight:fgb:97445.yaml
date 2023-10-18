@@ -2,8 +2,8 @@ id: 'sight:fgb:97445'
 title: Рудьё
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 location:
     type: point
     coordinates:

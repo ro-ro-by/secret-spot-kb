@@ -2,8 +2,8 @@ id: 'sight:fgb:78395'
 title: 'Ахвярнік (Рабінавы камень-2)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '78395'

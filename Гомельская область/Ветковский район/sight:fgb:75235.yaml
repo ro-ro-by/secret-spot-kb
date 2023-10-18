@@ -2,8 +2,8 @@ id: 'sight:fgb:75235'
 title: 'Родник Матюшин'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102980'
 title: 'Зміёвыя горы (Крывая гара)'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Дрогичинский район'
+    region: 'region:brest'
+    subregion: 'subregion:drh'
 meta:
     fgb:
         post_id: '102980'

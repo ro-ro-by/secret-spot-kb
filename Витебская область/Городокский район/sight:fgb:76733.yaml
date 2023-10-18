@@ -2,8 +2,8 @@ id: 'sight:fgb:76733'
 title: 'Корытенский Мох'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Городокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:grdk'
 meta:
     fgb:
         post_id: '76733'

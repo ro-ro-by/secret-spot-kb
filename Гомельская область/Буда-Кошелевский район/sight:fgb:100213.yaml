@@ -2,8 +2,8 @@ id: 'sight:fgb:100213'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 meta:
     fgb:
         post_id: '100213'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98590'
 title: 'Парк Заушье'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 meta:
     fgb:
         post_id: '98590'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103483'
 title: Акмяніня
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 meta:
     fgb:
         post_id: '103483'

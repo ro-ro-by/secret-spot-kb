@@ -2,8 +2,8 @@ id: 'sight:fgb:75607'
 title: 'Ледниковый конгломерат Раковский'
 type: сonglomerate
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

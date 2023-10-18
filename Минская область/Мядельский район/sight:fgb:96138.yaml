@@ -2,8 +2,8 @@ id: 'sight:fgb:96138'
 title: 'Нарочанский подводный'
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '96138'

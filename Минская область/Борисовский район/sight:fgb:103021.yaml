@@ -2,8 +2,8 @@ id: 'sight:fgb:103021'
 title: Манастырок
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '103021'

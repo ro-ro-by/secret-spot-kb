@@ -2,8 +2,8 @@ id: 'sight:fgb:76965'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 meta:
     fgb:
         post_id: '76965'

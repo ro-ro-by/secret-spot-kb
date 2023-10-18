@@ -2,8 +2,8 @@ id: 'sight:fgb:76056'
 title: 'Акамянелы Волат'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 meta:
     fgb:
         post_id: '76056'

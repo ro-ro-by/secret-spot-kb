@@ -2,8 +2,8 @@ id: 'sight:fgb:78636'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '78636'

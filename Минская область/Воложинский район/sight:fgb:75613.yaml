@@ -2,8 +2,8 @@ id: 'sight:fgb:75613'
 title: 'Парк Новый Двор'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

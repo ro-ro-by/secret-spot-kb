@@ -2,8 +2,8 @@ id: 'sight:fgb:96512'
 title: 'Вековой дуб у деревни Лесница'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 tree:
     type: oak
 meta:

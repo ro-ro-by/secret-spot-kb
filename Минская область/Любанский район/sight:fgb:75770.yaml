@@ -2,8 +2,8 @@ id: 'sight:fgb:75770'
 title: 'Группа деревьев березы черной'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 tree:
     type: birch_black
 meta:

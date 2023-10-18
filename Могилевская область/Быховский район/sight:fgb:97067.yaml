@@ -2,8 +2,8 @@ id: 'sight:fgb:97067'
 title: 'Каменный крест'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 meta:
     fgb:
         post_id: '97067'

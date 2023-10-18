@@ -2,8 +2,8 @@ id: 'sight:fgb:96984'
 title: 'Сосны обыкновенные (Добромыслинские старинные сосны)'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лиозненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lzn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:101813'
 title: 'Целующиеся дубы'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Климовичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klmv'
 tree:
     type: oak
 meta:

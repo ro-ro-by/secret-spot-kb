@@ -2,8 +2,8 @@ id: 'sight:fgb:76819'
 title: 'Территория карьера льнозавода'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Дубровенский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dbrn'
 meta:
     fgb:
         post_id: '76819'

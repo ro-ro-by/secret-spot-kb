@@ -2,8 +2,8 @@ id: 'sight:fgb:77212'
 title: 'Сосна обыкновенная (многоствольная)'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шумилинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shmln'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:74690'
 title: 'Парк "Нижнетеребежовский"'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 location:
     type: point
     coordinates:

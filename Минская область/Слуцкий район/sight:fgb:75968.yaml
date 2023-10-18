@@ -2,8 +2,8 @@ id: 'sight:fgb:75968'
 title: 'Насаждение лиственницы, дуба и сосны Уречское'
 type: forest
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 location:
     type: point
     coordinates:

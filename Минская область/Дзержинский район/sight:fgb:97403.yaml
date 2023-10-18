@@ -2,8 +2,8 @@ id: 'sight:fgb:97403'
 title: 'Парк Большие Новоселки'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 meta:
     fgb:
         post_id: '97403'

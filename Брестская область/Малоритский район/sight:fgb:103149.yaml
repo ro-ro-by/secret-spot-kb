@@ -2,8 +2,8 @@ id: 'sight:fgb:103149'
 title: 'Воўчая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 meta:
     fgb:
         post_id: '103149'

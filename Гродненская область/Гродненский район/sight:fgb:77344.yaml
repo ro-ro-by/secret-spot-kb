@@ -2,8 +2,8 @@ id: 'sight:fgb:77344'
 title: Солы-2
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75972'
 title: 'Святы камень (След Хрыста)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:101037'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Бешенковичский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:bshn'
 meta:
     fgb:
         post_id: '101037'

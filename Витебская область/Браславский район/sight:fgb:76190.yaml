@@ -2,8 +2,8 @@ id: 'sight:fgb:76190'
 title: 'Каменная Дубица (Довбица)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '76190'

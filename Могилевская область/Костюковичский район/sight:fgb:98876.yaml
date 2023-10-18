@@ -2,8 +2,8 @@ id: 'sight:fgb:98876'
 title: 'Вековой дуб Костюковичского лесхоза'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 location:
     type: point
     coordinates:

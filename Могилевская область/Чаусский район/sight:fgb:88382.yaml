@@ -2,8 +2,8 @@ id: 'sight:fgb:88382'
 title: Заложье-1
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 location:
     type: point
     coordinates:

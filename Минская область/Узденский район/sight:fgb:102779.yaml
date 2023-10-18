@@ -2,8 +2,8 @@ id: 'sight:fgb:102779'
 title: Замак
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 meta:
     fgb:
         post_id: '102779'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77626'
 title: 'Германишский валун-2'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 location:
     type: point
     coordinates:

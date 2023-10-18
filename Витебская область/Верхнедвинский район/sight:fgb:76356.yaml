@@ -2,8 +2,8 @@ id: 'sight:fgb:76356'
 title: 'Освейская долина прорыва'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '76356'

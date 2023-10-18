@@ -2,8 +2,8 @@ id: 'sight:fgb:75608'
 title: 'Конгломерат Святой камень" бузуновский'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '75608'

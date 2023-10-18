@@ -2,8 +2,8 @@ id: 'sight:fgb:103798'
 title: 'Гара Гарадзец'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 meta:
     fgb:
         post_id: '103798'

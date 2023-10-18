@@ -2,8 +2,8 @@ id: 'sight:fgb:96070'
 title: 'Дуб черешчатый'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 tree:
     type: oak
 meta:

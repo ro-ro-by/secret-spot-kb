@@ -2,8 +2,8 @@ id: 'sight:fgb:74633'
 title: 'Валун Большой камень питемский'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 meta:
     fgb:
         post_id: '74633'

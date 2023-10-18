@@ -2,8 +2,8 @@ id: 'sight:fgb:102808'
 title: 'Святая гара (Прошча, Дзявоч-гара)'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кировский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsk'
 meta:
     fgb:
         post_id: '102808'

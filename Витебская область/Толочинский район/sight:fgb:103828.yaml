@@ -2,8 +2,8 @@ id: 'sight:fgb:103828'
 title: 'Скрыпуцёва гара'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '103828'

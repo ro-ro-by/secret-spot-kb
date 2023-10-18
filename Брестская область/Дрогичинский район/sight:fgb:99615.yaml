@@ -2,8 +2,8 @@ id: 'sight:fgb:99615'
 title: 'Жировский  канал'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Дрогичинский район'
+    region: 'region:brest'
+    subregion: 'subregion:drh'
 meta:
     fgb:
         post_id: '99615'

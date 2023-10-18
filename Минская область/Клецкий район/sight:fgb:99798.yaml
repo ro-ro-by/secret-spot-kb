@@ -2,8 +2,8 @@ id: 'sight:fgb:99798'
 title: Курлянда
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:99068'
 title: 'Бухличский дуб'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 location:
     type: point
     coordinates:

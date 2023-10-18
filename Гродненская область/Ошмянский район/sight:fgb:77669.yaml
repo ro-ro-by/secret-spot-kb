@@ -2,8 +2,8 @@ id: 'sight:fgb:77669'
 title: 'Мочиловский валун-2'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 location:
     type: point
     coordinates:

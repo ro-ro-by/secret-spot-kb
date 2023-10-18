@@ -2,8 +2,8 @@ id: 'sight:fgb:76364'
 title: 'Большой камень Харабровский'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 location:
     type: point
     coordinates:

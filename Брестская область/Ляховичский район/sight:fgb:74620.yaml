@@ -2,8 +2,8 @@ id: 'sight:fgb:74620'
 title: 'Устье Мышанки'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '74620'

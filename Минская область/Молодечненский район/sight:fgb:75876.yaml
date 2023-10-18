@@ -2,8 +2,8 @@ id: 'sight:fgb:75876'
 title: 'Гора Курган'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '75876'

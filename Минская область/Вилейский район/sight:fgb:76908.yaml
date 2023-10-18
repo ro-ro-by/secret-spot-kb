@@ -2,8 +2,8 @@ id: 'sight:fgb:76908'
 title: 'Забалацкі камень з лункамі'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 location:
     type: point
     coordinates:

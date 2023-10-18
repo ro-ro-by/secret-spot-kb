@@ -2,8 +2,8 @@ id: 'sight:fgb:101163'
 title: 'Камень з малюнкам'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '101163'

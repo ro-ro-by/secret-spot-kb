@@ -2,8 +2,8 @@ id: 'sight:fgb:103612'
 title: Лазіскава
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Свислочский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:svsl'
 meta:
     fgb:
         post_id: '103612'

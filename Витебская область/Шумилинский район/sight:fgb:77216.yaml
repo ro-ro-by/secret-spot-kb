@@ -2,8 +2,8 @@ id: 'sight:fgb:77216'
 title: 'Криница Козаногово'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шумилинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shmln'
 meta:
     fgb:
         post_id: '77216'

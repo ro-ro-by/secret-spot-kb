@@ -2,8 +2,8 @@ id: 'sight:fgb:75242'
 title: 'Насаждения сосны'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Гомельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hml'
 meta:
     fgb:
         post_id: '75242'

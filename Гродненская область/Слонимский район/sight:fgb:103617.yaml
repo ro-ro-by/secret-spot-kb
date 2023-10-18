@@ -2,8 +2,8 @@ id: 'sight:fgb:103617'
 title: 'Марозава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '103617'

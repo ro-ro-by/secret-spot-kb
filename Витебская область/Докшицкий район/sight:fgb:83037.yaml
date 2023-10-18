@@ -2,8 +2,8 @@ id: 'sight:fgb:83037'
 title: 'Шведский колодец'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

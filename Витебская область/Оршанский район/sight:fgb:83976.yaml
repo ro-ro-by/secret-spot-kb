@@ -2,8 +2,8 @@ id: 'sight:fgb:83976'
 title: 'В Грязиловском лесу'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

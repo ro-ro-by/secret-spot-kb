@@ -2,8 +2,8 @@ id: 'sight:fgb:97348'
 title: 'Королищевичский парк'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '97348'

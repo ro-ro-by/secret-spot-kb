@@ -2,8 +2,8 @@ id: 'sight:fgb:76020'
 title: 'Усадьба Ф.Э.Дзержинского с прилегающим участком леса'
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

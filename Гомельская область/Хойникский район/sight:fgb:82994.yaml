@@ -2,8 +2,8 @@ id: 'sight:fgb:82994'
 title: Масаны
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Хойникский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hnk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75379'
 title: 'Сидельники-1 (№15)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

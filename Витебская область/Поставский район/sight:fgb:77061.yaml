@@ -2,8 +2,8 @@ id: 'sight:fgb:77061'
 title: 'Валун Большой камень завлечанский (завличский)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 location:
     type: point
     coordinates:

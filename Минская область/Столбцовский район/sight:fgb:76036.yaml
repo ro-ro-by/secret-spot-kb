@@ -2,8 +2,8 @@ id: 'sight:fgb:76036'
 title: 'Вековой Дуб'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 tree:
     type: oak
 meta:

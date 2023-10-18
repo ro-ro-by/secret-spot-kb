@@ -2,8 +2,8 @@ id: 'sight:fgb:75181'
 title: 'Микеева криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 location:
     type: point
     coordinates:

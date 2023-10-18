@@ -2,8 +2,8 @@ id: 'sight:fgb:74818'
 title: 'Насаждение сосны веймутовой "Чигиринский" (Участок леса с ценными древесными породами Чигиринский)'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кировский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsk'
 location:
     type: point
     coordinates:

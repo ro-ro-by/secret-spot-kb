@@ -2,8 +2,8 @@ id: 'sight:fgb:77148'
 title: 'Святой Троицы'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '77148'

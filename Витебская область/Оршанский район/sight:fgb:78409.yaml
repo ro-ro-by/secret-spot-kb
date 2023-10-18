@@ -2,8 +2,8 @@ id: 'sight:fgb:78409'
 title: 'У монастыря'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 meta:
     fgb:
         post_id: '78409'

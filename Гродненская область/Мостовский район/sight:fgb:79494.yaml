@@ -2,8 +2,8 @@ id: 'sight:fgb:79494'
 title: Огородный
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 location:
     type: point
     coordinates:

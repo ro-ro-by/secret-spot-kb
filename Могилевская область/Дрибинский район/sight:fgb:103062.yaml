@@ -2,8 +2,8 @@ id: 'sight:fgb:103062'
 title: 'Залатая горка'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '103062'

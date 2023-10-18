@@ -2,8 +2,8 @@ id: 'sight:fgb:75614'
 title: 'Дуб-великан (Дуб воложинский)'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 tree:
     type: oak
 meta:

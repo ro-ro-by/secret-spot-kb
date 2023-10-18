@@ -2,8 +2,8 @@ id: 'sight:fgb:96470'
 title: 'Парк Дунайчицы'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 meta:
     fgb:
         post_id: '96470'

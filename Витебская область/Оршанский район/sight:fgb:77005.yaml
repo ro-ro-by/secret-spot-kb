@@ -2,8 +2,8 @@ id: 'sight:fgb:77005'
 title: Купа
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:88356'
 title: Горовата
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 location:
     type: point
     coordinates:

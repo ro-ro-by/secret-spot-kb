@@ -2,8 +2,8 @@ id: 'sight:fgb:103256'
 title: 'Святая Грыва'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 meta:
     fgb:
         post_id: '103256'

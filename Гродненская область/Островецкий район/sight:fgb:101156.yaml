@@ -2,8 +2,8 @@ id: 'sight:fgb:101156'
 title: 'Камень у гонар Канстытуцыі 3 мая 1791 г.'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 meta:
     fgb:
         post_id: '101156'

@@ -2,8 +2,8 @@ id: 'sight:fgb:97447'
 title: Федорин-2
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:103187'
 title: 'Красная гара (Красная горка)'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 meta:
     fgb:
         post_id: '103187'

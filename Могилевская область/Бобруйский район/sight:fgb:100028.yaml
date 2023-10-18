@@ -2,8 +2,8 @@ id: 'sight:fgb:100028'
 title: Камень-Кравец
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 meta:
     fgb:
         post_id: '100028'

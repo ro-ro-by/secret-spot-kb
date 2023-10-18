@@ -2,8 +2,8 @@ id: 'sight:fgb:98661'
 title: 'Богушевские старинные дубы (Дубы черешчатые в Софиевском лесничестве)'
 type: forest
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 forest:
     dominated_type: oak
 location:

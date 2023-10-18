@@ -2,8 +2,8 @@ id: 'sight:fgb:92247'
 title: Серебрянка
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Рогачевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:rgch'
 location:
     type: point
     coordinates:

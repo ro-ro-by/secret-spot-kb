@@ -2,8 +2,8 @@ id: 'sight:fgb:78389'
 title: Преображенский
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '78389'

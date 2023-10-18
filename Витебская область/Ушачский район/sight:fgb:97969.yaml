@@ -2,8 +2,8 @@ id: 'sight:fgb:97969'
 title: 'Долина реки Ушача'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 meta:
     fgb:
         post_id: '97969'

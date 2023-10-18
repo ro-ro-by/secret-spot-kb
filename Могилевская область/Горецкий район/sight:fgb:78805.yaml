@@ -2,8 +2,8 @@ id: 'sight:fgb:78805'
 title: 'На Циолковского (На 13-й Аэропортовской)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:78137'
 title: '2 святых колодца'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '78137'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103895'
 title: 'Гара Папоўка'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шумилинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shmln'
 meta:
     fgb:
         post_id: '103895'

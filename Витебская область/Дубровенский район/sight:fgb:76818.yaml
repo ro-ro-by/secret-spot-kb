@@ -2,8 +2,8 @@ id: 'sight:fgb:76818'
 title: 'Бассейн реки Чижовка'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Дубровенский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dbrn'
 meta:
     fgb:
         post_id: '76818'

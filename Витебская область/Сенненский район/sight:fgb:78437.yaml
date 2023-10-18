@@ -2,8 +2,8 @@ id: 'sight:fgb:78437'
 title: 'Родник 3'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 location:
     type: point
     coordinates:

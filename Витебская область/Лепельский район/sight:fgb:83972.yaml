@@ -2,8 +2,8 @@ id: 'sight:fgb:83972'
 title: Родник-1
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '83972'

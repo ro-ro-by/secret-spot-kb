@@ -2,8 +2,8 @@ id: 'sight:fgb:75965'
 title: Сергеевичский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 meta:
     fgb:
         post_id: '75965'

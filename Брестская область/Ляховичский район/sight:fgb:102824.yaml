@@ -2,8 +2,8 @@ id: 'sight:fgb:102824'
 title: 'Касцелішча (Касцельная гара)'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '102824'

@@ -2,8 +2,8 @@ id: 'sight:fgb:102670'
 title: 'Цэркаўка (Царкавішча)'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '102670'

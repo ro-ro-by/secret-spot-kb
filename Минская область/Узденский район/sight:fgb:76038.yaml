@@ -2,8 +2,8 @@ id: 'sight:fgb:76038'
 title: 'Валуны Каменские (Чертов камень, Камяні Баграціёна - акамянелы дом)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 meta:
     fgb:
         post_id: '76038'

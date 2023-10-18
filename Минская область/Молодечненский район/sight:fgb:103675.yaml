@@ -2,8 +2,8 @@ id: 'sight:fgb:103675'
 title: 'Гара Маяк'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '103675'

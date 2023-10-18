@@ -2,8 +2,8 @@ id: 'sight:fgb:100829'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 meta:
     fgb:
         post_id: '100829'

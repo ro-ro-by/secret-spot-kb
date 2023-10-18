@@ -2,8 +2,8 @@ id: 'sight:fgb:75957'
 title: 'Лесопарк Альба'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

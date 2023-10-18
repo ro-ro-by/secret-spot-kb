@@ -2,8 +2,8 @@ id: 'sight:fgb:97095'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 meta:
     fgb:
         post_id: '97095'

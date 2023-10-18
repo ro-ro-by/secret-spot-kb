@@ -2,8 +2,8 @@ id: 'sight:fgb:74999'
 title: 'Дендрологический сад имени И. И. Зотова (Сад Иванов хутор)'
 type: park
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 location:
     type: point
     coordinates:

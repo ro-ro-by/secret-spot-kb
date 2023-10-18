@@ -2,8 +2,8 @@ id: 'sight:fgb:103812'
 title: Царкавішча
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '103812'

@@ -2,8 +2,8 @@ id: 'sight:fgb:78550'
 title: Химлива
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '78550'

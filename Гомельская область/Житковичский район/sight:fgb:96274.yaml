@@ -2,8 +2,8 @@ id: 'sight:fgb:96274'
 title: 'Лечебный камень'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Житковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhtk'
 meta:
     fgb:
         post_id: '96274'

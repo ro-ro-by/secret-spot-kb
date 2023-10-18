@@ -2,8 +2,8 @@ id: 'sight:fgb:75817'
 title: 'Родники Святые криницы'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 location:
     type: point
     coordinates:

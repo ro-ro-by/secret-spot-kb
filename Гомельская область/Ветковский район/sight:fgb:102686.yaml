@@ -2,8 +2,8 @@ id: 'sight:fgb:102686'
 title: 'Царкавішча (Чортава гара, Чэнчыкава гара, Серыкава гара)'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '102686'

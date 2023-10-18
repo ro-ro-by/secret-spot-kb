@@ -2,8 +2,8 @@ id: 'sight:fgb:74979'
 title: Суденецкое
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '74979'

@@ -2,8 +2,8 @@ id: 'sight:fgb:92240'
 title: 'У Яна (Яна Купала, Щитно, Лососин)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 location:
     type: point
     coordinates:

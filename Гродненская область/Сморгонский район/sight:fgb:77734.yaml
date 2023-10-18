@@ -2,8 +2,8 @@ id: 'sight:fgb:77734'
 title: 'Валун Каменицкий'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

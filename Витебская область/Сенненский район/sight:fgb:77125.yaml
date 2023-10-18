@@ -2,8 +2,8 @@ id: 'sight:fgb:77125'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 meta:
     fgb:
         post_id: '77125'

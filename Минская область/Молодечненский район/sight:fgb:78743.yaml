@@ -2,8 +2,8 @@ id: 'sight:fgb:78743'
 title: 'Таёжный тупик'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:98766'
 title: 'Аллея пана Медведского'
 type: alley
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 meta:
     fgb:
         post_id: '98766'

@@ -2,8 +2,8 @@ id: 'sight:fgb:99636'
 title: 'Парк Глубокое'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 meta:
     fgb:
         post_id: '99636'

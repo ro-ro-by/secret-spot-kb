@@ -2,8 +2,8 @@ id: 'sight:fgb:96065'
 title: Лозоровщина
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '96065'

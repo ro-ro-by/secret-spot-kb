@@ -2,8 +2,8 @@ id: 'sight:fgb:101773'
 title: 'Ленинский лес'
 type: geoglyph
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивановский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivnv'
 location:
     type: point
     coordinates:

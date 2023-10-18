@@ -2,8 +2,8 @@ id: 'sight:fgb:103894'
 title: 'Гара са Скарбам'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '103894'

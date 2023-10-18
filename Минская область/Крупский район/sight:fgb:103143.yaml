@@ -2,8 +2,8 @@ id: 'sight:fgb:103143'
 title: 'Капказ (Каўказ)'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 meta:
     fgb:
         post_id: '103143'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74770'
 title: 'Демидова криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Глусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hlsk'
 meta:
     fgb:
         post_id: '74770'

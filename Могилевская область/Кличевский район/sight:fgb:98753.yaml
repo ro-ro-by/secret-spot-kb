@@ -2,8 +2,8 @@ id: 'sight:fgb:98753'
 title: 'На Кривоноса'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '98753'

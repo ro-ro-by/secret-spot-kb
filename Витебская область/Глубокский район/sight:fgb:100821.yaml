@@ -2,8 +2,8 @@ id: 'sight:fgb:100821'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '100821'

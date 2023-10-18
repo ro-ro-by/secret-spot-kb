@@ -2,8 +2,8 @@ id: 'sight:fgb:96042'
 title: Дуб-великан
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 tree:
     type: oak
 meta:

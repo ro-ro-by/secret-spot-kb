@@ -2,8 +2,8 @@ id: 'sight:fgb:100852'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 meta:
     fgb:
         post_id: '100852'

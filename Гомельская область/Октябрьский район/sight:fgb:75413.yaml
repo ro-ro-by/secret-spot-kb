@@ -2,8 +2,8 @@ id: 'sight:fgb:75413'
 title: 'Сосновая роща'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Октябрьский район'
+    region: 'region:gomel'
+    subregion: 'subregion:akt'
 forest:
     dominated_type: pine
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:98965'
 title: Полесье-3
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 location:
     type: point
     coordinates:

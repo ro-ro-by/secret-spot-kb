@@ -2,8 +2,8 @@ id: 'sight:fgb:96294'
 title: 'Парк Стошаны'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пинский район'
+    region: 'region:brest'
+    subregion: 'subregion:pnsk'
 location:
     type: point
     coordinates:

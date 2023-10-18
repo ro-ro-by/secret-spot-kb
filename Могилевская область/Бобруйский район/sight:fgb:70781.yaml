@@ -2,8 +2,8 @@ id: 'sight:fgb:70781'
 title: Дуб-великан
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 location:
     type: point
     coordinates:

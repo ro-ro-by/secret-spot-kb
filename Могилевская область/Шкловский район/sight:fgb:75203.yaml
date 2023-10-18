@@ -2,8 +2,8 @@ id: 'sight:fgb:75203'
 title: 'Отдельно стоящие дубы'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Шкловский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:shkl'
 forest:
     dominated_type: oak
 location:

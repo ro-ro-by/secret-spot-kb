@@ -2,8 +2,8 @@ id: 'sight:fgb:104043'
 title: Камень-лекарь
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 meta:
     fgb:
         post_id: '104043'

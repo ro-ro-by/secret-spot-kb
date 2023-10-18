@@ -2,8 +2,8 @@ id: 'sight:fgb:76666'
 title: Березинский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '76666'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101071'
 title: Капавішча
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 meta:
     fgb:
         post_id: '101071'

@@ -2,8 +2,8 @@ id: 'sight:fgb:86895'
 title: Святой
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Бешенковичский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:bshn'
 meta:
     fgb:
         post_id: '86895'

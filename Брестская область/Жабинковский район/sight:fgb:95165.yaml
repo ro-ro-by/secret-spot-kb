@@ -2,8 +2,8 @@ id: 'sight:fgb:95165'
 title: 'Памятник природы парк «Здитовские дубы»'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 location:
     type: point
     coordinates:

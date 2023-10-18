@@ -2,8 +2,8 @@ id: 'sight:fgb:75992'
 title: 'Парк Листопадовичи'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Солигорский район'
+    region: 'region:minsk'
+    subregion: 'subregion:slg'
 location:
     type: point
     coordinates:

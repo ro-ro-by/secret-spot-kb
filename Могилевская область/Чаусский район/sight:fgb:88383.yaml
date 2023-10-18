@@ -2,8 +2,8 @@ id: 'sight:fgb:88383'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 meta:
     fgb:
         post_id: '88383'

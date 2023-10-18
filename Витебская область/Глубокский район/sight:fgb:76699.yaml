@@ -2,8 +2,8 @@ id: 'sight:fgb:76699'
 title: 'Медведковский оз (Мядзведкаўскі оз)'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '76699'

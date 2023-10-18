@@ -2,8 +2,8 @@ id: 'sight:fgb:95455'
 title: Ельня
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '95455'

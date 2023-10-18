@@ -2,8 +2,8 @@ id: 'sight:fgb:95765'
 title: 'Дуб Наполеона'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 tree:
     type: oak
 meta:

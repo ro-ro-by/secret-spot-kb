@@ -2,8 +2,8 @@ id: 'sight:fgb:98922'
 title: Золотеево-1
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '98922'

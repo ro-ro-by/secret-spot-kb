@@ -2,8 +2,8 @@ id: 'sight:fgb:83979'
 title: 'Исток Закованки'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Калинковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:klnk'
 meta:
     fgb:
         post_id: '83979'

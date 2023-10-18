@@ -2,8 +2,8 @@ id: 'sight:fgb:98951'
 title: Белое
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Рогачевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:rgch'
 meta:
     fgb:
         post_id: '98951'

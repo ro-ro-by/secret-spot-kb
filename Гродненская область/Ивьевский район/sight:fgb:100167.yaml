@@ -2,8 +2,8 @@ id: 'sight:fgb:100167'
 title: 'Надмагілле з паўсферай'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 meta:
     fgb:
         post_id: '100167'

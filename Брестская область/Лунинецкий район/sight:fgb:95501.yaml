@@ -2,8 +2,8 @@ id: 'sight:fgb:95501'
 title: Борский
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Лунинецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:lnn'
 meta:
     fgb:
         post_id: '95501'

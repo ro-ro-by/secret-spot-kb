@@ -2,8 +2,8 @@ id: 'sight:fgb:78736'
 title: 'Парк Новое Поле'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 meta:
     fgb:
         post_id: '78736'

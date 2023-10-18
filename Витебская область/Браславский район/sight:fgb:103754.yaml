@@ -2,8 +2,8 @@ id: 'sight:fgb:103754'
 title: 'Замак Боханок'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '103754'

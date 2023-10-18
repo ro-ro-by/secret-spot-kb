@@ -2,8 +2,8 @@ id: 'sight:fgb:75788'
 title: 'Пойма реки Сож'
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '75788'

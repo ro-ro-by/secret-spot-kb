@@ -2,8 +2,8 @@ id: 'sight:fgb:76066'
 title: 'Вековой дуб'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 location:
     type: point
     coordinates:

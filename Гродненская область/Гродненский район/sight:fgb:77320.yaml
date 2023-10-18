@@ -2,8 +2,8 @@ id: 'sight:fgb:77320'
 title: 'Обнажение Принеманское-1'
 type: outcrop
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '77320'

@@ -2,8 +2,8 @@ id: 'sight:fgb:97753'
 title: Камень-кравец
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '97753'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77086'
 title: Нещердо
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '77086'

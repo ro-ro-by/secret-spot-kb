@@ -2,8 +2,8 @@ id: 'sight:fgb:77688'
 title: Святой
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Свислочский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:svsl'
 location:
     type: point
     coordinates:

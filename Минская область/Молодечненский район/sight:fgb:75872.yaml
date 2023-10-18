@@ -2,8 +2,8 @@ id: 'sight:fgb:75872'
 title: 'Польские культуры лиственницы европейской'
 type: forest
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 forest:
     dominated_type: larch
 location:

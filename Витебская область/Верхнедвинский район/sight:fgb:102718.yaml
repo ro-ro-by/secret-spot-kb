@@ -2,8 +2,8 @@ id: 'sight:fgb:102718'
 title: 'Батурава (Батурына) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '102718'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74548'
 title: 'Дружиловичский бор (Веймутовы сосны)'
 type: forest
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивановский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivnv'
 forest:
     dominated_type: pine
 location:

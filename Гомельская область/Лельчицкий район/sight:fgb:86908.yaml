@@ -2,8 +2,8 @@ id: 'sight:fgb:86908'
 title: Франчиха
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 location:
     type: point
     coordinates:

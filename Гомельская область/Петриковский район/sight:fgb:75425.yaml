@@ -2,8 +2,8 @@ id: 'sight:fgb:75425'
 title: Миргородский
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '75425'

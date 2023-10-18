@@ -2,8 +2,8 @@ id: 'sight:fgb:74572'
 title: 'Тумин (Святой источник в честь святого велекомученника и целителя Пантелеимона)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 location:
     type: point
     coordinates:

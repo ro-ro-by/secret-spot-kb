@@ -2,8 +2,8 @@ id: 'sight:fgb:77171'
 title: 'Петра и Павла'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 location:
     type: point
     coordinates:

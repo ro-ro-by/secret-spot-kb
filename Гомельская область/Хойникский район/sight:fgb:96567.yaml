@@ -2,8 +2,8 @@ id: 'sight:fgb:96567'
 title: 'Парк Борисовщина'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Хойникский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hnk'
 meta:
     fgb:
         post_id: '96567'

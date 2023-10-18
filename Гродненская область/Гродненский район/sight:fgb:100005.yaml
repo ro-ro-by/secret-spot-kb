@@ -2,8 +2,8 @@ id: 'sight:fgb:100005'
 title: Дзед
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '100005'

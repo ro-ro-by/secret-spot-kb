@@ -2,8 +2,8 @@ id: 'sight:fgb:101051'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '101051'

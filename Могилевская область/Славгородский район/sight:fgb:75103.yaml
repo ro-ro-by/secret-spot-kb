@@ -2,8 +2,8 @@ id: 'sight:fgb:75103'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Славгородский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:slgrd'
 meta:
     fgb:
         post_id: '75103'

@@ -2,8 +2,8 @@ id: 'sight:fgb:78696'
 title: 'Завишинская вековая липовая аллея'
 type: alley
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Логойский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lgsk'
 location:
     type: point
     coordinates:

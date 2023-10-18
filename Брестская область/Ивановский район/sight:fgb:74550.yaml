@@ -2,8 +2,8 @@ id: 'sight:fgb:74550'
 title: 'Сосна Веймутова'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивановский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivnv'
 location:
     type: point
     coordinates:

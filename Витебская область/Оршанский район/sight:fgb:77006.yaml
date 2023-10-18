@@ -2,8 +2,8 @@ id: 'sight:fgb:77006'
 title: 'Мурашкина криница'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

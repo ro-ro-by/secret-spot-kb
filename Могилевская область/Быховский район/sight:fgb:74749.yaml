@@ -2,8 +2,8 @@ id: 'sight:fgb:74749'
 title: Барсуки
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 meta:
     fgb:
         post_id: '74749'

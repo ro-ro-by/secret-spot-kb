@@ -2,8 +2,8 @@ id: 'sight:fgb:102905'
 title: Гарадзішча
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 meta:
     fgb:
         post_id: '102905'

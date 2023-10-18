@@ -2,8 +2,8 @@ id: 'sight:fgb:101738'
 title: 'Вековые дубы в окрестностях деревни Миклашовцы'
 type: forest
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 forest:
     dominated_type: oak
 location:

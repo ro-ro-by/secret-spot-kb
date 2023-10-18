@@ -2,8 +2,8 @@ id: 'sight:fgb:76420'
 title: 'Парк Огаревичи'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '76420'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77079'
 title: 'Комплекс камянёў'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '77079'

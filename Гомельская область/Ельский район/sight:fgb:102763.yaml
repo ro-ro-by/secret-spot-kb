@@ -2,8 +2,8 @@ id: 'sight:fgb:102763'
 title: Горкі
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 meta:
     fgb:
         post_id: '102763'

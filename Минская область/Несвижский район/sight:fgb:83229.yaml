@@ -2,8 +2,8 @@ id: 'sight:fgb:83229'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

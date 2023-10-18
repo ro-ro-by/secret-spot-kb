@@ -2,8 +2,8 @@ id: 'sight:fgb:101144'
 title: Дайніца
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '101144'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77827'
 title: 'Родник Чертовое окно'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '77827'

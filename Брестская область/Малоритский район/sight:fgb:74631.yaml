@@ -2,8 +2,8 @@ id: 'sight:fgb:74631'
 title: 'Островные ельники Малоритские (карпатская раса)'
 type: forest
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 forest:
     dominated_type: spruce
 location:

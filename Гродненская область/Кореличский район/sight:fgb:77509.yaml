@@ -2,8 +2,8 @@ id: 'sight:fgb:77509'
 title: 'Конгломераты Смольчицкие'
 type: сonglomerate
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Кореличский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:krl'
 meta:
     fgb:
         post_id: '77509'

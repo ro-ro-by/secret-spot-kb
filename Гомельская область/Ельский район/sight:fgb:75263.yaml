@@ -2,8 +2,8 @@ id: 'sight:fgb:75263'
 title: Распутка
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 meta:
     fgb:
         post_id: '75263'

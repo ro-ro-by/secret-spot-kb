@@ -2,8 +2,8 @@ id: 'sight:fgb:76704'
 title: 'Зеленая Дубрава'
 type: forest
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 forest:
     dominated_type: oak
     types:

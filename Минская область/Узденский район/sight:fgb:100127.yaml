@@ -2,8 +2,8 @@ id: 'sight:fgb:100127'
 title: 'Божы камень (Камень Ісуса Хрыста)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 meta:
     fgb:
         post_id: '100127'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77108'
 title: 'Шатанскі камень Расонскі (Чортаў камень)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '77108'

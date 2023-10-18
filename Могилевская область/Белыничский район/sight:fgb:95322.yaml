@@ -2,8 +2,8 @@ id: 'sight:fgb:95322'
 title: Нежково
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 location:
     type: point
     coordinates:

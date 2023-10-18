@@ -2,8 +2,8 @@ id: 'sight:fgb:88098'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '88098'

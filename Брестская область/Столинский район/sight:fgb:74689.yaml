@@ -2,8 +2,8 @@ id: 'sight:fgb:74689'
 title: 'Старинный парк «Новобережновский»'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 location:
     type: point
     coordinates:

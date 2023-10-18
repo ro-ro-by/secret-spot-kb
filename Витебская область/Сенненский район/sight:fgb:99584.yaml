@@ -2,8 +2,8 @@ id: 'sight:fgb:99584'
 title: 'Свяцілішча (новастворанае) са стодам (старажытным).'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Сенненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:snn'
 meta:
     fgb:
         post_id: '99584'

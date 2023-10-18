@@ -2,8 +2,8 @@ id: 'sight:fgb:76829'
 title: 'Царь-дуб Тадулинский'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 location:
     type: point
     coordinates:

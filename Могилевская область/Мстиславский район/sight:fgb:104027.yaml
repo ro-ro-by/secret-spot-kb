@@ -2,8 +2,8 @@ id: 'sight:fgb:104027'
 title: 'Спорительница хлебов'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 meta:
     fgb:
         post_id: '104027'

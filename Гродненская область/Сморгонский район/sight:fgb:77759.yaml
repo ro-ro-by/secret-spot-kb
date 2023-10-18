@@ -2,8 +2,8 @@ id: 'sight:fgb:77759'
 title: 'Чертов Мост (Чертов Перевоз, Дьявольский мост)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 meta:
     fgb:
         post_id: '77759'

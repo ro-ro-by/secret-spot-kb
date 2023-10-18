@@ -2,8 +2,8 @@ id: 'sight:fgb:96247'
 title: Надмогилье-жернова
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '96247'

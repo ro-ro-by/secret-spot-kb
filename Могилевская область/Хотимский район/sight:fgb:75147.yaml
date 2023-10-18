@@ -2,8 +2,8 @@ id: 'sight:fgb:75147'
 title: 'Отдельно стоящий дуб'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 location:
     type: point
     coordinates:

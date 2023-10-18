@@ -2,8 +2,8 @@ id: 'sight:fgb:75403'
 title: Криничка
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Наровлянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:nrvl'
 meta:
     fgb:
         post_id: '75403'

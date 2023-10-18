@@ -2,8 +2,8 @@ id: 'sight:fgb:102364'
 title: 'Гара Свянціца (Гудзячая)'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '102364'

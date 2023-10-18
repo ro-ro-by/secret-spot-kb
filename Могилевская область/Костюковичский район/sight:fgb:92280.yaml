@@ -2,8 +2,8 @@ id: 'sight:fgb:92280'
 title: 'Целителя Пантелеймона'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 location:
     type: point
     coordinates:

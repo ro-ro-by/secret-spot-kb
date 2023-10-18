@@ -2,8 +2,8 @@ id: 'sight:fgb:75109'
 title: 'Каменная баба из Пропойска (утеряна)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Славгородский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:slgrd'
 meta:
     fgb:
         post_id: '75109'

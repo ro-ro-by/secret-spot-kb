@@ -2,8 +2,8 @@ id: 'sight:fgb:74610'
 title: 'Богоявленский источник'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 location:
     type: point
     coordinates:

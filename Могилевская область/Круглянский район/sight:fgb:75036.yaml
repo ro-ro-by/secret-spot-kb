@@ -2,8 +2,8 @@ id: 'sight:fgb:75036'
 title: 'На Победе'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Круглянский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krg'
 location:
     type: point
     coordinates:

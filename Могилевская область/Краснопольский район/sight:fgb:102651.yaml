@@ -2,8 +2,8 @@ id: 'sight:fgb:102651'
 title: 'Касцёл (Царкавішча)'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 meta:
     fgb:
         post_id: '102651'

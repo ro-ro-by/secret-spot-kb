@@ -2,8 +2,8 @@ id: 'sight:fgb:77352'
 title: 'Тростянка - Маргаль'
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 meta:
     fgb:
         post_id: '77352'

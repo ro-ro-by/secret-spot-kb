@@ -2,8 +2,8 @@ id: 'sight:fgb:74697'
 title: 'Средняя Припять'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 meta:
     fgb:
         post_id: '74697'

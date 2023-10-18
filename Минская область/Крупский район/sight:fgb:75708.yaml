@@ -2,8 +2,8 @@ id: 'sight:fgb:75708'
 title: Черневичский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 meta:
     fgb:
         post_id: '75708'

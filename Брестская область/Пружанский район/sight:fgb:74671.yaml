@@ -2,8 +2,8 @@ id: 'sight:fgb:74671'
 title: 'Участок культуры сосны Веймутовой'
 type: forest
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 forest:
     dominated_type: pine
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75884'
 title: 'У больницы-2'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Кормянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:krm'
 location:
     type: point
     coordinates:

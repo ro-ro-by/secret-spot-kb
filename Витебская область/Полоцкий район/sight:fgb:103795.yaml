@@ -2,8 +2,8 @@ id: 'sight:fgb:103795'
 title: 'Гара Ізмачка'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '103795'

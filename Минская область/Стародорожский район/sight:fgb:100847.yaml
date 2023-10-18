@@ -2,8 +2,8 @@ id: 'sight:fgb:100847'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Стародорожский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stdrg'
 meta:
     fgb:
         post_id: '100847'

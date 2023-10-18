@@ -2,8 +2,8 @@ id: 'sight:fgb:102421'
 title: Лубянка-2
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:101155'
 title: 'Камень са знакамі на магіле разбойнікаў Волака і Вісека'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '101155'

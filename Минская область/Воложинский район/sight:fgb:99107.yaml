@@ -2,8 +2,8 @@ id: 'sight:fgb:99107'
 title: 'Истоки ручья'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '99107'

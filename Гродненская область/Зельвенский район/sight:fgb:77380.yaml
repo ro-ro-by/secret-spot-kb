@@ -2,8 +2,8 @@ id: 'sight:fgb:77380'
 title: 'Заколонский валун с ямками и группой камней'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

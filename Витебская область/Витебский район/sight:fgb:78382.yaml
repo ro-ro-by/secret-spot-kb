@@ -2,8 +2,8 @@ id: 'sight:fgb:78382'
 title: Родник-1
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Витебский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vtb'
 meta:
     fgb:
         post_id: '78382'

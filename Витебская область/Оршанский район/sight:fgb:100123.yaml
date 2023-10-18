@@ -2,8 +2,8 @@ id: 'sight:fgb:100123'
 title: 'Камяні ў рэчышчы Дняпра'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 meta:
     fgb:
         post_id: '100123'

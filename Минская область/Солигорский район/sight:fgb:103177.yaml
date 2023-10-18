@@ -2,8 +2,8 @@ id: 'sight:fgb:103177'
 title: 'Сінія горкі'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Солигорский район'
+    region: 'region:minsk'
+    subregion: 'subregion:slg'
 meta:
     fgb:
         post_id: '103177'

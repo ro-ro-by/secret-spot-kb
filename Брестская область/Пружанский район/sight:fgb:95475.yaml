@@ -2,8 +2,8 @@ id: 'sight:fgb:95475'
 title: 'Беловежская пуща'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '95475'

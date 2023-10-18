@@ -2,8 +2,8 @@ id: 'sight:fgb:76670'
 title: 'Камень с высеченным крестом'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '76670'

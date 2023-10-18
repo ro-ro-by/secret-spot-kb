@@ -2,8 +2,8 @@ id: 'sight:fgb:99266'
 title: Аэродромный
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 location:
     type: point
     coordinates:

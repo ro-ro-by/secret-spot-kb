@@ -2,8 +2,8 @@ id: 'sight:fgb:97295'
 title: 'Парк Князево'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '97295'

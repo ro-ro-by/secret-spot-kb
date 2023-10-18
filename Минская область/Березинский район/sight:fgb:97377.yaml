@@ -2,8 +2,8 @@ id: 'sight:fgb:97377'
 title: Цагельня
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 location:
     type: point
     coordinates:

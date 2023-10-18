@@ -2,8 +2,8 @@ id: 'sight:fgb:99991'
 title: 'Архаічная крапільніца'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '99991'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101038'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '101038'

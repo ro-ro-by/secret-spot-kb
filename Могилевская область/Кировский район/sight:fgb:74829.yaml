@@ -2,8 +2,8 @@ id: 'sight:fgb:74829'
 title: 'Святой Троицы (Живоносная криница)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кировский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsk'
 location:
     type: point
     coordinates:

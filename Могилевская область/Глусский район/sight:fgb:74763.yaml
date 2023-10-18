@@ -2,8 +2,8 @@ id: 'sight:fgb:74763'
 title: 'Дубрава (пойменная)'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Глусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hlsk'
 forest:
     dominated_type: oak
     types:

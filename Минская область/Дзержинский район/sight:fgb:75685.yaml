@@ -2,8 +2,8 @@ id: 'sight:fgb:75685'
 title: Гарбузы
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 location:
     type: point
     coordinates:

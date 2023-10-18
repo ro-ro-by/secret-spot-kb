@@ -2,8 +2,8 @@ id: 'sight:fgb:77058'
 title: 'Холм Гора Маяк'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75421'
 title: 'Камень с надписью «Року 1595 месяца іюля 13 дня памяни г. и Андрэя Каліны святое Андрэя»'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 location:
     type: point
     coordinates:

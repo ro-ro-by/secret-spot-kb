@@ -2,8 +2,8 @@ id: 'sight:fgb:74973'
 title: 'Биордовское лесонасаждение'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:98352'
 title: 'Качановичи-2 (исток Уши)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

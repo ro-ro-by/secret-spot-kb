@@ -2,8 +2,8 @@ id: 'sight:fgb:77789'
 title: 'Валун Скорожитский (Валун в д. Скоржики)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:103768'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пинский район'
+    region: 'region:brest'
+    subregion: 'subregion:pnsk'
 meta:
     fgb:
         post_id: '103768'

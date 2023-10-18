@@ -2,8 +2,8 @@ id: 'sight:fgb:75157'
 title: 'Роща в урочище  Елово'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 forest:
     dominated_type: pine
 location:

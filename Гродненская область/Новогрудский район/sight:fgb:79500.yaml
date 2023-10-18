@@ -2,8 +2,8 @@ id: 'sight:fgb:79500'
 title: Буднянский
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 meta:
     fgb:
         post_id: '79500'

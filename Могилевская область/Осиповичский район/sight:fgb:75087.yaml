@@ -4,8 +4,8 @@ type: forest
 forest:
     dominated_type: oak
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

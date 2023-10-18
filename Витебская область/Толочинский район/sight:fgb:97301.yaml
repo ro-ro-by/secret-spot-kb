@@ -2,8 +2,8 @@ id: 'sight:fgb:97301'
 title: 'Парк Забайкал'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 meta:
     fgb:
         post_id: '97301'

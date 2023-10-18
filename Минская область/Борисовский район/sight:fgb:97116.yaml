@@ -2,8 +2,8 @@ id: 'sight:fgb:97116'
 title: 'Корытообразная кропильница'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 meta:
     fgb:
         post_id: '97116'

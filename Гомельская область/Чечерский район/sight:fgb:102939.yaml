@@ -2,8 +2,8 @@ id: 'sight:fgb:102939'
 title: 'Чортава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '102939'

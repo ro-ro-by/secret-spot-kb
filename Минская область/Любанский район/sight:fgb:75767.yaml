@@ -2,8 +2,8 @@ id: 'sight:fgb:75767'
 title: 'Дерево липы мелколистной в д. Юшковичи'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 location:
     type: point
     coordinates:

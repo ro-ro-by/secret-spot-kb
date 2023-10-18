@@ -2,8 +2,8 @@ id: 'sight:fgb:96561'
 title: 'Камень Міцкевіча'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 location:
     type: point
     coordinates:

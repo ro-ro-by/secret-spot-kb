@@ -2,8 +2,8 @@ id: 'sight:fgb:77167'
 title: 'Святого Ильи'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 location:
     type: point
     coordinates:

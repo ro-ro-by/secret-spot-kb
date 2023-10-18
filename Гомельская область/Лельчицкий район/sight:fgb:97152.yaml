@@ -2,8 +2,8 @@ id: 'sight:fgb:97152'
 title: 'Каменная баба (Дзевачка)'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 location:
     type: point
     coordinates:

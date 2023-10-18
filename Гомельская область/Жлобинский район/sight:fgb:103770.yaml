@@ -2,8 +2,8 @@ id: 'sight:fgb:103770'
 title: 'Лысая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '103770'

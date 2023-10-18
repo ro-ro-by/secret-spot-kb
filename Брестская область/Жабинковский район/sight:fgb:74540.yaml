@@ -2,8 +2,8 @@ id: 'sight:fgb:74540'
 title: 'Дуб-великан "Атечизненский"'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 tree:
     type: oak
 meta:

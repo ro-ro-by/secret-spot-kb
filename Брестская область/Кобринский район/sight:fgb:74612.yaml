@@ -2,8 +2,8 @@ id: 'sight:fgb:74612'
 title: Званец
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '74612'

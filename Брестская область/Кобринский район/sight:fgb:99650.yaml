@@ -2,8 +2,8 @@ id: 'sight:fgb:99650'
 title: 'Парк Молочевщина'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '99650'

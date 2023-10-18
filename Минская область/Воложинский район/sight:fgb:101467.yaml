@@ -2,8 +2,8 @@ id: 'sight:fgb:101467'
 title: 'Старинный дуб в окрестности деревни Боровиковщина (Дуб в Першайском лесничестве)'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76055'
 title: 'След Богородицы (Святой камень, след Магдаленки, камень-крэсла)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 meta:
     fgb:
         post_id: '76055'

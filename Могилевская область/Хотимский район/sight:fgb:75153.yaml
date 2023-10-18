@@ -2,8 +2,8 @@ id: 'sight:fgb:75153'
 title: 'Отдельно стоящая лиственница'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 location:
     type: point
     coordinates:

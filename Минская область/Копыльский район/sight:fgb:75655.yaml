@@ -2,8 +2,8 @@ id: 'sight:fgb:75655'
 title: 'Парк Грозов'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 meta:
     fgb:
         post_id: '75655'

@@ -2,8 +2,8 @@ id: 'sight:fgb:83986'
 title: 'Ясачка (Песчанка)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Светлогорский район'
+    region: 'region:gomel'
+    subregion: 'subregion:svlg'
 location:
     type: point
     coordinates:

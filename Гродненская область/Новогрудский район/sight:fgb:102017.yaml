@@ -2,8 +2,8 @@ id: 'sight:fgb:102017'
 title: Дуб
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 tree:
     type: oak
 meta:

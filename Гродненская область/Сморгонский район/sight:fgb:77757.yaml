@@ -2,8 +2,8 @@ id: 'sight:fgb:77757'
 title: 'Сутьковские камлыги конгломератов (Сутьковские глыбы конгломератов)'
 type: сonglomerate
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

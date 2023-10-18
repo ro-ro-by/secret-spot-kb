@@ -2,8 +2,8 @@ id: 'sight:fgb:75426'
 title: 'Участок уникальной дубравы Речицкий'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 forest:
     dominated_type: oak
 meta:

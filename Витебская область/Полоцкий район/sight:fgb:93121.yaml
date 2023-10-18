@@ -2,8 +2,8 @@ id: 'sight:fgb:93121'
 title: Пукановка-2
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 location:
     type: point
     coordinates:

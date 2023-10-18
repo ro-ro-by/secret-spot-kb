@@ -2,8 +2,8 @@ id: 'sight:fgb:83244'
 title: Белково-2
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 meta:
     fgb:
         post_id: '83244'

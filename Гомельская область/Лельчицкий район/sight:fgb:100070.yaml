@@ -2,8 +2,8 @@ id: 'sight:fgb:100070'
 title: 'Чорны камень (Камень-Дзяўчынка)'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 meta:
     fgb:
         post_id: '100070'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96568'
 title: 'Парк Рудаков'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Хойникский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hnk'
 meta:
     fgb:
         post_id: '96568'

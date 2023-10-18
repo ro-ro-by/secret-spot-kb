@@ -2,8 +2,8 @@ id: 'sight:fgb:75447'
 title: 'Родник и Проща'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Светлогорский район'
+    region: 'region:gomel'
+    subregion: 'subregion:svlg'
 location:
     type: point
     coordinates:

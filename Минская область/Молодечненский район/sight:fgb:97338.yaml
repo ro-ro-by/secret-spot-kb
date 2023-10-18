@@ -2,8 +2,8 @@ id: 'sight:fgb:97338'
 title: Вяз-старожил
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 location:
     type: point
     coordinates:

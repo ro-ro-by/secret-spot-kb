@@ -2,8 +2,8 @@ id: 'sight:fgb:74497'
 title: 'Старинный парк «Старые Пески»'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Берёзовский район'
+    region: 'region:brest'
+    subregion: 'subregion:brz'
 location:
     type: point
     coordinates:

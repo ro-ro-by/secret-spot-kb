@@ -2,8 +2,8 @@ id: 'sight:fgb:100816'
 title: 'След Святога'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Круглянский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krg'
 meta:
     fgb:
         post_id: '100816'

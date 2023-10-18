@@ -2,8 +2,8 @@ id: 'sight:fgb:101141'
 title: 'Крапільніца каля храма'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '101141'

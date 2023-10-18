@@ -2,8 +2,8 @@ id: 'sight:fgb:79465'
 title: 'Озёрский (Березина'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 location:
     type: point
     coordinates:

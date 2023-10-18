@@ -2,8 +2,8 @@ id: 'sight:fgb:76032'
 title: 'Иосифа и Камилии (Рубежевичи, Гореликов)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:97964'
 title: 'Каменны крыж'
 type: stone
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '97964'

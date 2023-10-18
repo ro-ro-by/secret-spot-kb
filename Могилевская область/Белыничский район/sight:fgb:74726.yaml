@@ -2,8 +2,8 @@ id: 'sight:fgb:74726'
 title: 'Святая криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 location:
     type: point
     coordinates:

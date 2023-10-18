@@ -2,8 +2,8 @@ id: 'sight:fgb:78513'
 title: 'Живец (Панский)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:93537'
 title: 'Свидичи (Криничка)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 location:
     type: point
     coordinates:

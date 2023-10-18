@@ -2,8 +2,8 @@ id: 'sight:fgb:77328'
 title: 'Геологический конгломерат'
 type: сonglomerate
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 meta:
     fgb:
         post_id: '77328'

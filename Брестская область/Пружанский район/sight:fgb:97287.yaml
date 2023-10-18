@@ -2,8 +2,8 @@ id: 'sight:fgb:97287'
 title: 'Парк «Близная»'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 location:
     type: point
     coordinates:

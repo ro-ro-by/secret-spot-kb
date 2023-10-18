@@ -2,8 +2,8 @@ id: 'sight:fgb:76691'
 title: 'Гряда Горкинская (Горкінскі оз)'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:88095'
 title: Святой
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

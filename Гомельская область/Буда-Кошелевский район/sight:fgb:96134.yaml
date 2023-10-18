@@ -2,8 +2,8 @@ id: 'sight:fgb:96134'
 title: Соловьёвское
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 meta:
     fgb:
         post_id: '96134'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77354'
 title: Молчадка
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 location:
     type: point
     coordinates:

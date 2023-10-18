@@ -2,8 +2,8 @@ id: 'sight:fgb:83982'
 title: Осов-1
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:103912'
 title: 'Замкавая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 meta:
     fgb:
         post_id: '103912'

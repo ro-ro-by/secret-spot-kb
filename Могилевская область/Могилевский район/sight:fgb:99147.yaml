@@ -2,8 +2,8 @@ id: 'sight:fgb:99147'
 title: Печерский
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Могилевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mhl'
 meta:
     fgb:
         post_id: '99147'

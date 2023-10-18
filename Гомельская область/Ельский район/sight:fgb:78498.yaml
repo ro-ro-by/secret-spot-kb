@@ -2,8 +2,8 @@ id: 'sight:fgb:78498'
 title: 'Княжий колодец'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 meta:
     fgb:
         post_id: '78498'

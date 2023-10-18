@@ -2,8 +2,8 @@ id: 'sight:fgb:98575'
 title: 'Парк Фатынь'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '98575'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96983'
 title: 'Парк Черноручье'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лиозненский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lzn'
 meta:
     fgb:
         post_id: '96983'

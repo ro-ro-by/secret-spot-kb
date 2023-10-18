@@ -2,8 +2,8 @@ id: 'sight:fgb:75946'
 title: Сцюдянец
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '75946'

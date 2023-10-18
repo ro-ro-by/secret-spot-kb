@@ -2,8 +2,8 @@ id: 'sight:fgb:96212'
 title: 'Ветковский парк'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '96212'

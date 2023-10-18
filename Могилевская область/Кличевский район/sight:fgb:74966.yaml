@@ -2,8 +2,8 @@ id: 'sight:fgb:74966'
 title: 'Мокрое (Мокрое-1 + Мокрое-2)'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '74966'

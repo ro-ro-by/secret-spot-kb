@@ -2,8 +2,8 @@ id: 'sight:fgb:103776'
 title: 'Пятрова горка'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 meta:
     fgb:
         post_id: '103776'

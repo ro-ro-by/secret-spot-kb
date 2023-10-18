@@ -2,8 +2,8 @@ id: 'sight:fgb:75620'
 title: Ивенчик
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '75620'

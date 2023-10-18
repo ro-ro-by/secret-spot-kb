@@ -2,8 +2,8 @@ id: 'sight:fgb:77702'
 title: 'Гора Стражынае'
 type: hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '77702'

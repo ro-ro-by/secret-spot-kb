@@ -2,8 +2,8 @@ id: 'sight:fgb:75119'
 title: 'Лукашова криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Славгородский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:slgrd'
 location:
     type: point
     coordinates:

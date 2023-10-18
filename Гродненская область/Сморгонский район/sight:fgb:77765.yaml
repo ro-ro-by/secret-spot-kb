@@ -2,8 +2,8 @@ id: 'sight:fgb:77765'
 title: 'Родник около хутора Новая Рудня'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

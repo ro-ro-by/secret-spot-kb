@@ -2,8 +2,8 @@ id: 'sight:fgb:75290'
 title: 'Дуб черешчатый Данилевичский'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 location:
     type: point
     coordinates:

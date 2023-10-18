@@ -2,8 +2,8 @@ id: 'sight:fgb:101146'
 title: 'Камень з талеркападобнымі паглыбленнямі'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '101146'

@@ -2,8 +2,8 @@ id: 'sight:fgb:76169'
 title: 'Родник Лазенки (Лазёнки, Сероводородный, Смердонские воды, Видзовский)'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 location:
     type: point
     coordinates:

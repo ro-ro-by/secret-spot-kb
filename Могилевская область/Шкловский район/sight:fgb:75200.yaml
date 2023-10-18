@@ -2,8 +2,8 @@ id: 'sight:fgb:75200'
 title: 'Межледниковое обнажение Нижнинский ров'
 type: outcrop
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Шкловский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:shkl'
 meta:
     fgb:
         post_id: '75200'

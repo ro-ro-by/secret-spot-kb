@@ -2,8 +2,8 @@ id: 'sight:fgb:75533'
 title: 'Валуны Быки'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 location:
     type: point
     coordinates:

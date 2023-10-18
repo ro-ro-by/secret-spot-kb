@@ -2,8 +2,8 @@ id: 'sight:fgb:77701'
 title: 'Борковский концовоморенный массив'
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '77701'

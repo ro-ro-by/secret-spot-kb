@@ -2,8 +2,8 @@ id: 'sight:fgb:95746'
 title: Царь-дуб
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 tree:
     type: oak
 meta:

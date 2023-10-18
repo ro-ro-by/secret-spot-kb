@@ -2,8 +2,8 @@ id: 'sight:fgb:93523'
 title: Задний-1
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:77767'
 title: 'Боровая Мельница (Крыница)'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

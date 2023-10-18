@@ -2,8 +2,8 @@ id: 'sight:fgb:96448'
 title: Ленчино
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 meta:
     fgb:
         post_id: '96448'

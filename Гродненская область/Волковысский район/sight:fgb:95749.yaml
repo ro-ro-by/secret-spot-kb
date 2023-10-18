@@ -2,8 +2,8 @@ id: 'sight:fgb:95749'
 title: 'Святой дуб'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 tree:
     type: oak
 meta:

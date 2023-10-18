@@ -2,8 +2,8 @@ id: 'sight:fgb:75284'
 title: 'Пеница (Рождества Богородицы)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Калинковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:klnk'
 location:
     type: point
     coordinates:

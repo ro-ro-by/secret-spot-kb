@@ -2,8 +2,8 @@ id: 'sight:fgb:96581'
 title: 'Парк Перковичи'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Дрогичинский район'
+    region: 'region:brest'
+    subregion: 'subregion:drh'
 meta:
     fgb:
         post_id: '96581'

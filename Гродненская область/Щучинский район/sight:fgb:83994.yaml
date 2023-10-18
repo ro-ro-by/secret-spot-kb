@@ -2,8 +2,8 @@ id: 'sight:fgb:83994'
 title: 'Родник у дворца'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 location:
     type: point
     coordinates:

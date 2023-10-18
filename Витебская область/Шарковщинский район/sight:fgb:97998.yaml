@@ -2,8 +2,8 @@ id: 'sight:fgb:97998'
 title: 'Парк Подорощино'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '97998'

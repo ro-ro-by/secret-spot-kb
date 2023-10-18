@@ -2,8 +2,8 @@ id: 'sight:fgb:78501'
 title: 'Белая крыница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Кормянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:krm'
 meta:
     fgb:
         post_id: '78501'

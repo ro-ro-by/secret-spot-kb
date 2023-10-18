@@ -2,8 +2,8 @@ id: 'sight:fgb:75002'
 title: 'Костел (Ясеневый гай)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Краснопольский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsnp'
 location:
     type: point
     coordinates:

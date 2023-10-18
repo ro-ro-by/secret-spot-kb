@@ -2,8 +2,8 @@ id: 'sight:fgb:75973'
 title: 'Акамянелая вёска'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Слуцкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:slck'
 meta:
     fgb:
         post_id: '75973'

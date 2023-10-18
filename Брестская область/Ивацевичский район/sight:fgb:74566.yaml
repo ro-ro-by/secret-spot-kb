@@ -2,8 +2,8 @@ id: 'sight:fgb:74566'
 title: 'Насаждение карельской березы «Калининское»'
 type: forest
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 location:
     type: point
     coordinates:

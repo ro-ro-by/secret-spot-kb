@@ -2,8 +2,8 @@ id: 'sight:fgb:97441'
 title: Калиновка
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '97441'

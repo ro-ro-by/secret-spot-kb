@@ -2,8 +2,8 @@ id: 'sight:fgb:75016'
 title: 'Под Замковой горой (Забелышинская, Селитреная)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кричевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krch'
 location:
     type: point
     coordinates:

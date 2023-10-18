@@ -2,8 +2,8 @@ id: 'sight:fgb:101063'
 title: 'Каменная жанчына'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 meta:
     fgb:
         post_id: '101063'

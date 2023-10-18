@@ -2,8 +2,8 @@ id: 'sight:fgb:97308'
 title: Омговичский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Стародорожский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stdrg'
 meta:
     fgb:
         post_id: '97308'

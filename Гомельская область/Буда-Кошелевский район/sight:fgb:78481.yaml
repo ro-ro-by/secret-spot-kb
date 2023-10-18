@@ -2,8 +2,8 @@ id: 'sight:fgb:78481'
 title: Белуга
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Буда-Кошелевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:bksh'
 meta:
     fgb:
         post_id: '78481'

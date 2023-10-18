@@ -2,8 +2,8 @@ id: 'sight:fgb:101464'
 title: 'Пойменная дубрава в окрестностях деревни Стукалы'
 type: forest
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 forest:
     dominated_type: oak
     types:

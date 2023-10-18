@@ -2,8 +2,8 @@ id: 'sight:fgb:104060'
 title: Лапичи
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:101462'
 title: 'Усадебный парк в деревне Тарново'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Лидский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:lida'
 location:
     type: point
     coordinates:

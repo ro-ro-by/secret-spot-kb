@@ -2,8 +2,8 @@ id: 'sight:fgb:103095'
 title: 'Цыганская магіла'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 meta:
     fgb:
         post_id: '103095'

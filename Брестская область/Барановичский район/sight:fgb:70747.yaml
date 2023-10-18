@@ -2,8 +2,8 @@ id: 'sight:fgb:70747'
 title: 'Старинный парк Вольновский'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

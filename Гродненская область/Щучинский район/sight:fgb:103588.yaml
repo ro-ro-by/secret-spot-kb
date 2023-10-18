@@ -2,8 +2,8 @@ id: 'sight:fgb:103588'
 title: 'Дарціна гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 meta:
     fgb:
         post_id: '103588'

@@ -2,8 +2,8 @@ id: 'sight:fgb:99069'
 title: 'Дубенецкий дуб'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 location:
     type: point
     coordinates:

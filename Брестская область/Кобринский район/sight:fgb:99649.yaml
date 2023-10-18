@@ -2,8 +2,8 @@ id: 'sight:fgb:99649'
 title: 'Парк Литвиново'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '99649'

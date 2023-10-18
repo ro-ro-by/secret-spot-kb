@@ -2,8 +2,8 @@ id: 'sight:fgb:76001'
 title: 'Тычины 1'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Солигорский район'
+    region: 'region:minsk'
+    subregion: 'subregion:slg'
 location:
     type: point
     coordinates:

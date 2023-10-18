@@ -2,8 +2,8 @@ id: 'sight:fgb:99134'
 title: 'Каменка-1. Каменный комплекс с изображениями и надписями.'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 location:
     type: point
     coordinates:

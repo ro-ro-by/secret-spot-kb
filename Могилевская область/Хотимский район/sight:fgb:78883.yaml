@@ -2,8 +2,8 @@ id: 'sight:fgb:78883'
 title: 'Попов колодец'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102770'
 title: 'Крывая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '102770'

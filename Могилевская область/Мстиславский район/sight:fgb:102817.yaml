@@ -2,8 +2,8 @@ id: 'sight:fgb:102817'
 title: 'Дзявочая гара (Дзявічча горка, Дзеві-гарадок, Дзеўя горка, Лысая)'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 meta:
     fgb:
         post_id: '102817'

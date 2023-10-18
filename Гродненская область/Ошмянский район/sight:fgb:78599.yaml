@@ -2,8 +2,8 @@ id: 'sight:fgb:78599'
 title: 'Исток Вильни'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '78599'

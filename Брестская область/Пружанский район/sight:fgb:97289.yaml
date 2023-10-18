@@ -2,8 +2,8 @@ id: 'sight:fgb:97289'
 title: Камень-следовик
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '97289'

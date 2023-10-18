@@ -2,8 +2,8 @@ id: 'sight:fgb:75987'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 location:
     type: point
     coordinates:

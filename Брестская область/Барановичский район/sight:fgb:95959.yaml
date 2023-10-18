@@ -2,8 +2,8 @@ id: 'sight:fgb:95959'
 title: 'Парк Ясенец'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

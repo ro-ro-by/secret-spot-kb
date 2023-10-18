@@ -2,8 +2,8 @@ id: 'sight:fgb:98574'
 title: 'Парк Воронь'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '98574'

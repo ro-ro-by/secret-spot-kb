@@ -2,8 +2,8 @@ id: 'sight:fgb:83210'
 title: 'Бювет в Лесной Поляне'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

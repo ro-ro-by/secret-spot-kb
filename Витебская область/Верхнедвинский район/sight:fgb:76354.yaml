@@ -2,8 +2,8 @@ id: 'sight:fgb:76354'
 title: 'Стрешницкий массив возвышенностей (Стрэшніцкі масіў выдмаў)'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '76354'

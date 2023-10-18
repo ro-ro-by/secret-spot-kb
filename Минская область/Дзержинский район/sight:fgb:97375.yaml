@@ -2,8 +2,8 @@ id: 'sight:fgb:97375'
 title: Василёк
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 location:
     type: point
     coordinates:

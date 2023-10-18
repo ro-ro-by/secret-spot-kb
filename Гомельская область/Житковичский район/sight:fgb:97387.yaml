@@ -2,8 +2,8 @@ id: 'sight:fgb:97387'
 title: 'Старый Жаден'
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Житковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhtk'
 meta:
     fgb:
         post_id: '97387'

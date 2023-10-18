@@ -2,8 +2,8 @@ id: 'sight:fgb:75619'
 title: 'Родник Воложинский'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

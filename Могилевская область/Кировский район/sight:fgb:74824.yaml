@@ -2,8 +2,8 @@ id: 'sight:fgb:74824'
 title: 'Стражаўскі крыж'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кировский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsk'
 meta:
     fgb:
         post_id: '74824'

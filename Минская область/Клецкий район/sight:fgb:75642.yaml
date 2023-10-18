@@ -2,8 +2,8 @@ id: 'sight:fgb:75642'
 title: Колковский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 meta:
     fgb:
         post_id: '75642'

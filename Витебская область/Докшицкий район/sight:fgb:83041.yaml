@@ -2,8 +2,8 @@ id: 'sight:fgb:83041'
 title: Кромовичи
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

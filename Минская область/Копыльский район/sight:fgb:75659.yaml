@@ -2,8 +2,8 @@ id: 'sight:fgb:75659'
 title: 'Чижевичский парк'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 meta:
     fgb:
         post_id: '75659'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74972'
 title: Поддубье
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '74972'

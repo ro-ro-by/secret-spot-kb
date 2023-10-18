@@ -2,8 +2,8 @@ id: 'sight:fgb:92237'
 title: 'Колодец Якуба Колоса'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пинский район'
+    region: 'region:brest'
+    subregion: 'subregion:pnsk'
 location:
     type: point
     coordinates:

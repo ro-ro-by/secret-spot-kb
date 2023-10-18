@@ -2,8 +2,8 @@ id: 'sight:fgb:88363'
 title: Глинка-2
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Столинский район'
+    region: 'region:brest'
+    subregion: 'subregion:stln'
 meta:
     fgb:
         post_id: '88363'

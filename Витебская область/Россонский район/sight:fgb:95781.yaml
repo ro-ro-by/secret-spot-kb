@@ -2,8 +2,8 @@ id: 'sight:fgb:95781'
 title: 'Дуб черешчатый в окрестностях д. Кульнево'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 location:
     type: point
     coordinates:

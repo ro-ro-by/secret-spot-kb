@@ -2,8 +2,8 @@ id: 'sight:fgb:74586'
 title: 'След Божьей Матери, Божьего Младенца и посоха Богородицы'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 meta:
     fgb:
         post_id: '74586'

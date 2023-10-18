@@ -2,8 +2,8 @@ id: 'sight:fgb:77493'
 title: 'Большой камень добовичский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 location:
     type: point
     coordinates:

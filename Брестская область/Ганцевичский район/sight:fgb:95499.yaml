@@ -2,8 +2,8 @@ id: 'sight:fgb:95499'
 title: Выгонощанское
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '95499'

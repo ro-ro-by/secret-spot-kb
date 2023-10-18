@@ -2,8 +2,8 @@ id: 'sight:fgb:75417'
 title: Дубравы
 type: TODO
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '75417'

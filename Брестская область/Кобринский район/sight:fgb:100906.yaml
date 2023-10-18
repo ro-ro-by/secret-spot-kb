@@ -2,8 +2,8 @@ id: 'sight:fgb:100906'
 title: 'Акамянелыя людзі'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '100906'

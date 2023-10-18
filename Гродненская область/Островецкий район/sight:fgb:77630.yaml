@@ -2,8 +2,8 @@ id: 'sight:fgb:77630'
 title: 'Кропельніца ў касцёле'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 meta:
     fgb:
         post_id: '77630'

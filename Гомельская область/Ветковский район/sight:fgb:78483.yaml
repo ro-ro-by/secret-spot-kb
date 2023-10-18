@@ -2,8 +2,8 @@ id: 'sight:fgb:78483'
 title: 'Яминская (Еловая, Около пасеки)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '78483'

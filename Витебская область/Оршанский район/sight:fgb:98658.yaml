@@ -2,8 +2,8 @@ id: 'sight:fgb:98658'
 title: 'Парк Смоляны'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 meta:
     fgb:
         post_id: '98658'

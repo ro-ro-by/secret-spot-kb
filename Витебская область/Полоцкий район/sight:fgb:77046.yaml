@@ -2,8 +2,8 @@ id: 'sight:fgb:77046'
 title: 'Иоанна Крестителя'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 location:
     type: point
     coordinates:

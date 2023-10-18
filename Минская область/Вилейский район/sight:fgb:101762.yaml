@@ -2,8 +2,8 @@ id: 'sight:fgb:101762'
 title: 'Родник Еськовлянка'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:78561'
 title: 'Корытоподобный камень'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '78561'

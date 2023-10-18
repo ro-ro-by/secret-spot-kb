@@ -2,8 +2,8 @@ id: 'sight:fgb:100813'
 title: 'След Божай Маці'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '100813'

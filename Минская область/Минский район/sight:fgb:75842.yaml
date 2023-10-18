@@ -2,8 +2,8 @@ id: 'sight:fgb:75842'
 title: 'Бювет на Белецкого'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 location:
     type: point
     coordinates:

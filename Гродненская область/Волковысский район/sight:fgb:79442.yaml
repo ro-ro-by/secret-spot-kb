@@ -2,8 +2,8 @@ id: 'sight:fgb:79442'
 title: 'Консервный завод'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '79442'

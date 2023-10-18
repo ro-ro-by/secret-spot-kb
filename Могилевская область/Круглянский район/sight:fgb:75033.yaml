@@ -2,8 +2,8 @@ id: 'sight:fgb:75033'
 title: 'Пойма реки Друть'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Круглянский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krg'
 meta:
     fgb:
         post_id: '75033'

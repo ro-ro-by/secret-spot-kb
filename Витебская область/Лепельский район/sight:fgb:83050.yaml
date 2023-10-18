@@ -2,8 +2,8 @@ id: 'sight:fgb:83050'
 title: Черёсово
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 location:
     type: point
     coordinates:

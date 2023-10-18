@@ -2,8 +2,8 @@ id: 'sight:fgb:74680'
 title: 'Камень со следом Богородицы'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '74680'

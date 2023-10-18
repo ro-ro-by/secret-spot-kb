@@ -2,8 +2,8 @@ id: 'sight:fgb:96211'
 title: 'Вековой дуб в агрогородке Яново'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

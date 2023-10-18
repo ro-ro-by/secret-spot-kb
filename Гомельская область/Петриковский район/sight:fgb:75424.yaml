@@ -2,8 +2,8 @@ id: 'sight:fgb:75424'
 title: 'Святая криница около аг.Челющевичи'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 location:
     type: point
     coordinates:

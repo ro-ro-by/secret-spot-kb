@@ -2,8 +2,8 @@ id: 'sight:fgb:74629'
 title: Высокое
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 location:
     type: point
     coordinates:

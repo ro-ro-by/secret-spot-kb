@@ -2,8 +2,8 @@ id: 'sight:fgb:74812'
 title: 'Ольгина криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 location:
     type: point
     coordinates:

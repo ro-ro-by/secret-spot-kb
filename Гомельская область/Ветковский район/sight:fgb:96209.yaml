@@ -2,8 +2,8 @@ id: 'sight:fgb:96209'
 title: 'Святой (Малонемковский-4)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '96209'

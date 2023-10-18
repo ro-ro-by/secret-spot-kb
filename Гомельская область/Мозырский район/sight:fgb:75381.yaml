@@ -2,8 +2,8 @@ id: 'sight:fgb:75381'
 title: 'Замлынне (Замлинье, №8)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

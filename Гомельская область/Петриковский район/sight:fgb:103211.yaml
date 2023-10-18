@@ -2,8 +2,8 @@ id: 'sight:fgb:103211'
 title: 'Гара Каўпак'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '103211'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98611'
 title: 'Шацкий парк'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 meta:
     fgb:
         post_id: '98611'

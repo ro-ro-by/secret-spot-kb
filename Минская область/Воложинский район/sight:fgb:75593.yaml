@@ -2,8 +2,8 @@ id: 'sight:fgb:75593'
 title: 'Валун Чертов камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

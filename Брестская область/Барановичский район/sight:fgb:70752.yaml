@@ -2,8 +2,8 @@ id: 'sight:fgb:70752'
 title: 'Насаждение лиственницы европейской Молчадское'
 type: forest
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

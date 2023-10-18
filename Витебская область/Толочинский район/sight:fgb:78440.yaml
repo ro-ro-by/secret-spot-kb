@@ -2,8 +2,8 @@ id: 'sight:fgb:78440'
 title: 'Поклонный дуб'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Толочинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:tlch'
 tree:
     type: oak
 meta:

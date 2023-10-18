@@ -2,8 +2,8 @@ id: 'sight:fgb:103485'
 title: 'Бабічова града'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 meta:
     fgb:
         post_id: '103485'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74738'
 title: Дуб-гигант
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 tree:
     type: oak
 meta:

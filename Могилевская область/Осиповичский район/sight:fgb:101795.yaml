@@ -2,8 +2,8 @@ id: 'sight:fgb:101795'
 title: 'Родник Жужлянка-1'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

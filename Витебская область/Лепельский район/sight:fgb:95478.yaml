@@ -2,8 +2,8 @@ id: 'sight:fgb:95478'
 title: Березинский
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '95478'

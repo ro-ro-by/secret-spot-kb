@@ -2,8 +2,8 @@ id: 'sight:fgb:74630'
 title: 'Хотиславские липы'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102951'
 title: 'Гара Чортаўка (Шведаўка - ?, Шведская гара - ?)'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '102951'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75616'
 title: 'Казинская гора'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 meta:
     fgb:
         post_id: '75616'

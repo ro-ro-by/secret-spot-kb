@@ -2,8 +2,8 @@ id: 'sight:fgb:75661'
 title: 'Лечебный камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 meta:
     fgb:
         post_id: '75661'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98488'
 title: 'Парк Казимирово'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '98488'

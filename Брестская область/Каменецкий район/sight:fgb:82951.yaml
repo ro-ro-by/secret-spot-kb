@@ -2,8 +2,8 @@ id: 'sight:fgb:82951'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 meta:
     fgb:
         post_id: '82951'

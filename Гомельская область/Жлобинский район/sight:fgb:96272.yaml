@@ -2,8 +2,8 @@ id: 'sight:fgb:96272'
 title: 'Гаючы камень (Лечебный камень)'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '96272'

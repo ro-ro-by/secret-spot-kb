@@ -4,8 +4,8 @@ type: tree
 tree:
     type: pine
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 location:
     type: point
     coordinates:

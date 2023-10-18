@@ -2,8 +2,8 @@ id: 'sight:fgb:97068'
 title: 'Каменный столбик с выбитым крестом'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 meta:
     fgb:
         post_id: '97068'

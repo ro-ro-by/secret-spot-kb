@@ -2,8 +2,8 @@ id: 'sight:fgb:77534'
 title: 'В имении Дембовецких'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Лидский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:lida'
 location:
     type: point
     coordinates:

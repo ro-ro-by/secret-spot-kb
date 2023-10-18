@@ -2,8 +2,8 @@ id: 'sight:fgb:99941'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 meta:
     fgb:
         post_id: '99941'

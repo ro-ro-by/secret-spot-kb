@@ -2,8 +2,8 @@ id: 'sight:fgb:92217'
 title: Хатки-2
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

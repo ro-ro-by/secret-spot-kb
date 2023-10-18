@@ -2,8 +2,8 @@ id: 'sight:fgb:100848'
 title: 'След Божай Маці'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '100848'

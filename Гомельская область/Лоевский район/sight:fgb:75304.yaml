@@ -2,8 +2,8 @@ id: 'sight:fgb:75304'
 title: 'Старинный парк Сутково'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лоевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:loeu'
 meta:
     fgb:
         post_id: '75304'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74515'
 title: 'Прибужское Полесье'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Брестский район'
+    region: 'region:brest'
+    subregion: 'subregion:brst'
 meta:
     fgb:
         post_id: '74515'

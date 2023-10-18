@@ -2,8 +2,8 @@ id: 'sight:fgb:97770'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Добрушский район'
+    region: 'region:gomel'
+    subregion: 'subregion:drb'
 location:
     type: point
     coordinates:

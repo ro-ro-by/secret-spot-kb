@@ -2,8 +2,8 @@ id: 'sight:fgb:77015'
 title: 'Скопление валунов Яново'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 location:
     type: point
     coordinates:

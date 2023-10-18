@@ -2,8 +2,8 @@ id: 'sight:fgb:88084'
 title: 'Придорожный колодец'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Лунинецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:lnn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:76937'
 title: 'Родник Святая вода Дехтяревская'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 location:
     type: point
     coordinates:

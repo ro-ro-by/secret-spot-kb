@@ -2,8 +2,8 @@ id: 'sight:fgb:77678'
 title: 'Вялікі камень сякераўскі са знакам (Белы камень)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '77678'

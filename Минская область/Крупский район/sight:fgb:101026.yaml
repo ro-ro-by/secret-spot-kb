@@ -2,8 +2,8 @@ id: 'sight:fgb:101026'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Крупский район'
+    region: 'region:minsk'
+    subregion: 'subregion:krp'
 meta:
     fgb:
         post_id: '101026'

@@ -2,8 +2,8 @@ id: 'sight:fgb:76366'
 title: 'Большой камень Перекский  (Камень Пярэцкі)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '76366'

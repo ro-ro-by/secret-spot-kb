@@ -2,8 +2,8 @@ id: 'sight:fgb:97923'
 title: 'Вяз на берегу р. Сервач'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 tree:
     type: elm
 meta:

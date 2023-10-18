@@ -2,8 +2,8 @@ id: 'sight:fgb:77620'
 title: 'Александрийский валун (Александрийский большой камень)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 location:
     type: point
     coordinates:

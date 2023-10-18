@@ -2,8 +2,8 @@ id: 'sight:fgb:75168'
 title: 'Валун бродскі'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 meta:
     fgb:
         post_id: '75168'

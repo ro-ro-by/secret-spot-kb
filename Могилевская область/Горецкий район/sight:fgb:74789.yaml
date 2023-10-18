@@ -2,8 +2,8 @@ id: 'sight:fgb:74789'
 title: 'Микитова криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 meta:
     fgb:
         post_id: '74789'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101735'
 title: 'Вековые дубы в окрестностях деревни Князевичи'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Берестовицкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:brstv'
 tree:
     type: oak
 meta:

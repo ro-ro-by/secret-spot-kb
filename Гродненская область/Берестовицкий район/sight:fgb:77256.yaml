@@ -2,8 +2,8 @@ id: 'sight:fgb:77256'
 title: 'Парк Массоляны'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Берестовицкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:brstv'
 meta:
     fgb:
         post_id: '77256'

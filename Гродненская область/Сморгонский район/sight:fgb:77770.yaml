@@ -2,8 +2,8 @@ id: 'sight:fgb:77770'
 title: Нестанишки
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:99079'
 title: 'Вековой дуб в Дараганово'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

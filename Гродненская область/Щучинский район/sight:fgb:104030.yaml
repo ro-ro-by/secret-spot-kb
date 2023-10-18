@@ -2,8 +2,8 @@ id: 'sight:fgb:104030'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 meta:
     fgb:
         post_id: '104030'

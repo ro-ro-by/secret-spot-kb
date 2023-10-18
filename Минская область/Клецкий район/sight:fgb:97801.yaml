@@ -2,8 +2,8 @@ id: 'sight:fgb:97801'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 meta:
     fgb:
         post_id: '97801'

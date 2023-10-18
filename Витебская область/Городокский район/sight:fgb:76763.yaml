@@ -2,8 +2,8 @@ id: 'sight:fgb:76763'
 title: 'Валун Большой камень хартовский'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Городокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:grdk'
 location:
     type: point
     coordinates:

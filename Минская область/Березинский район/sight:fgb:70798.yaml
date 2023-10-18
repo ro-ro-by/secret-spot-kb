@@ -2,8 +2,8 @@ id: 'sight:fgb:70798'
 title: 'Дуб черешчатый Любушанский-2'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 location:
     type: point
     coordinates:

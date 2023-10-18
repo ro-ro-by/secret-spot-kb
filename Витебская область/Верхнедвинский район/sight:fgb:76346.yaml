@@ -2,8 +2,8 @@ id: 'sight:fgb:76346'
 title: Освейский
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '76346'

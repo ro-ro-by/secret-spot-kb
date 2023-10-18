@@ -2,8 +2,8 @@ id: 'sight:fgb:75562'
 title: 'Парк Любань'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 location:
     type: point
     coordinates:

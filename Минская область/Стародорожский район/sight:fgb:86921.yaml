@@ -2,8 +2,8 @@ id: 'sight:fgb:86921'
 title: Князев
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Стародорожский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stdrg'
 meta:
     fgb:
         post_id: '86921'

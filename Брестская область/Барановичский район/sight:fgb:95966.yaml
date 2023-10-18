@@ -2,8 +2,8 @@ id: 'sight:fgb:95966'
 title: 'Парк Торчицы'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '95966'

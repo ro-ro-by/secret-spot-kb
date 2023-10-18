@@ -2,8 +2,8 @@ id: 'sight:fgb:98921'
 title: 'Александрия (Деречин-2)'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

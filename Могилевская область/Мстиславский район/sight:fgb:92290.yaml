@@ -2,8 +2,8 @@ id: 'sight:fgb:92290'
 title: 'Тихая криничка'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 location:
     type: point
     coordinates:

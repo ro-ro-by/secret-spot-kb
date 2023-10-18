@@ -2,8 +2,8 @@ id: 'sight:fgb:75632'
 title: 'Парк Станьково'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 location:
     type: point
     coordinates:

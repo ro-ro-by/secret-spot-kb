@@ -2,8 +2,8 @@ id: 'sight:fgb:75437'
 title: 'Старинный парк'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Рогачевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:rgch'
 meta:
     fgb:
         post_id: '75437'

@@ -2,8 +2,8 @@ id: 'sight:fgb:78598'
 title: 'Святого Якуба'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Островецкий район'
+    region: 'region:hrodna'
+    subregion: 'subregion:astrv'
 location:
     type: point
     coordinates:

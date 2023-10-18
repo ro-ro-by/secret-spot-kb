@@ -2,8 +2,8 @@ id: 'sight:fgb:78888'
 title: 'На Казековской'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чериковский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chrk'
 location:
     type: point
     coordinates:

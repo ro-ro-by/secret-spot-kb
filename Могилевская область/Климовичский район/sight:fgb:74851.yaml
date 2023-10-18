@@ -2,8 +2,8 @@ id: 'sight:fgb:74851'
 title: 'Панская криница'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Климовичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klmv'
 meta:
     fgb:
         post_id: '74851'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96154'
 title: 'Колодец в Церковище'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 meta:
     fgb:
         post_id: '96154'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75430'
 title: 'Место поселения древнего человека (бронзовый век)'
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 meta:
     fgb:
         post_id: '75430'

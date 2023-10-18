@@ -2,8 +2,8 @@ id: 'sight:fgb:99196'
 title: Преобаженск-3
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '99196'

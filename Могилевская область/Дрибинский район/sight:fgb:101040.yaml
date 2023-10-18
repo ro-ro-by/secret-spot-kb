@@ -2,8 +2,8 @@ id: 'sight:fgb:101040'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Дрибинский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:drbn'
 meta:
     fgb:
         post_id: '101040'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103865'
 title: Гваздзіха
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '103865'

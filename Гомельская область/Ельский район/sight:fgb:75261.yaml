@@ -2,8 +2,8 @@ id: 'sight:fgb:75261'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:elsk'
 location:
     type: point
     coordinates:

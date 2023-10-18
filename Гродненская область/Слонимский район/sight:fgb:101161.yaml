@@ -2,8 +2,8 @@ id: 'sight:fgb:101161'
 title: 'Камень у гонар ад выратавання ад эпідэміі ў 1898 г.'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 location:
     type: point
     coordinates:

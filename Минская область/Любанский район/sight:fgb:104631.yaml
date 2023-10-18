@@ -2,8 +2,8 @@ id: 'sight:fgb:104631'
 title: ''
 type: REMOVE
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 meta:
     fgb:
         post_id: '104631'

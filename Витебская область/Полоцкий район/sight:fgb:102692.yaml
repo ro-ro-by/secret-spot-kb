@@ -2,8 +2,8 @@ id: 'sight:fgb:102692'
 title: "Баб'я (Бабіна) гара"
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '102692'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101463'
 title: 'Двухсотлетние сосны Белогрудские'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Лидский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:lida'
 location:
     type: point
     coordinates:

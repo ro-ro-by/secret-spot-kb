@@ -2,8 +2,8 @@ id: 'sight:fgb:75595'
 title: 'Валун Большой камень кучкунский'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

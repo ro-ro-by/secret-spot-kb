@@ -2,8 +2,8 @@ id: 'sight:fgb:75775'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 meta:
     fgb:
         post_id: '75775'

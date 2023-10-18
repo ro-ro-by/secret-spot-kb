@@ -2,8 +2,8 @@ id: 'sight:fgb:75852'
 title: 'Вековая дубрава парка «Курасовщина»'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Минский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mnsk'
 location:
     type: point
     coordinates:

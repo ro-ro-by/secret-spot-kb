@@ -2,8 +2,8 @@ id: 'sight:fgb:100027'
 title: 'Сцяпан-камень (Кравец)'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Светлогорский район'
+    region: 'region:gomel'
+    subregion: 'subregion:svlg'
 meta:
     fgb:
         post_id: '100027'

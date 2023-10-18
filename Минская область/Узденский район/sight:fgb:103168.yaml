@@ -2,8 +2,8 @@ id: 'sight:fgb:103168'
 title: 'Барсукова гара'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Узденский район'
+    region: 'region:minsk'
+    subregion: 'subregion:uzd'
 meta:
     fgb:
         post_id: '103168'

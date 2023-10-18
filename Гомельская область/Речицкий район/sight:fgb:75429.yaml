@@ -2,8 +2,8 @@ id: 'sight:fgb:75429'
 title: 'Два дуба'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 tree:
     type: oak
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:77196'
 title: 'Камень Иванский с надписью'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '77196'

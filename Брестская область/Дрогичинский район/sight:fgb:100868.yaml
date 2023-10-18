@@ -2,8 +2,8 @@ id: 'sight:fgb:100868'
 title: Камень-стол
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Дрогичинский район'
+    region: 'region:brest'
+    subregion: 'subregion:drh'
 meta:
     fgb:
         post_id: '100868'

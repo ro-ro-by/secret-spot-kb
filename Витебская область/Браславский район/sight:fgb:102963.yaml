@@ -2,8 +2,8 @@ id: 'sight:fgb:102963'
 title: 'Гара Замак'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '102963'

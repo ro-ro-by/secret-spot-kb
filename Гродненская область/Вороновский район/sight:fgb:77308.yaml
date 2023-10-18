@@ -2,8 +2,8 @@ id: 'sight:fgb:77308'
 title: 'Дзева–Блюдас (з літоўскай - Бога-Блюда)'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '77308'

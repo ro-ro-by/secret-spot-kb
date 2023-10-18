@@ -2,8 +2,8 @@ id: 'sight:fgb:74499'
 title: 'Старинный парк г. Береза'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Берёзовский район'
+    region: 'region:brest'
+    subregion: 'subregion:brz'
 meta:
     fgb:
         post_id: '74499'

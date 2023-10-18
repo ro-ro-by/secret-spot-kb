@@ -2,8 +2,8 @@ id: 'sight:fgb:77642'
 title: 'Валун Большой камень смолянковский'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75768'
 title: 'Дерево дуба черешчатого'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 location:
     type: point
     coordinates:

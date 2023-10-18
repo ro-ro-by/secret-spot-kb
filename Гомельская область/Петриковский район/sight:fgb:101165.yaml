@@ -2,8 +2,8 @@ id: 'sight:fgb:101165'
 title: 'Надмагільныя камяні'
 type: boulder
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '101165'

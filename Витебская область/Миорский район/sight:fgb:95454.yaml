@@ -2,8 +2,8 @@ id: 'sight:fgb:95454'
 title: Ельня
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 meta:
     fgb:
         post_id: '95454'

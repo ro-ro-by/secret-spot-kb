@@ -2,8 +2,8 @@ id: 'sight:fgb:101154'
 title: 'Камень з цыліндрычным паглыбленнем'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '101154'

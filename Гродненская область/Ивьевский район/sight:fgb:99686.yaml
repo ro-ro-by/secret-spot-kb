@@ -2,8 +2,8 @@ id: 'sight:fgb:99686'
 title: 'Парк Лаздунский'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 meta:
     fgb:
         post_id: '99686'

@@ -2,8 +2,8 @@ id: 'sight:fgb:75874'
 title: 'Гора Копланщина'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '75874'

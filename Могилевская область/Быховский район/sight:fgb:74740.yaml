@@ -2,8 +2,8 @@ id: 'sight:fgb:74740'
 title: Клетное
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Быховский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:byh'
 meta:
     fgb:
         post_id: '74740'

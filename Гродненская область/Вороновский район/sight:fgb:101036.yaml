@@ -2,8 +2,8 @@ id: 'sight:fgb:101036'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '101036'

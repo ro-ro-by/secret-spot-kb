@@ -2,8 +2,8 @@ id: 'sight:fgb:100163'
 title: 'Пісаны камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Стародорожский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stdrg'
 meta:
     fgb:
         post_id: '100163'

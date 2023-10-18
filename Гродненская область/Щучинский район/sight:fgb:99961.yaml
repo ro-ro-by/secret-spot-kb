@@ -2,8 +2,8 @@ id: 'sight:fgb:99961'
 title: 'Камень кахання'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 meta:
     fgb:
         post_id: '99961'

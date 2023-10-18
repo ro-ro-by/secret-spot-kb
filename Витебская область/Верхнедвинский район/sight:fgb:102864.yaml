@@ -2,8 +2,8 @@ id: 'sight:fgb:102864'
 title: Гарадзец
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 meta:
     fgb:
         post_id: '102864'

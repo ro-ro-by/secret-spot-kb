@@ -2,8 +2,8 @@ id: 'sight:fgb:78504'
 title: 'Место родника Параскевы Пятницы (Живая вода)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лоевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:loeu'
 location:
     type: point
     coordinates:

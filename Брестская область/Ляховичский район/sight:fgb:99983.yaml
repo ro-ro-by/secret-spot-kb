@@ -2,8 +2,8 @@ id: 'sight:fgb:99983'
 title: 'Лекавы камень'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '99983'

@@ -2,8 +2,8 @@ id: 'sight:fgb:74638'
 title: 'Дуб-патриарх «Пожежинский»'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 location:
     type: point
     coordinates:

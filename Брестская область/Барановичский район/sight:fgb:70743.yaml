@@ -2,8 +2,8 @@ id: 'sight:fgb:70743'
 title: 'Родник Ясенец (Кипяток)'
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 location:
     type: point
     coordinates:

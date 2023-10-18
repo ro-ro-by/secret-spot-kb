@@ -2,8 +2,8 @@ id: 'sight:fgb:104028'
 title: 'Липичненский родник'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Щучинский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:shch'
 location:
     type: point
     coordinates:

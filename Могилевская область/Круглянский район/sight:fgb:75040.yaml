@@ -2,8 +2,8 @@ id: 'sight:fgb:75040'
 title: 'Дуб пана Гардиловского'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Круглянский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krg'
 location:
     type: point
     coordinates:

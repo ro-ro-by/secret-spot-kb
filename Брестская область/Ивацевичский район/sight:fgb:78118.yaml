@@ -2,8 +2,8 @@ id: 'sight:fgb:78118'
 title: (№15)
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ивацевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:ivcv'
 meta:
     fgb:
         post_id: '78118'

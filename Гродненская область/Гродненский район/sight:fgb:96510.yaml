@@ -2,8 +2,8 @@ id: 'sight:fgb:96510'
 title: 'Двухсотлетняя дубрава в окрестности агрогородка Озеры'
 type: forest
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 forest:
     dominated_type: oak
     types:

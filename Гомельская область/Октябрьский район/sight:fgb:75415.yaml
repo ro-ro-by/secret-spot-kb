@@ -2,8 +2,8 @@ id: 'sight:fgb:75415'
 title: 'Колодец Святой Троицы'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Октябрьский район'
+    region: 'region:gomel'
+    subregion: 'subregion:akt'
 location:
     type: point
     coordinates:

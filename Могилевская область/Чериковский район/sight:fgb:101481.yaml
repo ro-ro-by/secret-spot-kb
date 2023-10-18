@@ -2,8 +2,8 @@ id: 'sight:fgb:101481'
 title: 'Петровы дубы Чериковского района'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чериковский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chrk'
 location:
     type: point
     coordinates:

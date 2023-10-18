@@ -2,8 +2,8 @@ id: 'sight:fgb:90052'
 title: 'Вековой вяз'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 tree:
     type: elm
 meta:

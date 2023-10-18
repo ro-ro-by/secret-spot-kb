@@ -2,8 +2,8 @@ id: 'sight:fgb:74652'
 title: Изин
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пинский район'
+    region: 'region:brest'
+    subregion: 'subregion:pnsk'
 meta:
     fgb:
         post_id: '74652'

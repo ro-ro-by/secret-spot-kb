@@ -2,8 +2,8 @@ id: 'sight:fgb:77755'
 title: 'Мартишкинский камень'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

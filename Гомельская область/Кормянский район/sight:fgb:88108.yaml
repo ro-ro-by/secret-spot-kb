@@ -2,8 +2,8 @@ id: 'sight:fgb:88108'
 title: 'Романова криница'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Кормянский район'
+    region: 'region:gomel'
+    subregion: 'subregion:krm'
 location:
     type: point
     coordinates:

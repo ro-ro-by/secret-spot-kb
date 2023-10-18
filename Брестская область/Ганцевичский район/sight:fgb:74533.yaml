@@ -2,8 +2,8 @@ id: 'sight:fgb:74533'
 title: 'Дуб Волат'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 location:
     type: point
     coordinates:

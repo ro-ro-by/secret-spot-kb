@@ -2,8 +2,8 @@ id: 'sight:fgb:76964'
 title: 'Камень следавік (Маці Божай)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 meta:
     fgb:
         post_id: '76964'

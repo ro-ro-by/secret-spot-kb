@@ -2,8 +2,8 @@ id: 'sight:fgb:78807'
 title: Труд-Аэропорт-2
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:88355'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Берёзовский район'
+    region: 'region:brest'
+    subregion: 'subregion:brz'
 meta:
     fgb:
         post_id: '88355'

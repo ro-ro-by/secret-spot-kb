@@ -2,8 +2,8 @@ id: 'sight:fgb:103064'
 title: 'Залатая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Светлогорский район'
+    region: 'region:gomel'
+    subregion: 'subregion:svlg'
 meta:
     fgb:
         post_id: '103064'

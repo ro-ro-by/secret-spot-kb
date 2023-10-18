@@ -2,8 +2,8 @@ id: 'sight:fgb:78542'
 title: 'Школьный (на болоте)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:86901'
 title: Стайки
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Миорский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:mr'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75190'
 title: 'Межледниковое отложение'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чериковский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chrk'
 meta:
     fgb:
         post_id: '75190'

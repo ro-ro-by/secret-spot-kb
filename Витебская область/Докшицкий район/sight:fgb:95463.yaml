@@ -2,8 +2,8 @@ id: 'sight:fgb:95463'
 title: Сервечь
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '95463'

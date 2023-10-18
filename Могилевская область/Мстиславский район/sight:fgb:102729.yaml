@@ -2,8 +2,8 @@ id: 'sight:fgb:102729'
 title: 'Пані-Войская гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 meta:
     fgb:
         post_id: '102729'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103966'
 title: 'Каменны ідал'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 meta:
     fgb:
         post_id: '103966'

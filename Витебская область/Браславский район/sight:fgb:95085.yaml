@@ -2,8 +2,8 @@ id: 'sight:fgb:95085'
 title: 'Озово-камовый комплекс вдоль северных берегов оз. Снуды'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Браславский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:brsl'
 meta:
     fgb:
         post_id: '95085'

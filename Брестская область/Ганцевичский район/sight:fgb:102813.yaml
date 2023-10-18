@@ -2,8 +2,8 @@ id: 'sight:fgb:102813'
 title: 'Царкавішча (Прошча)'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '102813'

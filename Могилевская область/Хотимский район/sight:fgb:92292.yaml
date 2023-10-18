@@ -2,8 +2,8 @@ id: 'sight:fgb:92292'
 title: 'Янопольский парк'
 type: park
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 meta:
     fgb:
         post_id: '92292'

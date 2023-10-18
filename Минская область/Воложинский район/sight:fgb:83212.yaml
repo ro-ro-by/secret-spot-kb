@@ -2,8 +2,8 @@ id: 'sight:fgb:83212'
 title: 'Новинский (Навiнская крынiца)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Воложинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlzh'
 location:
     type: point
     coordinates:

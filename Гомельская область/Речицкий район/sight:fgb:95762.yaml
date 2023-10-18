@@ -2,8 +2,8 @@ id: 'sight:fgb:95762'
 title: 'Дуб - место явления иконы пророка Ильи'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 tree:
     type: oak
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:75964'
 title: 'Кипячка (В честь Иконы Божией Матери «Живоносный  источник»)'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 location:
     type: point
     coordinates:

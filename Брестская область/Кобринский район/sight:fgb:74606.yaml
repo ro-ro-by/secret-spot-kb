@@ -2,8 +2,8 @@ id: 'sight:fgb:74606'
 title: 'Парк имени А. В. Суворова'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 location:
     type: point
     coordinates:

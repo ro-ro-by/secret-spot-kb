@@ -2,8 +2,8 @@ id: 'sight:fgb:100853'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Свислочский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:svsl'
 meta:
     fgb:
         post_id: '100853'

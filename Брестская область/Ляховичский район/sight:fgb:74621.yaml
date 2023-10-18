@@ -2,8 +2,8 @@ id: 'sight:fgb:74621'
 title: 'Камень со следом Матери Божьей'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ляховичский район'
+    region: 'region:brest'
+    subregion: 'subregion:lhv'
 meta:
     fgb:
         post_id: '74621'

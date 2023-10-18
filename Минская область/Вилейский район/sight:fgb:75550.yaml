@@ -2,8 +2,8 @@ id: 'sight:fgb:75550'
 title: 'Валун Большой камень дворецкий'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 location:
     type: point
     coordinates:

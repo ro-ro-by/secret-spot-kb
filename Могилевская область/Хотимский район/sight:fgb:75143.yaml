@@ -2,8 +2,8 @@ id: 'sight:fgb:75143'
 title: 'Два отдельно стоящих дуба'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Хотимский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:htmsk'
 location:
     type: point
     coordinates:

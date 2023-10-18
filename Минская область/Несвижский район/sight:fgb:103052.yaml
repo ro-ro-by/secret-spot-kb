@@ -2,8 +2,8 @@ id: 'sight:fgb:103052'
 title: 'Папова горка (Гара Анёльская, Архангельская, Свята-Міхайлаўская, Папова)'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Несвижский район'
+    region: 'region:minsk'
+    subregion: 'subregion:nsvzh'
 meta:
     fgb:
         post_id: '103052'

@@ -2,8 +2,8 @@ id: 'sight:fgb:70765'
 title: 'Островная дубрава на болоте Великое'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 forest:
     dominated_type: oak
     types:

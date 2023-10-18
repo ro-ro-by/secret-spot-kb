@@ -2,8 +2,8 @@ id: 'sight:fgb:77059'
 title: 'Холм Гора Бояровщина'
 type: hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 location:
     type: point
     coordinates:

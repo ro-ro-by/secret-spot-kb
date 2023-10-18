@@ -2,8 +2,8 @@ id: 'sight:fgb:76133'
 title: 'Бочейковский усадебно-парковый ансамбль'
 type: park
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Бешенковичский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:bshn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:74546'
 title: 'Каменный идол'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 meta:
     fgb:
         post_id: '74546'

@@ -2,8 +2,8 @@ id: 'sight:fgb:100043'
 title: 'Каменныя быкі (валы)'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Белыничский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bln'
 meta:
     fgb:
         post_id: '100043'

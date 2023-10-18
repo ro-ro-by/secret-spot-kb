@@ -2,8 +2,8 @@ id: 'sight:fgb:97373'
 title: Пятигорье-2
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Дзержинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:dzrzh'
 location:
     type: point
     coordinates:

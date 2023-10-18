@@ -2,8 +2,8 @@ id: 'sight:fgb:95964'
 title: 'Парк Павлиново'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Барановичский район'
+    region: 'region:brest'
+    subregion: 'subregion:brnv'
 meta:
     fgb:
         post_id: '95964'

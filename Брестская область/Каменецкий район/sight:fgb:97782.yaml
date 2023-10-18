@@ -2,8 +2,8 @@ id: 'sight:fgb:97782'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:99942'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '99942'

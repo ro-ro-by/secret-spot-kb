@@ -2,8 +2,8 @@ id: 'sight:fgb:75531'
 title: 'Староборисовский лес'
 type: forest
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 location:
     type: point
     coordinates:

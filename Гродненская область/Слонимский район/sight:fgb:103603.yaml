@@ -2,8 +2,8 @@ id: 'sight:fgb:103603'
 title: Каўпак
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '103603'

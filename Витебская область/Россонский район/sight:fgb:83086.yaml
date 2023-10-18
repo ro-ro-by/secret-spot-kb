@@ -2,8 +2,8 @@ id: 'sight:fgb:83086'
 title: Церковище
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 meta:
     fgb:
         post_id: '83086'

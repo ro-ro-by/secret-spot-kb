@@ -2,8 +2,8 @@ id: 'sight:fgb:77173'
 title: 'Камоид Череи'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 meta:
     fgb:
         post_id: '77173'

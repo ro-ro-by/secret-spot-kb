@@ -2,8 +2,8 @@ id: 'sight:fgb:100019'
 title: 'Гуд і Кумар'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '100019'

@@ -2,8 +2,8 @@ id: 'sight:fgb:76051'
 title: 'Парк Рованичи'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Червенский район'
+    region: 'region:minsk'
+    subregion: 'subregion:chrv'
 location:
     type: point
     coordinates:

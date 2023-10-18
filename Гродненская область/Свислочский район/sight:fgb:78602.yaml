@@ -2,8 +2,8 @@ id: 'sight:fgb:78602'
 title: Панский
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Свислочский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:svsl'
 location:
     type: point
     coordinates:

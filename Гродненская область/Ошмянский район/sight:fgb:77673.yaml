@@ -2,8 +2,8 @@ id: 'sight:fgb:77673'
 title: 'Лойтовщинский валун-2'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '77673'

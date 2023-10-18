@@ -2,8 +2,8 @@ id: 'sight:fgb:75166'
 title: 'Бордиловское – Кременец'
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 meta:
     fgb:
         post_id: '75166'

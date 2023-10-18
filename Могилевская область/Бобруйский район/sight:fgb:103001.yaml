@@ -2,8 +2,8 @@ id: 'sight:fgb:103001'
 title: 'Каменная (Змеева) гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Бобруйский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:bbr'
 meta:
     fgb:
         post_id: '103001'

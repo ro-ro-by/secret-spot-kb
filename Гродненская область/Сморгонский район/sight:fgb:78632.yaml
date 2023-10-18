@@ -2,8 +2,8 @@ id: 'sight:fgb:78632'
 title: Крево-2
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Сморгонский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:smg'
 location:
     type: point
     coordinates:

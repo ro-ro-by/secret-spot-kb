@@ -2,8 +2,8 @@ id: 'sight:fgb:100950'
 title: 'Камень Багушэвіча'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 meta:
     fgb:
         post_id: '100950'

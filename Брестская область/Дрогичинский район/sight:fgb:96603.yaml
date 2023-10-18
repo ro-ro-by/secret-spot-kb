@@ -2,8 +2,8 @@ id: 'sight:fgb:96603'
 title: 'Вековой дуб в д. Именин'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Дрогичинский район'
+    region: 'region:brest'
+    subregion: 'subregion:drh'
 location:
     type: point
     coordinates:

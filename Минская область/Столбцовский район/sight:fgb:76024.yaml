@@ -2,8 +2,8 @@ id: 'sight:fgb:76024'
 title: 'Родник Красный'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

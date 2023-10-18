@@ -2,8 +2,8 @@ id: 'sight:fgb:101120'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Вилейский район'
+    region: 'region:minsk'
+    subregion: 'subregion:vlk'
 meta:
     fgb:
         post_id: '101120'

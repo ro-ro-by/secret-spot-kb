@@ -2,8 +2,8 @@ id: 'sight:fgb:75539'
 title: 'Парк возле деревни Скуплино'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Борисовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brs'
 location:
     type: point
     coordinates:

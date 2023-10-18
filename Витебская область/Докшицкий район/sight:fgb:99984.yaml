@@ -2,8 +2,8 @@ id: 'sight:fgb:99984'
 title: 'Архаічная крапільніца'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '99984'

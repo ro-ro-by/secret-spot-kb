@@ -2,8 +2,8 @@ id: 'sight:fgb:75963'
 title: Омельнянский
 type: area
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 meta:
     fgb:
         post_id: '75963'

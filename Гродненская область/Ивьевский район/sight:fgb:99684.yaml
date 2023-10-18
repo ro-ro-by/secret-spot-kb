@@ -2,8 +2,8 @@ id: 'sight:fgb:99684'
 title: 'Парк Жемысловский'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 location:
     type: point
     coordinates:

@@ -2,8 +2,8 @@ id: 'sight:fgb:102906'
 title: 'Кулінава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лоевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:loeu'
 meta:
     fgb:
         post_id: '102906'

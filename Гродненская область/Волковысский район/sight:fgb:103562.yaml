@@ -2,8 +2,8 @@ id: 'sight:fgb:103562'
 title: 'Вясёлая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '103562'

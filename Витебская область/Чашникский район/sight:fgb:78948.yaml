@@ -2,8 +2,8 @@ id: 'sight:fgb:78948'
 title: Криница
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Чашникский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:chshn'
 meta:
     fgb:
         post_id: '78948'

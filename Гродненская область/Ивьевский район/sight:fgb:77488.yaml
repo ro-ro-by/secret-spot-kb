@@ -2,8 +2,8 @@ id: 'sight:fgb:77488'
 title: Раздоры
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 meta:
     fgb:
         post_id: '77488'

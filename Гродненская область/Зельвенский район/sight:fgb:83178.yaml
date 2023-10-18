@@ -2,8 +2,8 @@ id: 'sight:fgb:83178'
 title: Козюльки
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

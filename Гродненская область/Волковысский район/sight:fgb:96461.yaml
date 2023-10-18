@@ -2,8 +2,8 @@ id: 'sight:fgb:96461'
 title: 'Парк Краски'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '96461'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103619'
 title: 'Марысіна гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Дятловский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:dtl'
 meta:
     fgb:
         post_id: '103619'

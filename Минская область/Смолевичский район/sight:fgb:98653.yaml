@@ -2,8 +2,8 @@ id: 'sight:fgb:98653'
 title: 'Родник около д. Трубенок'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 location:
     type: point
     coordinates:

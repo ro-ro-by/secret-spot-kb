@@ -2,8 +2,8 @@ id: 'sight:fgb:103850'
 title: 'Высокая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '103850'

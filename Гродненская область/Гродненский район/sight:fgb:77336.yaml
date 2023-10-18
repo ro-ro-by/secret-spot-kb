@@ -2,8 +2,8 @@ id: 'sight:fgb:77336'
 title: 'Дуб - место явления иконы Божьей Матери'
 type: tree
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Гродненский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:hrdn'
 tree:
     type: oak
 meta:

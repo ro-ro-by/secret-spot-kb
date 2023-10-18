@@ -2,8 +2,8 @@ id: 'sight:fgb:96261'
 title: 'Поклонный дуб'
 type: tree
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Ушачский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:ushch'
 tree:
     type: oak
 meta:

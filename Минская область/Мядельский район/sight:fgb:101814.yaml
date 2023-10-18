@@ -2,8 +2,8 @@ id: 'sight:fgb:101814'
 title: Рышток
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '101814'

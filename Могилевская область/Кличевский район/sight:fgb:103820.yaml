@@ -2,8 +2,8 @@ id: 'sight:fgb:103820'
 title: 'Чортава града'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '103820'

@@ -2,8 +2,8 @@ id: 'sight:fgb:100617'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Новогрудский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:nvg'
 location:
     type: point
     coordinates:

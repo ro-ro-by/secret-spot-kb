@@ -2,8 +2,8 @@ id: 'sight:fgb:78889'
 title: 'Слюнькиной (Партизанский)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чериковский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chrk'
 location:
     type: point
     coordinates:

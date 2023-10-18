@@ -2,8 +2,8 @@ id: 'sight:fgb:99200'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 meta:
     fgb:
         post_id: '99200'

@@ -2,8 +2,8 @@ id: 'sight:fgb:96043'
 title: 'Вековой дуб Мозырского лесхоза'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Мозырский район'
+    region: 'region:gomel'
+    subregion: 'subregion:mzr'
 location:
     type: point
     coordinates:

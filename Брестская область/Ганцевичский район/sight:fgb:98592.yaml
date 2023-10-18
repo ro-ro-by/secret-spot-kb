@@ -2,8 +2,8 @@ id: 'sight:fgb:98592'
 title: 'Круговичский валун'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '98592'

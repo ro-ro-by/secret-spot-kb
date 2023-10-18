@@ -2,8 +2,8 @@ id: 'sight:fgb:75741'
 title: 'Логойский парк'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Логойский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lgsk'
 location:
     type: point
     coordinates:

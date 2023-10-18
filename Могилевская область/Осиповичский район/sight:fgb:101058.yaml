@@ -2,8 +2,8 @@ id: 'sight:fgb:101058'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 meta:
     fgb:
         post_id: '101058'

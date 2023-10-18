@@ -2,8 +2,8 @@ id: 'sight:fgb:76788'
 title: Святой
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Городокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:grdk'
 location:
     type: point
     coordinates:

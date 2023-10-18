@@ -2,8 +2,8 @@ id: 'sight:fgb:76365'
 title: 'Большой камень Дерновичский'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Верхнедвинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:vndv'
 location:
     type: point
     coordinates:

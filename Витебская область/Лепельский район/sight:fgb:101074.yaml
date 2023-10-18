@@ -2,8 +2,8 @@ id: 'sight:fgb:101074'
 title: 'Акамянелы мядзведзь'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Лепельский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:lpl'
 meta:
     fgb:
         post_id: '101074'

@@ -2,8 +2,8 @@ id: 'sight:fgb:77025'
 title: 'Пярун камень Полацкі (Вялікі камень)'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 meta:
     fgb:
         post_id: '77025'

@@ -2,8 +2,8 @@ id: 'sight:fgb:78605'
 title: Родник
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 location:
     type: point
     coordinates:

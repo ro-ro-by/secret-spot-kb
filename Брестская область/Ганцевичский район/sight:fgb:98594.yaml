@@ -2,8 +2,8 @@ id: 'sight:fgb:98594'
 title: 'Раздяловичские острова Черемушно'
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Ганцевичский район'
+    region: 'region:brest'
+    subregion: 'subregion:hncv'
 meta:
     fgb:
         post_id: '98594'

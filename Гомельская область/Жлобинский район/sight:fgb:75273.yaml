@@ -2,8 +2,8 @@ id: 'sight:fgb:75273'
 title: 'Парк Красный Берег'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 meta:
     fgb:
         post_id: '75273'

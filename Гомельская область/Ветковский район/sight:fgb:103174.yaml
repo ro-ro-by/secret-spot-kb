@@ -2,8 +2,8 @@ id: 'sight:fgb:103174'
 title: Гарадзішча
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 meta:
     fgb:
         post_id: '103174'

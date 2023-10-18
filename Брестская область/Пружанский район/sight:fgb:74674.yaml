@@ -2,8 +2,8 @@ id: 'sight:fgb:74674'
 title: Зельвянка
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 meta:
     fgb:
         post_id: '74674'

@@ -2,8 +2,8 @@ id: 'sight:fgb:98394'
 title: 'Бювет Боровая-2'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 location:
     type: point
     coordinates:

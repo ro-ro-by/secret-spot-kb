@@ -2,8 +2,8 @@ id: 'sight:fgb:96570'
 title: 'Ганніна груша'
 type: tree
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Хойникский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hnk'
 tree:
     type: pear
 meta:

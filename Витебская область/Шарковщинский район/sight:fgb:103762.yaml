@@ -2,8 +2,8 @@ id: 'sight:fgb:103762'
 title: 'Красная горка'
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Шарковщинский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:shrk'
 meta:
     fgb:
         post_id: '103762'

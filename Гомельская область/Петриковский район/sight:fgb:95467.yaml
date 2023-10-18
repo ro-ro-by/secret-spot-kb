@@ -2,8 +2,8 @@ id: 'sight:fgb:95467'
 title: Припятский
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '95467'

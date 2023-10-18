@@ -2,8 +2,8 @@ id: 'sight:fgb:77277'
 title: 'Парк СПК «Элит-Агро» и прилегающее урочище Гаик'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '77277'

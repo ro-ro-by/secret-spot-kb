@@ -2,8 +2,8 @@ id: 'sight:fgb:102754'
 title: 'Дзедава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Петриковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:ptrk'
 meta:
     fgb:
         post_id: '102754'

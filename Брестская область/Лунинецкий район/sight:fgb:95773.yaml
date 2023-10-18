@@ -2,8 +2,8 @@ id: 'sight:fgb:95773'
 title: 'Дуб Адама Мицкевича'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Лунинецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:lnn'
 tree:
     type: oak
 meta:

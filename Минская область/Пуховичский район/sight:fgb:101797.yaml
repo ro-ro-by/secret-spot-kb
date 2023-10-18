@@ -2,8 +2,8 @@ id: 'sight:fgb:101797'
 title: 'Сарафінава гара (Сарафін-гара, Серафім-гара)'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 location:
     type: point
     coordinates:

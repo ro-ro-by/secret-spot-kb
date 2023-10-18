@@ -2,8 +2,8 @@ id: 'sight:fgb:75294'
 title: 'Уникальный участок леса (дубрава)'
 type: forest
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лельчицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:lel'
 forest:
     dominated_type: oak
     types:

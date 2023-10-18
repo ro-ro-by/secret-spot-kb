@@ -2,8 +2,8 @@ id: 'sight:fgb:74670'
 title: 'Старинный парк г. Пружаны'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пружанский район'
+    region: 'region:brest'
+    subregion: 'subregion:przh'
 location:
     type: point
     coordinates:

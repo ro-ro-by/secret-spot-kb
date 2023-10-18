@@ -2,8 +2,8 @@ id: 'sight:fgb:102782'
 title: "Весялуха (Юр'ева горка)"
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '102782'

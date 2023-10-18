@@ -2,8 +2,8 @@ id: 'sight:fgb:75302'
 title: Днепро-Сожский
 type: area
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лоевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:loeu'
 meta:
     fgb:
         post_id: '75302'

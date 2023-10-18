@@ -2,8 +2,8 @@ id: 'sight:fgb:78486'
 title: 'На Садовой'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

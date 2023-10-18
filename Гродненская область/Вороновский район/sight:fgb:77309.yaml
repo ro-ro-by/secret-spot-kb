@@ -2,8 +2,8 @@ id: 'sight:fgb:77309'
 title: 'Парк Городно'
 type: park
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Вороновский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vrnv'
 meta:
     fgb:
         post_id: '77309'

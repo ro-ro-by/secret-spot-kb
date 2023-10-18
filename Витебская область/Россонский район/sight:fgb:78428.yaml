@@ -2,8 +2,8 @@ id: 'sight:fgb:78428'
 title: Слободской
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Россонский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:rsn'
 location:
     type: point
     coordinates:

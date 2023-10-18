@@ -2,8 +2,8 @@ id: 'sight:fgb:75091'
 title: 'Жорновский дендросад'
 type: park
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

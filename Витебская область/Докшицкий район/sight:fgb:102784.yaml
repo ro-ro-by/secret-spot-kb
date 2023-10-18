@@ -2,8 +2,8 @@ id: 'sight:fgb:102784'
 title: "Юр'еўская (Юр'ева) гара"
 type: sacral_hill
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '102784'

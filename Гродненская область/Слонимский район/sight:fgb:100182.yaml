@@ -2,8 +2,8 @@ id: 'sight:fgb:100182'
 title: 'Камень з надпісам'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Слонимский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:slnm'
 meta:
     fgb:
         post_id: '100182'

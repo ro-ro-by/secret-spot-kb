@@ -2,8 +2,8 @@ id: 'sight:fgb:75201'
 title: Дубрава
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Шкловский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:shkl'
 forest:
     dominated_type: oak
     types:

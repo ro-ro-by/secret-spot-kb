@@ -2,8 +2,8 @@ id: 'sight:fgb:99679'
 title: 'Парк Чечерский'
 type: park
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Чечерский район'
+    region: 'region:gomel'
+    subregion: 'subregion:chchr'
 meta:
     fgb:
         post_id: '99679'

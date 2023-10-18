@@ -2,8 +2,8 @@ id: 'sight:fgb:99090'
 title: 'У одинокой сосны'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Осиповичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:aspv'
 location:
     type: point
     coordinates:

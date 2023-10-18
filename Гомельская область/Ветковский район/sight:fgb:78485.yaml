@@ -2,8 +2,8 @@ id: 'sight:fgb:78485'
 title: Ключики
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Ветковский район'
+    region: 'region:gomel'
+    subregion: 'subregion:vtk'
 location:
     type: point
     coordinates:

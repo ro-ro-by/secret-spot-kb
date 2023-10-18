@@ -2,8 +2,8 @@ id: 'sight:fgb:101116'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 meta:
     fgb:
         post_id: '101116'

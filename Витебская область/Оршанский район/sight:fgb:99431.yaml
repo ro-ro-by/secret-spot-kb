@@ -2,8 +2,8 @@ id: 'sight:fgb:99431'
 title: Приднепровье-2
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

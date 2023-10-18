@@ -2,8 +2,8 @@ id: 'sight:fgb:75772'
 title: 'Валун вблизи д. Переток (Божы камень)'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 meta:
     fgb:
         post_id: '75772'

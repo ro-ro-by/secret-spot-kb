@@ -2,8 +2,8 @@ id: 'sight:fgb:77017'
 title: 'Гомельский родник, Гомля'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Полоцкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:plck'
 location:
     type: point
     coordinates:

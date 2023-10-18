@@ -2,8 +2,8 @@ id: 'sight:fgb:76802'
 title: 'Камень з выявай чалавека'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Докшицкий район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:dksh'
 meta:
     fgb:
         post_id: '76802'

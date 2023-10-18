@@ -2,8 +2,8 @@ id: 'sight:fgb:76689'
 title: 'Валун Камень с рыбками'
 type: boulder
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 location:
     type: point
     coordinates:

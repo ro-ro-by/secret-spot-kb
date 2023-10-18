@@ -2,8 +2,8 @@ id: 'sight:fgb:76023'
 title: 'Судницкие родники'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Столбцовский район'
+    region: 'region:minsk'
+    subregion: 'subregion:stb'
 location:
     type: point
     coordinates:

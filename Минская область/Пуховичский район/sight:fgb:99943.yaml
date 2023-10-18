@@ -2,8 +2,8 @@ id: 'sight:fgb:99943'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Пуховичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:phv'
 meta:
     fgb:
         post_id: '99943'

@@ -2,8 +2,8 @@ id: 'sight:fgb:103176'
 title: 'Сіняя гара(Сінягоры)'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Смолевичский район'
+    region: 'region:minsk'
+    subregion: 'subregion:smlv'
 meta:
     fgb:
         post_id: '103176'

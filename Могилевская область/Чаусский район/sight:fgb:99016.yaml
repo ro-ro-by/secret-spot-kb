@@ -2,8 +2,8 @@ id: 'sight:fgb:99016'
 title: Рагозинка-2
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Чаусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:chs'
 location:
     type: point
     coordinates:

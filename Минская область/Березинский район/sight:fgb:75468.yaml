@@ -2,8 +2,8 @@ id: 'sight:fgb:75468'
 title: Бараны
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Березинский район'
+    region: 'region:minsk'
+    subregion: 'subregion:brzn'
 meta:
     fgb:
         post_id: '75468'

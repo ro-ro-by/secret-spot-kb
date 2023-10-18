@@ -2,8 +2,8 @@ id: 'sight:fgb:79527'
 title: 'На 1-й Заводской'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Оршанский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:orsh'
 location:
     type: point
     coordinates:

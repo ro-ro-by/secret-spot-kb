@@ -2,8 +2,8 @@ id: 'sight:fgb:102902'
 title: 'Раманава гара'
 type: sacral_hill
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 meta:
     fgb:
         post_id: '102902'

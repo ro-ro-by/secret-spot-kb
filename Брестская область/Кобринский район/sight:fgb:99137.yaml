@@ -2,8 +2,8 @@ id: 'sight:fgb:99137'
 title: 'Каменное ложе'
 type: boulder
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 meta:
     fgb:
         post_id: '99137'

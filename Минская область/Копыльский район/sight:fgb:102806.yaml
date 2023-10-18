@@ -2,8 +2,8 @@ id: 'sight:fgb:102806'
 title: "Юр'еўская (Гара Крыжыкі, Паклонная гара, Прошча, Крыжовая гара)"
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Копыльский район'
+    region: 'region:minsk'
+    subregion: 'subregion:kpl'
 meta:
     fgb:
         post_id: '102806'

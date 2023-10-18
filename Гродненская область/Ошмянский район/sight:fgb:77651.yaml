@@ -2,8 +2,8 @@ id: 'sight:fgb:77651'
 title: 'Огородникский большой камень'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ошмянский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:ashm'
 location:
     type: point
     coordinates:

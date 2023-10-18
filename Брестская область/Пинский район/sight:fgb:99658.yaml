@@ -2,8 +2,8 @@ id: 'sight:fgb:99658'
 title: 'Парк Бердуны'
 type: park
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Пинский район'
+    region: 'region:brest'
+    subregion: 'subregion:pnsk'
 meta:
     fgb:
         post_id: '99658'

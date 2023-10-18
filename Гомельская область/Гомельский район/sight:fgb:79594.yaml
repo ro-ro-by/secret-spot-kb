@@ -2,8 +2,8 @@ id: 'sight:fgb:79594'
 title: 'Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Гомельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hml'
 meta:
     fgb:
         post_id: '79594'

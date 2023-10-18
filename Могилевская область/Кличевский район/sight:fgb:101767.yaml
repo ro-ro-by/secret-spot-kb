@@ -2,8 +2,8 @@ id: 'sight:fgb:101767'
 title: 'Родник Альховка'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 location:
     type: point
     coordinates:

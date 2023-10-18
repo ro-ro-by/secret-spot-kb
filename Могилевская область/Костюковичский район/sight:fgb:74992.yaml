@@ -2,8 +2,8 @@ id: 'sight:fgb:74992'
 title: Надмогилье-жернова
 type: boulder
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 meta:
     fgb:
         post_id: '74992'

@@ -2,8 +2,8 @@ id: 'sight:fgb:97800'
 title: 'Вековые деревья Голынковского лесничества'
 type: tree
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Клецкий район'
+    region: 'region:minsk'
+    subregion: 'subregion:klck'
 location:
     type: point
     coordinates:

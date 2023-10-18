@@ -2,8 +2,8 @@ id: 'sight:fgb:103830'
 title: 'Сонная гара'
 type: sacral_hill
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Лунинецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:lnn'
 meta:
     fgb:
         post_id: '103830'

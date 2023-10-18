@@ -2,8 +2,8 @@ id: 'sight:fgb:103152'
 title: 'Воўчая гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Речицкий район'
+    region: 'region:gomel'
+    subregion: 'subregion:rchc'
 meta:
     fgb:
         post_id: '103152'

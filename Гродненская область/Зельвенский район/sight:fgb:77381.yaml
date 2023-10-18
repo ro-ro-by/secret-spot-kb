@@ -2,8 +2,8 @@ id: 'sight:fgb:77381'
 title: 'Родник Зеньковский'
 type: spring
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 location:
     type: point
     coordinates:

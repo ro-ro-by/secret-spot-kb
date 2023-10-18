@@ -2,8 +2,8 @@ id: 'sight:fgb:103606'
 title: 'Князева гара (Княжая гара)'
 type: sacral_hill
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Волковысский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:vlkv'
 meta:
     fgb:
         post_id: '103606'

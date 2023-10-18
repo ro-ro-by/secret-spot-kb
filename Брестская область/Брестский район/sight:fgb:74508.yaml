@@ -2,8 +2,8 @@ id: 'sight:fgb:74508'
 title: 'Дуб пирамидальный'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Брестский район'
+    region: 'region:brest'
+    subregion: 'subregion:brst'
 tree:
     type: oak
 meta:

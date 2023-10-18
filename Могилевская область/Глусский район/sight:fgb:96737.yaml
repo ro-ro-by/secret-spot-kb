@@ -2,8 +2,8 @@ id: 'sight:fgb:96737'
 title: 'Святой дуб'
 type: tree
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Глусский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hlsk'
 tree:
     type: oak
 meta:

@@ -2,8 +2,8 @@ id: 'sight:fgb:88091'
 title: 'Колодец Далмана'
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Поставский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:pstv'
 meta:
     fgb:
         post_id: '88091'

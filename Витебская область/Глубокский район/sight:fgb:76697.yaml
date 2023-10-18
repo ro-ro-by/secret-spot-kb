@@ -2,8 +2,8 @@ id: 'sight:fgb:76697'
 title: 'Горвацкий кам (Гарвацкі кам)'
 type: area
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Глубокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:hlbk'
 meta:
     fgb:
         post_id: '76697'

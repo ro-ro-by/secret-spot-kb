@@ -2,8 +2,8 @@ id: 'sight:fgb:75773'
 title: 'Родник в урочище Первый Переток'
 type: spring
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Любанский район'
+    region: 'region:minsk'
+    subregion: 'subregion:lbn'
 location:
     type: point
     coordinates:

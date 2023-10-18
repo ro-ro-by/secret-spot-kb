@@ -2,8 +2,8 @@ id: 'sight:fgb:88102'
 title: Истобки-1
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Жлобинский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhlb'
 location:
     type: point
     coordinates:

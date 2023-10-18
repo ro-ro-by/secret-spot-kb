@@ -2,8 +2,8 @@ id: 'sight:fgb:74588'
 title: Серебряный
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Каменецкий район'
+    region: 'region:brest'
+    subregion: 'subregion:kmn'
 location:
     type: point
     coordinates:

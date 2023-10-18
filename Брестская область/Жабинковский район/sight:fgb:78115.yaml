@@ -2,8 +2,8 @@ id: 'sight:fgb:78115'
 title: Вийска
 type: spring
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Жабинковский район'
+    region: 'region:brest'
+    subregion: 'subregion:zhbnk'
 meta:
     fgb:
         post_id: '78115'

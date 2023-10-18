@@ -2,8 +2,8 @@ id: 'sight:fgb:74991'
 title: 'Студенец (Свято-Духовский)'
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Костюковичский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:kst'
 location:
     type: point
     coordinates:

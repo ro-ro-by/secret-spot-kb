@@ -2,8 +2,8 @@ id: 'sight:fgb:74782'
 title: 'Дендрологический парк в городе Горки'
 type: park
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Горецкий район'
+    region: 'region:mahileu'
+    subregion: 'subregion:hrk'
 location:
     type: point
     coordinates:

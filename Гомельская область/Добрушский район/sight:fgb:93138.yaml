@@ -2,8 +2,8 @@ id: 'sight:fgb:93138'
 title: 'Родник Гордуновка (Гордовин)'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Добрушский район'
+    region: 'region:gomel'
+    subregion: 'subregion:drb'
 location:
     type: point
     coordinates:

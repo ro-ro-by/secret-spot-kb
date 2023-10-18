@@ -2,8 +2,8 @@ id: 'sight:fgb:76751'
 title: Заборок
 type: spring
 belongsTo:
-    region: 'Витебская область'
-    subregion: 'Городокский район'
+    region: 'region:vitsebsk'
+    subregion: 'subregion:grdk'
 location:
     type: point
     coordinates:

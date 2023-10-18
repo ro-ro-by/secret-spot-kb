@@ -2,8 +2,8 @@ id: 'sight:fgb:74959'
 title: Вязень
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кличевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:klch'
 meta:
     fgb:
         post_id: '74959'

@@ -2,8 +2,8 @@ id: 'sight:fgb:101137'
 title: 'Архаічная крапільніца ў касцёле'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Ивьевский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:iue'
 meta:
     fgb:
         post_id: '101137'

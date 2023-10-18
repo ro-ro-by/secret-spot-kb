@@ -2,8 +2,8 @@ id: 'sight:fgb:75056'
 title: Воротей
 type: area
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Могилевский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mhl'
 meta:
     fgb:
         post_id: '75056'

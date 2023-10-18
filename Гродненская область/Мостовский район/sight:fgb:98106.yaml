@@ -2,8 +2,8 @@ id: 'sight:fgb:98106'
 title: 'Камень, связанный с Богородицей'
 type: boulder
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Мостовский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:mst'
 meta:
     fgb:
         post_id: '98106'

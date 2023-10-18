@@ -2,8 +2,8 @@ id: 'sight:fgb:77370'
 title: Вишневка
 type: area
 belongsTo:
-    region: 'Гродненская область'
-    subregion: 'Зельвенский район'
+    region: 'region:hrodna'
+    subregion: 'subregion:zlv'
 meta:
     fgb:
         post_id: '77370'

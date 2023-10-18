@@ -2,8 +2,8 @@ id: 'sight:fgb:74820'
 title: 'Дубовая роща'
 type: forest
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Кировский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:krsk'
 forest:
     dominated_type: oak
 location:

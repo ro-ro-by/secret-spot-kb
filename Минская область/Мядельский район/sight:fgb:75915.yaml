@@ -2,8 +2,8 @@ id: 'sight:fgb:75915'
 title: 'Полуостров Дубовая гора'
 type: hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '75915'

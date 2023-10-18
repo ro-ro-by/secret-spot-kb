@@ -2,8 +2,8 @@ id: 'sight:fgb:79600'
 title: Фонтан
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Лоевский район'
+    region: 'region:gomel'
+    subregion: 'subregion:loeu'
 location:
     type: point
     coordinates:

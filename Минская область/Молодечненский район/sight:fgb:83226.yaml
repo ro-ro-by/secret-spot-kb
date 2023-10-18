@@ -2,8 +2,8 @@ id: 'sight:fgb:83226'
 title: 'Парк Мясота'
 type: park
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Молодечненский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mld'
 meta:
     fgb:
         post_id: '83226'

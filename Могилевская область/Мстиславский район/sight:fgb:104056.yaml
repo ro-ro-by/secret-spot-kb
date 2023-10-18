@@ -2,8 +2,8 @@ id: 'sight:fgb:104056'
 title: Даниловск-1
 type: spring
 belongsTo:
-    region: 'Могилевская область'
-    subregion: 'Мстиславский район'
+    region: 'region:mahileu'
+    subregion: 'subregion:mstsl'
 location:
     type: point
     coordinates:

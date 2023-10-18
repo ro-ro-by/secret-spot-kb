@@ -2,8 +2,8 @@ id: 'sight:fgb:74637'
 title: Луково
 type: area
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Малоритский район'
+    region: 'region:brest'
+    subregion: 'subregion:mlrt'
 meta:
     fgb:
         post_id: '74637'

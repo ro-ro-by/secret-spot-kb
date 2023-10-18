@@ -2,8 +2,8 @@ id: 'sight:fgb:97031'
 title: 'Группа дубов'
 type: tree
 belongsTo:
-    region: 'Брестская область'
-    subregion: 'Кобринский район'
+    region: 'region:brest'
+    subregion: 'subregion:kbrn'
 location:
     type: point
     coordinates:

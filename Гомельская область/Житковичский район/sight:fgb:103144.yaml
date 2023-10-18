@@ -2,8 +2,8 @@ id: 'sight:fgb:103144'
 title: 'Бараняя гара'
 type: sacral_hill
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Житковичский район'
+    region: 'region:gomel'
+    subregion: 'subregion:zhtk'
 meta:
     fgb:
         post_id: '103144'

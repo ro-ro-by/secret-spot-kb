@@ -2,8 +2,8 @@ id: 'sight:fgb:99426'
 title: 'Бювет Машиностроитель'
 type: spring
 belongsTo:
-    region: 'Гомельская область'
-    subregion: 'Гомельский район'
+    region: 'region:gomel'
+    subregion: 'subregion:hml'
 meta:
     fgb:
         post_id: '99426'

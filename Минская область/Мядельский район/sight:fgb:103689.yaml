@@ -2,8 +2,8 @@ id: 'sight:fgb:103689'
 title: 'Гара Сарвітута'
 type: sacral_hill
 belongsTo:
-    region: 'Минская область'
-    subregion: 'Мядельский район'
+    region: 'region:minsk'
+    subregion: 'subregion:mdzl'
 meta:
     fgb:
         post_id: '103689'
