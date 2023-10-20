@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:shch'
+osm:
+    -
+        type: relation
+        id: 9254769
 meta:
     fgb:
         post_id: '77771'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77771#77771'
                 version: '30 Oct 2021, Sat, 10:36'
-osm:
-    -
-        type: relation
-        id: 9254769

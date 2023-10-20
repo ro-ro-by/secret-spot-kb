@@ -4,6 +4,10 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+osm:
+    -
+        type: way
+        id: 132985144
 meta:
     fgb:
         post_id: '96124'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96124#96124'
                 version: '20 Jun 2020, Sat, 20:55'
-osm:
-    -
-        type: way
-        id: 132985144

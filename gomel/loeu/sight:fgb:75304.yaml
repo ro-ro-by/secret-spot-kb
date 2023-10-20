@@ -4,6 +4,13 @@ type: park
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:loeu'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.03067
+            lon: 30.73173
+        source: fgb
 meta:
     fgb:
         post_id: '75304'
@@ -15,10 +22,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75304#75304'
                 version: '03 Nov 2022, Thu, 13:40'
-location:
-    -
-        type: point
-        coordinates:
-            lat: 52.03067
-            lon: 30.73173
-        source: fgb

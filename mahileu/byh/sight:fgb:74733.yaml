@@ -1,8 +1,6 @@
 id: 'sight:fgb:74733'
 title: 'Сосны-гиганты Новобоярские'
 type: tree
-tree:
-    type: pine
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:byh'
@@ -13,6 +11,8 @@ location:
             lat: '53.42021'
             lon: '30.0037'
         source: fgb
+tree:
+    type: pine
 meta:
     fgb:
         post_id: '74733'

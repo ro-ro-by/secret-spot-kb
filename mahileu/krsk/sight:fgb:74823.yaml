@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krsk'
+osm:
+    -
+        type: relation
+        id: 7917570
 meta:
     fgb:
         post_id: '74823'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74823#74823'
                 version: '17 Sep 2021, Fri, 13:55'
-osm:
-    -
-        type: relation
-        id: 7917570

@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:ptrk'
+osm:
+    -
+        type: relation
+        id: 3875969
 meta:
     fgb:
         post_id: '95467'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95467#95467'
                 version: '05 Mar 2020, Thu, 14:18'
-osm:
-    -
-        type: relation
-        id: 3875969

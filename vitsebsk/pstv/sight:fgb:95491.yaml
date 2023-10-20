@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:pstv'
+osm:
+    -
+        type: relation
+        id: 3367925
 meta:
     fgb:
         post_id: '95491'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95491#95491'
                 version: '27 Apr 2021, Tue, 22:13'
-osm:
-    -
-        type: relation
-        id: 3367925

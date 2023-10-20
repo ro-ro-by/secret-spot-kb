@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:kmn'
+osm:
+    -
+        type: relation
+        id: 4096466
 meta:
     fgb:
         post_id: '74590'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74590#74590'
                 version: '13 Nov 2020, Fri, 22:09'
-osm:
-    -
-        type: relation
-        id: 4096466

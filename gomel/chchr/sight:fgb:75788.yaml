@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:chchr'
+osm:
+    -
+        type: relation
+        id: 9256291
 meta:
     fgb:
         post_id: '75788'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75788#75788'
                 version: '16 Oct 2021, Sat, 7:34'
-osm:
-    -
-        type: relation
-        id: 9256291

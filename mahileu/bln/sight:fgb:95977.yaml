@@ -4,6 +4,10 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bln'
+osm:
+    -
+        type: node
+        id: 2788683726
 meta:
     fgb:
         post_id: '95977'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95977#95977'
                 version: '03 Jun 2020, Wed, 22:39'
-osm:
-    -
-        type: node
-        id: 2788683726

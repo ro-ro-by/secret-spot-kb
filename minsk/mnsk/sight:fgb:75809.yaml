@@ -4,6 +4,10 @@ type: spring
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+osm:
+    -
+        type: relation
+        id: 5637028
 meta:
     fgb:
         post_id: '75809'
@@ -15,7 +19,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75809#75809'
                 version: '25 Jan 2021, Mon, 21:56'
-osm:
-    -
-        type: relation
-        id: 5637028
