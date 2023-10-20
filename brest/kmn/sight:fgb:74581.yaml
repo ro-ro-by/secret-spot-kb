@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: ivy
 location:
-    type: point
-    coordinates:
-        lat: 52.478917
-        lon: 23.519389
+    -
+        type: point
+        coordinates:
+            lat: 52.478917
+            lon: 23.519389
+        source: fgb
 meta:
     fgb:
         post_id: '74581'

@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:kbrn'
 location:
-    type: point
-    coordinates:
-        lat: 51.986056
-        lon: 24.539528
+    -
+        type: point
+        coordinates:
+            lat: 51.986056
+            lon: 24.539528
+        source: fgb
 tree:
     type: oak
 meta:

@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chs'
 location:
-    type: point
-    coordinates:
-        lat: 53.701083
-        lon: 31.098083
+    -
+        type: point
+        coordinates:
+            lat: 53.701083
+            lon: 31.098083
+        source: fgb
 tree:
     type: oak
 meta:

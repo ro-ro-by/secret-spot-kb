@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: pine
 location:
-    type: point
-    coordinates:
-        lat: 53.828667
-        lon: 30.982056
+    -
+        type: point
+        coordinates:
+            lat: 53.828667
+            lon: 30.982056
+        source: fgb
 meta:
     fgb:
         post_id: '75157'

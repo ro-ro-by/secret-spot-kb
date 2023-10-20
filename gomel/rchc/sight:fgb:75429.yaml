@@ -18,7 +18,9 @@ meta:
                 url: 'https://fgb.by/viewtopic.php?p=75429#75429'
                 version: '15 Nov 2022, Tue, 17:24'
 location:
-    type: point
-    coordinates:
-        lat: 52.20397
-        lon: 29.86972
+    -
+        type: point
+        coordinates:
+            lat: 52.20397
+            lon: 29.86972
+        source: fgb

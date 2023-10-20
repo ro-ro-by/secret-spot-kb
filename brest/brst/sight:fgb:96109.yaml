@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: fir
 location:
-    type: point
-    coordinates:
-        lat: 52.085694
-        lon: 23.684778
+    -
+        type: point
+        coordinates:
+            lat: 52.085694
+            lon: 23.684778
+        source: fgb
 meta:
     fgb:
         post_id: '96109'

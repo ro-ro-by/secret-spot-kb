@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: larch
 location:
-    type: point
-    coordinates:
-        lat: 52.27579
-        lon: 25.78441
+    -
+        type: point
+        coordinates:
+            lat: 52.27579
+            lon: 25.78441
+        source: fgb
 meta:
     fgb:
         post_id: '101771'

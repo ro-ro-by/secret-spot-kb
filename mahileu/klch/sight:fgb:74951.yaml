@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: oak
 location:
-    type: point
-    coordinates:
-        lat: 53.371111
-        lon: 29.026722
+    -
+        type: point
+        coordinates:
+            lat: 53.371111
+            lon: 29.026722
+        source: fgb
 meta:
     fgb:
         post_id: '74951'

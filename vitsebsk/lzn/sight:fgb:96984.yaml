@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:lzn'
 location:
-    type: point
-    coordinates:
-        lat: 54.88925
-        lon: 30.54825
+    -
+        type: point
+        coordinates:
+            lat: 54.88925
+            lon: 30.54825
+        source: fgb
 tree:
     type: pine
 meta:

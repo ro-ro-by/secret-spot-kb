@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mld'
 location:
-    type: point
-    coordinates:
-        lat: '54.42186'
-        lon: '26.79493'
+    -
+        type: point
+        coordinates:
+            lat: '54.42186'
+            lon: '26.79493'
+        source: fgb
 meta:
     fgb:
         post_id: '88123'

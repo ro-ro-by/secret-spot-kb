@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:aspv'
 location:
-    type: point
-    coordinates:
-        lat: '53.457748'
-        lon: '28.617488'
+    -
+        type: point
+        coordinates:
+            lat: '53.457748'
+            lon: '28.617488'
+        source: fgb
 meta:
     fgb:
         post_id: '75091'

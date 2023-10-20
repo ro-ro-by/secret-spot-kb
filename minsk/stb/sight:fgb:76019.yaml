@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: tilia
 location:
-    type: point
-    coordinates:
-        lat: 53.419167
-        lon: 26.819556
+    -
+        type: point
+        coordinates:
+            lat: 53.419167
+            lon: 26.819556
+        source: fgb
 meta:
     fgb:
         post_id: '76019'

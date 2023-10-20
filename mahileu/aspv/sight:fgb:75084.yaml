@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:aspv'
 location:
-    type: point
-    coordinates:
-        lat: 53.35086
-        lon: 28.99972
+    -
+        type: point
+        coordinates:
+            lat: 53.35086
+            lon: 28.99972
+        source: fgb
 tree:
     type: oak
 meta:

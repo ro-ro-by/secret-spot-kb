@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:bshn'
 location:
-    type: point
-    coordinates:
-        lat: 55.044556
-        lon: 29.461556
+    -
+        type: point
+        coordinates:
+            lat: 55.044556
+            lon: 29.461556
+        source: fgb
 meta:
     fgb:
         post_id: '76132'

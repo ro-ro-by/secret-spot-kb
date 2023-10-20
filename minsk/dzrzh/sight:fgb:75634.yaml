@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: birch_curly
 location:
-    type: point
-    coordinates:
-        lat: 53.704917
-        lon: 27.029278
+    -
+        type: point
+        coordinates:
+            lat: 53.704917
+            lon: 27.029278
+        source: fgb
 meta:
     fgb:
         post_id: '75634'

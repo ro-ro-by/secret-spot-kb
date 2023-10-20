@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: birch
 location:
-    type: point
-    coordinates:
-        lat: 53.426306
-        lon: 32.567889
+    -
+        type: point
+        coordinates:
+            lat: 53.426306
+            lon: 32.567889
+        source: fgb
 meta:
     fgb:
         post_id: '75142'

@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:slnm'
 location:
-    type: point
-    coordinates:
-        lat: '53.01832'
-        lon: '25.34812'
+    -
+        type: point
+        coordinates:
+            lat: '53.01832'
+            lon: '25.34812'
+        source: fgb
 meta:
     fgb:
         post_id: '77718'

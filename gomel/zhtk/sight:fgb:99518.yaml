@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:zhtk'
 location:
-    type: point
-    coordinates:
-        lat: '52.00119'
-        lon: '27.85768'
+    -
+        type: point
+        coordinates:
+            lat: '52.00119'
+            lon: '27.85768'
+        source: fgb
 tree:
     type: pine
 meta:

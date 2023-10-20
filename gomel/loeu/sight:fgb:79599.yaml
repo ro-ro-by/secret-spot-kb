@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:loeu'
 location:
-    type: point
-    coordinates:
-        lat: '51.99623'
-        lon: '30.75075'
+    -
+        type: point
+        coordinates:
+            lat: '51.99623'
+            lon: '30.75075'
+        source: fgb
 meta:
     fgb:
         post_id: '79599'

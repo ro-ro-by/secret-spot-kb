@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:mlrt'
 location:
-    type: point
-    coordinates:
-        lat: 51.7075
-        lon: 24.091944
+    -
+        type: point
+        coordinates:
+            lat: 51.7075
+            lon: 24.091944
+        source: fgb
 tree:
     type: tilia
 meta:

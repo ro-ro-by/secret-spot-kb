@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:lida'
 location:
-    type: point
-    coordinates:
-        lat: 53.787333
-        lon: 25.186056
+    -
+        type: point
+        coordinates:
+            lat: 53.787333
+            lon: 25.186056
+        source: fgb
 tree:
     type: oak
 meta:

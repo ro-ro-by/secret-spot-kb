@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:zhbnk'
 location:
-    type: point
-    coordinates:
-        lat: 52.19759
-        lon: 24.0601
+    -
+        type: point
+        coordinates:
+            lat: 52.19759
+            lon: 24.0601
+        source: fgb
 meta:
     fgb:
         post_id: '95165'

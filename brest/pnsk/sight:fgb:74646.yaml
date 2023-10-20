@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:pnsk'
 location:
-    type: point
-    coordinates:
-        lat: 52.368
-        lon: 23.37625
+    -
+        type: point
+        coordinates:
+            lat: 52.368
+            lon: 23.37625
+        source: fgb
 tree:
     type: elm
 meta:

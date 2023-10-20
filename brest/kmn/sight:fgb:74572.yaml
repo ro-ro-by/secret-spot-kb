@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:kmn'
 location:
-    type: point
-    coordinates:
-        lat: '52.41811'
-        lon: '23.34836'
+    -
+        type: point
+        coordinates:
+            lat: '52.41811'
+            lon: '23.34836'
+        source: fgb
 meta:
     fgb:
         post_id: '74572'

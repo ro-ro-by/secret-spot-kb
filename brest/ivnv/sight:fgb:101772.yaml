@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: firs_douglas
 location:
-    type: point
-    coordinates:
-        lat: 52.01115
-        lon: 25.6918
+    -
+        type: point
+        coordinates:
+            lat: 52.01115
+            lon: 25.6918
+        source: fgb
 meta:
     fgb:
         post_id: '101772'

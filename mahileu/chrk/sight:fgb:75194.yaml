@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chrk'
 location:
-    type: point
-    coordinates:
-        lat: '53.54170'
-        lon: '31.3295'
+    -
+        type: point
+        coordinates:
+            lat: '53.54170'
+            lon: '31.3295'
+        source: fgb
 meta:
     fgb:
         post_id: '75194'

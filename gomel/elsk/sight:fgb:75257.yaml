@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:elsk'
 location:
-    type: point
-    coordinates:
-        lat: 51.756
-        lon: 29.03447
+    -
+        type: point
+        coordinates:
+            lat: 51.756
+            lon: 29.03447
+        source: fgb
 tree:
     type: pine
 meta:

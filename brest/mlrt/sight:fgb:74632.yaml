@@ -7,10 +7,12 @@ belongsTo:
 forest:
     dominated_type: spruce
 location:
-    type: point
-    coordinates:
-        lat: 51.876667
-        lon: 23.981667
+    -
+        type: point
+        coordinates:
+            lat: 51.876667
+            lon: 23.981667
+        source: fgb
 meta:
     fgb:
         post_id: '74632'

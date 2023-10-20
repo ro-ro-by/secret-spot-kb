@@ -9,10 +9,12 @@ forest:
     types:
         - oak
 location:
-    type: point
-    coordinates:
-        lat: 54.586583
-        lon: 25.9655
+    -
+        type: point
+        coordinates:
+            lat: 54.586583
+            lon: 25.9655
+        source: fgb
 meta:
     fgb:
         post_id: '97339'

@@ -5,10 +5,12 @@ belongsTo:
     region: 'region:brest'
     subregion: 'subregion:lhv'
 location:
-    type: point
-    coordinates:
-        lat: '53.09219'
-        lon: '26.26869'
+    -
+        type: point
+        coordinates:
+            lat: '53.09219'
+            lon: '26.26869'
+        source: fgb
 meta:
     fgb:
         post_id: '91009'
