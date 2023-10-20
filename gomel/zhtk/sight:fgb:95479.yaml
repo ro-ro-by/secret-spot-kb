@@ -1,5 +1,5 @@
 id: 'sight:fgb:95479'
-title: ''
+title: 'Средняя Припять'
 type: area
 belongsTo:
     region: 'region:gomel'
@@ -15,3 +15,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95479#95479'
                 version: '28 Jul 2020, Tue, 20:36'
+osm:
+    -
+        type: relation
+        id: 8032871

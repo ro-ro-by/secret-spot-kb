@@ -1,6 +1,6 @@
 id: 'sight:fgb:75306'
 title: 'Мозырские овраги'
-type: boulder
+type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:mzr'
@@ -15,3 +15,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75306#75306'
                 version: '23 Aug 2020, Sun, 22:42'
+osm:
+    -
+        type: relation
+        id: 6648668
