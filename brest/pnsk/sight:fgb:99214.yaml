@@ -10,7 +10,11 @@ osm:
         id: 9191876
 meta:
     fgb:
-        post_id: '99214'
+        post_id:
+            - '99214'
+            - '99213'
+            - '99211'
+            - '99212'
         author:
             name: Валацуга
     source:
@@ -19,3 +23,18 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99214#99214'
                 version: '11 Nov 2021, Thu, 10:37'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99213#99213'
+                version: '11 Nov 2021, Thu, 10:36'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99211#99211'
+                version: '11 Nov 2021, Thu, 10:35'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=99212#99212'
+                version: '11 Nov 2021, Thu, 10:36'

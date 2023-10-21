@@ -10,7 +10,11 @@ osm:
         id: 9124491
 meta:
     fgb:
-        post_id: '95504'
+        post_id:
+            - '95504'
+            - '95506'
+            - '95507'
+            - '95505'
         author:
             name: Валацуга
     source:
@@ -19,3 +23,18 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95504#95504'
                 version: '22 Aug 2020, Sat, 23:01'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95506#95506'
+                version: '05 Mar 2020, Thu, 21:05'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95507#95507'
+                version: '05 Mar 2020, Thu, 21:05'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95505#95505'
+                version: '22 Aug 2020, Sat, 23:03'

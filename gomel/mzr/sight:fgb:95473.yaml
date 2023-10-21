@@ -6,7 +6,9 @@ belongsTo:
     subregion: 'subregion:mzr'
 meta:
     fgb:
-        post_id: '95473'
+        post_id:
+            - '95473'
+            - '95472'
         author:
             name: Валацуга
     source:
@@ -15,3 +17,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95473#95473'
                 version: '23 Aug 2020, Sun, 23:58'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95472#95472'
+                version: '23 Aug 2020, Sun, 23:59'

@@ -6,7 +6,9 @@ belongsTo:
     subregion: 'subregion:hlbk'
 meta:
     fgb:
-        post_id: '95460'
+        post_id:
+            - '95460'
+            - '95461'
         author:
             name: Валацуга
     source:
@@ -15,3 +17,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95460#95460'
                 version: '24 Jan 2021, Sun, 12:33'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95461#95461'
+                version: '24 Jan 2021, Sun, 12:34'

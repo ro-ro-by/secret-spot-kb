@@ -10,7 +10,9 @@ osm:
         id: 7827086
 meta:
     fgb:
-        post_id: '95455'
+        post_id:
+            - '95455'
+            - '95454'
         author:
             name: Валацуга
     source:
@@ -19,3 +21,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95455#95455'
                 version: '07 May 2021, Fri, 15:02'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95454#95454'
+                version: '30 Apr 2021, Fri, 19:06'

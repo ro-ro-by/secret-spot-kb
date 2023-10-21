@@ -6,7 +6,9 @@ belongsTo:
     subregion: 'subregion:dksh'
 meta:
     fgb:
-        post_id: '76900'
+        post_id:
+            - '76900'
+            - '76679'
         author:
             name: Валацуга
     source:
@@ -15,3 +17,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76900#76900'
                 version: '22 Jan 2021, Fri, 20:34'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=76679#76679'
+                version: '22 Jan 2021, Fri, 20:31'

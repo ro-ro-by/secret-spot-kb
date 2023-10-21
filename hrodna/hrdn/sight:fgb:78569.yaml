@@ -11,9 +11,15 @@ location:
             lat: 53.773
             lon: 24.190111
         source: fgb
+osm:
+    -
+        type: relation
+        id: 7921072
 meta:
     fgb:
-        post_id: '78569'
+        post_id:
+            - '78569'
+            - '77796'
         author:
             name: Валацуга
     source:
@@ -22,3 +28,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78569#78569'
                 version: '20 Sep 2022, Tue, 22:09'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77796#77796'
+                version: '30 Oct 2021, Sat, 13:57'
