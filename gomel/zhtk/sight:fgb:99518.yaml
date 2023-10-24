@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:zhtk'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: '52.00119'
             lon: '27.85768'
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '99518'

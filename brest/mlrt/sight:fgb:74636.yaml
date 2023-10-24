@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:mlrt'
+tree:
+    type: beech
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 51.936194
             lon: 24.067806
         source: fgb
-tree:
-    type: beech
 meta:
     fgb:
         post_id: '74636'

@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:slgrd'
+tree:
+    type: larch
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 53.56275
             lon: 30.958139
         source: fgb
-tree:
-    type: larch
 meta:
     fgb:
         post_id: '75102'

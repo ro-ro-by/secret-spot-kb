@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+tree:
+    type: honey_locust
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 52.084056
             lon: 23.686917
         source: fgb
-tree:
-    type: honey_locust
 meta:
     fgb:
         post_id: '96108'

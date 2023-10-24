@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brs'
+tree:
+    type: tilia
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 54.146778
             lon: 28.423528
         source: fgb
-tree:
-    type: tilia
 meta:
     fgb:
         post_id: '101741'

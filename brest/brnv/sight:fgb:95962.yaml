@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.372353
+            lon: 25.777581
+        source:
+            type: osm
+            osm:
+                type: node
+                id: 2788683724
 osm:
     -
         type: node

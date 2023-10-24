@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:elsk'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 51.756
             lon: 29.03447
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '75257'

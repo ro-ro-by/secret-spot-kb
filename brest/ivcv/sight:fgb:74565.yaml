@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivcv'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 52.566806
             lon: 25.907583
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '74565'

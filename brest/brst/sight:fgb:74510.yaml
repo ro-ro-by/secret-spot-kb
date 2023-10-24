@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+tree:
+    type: ivy
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 52.091861
             lon: 23.725806
         source: fgb
-tree:
-    type: ivy
 meta:
     fgb:
         post_id: '74510'

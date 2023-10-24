@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:dksh'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: '54.712863'
             lon: '27.946045'
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '76807'

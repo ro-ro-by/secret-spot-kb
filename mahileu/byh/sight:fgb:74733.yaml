@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:byh'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: '53.42021'
             lon: '30.0037'
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '74733'

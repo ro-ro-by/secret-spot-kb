@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:pnsk'
+tree:
+    type: elm
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 51.998306
             lon: 25.824472
         source: fgb
-tree:
-    type: elm
 meta:
     fgb:
         post_id: '74645'

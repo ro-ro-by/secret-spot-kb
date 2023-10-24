@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:kpl'
+tree:
+    type: birch_black
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 53.148722
             lon: 27.014611
         source: fgb
-tree:
-    type: birch_black
 meta:
     fgb:
         post_id: '75649'

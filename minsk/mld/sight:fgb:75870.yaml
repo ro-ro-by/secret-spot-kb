@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mld'
+tree:
+    type: larch
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 54.288278
             lon: 26.635556
         source: fgb
-tree:
-    type: larch
 meta:
     fgb:
         post_id: '75870'

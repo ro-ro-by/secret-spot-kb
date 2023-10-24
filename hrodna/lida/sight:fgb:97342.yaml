@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:lida'
+tree:
+    type: pine
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 53.844611
             lon: 25.378
         source: fgb
-tree:
-    type: pine
 meta:
     fgb:
         post_id: '97342'

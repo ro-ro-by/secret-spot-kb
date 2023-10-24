@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:mlrt'
+tree:
+    type: tilia
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 51.7075
             lon: 24.091944
         source: fgb
-tree:
-    type: tilia
 meta:
     fgb:
         post_id: '74630'

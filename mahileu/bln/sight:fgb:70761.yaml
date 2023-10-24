@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bln'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-368945693.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 368945693
 osm:
     -
         type: way

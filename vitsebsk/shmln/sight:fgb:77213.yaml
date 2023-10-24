@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:shmln'
+tree:
+    type: aspen
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 55.523972
             lon: 29.567861
         source: fgb
-tree:
-    type: aspen
 meta:
     fgb:
         post_id: '77213'

@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+tree:
+    type: cottonwood
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 53.902472
             lon: 27.575083
         source: fgb
-tree:
-    type: cottonwood
 meta:
     fgb:
         post_id: '76105'

@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:hncv'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-538798780.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 538798780
 osm:
     -
         type: way

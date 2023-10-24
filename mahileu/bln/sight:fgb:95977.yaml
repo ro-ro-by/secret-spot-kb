@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bln'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.0057631
+            lon: 29.7134832
+        source:
+            type: osm
+            osm:
+                type: node
+                id: 2788683726
 osm:
     -
         type: node

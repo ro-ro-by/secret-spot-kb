@@ -4,6 +4,8 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+tree:
+    type: ash
 location:
     -
         type: point
@@ -11,8 +13,6 @@ location:
             lat: 53.975972
             lon: 27.130333
         source: fgb
-tree:
-    type: ash
 meta:
     fgb:
         post_id: '101742'
