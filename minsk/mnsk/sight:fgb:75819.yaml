@@ -4,6 +4,10 @@ type: outcrop
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+osm:
+    -
+        type: way
+        id: 1084487694
 meta:
     fgb:
         post_id: '75819'

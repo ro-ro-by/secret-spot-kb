@@ -4,6 +4,10 @@ type: hill
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:shch'
+osm:
+    -
+        type: relation
+        id: 14962278
 meta:
     fgb:
         post_id: '77785'

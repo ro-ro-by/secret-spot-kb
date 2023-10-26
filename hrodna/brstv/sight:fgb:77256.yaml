@@ -4,6 +4,10 @@ type: park
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:brstv'
+osm:
+    -
+        type: way
+        id: 637832924
 meta:
     fgb:
         post_id: '77256'

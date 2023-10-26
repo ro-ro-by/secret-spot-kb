@@ -4,6 +4,10 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+osm:
+    -
+        type: relation
+        id: 12281414
 meta:
     fgb:
         post_id: '95963'

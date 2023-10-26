@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:zhtk'
+osm:
+    -
+        type: relation
+        id: 7811439
 meta:
     fgb:
         post_id: '97390'

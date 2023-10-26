@@ -1,9 +1,13 @@
 id: 'sight:fgb:76397'
 title: Рубовский
-type: boulder
+type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:vtb'
+osm:
+    -
+        type: relation
+        id: 8935111
 meta:
     fgb:
         post_id: '76397'

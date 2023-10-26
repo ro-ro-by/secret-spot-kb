@@ -11,6 +11,10 @@ location:
             lat: '53.58405'
             lon: '29.44236'
         source: fgb
+osm:
+    -
+        type: relation
+        id: 14726825
 meta:
     fgb:
         post_id: '74955'

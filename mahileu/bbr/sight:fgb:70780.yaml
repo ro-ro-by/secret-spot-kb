@@ -4,6 +4,10 @@ type: hill
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bbr'
+osm:
+    -
+        type: relation
+        id: 6068870
 meta:
     fgb:
         post_id: '70780'

@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:brstv'
+osm:
+    -
+        type: node
+        id: 8394796377
 meta:
     fgb:
         post_id:

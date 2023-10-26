@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:zlv'
+osm:
+    -
+        type: way
+        id: 457936363
 meta:
     fgb:
         post_id: '77369'

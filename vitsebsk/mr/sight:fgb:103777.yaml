@@ -4,6 +4,10 @@ type: sacral_hill
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:mr'
+osm:
+    -
+        type: relation
+        id: 10780900
 meta:
     fgb:
         post_id: '103777'

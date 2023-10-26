@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:hlbk'
+osm:
+    -
+        type: relation
+        id: 13162322
 meta:
     fgb:
         post_id:

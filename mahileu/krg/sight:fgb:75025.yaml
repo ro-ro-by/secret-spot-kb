@@ -4,6 +4,10 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krg'
+osm:
+    -
+        type: way
+        id: 25192504
 meta:
     fgb:
         post_id: '75025'

@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+osm:
+    -
+        type: relation
+        id: 97803876
 meta:
     fgb:
         post_id: '84908'

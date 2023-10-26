@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:stdrg'
+osm:
+    -
+        type: way
+        id: 656557891
 meta:
     fgb:
         post_id: '76013'

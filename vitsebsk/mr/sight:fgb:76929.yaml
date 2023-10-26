@@ -4,9 +4,15 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:mr'
+osm:
+    -
+        type: relation
+        id: 7842349
 meta:
     fgb:
-        post_id: '76929'
+        post_id:
+            - '76929'
+            - '77197'
         author:
             name: Валацуга
     source:
@@ -15,3 +21,9 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76929#76929'
                 version: '09 Apr 2021, Fri, 20:54'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=77197#77197'
+                version: '09 Apr 2021, Fri, 20:56'
+

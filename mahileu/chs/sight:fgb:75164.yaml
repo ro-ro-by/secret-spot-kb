@@ -4,6 +4,10 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chs'
+osm:
+    -
+        type: relation
+        id: 13412452
 meta:
     fgb:
         post_id: '75164'

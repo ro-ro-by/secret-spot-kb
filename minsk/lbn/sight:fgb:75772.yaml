@@ -4,6 +4,10 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:lbn'
+osm:
+    -
+        type: relation
+        id: 7065896
 meta:
     fgb:
         post_id: '75772'
