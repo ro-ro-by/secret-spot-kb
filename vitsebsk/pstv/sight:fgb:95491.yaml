@@ -24,6 +24,7 @@ meta:
             - '95491'
             - '95488'
             - '77742'
+            - '95490'
         author:
             name: Валацуга
     source:
@@ -42,3 +43,8 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77742#77742'
                 version: '09 Nov 2021, Tue, 9:29'
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=95490#95490'
+                version: '03 Jul 2020, Fri, 21:08'
