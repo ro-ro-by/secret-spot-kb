@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:lida'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-1107120359.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 1107120359
 osm:
     -
         type: way

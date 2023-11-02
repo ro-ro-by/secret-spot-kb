@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:astrv'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-879344709.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 879344709
 osm:
     -
         type: way

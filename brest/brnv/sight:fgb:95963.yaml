@@ -4,6 +4,16 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-12281414.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 12281414
 osm:
     -
         type: relation

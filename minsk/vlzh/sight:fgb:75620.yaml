@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:vlzh'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-9716724.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 9716724
 osm:
     -
         type: relation

@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:astrv'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-13512741.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 13512741
 osm:
     -
         type: relation

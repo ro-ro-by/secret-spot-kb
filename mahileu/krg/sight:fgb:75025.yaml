@@ -4,6 +4,16 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krg'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-25192504.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 25192504
 osm:
     -
         type: way

@@ -4,6 +4,16 @@ type: park
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:brstv'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-637832924.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 637832924
 osm:
     -
         type: way

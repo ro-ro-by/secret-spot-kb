@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-97803876.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 97803876
 osm:
     -
         type: relation

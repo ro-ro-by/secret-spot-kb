@@ -4,6 +4,16 @@ type: outcrop
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-1084487694.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 1084487694
 osm:
     -
         type: way

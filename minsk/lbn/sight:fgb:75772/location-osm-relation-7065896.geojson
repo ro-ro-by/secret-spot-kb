@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/7065896",
+  "properties": {
+    "boundary": "protected_area",
+    "description": "ООПТ Валун вблизи д. Дубники Тальского сельского Совета",
+    "name": "Валун",
+    "name:be": "Валун",
+    "name:ru": "Валун",
+    "name:uk": "Валун",
+    "protect_class": "3",
+    "protection_title": "Памятник природы",
+    "type": "boundary",
+    "id": "relation/7065896"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          27.9286192,
+          52.8400148
+        ],
+        [
+          27.9287399,
+          52.8399451
+        ],
+        [
+          27.9288042,
+          52.8400213
+        ],
+        [
+          27.9287023,
+          52.8401104
+        ],
+        [
+          27.9286192,
+          52.8400148
+        ]
+      ]
+    ]
+  }
+}
+]
+}

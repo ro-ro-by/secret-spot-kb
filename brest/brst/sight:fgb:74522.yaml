@@ -11,6 +11,15 @@ location:
             lat: '52.11077'
             lon: '23.63825'
         source: fgb
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-6867440.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 6867440
 osm:
     -
         type: relation

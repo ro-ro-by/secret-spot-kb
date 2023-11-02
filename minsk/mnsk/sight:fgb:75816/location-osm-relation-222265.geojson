@@ -1,0 +1,389 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/222265",
+  "properties": {
+    "boundary": "protected_area",
+    "contact:facebook": "https://www.facebook.com/BotanicalGardenMinsk",
+    "contact:instagram": "https://www.instagram.com/botanicalgardenminsk/",
+    "contact:vk": "https://vk.com/botanicalgardenminsk",
+    "email": "office@cbg.org.by",
+    "fee": "yes",
+    "garden:type": "botanical",
+    "heritage": "2",
+    "heritage:description": "Цэнтральны батанічны сад Нацыянальнай акадэміі навук Беларусі",
+    "heritage:operator": "mcrb",
+    "int_name": "Bataničny sad",
+    "leaf_cycle": "mixed",
+    "leaf_type": "mixed",
+    "leisure": "garden",
+    "mcrb:criteria": "2",
+    "name": "Батанічны сад",
+    "name:be": "Батанічны сад",
+    "name:de": "Botanischer Garten",
+    "name:en": "Botanical Garden",
+    "name:pl": "Ogród botaniczny",
+    "name:ru": "Ботанический сад",
+    "name:uk": "Ботанічний сад",
+    "opening_hours": "Mo off; Tu-Su 10:00-21:00",
+    "phone": "+375 17 2841484",
+    "protect_class": "8",
+    "protected": "yes",
+    "protection_title": "Ботанический сад",
+    "ref:mcrb": "712Г000155",
+    "ref:minskgrado": "6.14.П",
+    "start_date": "1931",
+    "type": "multipolygon",
+    "website": "https://cbg.org.by/",
+    "wikidata": "Q2376002",
+    "wikipedia": "be:Цэнтральны батанічны сад Нацыянальнай акадэміі навук Беларусі",
+    "id": "relation/222265"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          27.6044464,
+          53.9167918
+        ],
+        [
+          27.6043072,
+          53.9167599
+        ],
+        [
+          27.6042722,
+          53.9168127
+        ],
+        [
+          27.6042006,
+          53.9167967
+        ],
+        [
+          27.6041743,
+          53.9167915
+        ],
+        [
+          27.6040905,
+          53.9167732
+        ],
+        [
+          27.6039882,
+          53.9167492
+        ],
+        [
+          27.6041024,
+          53.9152029
+        ],
+        [
+          27.6064101,
+          53.9132902
+        ],
+        [
+          27.6091902,
+          53.9109642
+        ],
+        [
+          27.6102838,
+          53.9100492
+        ],
+        [
+          27.6110468,
+          53.9094108
+        ],
+        [
+          27.6118162,
+          53.9087332
+        ],
+        [
+          27.6124394,
+          53.9087147
+        ],
+        [
+          27.6146345,
+          53.9087117
+        ],
+        [
+          27.6199446,
+          53.9111065
+        ],
+        [
+          27.6229676,
+          53.9124511
+        ],
+        [
+          27.6204606,
+          53.9147456
+        ],
+        [
+          27.6187692,
+          53.9163347
+        ],
+        [
+          27.6176622,
+          53.9172791
+        ],
+        [
+          27.6170882,
+          53.9177687
+        ],
+        [
+          27.6165089,
+          53.9183342
+        ],
+        [
+          27.6144374,
+          53.9178092
+        ],
+        [
+          27.6140524,
+          53.9183184
+        ],
+        [
+          27.6117735,
+          53.9213324
+        ],
+        [
+          27.6097145,
+          53.9212023
+        ],
+        [
+          27.6096333,
+          53.9211824
+        ],
+        [
+          27.6092775,
+          53.9210956
+        ],
+        [
+          27.6110031,
+          53.9184495
+        ],
+        [
+          27.6102837,
+          53.9182762
+        ],
+        [
+          27.6044464,
+          53.9167918
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/23554158",
+  "properties": {
+    "barrier": "wall",
+    "id": "way/23554158"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.6044464,
+        53.9167918
+      ],
+      [
+        27.6043072,
+        53.9167599
+      ],
+      [
+        27.6042722,
+        53.9168127
+      ],
+      [
+        27.6042006,
+        53.9167967
+      ],
+      [
+        27.6041743,
+        53.9167915
+      ],
+      [
+        27.6040905,
+        53.9167732
+      ],
+      [
+        27.6039882,
+        53.9167492
+      ],
+      [
+        27.6041024,
+        53.9152029
+      ],
+      [
+        27.6064101,
+        53.9132902
+      ],
+      [
+        27.6091902,
+        53.9109642
+      ],
+      [
+        27.6102838,
+        53.9100492
+      ],
+      [
+        27.6110468,
+        53.9094108
+      ],
+      [
+        27.6118162,
+        53.9087332
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1091263230",
+  "properties": {
+    "barrier": "wall",
+    "id": "way/1091263230"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.6092775,
+        53.9210956
+      ],
+      [
+        27.6110031,
+        53.9184495
+      ],
+      [
+        27.6102837,
+        53.9182762
+      ],
+      [
+        27.6044464,
+        53.9167918
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1109657404",
+  "properties": {
+    "barrier": "wall",
+    "barrier:barbed_wire": "yes",
+    "height": "2",
+    "material": "concrete",
+    "id": "way/1109657404"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.6229676,
+        53.9124511
+      ],
+      [
+        27.6204606,
+        53.9147456
+      ],
+      [
+        27.6187692,
+        53.9163347
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1109657405",
+  "properties": {
+    "barrier": "wall",
+    "barrier:barbed_wire": "yes",
+    "height": "2",
+    "material": "concrete",
+    "id": "way/1109657405"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.6118162,
+        53.9087332
+      ],
+      [
+        27.6124394,
+        53.9087147
+      ],
+      [
+        27.6146345,
+        53.9087117
+      ],
+      [
+        27.6199446,
+        53.9111065
+      ],
+      [
+        27.6229676,
+        53.9124511
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/504909988",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "no",
+    "fee": "yes",
+    "foot": "yes",
+    "motorcar": "no",
+    "id": "node/504909988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.6096333,
+      53.9211824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/968101880",
+  "properties": {
+    "access": "private",
+    "barrier": "lift_gate",
+    "foot": "yes",
+    "horse": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "id": "node/968101880"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.6124394,
+      53.9087147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3421162693",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/3421162693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.6042006,
+      53.9167967
+    ]
+  }
+}
+]
+}

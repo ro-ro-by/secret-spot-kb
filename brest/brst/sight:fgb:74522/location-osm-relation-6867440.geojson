@@ -1,0 +1,52 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/6867440",
+  "properties": {
+    "boundary": "protected_area",
+    "name": "Брэсцкая крынічная струга",
+    "name:be": "Брэсцкая крынічная струга",
+    "name:ru": "Брестская родниковая струга",
+    "name:uk": "Брестська джерельна струга",
+    "note": "http://www.pravo.by/main.aspx?guid=12551&p0=R916b0080419&p1=1",
+    "protect_class": "3",
+    "protection_title": "Памятник природы",
+    "type": "boundary",
+    "id": "relation/6867440"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          23.6366212,
+          52.1111004
+        ],
+        [
+          23.6371723,
+          52.1106042
+        ],
+        [
+          23.6373285,
+          52.1104635
+        ],
+        [
+          23.6385945,
+          52.110872
+        ],
+        [
+          23.638378,
+          52.111265
+        ],
+        [
+          23.6366212,
+          52.1111004
+        ]
+      ]
+    ]
+  }
+}
+]
+}

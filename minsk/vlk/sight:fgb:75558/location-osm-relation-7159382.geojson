@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/7159382",
+  "properties": {
+    "boundary": "protected_area",
+    "name": "Аголенне \"Вінцэнтава\"",
+    "name:be": "Аголенне \"Вінцэнтава\"",
+    "name:ru": "Обнажение \"Винцентово\"",
+    "name:uk": "Відслонення \"Вінцентове\"",
+    "protect_class": "3",
+    "protection_title": "Памятник природы",
+    "type": "boundary",
+    "id": "relation/7159382"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          27.2546577,
+          54.3652849
+        ],
+        [
+          27.2543044,
+          54.3648711
+        ],
+        [
+          27.2550208,
+          54.3646636
+        ],
+        [
+          27.255374,
+          54.3650773
+        ],
+        [
+          27.2546577,
+          54.3652849
+        ]
+      ]
+    ]
+  }
+}
+]
+}

@@ -4,6 +4,16 @@ type: hill
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bbr'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-6068870.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 6068870
 osm:
     -
         type: relation

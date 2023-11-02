@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:klch'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-11126237.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 11126237
 osm:
     -
         type: relation

@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/7094676",
+  "properties": {
+    "boundary": "protected_area",
+    "int_name": "Krynica \"Młynok\"",
+    "name": "Крыніца \"Млынок\"",
+    "name:be": "Крыніца \"Млынок\"",
+    "name:ru": "Родник \"Млынок\"",
+    "name:uk": "Джерело \"Млинок\"",
+    "protect_class": "3",
+    "protection_title": "Памятник природы",
+    "type": "boundary",
+    "id": "relation/7094676"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          28.0079533,
+          54.9788809
+        ],
+        [
+          28.0065164,
+          54.9785588
+        ],
+        [
+          28.0067138,
+          54.9783423
+        ],
+        [
+          28.0068629,
+          54.9781649
+        ],
+        [
+          28.0082002,
+          54.9784693
+        ],
+        [
+          28.0082191,
+          54.9786298
+        ],
+        [
+          28.0079533,
+          54.9788809
+        ]
+      ]
+    ]
+  }
+}
+]
+}

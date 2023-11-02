@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:lzn'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-7812148.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 7812148
 osm:
     -
         type: relation

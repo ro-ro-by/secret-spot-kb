@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:brstv'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.3975343
+            lon: 23.9552439
+        source:
+            type: osm
+            osm:
+                type: node
+                id: 8394796377
 osm:
     -
         type: node

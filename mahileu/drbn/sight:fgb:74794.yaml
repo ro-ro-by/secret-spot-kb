@@ -13,6 +13,15 @@ location:
             lat: 53.948972
             lon: 31.160056
         source: fgb
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-662179279.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 662179279
 osm:
     -
         type: way

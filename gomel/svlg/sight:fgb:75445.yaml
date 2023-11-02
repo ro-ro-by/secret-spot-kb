@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:svlg'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-4701245.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 4701245
 osm:
     -
         type: relation

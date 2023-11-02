@@ -13,6 +13,15 @@ location:
             lat: 53.828667
             lon: 30.982056
         source: fgb
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-662178536.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 662178536
 osm:
     -
         type: relation

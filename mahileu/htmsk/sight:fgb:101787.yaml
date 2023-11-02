@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:htmsk'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-14866448.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 14866448
 osm:
     -
         type: relation

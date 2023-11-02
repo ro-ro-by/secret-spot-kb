@@ -4,6 +4,16 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:vtb'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-509335441.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 509335441
 osm:
     -
         type: way

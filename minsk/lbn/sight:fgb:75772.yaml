@@ -4,6 +4,16 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:lbn'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-7065896.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 7065896
 osm:
     -
         type: relation

@@ -4,6 +4,16 @@ type: outcrop
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:vlzh'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-12009851.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 12009851
 osm:
     -
         type: relation
