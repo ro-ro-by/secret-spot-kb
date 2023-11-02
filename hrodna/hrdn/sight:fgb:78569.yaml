@@ -6,6 +6,12 @@ belongsTo:
     subregion: 'subregion:hrdn'
 location:
     -
+        type: point
+        coordinates:
+            lat: 53.773
+            lon: 24.190111
+        source: fgb
+    -
         type: geojson
         geojson:
             file: 'repo://location-osm-relation-7921072.geojson'
