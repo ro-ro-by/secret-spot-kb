@@ -6,6 +6,13 @@ alley:
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:klck'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.05261
+            lon: 26.79314
+        source: fgb
 meta:
     fgb:
         post_id: '96468'

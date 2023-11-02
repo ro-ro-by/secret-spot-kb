@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:zlv'
 tree:
     type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.12103
+            lon: 24.99539
+        source: fgb
 meta:
     fgb:
         post_id: '77374'

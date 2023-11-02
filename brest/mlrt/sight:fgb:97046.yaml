@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:mlrt'
 tree:
     type: birch_black
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.68008
+            lon: 23.95642
+        source: fgb
 meta:
     fgb:
         post_id: '97046'

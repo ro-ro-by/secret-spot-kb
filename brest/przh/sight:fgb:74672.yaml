@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:przh'
 tree:
     type: fir
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.41056
+            lon: 24.55639
+        source: fgb
 meta:
     fgb:
         post_id: '74672'

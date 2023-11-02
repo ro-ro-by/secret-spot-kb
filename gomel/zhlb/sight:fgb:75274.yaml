@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:zhlb'
 forest:
     dominated_type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.8438
+            lon: 30.2165
+        source: fgb
 meta:
     fgb:
         post_id: '75274'

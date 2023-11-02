@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:rgch'
 forest:
     dominated_type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.32519
+            lon: 29.83433
+        source: fgb
 meta:
     fgb:
         post_id: '75435'

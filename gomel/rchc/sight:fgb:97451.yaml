@@ -4,6 +4,13 @@ type: TODO
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:rchc'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.37894
+            lon: 30.32292
+        source: fgb
 meta:
     fgb:
         post_id: '97451'

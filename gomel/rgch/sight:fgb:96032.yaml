@@ -8,6 +8,13 @@ forest:
     dominated_type: oak
     types:
         - tilia
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.24958
+            lon: 30.62031
+        source: fgb
 meta:
     fgb:
         post_id: '96032'

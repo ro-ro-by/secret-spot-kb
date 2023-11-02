@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:rsn'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.79225
+            lon: 29.03019
+        source: fgb
 meta:
     fgb:
         post_id: '77096'

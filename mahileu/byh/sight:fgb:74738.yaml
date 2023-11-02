@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:byh'
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.34058
+            lon: 30.00269
+        source: fgb
 meta:
     fgb:
         post_id: '74738'

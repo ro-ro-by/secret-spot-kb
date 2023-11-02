@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:akt'
 forest:
     dominated_type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.55728
+            lon: 28.62869
+        source: fgb
 meta:
     fgb:
         post_id: '75413'

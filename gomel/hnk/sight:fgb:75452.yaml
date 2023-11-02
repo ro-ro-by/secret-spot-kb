@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:hnk'
 tree:
     type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.93833
+            lon: 30.03225
+        source: fgb
 meta:
     fgb:
         post_id: '75452'

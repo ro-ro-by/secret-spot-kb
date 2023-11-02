@@ -8,6 +8,13 @@ forest:
     dominated_type: oak
     types:
         - oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.20514
+            lon: 30.97186
+        source: fgb
 meta:
     fgb:
         post_id: '75245'

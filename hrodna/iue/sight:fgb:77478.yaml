@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:iue'
 tree:
     type: ash
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.13186
+            lon: 25.76483
+        source: fgb
 meta:
     fgb:
         post_id: '77478'

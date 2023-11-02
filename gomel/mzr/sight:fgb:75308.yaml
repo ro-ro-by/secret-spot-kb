@@ -4,6 +4,13 @@ type: forest
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:mzr'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.05072
+            lon: 28.9305
+        source: fgb
 meta:
     fgb:
         post_id: '75308'

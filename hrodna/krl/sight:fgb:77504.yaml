@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:krl'
 tree:
     type: chestnut
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.47355
+            lon: 26.02353
+        source: fgb
 meta:
     fgb:
         post_id: '77504'

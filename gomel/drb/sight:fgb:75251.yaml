@@ -8,6 +8,13 @@ forest:
     dominated_type: spruce
     types:
         - spruce
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.47419
+            lon: 31.23694
+        source: fgb
 meta:
     fgb:
         post_id: '75251'

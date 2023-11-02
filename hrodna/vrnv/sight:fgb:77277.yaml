@@ -4,6 +4,13 @@ type: park
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vrnv'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.23798
+            lon: 25.30457
+        source: fgb
 meta:
     fgb:
         post_id: '77277'

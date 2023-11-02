@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:vlkv'
 forest:
     dominated_type: fir
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.18383
+            lon: 24.36317
+        source: fgb
 meta:
     fgb:
         post_id: '101736'

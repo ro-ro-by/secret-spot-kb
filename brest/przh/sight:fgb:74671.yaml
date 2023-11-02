@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:przh'
 forest:
     dominated_type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.60833
+            lon: 24.36222
+        source: fgb
 meta:
     fgb:
         post_id: '74671'

@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:smg'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.42106
+            lon: 26.52053
+        source: fgb
 meta:
     fgb:
         post_id: '77725'

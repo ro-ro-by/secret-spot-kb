@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:hncv'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.77798
+            lon: 26.6276
+        source: fgb
 meta:
     fgb:
         post_id: '98592'

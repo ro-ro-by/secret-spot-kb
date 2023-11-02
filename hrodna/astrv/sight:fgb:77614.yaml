@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:astrv'
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.61158
+            lon: 25.97242
+        source: fgb
 meta:
     fgb:
         post_id: '77614'

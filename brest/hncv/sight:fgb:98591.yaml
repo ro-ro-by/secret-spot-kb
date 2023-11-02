@@ -4,6 +4,13 @@ type: alley
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:hncv'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.84262
+            lon: 26.66574
+        source: fgb
 meta:
     fgb:
         post_id: '98591'

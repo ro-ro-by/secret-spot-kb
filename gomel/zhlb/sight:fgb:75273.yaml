@@ -4,6 +4,10 @@ type: park
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:zhlb'
+osm:
+    -
+        type: way
+        id: 319526224
 meta:
     fgb:
         post_id: '75273'

@@ -4,6 +4,13 @@ type: park
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:rgch'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.17794
+            lon: 30.25164
+        source: fgb
 meta:
     fgb:
         post_id: '75437'

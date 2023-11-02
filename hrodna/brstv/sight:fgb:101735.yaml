@@ -6,6 +6,13 @@ belongsTo:
     subregion: 'subregion:brstv'
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.37753
+            lon: 23.95811
+        source: fgb
 meta:
     fgb:
         post_id: '101735'

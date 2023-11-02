@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:klnk'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.35939
+            lon: 29.56303
+        source: fgb
+osm:
+    -
+        type: way
+        id: 288505239
 meta:
     fgb:
         post_id: '75280'
