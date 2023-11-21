@@ -8,13 +8,14 @@ images:
     -
         file: 52b26098a9c2f2a63485356da511e8ac.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/wp_20160220_018.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Антон Комаров'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

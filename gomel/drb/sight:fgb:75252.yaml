@@ -8,13 +8,15 @@ images:
     -
         file: 58d3973a17dfbb567d99e37b7c31ea32.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_2412.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75252'

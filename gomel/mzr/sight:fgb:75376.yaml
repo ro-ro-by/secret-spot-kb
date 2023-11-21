@@ -8,13 +8,14 @@ images:
     -
         file: 9d93267551fde3a399097121b326180a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/motvn6hlbay.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Maximilian Mizura'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

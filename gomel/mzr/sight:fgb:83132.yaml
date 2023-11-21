@@ -8,13 +8,14 @@ images:
     -
         file: 6f25509937496abd47c8d0634b23af63.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/wp_20191101_14_19_57_pro_li.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Антон Комаров'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

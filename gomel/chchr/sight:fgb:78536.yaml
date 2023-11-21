@@ -8,13 +8,14 @@ images:
     -
         file: 95205102ee32f70ff25dc669f44ac40c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_3075.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

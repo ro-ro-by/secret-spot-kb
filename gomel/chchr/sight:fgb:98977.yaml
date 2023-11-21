@@ -8,13 +8,14 @@ images:
     -
         file: 1600a420520d20b9b2264669e88f0149.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_5362_3.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

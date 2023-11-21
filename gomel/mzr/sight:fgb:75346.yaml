@@ -8,13 +8,14 @@ images:
     -
         file: cc2d54d5593540c877ee65678d665c6a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dscf2186.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Игорь Рудаковский'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

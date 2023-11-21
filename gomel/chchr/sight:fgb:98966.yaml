@@ -8,13 +8,14 @@ images:
     -
         file: c67808d9ebb59e7ae830791b987ca771.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/risunok5.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр6 Гапеенко'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

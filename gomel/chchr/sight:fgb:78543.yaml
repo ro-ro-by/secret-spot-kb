@@ -8,13 +8,14 @@ images:
     -
         file: 986c22b25eeeeeff103decdb78467e14.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_3049.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр6 Гапеенко'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

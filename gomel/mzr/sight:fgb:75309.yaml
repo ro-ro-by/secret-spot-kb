@@ -8,13 +8,14 @@ images:
     -
         file: bb773ebfb63fa9e98e0412d8bce1898b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_2_kart-shema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

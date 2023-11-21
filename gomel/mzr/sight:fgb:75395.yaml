@@ -8,13 +8,14 @@ images:
     -
         file: bfa1a1079223d51027b45005232a2d81.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20210901_121939.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Антон Комаров'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

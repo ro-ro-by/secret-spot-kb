@@ -8,13 +8,14 @@ images:
     -
         file: 1a0f857c74a12644f532b6ce78f101ca.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/klyukvennik_kart-shema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

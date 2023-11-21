@@ -8,7 +8,7 @@ images:
     -
         file: 91bb5102205d93ab10f9900350e8cc6a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_3_kart-shema_1.jpg'
@@ -18,13 +18,14 @@ images:
     -
         file: 9cb3b3142a42495772444d8d0cb6b4d5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_3_kart-shema_2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

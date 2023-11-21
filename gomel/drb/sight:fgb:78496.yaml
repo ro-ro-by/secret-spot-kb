@@ -8,13 +8,14 @@ images:
     -
         file: de2b0d7e144dee448b6460aaf3952ab2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_0023_9879.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

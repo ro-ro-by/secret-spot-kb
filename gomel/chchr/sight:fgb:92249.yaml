@@ -8,13 +8,14 @@ images:
     -
         file: 2a71f4536401aadee5dcde557f43f87b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/klu11.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

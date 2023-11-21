@@ -8,13 +8,14 @@ images:
     -
         file: 251ffea2453e1ed06426e31ec5f3503f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/karta_ales.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: geojson

@@ -8,13 +8,14 @@ images:
     -
         file: f7390fa7a43d413f473b4c76a803df07.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_6930.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр6 Гапеенко'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

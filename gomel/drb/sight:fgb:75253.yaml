@@ -8,7 +8,7 @@ images:
     -
         file: 47d0bc51ff2c2e8b79d5d8e6ded7a8a4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_5153.jpg'
@@ -25,6 +25,7 @@ images:
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75253'

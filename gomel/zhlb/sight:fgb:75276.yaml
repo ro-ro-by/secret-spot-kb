@@ -8,13 +8,14 @@ images:
     -
         file: e8676f223859b8958c45b74c3bf0dcd8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/20210510_120123.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

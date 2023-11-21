@@ -8,13 +8,14 @@ images:
     -
         file: add0b1ea0ca67dc9cfedb00d5d154dfe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bx6cndwvnsc.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Станислав Трофименко '
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

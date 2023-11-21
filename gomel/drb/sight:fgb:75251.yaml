@@ -12,7 +12,7 @@ images:
     -
         file: ec1ed47c6077747e7f09cf3faaf0db26.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_1100.jpg'
@@ -22,7 +22,7 @@ images:
     -
         file: 1786e3dcdf295af6ef8f537e049cc6b3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_6439.jpg'
@@ -32,13 +32,15 @@ images:
     -
         file: 6b4d6e50b9605820dee8d852eb55c89b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ostrovnye_elniki_kartoshema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

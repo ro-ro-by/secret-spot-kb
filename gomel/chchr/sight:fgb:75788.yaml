@@ -8,13 +8,14 @@ images:
     -
         file: 5302059ebad3486b2c799c33ac095754.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/poyma-sozh.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: geojson

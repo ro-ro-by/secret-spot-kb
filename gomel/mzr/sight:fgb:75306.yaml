@@ -8,7 +8,7 @@ images:
     -
         file: a5b875eb381c66c5431679a97845292d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mozyrskie_ovragi.jpg'
@@ -18,13 +18,14 @@ images:
     -
         file: 2ac49ff5dc6b6b4636fdde34f1a276c9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_5557.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: geojson

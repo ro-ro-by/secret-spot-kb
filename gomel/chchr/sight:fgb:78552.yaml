@@ -8,23 +8,24 @@ images:
     -
         file: 140e2625bdb09e07870089ca474c051b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_0350.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6'
             version: FIXMEVERSION
     -
         file: 9ed6a1330d67c2e8ed56aca2d0228805.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/44.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Екатерина Колодина'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,13 +8,14 @@ images:
     -
         file: c53aa39d16584179f3b4df0700d679fe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/w6wloeec9xbmnxcd3iahx2wrjs3fai...ozgdws57xsnlnrircy0uy9mbduczn0.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Роман Хлебин'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

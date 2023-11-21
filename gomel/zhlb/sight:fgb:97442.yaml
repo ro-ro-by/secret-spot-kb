@@ -8,13 +8,14 @@ images:
     -
         file: 6e781a061134cb2b25656ac3b82f054c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_roveki2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97442'

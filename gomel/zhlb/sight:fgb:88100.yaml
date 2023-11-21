@@ -8,13 +8,14 @@ images:
     -
         file: 3f897bc13f39b892d3f285f7cfb01692.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lhrwitri0wk.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Станислав Трофименко '
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

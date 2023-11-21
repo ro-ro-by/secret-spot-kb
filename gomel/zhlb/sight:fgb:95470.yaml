@@ -8,13 +8,15 @@ images:
     -
         file: 9d4c203bc8a137ef6d0d7268a1b95f1f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/smychok.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: geojson

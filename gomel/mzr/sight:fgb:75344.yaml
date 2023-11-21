@@ -8,13 +8,14 @@ images:
     -
         file: eb67b7910825b792b1b416dd70edf47a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/9gtvho4js44.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Maximilian Mizura'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

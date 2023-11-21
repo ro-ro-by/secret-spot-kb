@@ -8,13 +8,14 @@ images:
     -
         file: c1b025c68ff83fe16352643c98dfcfb5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc_9484.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

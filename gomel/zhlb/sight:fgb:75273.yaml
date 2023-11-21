@@ -8,13 +8,14 @@ images:
     -
         file: 6a931ea86df42f1eac87a9b208ad5a45.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3971.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
+system: IMGREVWD
 osm:
     -
         type: way

@@ -8,13 +8,14 @@ images:
     -
         file: fe5f7238ed523602397b62b3275eb5a1.gif
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/12017.gif'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Атрощенко'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point

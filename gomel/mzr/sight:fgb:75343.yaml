@@ -8,13 +8,14 @@ images:
     -
         file: c867e993bd95427fb6016b4ebbbca9e5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/hfmh-ew402o.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Maximilian Mizura'
             version: FIXMEVERSION
+system: IMGREVWD
 location:
     -
         type: point
