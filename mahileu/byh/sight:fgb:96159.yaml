@@ -4,6 +4,17 @@ type: stone
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:byh'
+images:
+    -
+        file: f92ecda25ae23c18d321f4710bca5d88.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/250717-bykhov05_(1).jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '96159'

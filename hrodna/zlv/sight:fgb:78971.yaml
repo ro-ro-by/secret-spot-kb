@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:zlv'
+images:
+    -
+        file: 42846141d7ee19ef478eecbe35105ae7.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/01_0084.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: dd9719c4f31ec8b2c89d6fee0585113e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/img_1149_4653.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -4,6 +4,47 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:pstv'
+images:
+    -
+        file: c9b1ea96c56a075f1a2f58b578e937c2.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/krykanski_kamen.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 26c64dedd2eaab7e61e1b38a41ca555d.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/screenshot_20210408-094637.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 304214c24086698d4314a6e031bd58a3.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/screenshot_20210408-094844.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a3cb19e1df8304e7a0305ece5d952ed5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/095.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '79530'

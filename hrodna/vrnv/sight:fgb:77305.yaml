@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vrnv'
+images:
+    -
+        file: db134511bea31885165cc708d841d013.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/remzu_voranv-96_8392.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:drh'
+images:
+    -
+        file: 2183bc210345a00e6120a443ed68d054.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/af8ed3f3ba4ef947459ed41a6917c7f6cf02f283_1008_1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

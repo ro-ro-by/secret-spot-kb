@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:lida'
+images:
+    -
+        file: 3aa78db6f47818766accede74a91ab05.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/226.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: pine
 location:

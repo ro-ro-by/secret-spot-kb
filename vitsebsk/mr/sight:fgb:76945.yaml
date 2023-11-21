@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:mr'
+images:
+    -
+        file: 7c3aaed858929c3897d75e6d29996158.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_8139.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76945'

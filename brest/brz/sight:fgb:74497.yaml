@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brz'
+images:
+    -
+        file: 8b08bd645b940cfb207fbbbf1d25233b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_3711_8409.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

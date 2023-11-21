@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:hrk'
+images:
+    -
+        file: 00f6926f52625216eb46b68293d50bd5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_7264.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: e8f9eb6dd6bc34f0a57c27d667cc9dc1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/3_5215.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

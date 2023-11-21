@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:smlv'
+images:
+    -
+        file: 1dbfe94c43fa732c4c9d7e2c452b6847.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_park_shipyany.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

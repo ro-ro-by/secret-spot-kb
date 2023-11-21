@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+images:
+    -
+        file: 59e772d69232d3309f13ca22763276d6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/stiklevo_a3correct.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

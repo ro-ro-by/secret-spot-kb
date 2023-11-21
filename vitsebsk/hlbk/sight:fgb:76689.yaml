@@ -4,6 +4,47 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:hlbk'
+images:
+    -
+        file: 0e6010d8933725f690f7ee5da6827e50.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/rubkaskarbavyglu-95_8154.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 98f3eb259e0d3740fc03c6d258fd712d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_8558.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 1350720fd4342e1362d8419bcccd49e1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/2_6384_(1).jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 97cdd5d4876461f4fac29dd0797472bb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/dsc01941.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

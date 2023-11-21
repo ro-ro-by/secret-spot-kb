@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:aspv'
+images:
+    -
+        file: 7ae6b5e50a2a142e0d919b163c65067a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/dsc_0354.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

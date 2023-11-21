@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:lnn'
+images:
+    -
+        file: 81c9b406a276be47cf518c845434c5d7.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/39031-2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: e1a7d49f16e96dde96b9bfc1e923394e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/39031-3.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

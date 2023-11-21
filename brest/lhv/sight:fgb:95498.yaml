@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:lhv'
+images:
+    -
+        file: 2bc6e9290eb4968af40809fc1a46895a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/vigonoschanskoe.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vrnv'
+images:
+    -
+        file: 16eeba416897f74912f5e919ab1b7a5d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_meshkaly.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77289'

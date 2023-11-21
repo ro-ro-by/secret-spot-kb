@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:phv'
+images:
+    -
+        file: 33135147ddb3a6e93e5c80b8cd775265.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/voronichskijostrov_a3.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

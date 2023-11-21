@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:stb'
+images:
+    -
+        file: dec3228c786d2806622a129a19aa35f5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_2459red1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '99981'

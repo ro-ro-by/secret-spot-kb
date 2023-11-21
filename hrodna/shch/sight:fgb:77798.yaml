@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:shch'
+images:
+    -
+        file: c84a616ba2ea81f52a7c27e4900ab5be.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/9-vasilishkischuch05_w_.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77798'

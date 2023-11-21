@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivcv'
+images:
+    -
+        file: 3c3ef178d28767bf0d4171bfa718630e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/photo_2020-10-23_18-19-23_(2).jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:brsl'
+images:
+    -
+        file: 2cad4f1b37ce6d6af09701fb89330776.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/voisayanelskayakatl-99_7998.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: da59f2382ac915062793fe980c3072aa.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shvoisayanelskayak.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76144'

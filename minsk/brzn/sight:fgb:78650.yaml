@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brzn'
+images:
+    -
+        file: 697349cfe7e6f3ea23d27446baeef81f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/novosele_krynichka_20160213_shuk_tutby_phsl_4134.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '78650'

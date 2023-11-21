@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:hrdn'
+images:
+    -
+        file: 1193458a842d64013ccd005c386b8ed9.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_1585.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

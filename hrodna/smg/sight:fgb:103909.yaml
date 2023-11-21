@@ -4,6 +4,17 @@ type: sacral_hill
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:smg'
+images:
+    -
+        file: 97fa7c45cc65c07acb5b722b20999c40.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511933_y.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '103909'

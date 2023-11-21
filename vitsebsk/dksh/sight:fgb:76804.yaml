@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:dksh'
+images:
+    -
+        file: 97c311e3f07a0aa6a85ed4cbfcf11e81.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 7a387bd869a8a774d9146711f3906e14.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/bezymyannyj_2132.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

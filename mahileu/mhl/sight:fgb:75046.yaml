@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:mhl'
+images:
+    -
+        file: abb946d8f3dfbb5da9f657694b0eefb8.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_9277.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: d4280009a44b06e4ff1d824fc9a07de4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vekovoe_derevo_dub.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

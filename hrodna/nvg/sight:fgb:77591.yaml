@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:nvg'
+images:
+    -
+        file: 81a7428bcc23fc3b70278b1b54ce4ea5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dva_valuna_lukinskie.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 13ee3031fc9a24cc359bb147ed498b75.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_2956.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

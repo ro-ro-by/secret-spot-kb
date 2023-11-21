@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:vlk'
+images:
+    -
+        file: a4a6f2654af8a80a0255ed752096eaa4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bolshoj_kamen_dyadichskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: b3d44df4e7dbf3c6158c461bbd5057b6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/119588261.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9b47690276135e89473467578663783c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/119588342.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

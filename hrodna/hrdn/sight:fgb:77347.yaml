@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:hrdn'
+images:
+    -
+        file: eb10005d00276db46a0d9eae51480d39.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/privalka_066.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

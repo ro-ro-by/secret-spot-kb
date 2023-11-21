@@ -4,6 +4,27 @@ type: outcrop
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:mst'
+images:
+    -
+        file: bb29ca6f5db4a16b697e077f36dfaee3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/11_4563.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 1b7bc9d3efc05ee9667b8f8ed20038ca.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/150625121440-034.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77537'

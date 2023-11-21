@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:shch'
+images:
+    -
+        file: 0b49022490c0d5ee2732663a9835f22d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/gertvschu_4564.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77799'

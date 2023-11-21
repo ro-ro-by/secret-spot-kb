@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:grdk'
+images:
+    -
+        file: f708e7632b30e815e6984b01bc21f1d0.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/rudnya_kartoshema_50.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76735'

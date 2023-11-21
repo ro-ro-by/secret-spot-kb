@@ -4,6 +4,37 @@ type: forest
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+images:
+    -
+        file: 891c548e5b54abf7483ae7a3d496d43e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/132.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 6e5e2b54a6a19612cebbb62939283cf6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/12_7917.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9f5608f2a277fa7ecb2323703ac9c5f3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_1002.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

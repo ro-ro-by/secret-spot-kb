@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:krl'
+images:
+    -
+        file: f794663871db7623b0ae45cbb4878c1f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/svityazyanskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: cf182f528349e8fef534676b18877a48.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/svityazyanskij_5149.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

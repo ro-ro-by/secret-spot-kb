@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:grdk'
+images:
+    -
+        file: 5c8597859bad3a56b6fec541ce14b442.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_7761.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

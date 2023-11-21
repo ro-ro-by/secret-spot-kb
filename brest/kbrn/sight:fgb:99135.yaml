@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:kbrn'
+images:
+    -
+        file: f04c3bcde5b47d144868d5cc9d9e8894.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/imgp5538_1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

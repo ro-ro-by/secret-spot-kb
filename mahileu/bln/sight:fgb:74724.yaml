@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bln'
+images:
+    -
+        file: cb7a494620104ab7ed70a468539075b9.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/risunok2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

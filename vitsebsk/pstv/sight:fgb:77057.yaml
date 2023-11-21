@@ -4,6 +4,17 @@ type: hill
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:pstv'
+images:
+    -
+        file: cf6d3f6d01f85932da2097af711ed5fb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/gorya_gorovatka.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77057'

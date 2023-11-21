@@ -4,6 +4,17 @@ type: sacral_hill
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:vndv'
+images:
+    -
+        file: 9da6dc72da1b377ddee4701f8bcd2457.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511943_y_-_kopiya.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '103815'

@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:ashm'
+images:
+    -
+        file: 5ce7bb0b55ff165f1cb472b86775114b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/garodnosh_3236.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: f21d4d8c4427ca1bc746731ad9f684f6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2595.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

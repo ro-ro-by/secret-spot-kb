@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:klck'
+images:
+    -
+        file: 93a849b5101ba1ecacca11eeeba9915e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/8chahsa.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

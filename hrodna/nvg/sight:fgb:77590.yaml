@@ -4,6 +4,17 @@ type: hill
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:nvg'
+images:
+    -
+        file: cb844d7766c50850c2fbb06126492484.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_2326.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77590'

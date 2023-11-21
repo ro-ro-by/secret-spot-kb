@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:ashm'
+images:
+    -
+        file: d35e44ed7a2059f3750c37710fa5c5f0.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0029.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77678'

@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:drbn'
+images:
+    -
+        file: 4ecc57f110538c57478ef25ee7b24c0a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_0270.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74805'

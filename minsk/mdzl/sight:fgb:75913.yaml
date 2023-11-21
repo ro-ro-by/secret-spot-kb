@@ -4,6 +4,37 @@ type: esker
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mdzl'
+images:
+    -
+        file: 7f499b4ebb015f29c233f316e1a21c4c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/97_5136.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 3b1e10bf42fda2981fd9556706998a57.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/98_4224.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: ab75296b1fb1ec2c3c2101579014c2b3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/99_0343.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75913'

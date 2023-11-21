@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:klch'
+images:
+    -
+        file: 772d4ede440b7d5faa42f3ea8d66b3ab.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_0950.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

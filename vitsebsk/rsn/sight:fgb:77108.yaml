@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:rsn'
+images:
+    -
+        file: 9c5e6fea7d373d07aaa28004919450c5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_2192.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 62a471492803037651c4618436b8a3ca.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_shatanskij_kamen_rossonskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77108'

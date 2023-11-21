@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:lel'
 forest:
     dominated_type: oak
+images:
+    -
+        file: 4857189afabc0e25960ef3541ad91ba7.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_1125.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: f25c093ebd7024b42045cf5af1cddb04.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/2_0354.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

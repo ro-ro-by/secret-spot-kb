@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:dksh'
+images:
+    -
+        file: 8c735e6bcaf9a523fde6620143a14124.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dsc_0590_3250.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 2289bdbf490d4aa14d167879ec9aaea6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/moj_gorod_dokshicy_r...5.03.12_06.35.15.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: pine
 location:

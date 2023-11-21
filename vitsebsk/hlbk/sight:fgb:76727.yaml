@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:hlbk'
+images:
+    -
+        file: e324e10c31980acfaf89a0f0f7bff44f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/novyj_risunok_(17)_3298.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

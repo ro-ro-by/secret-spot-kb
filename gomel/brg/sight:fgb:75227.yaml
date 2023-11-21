@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:brg'
+images:
+    -
+        file: 58c2c5ac2c328ccf99fd44dd95dfbe21.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_8499.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75227'

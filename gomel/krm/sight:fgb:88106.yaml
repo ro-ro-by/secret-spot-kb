@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:krm'
+images:
+    -
+        file: 2edecdc444d2d70eaee9df649220826e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_5417_2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

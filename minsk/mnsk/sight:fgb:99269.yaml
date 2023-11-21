@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mnsk'
+images:
+    -
+        file: 974763e1b447b2f85c742424f567ca69.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/treskovshhina-krinica_1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

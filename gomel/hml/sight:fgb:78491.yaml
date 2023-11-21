@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:hml'
+images:
+    -
+        file: 89950c332a6a44108ebe49b3b5c4728a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/wp_20160621_001.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

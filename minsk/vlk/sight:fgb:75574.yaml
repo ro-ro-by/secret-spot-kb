@@ -4,6 +4,27 @@ type: hill
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:vlk'
+images:
+    -
+        file: b0c428a19cfb011058df0314d0f79edd.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_8651.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: ff322f3446abfa672c07fbea141654e1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_gora_podvysokaya_(kam).jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75574'

@@ -8,6 +8,17 @@ forest:
     dominated_type: oak
     types:
         - oak
+images:
+    -
+        file: 5da18f18aa28de24a45eb40ccf2aeb25.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/tri_duba_kart-shema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

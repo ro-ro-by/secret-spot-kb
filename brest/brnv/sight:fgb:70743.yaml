@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+images:
+    -
+        file: 10893847b6ab89d22891fd0531e46dbc.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_5723_6431.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 4a525b2059e7ba952dc8f1975eccec0e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_5727_9212.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

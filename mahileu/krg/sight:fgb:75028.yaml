@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krg'
+images:
+    -
+        file: daa989618c18c1ecccbed1b0fa649047.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_schitok.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75028'

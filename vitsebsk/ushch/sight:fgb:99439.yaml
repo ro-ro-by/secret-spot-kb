@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:ushch'
+images:
+    -
+        file: becde8bc5c6d70ecc2f341f487fb3e02.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_20230527_132020.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

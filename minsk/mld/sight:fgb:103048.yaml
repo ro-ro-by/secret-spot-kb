@@ -4,6 +4,17 @@ type: sacral_hill
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:mld'
+images:
+    -
+        file: ab1878ebfd2872d49a6e63817eb2f574.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511935_y.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '103048'

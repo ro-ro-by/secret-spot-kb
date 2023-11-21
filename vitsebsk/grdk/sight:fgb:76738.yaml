@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:grdk'
+images:
+    -
+        file: 0aed3b43dc9b351d7302b3fa423f7b66.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/ezerische_granicy.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 6e4c9682bc6467a44b8903ed2103b6f6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/ezerische_kartoshema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76738'

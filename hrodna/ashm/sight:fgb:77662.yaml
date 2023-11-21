@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:ashm'
+images:
+    -
+        file: cb1085e2e81557ed913d343b6756c3af.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_vojtehovskij_bolshoj_kamen.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: bd78152b142fdbe0f1b81d5078e14e7c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_9805.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

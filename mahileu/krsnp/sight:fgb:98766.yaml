@@ -4,6 +4,17 @@ type: alley
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krsnp'
+images:
+    -
+        file: c14c10270a988abb61ab882298c2f9ee.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/maya-zyamlya-paluzh5-768x524.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '98766'

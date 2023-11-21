@@ -4,6 +4,17 @@ type: forest
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:mst'
+images:
+    -
+        file: afb37efbcfc73750278a10f400580cbc.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/247.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

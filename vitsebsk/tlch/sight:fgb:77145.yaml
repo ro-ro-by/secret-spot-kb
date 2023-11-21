@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:tlch'
+images:
+    -
+        file: 02707fd4c92f027b9de8d6999be8f2e3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_2626_9272.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

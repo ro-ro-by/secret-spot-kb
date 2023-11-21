@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:uzd'
+images:
+    -
+        file: 574e5a406e2a471b2e682397e958963d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_2543_1887.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76040'

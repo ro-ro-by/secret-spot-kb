@@ -4,6 +4,17 @@ type: sacral_hill
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:drh'
+images:
+    -
+        file: b16675ea7bc860a61c447fe6ca2ce929.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/radostovo._gora_krivaya_1..jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '102980'

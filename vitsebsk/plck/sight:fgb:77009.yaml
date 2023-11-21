@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:plck'
+images:
+    -
+        file: cb87df5f5ac976e9dc13749f9b7c3943.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/glubokoe_bol.ostrovito.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:mzr'
+images:
+    -
+        file: 251ffea2453e1ed06426e31ec5f3503f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/karta_ales.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

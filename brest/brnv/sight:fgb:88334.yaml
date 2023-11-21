@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+images:
+    -
+        file: 93b2d8eef5e6acbc739ab4bc8f37629b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_0167.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

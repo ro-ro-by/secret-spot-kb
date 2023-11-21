@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:kpl'
+images:
+    -
+        file: 66f1eaa4294a22ef461f02775bee53df.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_morochanskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75658'

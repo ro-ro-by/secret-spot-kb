@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:astrv'
+images:
+    -
+        file: 24070fc0fa2a802907edd4343593ce33.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/selische_astravec94_4197.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 991d8aee8acaef921af9b9f7d5a3b04b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/selishche_vk_astrav_8706.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 2b7232e61ab18927ab09feb802f52abc.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_5436.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

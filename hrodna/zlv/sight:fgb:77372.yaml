@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:zlv'
+images:
+    -
+        file: 3e923cfef71f177dacd14cbcc78fb3cd.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/01_0841.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

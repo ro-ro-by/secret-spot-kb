@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:mzr'
+images:
+    -
+        file: c867e993bd95427fb6016b4ebbbca9e5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/hfmh-ew402o.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

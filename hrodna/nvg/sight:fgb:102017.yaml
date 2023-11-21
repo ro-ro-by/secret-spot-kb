@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:nvg'
+images:
+    -
+        file: 3e511a09a8d8f6b3fad6effc24baf38e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/fb_img_1671522176693.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 862f91250e5874894ce7780002eacdc3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/fb_img_1671522182605.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

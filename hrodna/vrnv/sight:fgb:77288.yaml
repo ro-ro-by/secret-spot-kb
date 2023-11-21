@@ -4,6 +4,27 @@ type: hill
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vrnv'
+images:
+    -
+        file: d4ebb79acdbe9a325163c86fdb5d29ac.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/stefaneckie_prigorki_kartoshema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 497a35371f5ae96a8f81053055b34fcb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_stefaneckie_prigorki.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77288'

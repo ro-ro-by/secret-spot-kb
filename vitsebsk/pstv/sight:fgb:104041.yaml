@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:pstv'
+images:
+    -
+        file: f2e8f2299fae8f93b6d700229864c6de.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/307638563_2374087666090931_3509251761933341996_n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 85860639881d9ae66532ea1e115623b3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/307644504_632452608452201_8308706188402519806_n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '104041'

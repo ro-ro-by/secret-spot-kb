@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:zhlb'
 forest:
     dominated_type: pine
+images:
+    -
+        file: 9a30d310939bbf9e4f0245a4de738b10.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/0_8453.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 4362d7a9c4a1dc3fc780f91be649211a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_8890.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

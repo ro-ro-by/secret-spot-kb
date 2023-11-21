@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brs'
+images:
+    -
+        file: c18719459517303a406d4368fe317669.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/hoz1_z4.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

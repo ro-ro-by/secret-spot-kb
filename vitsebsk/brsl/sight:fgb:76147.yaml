@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:brsl'
+images:
+    -
+        file: d1817c480c0b10600a118710b052b696.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_0947.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 04c8c7ef19735cf4b5dfc3e220a65888.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/karovbraslau-99_8025.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 726f5aa82561e95e313a438cdfb5d062.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shchernvl.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76147'

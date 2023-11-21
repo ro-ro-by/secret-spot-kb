@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:stln'
+images:
+    -
+        file: 5175164721c8f5b689274c70881319ee.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_1398.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: e9f9f00c08613b44fe769d9b8fb0d775.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/2_0022.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: fir
 location:

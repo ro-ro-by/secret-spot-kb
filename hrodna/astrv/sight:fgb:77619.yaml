@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:astrv'
+images:
+    -
+        file: ff0220f41daddb02db31951fb1043a1f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/mackevichev_kamen_str_1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 0132fa9c70b808e66d2f8a04acf271ac.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/mackevichev_kamen_str_3.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 83d098697295b6bbc42ddf963d088043.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/img_8538.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

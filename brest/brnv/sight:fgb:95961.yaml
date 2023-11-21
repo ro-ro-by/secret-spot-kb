@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brnv'
+images:
+    -
+        file: 1358d42f3bead4a40169c1b90c68c340.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/park_1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '95961'

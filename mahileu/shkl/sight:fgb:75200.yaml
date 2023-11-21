@@ -4,6 +4,27 @@ type: outcrop
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:shkl'
+images:
+    -
+        file: 935221113a5181760b2a0dbdb9c56017.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_3945.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 79a7d165fe260b474bb9c2881fc81e75.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/rov-nizhninskii.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75200'

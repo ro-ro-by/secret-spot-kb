@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivnv'
+images:
+    -
+        file: 36164ddbab4b61e2bf96e784c80a98b3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_zavishe.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74549'

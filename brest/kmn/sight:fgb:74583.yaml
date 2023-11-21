@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:kmn'
+images:
+    -
+        file: bb8b2a80ac409597706b4cea14e75880.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_trostyanica.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

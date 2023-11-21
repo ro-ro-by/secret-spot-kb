@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:rsn'
+images:
+    -
+        file: 9eaa25014a69012bbf6a801f0a077c36.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_valun_vysotkovskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

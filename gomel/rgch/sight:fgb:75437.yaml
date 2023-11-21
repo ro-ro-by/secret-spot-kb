@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:rgch'
+images:
+    -
+        file: ecc74a0dac170a31219940298beb9ddf.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/3_7396.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

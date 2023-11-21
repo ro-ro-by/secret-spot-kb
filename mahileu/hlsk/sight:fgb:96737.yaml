@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:hlsk'
+images:
+    -
+        file: 77e4cee5462d4c428d6d08d890351255.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dsc_0181_4745.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 6c883b6cc4b7cc56581814a41f9b8d9a.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dub.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 meta:

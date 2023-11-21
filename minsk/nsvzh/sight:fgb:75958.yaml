@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:nsvzh'
+images:
+    -
+        file: a3c99aa6d70fac62910aec9cf36abfd1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_6728.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

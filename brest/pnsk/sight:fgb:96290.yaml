@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:pnsk'
+images:
+    -
+        file: 9386219da85573f69cd97132c75e9949.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_9534.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

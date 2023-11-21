@@ -4,6 +4,27 @@ type: hill
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:hlbk'
+images:
+    -
+        file: 5f92f99256625d5e7a3d9f73aa8f8b14.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_4033.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 61dc7fe70dbe703965bcb539567874cd.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/2_8933.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

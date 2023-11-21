@@ -4,6 +4,27 @@ type: forest
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:htmsk'
+images:
+    -
+        file: bca330679dd2cb44a546350da38f8871.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_8579.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 5c7cf10628254fd6766d227fa6959f79.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_8112.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

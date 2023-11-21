@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brst'
+images:
+    -
+        file: 7193a38f4f4f83b421cb06e69a65aa98.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bugskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74518'

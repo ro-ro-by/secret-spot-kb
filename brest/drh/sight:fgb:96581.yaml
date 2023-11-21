@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:drh'
+images:
+    -
+        file: 7eb1646d77841e329c9ca12857234580.gif
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/image005.gif'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '96581'

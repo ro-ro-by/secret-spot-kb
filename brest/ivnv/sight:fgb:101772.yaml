@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:ivnv'
 forest:
     dominated_type: firs_douglas
+images:
+    -
+        file: 39405e1b275df88c9432a077d978076c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_9814.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: b99f65979547771b1d0d665252d4586b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_8642.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

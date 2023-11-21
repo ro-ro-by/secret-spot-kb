@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vrnv'
+images:
+    -
+        file: f642fe33479b171fcbf1e44f2743267a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_0914.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 76fe84c1f2155e76d811bdbf2f583631.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_kamen_poluzhskij2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a30d23c235567f92a42e7fd19f99db50.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2749_4142.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

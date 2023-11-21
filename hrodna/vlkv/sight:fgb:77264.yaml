@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vlkv'
+images:
+    -
+        file: ba41fcc02cd44625343ca96fc5c76df0.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/zamkovyj_les_a2_2016.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

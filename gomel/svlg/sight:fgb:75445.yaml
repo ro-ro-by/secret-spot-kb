@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:svlg'
+images:
+    -
+        file: 62be0a1974dd74fdda40ea7569ab210b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/chirkovichskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brs'
+images:
+    -
+        file: 35bda3a4f754cb78a381b99c6a8e032a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/kniazbiarozauschina-78_0650.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a199939c801a2e727a2e976d2875b8a6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/3_8379.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

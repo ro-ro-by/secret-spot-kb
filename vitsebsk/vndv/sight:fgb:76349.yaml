@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:vndv'
+images:
+    -
+        file: eb5059b3c0d37bdace2b3d1d563026f0.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/image005_9055.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

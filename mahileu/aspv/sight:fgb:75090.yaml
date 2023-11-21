@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:aspv'
+images:
+    -
+        file: 4530fbddf68641d1369eb5c0c5ccca8a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_lyazhanka.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75090'

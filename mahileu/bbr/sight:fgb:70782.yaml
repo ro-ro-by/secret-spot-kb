@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bbr'
+images:
+    -
+        file: dd49dca168066993ee4129877e83b9d1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/5_3974.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 178bd7ddf56641794e94b8518223e4c6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/image004.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -4,6 +4,17 @@ type: hill
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:mlrt'
+images:
+    -
+        file: f91d9847df6aa6cd698245cf3aa5a926.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_gora_melovaya.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74627'

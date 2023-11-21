@@ -4,6 +4,17 @@ type: esker
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:krl'
+images:
+    -
+        file: 7eb25bb84097e576d5a12e581814589b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_servecskaya_gryada.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77514'

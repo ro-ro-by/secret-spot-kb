@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:stb'
+images:
+    -
+        file: 76d44b60680e958bd457738ba84737fe.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/0b04a6034d5212ec7dac44a30eda42bbef5857ab_img_9722_400x600.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 meta:

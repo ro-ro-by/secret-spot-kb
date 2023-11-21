@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:lbn'
+images:
+    -
+        file: 3a78c160e53503e819222c8f41ee5513.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/41_2543.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 51a48b45c0f657fe2c78d8715941dad4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0006.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75779'

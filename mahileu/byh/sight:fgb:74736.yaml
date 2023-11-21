@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:byh'
+images:
+    -
+        file: 98d0fbe297dac223f49d9a10eef6e648.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_7024.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

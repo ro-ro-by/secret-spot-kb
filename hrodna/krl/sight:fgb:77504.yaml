@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:krl'
+images:
+    -
+        file: d9f3a546975b3b9d54555d99ee06736f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_8265.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9e5554205938ec556c512c4e7102fec4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/kashtan_rajcevskij_kartoshema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: chestnut
 location:

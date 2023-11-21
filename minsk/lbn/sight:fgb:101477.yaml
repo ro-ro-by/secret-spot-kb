@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:lbn'
+images:
+    -
+        file: a6f7d4a9b666b1bc44599b93edd8d0b6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/289.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

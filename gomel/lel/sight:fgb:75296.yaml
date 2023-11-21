@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:lel'
+images:
+    -
+        file: c0ba94e8249511bfc5a0383d51df40bf.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_6974.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: cc9bb7022c0329eb6737f437d7570395.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/2_3351.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: tilia
 location:

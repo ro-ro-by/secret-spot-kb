@@ -4,6 +4,17 @@ type: forest
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:mzr'
+images:
+    -
+        file: ddca95d5ca7c6ab16b4386bd2bdf90d1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_1_kart-shema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

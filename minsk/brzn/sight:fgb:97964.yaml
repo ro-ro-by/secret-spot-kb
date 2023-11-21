@@ -4,6 +4,17 @@ type: stone
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brzn'
+images:
+    -
+        file: 35e9aeb6dc2a8693393600238ba25eec.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/175446154_1154995411613026_4826919716831596541_n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '97964'

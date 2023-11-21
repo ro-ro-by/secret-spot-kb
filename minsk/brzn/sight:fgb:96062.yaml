@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brzn'
+images:
+    -
+        file: 5d5e1665e18991407f3c5971bddb05fc.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_8833.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '96062'

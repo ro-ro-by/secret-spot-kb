@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chs'
+images:
+    -
+        file: 369976c2224cdeb383566a93911a12d4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_5373.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: e05d413067ccc84b0748a83016051b93.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bordilovskoe-kremenec.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75166'

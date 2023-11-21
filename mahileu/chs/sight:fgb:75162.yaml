@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chs'
+images:
+    -
+        file: 26ab4cb0d58055d6dd2eb8b3baf6b6c9.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_5331.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 88d3031bbf588d6addda14cba8003cf3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/2_7739.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75162'

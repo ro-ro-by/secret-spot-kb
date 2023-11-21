@@ -4,6 +4,17 @@ type: forest
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:hml'
+images:
+    -
+        file: 82aca5cd606a7cde2a3e0c742076263d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_3899.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

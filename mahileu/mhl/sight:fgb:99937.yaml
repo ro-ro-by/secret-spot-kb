@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:mhl'
+images:
+    -
+        file: 6b92d04ec731d2fc21d30ccfc136f51f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/02_7135.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '99937'

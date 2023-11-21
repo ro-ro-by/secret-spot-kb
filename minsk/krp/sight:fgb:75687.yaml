@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:krp'
+images:
+    -
+        file: 5a5d2e8d25e9eb53b2686277f012dd58.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/risunok6.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9fcce6eabeeff8ddb193a1639e38aff8.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_bobr.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

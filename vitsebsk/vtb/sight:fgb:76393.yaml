@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:vtb'
+images:
+    -
+        file: 19a7acd470ff16a20d687220e22949eb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/pridvine_kartoshema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

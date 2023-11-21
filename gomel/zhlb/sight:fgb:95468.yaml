@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:zhlb'
+images:
+    -
+        file: 9adb83e36918f7de0b9350fd2abd4174.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/kartoshema_vydrica_23.01.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

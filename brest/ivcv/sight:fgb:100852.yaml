@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivcv'
+images:
+    -
+        file: 8f7db03d64b593a136558c3e6410af23.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/348589514_141870768882987_8943650058425015919_n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 78d0a7e99b690e76b4935776131eb253.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/348595895_265510059268521_898237225822736910_n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '100852'

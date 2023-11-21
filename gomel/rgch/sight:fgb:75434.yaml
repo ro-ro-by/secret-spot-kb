@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:rgch'
+images:
+    -
+        file: b839c39b4ad5399a08a8c1774b9f07c8.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_3061.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 935b9a321365a8bdedfad56d43154a79.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_proizras...i_dr._derevev_v_kv._57._57._57.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

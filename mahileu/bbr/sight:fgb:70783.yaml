@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:bbr'
+images:
+    -
+        file: 2d7a0c6ed7c0b594729837a5e6e3b7cf.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/image003.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '70783'

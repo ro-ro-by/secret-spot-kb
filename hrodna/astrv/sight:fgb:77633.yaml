@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:astrv'
+images:
+    -
+        file: cbb946222623754eb65ef3f71efd6999.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/c5f017cc2e4021480a40ef67d77c837a.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: populus
 meta:

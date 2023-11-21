@@ -4,6 +4,17 @@ type: esker
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:rsn'
+images:
+    -
+        file: a5b1841f4dce52f8bec601b1253eb98f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/mezhevskaya_ozovaya_gryada_kartoshema_5899.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77085'

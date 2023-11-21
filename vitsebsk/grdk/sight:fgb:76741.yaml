@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:grdk'
+images:
+    -
+        file: 3dd6042d48da2d57a5d24fac66f8ae54.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/kamen-624x379.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76741'

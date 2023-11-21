@@ -4,6 +4,27 @@ type: forest
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:slck'
+images:
+    -
+        file: 5ceef776abe1ee4115f4a006a0d24358.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_8514.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 11dfde020325cf52fea826405c67c14e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_6207.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

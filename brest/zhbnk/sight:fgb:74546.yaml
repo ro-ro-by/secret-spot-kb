@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:zhbnk'
+images:
+    -
+        file: 7042f7ef1be87d243a81d43db6dbf349.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/230414-jabinka.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74546'

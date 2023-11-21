@@ -4,6 +4,17 @@ type: sacral_hill
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:mstsl'
+images:
+    -
+        file: cb7b218d03d446af61dd6db7ef9e5634.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511958_y_-_kopiya.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '102817'

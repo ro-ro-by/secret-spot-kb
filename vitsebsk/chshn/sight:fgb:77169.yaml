@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:chshn'
+images:
+    -
+        file: 9d4dcda3deb8f66e2176feeb407ba6c4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/hvoschevoe_kartoshema.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77169'

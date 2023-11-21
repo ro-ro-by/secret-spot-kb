@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:brstv'
+images:
+    -
+        file: cedb432fbba8a2342beb2a9570ce63da.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/6.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 58c5b2e2712dca2841687b5a6a7bfd8d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/7.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

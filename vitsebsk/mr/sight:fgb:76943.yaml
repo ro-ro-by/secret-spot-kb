@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:mr'
+images:
+    -
+        file: e3bd3991525b6b209db35892d0e600a8.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/tablejaznmyory-99_9027.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '76943'

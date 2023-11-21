@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:bshn'
+images:
+    -
+        file: 8a8cbd2c2127baa77d5249cd971f4800.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/1_8889.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 1cfe6ebc9b5abbf72864634fdd6ef591.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/052-2_w1200.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

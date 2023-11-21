@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brz'
+images:
+    -
+        file: 0b1093ceb263dfbf6dc0cee52ceb6440.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/7-charniakovbiaroz_.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74504'

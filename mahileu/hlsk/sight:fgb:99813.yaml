@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:hlsk'
+images:
+    -
+        file: d5702b33bd94fe25feec89a85bb5c739.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/dsc_0145.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '99813'

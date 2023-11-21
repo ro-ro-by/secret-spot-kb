@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:svlg'
+images:
+    -
+        file: 35501ab995cfff6a37b15072971a0f1f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1024px-stone_with_a_cross_from_the_karaliova_slabada-2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '98924'

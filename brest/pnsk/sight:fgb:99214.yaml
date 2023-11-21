@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:pnsk'
+images:
+    -
+        file: 6c76a90752d1bfc0a4b363d1788dde5c.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/6-0.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 741c81cae1dcc06ed5bafb2dd9523996.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1920px-vodnye_kanaly_dneprobug.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

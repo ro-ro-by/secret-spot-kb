@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:brz'
+images:
+    -
+        file: a121579f59911638c3c0b9bc9a5d0b84.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/sporovsk_3271.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: af20cad37fa7c35d95260cd8459bb739.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/sporovskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

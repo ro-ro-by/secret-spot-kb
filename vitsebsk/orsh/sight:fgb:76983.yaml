@@ -4,6 +4,27 @@ type: outcrop
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:orsh'
+images:
+    -
+        file: fed160466539289d9db17e0027d927cb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_2265.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a5a3f1a4bf47bf42f64bee2814b47e03.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_3951.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

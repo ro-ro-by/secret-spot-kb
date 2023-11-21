@@ -6,6 +6,17 @@ belongsTo:
     subregion: 'subregion:przh'
 forest:
     dominated_type: pine
+images:
+    -
+        file: 5c0420ee613dfe24984aeddbdfcceda6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/01_0705.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

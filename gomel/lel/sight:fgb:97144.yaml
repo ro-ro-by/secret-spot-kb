@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:lel'
+images:
+    -
+        file: abf92cc1658e19dae829a6587703b81d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/dsc_4741.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: ca8e33fa3cf5775b7504c8a4ea7a98cb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/dsc_4744.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: b9fa5274674dd97704542c7d4f9bb238.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/krest.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '97144'

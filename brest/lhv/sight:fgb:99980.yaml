@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:lhv'
+images:
+    -
+        file: 52c57d3246ea06ff74516e4ea40169e1.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/potapovichi_(kamni_s_nadpisyami_1683g.)_1_.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '99980'

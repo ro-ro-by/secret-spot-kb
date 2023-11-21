@@ -4,6 +4,17 @@ type: TODO
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:mhl'
+images:
+    -
+        file: e587c76e0ebe3e4760bc38b194bee3ae.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/322.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

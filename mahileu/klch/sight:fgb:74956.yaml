@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:klch'
+images:
+    -
+        file: e9b93e558b663a1d0370cd184d36bf27.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dubrova.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74956'

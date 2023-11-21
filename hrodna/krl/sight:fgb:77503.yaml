@@ -4,6 +4,17 @@ type: TODO
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:krl'
+images:
+    -
+        file: 4591fc7cfff757ce2d59131ba3c9a87c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_1330.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77503'

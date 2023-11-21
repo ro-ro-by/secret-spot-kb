@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:rgch'
 forest:
     dominated_type: oak
+images:
+    -
+        file: 32c1717e1d96b3bf8e2793eef7a0777f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/2_3202.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 1600347ea8f0d6db3e02876a760c01a0.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_proizrastanie_duba_i_dr._derevev_v_kv._22.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:przh'
+images:
+    -
+        file: b71636b4b7ad17e80159fae93a8e0f6b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/nepli14.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '74683'

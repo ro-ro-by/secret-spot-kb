@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:lnn'
+images:
+    -
+        file: 3c4e9b1820c522f84b85616fda82a5e8.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/dsc_0031_1186.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 1e24285f811a8c638f01d50ace0cf925.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/luninskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -4,6 +4,27 @@ type: TODO
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:ptrk'
+images:
+    -
+        file: 546e3d5cd7bb4d6b92bcc56c18fdb4f3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/oopt.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 85a0f768b743e4364f8a1a867b366ac4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/23_7523.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '75417'

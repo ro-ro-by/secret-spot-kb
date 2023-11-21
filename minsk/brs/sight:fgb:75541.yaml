@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:brs'
+images:
+    -
+        file: ec24822306f2d11e6fbf60ddc62b43ff.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dubiani_barus-89_8566.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 4534846c8f41fb57f528b352eb3fa401.png
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/bezymyannyj_0204.png'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a11261e69771f11a68a82356bd9efa51.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/dsc_0013.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

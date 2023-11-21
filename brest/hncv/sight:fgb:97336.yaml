@@ -8,6 +8,17 @@ forest:
     dominated_type: oak
     types:
         - oak
+images:
+    -
+        file: fc988f4dd77898efc21d9879a9dc942a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/sukach.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

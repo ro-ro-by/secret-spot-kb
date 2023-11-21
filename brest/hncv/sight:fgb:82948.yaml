@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:hncv'
+images:
+    -
+        file: 74f17bbdffdd5870d77246b99a9819c3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/lyusina-u-vescy-493-1338919877_b1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 78ffed9fe27407dbcbbd493a5a44e4a5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/lyusina-u-vescy-493-1338918888_b2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 meta:

@@ -6,6 +6,17 @@ belongsTo:
     subregion: 'subregion:akt'
 forest:
     dominated_type: pine
+images:
+    -
+        file: 513a7eacf46569c3c53e9c265254a1ba.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/65.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

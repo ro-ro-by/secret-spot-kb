@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:shkl'
+images:
+    -
+        file: d338969e3c25ba49c2deb7fc62b4ae3f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_5072_1867.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 7a09c0bb4a852e815780bf34bb3336b5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'http://globustut.by/_mu_a__gtb/0183/img_5089_9401.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

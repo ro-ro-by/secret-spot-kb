@@ -4,6 +4,37 @@ type: park
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krsnp'
+images:
+    -
+        file: 86860d52e9c74db82537bae24e970dd9.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ivanov_hutor.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 5dffedfb8b07721dfbe2e12badd8af3f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/-7cwijvcke8.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a99e4dd3ac5efbcb8ec21812d77d07e6.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/itojpob8kxa.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

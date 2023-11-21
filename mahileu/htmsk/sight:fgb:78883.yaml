@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:htmsk'
+images:
+    -
+        file: d6b6ecda8a7abc4dc3c6d31bc5957d62.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/bru1.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 99605d627f6489d6a422998511e82a2d.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/bru2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

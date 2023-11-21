@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:drh'
+images:
+    -
+        file: 6b42858750a62b6760a41c65c33d1166.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/32742710643_dabec4c12f_b.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 380997c153bb9912654ec7573b63b9f2.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/12_1826.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: carya
 location:

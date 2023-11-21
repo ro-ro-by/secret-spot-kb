@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:krg'
+images:
+    -
+        file: 22735b879a53dc888b1c62c0f350d061.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_krinica-2_2.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 4c8ad5bb979886f7beead66404d2c6bc.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_9143.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

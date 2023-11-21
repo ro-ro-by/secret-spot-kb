@@ -8,6 +8,17 @@ forest:
     dominated_type: oak
     types:
         - oak
+images:
+    -
+        file: 6c7746171161d0f99919fc5c20e47e3b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/223.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

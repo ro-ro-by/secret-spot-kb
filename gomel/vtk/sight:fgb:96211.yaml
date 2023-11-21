@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:gomel'
     subregion: 'subregion:vtk'
+images:
+    -
+        file: f3c8768753f97d9969325dc4b27c099e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_0002.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 7ae1bfe6b48403bdf230069294239c5f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/80134b3653c8ed9b528f2eb17ece925b122ce001_web.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

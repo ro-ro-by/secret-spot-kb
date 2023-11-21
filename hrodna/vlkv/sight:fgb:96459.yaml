@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:vlkv'
+images:
+    -
+        file: 13f1029ae0e8e09cee1d9d5face0682a.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_3200.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '96459'

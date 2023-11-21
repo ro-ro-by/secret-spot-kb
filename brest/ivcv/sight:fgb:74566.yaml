@@ -4,6 +4,27 @@ type: forest
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivcv'
+images:
+    -
+        file: 209d39c42e199cf19f319ea9281b20df.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/33644579075_16cb92f18b_b.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9af28994e2ebc112580628e6d28e5506.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_4577.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

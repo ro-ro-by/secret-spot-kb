@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:ivcv'
+images:
+    -
+        file: f975e9e2c5d3b7ca943586772e2a8711.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/33516461096_fd8f067dda_b.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 9e798f033e0ba9ef219e8d8d557dfc86.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_starinnyj_park_grudopol.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

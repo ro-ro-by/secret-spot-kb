@@ -4,6 +4,27 @@ type: tree
 belongsTo:
     region: 'region:mahileu'
     subregion: 'subregion:chrk'
+images:
+    -
+        file: aab64833643e663a30a092f19e19d07b.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/pam.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: bccac061e72156fef25e45c3e53d5d22.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/5dc7403e3a69b33661796b69482f566c001b309f_dub2_450x600.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: oak
 location:

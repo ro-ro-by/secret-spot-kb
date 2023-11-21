@@ -1,9 +1,30 @@
 id: 'sight:fgb:77733'
-title: "Валун Большой камень тупальщинский (Літоўскі, Чортаў)"
+title: 'Валун Большой камень тупальщинский (Літоўскі, Чортаў)'
 type: boulder
 belongsTo:
     region: 'region:hrodna'
     subregion: 'subregion:smg'
+images:
+    -
+        file: f98a93ed3bbab075bf167bade62cefbd.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/tupalchsmr-86_2999.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: e5a95d7a48407bad7c678375a065c657.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_7032.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -6,6 +6,17 @@ belongsTo:
     subregion: 'subregion:akt'
 forest:
     dominated_type: oak
+images:
+    -
+        file: 07183981930f6b11973bb4e5ee4af433.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/n.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

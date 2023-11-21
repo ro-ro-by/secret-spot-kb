@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:lzn'
+images:
+    -
+        file: 050b4f49957b9f6fbde979ea7b3de55e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/169..jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 tree:
     type: pine
 location:

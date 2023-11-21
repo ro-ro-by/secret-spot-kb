@@ -4,6 +4,37 @@ type: area
 belongsTo:
     region: 'region:brest'
     subregion: 'subregion:drh'
+images:
+    -
+        file: 6e61e7dbfe078a2c2f342bc7641ea421.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/radostovskij.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 8eafa8a414742446023e3654df988314.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_1..jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: fafac54d654f067675cf00e038283176.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_2..jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: geojson

@@ -8,6 +8,17 @@ forest:
     dominated_type: oak
     types:
         - pine
+images:
+    -
+        file: 6a97364ed09d8191bc45289c1b41e218.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_4267.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

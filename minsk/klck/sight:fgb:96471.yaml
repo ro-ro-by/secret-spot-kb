@@ -4,6 +4,27 @@ type: park
 belongsTo:
     region: 'region:minsk'
     subregion: 'subregion:klck'
+images:
+    -
+        file: 8a1466fba260335bdaf46f03abf40ec5.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_5455_1882.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: d58410ac61e004b8662ed88a77a6c6f9.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_5460_6953.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '96471'

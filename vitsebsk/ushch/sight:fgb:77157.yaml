@@ -4,6 +4,27 @@ type: spring
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:ushch'
+images:
+    -
+        file: 29f0bca6a867286f0e5a0b4b68765518.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_borkovschina.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: ba5a3017b2e6918771e2bdfbbc8199a3.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/img_8003.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

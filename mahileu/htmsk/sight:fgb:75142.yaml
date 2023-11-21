@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:htmsk'
 forest:
     dominated_type: birch
+images:
+    -
+        file: 75dccefbc8bc11f5534a974007d67481.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_1868.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: a845c67e091d5bb6db1150477f0d687c.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_8675.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

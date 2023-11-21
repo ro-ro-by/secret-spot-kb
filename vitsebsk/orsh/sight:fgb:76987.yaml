@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:orsh'
+images:
+    -
+        file: e8d3bdd47a7ca423852e1b7df13703b4.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/1_0975.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:mlrt'
 forest:
     dominated_type: spruce
+images:
+    -
+        file: 959deac8e6da1bee6c4a7dc3d53298ae.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/01_8538.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 325d7e7a72c8b199b978c056daba0983.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/02_1754.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

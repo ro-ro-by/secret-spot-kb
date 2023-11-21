@@ -8,6 +8,17 @@ forest:
     dominated_type: spruce
     types:
         - spruce
+images:
+    -
+        file: e77477b4981462414bf886deae42055e.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/1_5813.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

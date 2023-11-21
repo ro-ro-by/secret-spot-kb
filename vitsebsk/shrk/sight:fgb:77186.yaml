@@ -4,6 +4,17 @@ type: hill
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:shrk'
+images:
+    -
+        file: aa6f864629fce5bc51c80e02d5edbd1f.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/karta_fedotova_gora_(2018).jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77186'

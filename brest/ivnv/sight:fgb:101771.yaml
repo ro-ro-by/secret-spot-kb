@@ -6,6 +6,27 @@ belongsTo:
     subregion: 'subregion:ivnv'
 forest:
     dominated_type: larch
+images:
+    -
+        file: 0d7dde823e6d15932dd88dca4e2bd5be.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/conv/1_6198.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 436ee10baa3718c67ad1cd01b6879ecb.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_d/0183/2_6570.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 location:
     -
         type: point

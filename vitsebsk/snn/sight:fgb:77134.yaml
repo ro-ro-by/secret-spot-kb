@@ -4,6 +4,37 @@ type: boulder
 belongsTo:
     region: 'region:vitsebsk'
     subregion: 'subregion:snn'
+images:
+    -
+        file: a7ca7450bf3cfb21997b608fbe38b8ab.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dubkisen_piarun_4736.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: 363b7ffa67229913b5548a5f3d9ac769.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/3_0637.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
+    -
+        file: c8f2b07372100ba4df051ff17764f760.jpg
+        tags:
+            - FIXMETAG
+        source:
+            type: fgb
+            url: 'https://fgb.by/_mu_c/0183/dubkisyanno.jpg'
+        meta:
+            author: FIXMEAUTHOR
+            version: FIXMEVERSION
 meta:
     fgb:
         post_id: '77134'
