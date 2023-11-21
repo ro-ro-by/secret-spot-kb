@@ -8,24 +8,25 @@ images:
     -
         file: 7d81f67ae034dc15392113c3a4146257.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
+            - 'image-tag:object:info'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_8982.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: fd24d73af32070e330c6f6674990426b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/cnv000019.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

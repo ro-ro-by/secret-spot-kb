@@ -8,14 +8,14 @@ images:
     -
         file: dbd3a19b88db36fda13315f0f7f41e91.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_1946.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

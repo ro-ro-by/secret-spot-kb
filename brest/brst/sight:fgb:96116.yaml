@@ -8,14 +8,14 @@ images:
     -
         file: e7b801e1db6790344352862689a5f3ca.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/schity1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Игорь Штык'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

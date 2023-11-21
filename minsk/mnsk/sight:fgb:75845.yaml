@@ -8,14 +8,14 @@ images:
     -
         file: f1862104b96ae2bc279f69aeaa64894d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/us-spr1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Глиндзич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

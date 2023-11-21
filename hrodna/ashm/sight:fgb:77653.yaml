@@ -8,24 +8,23 @@ images:
     -
         file: 667b934d4722453cbb345b5ee73f14c8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mostivilishskij_valun.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: f0fafacad673e3a90804f7916714315b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_9112.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

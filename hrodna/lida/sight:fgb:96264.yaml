@@ -8,14 +8,14 @@ images:
     -
         file: c8d8bd09037aa2324487b472cf2cafdb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lechebnie09-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'И.Е. Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pine
 meta:

@@ -8,14 +8,14 @@ images:
     -
         file: 6e9e5ce9ace0360155f09af2a6eb5b9b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_7758.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Артём Грецкий'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

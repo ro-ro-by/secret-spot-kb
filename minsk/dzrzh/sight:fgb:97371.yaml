@@ -8,14 +8,14 @@ images:
     -
         file: 3e610c55d7c0340a61bf52c621b45ba5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/s2060013.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Максим Астрейко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

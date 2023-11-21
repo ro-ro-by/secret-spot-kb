@@ -8,14 +8,14 @@ images:
     -
         file: bf0c5071350d3273ed6328c5eab7571e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/kupel_degen1103.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: degen
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

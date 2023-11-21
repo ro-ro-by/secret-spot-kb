@@ -8,14 +8,14 @@ images:
     -
         file: a243db04d28120f23608300445f1283d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/z21-d2_39.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Глиндзич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

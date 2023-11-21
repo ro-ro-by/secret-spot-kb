@@ -8,14 +8,14 @@ images:
     -
         file: 6bdd705a795ebcd12127e97b6b046a63.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/tiu5.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Юлия Якимчик'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

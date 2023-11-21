@@ -8,14 +8,14 @@ images:
     -
         file: a1b1ffae7b3c85362b1e6f3776a11f94.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/9lesin.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Дучиц, Ирина Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

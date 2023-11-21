@@ -8,14 +8,14 @@ images:
     -
         file: d0022cfe321f6cfc4c116ddbaafcf9ee.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/image.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гиль'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

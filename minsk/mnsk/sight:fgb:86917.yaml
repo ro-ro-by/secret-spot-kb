@@ -8,14 +8,14 @@ images:
     -
         file: 8f7645989d448ab8362f94ff2f67871a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/wozfch8gh3i.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'ПИГ Стрела'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

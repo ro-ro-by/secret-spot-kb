@@ -8,14 +8,14 @@ images:
     -
         file: 435dda661879b00bebcc2d5c2c64a546.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/z19-zarove_10.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Глиндзич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

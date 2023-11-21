@@ -8,14 +8,14 @@ images:
     -
         file: 9139626bd476278a840427b1a58fe5fd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/lepel_01.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Глиндзич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

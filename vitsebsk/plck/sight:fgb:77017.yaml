@@ -8,14 +8,14 @@ images:
     -
         file: ac4046429ea6ccf9938864889d6e4a86.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/0_18202f_8c699102_orig.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Глиндзич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

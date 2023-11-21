@@ -8,24 +8,23 @@ images:
     -
         file: d1cda918386792e6c1955a16e41ad1d3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vojtehovskij_valun.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 1be687279c76ff72c96f8cecc54ce726.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_9815.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

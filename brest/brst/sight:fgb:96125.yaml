@@ -8,14 +8,14 @@ images:
     -
         file: 9d47d39d39de9b4b865c6e4a9a1cc371.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rodnik9.02.2020-2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Иван Прокопюк'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

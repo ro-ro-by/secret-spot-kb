@@ -8,24 +8,24 @@ images:
     -
         file: c1d295a94e14f1c3c77ff92243276347.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/402245_900.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pravdaosele
             version: FIXMEVERSION
     -
         file: deefd20471200e96c76ca23a41e8ac02.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/402522_900.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pravdaosele
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pine
 location:

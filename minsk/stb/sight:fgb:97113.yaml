@@ -8,14 +8,14 @@ images:
     -
         file: 89619cae1100e4bfcbc3877dbcdbfdd1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/47-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л.Дучиц, 2014'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97113'

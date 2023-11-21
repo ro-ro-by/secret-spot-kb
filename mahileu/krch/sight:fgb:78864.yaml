@@ -8,14 +8,14 @@ images:
     -
         file: 6e8cd22c10a4a18e74b6fe5e81c3b374.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20200329_125819.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Олег Савочка'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

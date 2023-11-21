@@ -8,14 +8,14 @@ images:
     -
         file: ea0ce7519fe62a0357f23a2ab58e01ed.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mur2-3.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гиль'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 2b441466cf6dfabe861bce023a416baa.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/z36h0s94zts.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Юлия Якимчик'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

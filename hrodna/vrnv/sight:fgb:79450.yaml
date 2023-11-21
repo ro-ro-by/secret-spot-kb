@@ -8,14 +8,14 @@ images:
     -
         file: debe2dc445e4f1c7c9e24cc90b73f0a6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/osov2-1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'ПИГ Стрела'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

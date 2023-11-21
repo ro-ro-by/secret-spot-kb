@@ -8,24 +8,23 @@ images:
     -
         file: 3d64dc5df08288464a13ef4fc1a6266d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ogorodnickij_bolshoj_kamen.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 381612d79aa35a0581bbf8fda36e4b54.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_9160.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

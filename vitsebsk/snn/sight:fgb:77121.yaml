@@ -8,24 +8,23 @@ images:
     -
         file: 11a23cef63a399f8663b0ffaf363d504.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_0209.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Демидов'
             version: FIXMEVERSION
     -
         file: 36f41d5e871176565ba207ebd94e39ef.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_1061.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,24 +8,23 @@ images:
     -
         file: 64d4f68a94181ba96281ebae29a8a210.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bolshoj_krivskij_kamen.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: de5f03ceae6e55dec19ef38a98c030f3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_9523.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

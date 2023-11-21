@@ -8,14 +8,14 @@ images:
     -
         file: 95fa877c01b734942eb91b9911e96df9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rad4.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'ПИГ Стрела'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

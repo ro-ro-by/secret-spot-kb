@@ -8,14 +8,14 @@ images:
     -
         file: ebd62f1a34d03de7bbb796adb247f807.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_3956_dpp_resize.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Василий Кулешов'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

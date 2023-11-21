@@ -8,14 +8,14 @@ images:
     -
         file: b63f3d7180e8fe059d31132fdd5e957b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20210519_105014.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Максим Астрейко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

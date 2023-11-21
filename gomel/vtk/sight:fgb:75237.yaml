@@ -8,14 +8,14 @@ images:
     -
         file: a677f0450825937e4d89fb62b42e28df.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/qspucpli5ci.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алексей Котов'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

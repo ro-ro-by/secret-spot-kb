@@ -8,14 +8,14 @@ images:
     -
         file: c393ba18ad6d3eef62660c38b0b714a7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/yas1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гиль'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 0c1860f3db03603c16f8c3060e8addcb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc_0051_vaskovichi._svyataya_krynica.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

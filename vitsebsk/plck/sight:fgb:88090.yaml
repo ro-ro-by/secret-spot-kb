@@ -8,14 +8,14 @@ images:
     -
         file: 889eb2110a42460fb9d18cee6cd0866b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/drysa27_2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Degen1103
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

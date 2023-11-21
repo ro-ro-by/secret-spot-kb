@@ -8,14 +8,14 @@ images:
     -
         file: cdbf16c4c49c96bb862281055146e6ee.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mbxw4hsok1s.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'ПИГ Стрела'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

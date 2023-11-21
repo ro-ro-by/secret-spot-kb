@@ -8,14 +8,14 @@ images:
     -
         file: 4e11668a33efc8ba631d479c2b37e7be.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rodnik15.05.2008.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Андрей Абрамчук'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

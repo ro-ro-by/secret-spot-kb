@@ -8,24 +8,24 @@ images:
     -
         file: a52469dd71c656a321b8c7485af60e1e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_0002_7338.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6 Гапеенко'
             version: FIXMEVERSION
     -
         file: cab72a34a36bc0f3b4838a5d2ae0a660.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_0011_2603.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр 6 Гапеенко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

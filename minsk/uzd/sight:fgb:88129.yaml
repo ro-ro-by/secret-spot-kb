@@ -8,14 +8,14 @@ images:
     -
         file: a2119ae9a3d5f21aedcf31c94bb3e1ac.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20170505_150941.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'ПИГ Стрела'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

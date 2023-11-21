@@ -8,14 +8,14 @@ images:
     -
         file: 73b8d9a836749b824091d43c8eea7b04.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/rodnik_u_glinishcha_degen1103.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: degen
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

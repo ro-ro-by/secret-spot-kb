@@ -8,14 +8,14 @@ images:
     -
         file: 920af6de12aef71d03c5f31a6431b176.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_4702_5.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гапеенко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

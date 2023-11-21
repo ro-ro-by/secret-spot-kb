@@ -8,14 +8,14 @@ images:
     -
         file: 4523110af35f677c1eba621a0a0f9f07.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/doc278255471_438746956.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Светлана Войтко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

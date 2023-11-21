@@ -8,14 +8,14 @@ images:
     -
         file: 9c8c1e3f5ae35b52ac3a6abbe5248068.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dsc_7890.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Viktor 2018k'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

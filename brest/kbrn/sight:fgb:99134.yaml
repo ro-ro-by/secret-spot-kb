@@ -8,14 +8,14 @@ images:
     -
         file: 90e82e84c9ac5c08b2bc8f5354ed7a18.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/imgp5527_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: mat_set
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

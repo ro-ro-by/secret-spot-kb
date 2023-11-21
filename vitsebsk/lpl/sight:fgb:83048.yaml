@@ -8,14 +8,14 @@ images:
     -
         file: e441ef993ee80d3376a95a250bbf45e7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/6aac1e7e44645d377a5df6d8230e0668.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Валадар Шушкевич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: ed73ca92d2fe2a0c55be8723211fd41c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/vekvmucyisk.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Роман Хлебин'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

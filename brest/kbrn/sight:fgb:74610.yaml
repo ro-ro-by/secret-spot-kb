@@ -8,14 +8,14 @@ images:
     -
         file: dcbabbc952f7206e7c2ea293165a4aae.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/dscf4078.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: mat_set
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

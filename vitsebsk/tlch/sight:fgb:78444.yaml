@@ -8,14 +8,14 @@ images:
     -
         file: f9b31503faba5146c0ff013864c43d4d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/krinica-kohanovo_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

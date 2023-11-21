@@ -8,24 +8,24 @@ images:
     -
         file: 345081e95e0b352d902d1345ac09f8b2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/b268078d3a768027951ecb76a09dee621470d217_1005_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Строкач'
             version: FIXMEVERSION
     -
         file: 198a086b800a96fd336b06ecb206561e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2023-02-18-20-45-37-293_com.instagram.android_2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Строкач'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: tilia
 meta:

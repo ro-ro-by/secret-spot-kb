@@ -8,14 +8,14 @@ images:
     -
         file: 36ebaa163a4c93d9bfef1e1ce1b46aaf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kaunicin.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Кисель'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

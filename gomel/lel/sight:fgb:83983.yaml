@@ -8,14 +8,14 @@ images:
     -
         file: 0439808c17c82a9e3bbb3e94875e6f73.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dpnk-uoyytg.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Карповец'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

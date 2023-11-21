@@ -8,14 +8,14 @@ images:
     -
         file: c5cfb818db6617445331e3b835465072.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rodnik-krivino_4.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

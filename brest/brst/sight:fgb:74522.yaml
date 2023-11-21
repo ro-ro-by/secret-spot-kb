@@ -8,14 +8,14 @@ images:
     -
         file: 4ce85eae5a31f69b67199adae30ef410.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/brestskaya_rodnikova_struga_1__1500194578497__w1280.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Тищук'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

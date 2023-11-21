@@ -8,14 +8,14 @@ images:
     -
         file: 8c3e9ee4477bbe154ab72143a8e8ae30.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1-napoleon.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Дучиц, Ирина Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

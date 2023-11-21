@@ -8,14 +8,14 @@ images:
     -
         file: ef98cd51eac15f1829d1d699ce595c80.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/foto2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Игорь Штык'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

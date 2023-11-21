@@ -8,14 +8,14 @@ images:
     -
         file: 7d461f8f459d2188ea71c253c1a54629.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/krinica-sv-pontelejmona_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

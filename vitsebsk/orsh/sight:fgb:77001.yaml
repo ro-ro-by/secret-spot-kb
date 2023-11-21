@@ -8,14 +8,14 @@ images:
     -
         file: cf7af228e13939598cbd3c876f4d4caa.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/20141012134609-pahan1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pahan1
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

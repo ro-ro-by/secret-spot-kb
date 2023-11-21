@@ -8,14 +8,14 @@ images:
     -
         file: 146d6140c50b5405edad6e428b945c6f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/buk_lesnoj__1592333286012__w1152.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Тищук'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: beech
 location:

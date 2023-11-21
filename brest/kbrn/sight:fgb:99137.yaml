@@ -8,14 +8,14 @@ images:
     -
         file: 7163088040ef89b3f5d65e2faf484a51.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/_(lozhe_kamennoe)_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Николай Кузич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99137'

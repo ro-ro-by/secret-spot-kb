@@ -8,14 +8,14 @@ images:
     -
         file: ddffcb8b370e013f7410891da56f801f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/__oeue_179.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Татьяна
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77711'

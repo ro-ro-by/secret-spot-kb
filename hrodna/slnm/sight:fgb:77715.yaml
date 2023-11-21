@@ -8,14 +8,14 @@ images:
     -
         file: 2038e07618af83cfc0eb97711539be60.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/zhirovichi-krinica_4.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

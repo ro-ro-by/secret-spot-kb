@@ -8,14 +8,14 @@ images:
     -
         file: ecf5db2262a5fdf314f447d38c5faa9a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/kmyoq1p0b9u.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Зміцер Скварчэўскі'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

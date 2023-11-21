@@ -8,14 +8,14 @@ images:
     -
         file: 5c772cd3ba61318762f8cda68a5261b0.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_4360_2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Nekan
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

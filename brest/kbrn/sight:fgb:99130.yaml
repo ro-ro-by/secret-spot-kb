@@ -8,14 +8,14 @@ images:
     -
         file: abaf87ce742a24e87a795e433587b1ed.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_6902.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ЗУК
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99130'

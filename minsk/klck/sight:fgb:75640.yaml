@@ -8,14 +8,14 @@ images:
     -
         file: 0f28d0a94cabb3eea378fa872009ca5c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20201002_124454.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: N-35
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

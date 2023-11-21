@@ -8,14 +8,14 @@ images:
     -
         file: 4190b88d4a1e6231a4403897b9e78584.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/krynichka_ne_beraze_vilii.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Mikola Pankavets'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

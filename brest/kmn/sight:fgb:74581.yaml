@@ -10,24 +10,23 @@ images:
     -
         file: 9bd84fad76f0ca24cf2dbdbd792ccac1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_verhovichskij_plyuschevnik.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: f741de2b9d48a33e69c3336830fb543a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/verhovichi_.roty.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ЗУК
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

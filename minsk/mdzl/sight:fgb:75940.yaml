@@ -8,44 +8,42 @@ images:
     -
         file: 5f54f9939b73edb29a9d7727597cb8de.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/97_7117.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 8d6d5a8189dc091b5ca0136ec09a0b74.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kupa_kartoshema.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 78cd04e69e020e978d1466ce7ce3b39d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/v7jkuot4c8o.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Лойко'
             version: FIXMEVERSION
     -
         file: ff78fbc2073557488d2f4f1b02ce17fb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/9not4ndnyws.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Лойко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

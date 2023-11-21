@@ -8,14 +8,14 @@ images:
     -
         file: 8d0d0456a5b7c5d760402cc7a9e8e77d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/4_3994.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Гайдучика'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '98105'

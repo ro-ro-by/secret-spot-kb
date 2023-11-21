@@ -8,14 +8,14 @@ images:
     -
         file: 38469416e4cb04616af171cfc5171e22.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20211003_120243.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Boris Klimentionok'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

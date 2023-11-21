@@ -8,14 +8,14 @@ images:
     -
         file: 09949574e6be416eafd1a1461151b32a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/7u-io8q1byk.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Максим Мотыгин'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

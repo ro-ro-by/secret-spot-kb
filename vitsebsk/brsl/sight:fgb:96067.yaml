@@ -8,14 +8,14 @@ images:
     -
         file: 848184747e40dc6abbbc67bc363d1e9a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_1970.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Васіленка'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96067'

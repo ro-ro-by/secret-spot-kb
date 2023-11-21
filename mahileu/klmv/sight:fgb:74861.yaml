@@ -8,14 +8,14 @@ images:
     -
         file: a052b07030b1919a8ca37e2015fdf1f3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2022-02-15-21-05-06.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дарья Эверс'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

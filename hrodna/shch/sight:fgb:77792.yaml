@@ -8,34 +8,32 @@ images:
     -
         file: 8f689921126e6fa8ce434eba7c581043.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._mikulishki_4194.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 8148c12854fb061978d3fb545fed91a9.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2022-11-04.png'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 76b3744e1411e53e86633d166599c4fd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_1874_4904.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

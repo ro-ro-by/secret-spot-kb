@@ -8,14 +8,14 @@ images:
     -
         file: bb0fafb6948235e1b8700fe0f1aecfb5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img-20211012-wa0000.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Владимир Капустин'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

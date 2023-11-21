@@ -8,14 +8,14 @@ images:
     -
         file: cb382403d61a8218292e0081e7717903.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2021-08-07_11-49-49.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Белавская А.'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

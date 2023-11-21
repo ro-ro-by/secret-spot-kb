@@ -8,14 +8,14 @@ images:
     -
         file: b4d1969e79a014619a1d9009942cc2f9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1542801418_15.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Леонид Мателенок'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76950'

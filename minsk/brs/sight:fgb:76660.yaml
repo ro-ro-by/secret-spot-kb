@@ -8,14 +8,14 @@ images:
     -
         file: 1ac3fe04a6110e8b5f334ca55e86dbe1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/krinica-ikany_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

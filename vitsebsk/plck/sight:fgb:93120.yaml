@@ -8,14 +8,14 @@ images:
     -
         file: 3ba8f1a97124a508a10f0cd6bbc90a78.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/viber_image_2019-04-17__14.09.41.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Mikola Pankavets'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

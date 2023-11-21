@@ -8,14 +8,14 @@ images:
     -
         file: 817fe879a0e808cedefc17bb05718578.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/park1064_d297.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Дыбовский'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

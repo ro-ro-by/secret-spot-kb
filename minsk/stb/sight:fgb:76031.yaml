@@ -8,14 +8,14 @@ images:
     -
         file: 074d37144e7a7ba03c2835b4ad73c1a5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/imgp9836.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Mikola Pankavets'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

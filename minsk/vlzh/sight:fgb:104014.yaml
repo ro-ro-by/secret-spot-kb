@@ -8,14 +8,14 @@ images:
     -
         file: c0c60700f11bc004c36958980504731f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/monki_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Владимир Капустин'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

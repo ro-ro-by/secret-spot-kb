@@ -8,14 +8,14 @@ images:
     -
         file: 732604bb2bdacc06aeb870d687531523.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/23-novudvormynski-w.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л. Дучиц, 2006.'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75827'

@@ -8,14 +8,14 @@ images:
     -
         file: 750c43994ec7af7579fd7c1ff337a390.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/i_7.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Кирилл Шинкевич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

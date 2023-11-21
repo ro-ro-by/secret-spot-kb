@@ -8,14 +8,14 @@ images:
     -
         file: 577e490aa20abd6436df840c2cee6327.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/20-dubatoukasmarg-w.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л. Дучиц (2009) и И. Климкович (2017).'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77761'

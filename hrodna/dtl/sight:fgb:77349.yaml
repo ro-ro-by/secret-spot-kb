@@ -8,14 +8,14 @@ images:
     -
         file: 1d33155945ec8a0c9ab448044b905912.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/izobrazhenie_1688_2556.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Валерос
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

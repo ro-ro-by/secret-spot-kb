@@ -8,24 +8,23 @@ images:
     -
         file: a8d234eca923a3087e230d5155962016.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/p0081_2842.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 2274262f3285be8d7d48009981de2049.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20181013_090741.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Микола Панкавец.'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

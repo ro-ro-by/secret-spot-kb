@@ -8,14 +8,14 @@ images:
     -
         file: cc57cc85e926c7149377c8aaa2e081b2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/imgp0753.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Микола Панкавец'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

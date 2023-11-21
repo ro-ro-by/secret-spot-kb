@@ -8,14 +8,14 @@ images:
     -
         file: e768072b3822f3ef177970cf91507076.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/88emlsi5nv0.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Карповец'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

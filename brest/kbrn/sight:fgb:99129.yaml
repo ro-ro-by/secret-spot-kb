@@ -8,14 +8,14 @@ images:
     -
         file: 242fb694b12442b921b917a28bce095a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/043..jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: slepowron
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: f6182042c75e639114562cbaae1563fd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/stone0317_d190.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Андрей Дыбовский'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99807'

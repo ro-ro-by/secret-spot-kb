@@ -8,14 +8,14 @@ images:
     -
         file: 260424207e889f8475e26544c5c49b29.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/sam_9439.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: kalilaska
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '104062'

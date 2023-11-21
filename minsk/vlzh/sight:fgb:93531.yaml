@@ -8,14 +8,14 @@ images:
     -
         file: 08eb3e7279a731059484f9db18791e94.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/-2zfw6ekqm_jiwlvoqttigtwxxdnnk...6x5of7sl93oh7funxwdesgyu4mf92y.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Максим Астрейко и Зміцер Скварчэўскі'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

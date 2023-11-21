@@ -8,34 +8,32 @@ images:
     -
         file: 74067d8dbf9e0bcac7f4bf2bafdba36c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/lyudmila_duchyc_iryn...arusi_(2011)_113.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 2961b8c12537dff6ea4af21d4376c2f0.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lechebnie012-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л. В. Дучиц и И. Е. Климкович'
             version: FIXMEVERSION
     -
         file: c5cfe7c72ad7a5da4ad9ac22281ba194.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_3094.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

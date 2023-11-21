@@ -8,14 +8,14 @@ images:
     -
         file: 6123acf2259991ce2b830dc7353041b1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_8268rtix_degen1103.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: degen1103
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

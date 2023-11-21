@@ -8,14 +8,14 @@ images:
     -
         file: acbf49449a0491fec4ded59babf00776.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/pyatinka1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алла Мишурная'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

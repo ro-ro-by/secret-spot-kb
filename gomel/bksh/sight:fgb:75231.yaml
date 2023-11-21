@@ -8,34 +8,33 @@ images:
     -
         file: 272aaa5f3b824fe4a0376e9ba75a71c5.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mem1.png'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
     -
         file: 2017d824c5f9ee158357ecb760051f40.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mem2.png'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: 3cf2e74cfaaef33f165613b97638cdc4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dsc_8480.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

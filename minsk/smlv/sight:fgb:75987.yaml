@@ -8,24 +8,24 @@ images:
     -
         file: 73cd604c19e63eb40a4ebb84590f3418.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/19-w.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л. Дучиц, 2012'
             version: FIXMEVERSION
     -
         file: 19b37589ce7c8c0db32029291f188608.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_5238.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

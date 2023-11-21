@@ -8,14 +8,14 @@ images:
     -
         file: 67645281c25e5c79a428f02986c9a175.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/22-w.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л. Дучиц, 2014.'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97102'

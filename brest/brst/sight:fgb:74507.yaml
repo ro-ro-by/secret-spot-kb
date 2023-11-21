@@ -8,14 +8,14 @@ images:
     -
         file: 52b9fb5f8ab7c5d523123a5a595c09b8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/32742710573_f9b8a861c5_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Тищук'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

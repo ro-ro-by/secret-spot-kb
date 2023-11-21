@@ -8,14 +8,14 @@ images:
     -
         file: 7fd8d7cff9799ed4ecd2293c15191ea5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_0087_7.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Неон
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

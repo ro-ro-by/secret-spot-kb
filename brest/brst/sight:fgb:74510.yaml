@@ -8,14 +8,14 @@ images:
     -
         file: ab3f6aaabe23963dce9688b7a999baf7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/plyusch_obyknovennyj__1493125535645__w969.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Тищук'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: ivy
 location:

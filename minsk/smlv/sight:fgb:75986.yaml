@@ -8,14 +8,14 @@ images:
     -
         file: 5af5732acf0b712aecdfdbb19f2ef507.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_4425.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Бобков'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

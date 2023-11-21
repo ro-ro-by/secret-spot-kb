@@ -8,14 +8,14 @@ images:
     -
         file: 496daaa58b74b0d9ee06a8e7856d9401.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2022-10-10_15-26-05.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Анна Белавская'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

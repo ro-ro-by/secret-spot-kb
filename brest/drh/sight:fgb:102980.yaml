@@ -8,14 +8,14 @@ images:
     -
         file: b16675ea7bc860a61c447fe6ca2ce929.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/radostovo._gora_krivaya_1..jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ЗУК
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102980'

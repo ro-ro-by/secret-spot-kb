@@ -8,14 +8,14 @@ images:
     -
         file: 81d9770afcbad415226729cc867ea1ab.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/j_gad8apeck.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Эдуард Матусович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

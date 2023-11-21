@@ -8,14 +8,14 @@ images:
     -
         file: 70d16dde939be92151155a5d9f090c38.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/eme23.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Юлия Якимчик'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

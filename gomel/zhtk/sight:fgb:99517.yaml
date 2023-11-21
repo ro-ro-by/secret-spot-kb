@@ -8,34 +8,34 @@ images:
     -
         file: 99de366543a2b70938c2420d1f6bdca3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/398454_900.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pravdaosele
             version: FIXMEVERSION
     -
         file: b66c3e80f2442bc1c014b90e41ad383c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/399210_900.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pravdaosele
             version: FIXMEVERSION
     -
         file: 7c1dbffd987c9d2f31116849f24772e9.jpeg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/d960c54320787ad3539d1b41ffb85426.jpeg'
         meta:
-            author: FIXMEAUTHOR
+            author: pravdaosele
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

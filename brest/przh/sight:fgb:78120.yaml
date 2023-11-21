@@ -8,14 +8,14 @@ images:
     -
         file: ee9ab6fd77bb414d9f0fbfed74e398c9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/fullsizerender-17-04-19-12-48.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'МАКС Иванов'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

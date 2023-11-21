@@ -8,14 +8,14 @@ images:
     -
         file: ac0eb4abb12d9d0fb2179fd967bc87ec.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20170911_132408.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Viktor 2018k'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

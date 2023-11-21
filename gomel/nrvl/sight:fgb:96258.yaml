@@ -8,14 +8,14 @@ images:
     -
         file: f12bd6e3880cfd57fd88e154c8a8e671.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lechebnie07-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Зайцев'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96258'

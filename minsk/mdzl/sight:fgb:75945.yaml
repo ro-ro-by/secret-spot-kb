@@ -8,14 +8,14 @@ images:
     -
         file: b3293a1e44d69571bb0eeeb38733b759.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc02862a_degen1103.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Degen1103
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

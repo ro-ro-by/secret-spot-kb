@@ -8,14 +8,14 @@ images:
     -
         file: c758db7776ebc107848c5be05e9c36fe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/pinkovichi_(cerkov_pokrovskaya)_3_istochnik.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Николай Кузич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

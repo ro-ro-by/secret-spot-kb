@@ -8,14 +8,14 @@ images:
     -
         file: f2ea96e7b11d54bdb4969ca8c081754e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/296247967_5597984533567034_4360695498353777773_n.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Кавалевич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

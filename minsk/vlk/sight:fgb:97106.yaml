@@ -8,14 +8,14 @@ images:
     -
         file: b823a54ee2185fa5d09bd3427ff2b4c3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/32-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А.Зайцева, 1998'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97106'

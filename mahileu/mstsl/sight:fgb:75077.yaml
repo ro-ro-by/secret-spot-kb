@@ -8,14 +8,14 @@ images:
     -
         file: 77e74c98280ec1b95294aba2df887b2a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_4120.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: tam_erm
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

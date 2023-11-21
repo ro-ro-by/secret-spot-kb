@@ -8,14 +8,14 @@ images:
     -
         file: b9e14785263f4bbcc70f56371f332ceb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mebabudz01-01.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Шамкаловіч Ю.'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

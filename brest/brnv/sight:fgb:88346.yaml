@@ -8,14 +8,14 @@ images:
     -
         file: cb2420c7f4a3096bed90bd1d31a24ec3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20180512_145729_hdr.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Карачун'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

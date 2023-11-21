@@ -8,14 +8,14 @@ images:
     -
         file: 925371059760676a71c34002c12f0dd8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dscf6540zh.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ЗУК
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

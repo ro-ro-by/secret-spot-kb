@@ -8,34 +8,33 @@ images:
     -
         file: 0d0426e7cfff7f5bba644cdb4cc88ed4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/230414-borovoe.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алексея Матеша'
             version: FIXMEVERSION
     -
         file: 7fc782fb42052ccc973b9894985a8adb.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/baba.png'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: c9cbbd77ff85cdc4a6e104ee658b5ba5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_4866.jpg'
         meta:
-            author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

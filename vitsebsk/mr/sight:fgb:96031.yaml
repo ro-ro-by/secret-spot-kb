@@ -8,14 +8,14 @@ images:
     -
         file: d173f223f7c0acfaff04afe285247de5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/29-.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Л.Дучиц, 2016'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96031'

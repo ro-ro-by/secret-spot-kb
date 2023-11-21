@@ -8,14 +8,14 @@ images:
     -
         file: 66f964d1448531b10dda2fc5be1f909f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/fdfb637fb2cb.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Nikolai
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99101'

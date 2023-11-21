@@ -8,14 +8,14 @@ images:
     -
         file: d07ab13a13db9f1d05e8e9755db9bb03.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_7366_4182.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Serjik
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

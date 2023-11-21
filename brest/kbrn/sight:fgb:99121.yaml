@@ -8,14 +8,14 @@ images:
     -
         file: 8a687b3fefd548561564a2b7513121d7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dscf1154_p.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: mat_set
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

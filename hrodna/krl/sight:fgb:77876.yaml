@@ -8,14 +8,14 @@ images:
     -
         file: 2ecbc733059d28e606f240e65eb8a78c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/11vroncha.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Дучиц, Ирина Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

@@ -8,14 +8,14 @@ images:
     -
         file: e5b6c13f75d5cc4122fd59ef40bb9823.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/230414-zapole.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алексея Матеша'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97146'

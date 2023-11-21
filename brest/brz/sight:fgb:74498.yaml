@@ -8,14 +8,14 @@ images:
     -
         file: 0f6d75cfb91bc4081be9a0a99204ef1e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/sam_0321.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Николай Кузич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

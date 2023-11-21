@@ -8,14 +8,14 @@ images:
     -
         file: f0dd7d161799b81348d8950a2f431fd4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/e995acb201ea3a49658bb610f3593950.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Плыткевич'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

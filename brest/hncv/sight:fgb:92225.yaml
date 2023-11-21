@@ -8,24 +8,24 @@ images:
     -
         file: 0c5e3dc6f9acdec078dd395940fdcac1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/krinica-izbiskiy_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Ивченко'
             version: FIXMEVERSION
     -
         file: 979cfa46f21b32f92aad0ae0ba60a3a8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/40858589.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Кастусь Шыталь'
+            version: '29 августа 1936г'
+system: IMGREVWD
 location:
     -
         type: point

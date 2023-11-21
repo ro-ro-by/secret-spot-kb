@@ -8,14 +8,14 @@ images:
     -
         file: 32e31e3bfb1a9aedb1a29e0a16cd4483.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/zvgwvkenkye.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Светлана Войтко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

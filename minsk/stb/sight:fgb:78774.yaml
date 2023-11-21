@@ -8,14 +8,14 @@ images:
     -
         file: d22c3403d85a0347004c8e96ca8ddfca.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc02076.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Никитко'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 860c69dbcb35f1f9a649f48aeaf2db49.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_1485_otv.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: otv
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

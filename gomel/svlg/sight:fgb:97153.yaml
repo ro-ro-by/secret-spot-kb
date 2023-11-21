@@ -8,14 +8,14 @@ images:
     -
         file: 26aeabddb1d680dda424b848f701e5cf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/230414-zdudichinskii.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Романцов'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97153'

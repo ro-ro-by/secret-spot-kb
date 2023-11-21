@@ -8,14 +8,14 @@ images:
     -
         file: 98c1131310bdba7934a774c3dafd8d07.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/298501877_1415281838984469_4983084914047992120_n.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Строкач'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

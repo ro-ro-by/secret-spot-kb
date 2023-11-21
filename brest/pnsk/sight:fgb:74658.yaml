@@ -8,14 +8,14 @@ images:
     -
         file: 7456161f19f808cec77c30e4a1df8cf2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bona.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Кисель'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 9898edfad7f7f3c73d2301f507e23aa7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_8139_2.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Faun_
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

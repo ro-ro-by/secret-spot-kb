@@ -8,14 +8,14 @@ images:
     -
         file: 08ce9ecd1705e9db1ce5425e1f08469b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/thumbnail_20210921_103634.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Светлана Альшевская'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

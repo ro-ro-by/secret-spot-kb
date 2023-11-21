@@ -8,14 +8,14 @@ images:
     -
         file: c29ca7704cdd7561c49a41c88e6be0cf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ye-xrrajxl8.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Станислав Бакей'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

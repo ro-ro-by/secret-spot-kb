@@ -8,14 +8,14 @@ images:
     -
         file: c1de5c985ba60310308ac9535ab5ec99.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/yzxcr1i8_-m.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр База'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

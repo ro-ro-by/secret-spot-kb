@@ -8,14 +8,14 @@ images:
     -
         file: 8cfcf18222dfbbca2a4786d103f8ed2d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rudka.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Кисель'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

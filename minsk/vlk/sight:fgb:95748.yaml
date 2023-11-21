@@ -8,14 +8,14 @@ images:
     -
         file: 5012566f37c4de1af7e68d4360f639de.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/4paromec.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Дучиц, Ирина Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

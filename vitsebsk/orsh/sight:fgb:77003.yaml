@@ -8,14 +8,14 @@ images:
     -
         file: c36a56536bab12931666ba5482937fb1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/snimok_16_pahan1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: pahan1
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

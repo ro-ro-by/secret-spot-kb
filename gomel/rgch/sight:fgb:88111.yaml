@@ -8,14 +8,14 @@ images:
     -
         file: da5cebe54ffec73a071f311f651f5792.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/4y8o_kq4ccq.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Эдуард Матусович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

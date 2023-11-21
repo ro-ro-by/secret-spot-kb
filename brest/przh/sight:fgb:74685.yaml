@@ -8,14 +8,14 @@ images:
     -
         file: 89ffd4d5d0c96390727586d2356682ef.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rodnik.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Prusaker
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

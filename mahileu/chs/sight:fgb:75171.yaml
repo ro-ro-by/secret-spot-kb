@@ -8,14 +8,14 @@ images:
     -
         file: eaa84e61591b11f76082e228357ca570.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/20210704_160025.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Валера Сурнаков'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 914c3b0f7177b7bf78ff5d4d7f8577fb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/lc2gmm5ml9c.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Карповец'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

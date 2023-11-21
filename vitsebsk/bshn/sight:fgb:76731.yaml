@@ -8,14 +8,14 @@ images:
     -
         file: b1e15096b3694ca93f39d23af0c0fccd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20170808_114949.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Юрий Щербаков'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

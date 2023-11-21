@@ -8,14 +8,14 @@ images:
     -
         file: 854e4211c49b084f571ed418decf14d7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/250717-bykhov02.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Аллы Ильютик'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96156'

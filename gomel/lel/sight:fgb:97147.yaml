@@ -8,34 +8,34 @@ images:
     -
         file: a65f177b3dab7aa087d45e60e3b7628f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/230414-danilevichi.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Кравчук'
             version: FIXMEVERSION
     -
         file: ad9834dd21382014b2fa42c03119f4d9.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/danil.png'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: ebdc149afb6a40ff613f0ca8893a683f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_4971.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97147'
