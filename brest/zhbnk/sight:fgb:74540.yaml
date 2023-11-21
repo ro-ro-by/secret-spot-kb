@@ -8,14 +8,14 @@ images:
     -
         file: 5d8c4e1b694ef7a3affc938161e52b3b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20150808_172555_1.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

@@ -8,14 +8,14 @@ images:
     -
         file: 2086e0768b4be9e2f0a496283fcfd5ee.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/vankovschina_gonchanskoe_mokroe_1_2_hristy_karta.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74949'

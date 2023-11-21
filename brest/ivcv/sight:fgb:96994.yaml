@@ -8,14 +8,14 @@ images:
     -
         file: 99f6f3be7e9599b5ce0dcdcc9597d48d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/photo_2020-10-23_18-19-24.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гиль'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

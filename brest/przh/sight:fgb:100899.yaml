@@ -8,14 +8,14 @@ images:
     -
         file: 5f58b468a6005daded603964c9456ba1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/kashtanovka_(usadba_dzekonskih)_7_kamen-kreslo.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'МІКОЛА КУЗІЧ'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100899'

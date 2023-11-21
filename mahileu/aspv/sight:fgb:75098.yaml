@@ -8,14 +8,14 @@ images:
     -
         file: 45c75ff76cfad28dc6b0ebbf899e202a.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/rodnik.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

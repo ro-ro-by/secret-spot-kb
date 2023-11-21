@@ -8,14 +8,14 @@ images:
     -
         file: 9104a102cc32ba8ec231285b147ff3f8.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/novyj_risunok-2.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74547'

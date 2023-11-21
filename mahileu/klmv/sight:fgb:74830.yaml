@@ -8,14 +8,14 @@ images:
     -
         file: 752bc5d02ef8cd5d1bbef73894256b30.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dolina_r_oster_kartoshema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74830'

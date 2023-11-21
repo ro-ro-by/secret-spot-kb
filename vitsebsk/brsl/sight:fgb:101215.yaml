@@ -8,14 +8,14 @@ images:
     -
         file: 21a40b4a293b4d5660181a9aff42c4f1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/149.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: juniper
 location:

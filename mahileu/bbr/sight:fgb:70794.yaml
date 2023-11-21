@@ -8,14 +8,14 @@ images:
     -
         file: e33b78a092b05219c64e6a9143444000.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/paklonval_muzeibabr_4003.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 2005
+system: IMGREVWD
 meta:
     fgb:
         post_id: '70794'

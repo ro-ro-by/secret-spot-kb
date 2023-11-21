@@ -8,14 +8,14 @@ images:
     -
         file: 119d760637b47c9e8ffd14ba8aa66a81.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/karta_kushlevskaya_dolina_(2018).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77189'

@@ -8,14 +8,14 @@ images:
     -
         file: d95699fde17fa221433e27e360d22c7d.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/checherskij_kartoshema.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '98978'

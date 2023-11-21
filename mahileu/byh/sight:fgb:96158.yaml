@@ -8,14 +8,14 @@ images:
     -
         file: 5c63fd892e534ebbc304e0a1687aa5dd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/250717-bykhov04.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Сергей Жижиян'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96158'

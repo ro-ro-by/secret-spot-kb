@@ -8,14 +8,14 @@ images:
     -
         file: b5e013321f1173cbe19740be6a3658fb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lukovaya_gora._vid_na_berezinu.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

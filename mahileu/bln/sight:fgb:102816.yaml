@@ -8,14 +8,14 @@ images:
     -
         file: f65340c4ffd316d6530916a63734d082.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511934_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'У. Чаховіч'
+            version: 2020
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102816'

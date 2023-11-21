@@ -8,14 +8,14 @@ images:
     -
         file: ab05d2db1ef65e8680ebe23a34eb6470.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/file_(1).jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: irena_s
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

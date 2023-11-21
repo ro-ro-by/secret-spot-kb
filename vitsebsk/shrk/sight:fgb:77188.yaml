@@ -8,14 +8,14 @@ images:
     -
         file: 395228f5404f23319bdba8028876e956.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/karta_bystrickaya_dolina_(2018).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77188'

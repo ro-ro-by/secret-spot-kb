@@ -8,14 +8,14 @@ images:
     -
         file: ee6426aef4b721cbef53f5ba8f7d5329.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/karta_mestechkovaya_dolina_(2018).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77190'

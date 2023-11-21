@@ -8,14 +8,14 @@ images:
     -
         file: 53db0ebdcd66dce9ddb5658f9a12a39e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/250717-bykhov01.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96155'

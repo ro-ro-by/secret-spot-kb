@@ -8,14 +8,14 @@ images:
     -
         file: 9a050e80e9b5d05310a4b4c683fddf9c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2022-02-09-17-46-10-299_com.instagram.android.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: gavoryts_palesse
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99792'

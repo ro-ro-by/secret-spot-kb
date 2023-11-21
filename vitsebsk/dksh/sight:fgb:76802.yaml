@@ -8,14 +8,14 @@ images:
     -
         file: 950734cb2297ed610ec67bfe5eff0e5b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_20220524_0014.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Э. Ляўкоў'
+            version: 1992
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76802'

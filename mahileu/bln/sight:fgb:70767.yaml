@@ -8,14 +8,14 @@ images:
     -
         file: 19aadece87dec602cee4c6a8c4252455.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/swscan00992_(1).jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Скарабагатаў'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

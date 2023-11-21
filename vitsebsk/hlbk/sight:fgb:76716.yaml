@@ -8,14 +8,14 @@ images:
     -
         file: c56ea6b813f7e09dfe8234c3c00c641c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/novyj_risunok_(9)_0002.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

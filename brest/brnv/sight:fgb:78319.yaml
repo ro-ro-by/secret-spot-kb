@@ -8,14 +8,14 @@ images:
     -
         file: cf693a8e9a06744e75ee7f2e5d0bf44a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ko41.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Гиль'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

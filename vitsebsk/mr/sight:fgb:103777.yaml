@@ -8,14 +8,14 @@ images:
     -
         file: 5966d79c54ed823500f195d28aa41f8f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511954_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Ф. Вінакураў'
+            version: 1999
+system: IMGREVWD
 location:
     -
         type: geojson

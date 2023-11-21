@@ -8,14 +8,14 @@ images:
     -
         file: d23d3d27c861b6b3acddda32b950d789.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc_0082.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

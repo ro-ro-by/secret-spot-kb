@@ -8,14 +8,14 @@ images:
     -
         file: 39411a6919291c85626df546b80dd021.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3682.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

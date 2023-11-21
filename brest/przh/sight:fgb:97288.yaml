@@ -8,14 +8,14 @@ images:
     -
         file: 422342c9367a158c85b1577d1a0dca99.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/file_(2).jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: irena_s
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97288'

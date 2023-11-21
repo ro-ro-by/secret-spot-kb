@@ -8,14 +8,14 @@ images:
     -
         file: 45f7d073c82db81f88f38aaa020a0a33.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/nadlivskaya_gryada__1499875752170__w1500.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

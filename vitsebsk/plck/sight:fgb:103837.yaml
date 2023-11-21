@@ -8,14 +8,14 @@ images:
     -
         file: e06a41f987736ac7efddcef365e8b912.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511931_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Ф. Вінакураў'
+            version: 1997
+system: IMGREVWD
 meta:
     fgb:
         post_id: '103837'

@@ -8,14 +8,14 @@ images:
     -
         file: 3772b40dd866c0c75075c42b8952847b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_0052_11.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр6 '
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

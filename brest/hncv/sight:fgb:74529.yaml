@@ -8,14 +8,14 @@ images:
     -
         file: c8633eb2fe41e18da04ce41cca947aa6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/33173872450_9edc7a7923_b.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pine
 location:

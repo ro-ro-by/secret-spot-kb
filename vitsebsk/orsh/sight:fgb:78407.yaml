@@ -8,14 +8,14 @@ images:
     -
         file: 93fb70e71cefd2c4e1d6041ee8dedbbf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_0706_5-nekan.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Nekan
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

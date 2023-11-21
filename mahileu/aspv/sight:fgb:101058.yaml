@@ -8,14 +8,14 @@ images:
     -
         file: d56c4eb1301172a949716d0c74765048.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dsc_0269_4220.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '101058'

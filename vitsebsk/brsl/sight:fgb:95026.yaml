@@ -8,14 +8,14 @@ images:
     -
         file: 0872d65975b0a89ccb056d657d8aa8d5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/braslavchema-99.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '95026'

@@ -8,14 +8,14 @@ images:
     -
         file: 4c49023cc46665abdcc2e39feb6518cf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0001.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'М. Мялешка'
+            version: 1928
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100028'

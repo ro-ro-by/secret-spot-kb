@@ -8,14 +8,14 @@ images:
     -
         file: e672e5f4f86fabc098d6ca421364ec1e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/zamakvaronechplcvt-00_4604.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Ф. Вінакураў'
+            version: 2000
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77021'

@@ -8,14 +8,14 @@ images:
     -
         file: abf6893b0a59a9a450d94c28d86a4cee.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/19a67f6f552eaf567b70b4d149bc0c76.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

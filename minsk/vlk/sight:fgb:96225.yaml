@@ -8,14 +8,14 @@ images:
     -
         file: 6b980aa6a490bd36cb25846197b5b01d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/17086816858_6d096967c0_k_(2).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96225'

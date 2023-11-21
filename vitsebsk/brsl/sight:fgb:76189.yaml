@@ -8,14 +8,14 @@ images:
     -
         file: 588837edd64b40599f10f3f73f63229a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0007.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Бунта'
+            version: 2014
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76189'

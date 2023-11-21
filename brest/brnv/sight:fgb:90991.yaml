@@ -8,14 +8,14 @@ images:
     -
         file: 59ae3d96f21232f49f5950640a69d2e6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/11-garadzischabaran-w.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Л. Дучиц'
+            version: '2008'
+system: IMGREVWD
 meta:
     fgb:
         post_id: '90991'

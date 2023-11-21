@@ -8,14 +8,14 @@ images:
     -
         file: b4c89d181b6bebd3a0c11844fca45580.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/karta_gryada_zenkovicha_(2018).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77187'

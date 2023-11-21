@@ -8,14 +8,14 @@ images:
     -
         file: 7c96414d33ee3936c0c25719a7e0e4e1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rudashi.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Владимир Зуев (Кудрис)'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 94e38cfc50fa7330a23f6143ed362962.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0011.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'А. Гарбуль'
+            version: 2010
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99913'

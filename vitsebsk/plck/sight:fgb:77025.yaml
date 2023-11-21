@@ -8,14 +8,14 @@ images:
     -
         file: bf5753246c8a87467d8ed3859565fa28.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/perunpl-00_8218.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Ф. Вінакураў'
+            version: 2000
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77025'

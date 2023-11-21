@@ -8,14 +8,14 @@ images:
     -
         file: d970522d38fe75e8228c23468bc96b8a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dscf1399.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Игорь Рудаковский'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: dba9e0759e430ed9e4241a32eadf7930.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/34-ahvyarnkrynichkapolack.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97108'

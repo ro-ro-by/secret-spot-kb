@@ -8,14 +8,14 @@ images:
     -
         file: 759be5d03912facad0c86ee8f7df511f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/slabodbraslau-99_0877.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Ф. Вінакураў'
+            version: 1999
+system: IMGREVWD
 meta:
     fgb:
         post_id: '94958'
