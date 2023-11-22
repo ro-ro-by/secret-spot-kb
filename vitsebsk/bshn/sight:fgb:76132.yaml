@@ -8,14 +8,14 @@ images:
     -
         file: 72ae2d826ba51b118f18ff01c3ca7bb9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/c12he5_2_true.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

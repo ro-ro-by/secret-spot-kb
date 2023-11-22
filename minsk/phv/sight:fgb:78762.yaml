@@ -8,14 +8,14 @@ images:
     -
         file: 667bf669e6e958d06e0715588984a5cb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/g5qi8kgnyck-1000x660-da3.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

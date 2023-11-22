@@ -8,14 +8,14 @@ images:
     -
         file: 3e923cfef71f177dacd14cbcc78fb3cd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/01_0841.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

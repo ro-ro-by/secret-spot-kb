@@ -8,14 +8,14 @@ images:
     -
         file: 8f1425b3ffad462db5add23740b482fc.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/duby.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

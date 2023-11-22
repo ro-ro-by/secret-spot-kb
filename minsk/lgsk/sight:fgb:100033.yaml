@@ -8,14 +8,14 @@ images:
     -
         file: a7655846b1beaf222a552613cd2ebb3f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0002.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'І. Гатальскі'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100033'

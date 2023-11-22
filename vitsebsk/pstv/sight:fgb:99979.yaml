@@ -8,14 +8,15 @@ images:
     -
         file: 740d03465661ec60a23f4d183fc3bdde.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/167.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99979'

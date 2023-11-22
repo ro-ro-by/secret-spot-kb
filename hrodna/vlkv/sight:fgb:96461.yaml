@@ -8,14 +8,14 @@ images:
     -
         file: 4248a9ce2d661c4cfdf75ccea392ee2a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_8723.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '96461'

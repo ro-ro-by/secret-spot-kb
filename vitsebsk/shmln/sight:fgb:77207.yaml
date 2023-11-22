@@ -8,14 +8,16 @@ images:
     -
         file: fcf60b073e749e988e01300daef55ced.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3174.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77207'

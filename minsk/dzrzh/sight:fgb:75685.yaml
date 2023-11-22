@@ -8,14 +8,14 @@ images:
     -
         file: 361d7bed873b7c83565dc7e9e0b14340.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/oefugektthy.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Strela
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

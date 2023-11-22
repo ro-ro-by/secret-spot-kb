@@ -8,14 +8,14 @@ images:
     -
         file: 8d9f57cd45b9588d5e38be574f496b68.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/313.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77224'

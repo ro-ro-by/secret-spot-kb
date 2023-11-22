@@ -8,14 +8,14 @@ images:
     -
         file: 37ba7fbe97b1fed37dafada31faaf54f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bukovichbyarezinsk-87_7644.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1987
+system: IMGREVWD
 meta:
     fgb:
         post_id: '70800'

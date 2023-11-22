@@ -8,14 +8,14 @@ images:
     -
         file: 58ca1a6a9d76f0966d0c389f9572773a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vselyubskij.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77586'

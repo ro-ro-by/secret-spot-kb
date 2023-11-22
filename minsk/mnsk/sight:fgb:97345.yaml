@@ -8,14 +8,14 @@ images:
     -
         file: f37329def57e9b3ffd0fd2c7fbb3dc8e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/melibfaltim.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: ash
 location:

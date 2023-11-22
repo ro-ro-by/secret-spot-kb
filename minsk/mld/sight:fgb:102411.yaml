@@ -8,14 +8,14 @@ images:
     -
         file: 810ea313aae9f03fb3e528944ff898d8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511958_y.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'М. Лавіцкі'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102411'

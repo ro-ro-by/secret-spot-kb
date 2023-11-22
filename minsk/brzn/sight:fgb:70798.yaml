@@ -8,14 +8,14 @@ images:
     -
         file: 80f49e31a3752538fdd5bb378b79011a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lb1.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

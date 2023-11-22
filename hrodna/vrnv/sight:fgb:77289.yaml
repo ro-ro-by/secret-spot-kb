@@ -8,14 +8,14 @@ images:
     -
         file: 16eeba416897f74912f5e919ab1b7a5d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_meshkaly.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77289'

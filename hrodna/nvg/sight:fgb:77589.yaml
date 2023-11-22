@@ -8,14 +8,14 @@ images:
     -
         file: a762e220973d7267b85d616ee5a353c1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_kaplica.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77589'

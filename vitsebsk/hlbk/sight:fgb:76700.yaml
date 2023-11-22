@@ -8,14 +8,15 @@ images:
     -
         file: cdc1a577cd859e6a113056ec8334e9a2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/davydki.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76700'

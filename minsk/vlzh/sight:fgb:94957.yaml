@@ -8,14 +8,14 @@ images:
     -
         file: 3f4c37c5021e2341efc2564a1bfa7c70.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/sakovshnvalozhyn-97_5818.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1997
+system: IMGREVWD
 meta:
     fgb:
         post_id: '94957'

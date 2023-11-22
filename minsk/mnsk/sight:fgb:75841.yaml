@@ -8,14 +8,14 @@ images:
     -
         file: 2426a578a3093551fb48cc1419aea269.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_1400_0673.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

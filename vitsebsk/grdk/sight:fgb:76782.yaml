@@ -8,14 +8,14 @@ images:
     -
         file: 5c8597859bad3a56b6fec541ce14b442.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:overview'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_7761.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

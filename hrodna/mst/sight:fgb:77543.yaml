@@ -8,14 +8,14 @@ images:
     -
         file: 8c65b4e7f53be773fb288d5dd2c4b499.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_gomshar.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

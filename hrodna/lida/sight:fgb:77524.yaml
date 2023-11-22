@@ -8,14 +8,14 @@ images:
     -
         file: 4b5937a590eb138ea7b080b8f09e0820.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_berezina2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

@@ -8,14 +8,14 @@ images:
     -
         file: 25e1cef393ddafcf3ea6ecb89d3b89b4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/falichskij_moh_etalonnye_50_000.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

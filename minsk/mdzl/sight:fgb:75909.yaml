@@ -8,14 +8,14 @@ images:
     -
         file: 7985883507248825730b3af085f3ab5e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shklennikavmyadzel-95_6102.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1995
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75909'

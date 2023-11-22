@@ -8,14 +8,16 @@ images:
     -
         file: c3623c03347b8423007d6612c2b39e19.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_7178.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75190'

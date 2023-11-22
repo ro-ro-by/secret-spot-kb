@@ -8,14 +8,14 @@ images:
     -
         file: 7df90bc7f1bdf852d63881c4420df996.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/karta-shema_belaya_rus.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

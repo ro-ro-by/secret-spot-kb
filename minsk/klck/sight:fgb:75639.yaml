@@ -8,14 +8,14 @@ images:
     -
         file: 93a849b5101ba1ecacca11eeeba9915e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/8chahsa.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Людмила Дучиц, Ирина Климкович'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

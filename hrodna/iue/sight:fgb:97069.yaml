@@ -8,14 +8,14 @@ images:
     -
         file: 18767816f90bfb3b5f6fcb933b92ccc2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/090420-volchok03.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Андрей Волчок'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '97069'

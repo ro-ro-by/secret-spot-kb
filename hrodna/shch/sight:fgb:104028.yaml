@@ -8,14 +8,14 @@ images:
     -
         file: 2e330f0103e10f1586bc27b11a1f9690.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_4514.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алег ШЫШЛОЎСКІ'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

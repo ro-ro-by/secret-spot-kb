@@ -8,14 +8,14 @@ images:
     -
         file: 33f4fa03204dd7a1b046cc4e169aa255.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_7759_0295.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

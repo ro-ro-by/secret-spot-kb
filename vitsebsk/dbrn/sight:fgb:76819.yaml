@@ -8,14 +8,15 @@ images:
     -
         file: 5cd55b414d531c905faee7ed3a905430.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_8621.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76819'

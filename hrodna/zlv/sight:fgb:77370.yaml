@@ -8,14 +8,14 @@ images:
     -
         file: 850e555a3ae85e2faff76bbfe002e692.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_vishnevka.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

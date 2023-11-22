@@ -8,14 +8,14 @@ images:
     -
         file: 5c6c2fd0f3e2ffade4520ff44a49956e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_berezaveckij_prigorok.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77516'

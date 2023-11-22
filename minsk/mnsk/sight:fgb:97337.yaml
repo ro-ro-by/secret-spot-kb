@@ -8,14 +8,14 @@ images:
     -
         file: 25e6c02c26e508269753d1f590f59669.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/0cd158c83243567c99b17fda822b692b30972a47_7_600x800.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

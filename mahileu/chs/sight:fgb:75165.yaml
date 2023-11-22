@@ -8,14 +8,14 @@ images:
     -
         file: b9dae4c77fbf036c364269b9f8b5ec1c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_2330.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75165'

@@ -8,14 +8,14 @@ images:
     -
         file: d48210e4bcd3677ce965162cad6ce699.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_2815.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: c26ddbc69fd70d679d20e75c323e49ec.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_9655.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

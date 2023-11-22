@@ -8,14 +8,14 @@ images:
     -
         file: f72ee0e54f32097d0e73004896a97dca.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511940_y_-_kopiya.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'А. Паўлоўская'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '103196'

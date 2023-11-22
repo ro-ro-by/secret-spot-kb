@@ -8,14 +8,14 @@ images:
     -
         file: d637361d3d435fcc5c7f1361de2ea1c7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/photo_5325937100228511909_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Д. Іўчанка'
+            version: 2019
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102640'

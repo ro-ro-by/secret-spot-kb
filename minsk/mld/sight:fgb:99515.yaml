@@ -8,14 +8,14 @@ images:
     -
         file: 7a1861f3fa313aa98da75372f543c685.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/tild3565-6133-4836-b166-326562656430____1.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

@@ -8,14 +8,15 @@ images:
     -
         file: 82febc44f219517bda2ee1d715253ff9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_2246.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: larch
 location:

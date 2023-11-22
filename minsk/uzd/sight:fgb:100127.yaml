@@ -8,14 +8,14 @@ images:
     -
         file: 1d9721473eeecd3178d663d6b6aa05d4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0012.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Я. Шапашнікаў'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100127'

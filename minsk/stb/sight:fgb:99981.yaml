@@ -8,14 +8,14 @@ images:
     -
         file: dec3228c786d2806622a129a19aa35f5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_2459red1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Анастасия Грузинова'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99981'

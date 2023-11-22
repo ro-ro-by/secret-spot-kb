@@ -8,14 +8,14 @@ images:
     -
         file: 51b55eb15132888c4d8f6c73b823a8b6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/zhuravec.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '94205'

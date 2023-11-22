@@ -8,14 +8,14 @@ images:
     -
         file: 120379be8463da0720894a4c59d9a9a5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/102924980.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

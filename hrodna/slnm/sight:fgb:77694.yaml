@@ -8,14 +8,14 @@ images:
     -
         file: bbfffc5f0c83114be8cc115a7a1f69f4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dscn3238.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: tilia
 meta:

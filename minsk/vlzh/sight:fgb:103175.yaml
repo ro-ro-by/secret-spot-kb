@@ -8,14 +8,14 @@ images:
     -
         file: a7eda92c357c9d978d586d8d34c9dae9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511938_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. С. Нікіфараў'
+            version: 2009
+system: IMGREVWD
 meta:
     fgb:
         post_id: '103175'

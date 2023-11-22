@@ -8,14 +8,14 @@ images:
     -
         file: f77244e0890dc8454f65a2e7d22b9eab.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/33881730662_e9a85e2717_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

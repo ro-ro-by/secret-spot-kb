@@ -8,14 +8,14 @@ images:
     -
         file: e4eb8e502fa18f8e686b158fbdf08ed9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/photo_5325937100228511905_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'І. Клімковіч'
+            version: 2007
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102408'

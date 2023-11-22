@@ -8,14 +8,14 @@ images:
     -
         file: 3cf7673d189d5014b351772f81cfb6fa.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0018.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'А. Дзехцяронак'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100179'

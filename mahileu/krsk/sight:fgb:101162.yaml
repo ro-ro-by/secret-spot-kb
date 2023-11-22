@@ -8,14 +8,14 @@ images:
     -
         file: f3ffcab582f2e8510a47c6edd65212d4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/izobrazhenie_viber_2023-03-15_17-11-52-985.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '101162'

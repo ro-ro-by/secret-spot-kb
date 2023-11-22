@@ -8,14 +8,14 @@ images:
     -
         file: d1a8f75f76575fa671e1c2ad6b5fdf31.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/pavel-rusak-24-of-25-u-dinamo-1.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

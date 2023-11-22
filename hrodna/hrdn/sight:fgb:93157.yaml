@@ -8,14 +8,14 @@ images:
     -
         file: 59e523fb35dc3ca37cd900102fe38c9c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_7037_0463.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

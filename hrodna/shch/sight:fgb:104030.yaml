@@ -8,14 +8,14 @@ images:
     -
         file: 6dd1a88a45fe99773143853f923afca1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/krynica_big.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Аляксандр КАСПЯРЧУК'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '104030'

@@ -8,14 +8,14 @@ images:
     -
         file: 5ebccdb73ecff434625784936d065091.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/znaklsvir-pk-02_7970.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 2002
+system: IMGREVWD
 meta:
     fgb:
         post_id: '101024'

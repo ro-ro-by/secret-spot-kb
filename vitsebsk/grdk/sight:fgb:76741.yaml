@@ -8,14 +8,14 @@ images:
     -
         file: 3dd6042d48da2d57a5d24fac66f8ae54.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kamen-624x379.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Леонид Горовой'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76741'

@@ -8,14 +8,14 @@ images:
     -
         file: 67488e380fc75ef4ab4502aa552966ae.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_trostyanka-margal.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77352'

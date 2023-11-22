@@ -8,14 +8,14 @@ images:
     -
         file: d24ae4dcf22d629c7a642b05975a9f40.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3-niavescashmyan_5508.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1989
+system: IMGREVWD
 location:
     -
         type: point

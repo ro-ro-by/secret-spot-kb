@@ -8,14 +8,14 @@ images:
     -
         file: c5bfe3daeb8a6a7ff487862a8daa41c5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/7_2783.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Дмитрий Скворчевский'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76662'

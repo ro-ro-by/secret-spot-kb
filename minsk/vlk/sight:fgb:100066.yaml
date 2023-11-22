@@ -8,14 +8,14 @@ images:
     -
         file: 52efc4560d07c18ee2d5a2cdb57dedb2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/scanner_20220823_002416.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'А. Зайцаў'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100066'

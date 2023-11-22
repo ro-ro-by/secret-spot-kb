@@ -8,14 +8,14 @@ images:
     -
         file: f71934265d7841f37b84dd99806da4cf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511959_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Э. Зайкоўскі'
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '103911'

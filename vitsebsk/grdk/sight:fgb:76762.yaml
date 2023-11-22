@@ -8,14 +8,16 @@ images:
     -
         file: c6a928821aed7e7a4de85d1aaf4306dc.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

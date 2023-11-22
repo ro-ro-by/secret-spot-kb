@@ -8,14 +8,14 @@ images:
     -
         file: 51f444b3eda6a807f558e6629396e0d6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511950_y_-_kopiya.jpg'
         meta:
             author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            version: 2018
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102881'

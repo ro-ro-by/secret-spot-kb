@@ -8,14 +8,14 @@ images:
     -
         file: e2dfa1550e343fd54f12a3424ff33d2e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/ris4_a49.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Дыбоўскі'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102786'

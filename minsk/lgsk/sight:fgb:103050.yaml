@@ -8,14 +8,14 @@ images:
     -
         file: a928a6f23b4fe593fee78cb0be4fff44.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511936_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Л. У. Дучыц'
+            version: 2007
+system: IMGREVWD
 meta:
     fgb:
         post_id: '103050'

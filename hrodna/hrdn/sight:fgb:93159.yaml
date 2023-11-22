@@ -8,14 +8,14 @@ images:
     -
         file: c7dfb95a4308600b62f3f02da9143e0d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_7518.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

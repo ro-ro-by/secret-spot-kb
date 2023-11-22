@@ -8,14 +8,14 @@ images:
     -
         file: 911ff59b61d6cb8381aaff1765857af0.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_20180706_165227_1764.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Strela
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,14 +8,14 @@ images:
     -
         file: 61dfdd8cfbc9921fb69a6b3f030e58db.png
         tags:
-            - FIXMETAG
+            - 'image-tag:location:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/bezymyannyj_7746.png'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75978'

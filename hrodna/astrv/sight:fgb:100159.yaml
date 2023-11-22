@@ -8,14 +8,14 @@ images:
     -
         file: e4de9b7d4ec805fb98491f2290ace55c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0014_(2).jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'А. Юркойць'
+            version: 2011
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100159'

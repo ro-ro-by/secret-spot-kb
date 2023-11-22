@@ -8,14 +8,14 @@ images:
     -
         file: 8ee9117d948e2a5d4f16fbe95f16c894.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_korevin_lug.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

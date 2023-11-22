@@ -8,14 +8,14 @@ images:
     -
         file: b457659c442126de208646999ffe51b8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/7knqnr7rrhe.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Strela
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

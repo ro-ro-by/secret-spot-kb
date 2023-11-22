@@ -8,14 +8,14 @@ images:
     -
         file: 0b49022490c0d5ee2732663a9835f22d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/gertvschu_4564.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1992
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77799'

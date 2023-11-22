@@ -8,14 +8,14 @@ images:
     -
         file: 5cee7743b4e3ca6cc30766de0a484c9b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0009_(2).jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Г. Зайцава'
+            version: 2017
+system: IMGREVWD
 meta:
     fgb:
         post_id: '100069'

@@ -8,14 +8,14 @@ images:
     -
         file: 9e01895fa0ad38a32a8f1ae73f8f2d51.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kudzinov_kapul-89_3288.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1986
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75662'
