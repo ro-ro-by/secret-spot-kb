@@ -8,24 +8,24 @@ images:
     -
         file: 1cd829f78628a4f8bc545941557c5491.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/maskaucbraslav99_0424.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1999
     -
         file: 3238528f5747941d72341791d5ce9b5c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/zamakmaskavick99_6177.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1999
+system: IMGREVWD
 meta:
     fgb:
         post_id: '94956'

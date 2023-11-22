@@ -8,7 +8,7 @@ images:
     -
         file: 75b098ee67e0e98b89d8bca131b2c470.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/040715-kamen01.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 66e46d49c5025c6dafdf8cde5c5b07f6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/040715-kamen02.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77835'

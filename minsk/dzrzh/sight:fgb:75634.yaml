@@ -10,7 +10,7 @@ images:
     -
         file: 80f48a3b60b55fb9c5618b86c59c0f9e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_0782_5297.jpg'
@@ -20,7 +20,7 @@ images:
     -
         file: 07f20e4283dfc9d4af23a0eba38b699a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_0788_4628.jpg'
@@ -30,14 +30,14 @@ images:
     -
         file: 17e069cc455f1be24ba25c4b95eb6670.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_0789_9661.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

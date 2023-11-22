@@ -8,7 +8,7 @@ images:
     -
         file: b73ace31ed45cdf07eae7b7d6de3618c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_5481.jpg'
@@ -18,14 +18,15 @@ images:
     -
         file: 00a927588a58d7ebadd9d68f7e896170.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_5534.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,7 +8,7 @@ images:
     -
         file: 0396abdc2af51fa8ce038bd906dfbbd1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/buki_lesnye_velikoritskie__1510350048309__w500.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 267e7dadfbec0ef16032d70434e71176.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/01_7057.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: d099877d2c9855d1f5b85febe8099a1d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/02_9091.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: beech
 location:

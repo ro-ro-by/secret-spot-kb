@@ -8,44 +8,44 @@ images:
     -
         file: 5f1749e0d74ea0a3900a8d13cd5ff70f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/119561316.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: c85edfda4d18d729c839afe0d776d883.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/119561319.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: e515b833cf64eddc1b3f1828338c81fd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/17048566279_c419778997_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: 6dc1f4dc31a9be9dd69d4c4e1d3ba8bd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/scebyaraki.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

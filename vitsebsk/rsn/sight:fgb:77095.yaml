@@ -8,7 +8,7 @@ images:
     -
         file: 7b68aa01a68bee06dbc4b5fe92b968e7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9264.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 4d495e860c705049a03f06e6a300f140.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_loktevskij_bolshoj_kamen.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77095'

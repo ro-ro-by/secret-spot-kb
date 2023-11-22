@@ -8,7 +8,7 @@ images:
     -
         file: 5c10a43c4ac0016d69139d5db98fa229.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/97_6741.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 94069843335b64c669189e1134156d11.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/98_7857.jpg'
@@ -28,7 +28,8 @@ images:
     -
         file: d552115688dae5a5fd617dd322096fa6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/99_0214.jpg'
@@ -38,14 +39,14 @@ images:
     -
         file: e66aaf97c9dba4bb6e7cea8738c31c80.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc05276.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

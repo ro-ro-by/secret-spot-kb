@@ -10,7 +10,7 @@ images:
     -
         file: cc32411ab5e39d03c5045594dd726b13.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_3886.jpg'
@@ -20,14 +20,14 @@ images:
     -
         file: ad6f6d1563ce96b06630099b864a4b76.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamenskij_bor.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

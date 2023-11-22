@@ -8,24 +8,24 @@ images:
     -
         file: 909895029d4d3ea8ec6fd9b6494c2397.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bezymyannyj_4931_(1).jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: feab4e1279c5f7d4bc27c5b030a427a5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/gorohovka.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Strela
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

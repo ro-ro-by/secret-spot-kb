@@ -8,34 +8,34 @@ images:
     -
         file: f3cd040619d2c90cb79cc587369be5f9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/baraucymuzvilejsk06_7381.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 2006
     -
         file: 1daa8e24d40c0299ca11c157715c6036.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/18370826034_c687d10134_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: eeac2161d51a209bbfb1ea817c7c7a25.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/baraucy.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,24 +8,24 @@ images:
     -
         file: e5a244b1a7474807f63eb024922804b4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_5921.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: c0b9adcd05440dd82115887ef8dae28f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_grushin_kamen_zaozerskij.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77097'

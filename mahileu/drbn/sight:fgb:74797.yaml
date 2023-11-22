@@ -8,7 +8,7 @@ images:
     -
         file: 7fb697a4e047d2200d28ebc2d8f13d4f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gontovlya1.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: e02e5251538e14a9d5abaac314734e1c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_gontovlya2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

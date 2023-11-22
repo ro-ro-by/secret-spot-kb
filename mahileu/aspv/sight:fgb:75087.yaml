@@ -10,7 +10,7 @@ images:
     -
         file: 2a77495359c4268479edc23a4b50c837.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_5438.jpg'
@@ -20,7 +20,7 @@ images:
     -
         file: ef2ddee98ed6da561aa4f6bf033dbe67.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_1838.jpg'
@@ -30,44 +30,44 @@ images:
     -
         file: 806f8a1e40331ad6a9d4a0af92587122.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_0514.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: 733beeddb206e0fbbfeaf024dc8110c2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_0357.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: 1004eeb57d011fcad3c36d24cda4bd9c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_0369.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
     -
         file: c713005d7611fe48dd1bf2927fdd720a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/dsc_0501.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: Victoryor
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,7 +8,7 @@ images:
     -
         file: 578a19f4762139364069792a2c6d1cd7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dsc_0370.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 420e17a2916fdee9553e0fc2e3fb101e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/dsc_4768.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: cbf7ba907dd0e0a6225c88f3ae29df73.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_7687.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

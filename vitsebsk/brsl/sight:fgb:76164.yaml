@@ -8,7 +8,7 @@ images:
     -
         file: b521ac9aabe002e71d0a2e676e032904.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_4713.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 92097351fba658ddc06534065a1e51b5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_8869.jpg'
@@ -28,24 +28,24 @@ images:
     -
         file: 38d5569c707a7b97cd2897d6e9a2c863.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/volasbraslav-99_4187.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: e8839dfa57b59767559cc655d0676064.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shvolosvl.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76164'

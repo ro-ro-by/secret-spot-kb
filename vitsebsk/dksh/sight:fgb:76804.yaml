@@ -8,7 +8,7 @@ images:
     -
         file: 97c311e3f07a0aa6a85ed4cbfcf11e81.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 7a387bd869a8a774d9146711f3906e14.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/bezymyannyj_2132.png'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,7 +8,7 @@ images:
     -
         file: 0aed3b43dc9b351d7302b3fa423f7b66.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/ezerische_granicy.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 6e4c9682bc6467a44b8903ed2103b6f6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/ezerische_kartoshema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76738'

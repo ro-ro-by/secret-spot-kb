@@ -8,7 +8,7 @@ images:
     -
         file: b7539265b800ee00ad5255f9a8a09d63.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rad-lubushani.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 65ab5441e4028cce394a003095400a30.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/279.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

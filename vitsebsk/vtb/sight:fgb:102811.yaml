@@ -8,24 +8,24 @@ images:
     -
         file: 335ed64fe4569c5933fc42ee19231414.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511932_y.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Атапін'
+            version: 2011
     -
         file: a84aeeda889bf97df68f5c22c80860f5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511933_y_-_kopiya.jpg'
         meta:
             author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            version: 1894
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102811'

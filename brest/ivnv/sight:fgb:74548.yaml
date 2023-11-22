@@ -10,7 +10,7 @@ images:
     -
         file: b0a1b549fef7b7c8bbd44b3bfc1e449f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/vejmutovy_sosny__1500408772101__w1500.jpg'
@@ -20,7 +20,7 @@ images:
     -
         file: 7bbff57e1c08a5b63f02774eaa11d55c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3615.jpg'
@@ -30,14 +30,14 @@ images:
     -
         file: 93037d787106bac25d6564574f8cfe57.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_3465.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

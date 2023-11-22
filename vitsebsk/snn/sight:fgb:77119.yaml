@@ -8,24 +8,24 @@ images:
     -
         file: 861046a0fe64c5aa9fd1eb31c0b16533.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/timirazevasen-1_4624.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1990
     -
         file: eca8c524783b2c9b2bde8b0bf9ca8544.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/timirazevasen-2_7913.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1990
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77119'

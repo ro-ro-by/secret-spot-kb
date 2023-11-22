@@ -8,7 +8,7 @@ images:
     -
         file: eede30d70f49c96c0c0915e2018acc30.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_lesnye_bogatyri-1.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 9575b1011abb57330d848745a9e0589a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_lesnye_bogatyri-2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

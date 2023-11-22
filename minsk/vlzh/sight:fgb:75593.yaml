@@ -8,7 +8,7 @@ images:
     -
         file: f2cd4c72541cadc4533fd324c3c5994b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/risunok1_1670.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 3a5b8ff222fefa730670f7b012af2ff7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_5828.jpg'
@@ -28,7 +28,7 @@ images:
     -
         file: cb6b84cb564a02d8ab513d87aff1910b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_5105.jpg'
@@ -38,7 +38,7 @@ images:
     -
         file: 3669b31f0039232770e929a03717b064.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_1658.jpg'
@@ -48,7 +48,7 @@ images:
     -
         file: 3e6c4a675a320dbfb800bd0291fd8858.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_5721.jpg'
@@ -58,14 +58,14 @@ images:
     -
         file: 0efc1952ab214fdc703e5143533f7788.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_2322.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

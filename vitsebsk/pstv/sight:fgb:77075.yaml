@@ -8,7 +8,7 @@ images:
     -
         file: 906c7f6067ef21035003ae5c40941c37.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/176.jpg'
@@ -18,14 +18,15 @@ images:
     -
         file: 33d061d98192125af88d72d0d4ee4a46.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/177.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77075'

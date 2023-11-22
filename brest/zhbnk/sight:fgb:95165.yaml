@@ -8,7 +8,7 @@ images:
     -
         file: 45648b00db5d23edb5fe8e7f8300255a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_9094.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 70e116c937b0a8263ea2766294fcbd5a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/zditovskie_duby__1499875294045__w1333.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,7 +8,7 @@ images:
     -
         file: 9c83710ef55c7e77436264570548f800.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_8827.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 7663f28f99d1bb77ef748cfe12d45167.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/manor_dub259_d94.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

@@ -8,7 +8,8 @@ images:
     -
         file: e8acfa9d14344a6c5ceb8bdc78dd6191.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/024.jpg'
@@ -18,7 +19,7 @@ images:
     -
         file: 371be2181277b0c2e3fb69b21910a0be.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/025.jpg'
@@ -28,14 +29,14 @@ images:
     -
         file: d1055166984800d64745e708a76b3fa8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_borodinskij_prigorok.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77068'

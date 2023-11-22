@@ -8,7 +8,7 @@ images:
     -
         file: 40d5541e5c053ef9e685f6c8be1c6544.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9894.jpg'
@@ -18,7 +18,8 @@ images:
     -
         file: 384ffd3a5d3e9ede667d9a03624d80e5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_1220.jpg'
@@ -28,14 +29,14 @@ images:
     -
         file: b6a09fb4289741ddac7cdd482a1fd577.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_koplanschina.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75874'

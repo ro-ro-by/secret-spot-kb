@@ -8,7 +8,7 @@ images:
     -
         file: 9e48122e71feeefc3081bfd80a9cb6d5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3305.jpg'
@@ -18,24 +18,24 @@ images:
     -
         file: efa8bfee856d7e36bb68d6180a2850c9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bulavbrasl99_8284.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1999
     -
         file: 20f5c03fe5bfefcf7e5473462d8733a1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_5934.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76150'

@@ -8,24 +8,24 @@ images:
     -
         file: 39401ee24f842802dd888e9382294544.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/175175034_1155290294916871_3418989347527672588_n.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Паўлоўская'
             version: FIXMEVERSION
     -
         file: 9e627dd44c922558ba4d0bd18db7b429.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/175446193_1155290231583544_7783701577344126541_n.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'А. Паўлоўская'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74983'

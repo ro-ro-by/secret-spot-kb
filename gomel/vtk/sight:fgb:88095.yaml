@@ -8,7 +8,7 @@ images:
     -
         file: 3fee9f25ca4e761e5ce30cd678008d9b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bezymyannyj_9922.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 0e824aeb71829e91da683f52afd3784c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_8275_glybovka.svyatoj_istochnik.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

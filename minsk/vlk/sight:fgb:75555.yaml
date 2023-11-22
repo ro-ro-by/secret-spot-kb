@@ -8,7 +8,7 @@ images:
     -
         file: 8cf07cf8bad5eb24c79570c4e21b9475.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shemkuzmvil.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 844c1ba69375a51d8727c7c9b81c1748.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06419.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

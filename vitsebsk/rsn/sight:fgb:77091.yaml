@@ -8,7 +8,7 @@ images:
     -
         file: bbbf7102c75b1edb81ce3bfd1851d3b9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3607.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 62e43a691604e35275e0fb8b30d39fbb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_gvozdiha.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

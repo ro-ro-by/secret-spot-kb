@@ -8,7 +8,7 @@ images:
     -
         file: 021f02a5ad12e13665836e4682241ccf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/sherbishskie_rodniki.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 8770b49acf6330f0c65bce36a67cfbf2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/171.jpg'
@@ -28,7 +28,8 @@ images:
     -
         file: de72cc6ad253c66251c9c64b3ad4b29c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/172.jpg'
@@ -38,14 +39,14 @@ images:
     -
         file: 59c11dcba88d43500bfc82a10f72cbd7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/173.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

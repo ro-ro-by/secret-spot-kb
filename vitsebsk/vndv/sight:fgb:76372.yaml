@@ -8,7 +8,7 @@ images:
     -
         file: 46f84ee6ca308439fa3874f3a4eb2d99.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3347.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: ca414ab11407c6d13174cc7e96c519a3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_5583.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: fcc8db392ad66f1af3e2aaa6ec0d4115.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_4281.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Антон БУБАЛА'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

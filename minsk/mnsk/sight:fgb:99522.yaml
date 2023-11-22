@@ -8,7 +8,7 @@ images:
     -
         file: 24223ca3296b1180ac85e1fe63fa6cf2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/b5644a952cb2f62c1f767acfe80044e1_m.jpg'
@@ -18,24 +18,24 @@ images:
     -
         file: ea15977ac9fcb1184f11992592386a6d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_1298.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Алекс Сталь'
             version: FIXMEVERSION
     -
         file: 96dfc715bc062164408a53d90094c26d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/sam_2868_-_kopiya.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: kalilaska
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '99522'

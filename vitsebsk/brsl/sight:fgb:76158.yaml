@@ -8,7 +8,7 @@ images:
     -
         file: 8166bb1b558e669c5c9fe42dcef240fc.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_8171.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 55b4c68cd3d36f51fc5ef73f5ef50867.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_1602.jpg'
@@ -28,24 +28,24 @@ images:
     -
         file: 4d8ef801f80163d74e4df04f78374524.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3_6381.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: 3065265cf923578f4d1b5b74f920aa05.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/4_8009.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76158'

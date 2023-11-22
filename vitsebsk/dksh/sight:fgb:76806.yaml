@@ -8,24 +8,24 @@ images:
     -
         file: aa7abf5d2d525d0b1f68b8b02c74d383.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ahvirndok_1562.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: b5913b15c9e0e575807c800287cc7f59.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ahvirndok-86_7834.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1986
+system: IMGREVWD
 location:
     -
         type: point

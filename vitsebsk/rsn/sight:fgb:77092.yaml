@@ -8,24 +8,24 @@ images:
     -
         file: fe549da1cd38680b13130a6407368148.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_0204.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: 4f213c7b2c36a9d5795597857f77dfb1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bolshoj_kamen_rossonskij.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77092'

@@ -8,24 +8,24 @@ images:
     -
         file: 8faae14ef8a9fa6ce6e97f2322f9fcf9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/4kdfl-73uja.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Зміцер Скварчэўскі'
             version: FIXMEVERSION
     -
         file: 3ceba03a13e5c687dd9155be6a74f0f3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/i1cfktuxboq.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Зміцер Скварчэўскі'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '78395'

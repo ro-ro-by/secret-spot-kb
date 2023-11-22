@@ -8,7 +8,7 @@ images:
     -
         file: 3569ff02e7e1795a5da6a55a25e6f851.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/p.varyag1.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 7785d5603a7b155dafd7b0b56d8eed9d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/p.varyag2.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: be397e6609a7c46d36c689d87a4014b6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/_dsc1007c.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: mat_set
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '102420'

@@ -8,7 +8,7 @@ images:
     -
         file: bd5f47b9d59d860af2496bc17c473e07.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/01_6469.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 6ab57d3846320a0ddfcd9aa647020cb3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/02_4958.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: 8c0776e562f3d50ed451b4a12417d107.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/15714-1.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: fir
 location:

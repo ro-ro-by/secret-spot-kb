@@ -8,7 +8,7 @@ images:
     -
         file: 2eb63026723d002b358a2b8e216d2f44.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_novinskaya_hvoya1.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: f1da2a2482a4ecf75ac4525cba293282.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_novinskaya_hvoya2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pine
 location:

@@ -8,44 +8,44 @@ images:
     -
         file: ed3b7060220d50feb18988255754d69f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/26-sledmalkavichyganc15_8664.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Герасіменя'
+            version: 2015
     -
         file: 0eac796e7369521355da41836d84d75e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/88963186.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Лисейчиков'
             version: FIXMEVERSION
     -
         file: 4b5c851eda77d0f36a2e7a14b9e1c49f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/33397947.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Лисейчиков'
             version: FIXMEVERSION
     -
         file: 1d1353483cc5ed8783d403fd81ce1ab0.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/74712098.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Денис Лисейчиков'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74532'

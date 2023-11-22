@@ -8,7 +8,7 @@ images:
     -
         file: 349fdef2200f051317b7df984fdeece6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_8136_9998.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 51c0f9d1116c25767131f11f5544114a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_8138_1460.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pine
 location:

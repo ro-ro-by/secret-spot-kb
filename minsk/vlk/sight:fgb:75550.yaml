@@ -8,7 +8,7 @@ images:
     -
         file: 5de989fc646dc4da0996ea1ae7802caa.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shemdvarec.jpg'
@@ -18,24 +18,24 @@ images:
     -
         file: cbf0ca9f2798026e785797825762a968.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/17139584799_a7e1271989_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: 2a6a2d8177682e5aca04c4d56fe7973f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/17325810465_e5ba8cacf0_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

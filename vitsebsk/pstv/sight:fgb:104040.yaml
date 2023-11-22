@@ -8,7 +8,7 @@ images:
     -
         file: b303d82c0d46bfaf3a3c1430eb17044b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/160515-lipa.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 062fb4f1b31b0e6f25d3c1e1e55ccb11.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/zagruzheno.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '104040'

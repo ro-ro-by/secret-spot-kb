@@ -8,27 +8,27 @@ images:
     -
         file: 8e5358c4338ba57a0d141ad3336763e3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/chortausenna-89_0431.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1989
     -
         file: db3178ccde7b656377ac8487243a33f0.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/chort_cennenski97_0818.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1997
     -
         file: 8cd6ffa9eeb4d4df017409dbfeed24a8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/4_0979.jpg'
@@ -38,7 +38,7 @@ images:
     -
         file: adbd3f5b7d23c9dcee4e5dca596c810a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_9117.jpg'
@@ -48,14 +48,14 @@ images:
     -
         file: dc6e11cfda21d304998ecd9ea20cf352.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/150817123026-016.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77126'

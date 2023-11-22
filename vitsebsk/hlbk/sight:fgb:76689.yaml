@@ -8,17 +8,18 @@ images:
     -
         file: 0e6010d8933725f690f7ee5da6827e50.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/rubkaskarbavyglu-95_8154.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1995
     -
         file: 98f3eb259e0d3740fc03c6d258fd712d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_8558.jpg'
@@ -28,7 +29,9 @@ images:
     -
         file: 1350720fd4342e1362d8419bcccd49e1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_6384_(1).jpg'
@@ -38,14 +41,14 @@ images:
     -
         file: 97cdd5d4876461f4fac29dd0797472bb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc01941.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

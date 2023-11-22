@@ -8,7 +8,7 @@ images:
     -
         file: 6674b737eb5438bc0d3252773933d948.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/park_dub_b__1494498099780__w544.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: a8c330b35b33b395af5488047b103637.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_4316.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: e7b922f62a6fade4159356da1b2c877e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_6991.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 location:

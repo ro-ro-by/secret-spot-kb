@@ -8,7 +8,7 @@ images:
     -
         file: 0c2db6c4de6612ec4f5c2b00d96db163.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_4457_2205.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 30333aff5c95d810e02e640ba65e0687.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_0583.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'Л. У. Дучыц'
+            version: 2016
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77177'

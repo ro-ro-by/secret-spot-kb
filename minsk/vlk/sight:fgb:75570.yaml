@@ -8,7 +8,8 @@ images:
     -
         file: 842d02fcdcf2fc2bb7a8dbfcd8563606.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3_8918.jpg'
@@ -18,7 +19,7 @@ images:
     -
         file: 7e064f6931cab4f0dabb7bcd54dd91da.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_1154.jpg'
@@ -28,7 +29,7 @@ images:
     -
         file: 5eeecd34360accb979514392601fe4cd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc07714.jpg'
@@ -38,14 +39,14 @@ images:
     -
         file: aa65b747e73c635a530ca5e2f4c18bc9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/dsc05214_8866.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

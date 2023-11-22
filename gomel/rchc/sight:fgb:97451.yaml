@@ -8,7 +8,7 @@ images:
     -
         file: 96d6a55a09754b875e8fc51e21c28c3f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3540f760b22ae288cd9a8bb3159bc57dbe9c2b3d_sosna_337x600.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 93c3ed0692ae38d7945ba4de089be0a7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/a0c83372e5c8233e69d40c03bfab906acf58e92f_dub_337x600.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

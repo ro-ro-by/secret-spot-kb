@@ -8,7 +8,7 @@ images:
     -
         file: 06d5f13499fde4a4f22fb59c55ac5f7e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.04.55.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: c032afdb5fd578044824a9b3527fa461.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.05.14.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: 42e54dfd14648025c620e59451d84603.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0005.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'І. Клімковіч'
+            version: 2011
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76830'

@@ -8,7 +8,7 @@ images:
     -
         file: a253c5d455847d8e435d4c4b42fa7ba3.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_7069.jpg'
@@ -18,24 +18,24 @@ images:
     -
         file: 26e411b96401db83b90675c7c628bd09.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/uzda-vk-87_5028.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1987
     -
         file: a6497eae6c1228da615d4441d07f05f9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/uzdzenkm-87_6649.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1987
+system: IMGREVWD
 meta:
     fgb:
         post_id: '76038'

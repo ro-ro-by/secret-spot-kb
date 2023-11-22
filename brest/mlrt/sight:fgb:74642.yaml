@@ -8,24 +8,24 @@ images:
     -
         file: ce9a8cb2873c1ecb12bb54eec9e170fe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lukavasldmalar_4733.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
     -
         file: cb142d88911d931f0379f2af97871905.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/lukavasldmalaryta_7386.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1996
+system: IMGREVWD
 meta:
     fgb:
         post_id: '74642'

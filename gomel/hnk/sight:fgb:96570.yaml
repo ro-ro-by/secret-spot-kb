@@ -8,7 +8,7 @@ images:
     -
         file: 5df75a5d53aceb3270b548e2235c04ad.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/26_kurani_04122015_zam_tutby_phsl.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 48c81ec7bd38032effea1f007cb45d30.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/vasil-n-hanna-pear-tree-2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: pear
 meta:

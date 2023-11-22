@@ -8,7 +8,7 @@ images:
     -
         file: c0ba94e8249511bfc5a0383d51df40bf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_6974.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: cc9bb7022c0329eb6737f437d7570395.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_3351.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: tilia
 location:

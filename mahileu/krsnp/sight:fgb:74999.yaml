@@ -8,7 +8,7 @@ images:
     -
         file: 86860d52e9c74db82537bae24e970dd9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ivanov_hutor.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 5dffedfb8b07721dfbe2e12badd8af3f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/-7cwijvcke8.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: a99e4dd3ac5efbcb8ec21812d77d07e6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/itojpob8kxa.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

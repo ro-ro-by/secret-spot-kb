@@ -8,7 +8,7 @@ images:
     -
         file: 0455a92016e245acdf47530d848012be.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_9653.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 7e374ffa2ae2743c023aea0c67ff0ad4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bolshoj_kamen_russkoselskij.jpg'
@@ -28,24 +28,24 @@ images:
     -
         file: e88114e6bf399a96e819c71c3c99111a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/33223575953_b0d41b4c95_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
     -
         file: 384908c4cf87c60491c637d876e2d47c.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/34035905205_a640f80703_b.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Александр Dehty'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

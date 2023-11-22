@@ -8,7 +8,7 @@ images:
     -
         file: 2f10fb7cec07a0bafceb520b1804f0c9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/meteorit.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: aead4f90fa9eecb4fea397a353132e60.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_0261.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '75228'

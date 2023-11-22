@@ -8,7 +8,7 @@ images:
     -
         file: 1c2dad865bf4c24af9d8c6b610a0f102.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_2206.jpg'
@@ -18,7 +18,8 @@ images:
     -
         file: 79e39d5b0d9e6d44a153aeda9907101d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_1046.jpg'
@@ -28,14 +29,14 @@ images:
     -
         file: 146844b2a2df2bfeab7e5e351a080f4e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2-zaharkor-95_5929.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVIEW
+            author: 'В. Вінакураў'
+            version: 1995
+system: IMGREVWD
 location:
     -
         type: point

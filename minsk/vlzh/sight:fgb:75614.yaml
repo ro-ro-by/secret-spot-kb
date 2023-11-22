@@ -8,7 +8,7 @@ images:
     -
         file: 736d9e1bc585b0c2cc65ac48130962c2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/100.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: fcde3230d1b6ed46217ce253eb79ca28.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dub_velikan.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: oak
 meta:

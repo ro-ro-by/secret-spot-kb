@@ -8,17 +8,17 @@ images:
     -
         file: 1877952b47f098720083c20f70216ba6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kamenchrvalozh-97_4658.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1997
     -
         file: 90f1f6090f9f563a2160cc5552c4ebcd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_2462.jpg'
@@ -28,7 +28,7 @@ images:
     -
         file: 24af001f6854f254fb86dcb3f335b0da.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9357.jpg'
@@ -38,14 +38,14 @@ images:
     -
         file: bed57693ed3045a1048f35c45a9f9f1d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_3933.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

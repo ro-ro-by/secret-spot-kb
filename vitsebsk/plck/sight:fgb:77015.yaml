@@ -8,17 +8,17 @@ images:
     -
         file: 9235cdaf37e347a6bd8fe24152288fe7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bikulnichypolacki-00_8150.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 2000
     -
         file: c3b16c17543efac9410610676ec67120.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3525.jpg'
@@ -28,7 +28,7 @@ images:
     -
         file: 4388f261bfacc585cc2211a21bbea9f1.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_6686.jpg'
@@ -38,7 +38,8 @@ images:
     -
         file: 7a021db41a4517ce890237e58181ae80.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_9664.jpg'
@@ -48,14 +49,15 @@ images:
     -
         file: 8058226ee1d84099cd38515dc1b3b375.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_0853.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'В. Вінакураў'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point
