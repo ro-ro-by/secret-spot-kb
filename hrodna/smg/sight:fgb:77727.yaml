@@ -8,17 +8,17 @@ images:
     -
         file: 39652e7aac285d0544bc2b7b08fca8db.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/kushlianusmarg_9449.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1979
     -
         file: ccd4ad241f1f585d8a4c2dc80f69dc87.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_7633.jpg'
@@ -28,7 +28,8 @@ images:
     -
         file: a93b6f035414b1abf8628b0b3a10962d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_4362.jpg'
@@ -38,14 +39,14 @@ images:
     -
         file: 62d5c00ac0e571c56c5e8983a24c0386.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/150625114803-007.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77727'

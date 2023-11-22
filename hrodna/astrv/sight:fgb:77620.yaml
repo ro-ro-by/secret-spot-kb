@@ -8,17 +8,19 @@ images:
     -
         file: 25bb222b3673120df81d6bcb7d7f267d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/gukgel_94_4511.jpg'
         meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
+            author: 'В. Вінакураў'
+            version: 1994
     -
         file: 7b7fc90c14405c61aa8a6697814100f2.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:schema'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_1.jpg'
@@ -28,7 +30,7 @@ images:
     -
         file: ee2be166c83728eebf60f62473c63824.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_3.jpg'
@@ -38,14 +40,14 @@ images:
     -
         file: 10fa506e1c8c7c6308fdfc43ccfa84d5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/alek.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

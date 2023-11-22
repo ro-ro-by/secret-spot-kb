@@ -8,7 +8,7 @@ images:
     -
         file: 81a7428bcc23fc3b70278b1b54ce4ea5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dva_valuna_lukinskie.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 13ee3031fc9a24cc359bb147ed498b75.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/img_2956.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

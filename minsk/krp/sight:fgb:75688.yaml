@@ -8,7 +8,7 @@ images:
     -
         file: d7399b6dcd4b2d337780ce12d7101a14.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_1432.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 0fb1642f53b6e27b1a0b2f05fc7004db.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_2150.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: efc6f555f3bff6009c9e71ef0fc7fec4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_v_urochische_vysokie_gory.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

@@ -8,24 +8,24 @@ images:
     -
         file: f3670e9fd75bf9507e89b2f0486d80f5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/rudavka_(kamen_kultovyj_s_krestom)_1.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Мікола Кузіч'
             version: FIXMEVERSION
     -
         file: 0d674c1f5425c0f3d9634c7639c699db.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/rudavka_(kamen_kultovyj_s_krestom)_2_fragment.jpg'
         meta:
-            author: FIXMEAUTHOR
+            author: 'Мікола Кузіч'
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

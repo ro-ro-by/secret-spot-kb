@@ -8,7 +8,7 @@ images:
     -
         file: d61ea011b06e205723d5f5ace68d0d12.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dubincovskij_prigorok1.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 5893e00fe919fe9688f7863af45908bc.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dubincovskij_prigorok2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77291'

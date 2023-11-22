@@ -8,7 +8,7 @@ images:
     -
         file: dd97dc6323a0316e036408b6f8e84679.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9364.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 5b604f13e56ea22144fdfef1209aeedd.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mantunskaya_gryada1.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: 6abc4e598503b42c6a8c84044032625f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mantunskaya_gryada2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77290'

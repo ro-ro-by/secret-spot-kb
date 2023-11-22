@@ -8,7 +8,7 @@ images:
     -
         file: 83f96bbdd79f5ba11568c2e8a9c4fda7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_1883.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: c0b34541fe87d52986db18937acb1ed8.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_puschanskaya_gora1.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: c2be7db7fce12f0da2934faecf28c92d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/shematicheskaya_karta_puschanskaya_gora2.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77292'

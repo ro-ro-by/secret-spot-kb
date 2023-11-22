@@ -8,7 +8,7 @@ images:
     -
         file: 8c411c394ddeb5444ac9e335b85f9452.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/061213-kapishe02.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 1c65a666392867b311e7d84afa9008b6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/061213-kapishe04.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77528'

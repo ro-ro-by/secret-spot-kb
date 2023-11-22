@@ -8,7 +8,7 @@ images:
     -
         file: ad53b3c9575dae6e928c8b23324ce473.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/senkanka_kartoshema.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 03039641e6f6a9c8178d08f62d08d6b4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_8861.jpg'
@@ -28,7 +28,7 @@ images:
     -
         file: 377eb46b6e3cf4d08e201986b0b1fb0a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_4591.jpg'
@@ -38,7 +38,7 @@ images:
     -
         file: fdec8aa1c917b182da15baa83bee816d.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_2136.jpg'
@@ -48,14 +48,14 @@ images:
     -
         file: 8f2911b1265a68064d2e58d739506753.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/4_4872.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

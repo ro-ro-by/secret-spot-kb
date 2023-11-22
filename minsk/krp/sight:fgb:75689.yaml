@@ -8,7 +8,7 @@ images:
     -
         file: 2bea6bc8e5c5d73e5bd83dca0ec7fcb9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_8817.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 17e5ac4d8994444ae8fb8092d54478bb.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_7167.jpg'
@@ -28,14 +28,14 @@ images:
     -
         file: 59e4d1e37ab625e3cb9cc67b1879f1d7.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bezdonnaya_yama.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

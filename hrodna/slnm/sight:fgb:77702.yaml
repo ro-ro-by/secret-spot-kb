@@ -8,7 +8,7 @@ images:
     -
         file: 6fdf1dd9d2f16c0eb0d2c0fbfac35c84.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3710.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 3801442b848e5ca60bc279d88ce43671.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_strazhynae.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77702'

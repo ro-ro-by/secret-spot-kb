@@ -8,7 +8,8 @@ images:
     -
         file: d9f3a546975b3b9d54555d99ee06736f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_8265.jpg'
@@ -18,14 +19,14 @@ images:
     -
         file: 9e5554205938ec556c512c4e7102fec4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/kashtan_rajcevskij_kartoshema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 tree:
     type: chestnut
 location:

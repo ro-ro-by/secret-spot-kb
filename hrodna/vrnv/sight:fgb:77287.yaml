@@ -8,7 +8,7 @@ images:
     -
         file: dc4bdd3d0bcd151d65e0797330f986ef.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/pelyasskie_gryady-uvaly_kartoshema.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 9eb56c82013677301a0d3b79874ce4bf.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_pelyasskie_gryady-uvaly.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 meta:
     fgb:
         post_id: '77287'

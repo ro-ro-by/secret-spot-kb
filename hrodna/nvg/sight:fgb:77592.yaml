@@ -8,7 +8,8 @@ images:
     -
         file: f13c96a1cb3eb08322e9afc8168eafe5.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3071.jpg'
@@ -18,14 +19,14 @@ images:
     -
         file: a1fa3e1e346cf46e6d8563f897596eb0.png
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2022-11-26.png'
         meta:
-            author: FIXMEAUTHOR
+            author: ВалероС
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point

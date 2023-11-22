@@ -8,7 +8,7 @@ images:
     -
         file: 86955ddba4ccc58c9998296adeedde45.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3614.jpg'
@@ -18,7 +18,7 @@ images:
     -
         file: 152bcc290a5717dfb5c9f9e76315dcde.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:info'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_3201.jpg'
@@ -28,7 +28,7 @@ images:
     -
         file: b8386b160c6b651d932d269c5cdf3d9a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_2015.jpg'
@@ -38,14 +38,14 @@ images:
     -
         file: e50db1029bbf9e172750f6528f99603b.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/bystrica-2_kartoshema.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

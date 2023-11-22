@@ -8,7 +8,7 @@ images:
     -
         file: 6accf3d968cd50aca12f72cbd20703fe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_0032.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 8fe921d44e61c096f19fb8ebd86d8dca.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/motchi-6-1-768x512.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: point
