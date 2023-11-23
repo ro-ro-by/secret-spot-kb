@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_7522.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 74d38cbe8cc074095f9685c8086245e9.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_brestskij.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: geojson

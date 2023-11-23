@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_zhornovskij_dendrosad.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 23444f968d1fbbc4de4e6941aad8efa8.jpg
         tags:
@@ -24,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/dsc_0334.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
     -
         file: 9612c807cd062a83186a7924ab0905db.jpg
         tags:
@@ -34,7 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/dsc_0336.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
     -
         file: 79068f7de911849c37d1548e3573cd4a.jpg
         tags:
@@ -44,8 +39,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/dsc_0337.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

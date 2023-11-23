@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_9227.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4073ae7cbceeae11a2ee7068c4b0589f.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_8361.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '97758'

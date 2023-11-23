@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gontovlya1.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: e02e5251538e14a9d5abaac314734e1c.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_gontovlya2.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

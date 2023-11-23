@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/meteorit.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: aead4f90fa9eecb4fea397a353132e60.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_0261.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75228'

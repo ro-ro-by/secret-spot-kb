@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_park_shklyarevskogo.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: bb48f91e845964b50b051508ea4ee5ca.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/laureat_gospremii33.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: b39e202473f0abaf20642210219d9042.jpg
         tags:
@@ -32,10 +26,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/laureat_gospremii22.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

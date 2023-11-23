@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_0354.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 32dcbf2d47f19e5adf5fdaa1c6297122.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_4674.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 tree:
     type: birch_black
 location:

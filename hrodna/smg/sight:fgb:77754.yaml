@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_uglyanskij_kamen.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: ccb8b3897991b48754f911856106546e.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_0511.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

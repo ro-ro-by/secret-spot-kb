@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_4396.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 3424ebeb2fc7b925f8489264ff613412.jpg
         tags:
@@ -21,8 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_lazareva_krinica.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: e64e1481f51a4d7ff73734b64bb1acff.jpg
         tags:
@@ -32,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_1386rtx_degen1103.jpg'
         meta:
             author: Партизаныч
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

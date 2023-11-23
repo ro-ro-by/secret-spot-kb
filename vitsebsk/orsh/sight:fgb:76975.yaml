@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_2206.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 79e39d5b0d9e6d44a153aeda9907101d.jpg
         tags:
@@ -23,9 +20,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_1046.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 146844b2a2df2bfeab7e5e351a080f4e.jpg
         tags:
@@ -36,7 +30,6 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1995
-system: IMGREVWD
 location:
     -
         type: point

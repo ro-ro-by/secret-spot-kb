@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_2880.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 61abb339774d1f2b9ad8af44dede225a.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_9152.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 55986c3b21400cfc723226c9150c3629.jpg
         tags:
@@ -32,9 +26,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_0752.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 2446822910e1c064500544498649af8b.jpg
         tags:
@@ -42,9 +33,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/4_0815.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4ce0df6f116e87612b4155825dc45405.jpg
         tags:
@@ -52,10 +40,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/podube_kartoshema.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: geojson

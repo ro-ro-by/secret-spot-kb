@@ -22,9 +22,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/163.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4500eacbadf2e45ffcd30407bb6d5194.jpg
         tags:
@@ -32,10 +29,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/p0304_3778.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75542'

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_geologicheskij_konglomerat_d._kolpaki.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 8b9443d0ab297fa9a028f3edee62465f.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_9692.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 6a5ed25bd24081fac6be384c808bf9f1.jpg
         tags:
@@ -35,7 +29,6 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 2000
-system: IMGREVWD
 meta:
     fgb:
         post_id: '77328'

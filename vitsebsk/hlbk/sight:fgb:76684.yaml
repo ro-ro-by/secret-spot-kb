@@ -23,9 +23,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_2475.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 01639a069361eae313f252b778b3a545.jpg
         tags:
@@ -35,7 +32,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc01921.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 1d5b6e83ff05def83133db35d0f85131.jpg
         tags:
@@ -45,8 +41,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc01932_0441.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -16,9 +16,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_1100.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 1786e3dcdf295af6ef8f537e049cc6b3.jpg
         tags:
@@ -26,9 +23,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_6439.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 6b4d6e50b9605820dee8d852eb55c89b.jpg
         tags:
@@ -37,10 +31,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/ostrovnye_elniki_kartoshema.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

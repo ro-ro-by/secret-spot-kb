@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/image006.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 7e716ca0372745c5b6d9e040809410cc.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/07042255.jpg'
         meta:
             author: 'Виктор Максимов'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

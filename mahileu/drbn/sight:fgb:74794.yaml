@@ -14,9 +14,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_3886.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: ad6f6d1563ce96b06630099b864a4b76.jpg
         tags:
@@ -24,10 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamenskij_bor.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

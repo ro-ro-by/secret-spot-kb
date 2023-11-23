@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/conv/1_4870.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
     -
         file: 47189c23b637d201b8e700409ddab9ad.jpg
         tags:
@@ -22,8 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_valun_dajnovskij2.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 5190c8c2e93afd80cbafc879956104b0.jpg
         tags:
@@ -33,8 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_3289.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_1415.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 5cd679726d1be1cb74f324ec4c05b2e2.jpg
         tags:
@@ -24,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_borodovschinskij_valun.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
     -
         file: 6b1955fffb75518dfc6facf5f44a5ee5.png
         tags:
@@ -32,9 +28,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/borodovsch.png'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: ef71e77bb6018a3a7b24aaaaaec9a163.jpg
         tags:
@@ -44,8 +37,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_2125.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

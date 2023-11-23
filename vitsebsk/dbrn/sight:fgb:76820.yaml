@@ -13,8 +13,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 1e882a8c6543de6cf48b95de629dfcd5.jpg
         tags:
@@ -24,8 +22,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/0_182037_645eee12_orig.jpg'
         meta:
             author: 'Сергей Глиндзич'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

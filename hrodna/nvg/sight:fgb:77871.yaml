@@ -14,7 +14,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/lyudmila_duchyc_iryn...arusi_(2011)_153.jpg'
         meta:
             author: 'Людмила Дучиц, Ирина Климкович'
-            version: FIXMEVERSION
     -
         file: 346b9d862c471891ff97e5288e512e08.jpg
         tags:
@@ -24,7 +23,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/7raduk.jpg'
         meta:
             author: 'Людмила Дучиц, Ирина Климкович'
-            version: FIXMEVERSION
     -
         file: 8e39070131a6045e33a5ea96ce137b64.jpg
         tags:
@@ -32,10 +30,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2022-12-06-21-41-42-381_com.instagram.android.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '77871'

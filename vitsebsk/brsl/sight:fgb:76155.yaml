@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3686.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 869354964aa574d1dc607e62ed308392.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_2474.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 246137cfbdcc52e81dd97e9e5ce40095.jpg
         tags:
@@ -32,9 +26,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3_9372.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: bcc72b2af1d6aa274b9a135a531ed6b1.jpg
         tags:
@@ -42,10 +33,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/4_6731.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '76155'

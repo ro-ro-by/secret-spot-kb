@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/img_8647_8318.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
     -
         file: e64de578e67b5010c28ad1c380243285.jpg
         tags:
@@ -22,8 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/vidinishskij_valun_str_1.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: fe29184875eb6800166b6b084d66a078.jpg
         tags:
@@ -31,9 +28,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/vidinishskij_valun_str_3.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

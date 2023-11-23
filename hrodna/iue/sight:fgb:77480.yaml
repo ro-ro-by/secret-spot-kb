@@ -22,9 +22,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_3203.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 548ccbb9842110e19829d80e56b20d2f.jpg
         tags:
@@ -32,10 +29,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/valun_z_yamkami_zabalacki.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

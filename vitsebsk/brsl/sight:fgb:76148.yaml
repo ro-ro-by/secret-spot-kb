@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_1986.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 05ed892141fde9216ff456f6f6e73e7a.jpg
         tags:
@@ -32,10 +29,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shlajbunvl.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '76148'

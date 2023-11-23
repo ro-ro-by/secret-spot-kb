@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shemkuzmvil.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 844c1ba69375a51d8727c7c9b81c1748.jpg
         tags:
@@ -24,8 +21,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06419.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

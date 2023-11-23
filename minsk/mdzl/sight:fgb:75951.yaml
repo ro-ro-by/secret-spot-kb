@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/dscf1123.jpg'
         meta:
             author: 'Игорь Рудаковский'
-            version: FIXMEVERSION
     -
         file: 72f9c286656b7dfd8941461a977207cc.jpg
         tags:
@@ -22,8 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/97_8877.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 2c2146b5bfeb48007d0181168771868c.jpg
         tags:
@@ -31,9 +28,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bb_kartoshema.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

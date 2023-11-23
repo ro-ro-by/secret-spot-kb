@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_1251_4039.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 0e1401a797464cad2310e36f7f1337fe.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_1263_4026.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4900e9c9daad9b9c79f9a3427d4d3c56.jpg
         tags:
@@ -32,10 +26,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_1265_3861.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/17086816858_6d096967c0_k_(1).jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 64aa5d64d3528f40b798290c794d7c91.jpg
         tags:
@@ -25,7 +22,6 @@ images:
         meta:
             author: 'А. Зайцаў'
             version: 2006
-system: IMGREVWD
 meta:
     fgb:
         post_id: '96224'

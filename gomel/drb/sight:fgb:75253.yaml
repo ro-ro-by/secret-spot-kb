@@ -12,20 +12,13 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_5153.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 7216d5470f4e5179b9510bac14ebdd7e.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/150625110431-022.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75253'

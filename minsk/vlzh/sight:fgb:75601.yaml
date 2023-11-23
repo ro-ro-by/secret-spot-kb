@@ -13,8 +13,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_5847.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: c33db0950fc72e98aecd903d6263258b.jpg
         tags:
@@ -22,8 +20,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_3944.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: c21e6af930fb3251997a9fda6c89d8a7.jpg
         tags:
@@ -33,8 +29,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/050_5247.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

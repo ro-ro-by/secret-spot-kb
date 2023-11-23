@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/45.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 36e0b2935f82065cbd3ad4ad2cd8c9db.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/46.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: bd656eb60778360264e8e23f45916a91.jpg
         tags:
@@ -32,9 +26,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/45_2923.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: d9d8345a511278436a1da8b79a2f0aa7.jpg
         tags:
@@ -42,9 +33,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/46_6468.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: bd68967c479165da4b9509f2305a11ff.jpg
         tags:
@@ -52,9 +40,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/46_8091.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 301def0feefe496f1867859127a13b35.jpg
         tags:
@@ -62,10 +47,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/45_4062.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 tree:
     type: oak
 location:

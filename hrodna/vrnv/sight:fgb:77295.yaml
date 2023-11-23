@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_8714.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 7b1e213b7f4fc06ae119c56c9959562c.jpg
         tags:
@@ -21,8 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bolshoj_kamen_tolochkinskij2.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: e2c6d1facd0cfcce23e32b21d73061a3.jpg
         tags:
@@ -32,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2008.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

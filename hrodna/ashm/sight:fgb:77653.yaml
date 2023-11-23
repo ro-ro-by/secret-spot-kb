@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mostivilishskij_valun.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: f0fafacad673e3a90804f7916714315b.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_9112.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_3347.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: ca414ab11407c6d13174cc7e96c519a3.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_5583.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: fcc8db392ad66f1af3e2aaa6ec0d4115.jpg
         tags:
@@ -34,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/img_4281.jpg'
         meta:
             author: 'Антон БУБАЛА'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -22,9 +22,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_4576.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 07fa33728f210ee4f7b239a598408299.jpg
         tags:
@@ -33,9 +30,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_4704.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 18f681979e69ca5565ea61f78c4194c8.jpg
         tags:
@@ -44,10 +38,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/vyalec_4124_6993.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

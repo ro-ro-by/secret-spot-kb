@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bolshoj_kamen_dyadichskij.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: b3d44df4e7dbf3c6158c461bbd5057b6.jpg
         tags:
@@ -24,7 +21,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/119588261.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 9b47690276135e89473467578663783c.jpg
         tags:
@@ -34,8 +30,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/119588342.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

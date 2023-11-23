@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_6031.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 508eed8b4fc684eedfb28a0bb291bebe.jpg
         tags:
@@ -22,10 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/elnya.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: geojson

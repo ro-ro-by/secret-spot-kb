@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/risunok6.jpg'
         meta:
             author: 'Сергей Глиндзич'
-            version: FIXMEVERSION
     -
         file: 9fcce6eabeeff8ddb193a1639e38aff8.jpg
         tags:
@@ -22,9 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_bobr.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

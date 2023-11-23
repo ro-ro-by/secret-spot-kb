@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/7_5896.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 6b6e0053d93772ee8ff4571de851cd08.jpg
         tags:
@@ -24,8 +21,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc01895.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/p.varyag1.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 7785d5603a7b155dafd7b0b56d8eed9d.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/p.varyag2.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: be397e6609a7c46d36c689d87a4014b6.jpg
         tags:
@@ -34,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/_dsc1007c.jpg'
         meta:
             author: mat_set
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '102420'

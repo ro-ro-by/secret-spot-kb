@@ -22,8 +22,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/zaharishkinskij_valun_str_3.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 25472ca8ab983932d2a2c310955ac9d7.jpg
         tags:
@@ -33,8 +31,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_8523.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

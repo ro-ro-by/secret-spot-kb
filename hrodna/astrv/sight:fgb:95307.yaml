@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_1413.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 07a99847db09193b783abcd4714a2358.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_9106.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4bac81472538fb323292643171f9124f.jpg
         tags:
@@ -32,9 +26,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/3_7422.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 4f9f800c2b15000d69660ddd4c026bd9.jpg
         tags:
@@ -42,9 +33,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/4_6190.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 02b6eaa0767eff6572a714ae024de7a0.jpg
         tags:
@@ -52,9 +40,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/5_1783.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 958bfa7b08908de1682d28cb1cf7fd0b.jpg
         tags:
@@ -62,9 +47,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/tartak_kartoshema.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 0586f9c19a65d9da8724a1551b895415.jpg
         tags:
@@ -74,8 +56,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/dscf3943.jpg'
         meta:
             author: 'Игорь Рудаковский'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

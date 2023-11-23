@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/yakentanskij_valun_str_1.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: e291384928c2fea686c23be3d9a351d2.jpg
         tags:
@@ -21,8 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/yakentanskij_valun_str_3.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 82d5edd365ce9f5d1208045983bfbf62.jpg
         tags:
@@ -32,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_8794.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

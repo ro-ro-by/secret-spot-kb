@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_7069.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 26e411b96401db83b90675c7c628bd09.jpg
         tags:
@@ -35,7 +32,6 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1987
-system: IMGREVWD
 meta:
     fgb:
         post_id: '76038'

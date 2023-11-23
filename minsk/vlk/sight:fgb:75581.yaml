@@ -14,7 +14,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/19078247693_7656ac24e2_b.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 46ee88e8284416a839fac454d799884a.jpg
         tags:
@@ -24,7 +23,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/19511149478_fb1623957f_b.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 67be2607f1d3e05b9c9529625b61661f.jpg
         tags:
@@ -32,10 +30,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/kanstanpolle.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

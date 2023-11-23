@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9214.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: af8f5d114aae530f4d7967ce40d277c0.jpg
         tags:
@@ -23,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/2_5241.jpg'
         meta:
             author: 'Sergei Zhukovich'
-            version: FIXMEVERSION
     -
         file: 44e59ae8ae63cca5d092053d28cecedc.jpg
         tags:
@@ -33,7 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/800px-zheltye_derevya_-_pervaya_bukva_slova__lenin_.jpg'
         meta:
             author: 'Sergei Zhukovich'
-            version: FIXMEVERSION
     -
         file: 1881a8120b1210575f33efefa00e934b.jpg
         tags:
@@ -41,9 +37,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/maps.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

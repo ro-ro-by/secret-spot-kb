@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2022-05-20-08-27-49-947_com.instagram.android.jpg'
         meta:
             author: 'Мікола Кузіч'
-            version: FIXMEVERSION
     -
         file: 04ee4d3dae9dcce7584e33186d099912.jpg
         tags:
@@ -22,9 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/242.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 995f348a6e41db258177455174ed0e9f.jpg
         tags:
@@ -32,10 +28,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/243_3841.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 tree:
     type: oak
 location:

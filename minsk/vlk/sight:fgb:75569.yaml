@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bolshoj_kamen_lycevichskij.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 61a94b5734b6c838bea490eef3c317c8.jpg
         tags:
@@ -24,7 +21,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/119588765.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: cb02e781ef631bfa1f155cf097f7e9a8.jpg
         tags:
@@ -34,8 +30,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/119588768.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

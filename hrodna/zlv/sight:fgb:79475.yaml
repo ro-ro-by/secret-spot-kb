@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/doc278255471_438557818.jpg'
         meta:
             author: 'Светлана Войтко'
-            version: FIXMEVERSION
     -
         file: ad060de9d34fb0ed0a9e9a13982f0d19.jpg
         tags:
@@ -22,9 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/111_1.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

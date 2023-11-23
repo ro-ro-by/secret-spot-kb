@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/97_1840.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 40772af0d4cafb22c8b8855350503eac.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/98_9366.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: bc758a3f0493439b96ea85798423fa42.jpg
         tags:
@@ -33,9 +27,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/99_1920.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 52f50e00fa2ab2b1fa4d004feab7a5c5.jpg
         tags:
@@ -45,7 +36,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc07266.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: e7f83d12de8c27c3f668d85f30d181bc.jpg
         tags:
@@ -53,10 +43,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/snimok_4164.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75907'

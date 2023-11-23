@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_listvennica_vekovaya.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 1f6c7e02b1fe3168c00b13ae6713b8a6.jpg
         tags:
@@ -23,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/dsc_0076__uluki._vekovaya_listvennica.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
     -
         file: a6bd87c10b55623dfb44d9d668a38763.jpg
         tags:
@@ -33,8 +30,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/dsc_0073_uluki._vekovaya_listvennica.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
-system: IMGREVWD
 tree:
     type: larch
 location:

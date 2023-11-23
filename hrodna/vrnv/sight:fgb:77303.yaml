@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_0914.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 76fe84c1f2155e76d811bdbf2f583631.jpg
         tags:
@@ -21,8 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_kamen_poluzhskij2.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: a30d23c235567f92a42e7fd19f99db50.jpg
         tags:
@@ -32,8 +28,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2749_4142.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

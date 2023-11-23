@@ -24,9 +24,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_1.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: ee2be166c83728eebf60f62473c63824.jpg
         tags:
@@ -34,9 +31,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_3.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 10fa506e1c8c7c6308fdfc43ccfa84d5.jpg
         tags:
@@ -44,10 +38,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/alek.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dva_valuna_lukinskie.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 13ee3031fc9a24cc359bb147ed498b75.jpg
         tags:
@@ -24,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_2956.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/dauginauski_idal.jpg'
         meta:
             author: 'Валерий Винокуров'
-            version: FIXMEVERSION
     -
         file: a0dceb2a64771dd3b491d016eac6c6c1.jpg
         tags:
@@ -24,7 +23,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/230414-dolginovo01.jpg'
         meta:
             author: 'Георгий Лихторович'
-            version: FIXMEVERSION
     -
         file: 365f0b8c5be35a88e7f0355bf4a616fc.jpg
         tags:
@@ -32,8 +30,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/img_3410_6081.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 14d5747a633aeb8b3aeb885528013e1d.jpg
         tags:
@@ -41,8 +37,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/3_5987.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 3cc08e366420b0e0cb261709c3e08fb0.jpg
         tags:
@@ -50,9 +44,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/4_7878.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '97743'

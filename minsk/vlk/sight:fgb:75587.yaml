@@ -24,7 +24,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/19420220936_5c399fc171_b.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 6dd41d1b1964ce28b0662c69a48ec74e.jpg
         tags:
@@ -32,10 +31,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/yazeau_kamen.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

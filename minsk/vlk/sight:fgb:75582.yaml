@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/panorama_3.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 025fc2c600b3e454a1abd266da00f82f.jpg
         tags:
@@ -22,10 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/17086816858_6d096967c0_k.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75582'

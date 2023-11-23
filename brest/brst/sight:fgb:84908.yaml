@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/torfyanik_dubrovka__1493125904414__w859.png'
-        meta:
-            version: FIXMEVERSION
     -
         file: be72a9bd4d15741616e5e4c7def082ba.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/torfyanik_dubrovka__1500193952593__w1280.jpg'
         meta:
             author: 'Денис Тищук'
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: geojson

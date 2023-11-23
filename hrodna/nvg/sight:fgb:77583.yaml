@@ -13,8 +13,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_9448.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: ad9acd84585dc8438c1cd2283e5ac6d9.jpg
         tags:
@@ -22,8 +20,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_7038.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 019b11768768e366e246e6f347c096e4.jpg
         tags:
@@ -33,8 +29,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/izobrazhenie_1881.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '77583'

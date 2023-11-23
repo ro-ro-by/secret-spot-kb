@@ -16,9 +16,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/1_8140.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: a6aa4ecc622d6731c983718bd1518c06.jpg
         tags:
@@ -27,10 +24,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_9586.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

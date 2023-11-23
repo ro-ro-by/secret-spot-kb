@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/1_9032.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 18d35973b2159aefd605d3f0886596ea.jpg
         tags:
@@ -22,8 +20,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_9514.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 4f9692cb49a7c6155156dfb1ff7cef61.jpg
         tags:
@@ -33,8 +29,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_8497.jpg'
         meta:
             author: N-35
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

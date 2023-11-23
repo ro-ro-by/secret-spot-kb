@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/radostovskij.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 8eafa8a414742446023e3654df988314.jpg
         tags:
@@ -23,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_1..jpg'
         meta:
             author: ЗУК
-            version: FIXMEVERSION
     -
         file: fafac54d654f067675cf00e038283176.jpg
         tags:
@@ -33,8 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_2..jpg'
         meta:
             author: ЗУК
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: geojson

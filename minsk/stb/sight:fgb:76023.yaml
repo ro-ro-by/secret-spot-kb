@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/imgp9841.jpg'
         meta:
             author: 'Mikola Pankavets'
-            version: FIXMEVERSION
     -
         file: be62ce5ce4cab076734102b0f9740300.jpg
         tags:
@@ -22,9 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3618.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

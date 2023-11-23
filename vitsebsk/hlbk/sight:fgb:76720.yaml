@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_20200812_121817.jpg'
         meta:
             author: 'Юрий Соловьёв'
-            version: FIXMEVERSION
     -
         file: 99f8bfb57f9189afdfc49c25c88c5acc.jpg
         tags:
@@ -23,9 +22,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/novyj_risunok_(13)_6733.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

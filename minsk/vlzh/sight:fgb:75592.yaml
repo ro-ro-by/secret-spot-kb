@@ -22,9 +22,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3169.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: fbcf3adfbc909d422dce2c3280634055.jpg
         tags:
@@ -32,10 +29,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/2_5969.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

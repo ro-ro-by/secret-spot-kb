@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/bezymyannyj_0957.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 8be6daa252674964ab435429a6619373.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_20191124_162950.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

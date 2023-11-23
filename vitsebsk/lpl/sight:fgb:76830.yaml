@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.04.55.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: c032afdb5fd578044824a9b3527fa461.jpg
         tags:
@@ -22,9 +19,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.05.14.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 42e54dfd14648025c620e59451d84603.jpg
         tags:
@@ -35,7 +29,6 @@ images:
         meta:
             author: 'І. Клімковіч'
             version: 2011
-system: IMGREVWD
 meta:
     fgb:
         post_id: '76830'

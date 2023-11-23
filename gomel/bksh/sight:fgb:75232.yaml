@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/mem4.png'
-        meta:
-            version: FIXMEVERSION
     -
         file: 622d719622c6859c545dbf636acf1ec7.png
         tags:
@@ -23,7 +21,6 @@ images:
             url: 'https://fgb.by/_mu_c/0183/mem5.png'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
     -
         file: dff0d3f1810362858dd57ca55bea4769.jpg
         tags:
@@ -33,8 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/dsc_8285.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
-system: IMGREVWD
 tree:
     type: oak
 location:

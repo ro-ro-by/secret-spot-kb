@@ -24,7 +24,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/18370826034_c687d10134_b.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: eeac2161d51a209bbfb1ea817c7c7a25.jpg
         tags:
@@ -32,10 +31,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/baraucy.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

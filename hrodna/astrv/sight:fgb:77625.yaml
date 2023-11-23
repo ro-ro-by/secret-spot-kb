@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/germanishskij_valun_1_str_1.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
     -
         file: 09f3ad147703ad530dfb81a377e5bd00.jpg
         tags:
@@ -22,8 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/germanishskij_valun_1_str_3.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 645205fa5be464060de303775e5973be.jpg
         tags:
@@ -33,8 +30,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_8467_1345.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

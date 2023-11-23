@@ -14,7 +14,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/05_5939.jpg'
         meta:
             author: 'Сергей Глиндзич'
-            version: FIXMEVERSION
     -
         file: 067627ca98ce685d27c954db36e59e4b.jpg
         tags:
@@ -22,8 +21,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_3361.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 971e5dd19ff492ac727d9b16fa6cc756.jpg
         tags:
@@ -31,9 +28,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/2_6839.jpg'
-        meta:
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

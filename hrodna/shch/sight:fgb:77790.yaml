@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._lyadsk_vysokij.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: 86b5041f4f08d678e1b19f50599b1add.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/img_0717.jpg'
         meta:
             author: ВалероС
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point

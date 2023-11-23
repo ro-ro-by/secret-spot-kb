@@ -12,9 +12,6 @@ images:
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/64.jpg'
-        meta:
-            author: FIXMEAUTHOR
-            version: FIXMEVERSION
     -
         file: 33d81d73fd40bd686df0022b2c8ec9db.jpg
         tags:
@@ -25,7 +22,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/2_9067.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 48a4875076f5d4473ad5768d4a330d0d.jpg
         tags:
@@ -35,7 +31,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06651.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 7f6afb83db3fa20a22bdfc75acbc0f35.jpg
         tags:
@@ -45,7 +40,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06627.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: c4315662d7be4d4f18fe037781f5e069.jpg
         tags:
@@ -55,7 +49,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06629.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 45cf4892110e37831815e5933b656dfa.jpg
         tags:
@@ -65,7 +58,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06630.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: e877f685f1a876e5295672f4272c4b83.jpg
         tags:
@@ -75,7 +67,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06631.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
     -
         file: 62f40190c50336ca85b3eef184fa1945.jpg
         tags:
@@ -85,8 +76,6 @@ images:
             url: 'http://globustut.by/_mu_a__gtb/0183/dsc06632.jpg'
         meta:
             author: 'Александр Dehty'
-            version: FIXMEVERSION
-system: IMGREVWD
 meta:
     fgb:
         post_id: '75557'

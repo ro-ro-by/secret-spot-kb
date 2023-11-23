@@ -12,8 +12,6 @@ images:
         source:
             type: fgb
             url: 'https://fgb.by/_mu_d/0183/conv/1_4478.jpg'
-        meta:
-            version: FIXMEVERSION
     -
         file: e591d6fdfec00f568f30255751a5d4b7.jpg
         tags:
@@ -23,8 +21,6 @@ images:
             url: 'https://fgb.by/_mu_d/0183/1_3261.jpg'
         meta:
             author: Victoryor
-            version: FIXMEVERSION
-system: IMGREVWD
 location:
     -
         type: point
