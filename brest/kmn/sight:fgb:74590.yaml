@@ -8,14 +8,14 @@ images:
     -
         file: b7d6272b6e1554bc6af8c4950c279c04.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/bel-pushcha.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

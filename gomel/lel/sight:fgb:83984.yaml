@@ -8,7 +8,7 @@ images:
     -
         file: 0f45b391ed24c57ee2ed39dd7a59db86.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/startyi-zhaden.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 574690f1931613e5b8a9f5b53397ba5a.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/2_0916.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

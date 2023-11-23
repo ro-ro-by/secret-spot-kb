@@ -8,14 +8,14 @@ images:
     -
         file: 56dfe0adae59792113bcd8948cf131e6.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/shema_borisovskij_krasnokn_i_cennye_soobsches.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

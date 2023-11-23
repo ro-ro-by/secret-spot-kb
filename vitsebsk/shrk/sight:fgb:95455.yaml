@@ -8,7 +8,7 @@ images:
     -
         file: 3e0758186338bcb0d25d2dc4ea6af4e4.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:photo'
         source:
             type: fgb
             url: 'http://globustut.by/_mu_a__gtb/0183/img_6031.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 508eed8b4fc684eedfb28a0bb291bebe.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/elnya.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

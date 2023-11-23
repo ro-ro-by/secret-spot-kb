@@ -8,14 +8,14 @@ images:
     -
         file: 2c35bbb74f13b18e1dbe767de54382b9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/borski.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

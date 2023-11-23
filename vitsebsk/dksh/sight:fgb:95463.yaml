@@ -8,14 +8,14 @@ images:
     -
         file: fcce61bd4b3fa3e9ce087952b2b3be05.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/servech_karta_rastitelnosti.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

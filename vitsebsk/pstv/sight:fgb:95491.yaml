@@ -8,7 +8,7 @@ images:
     -
         file: e30fc0a8b69b539959ed9903efb76dad.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/poslednij_variant.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: dd567052e1b59c50ce9f0f38bf4b75c9.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/narachanski.jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson

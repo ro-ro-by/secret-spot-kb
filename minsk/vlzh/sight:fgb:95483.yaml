@@ -8,7 +8,7 @@ images:
     -
         file: 89b14b340bbe34ac0884290335bb3b0f.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/nalibokski.jpg'
@@ -18,14 +18,14 @@ images:
     -
         file: 98408abc8a94325a47655a0fbffd7988.jpg
         tags:
-            - FIXMETAG
+            - 'image-tag:object:schema'
         source:
             type: fgb
             url: 'https://fgb.by/_mu_c/0183/oopt_(3).jpg'
         meta:
             author: FIXMEAUTHOR
             version: FIXMEVERSION
-system: IMGREVIEW
+system: IMGREVWD
 location:
     -
         type: geojson
