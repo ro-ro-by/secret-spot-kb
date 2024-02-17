@@ -1,0 +1,64 @@
+items:
+    -
+        id: 'sight-type:alley'
+        title: 'Аллея'
+    -
+        id: 'sight-type:area'
+        title: 'Местность'
+    -
+        id: 'sight-type:basin'
+        title: 'Котловина'
+    -
+        id: 'sight-type:boulder'
+        title: 'Валун'
+    -
+        id: 'sight-type:cliff'
+        title: 'Уступ'
+    -
+        id: 'sight-type:dune'
+        title: 'Дюна'
+    -
+        id: 'sight-type:esker'
+        title: 'Гряда'
+    -
+        id: 'sight-type:forest'
+        title: 'Лес'
+    -
+        id: 'sight-type:geoglyph'
+        title: 'Геоглиф'
+    -
+        id: 'sight-type:hill'
+        title: 'Гора'
+    -
+        id: 'sight-type:meteorite'
+        title: 'Метеорит'
+    -
+        id: 'sight-type:outcrop'
+        title: 'Обнажение'
+    -
+        id: 'sight-type:park'
+        title: 'Парк'
+    -
+        id: 'sight-type:river'
+        title: 'Река'
+    -
+        id: 'sight-type:sacral_hill'
+        title: 'Сакральная гора'
+    -
+        id: 'sight-type:spring'
+        title: 'Родник'
+    -
+        id: 'sight-type:stone'
+        title: 'Камень'
+    -
+        id: 'sight-type:tree'
+        title: 'Дерево'
+    -
+        id: 'sight-type:сonglomerate'
+        title: 'Конгломерат'
+    -
+        id: 'sight-type:REMOVE'
+        title: '[system] REMOVE'
+    -
+        id: 'sight-type:TODO'
+        title: '[system] TODO'
