@@ -1,9 +1,9 @@
-id: 'sight:fgb:77177'
+id: 'sight-fgb-77177'
 title: 'Леший Камень елешовский (Вялікі камень, Камень-Печ, Шавец)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 images:
     -
         file: 0c2db6c4de6612ec4f5c2b00d96db163.jpg

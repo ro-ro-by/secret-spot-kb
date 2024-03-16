@@ -1,9 +1,9 @@
-id: 'sight:fgb:74611'
+id: 'sight-fgb-74611'
 title: Казинец
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: 18f12d6ee2de852837130dcac24e28b3.jpg

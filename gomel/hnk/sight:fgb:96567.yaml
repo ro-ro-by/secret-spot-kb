@@ -1,9 +1,9 @@
-id: 'sight:fgb:96567'
+id: 'sight-fgb-96567'
 title: 'Парк Борисовщина'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:hnk'
+    region: 'region-gomel'
+    subregion: 'subregion-hnk'
 images:
     -
         file: cca9a0dddd397adfda7fb4bea42abc4a.jpg

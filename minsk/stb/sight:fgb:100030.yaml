@@ -1,9 +1,9 @@
-id: 'sight:fgb:100030'
+id: 'sight-fgb-100030'
 title: 'Камень-Шавец (Адолеў камень, Чортаў камень)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: 7edc69cdfc63df09252b370645efdb5f.jpg

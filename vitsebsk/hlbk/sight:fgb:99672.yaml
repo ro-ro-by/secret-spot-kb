@@ -1,9 +1,9 @@
-id: 'sight:fgb:99672'
+id: 'sight-fgb-99672'
 title: 'Парк Псуйский'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 meta:
     fgb:
         post_id: '99672'

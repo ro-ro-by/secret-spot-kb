@@ -1,9 +1,9 @@
-id: 'sight:fgb:99107'
+id: 'sight-fgb-99107'
 title: 'Истоки ручья'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '99107'

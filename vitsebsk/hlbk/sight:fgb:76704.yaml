@@ -1,9 +1,9 @@
-id: 'sight:fgb:76704'
+id: 'sight-fgb-76704'
 title: 'Зеленая Дубрава'
 type: forest
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 forest:
     dominated_type: oak
     types:

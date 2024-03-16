@@ -1,9 +1,9 @@
-id: 'sight:fgb:99528'
+id: 'sight-fgb-99528'
 title: Санаторный
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 location:
     -
         type: point

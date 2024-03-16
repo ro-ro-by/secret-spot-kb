@@ -1,9 +1,9 @@
-id: 'sight:fgb:99137'
+id: 'sight-fgb-99137'
 title: 'Каменное ложе'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: 7163088040ef89b3f5d65e2faf484a51.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:98593'
+id: 'sight-fgb-98593'
 title: 'Круговичский репер'
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:hncv'
+    region: 'region-brest'
+    subregion: 'subregion-hncv'
 location:
     -
         type: point

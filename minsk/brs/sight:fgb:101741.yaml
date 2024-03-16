@@ -1,9 +1,9 @@
-id: 'sight:fgb:101741'
+id: 'sight-fgb-101741'
 title: 'Вековые липы в д. Упиревичи'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 tree:
     type: tilia
 location:

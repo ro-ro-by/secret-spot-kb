@@ -1,9 +1,9 @@
-id: 'sight:fgb:98935'
+id: 'sight-fgb-98935'
 title: 'На Парковой'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 images:
     -
         file: 8a9658b294e9f1dafc0ed84b87773f7b.jpg

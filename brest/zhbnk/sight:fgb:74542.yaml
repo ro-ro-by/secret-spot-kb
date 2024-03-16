@@ -1,9 +1,9 @@
-id: 'sight:fgb:74542'
+id: 'sight-fgb-74542'
 title: 'Дуб черешчатый «Петровичский»-1'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:zhbnk'
+    region: 'region-brest'
+    subregion: 'subregion-zhbnk'
 tree:
     type: oak
 meta:

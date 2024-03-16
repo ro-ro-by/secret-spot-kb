@@ -1,9 +1,9 @@
-id: 'sight:fgb:75315'
+id: 'sight-fgb-75315'
 title: 'Каменные волы'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: fdd6a28ebd7e54ddc8a1f3c43dcb5135.jpg

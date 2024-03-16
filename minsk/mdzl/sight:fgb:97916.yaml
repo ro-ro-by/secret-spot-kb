@@ -1,9 +1,9 @@
-id: 'sight:fgb:97916'
+id: 'sight-fgb-97916'
 title: 'Чертов камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 894cdacd1d4fe142f2a9bc2e105531f0.jpg

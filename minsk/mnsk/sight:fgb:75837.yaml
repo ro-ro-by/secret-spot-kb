@@ -1,9 +1,9 @@
-id: 'sight:fgb:75837'
+id: 'sight-fgb-75837'
 title: Жуковка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 7ad0336255c9a1e7702dc42535f433a7.jpg

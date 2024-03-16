@@ -1,9 +1,9 @@
-id: 'sight:fgb:99327'
+id: 'sight-fgb-99327'
 title: Ладукова
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99327'

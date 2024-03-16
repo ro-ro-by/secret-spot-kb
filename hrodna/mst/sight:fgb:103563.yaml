@@ -1,9 +1,9 @@
-id: 'sight:fgb:103563'
+id: 'sight-fgb-103563'
 title: 'Галоцкая гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '103563'

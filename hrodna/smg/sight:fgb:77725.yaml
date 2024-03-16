@@ -1,9 +1,9 @@
-id: 'sight:fgb:77725'
+id: 'sight-fgb-77725'
 title: 'Парк в деревне Залесье'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 24276905ed5624cb0b68b17e2dd6b052.jpg

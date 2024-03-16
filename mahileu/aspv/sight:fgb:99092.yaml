@@ -1,9 +1,9 @@
-id: 'sight:fgb:99092'
+id: 'sight-fgb-99092'
 title: Елизово
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 873054d922dba56e7c14ac0697b3e66e.jpg

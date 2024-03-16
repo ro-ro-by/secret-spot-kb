@@ -1,9 +1,9 @@
-id: 'sight:fgb:74540'
+id: 'sight-fgb-74540'
 title: 'Дуб-великан "Атечизненский"'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:zhbnk'
+    region: 'region-brest'
+    subregion: 'subregion-zhbnk'
 images:
     -
         file: 5d8c4e1b694ef7a3affc938161e52b3b.jpg

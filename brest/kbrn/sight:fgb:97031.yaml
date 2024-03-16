@@ -1,9 +1,9 @@
-id: 'sight:fgb:97031'
+id: 'sight-fgb-97031'
 title: 'Группа дубов'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: b40f4066ac0ed5fb8c1fc47d55b5aa5f.jpg

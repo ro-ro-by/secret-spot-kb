@@ -1,9 +1,9 @@
-id: 'sight:fgb:77311'
+id: 'sight-fgb-77311'
 title: 'Камень Кахання (Камень Марылі)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: 5d2a88e653358721bb0084aeea5049dc.jpg

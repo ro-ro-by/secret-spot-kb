@@ -1,9 +1,9 @@
-id: 'sight:fgb:93162'
+id: 'sight-fgb-93162'
 title: Иволга
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 location:
     -
         type: point

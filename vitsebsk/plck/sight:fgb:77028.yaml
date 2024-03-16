@@ -1,9 +1,9 @@
-id: 'sight:fgb:77028'
+id: 'sight-fgb-77028'
 title: 'Вялікі камень Туржэцкі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '77028'

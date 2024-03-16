@@ -1,9 +1,9 @@
-id: 'sight:fgb:97379'
+id: 'sight-fgb-97379'
 title: Крупа
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 location:
     -
         type: point

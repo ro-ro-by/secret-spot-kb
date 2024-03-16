@@ -1,9 +1,9 @@
-id: 'sight:fgb:99093'
+id: 'sight-fgb-99093'
 title: Каменичи-1
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 4b44e63c4f0a9aa606402da576196cf6.jpg

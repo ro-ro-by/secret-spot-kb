@@ -1,9 +1,9 @@
-id: 'sight:fgb:77319'
+id: 'sight-fgb-77319'
 title: 'Парк Святск'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: dbe66e1c459fa11b2864d8cbf999cda4.jpg

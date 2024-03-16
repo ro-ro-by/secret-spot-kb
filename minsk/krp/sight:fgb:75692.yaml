@@ -1,9 +1,9 @@
-id: 'sight:fgb:75692'
+id: 'sight-fgb-75692'
 title: Еленка
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 349ebd8a8baeb8bd9e5ef76aab1b9467.jpg

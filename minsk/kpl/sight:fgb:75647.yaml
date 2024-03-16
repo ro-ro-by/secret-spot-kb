@@ -1,9 +1,9 @@
-id: 'sight:fgb:75647'
+id: 'sight-fgb-75647'
 title: 'Парк Тимковичи'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 images:
     -
         file: 3597b0462b94e6ba37940fb4ee78c661.jpg

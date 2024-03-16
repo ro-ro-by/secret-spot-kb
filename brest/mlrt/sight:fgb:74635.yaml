@@ -1,9 +1,9 @@
-id: 'sight:fgb:74635'
+id: 'sight-fgb-74635'
 title: 'Дюна Мокранская'
 type: dune
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:mlrt'
+    region: 'region-brest'
+    subregion: 'subregion-mlrt'
 images:
     -
         file: 89c9f4d8b9d4fd16e3f54289eaf80832.jpg

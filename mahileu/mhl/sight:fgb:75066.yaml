@@ -1,9 +1,9 @@
-id: 'sight:fgb:75066'
+id: 'sight-fgb-75066'
 title: 'Архипова Криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '75066'

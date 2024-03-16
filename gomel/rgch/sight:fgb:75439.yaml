@@ -1,9 +1,9 @@
-id: 'sight:fgb:75439'
+id: 'sight-fgb-75439'
 title: 2-Р
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rgch'
+    region: 'region-gomel'
+    subregion: 'subregion-rgch'
 meta:
     fgb:
         post_id: '75439'

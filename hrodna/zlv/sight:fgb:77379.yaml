@@ -1,9 +1,9 @@
-id: 'sight:fgb:77379'
+id: 'sight-fgb-77379'
 title: 'Камень Климовичский с ямками'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: c55a2f45a6ca83c0c6d944d25cd3131f.jpg

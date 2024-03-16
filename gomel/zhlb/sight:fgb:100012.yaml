@@ -1,9 +1,9 @@
-id: 'sight:fgb:100012'
+id: 'sight-fgb-100012'
 title: 'Акамянелы сын'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 meta:
     fgb:
         post_id: '100012'

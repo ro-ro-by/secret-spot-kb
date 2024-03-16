@@ -1,9 +1,9 @@
-id: 'sight:fgb:75944'
+id: 'sight-fgb-75944'
 title: Нарочанский-5
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 3596d76b8cb4217f8859ed2d415e1da0.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99261'
+id: 'sight-fgb-99261'
 title: 'Чистый исток-2'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 location:
     -
         type: point

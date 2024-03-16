@@ -1,9 +1,9 @@
-id: 'sight:fgb:95970'
+id: 'sight-fgb-95970'
 title: Корсаковщина
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 location:
     -
         type: point

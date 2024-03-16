@@ -1,9 +1,9 @@
-id: 'sight:fgb:70784'
+id: 'sight-fgb-70784'
 title: 'Вековая сосна'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 37facb3d5a156065e809234a73f99662.jpg

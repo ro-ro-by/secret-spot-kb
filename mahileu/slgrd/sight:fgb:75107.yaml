@@ -1,9 +1,9 @@
-id: 'sight:fgb:75107'
+id: 'sight-fgb-75107'
 title: 'Торфяное месторождение "Журавель"'
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 05a2329cd0ed6e995638cc4b1ff06749.jpg

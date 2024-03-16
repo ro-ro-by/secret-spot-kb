@@ -1,9 +1,9 @@
-id: 'sight:fgb:100020'
+id: 'sight-fgb-100020'
 title: 'Камень Вільціс (Лекавы камень)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 meta:
     fgb:
         post_id: '100020'

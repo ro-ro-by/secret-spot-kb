@@ -1,9 +1,9 @@
-id: 'sight:fgb:99639'
+id: 'sight-fgb-99639'
 title: 'Парк Ополь'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivnv'
+    region: 'region-brest'
+    subregion: 'subregion-ivnv'
 meta:
     fgb:
         post_id: '99639'

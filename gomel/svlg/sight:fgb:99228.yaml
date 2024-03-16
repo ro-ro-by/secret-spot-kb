@@ -1,9 +1,9 @@
-id: 'sight:fgb:99228'
+id: 'sight-fgb-99228'
 title: 'Серебряный ключ-2'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:svlg'
+    region: 'region-gomel'
+    subregion: 'subregion-svlg'
 meta:
     fgb:
         post_id: '99228'

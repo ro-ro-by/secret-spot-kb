@@ -1,9 +1,9 @@
-id: 'sight:fgb:81335'
+id: 'sight-fgb-81335'
 title: Камень-бык
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 93522695d371fbd8478446b9d31d6c28.jpg

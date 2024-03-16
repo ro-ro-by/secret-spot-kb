@@ -1,9 +1,9 @@
-id: 'sight:fgb:99098'
+id: 'sight-fgb-99098'
 title: Чучье
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: e45a1822d33df38072b8f1c758167e0c.jpg

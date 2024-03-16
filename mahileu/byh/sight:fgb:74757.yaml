@@ -1,9 +1,9 @@
-id: 'sight:fgb:74757'
+id: 'sight-fgb-74757'
 title: Плакучая
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 meta:
     fgb:
         post_id: '74757'

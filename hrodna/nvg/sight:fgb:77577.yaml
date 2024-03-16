@@ -1,9 +1,9 @@
-id: 'sight:fgb:77577'
+id: 'sight-fgb-77577'
 title: 'Парк Вселюб'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 47ee04c4b1c2c7e13bb25ecb443d4036.jpg

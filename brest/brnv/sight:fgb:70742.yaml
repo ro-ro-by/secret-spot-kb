@@ -1,9 +1,9 @@
-id: 'sight:fgb:70742'
+id: 'sight-fgb-70742'
 title: 'Родник Тартаки'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 0c191feb3e6ef0aaaa49accb2496fb1b.jpg

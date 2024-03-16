@@ -1,9 +1,9 @@
-id: 'sight:fgb:79497'
+id: 'sight-fgb-79497'
 title: Бенин-1
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 location:
     -
         type: point

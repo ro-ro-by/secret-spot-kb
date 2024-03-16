@@ -1,9 +1,9 @@
-id: 'sight:fgb:74491'
+id: 'sight-fgb-74491'
 title: 'Исток р. Селища'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 location:
     -
         type: point

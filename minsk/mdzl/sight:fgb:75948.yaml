@@ -1,9 +1,9 @@
-id: 'sight:fgb:75948'
+id: 'sight-fgb-75948'
 title: Швакштинский-1
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 location:
     -
         type: point

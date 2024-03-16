@@ -1,9 +1,9 @@
-id: 'sight:fgb:78809'
+id: 'sight-fgb-78809'
 title: Студенец
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 images:
     -
         file: 56bb3f82a0c0632f188468961e7962e7.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:82785'
+id: 'sight-fgb-82785'
 title: 'Живоносный источник'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 9101e595447a53ac91b47d5d92837a53.jpg

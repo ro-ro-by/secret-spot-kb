@@ -1,9 +1,9 @@
-id: 'sight:fgb:98611'
+id: 'sight-fgb-98611'
 title: 'Шацкий парк'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 meta:
     fgb:
         post_id: '98611'

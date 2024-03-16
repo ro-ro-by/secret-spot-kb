@@ -1,9 +1,9 @@
-id: 'sight:fgb:74527'
+id: 'sight-fgb-74527'
 title: Бояры-Цуприкинский
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 86395245594b651aa10e5dd207bd6339.jpg

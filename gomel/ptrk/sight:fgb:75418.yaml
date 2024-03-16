@@ -1,9 +1,9 @@
-id: 'sight:fgb:75418'
+id: 'sight-fgb-75418'
 title: 'Пойма Птичи'
 type: area
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:ptrk'
+    region: 'region-gomel'
+    subregion: 'subregion-ptrk'
 images:
     -
         file: 1ed45d3f2ef36d1fbfaa0b786f6cea50.jpg

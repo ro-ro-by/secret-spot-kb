@@ -1,9 +1,9 @@
-id: 'sight:fgb:78950'
+id: 'sight-fgb-78950'
 title: Лянбара
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 meta:
     fgb:
         post_id: '78950'

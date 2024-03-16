@@ -1,9 +1,9 @@
-id: 'sight:fgb:75422'
+id: 'sight-fgb-75422'
 title: 'Парк Шкляревского'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:ptrk'
+    region: 'region-gomel'
+    subregion: 'subregion-ptrk'
 images:
     -
         file: 784d40daf587040c15920a745148ac28.jpg

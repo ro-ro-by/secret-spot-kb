@@ -1,9 +1,9 @@
-id: 'sight:fgb:100028'
+id: 'sight-fgb-100028'
 title: Камень-Кравец
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 4c49023cc46665abdcc2e39feb6518cf.jpg

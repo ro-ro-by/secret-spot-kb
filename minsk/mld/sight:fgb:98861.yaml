@@ -1,9 +1,9 @@
-id: 'sight:fgb:98861'
+id: 'sight-fgb-98861'
 title: 'Корсаковичский парк'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '98861'

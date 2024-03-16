@@ -1,9 +1,9 @@
-id: 'sight:fgb:75618'
+id: 'sight-fgb-75618'
 title: 'Родник Раковский'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 4648e10761b4e5225d74633c33baee7f.jpg

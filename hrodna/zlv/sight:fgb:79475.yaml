@@ -1,9 +1,9 @@
-id: 'sight:fgb:79475'
+id: 'sight-fgb-79475'
 title: 'У дамбы'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: ea7dd8579c9c808736aa3d3e82452d19.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75005'
+id: 'sight-fgb-75005'
 title: 'Выдренка-2 (Барановского)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 images:
     -
         file: e71b28929548cc9a6effa7e8c00d4580.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:92215'
+id: 'sight-fgb-92215'
 title: Берёзовка
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 location:
     -
         type: point

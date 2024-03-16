@@ -1,9 +1,9 @@
-id: 'sight:fgb:76024'
+id: 'sight-fgb-76024'
 title: 'Родник Красный'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: f90f23b0d9b206fcab9ad82143af4bb1.jpg

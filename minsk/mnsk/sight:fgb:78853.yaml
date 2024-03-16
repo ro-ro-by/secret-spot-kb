@@ -1,9 +1,9 @@
-id: 'sight:fgb:78853'
+id: 'sight-fgb-78853'
 title: 'Хмелёвка (Песчаный)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: c29ca7704cdd7561c49a41c88e6be0cf.jpg

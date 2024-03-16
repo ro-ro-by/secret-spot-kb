@@ -1,9 +1,9 @@
-id: 'sight:fgb:75807'
+id: 'sight-fgb-75807'
 title: Тресковщина
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 60438773be154255d554ac51f1dd3990.jpg

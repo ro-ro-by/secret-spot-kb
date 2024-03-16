@@ -1,9 +1,9 @@
-id: 'sight:fgb:96293'
+id: 'sight-fgb-96293'
 title: 'Парк Выжловичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 location:
     -
         type: point

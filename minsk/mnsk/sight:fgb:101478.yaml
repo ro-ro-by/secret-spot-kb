@@ -1,9 +1,9 @@
-id: 'sight:fgb:101478'
+id: 'sight-fgb-101478'
 title: 'Центральный детский парк имени Максима Горького'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 354c781a117c217d54d60e6357e1d81a.jpg

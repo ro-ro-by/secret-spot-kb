@@ -1,9 +1,9 @@
-id: 'sight:fgb:77254'
+id: 'sight-fgb-77254'
 title: 'Гродненская Свислочь'
 type: area
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 images:
     -
         file: 865c37580aee858c0fdbdcb829266a3d.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:101043'
+id: 'sight-fgb-101043'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:klnk'
+    region: 'region-gomel'
+    subregion: 'subregion-klnk'
 meta:
     fgb:
         post_id: '101043'

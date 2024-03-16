@@ -1,9 +1,9 @@
-id: 'sight:fgb:101081'
+id: 'sight-fgb-101081'
 title: 'Цудадзейны камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 meta:
     fgb:
         post_id: '101081'

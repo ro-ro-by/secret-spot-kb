@@ -1,9 +1,9 @@
-id: 'sight:fgb:96107'
+id: 'sight-fgb-96107'
 title: 'Бульварный каштан'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: a9fadc2a8dd140621d29f14c5357960a.jpg

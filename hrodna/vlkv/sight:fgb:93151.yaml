@@ -1,9 +1,9 @@
-id: 'sight:fgb:93151'
+id: 'sight-fgb-93151'
 title: Длугополь-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 33f4fa03204dd7a1b046cc4e169aa255.jpg

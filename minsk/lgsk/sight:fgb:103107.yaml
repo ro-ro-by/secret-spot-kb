@@ -1,9 +1,9 @@
-id: 'sight:fgb:103107'
+id: 'sight-fgb-103107'
 title: 'Шведава гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '103107'

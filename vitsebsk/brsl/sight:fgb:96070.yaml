@@ -1,9 +1,9 @@
-id: 'sight:fgb:96070'
+id: 'sight-fgb-96070'
 title: 'Дуб черешчатый'
 type: tree
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 images:
     -
         file: 9c83710ef55c7e77436264570548f800.jpg

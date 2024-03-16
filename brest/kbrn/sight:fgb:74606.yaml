@@ -1,9 +1,9 @@
-id: 'sight:fgb:74606'
+id: 'sight-fgb-74606'
 title: 'Парк имени А. В. Суворова'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 location:
     -
         type: point

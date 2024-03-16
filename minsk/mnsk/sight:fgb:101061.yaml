@@ -1,9 +1,9 @@
-id: 'sight:fgb:101061'
+id: 'sight-fgb-101061'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 meta:
     fgb:
         post_id: '101061'

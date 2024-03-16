@@ -1,9 +1,9 @@
-id: 'sight:fgb:98910'
+id: 'sight-fgb-98910'
 title: Сухари
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: 81e5ac0bfafb7b7095379b1f8ffb026f.jpg

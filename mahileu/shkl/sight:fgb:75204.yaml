@@ -1,9 +1,9 @@
-id: 'sight:fgb:75204'
+id: 'sight-fgb-75204'
 title: 'Родник Серебрянка'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 images:
     -
         file: 830aecbda926891f4eca5bb3d360148e.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99637'
+id: 'sight-fgb-99637'
 title: 'Парк Петровичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:zhbnk'
+    region: 'region-brest'
+    subregion: 'subregion-zhbnk'
 meta:
     fgb:
         post_id: '99637'

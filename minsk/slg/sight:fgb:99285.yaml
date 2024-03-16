@@ -1,9 +1,9 @@
-id: 'sight:fgb:99285'
+id: 'sight-fgb-99285'
 title: Старобинский
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: 043c6fcc317de24200ff4ebaef0559f3.jpg

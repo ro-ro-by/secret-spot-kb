@@ -1,9 +1,9 @@
-id: 'sight:fgb:99322'
+id: 'sight-fgb-99322'
 title: 'Свянцоны калодзеш'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99322'

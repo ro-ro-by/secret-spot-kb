@@ -1,9 +1,9 @@
-id: 'sight:fgb:78480'
+id: 'sight-fgb-78480'
 title: Еленец-1
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:bksh'
+    region: 'region-gomel'
+    subregion: 'subregion-bksh'
 images:
     -
         file: 2192df95ada7d7891eb065e2132c5d98.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77336'
+id: 'sight-fgb-77336'
 title: 'Дуб - место явления иконы Божьей Матери'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 tree:
     type: oak
 meta:

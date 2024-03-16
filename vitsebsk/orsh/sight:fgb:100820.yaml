@@ -1,9 +1,9 @@
-id: 'sight:fgb:100820'
+id: 'sight-fgb-100820'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 meta:
     fgb:
         post_id: '100820'

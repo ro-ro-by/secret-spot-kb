@@ -1,9 +1,9 @@
-id: 'sight:fgb:75188'
+id: 'sight-fgb-75188'
 title: 'Вепринская дубрава'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 forest:
     dominated_type: oak
     types:

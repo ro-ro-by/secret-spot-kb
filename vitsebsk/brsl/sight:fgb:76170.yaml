@@ -1,9 +1,9 @@
-id: 'sight:fgb:76170'
+id: 'sight-fgb-76170'
 title: 'Родник Окменица (Зимник, Шалькиня)'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 images:
     -
         file: bf3213482552e973e268bd582503157f.jpg

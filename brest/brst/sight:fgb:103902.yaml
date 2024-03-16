@@ -1,9 +1,9 @@
-id: 'sight:fgb:103902'
+id: 'sight-fgb-103902'
 title: 'Гара Мутвіца'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '103902'

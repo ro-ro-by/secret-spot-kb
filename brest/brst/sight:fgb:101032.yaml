@@ -1,9 +1,9 @@
-id: 'sight:fgb:101032'
+id: 'sight-fgb-101032'
 title: 'Камень з крыжам і надпісам'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '101032'

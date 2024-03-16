@@ -1,9 +1,9 @@
-id: 'sight:fgb:74952'
+id: 'sight-fgb-74952'
 title: 'Криница совхоза  Долговский (Долговский)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 images:
     -
         file: 745ed1499da7e9589b9652028917f6ad.jpg

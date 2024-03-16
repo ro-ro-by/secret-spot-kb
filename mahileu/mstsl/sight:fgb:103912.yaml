@@ -1,9 +1,9 @@
-id: 'sight:fgb:103912'
+id: 'sight-fgb-103912'
 title: 'Замкавая гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 3d022127db2e1c9814287a22ae66b445.jpg

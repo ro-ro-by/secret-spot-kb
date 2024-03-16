@@ -1,9 +1,9 @@
-id: 'sight:fgb:97342'
+id: 'sight-fgb-97342'
 title: 'Вековая сосна'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 3a8a73624b16fa593ca47d7653fc88e9.jpg

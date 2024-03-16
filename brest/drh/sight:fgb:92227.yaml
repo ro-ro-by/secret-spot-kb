@@ -1,9 +1,9 @@
-id: 'sight:fgb:92227'
+id: 'sight-fgb-92227'
 title: Заставье
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:drh'
+    region: 'region-brest'
+    subregion: 'subregion-drh'
 images:
     -
         file: b72137319ce3f32f09ffc5443bd1bc1b.jpg

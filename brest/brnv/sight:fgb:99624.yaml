@@ -1,9 +1,9 @@
-id: 'sight:fgb:99624'
+id: 'sight-fgb-99624'
 title: 'Парк Железница'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 meta:
     fgb:
         post_id: '99624'

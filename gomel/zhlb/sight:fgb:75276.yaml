@@ -1,9 +1,9 @@
-id: 'sight:fgb:75276'
+id: 'sight-fgb-75276'
 title: Лесань
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 images:
     -
         file: e8676f223859b8958c45b74c3bf0dcd8.jpg

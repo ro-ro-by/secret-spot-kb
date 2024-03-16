@@ -1,9 +1,9 @@
-id: 'sight:fgb:75779'
+id: 'sight-fgb-75779'
 title: 'Божы след'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 images:
     -
         file: 3a78c160e53503e819222c8f41ee5513.jpg

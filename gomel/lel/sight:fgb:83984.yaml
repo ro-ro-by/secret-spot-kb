@@ -1,9 +1,9 @@
-id: 'sight:fgb:83984'
+id: 'sight-fgb-83984'
 title: 'Старый Жаден'
 type: area
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 images:
     -
         file: 0f45b391ed24c57ee2ed39dd7a59db86.jpg

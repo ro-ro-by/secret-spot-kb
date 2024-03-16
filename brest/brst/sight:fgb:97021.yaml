@@ -1,9 +1,9 @@
-id: 'sight:fgb:97021'
+id: 'sight-fgb-97021'
 title: 'Парк Яцковичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '97021'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:98105'
+id: 'sight-fgb-98105'
 title: 'Крыклівы камень (Камень с крестом)'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 8d0d0456a5b7c5d760402cc7a9e8e77d.jpg

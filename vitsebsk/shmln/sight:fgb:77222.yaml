@@ -1,9 +1,9 @@
-id: 'sight:fgb:77222'
+id: 'sight-fgb-77222'
 title: 'Валуны шавецкія'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 meta:
     fgb:
         post_id: '77222'

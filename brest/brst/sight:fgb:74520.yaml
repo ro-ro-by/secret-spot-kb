@@ -1,9 +1,9 @@
-id: 'sight:fgb:74520'
+id: 'sight-fgb-74520'
 title: 'Каменная голова (идол)'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: c2069d669dd77cd969c27cc47549699c.jpg

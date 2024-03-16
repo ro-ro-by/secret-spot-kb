@@ -1,9 +1,9 @@
-id: 'sight:fgb:86916'
+id: 'sight-fgb-86916'
 title: 'Место родника Слёзы Рогнеды-1'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 4889a1c5edb646cb43c597d8d1082630.jpg

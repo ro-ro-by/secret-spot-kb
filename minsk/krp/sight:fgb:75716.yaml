@@ -1,9 +1,9 @@
-id: 'sight:fgb:75716'
+id: 'sight-fgb-75716'
 title: 'Дубы (Сосновец)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 3487c703cf9ae4f5d8088f02e72e162d.jpg

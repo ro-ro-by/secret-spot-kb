@@ -1,9 +1,9 @@
-id: 'sight:fgb:78862'
+id: 'sight-fgb-78862'
 title: 'Дмитрия Ростовского'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 images:
     -
         file: 653729dd41a4d4ba2c01dee4821004a1.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75940'
+id: 'sight-fgb-75940'
 title: 'Купа (Нарочанский-1, Нарочанский-2)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 5f54f9939b73edb29a9d7727597cb8de.jpg

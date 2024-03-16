@@ -1,9 +1,9 @@
-id: 'sight:fgb:76802'
+id: 'sight-fgb-76802'
 title: 'Камень з выявай чалавека'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 950734cb2297ed610ec67bfe5eff0e5b.jpg

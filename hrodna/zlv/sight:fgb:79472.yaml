@@ -1,9 +1,9 @@
-id: 'sight:fgb:79472'
+id: 'sight-fgb-79472'
 title: Студёный
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 meta:
     fgb:
         post_id: '79472'

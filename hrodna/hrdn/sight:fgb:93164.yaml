@@ -1,9 +1,9 @@
-id: 'sight:fgb:93164'
+id: 'sight-fgb-93164'
 title: Свислочь
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 2e342debde726a812d1968623419793d.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99323'
+id: 'sight-fgb-99323'
 title: 'Бовина криничка'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99323'

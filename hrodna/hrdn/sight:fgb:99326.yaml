@@ -1,9 +1,9 @@
-id: 'sight:fgb:99326'
+id: 'sight-fgb-99326'
 title: Стасинка
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99326'

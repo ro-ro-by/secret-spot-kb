@@ -1,9 +1,9 @@
-id: 'sight:fgb:75254'
+id: 'sight-fgb-75254'
 title: 'Насаждения сосны'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:drb'
+    region: 'region-gomel'
+    subregion: 'subregion-drb'
 meta:
     fgb:
         post_id: '75254'

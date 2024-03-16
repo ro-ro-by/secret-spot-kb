@@ -1,9 +1,9 @@
-id: 'sight:fgb:101762'
+id: 'sight-fgb-101762'
 title: 'Родник Еськовлянка'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 7f877b41efdf718b7f13ef142c4ed789.jpg

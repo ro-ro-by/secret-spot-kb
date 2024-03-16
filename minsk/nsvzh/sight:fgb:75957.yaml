@@ -1,9 +1,9 @@
-id: 'sight:fgb:75957'
+id: 'sight-fgb-75957'
 title: 'Лесопарк Альба'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 65eafce309c365e7b2d3cc4275dbadc9.jpg

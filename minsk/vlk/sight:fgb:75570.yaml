@@ -1,9 +1,9 @@
-id: 'sight:fgb:75570'
+id: 'sight-fgb-75570'
 title: 'Большой камень подсосенский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 842d02fcdcf2fc2bb7a8dbfcd8563606.jpg

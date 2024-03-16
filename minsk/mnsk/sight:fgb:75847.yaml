@@ -1,9 +1,9 @@
-id: 'sight:fgb:75847'
+id: 'sight-fgb-75847'
 title: 'Родник доктора Пастернацкого'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: cdbf16c4c49c96bb862281055146e6ee.jpg

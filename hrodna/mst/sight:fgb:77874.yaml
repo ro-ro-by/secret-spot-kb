@@ -1,9 +1,9 @@
-id: 'sight:fgb:77874'
+id: 'sight-fgb-77874'
 title: 'Святы гаёчак'
 type: TODO
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 images:
     -
         file: dc548dcf339a631921f4c3ff80d4d001.jpg

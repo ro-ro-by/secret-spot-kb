@@ -1,9 +1,9 @@
-id: 'sight:fgb:83236'
+id: 'sight-fgb-83236'
 title: 'На Речной'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: af29decdbb2b220d51843cbcd20191bb.jpg

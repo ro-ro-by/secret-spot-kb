@@ -1,9 +1,9 @@
-id: 'sight:fgb:99834'
+id: 'sight-fgb-99834'
 title: 'Камень са слядамі сабакі, ката, каровы, авечак, гусей, курэй'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 meta:
     fgb:
         post_id: '99834'

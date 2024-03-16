@@ -1,9 +1,9 @@
-id: 'sight:fgb:77745'
+id: 'sight-fgb-77745'
 title: 'Чертов камень войневицкий'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 94daa90b5f1262b6f636e87d2213630f.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:103114'
+id: 'sight-fgb-103114'
 title: 'Белая гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lnn'
+    region: 'region-brest'
+    subregion: 'subregion-lnn'
 meta:
     fgb:
         post_id: '103114'

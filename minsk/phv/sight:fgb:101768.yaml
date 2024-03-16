@@ -1,9 +1,9 @@
-id: 'sight:fgb:101768'
+id: 'sight-fgb-101768'
 title: 'Родник Усадебный'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: 4856f5a5fef1a4438ffb402e1c92b2f2.jpg

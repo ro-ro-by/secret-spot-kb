@@ -1,9 +1,9 @@
-id: 'sight:fgb:97068'
+id: 'sight-fgb-97068'
 title: 'Каменный столбик с выбитым крестом'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: a4c66d0360fdc562c02c8315d9867890.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:96303'
+id: 'sight-fgb-96303'
 title: Борки
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 04c91bea70632652b521d38a9c2bde7b.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75656'
+id: 'sight-fgb-75656'
 title: 'Парк Конюхи'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 meta:
     fgb:
         post_id: '75656'

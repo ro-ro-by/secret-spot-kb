@@ -1,9 +1,9 @@
-id: 'sight:fgb:75076'
+id: 'sight-fgb-75076'
 title: 'Подгорный колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: c77f51f28628ec678b2d9972c0a6c82e.jpg

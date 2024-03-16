@@ -1,9 +1,9 @@
-id: 'sight:fgb:77378'
+id: 'sight-fgb-77378'
 title: 'Городище Валькевичское'
 type: hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: fec5bc1c9344266553ed8ad2d9caf9a5.jpg

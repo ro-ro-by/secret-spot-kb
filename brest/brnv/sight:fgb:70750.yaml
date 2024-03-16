@@ -1,9 +1,9 @@
-id: 'sight:fgb:70750'
+id: 'sight-fgb-70750'
 title: 'Дубы-близнецы Тугановичские'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: a86b3c6805e57c855781f3e19565f3e0.jpg

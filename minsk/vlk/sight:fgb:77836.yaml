@@ -1,9 +1,9 @@
-id: 'sight:fgb:77836'
+id: 'sight-fgb-77836'
 title: 'Парк Богданово'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '77836'

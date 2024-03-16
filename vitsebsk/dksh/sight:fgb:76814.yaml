@@ -1,9 +1,9 @@
-id: 'sight:fgb:76814'
+id: 'sight-fgb-76814'
 title: 'Святой колодец (Божий колодец)'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 9984c27b351f11d36bc2c91c95740325.jpg

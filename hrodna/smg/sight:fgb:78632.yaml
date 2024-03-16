@@ -1,9 +1,9 @@
-id: 'sight:fgb:78632'
+id: 'sight-fgb-78632'
 title: Крево-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 32a841650a638aa7dc03c0f8a5cc6ff3.jpg

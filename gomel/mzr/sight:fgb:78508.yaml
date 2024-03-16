@@ -1,9 +1,9 @@
-id: 'sight:fgb:78508'
+id: 'sight-fgb-78508'
 title: 'На Нагорной-3'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 52b26098a9c2f2a63485356da511e8ac.jpg

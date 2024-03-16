@@ -1,9 +1,9 @@
-id: 'sight:fgb:75741'
+id: 'sight-fgb-75741'
 title: 'Логойский парк'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: f3ce02b6b6d3b430cbef6d893847c94d.jpg

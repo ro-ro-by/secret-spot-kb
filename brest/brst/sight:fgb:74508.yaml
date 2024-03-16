@@ -1,9 +1,9 @@
-id: 'sight:fgb:74508'
+id: 'sight-fgb-74508'
 title: 'Дуб пирамидальный'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 tree:
     type: oak
 meta:

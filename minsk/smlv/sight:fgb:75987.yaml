@@ -1,9 +1,9 @@
-id: 'sight:fgb:75987'
+id: 'sight-fgb-75987'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: 73cd604c19e63eb40a4ebb84590f3418.jpg

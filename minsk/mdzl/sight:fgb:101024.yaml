@@ -1,9 +1,9 @@
-id: 'sight:fgb:101024'
+id: 'sight-fgb-101024'
 title: 'Камень са знакам у выглядзе парасона'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 5ebccdb73ecff434625784936d065091.jpg

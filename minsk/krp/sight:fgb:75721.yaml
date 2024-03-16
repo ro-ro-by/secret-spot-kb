@@ -1,9 +1,9 @@
-id: 'sight:fgb:75721'
+id: 'sight-fgb-75721'
 title: 'Кравец (Цар-Камень)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 1030a61e42c71b0cd8685b59f58c9616.jpg

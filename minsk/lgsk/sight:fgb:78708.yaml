@@ -1,9 +1,9 @@
-id: 'sight:fgb:78708'
+id: 'sight-fgb-78708'
 title: 'Колодец Антония'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '78708'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:76653'
+id: 'sight-fgb-76653'
 title: 'Биологический заказник по воспроизводству беловежских зубров'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 2f2bb41c24cc26a9dacc707b7882b0b0.jpg

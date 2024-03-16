@@ -1,9 +1,9 @@
-id: 'sight:fgb:103810'
+id: 'sight-fgb-103810'
 title: 'Гара Крушына'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '103810'

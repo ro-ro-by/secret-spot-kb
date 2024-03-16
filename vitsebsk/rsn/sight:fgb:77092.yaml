@@ -1,9 +1,9 @@
-id: 'sight:fgb:77092'
+id: 'sight-fgb-77092'
 title: 'Вялікі камень Расонскі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:rsn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-rsn'
 images:
     -
         file: fe549da1cd38680b13130a6407368148.jpg

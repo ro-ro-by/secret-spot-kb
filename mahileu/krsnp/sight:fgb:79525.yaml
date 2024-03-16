@@ -1,9 +1,9 @@
-id: 'sight:fgb:79525'
+id: 'sight-fgb-79525'
 title: 'Красная криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 location:
     -
         type: point

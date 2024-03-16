@@ -1,9 +1,9 @@
-id: 'sight:fgb:96489'
+id: 'sight-fgb-96489'
 title: 'Парк Наровля'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:nrvl'
+    region: 'region-gomel'
+    subregion: 'subregion-nrvl'
 images:
     -
         file: de2fbb49e2c5102a2ec6f06f44803ca3.jpg

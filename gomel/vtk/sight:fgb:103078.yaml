@@ -1,9 +1,9 @@
-id: 'sight:fgb:103078'
+id: 'sight-fgb-103078'
 title: 'Гарадзішча (Каменная, Чортава гара)'
 type: sacral_hill
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:vtk'
+    region: 'region-gomel'
+    subregion: 'subregion-vtk'
 meta:
     fgb:
         post_id: '103078'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97450'
+id: 'sight-fgb-97450'
 title: Федорин-3
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: dbd6e984bd51551068366b8d69023433.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:100004'
+id: 'sight-fgb-100004'
 title: 'Паклонныя камяні'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:uzd'
+    region: 'region-minsk'
+    subregion: 'subregion-uzd'
 meta:
     fgb:
         post_id: '100004'

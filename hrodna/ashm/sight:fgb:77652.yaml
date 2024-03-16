@@ -1,9 +1,9 @@
-id: 'sight:fgb:77652'
+id: 'sight-fgb-77652'
 title: 'Огороднитский валун'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: ac84d09eec7c0c243b7a0bbeb86a7e98.jpg

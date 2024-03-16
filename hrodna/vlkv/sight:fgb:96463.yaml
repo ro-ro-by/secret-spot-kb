@@ -1,9 +1,9 @@
-id: 'sight:fgb:96463'
+id: 'sight-fgb-96463'
 title: 'Парк Россь'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 95afd57926b51ded2fffcb9fa0d85285.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:96304'
+id: 'sight-fgb-96304'
 title: Колодки
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: c5c05434d24865808c19ab467acf7a4a.jpg

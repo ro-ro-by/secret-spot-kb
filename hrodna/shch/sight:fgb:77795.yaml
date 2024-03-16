@@ -1,9 +1,9 @@
-id: 'sight:fgb:77795'
+id: 'sight-fgb-77795'
 title: 'Парк Костенево'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 meta:
     fgb:
         post_id: '77795'

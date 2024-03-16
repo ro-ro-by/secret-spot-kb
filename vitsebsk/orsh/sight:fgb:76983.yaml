@@ -1,9 +1,9 @@
-id: 'sight:fgb:76983'
+id: 'sight-fgb-76983'
 title: 'Обнажение Пашино'
 type: outcrop
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 images:
     -
         file: fed160466539289d9db17e0027d927cb.jpg

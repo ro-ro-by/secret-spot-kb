@@ -1,9 +1,9 @@
-id: 'sight:fgb:75159'
+id: 'sight-fgb-75159'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 meta:
     fgb:
         post_id: '75159'

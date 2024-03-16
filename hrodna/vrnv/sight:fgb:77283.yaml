@@ -1,9 +1,9 @@
-id: 'sight:fgb:77283'
+id: 'sight-fgb-77283'
 title: 'Валун Большой камень дайновский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: cf0c4b47e011177fd950a36791d4eb38.jpg

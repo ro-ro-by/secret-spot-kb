@@ -1,9 +1,9 @@
-id: 'sight:fgb:103046'
+id: 'sight-fgb-103046'
 title: Прошча
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slck'
+    region: 'region-minsk'
+    subregion: 'subregion-slck'
 meta:
     fgb:
         post_id: '103046'

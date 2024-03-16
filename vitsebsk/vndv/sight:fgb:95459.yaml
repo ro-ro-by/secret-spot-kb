@@ -1,9 +1,9 @@
-id: 'sight:fgb:95459'
+id: 'sight-fgb-95459'
 title: Сарья
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 images:
     -
         file: ff569927ccd73567f06e3b5ff5d16dbf.jpg

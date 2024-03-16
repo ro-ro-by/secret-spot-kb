@@ -1,9 +1,9 @@
-id: 'sight:fgb:77042'
+id: 'sight-fgb-77042'
 title: 'Бориса и Глеба'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 location:
     -
         type: point

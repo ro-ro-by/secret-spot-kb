@@ -1,9 +1,9 @@
-id: 'sight:fgb:74789'
+id: 'sight-fgb-74789'
 title: 'Микитова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 meta:
     fgb:
         post_id: '74789'

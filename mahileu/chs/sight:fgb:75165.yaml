@@ -1,9 +1,9 @@
-id: 'sight:fgb:75165'
+id: 'sight-fgb-75165'
 title: Заказник
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 images:
     -
         file: b9dae4c77fbf036c364269b9f8b5ec1c.jpg

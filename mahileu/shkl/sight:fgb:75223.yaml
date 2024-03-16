@@ -1,9 +1,9 @@
-id: 'sight:fgb:75223'
+id: 'sight-fgb-75223'
 title: 'Живая криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 meta:
     fgb:
         post_id: '75223'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97608'
+id: 'sight-fgb-97608'
 title: 'Ближние сажелки'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 location:
     -
         type: point

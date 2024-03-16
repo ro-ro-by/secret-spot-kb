@@ -1,9 +1,9 @@
-id: 'sight:fgb:99638'
+id: 'sight-fgb-99638'
 title: 'Парк Новощицы'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivnv'
+    region: 'region-brest'
+    subregion: 'subregion-ivnv'
 meta:
     fgb:
         post_id: '99638'

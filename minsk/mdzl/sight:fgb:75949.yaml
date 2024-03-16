@@ -1,9 +1,9 @@
-id: 'sight:fgb:75949'
+id: 'sight-fgb-75949'
 title: 'Млын (Мельница)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 894bd48cb2978777f3832acb5cd16516.jpg

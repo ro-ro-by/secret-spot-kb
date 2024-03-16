@@ -1,9 +1,9 @@
-id: 'sight:fgb:75415'
+id: 'sight-fgb-75415'
 title: 'Колодец Святой Троицы'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:akt'
+    region: 'region-gomel'
+    subregion: 'subregion-akt'
 images:
     -
         file: 81f1587db870c49d0196d8f3927bbddd.jpg

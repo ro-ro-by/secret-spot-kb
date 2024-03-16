@@ -1,9 +1,9 @@
-id: 'sight:fgb:100809'
+id: 'sight-fgb-100809'
 title: Камень-следовик
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:bshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-bshn'
 meta:
     fgb:
         post_id: '100809'

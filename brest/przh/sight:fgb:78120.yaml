@@ -1,9 +1,9 @@
-id: 'sight:fgb:78120'
+id: 'sight-fgb-78120'
 title: 'Святителя Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: ee9ab6fd77bb414d9f0fbfed74e398c9.jpg

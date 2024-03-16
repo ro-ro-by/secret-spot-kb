@@ -1,9 +1,9 @@
-id: 'sight:fgb:93169'
+id: 'sight-fgb-93169'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: fca6d3d05763f0e65c7ede7e25a181c5.jpg

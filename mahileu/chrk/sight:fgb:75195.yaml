@@ -1,9 +1,9 @@
-id: 'sight:fgb:75195'
+id: 'sight-fgb-75195'
 title: 'Камень – надмогилье XIX в. с надписью «Здесь лежит раб Божий»'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 meta:
     fgb:
         post_id: '75195'

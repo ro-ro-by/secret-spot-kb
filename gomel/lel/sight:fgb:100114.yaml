@@ -1,9 +1,9 @@
-id: 'sight:fgb:100114'
+id: 'sight-fgb-100114'
 title: 'Чырвоны камень (Васін камень)'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 meta:
     fgb:
         post_id: '100114'

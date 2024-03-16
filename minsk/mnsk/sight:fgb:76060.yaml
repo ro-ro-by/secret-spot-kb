@@ -1,9 +1,9 @@
-id: 'sight:fgb:76060'
+id: 'sight-fgb-76060'
 title: 'Липа Губернаторского сада'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: f9a8122d9b8268a4e6458348739283a4.jpg

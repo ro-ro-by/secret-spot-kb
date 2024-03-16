@@ -1,9 +1,9 @@
-id: 'sight:fgb:99147'
+id: 'sight-fgb-99147'
 title: Печерский
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 location:
     -
         type: geojson

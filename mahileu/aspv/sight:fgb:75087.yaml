@@ -1,9 +1,9 @@
-id: 'sight:fgb:75087'
+id: 'sight-fgb-75087'
 title: Дуброва
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 forest:
     dominated_type: oak
 images:

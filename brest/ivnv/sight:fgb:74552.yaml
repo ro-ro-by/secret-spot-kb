@@ -1,9 +1,9 @@
-id: 'sight:fgb:74552'
+id: 'sight-fgb-74552'
 title: Гай
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivnv'
+    region: 'region-brest'
+    subregion: 'subregion-ivnv'
 meta:
     fgb:
         post_id: '74552'

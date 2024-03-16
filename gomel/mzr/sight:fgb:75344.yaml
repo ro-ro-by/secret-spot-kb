@@ -1,9 +1,9 @@
-id: 'sight:fgb:75344'
+id: 'sight-fgb-75344'
 title: 'Каменка (№27)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: eb67b7910825b792b1b416dd70edf47a.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75965'
+id: 'sight-fgb-75965'
 title: Сергеевичский
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 location:
     -
         type: geojson

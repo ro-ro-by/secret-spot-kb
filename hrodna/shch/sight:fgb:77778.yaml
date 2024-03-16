@@ -1,9 +1,9 @@
-id: 'sight:fgb:77778'
+id: 'sight-fgb-77778'
 title: 'Валун Зеневский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: 06d6d8763fa5171aa7aaef6df1728fc7.jpg

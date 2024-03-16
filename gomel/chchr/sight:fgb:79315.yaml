@@ -1,9 +1,9 @@
-id: 'sight:fgb:79315'
+id: 'sight-fgb-79315'
 title: Озерцы
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: e7df2724d0ce5a8ab34defea7ba796ed.jpg

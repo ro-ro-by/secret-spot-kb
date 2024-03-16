@@ -1,9 +1,9 @@
-id: 'sight:fgb:100196'
+id: 'sight-fgb-100196'
 title: 'Камень з невыразным надпісам'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 meta:
     fgb:
         post_id: '100196'

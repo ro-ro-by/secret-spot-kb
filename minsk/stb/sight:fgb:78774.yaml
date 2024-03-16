@@ -1,9 +1,9 @@
-id: 'sight:fgb:78774'
+id: 'sight-fgb-78774'
 title: 'Кипяток (Кипяток, Кипетни, Котлы, Отмыт)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: d22c3403d85a0347004c8e96ca8ddfca.jpg

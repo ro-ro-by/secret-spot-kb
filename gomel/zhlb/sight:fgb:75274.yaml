@@ -1,9 +1,9 @@
-id: 'sight:fgb:75274'
+id: 'sight-fgb-75274'
 title: 'Лесной массив в урочище Чашевка'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 forest:
     dominated_type: pine
 images:

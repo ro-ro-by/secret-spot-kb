@@ -1,9 +1,9 @@
-id: 'sight:fgb:98657'
+id: 'sight-fgb-98657'
 title: 'Парк Козечки'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 meta:
     fgb:
         post_id: '98657'

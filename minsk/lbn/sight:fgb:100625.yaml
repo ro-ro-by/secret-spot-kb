@@ -1,9 +1,9 @@
-id: 'sight:fgb:100625'
+id: 'sight-fgb-100625'
 title: 'Родник Кирпичный'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 images:
     -
         file: 3859a65c1da217716c257fed8f284d84.jpg

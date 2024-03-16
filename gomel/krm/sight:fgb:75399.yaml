@@ -1,9 +1,9 @@
-id: 'sight:fgb:75399'
+id: 'sight-fgb-75399'
 title: Литвиновичи-3
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 location:
     -
         type: point

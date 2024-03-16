@@ -1,9 +1,9 @@
-id: 'sight:fgb:75873'
+id: 'sight-fgb-75873'
 title: 'Вередовский дендропарк'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 location:
     -
         type: point

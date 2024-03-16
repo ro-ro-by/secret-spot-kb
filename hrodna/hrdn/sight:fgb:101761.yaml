@@ -1,9 +1,9 @@
-id: 'sight:fgb:101761'
+id: 'sight-fgb-101761'
 title: 'Колодец Элизы Ожешко'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: ebbbe69588693b5a6abc8b8f583a55f9.jpg

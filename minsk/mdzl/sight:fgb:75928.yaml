@@ -1,9 +1,9 @@
-id: 'sight:fgb:75928'
+id: 'sight-fgb-75928'
 title: 'Камень Дягилевский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 meta:
     fgb:
         post_id: '75928'

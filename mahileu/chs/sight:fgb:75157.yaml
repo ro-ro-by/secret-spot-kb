@@ -1,9 +1,9 @@
-id: 'sight:fgb:75157'
+id: 'sight-fgb-75157'
 title: 'Роща в урочище  Елово'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 forest:
     dominated_type: pine
 location:

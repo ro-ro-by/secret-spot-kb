@@ -1,9 +1,9 @@
-id: 'sight:fgb:74689'
+id: 'sight-fgb-74689'
 title: 'Старинный парк «Новобережновский»'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:stln'
+    region: 'region-brest'
+    subregion: 'subregion-stln'
 images:
     -
         file: 82469ebc21a9ec0c77acfa17e3981536.jpg

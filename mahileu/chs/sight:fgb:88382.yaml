@@ -1,9 +1,9 @@
-id: 'sight:fgb:88382'
+id: 'sight-fgb-88382'
 title: Заложье-1
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 images:
     -
         file: f584b49bb17361039796c788c75e78b2.jpg

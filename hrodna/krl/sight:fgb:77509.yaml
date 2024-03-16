@@ -1,9 +1,9 @@
-id: 'sight:fgb:77509'
+id: 'sight-fgb-77509'
 title: 'Конгломераты Смольчицкие'
-type: сonglomerate
+type: conglomerate
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 images:
     -
         file: 838ef0e6b50c4db1a64bbc0883e9fbcf.jpg

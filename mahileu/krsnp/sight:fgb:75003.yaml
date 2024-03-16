@@ -1,9 +1,9 @@
-id: 'sight:fgb:75003'
+id: 'sight-fgb-75003'
 title: 'Лёксина криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 images:
     -
         file: 53a647dab92ae139c584399113e650ec.jpg

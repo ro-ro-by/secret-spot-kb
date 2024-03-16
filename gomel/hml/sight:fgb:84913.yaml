@@ -1,9 +1,9 @@
-id: 'sight:fgb:84913'
+id: 'sight-fgb-84913'
 title: 'Святой источник'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:hml'
+    region: 'region-gomel'
+    subregion: 'subregion-hml'
 location:
     -
         type: point

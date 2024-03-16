@@ -1,9 +1,9 @@
-id: 'sight:fgb:74951'
+id: 'sight-fgb-74951'
 title: 'Участко добово-ясеневого леса'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 forest:
     dominated_type: oak
 images:

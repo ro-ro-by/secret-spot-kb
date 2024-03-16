@@ -1,9 +1,9 @@
-id: 'sight:fgb:75742'
+id: 'sight-fgb-75742'
 title: 'Погребищенские родники'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: 389acda609b91e132b85b8009be21c70.jpg

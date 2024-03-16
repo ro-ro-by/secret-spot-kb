@@ -1,9 +1,9 @@
-id: 'sight:fgb:96581'
+id: 'sight-fgb-96581'
 title: 'Парк Перковичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:drh'
+    region: 'region-brest'
+    subregion: 'subregion-drh'
 images:
     -
         file: 7eb1646d77841e329c9ca12857234580.gif

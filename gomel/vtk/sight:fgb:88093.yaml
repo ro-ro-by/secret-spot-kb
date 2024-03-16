@@ -1,9 +1,9 @@
-id: 'sight:fgb:88093'
+id: 'sight-fgb-88093'
 title: Игнатьевская
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:vtk'
+    region: 'region-gomel'
+    subregion: 'subregion-vtk'
 meta:
     fgb:
         post_id: '88093'

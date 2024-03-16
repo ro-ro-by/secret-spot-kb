@@ -1,9 +1,9 @@
-id: 'sight:fgb:77519'
+id: 'sight-fgb-77519'
 title: Мир-1
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 images:
     -
         file: ef1c0e4dd70ceed3b703ae21acd57c84.jpg

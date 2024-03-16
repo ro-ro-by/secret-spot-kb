@@ -1,9 +1,9 @@
-id: 'sight:fgb:96289'
+id: 'sight-fgb-96289'
 title: 'Лугопарк Площево'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 images:
     -
         file: 96e1e4fbed642ca6e7d064e424d4b51d.jpg

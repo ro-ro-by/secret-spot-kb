@@ -1,9 +1,9 @@
-id: 'sight:fgb:77224'
+id: 'sight-fgb-77224'
 title: 'Валуны гороватские'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 images:
     -
         file: 8d9f57cd45b9588d5e38be574f496b68.jpg

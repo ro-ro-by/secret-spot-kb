@@ -1,9 +1,9 @@
-id: 'sight:fgb:70787'
+id: 'sight-fgb-70787'
 title: 'Кисилевичский родник'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 2c2e00024b7cadb6580fc272b88c9ffa.jpg

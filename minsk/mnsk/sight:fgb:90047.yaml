@@ -1,9 +1,9 @@
-id: 'sight:fgb:90047'
+id: 'sight-fgb-90047'
 title: Голынка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 8fc2df3d721192b411495517863576e6.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:100192'
+id: 'sight-fgb-100192'
 title: 'Камень з ямкамі'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 meta:
     fgb:
         post_id: '100192'

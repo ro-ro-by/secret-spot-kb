@@ -1,9 +1,9 @@
-id: 'sight:fgb:103665'
+id: 'sight-fgb-103665'
 title: 'Грэсская гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slck'
+    region: 'region-minsk'
+    subregion: 'subregion-slck'
 meta:
     fgb:
         post_id: '103665'

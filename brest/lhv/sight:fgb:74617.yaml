@@ -1,9 +1,9 @@
-id: 'sight:fgb:74617'
+id: 'sight-fgb-74617'
 title: Лагоня
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 images:
     -
         file: 61535db61e47221695a2b3c8bac4aac3.jpg

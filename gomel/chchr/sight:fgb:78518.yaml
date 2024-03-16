@@ -1,9 +1,9 @@
-id: 'sight:fgb:78518'
+id: 'sight-fgb-78518'
 title: Бабичи-2
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 meta:
     fgb:
         post_id: '78518'

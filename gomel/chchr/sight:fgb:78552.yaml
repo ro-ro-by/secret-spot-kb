@@ -1,9 +1,9 @@
-id: 'sight:fgb:78552'
+id: 'sight-fgb-78552'
 title: Замковый
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: 140e2625bdb09e07870089ca474c051b.jpg

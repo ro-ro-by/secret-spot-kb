@@ -1,9 +1,9 @@
-id: 'sight:fgb:99130'
+id: 'sight-fgb-99130'
 title: 'Бородичи-1. Камень с изображениями и надписями.'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: abaf87ce742a24e87a795e433587b1ed.jpg

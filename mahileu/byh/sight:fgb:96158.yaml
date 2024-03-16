@@ -1,9 +1,9 @@
-id: 'sight:fgb:96158'
+id: 'sight-fgb-96158'
 title: 'Каменный крест'
 type: stone
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 images:
     -
         file: 5c63fd892e534ebbc304e0a1687aa5dd.jpg

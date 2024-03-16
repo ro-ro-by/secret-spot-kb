@@ -1,9 +1,9 @@
-id: 'sight:fgb:103708'
+id: 'sight-fgb-103708'
 title: 'Карабан гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:chrv'
+    region: 'region-minsk'
+    subregion: 'subregion-chrv'
 meta:
     fgb:
         post_id: '103708'

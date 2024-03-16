@@ -1,9 +1,9 @@
-id: 'sight:fgb:75773'
+id: 'sight-fgb-75773'
 title: 'Родник в урочище Первый Переток'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 images:
     -
         file: 14055fd6f5a2a5fc1d17a6b65b872fe8.jpg

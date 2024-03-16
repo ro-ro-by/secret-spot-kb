@@ -1,9 +1,9 @@
-id: 'sight:fgb:78806'
+id: 'sight-fgb-78806'
 title: 'Карбовая криница (На Шолохова)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 images:
     -
         file: 260eeb48b7eff3694c4e3ee8bf5c43a1.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75851'
+id: 'sight-fgb-75851'
 title: 'Криница Здановича'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 location:
     -
         type: point

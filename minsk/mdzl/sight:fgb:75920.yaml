@@ -1,9 +1,9 @@
-id: 'sight:fgb:75920'
+id: 'sight-fgb-75920'
 title: 'Парк Победы'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 52dd1fde471e3157268ba35032b4bbeb.jpg

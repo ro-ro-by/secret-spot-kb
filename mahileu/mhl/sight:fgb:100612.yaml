@@ -1,9 +1,9 @@
-id: 'sight:fgb:100612'
+id: 'sight-fgb-100612'
 title: 'Родник Святой Праведной Анны (Любужский)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: cd59d78132b6dbbe006a1c4855abdd62.jpg

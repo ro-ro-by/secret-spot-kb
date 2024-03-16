@@ -1,9 +1,9 @@
-id: 'sight:fgb:75879'
+id: 'sight-fgb-75879'
 title: 'Родник Лешно (Святой)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 720e36a45f3efa1dd566c932643ae2cd.jpg

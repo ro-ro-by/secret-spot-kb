@@ -1,9 +1,9 @@
-id: 'sight:fgb:102999'
+id: 'sight-fgb-102999'
 title: 'Змяёўка (Гарадзішча)'
 type: sacral_hill
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '102999'

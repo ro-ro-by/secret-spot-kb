@@ -1,9 +1,9 @@
-id: 'sight:fgb:79322'
+id: 'sight-fgb-79322'
 title: Скоморошки-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: fb4ee831d850fc8eb6035dcc1f36cae0.jpg

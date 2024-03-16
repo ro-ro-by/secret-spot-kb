@@ -1,9 +1,9 @@
-id: 'sight:fgb:101214'
+id: 'sight-fgb-101214'
 title: 'Липы мелколистные в окрестностях деревни Перки'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74774'
+id: 'sight-fgb-74774'
 title: Зарекуша
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hlsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hlsk'
 images:
     -
         file: 3ddf2d5b2cd7007cf85da9fc19c88c63.jpg

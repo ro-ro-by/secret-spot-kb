@@ -1,9 +1,9 @@
-id: 'sight:fgb:78504'
+id: 'sight-fgb-78504'
 title: 'Место родника Параскевы Пятницы (Живая вода)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:loeu'
+    region: 'region-gomel'
+    subregion: 'subregion-loeu'
 images:
     -
         file: 665111371b8743245ecd06a0da0e126d.jpg

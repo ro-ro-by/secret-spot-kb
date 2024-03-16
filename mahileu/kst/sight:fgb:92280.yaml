@@ -1,9 +1,9 @@
-id: 'sight:fgb:92280'
+id: 'sight-fgb-92280'
 title: 'Целителя Пантелеймона'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:kst'
+    region: 'region-mahileu'
+    subregion: 'subregion-kst'
 images:
     -
         file: bb6dce06fc96f752f87d7f2fa5f3ac70.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78321'
+id: 'sight-fgb-78321'
 title: Гирмантовцы
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 69947dc01cf4724426f142b323002cb2.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97402'
+id: 'sight-fgb-97402'
 title: 'Парк Волма'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 meta:
     fgb:
         post_id: '97402'

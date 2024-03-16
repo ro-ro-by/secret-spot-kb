@@ -1,9 +1,9 @@
-id: 'sight:fgb:104020'
+id: 'sight-fgb-104020'
 title: 'Родник Кушлики-1'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 images:
     -
         file: 9900e803442f4301b60c1d3fa7e7ca2d.jpg

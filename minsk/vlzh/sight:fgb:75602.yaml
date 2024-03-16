@@ -1,9 +1,9 @@
-id: 'sight:fgb:75602'
+id: 'sight-fgb-75602'
 title: 'Валун Большой камень прусогорский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 1ce417ee36d034116daccb130ebd811f.jpg

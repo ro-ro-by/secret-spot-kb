@@ -1,9 +1,9 @@
-id: 'sight:fgb:78951'
+id: 'sight-fgb-78951'
 title: Узвалье
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 meta:
     fgb:
         post_id: '78951'

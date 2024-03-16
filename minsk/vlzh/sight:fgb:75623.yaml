@@ -1,9 +1,9 @@
-id: 'sight:fgb:75623'
+id: 'sight-fgb-75623'
 title: 'Шаповаловские погорки'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '75623'

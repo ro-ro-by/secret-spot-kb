@@ -1,9 +1,9 @@
-id: 'sight:fgb:77589'
+id: 'sight-fgb-77589'
 title: 'Гора Каплица'
 type: hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: a762e220973d7267b85d616ee5a353c1.jpg

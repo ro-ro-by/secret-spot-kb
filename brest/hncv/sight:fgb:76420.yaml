@@ -1,9 +1,9 @@
-id: 'sight:fgb:76420'
+id: 'sight-fgb-76420'
 title: 'Парк Огаревичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:hncv'
+    region: 'region-brest'
+    subregion: 'subregion-hncv'
 images:
     -
         file: 9eacc87551681049dcc9a9cfaf07a2e2.jpg

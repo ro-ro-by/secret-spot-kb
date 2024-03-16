@@ -1,9 +1,9 @@
-id: 'sight:fgb:77304'
+id: 'sight-fgb-77304'
 title: 'Камень гудинишкинский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: 3780625de0cd83fede726508ae058559.jpg

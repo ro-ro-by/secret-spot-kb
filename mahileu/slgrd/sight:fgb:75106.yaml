@@ -1,9 +1,9 @@
-id: 'sight:fgb:75106'
+id: 'sight-fgb-75106'
 title: 'Алексеева криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: c4a141de1e17b6d69a2b038b1e826a29.jpg

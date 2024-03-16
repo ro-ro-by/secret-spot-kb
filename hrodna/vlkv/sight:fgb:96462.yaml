@@ -1,9 +1,9 @@
-id: 'sight:fgb:96462'
+id: 'sight-fgb-96462'
 title: 'Парк Подороск'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: c803eba4a4175064a98ad7ee734ac49c.jpg

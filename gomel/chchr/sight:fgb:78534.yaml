@@ -1,9 +1,9 @@
-id: 'sight:fgb:78534'
+id: 'sight-fgb-78534'
 title: Подыгрушка
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: 9a4b0e4394be2570a2535556d2310165.jpg

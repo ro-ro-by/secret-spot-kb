@@ -1,9 +1,9 @@
-id: 'sight:fgb:75382'
+id: 'sight-fgb-75382'
 title: 'Пагнойская криница'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 meta:
     fgb:
         post_id: '75382'

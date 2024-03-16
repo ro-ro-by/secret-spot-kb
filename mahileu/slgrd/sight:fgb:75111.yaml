@@ -1,9 +1,9 @@
-id: 'sight:fgb:75111'
+id: 'sight-fgb-75111'
 title: 'Святая криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 82d30f6427210a521900ceb56f9655de.jpg

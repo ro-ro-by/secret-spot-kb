@@ -1,9 +1,9 @@
-id: 'sight:fgb:97349'
+id: 'sight-fgb-97349'
 title: 'Лошицкий парк'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: adb6659fcc447784b55208d0fe030494.jpg

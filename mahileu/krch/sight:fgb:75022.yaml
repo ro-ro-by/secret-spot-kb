@@ -1,9 +1,9 @@
-id: 'sight:fgb:75022'
+id: 'sight-fgb-75022'
 title: 'Светлый колодец (Михеевский)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krch'
+    region: 'region-mahileu'
+    subregion: 'subregion-krch'
 images:
     -
         file: da87b31b3c4dfe79312e65652b191a05.jpg

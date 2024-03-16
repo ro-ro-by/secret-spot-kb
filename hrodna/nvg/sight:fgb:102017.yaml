@@ -1,9 +1,9 @@
-id: 'sight:fgb:102017'
+id: 'sight-fgb-102017'
 title: Дуб
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 3e511a09a8d8f6b3fad6effc24baf38e.jpg

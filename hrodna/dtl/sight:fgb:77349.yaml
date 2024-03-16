@@ -1,9 +1,9 @@
-id: 'sight:fgb:77349'
+id: 'sight-fgb-77349'
 title: Камень-богатырь
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:dtl'
+    region: 'region-hrodna'
+    subregion: 'subregion-dtl'
 images:
     -
         file: 1d33155945ec8a0c9ab448044b905912.jpg

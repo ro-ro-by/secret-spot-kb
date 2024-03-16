@@ -1,9 +1,9 @@
-id: 'sight:fgb:83682'
+id: 'sight-fgb-83682'
 title: Печерский
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '83682'

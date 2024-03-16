@@ -1,9 +1,9 @@
-id: 'sight:fgb:77689'
+id: 'sight-fgb-77689'
 title: 'Исток реки Свислочь'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:svsl'
+    region: 'region-hrodna'
+    subregion: 'subregion-svsl'
 location:
     -
         type: point

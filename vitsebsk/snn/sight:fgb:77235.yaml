@@ -1,9 +1,9 @@
-id: 'sight:fgb:77235'
+id: 'sight-fgb-77235'
 title: Сосновка
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 meta:
     fgb:
         post_id: '77235'

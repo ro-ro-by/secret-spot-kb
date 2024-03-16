@@ -1,9 +1,9 @@
-id: 'sight:fgb:100010'
+id: 'sight-fgb-100010'
 title: 'Акамянелае вяселле'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '100010'

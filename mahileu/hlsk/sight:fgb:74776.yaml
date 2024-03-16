@@ -1,9 +1,9 @@
-id: 'sight:fgb:74776'
+id: 'sight-fgb-74776'
 title: 'Стасева криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hlsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hlsk'
 meta:
     fgb:
         post_id: '74776'

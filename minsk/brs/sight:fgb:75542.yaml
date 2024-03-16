@@ -1,9 +1,9 @@
-id: 'sight:fgb:75542'
+id: 'sight-fgb-75542'
 title: Здань-Камень
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 7faac697d415b23eb4918c0630688ab3.jpg

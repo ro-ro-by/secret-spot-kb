@@ -1,9 +1,9 @@
-id: 'sight:fgb:74588'
+id: 'sight-fgb-74588'
 title: Серебряный
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: 0b8ce616f8fd5dc45b6b98aed126555e.jpg

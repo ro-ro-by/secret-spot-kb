@@ -1,9 +1,9 @@
-id: 'sight:fgb:78453'
+id: 'sight-fgb-78453'
 title: 'На правом берегу'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 location:
     -
         type: point

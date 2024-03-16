@@ -1,9 +1,9 @@
-id: 'sight:fgb:100071'
+id: 'sight-fgb-100071'
 title: 'Чорны Змяіны камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 meta:
     fgb:
         post_id: '100071'

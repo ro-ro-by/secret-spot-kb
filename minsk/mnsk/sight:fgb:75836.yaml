@@ -1,9 +1,9 @@
-id: 'sight:fgb:75836'
+id: 'sight-fgb-75836'
 title: 'Слёзы Рагнеды-2'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: efaf965df8532d9a7773ab4a77d92b46.jpg

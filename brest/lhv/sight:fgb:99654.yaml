@@ -1,9 +1,9 @@
-id: 'sight:fgb:99654'
+id: 'sight-fgb-99654'
 title: 'Парк Массальщина'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '99654'

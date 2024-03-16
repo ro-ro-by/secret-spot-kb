@@ -1,9 +1,9 @@
-id: 'sight:fgb:83098'
+id: 'sight-fgb-83098'
 title: Крынки
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 location:
     -
         type: point

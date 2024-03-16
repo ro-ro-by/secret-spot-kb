@@ -1,9 +1,9 @@
-id: 'sight:fgb:97917'
+id: 'sight-fgb-97917'
 title: 'Вока Циклопа (Сероводородный)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75393'
+id: 'sight-fgb-75393'
 title: Слобода
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 08df41d56361d34ff1c7c1db99336216.jpg

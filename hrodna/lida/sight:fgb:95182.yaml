@@ -1,9 +1,9 @@
-id: 'sight:fgb:95182'
+id: 'sight-fgb-95182'
 title: Камень
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 911ff59b61d6cb8381aaff1765857af0.jpg

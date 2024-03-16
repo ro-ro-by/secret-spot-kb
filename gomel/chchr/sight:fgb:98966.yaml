@@ -1,9 +1,9 @@
-id: 'sight:fgb:98966'
+id: 'sight-fgb-98966'
 title: Полесье-4
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: c67808d9ebb59e7ae830791b987ca771.jpg

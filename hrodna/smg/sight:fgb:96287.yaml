@@ -1,9 +1,9 @@
-id: 'sight:fgb:96287'
+id: 'sight-fgb-96287'
 title: 'Поклонное дерево'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 meta:
     fgb:
         post_id: '96287'

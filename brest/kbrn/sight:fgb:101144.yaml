@@ -1,9 +1,9 @@
-id: 'sight:fgb:101144'
+id: 'sight-fgb-101144'
 title: Дайніца
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 meta:
     fgb:
         post_id: '101144'

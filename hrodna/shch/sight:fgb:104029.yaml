@@ -1,9 +1,9 @@
-id: 'sight:fgb:104029'
+id: 'sight-fgb-104029'
 title: Водянка
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 meta:
     fgb:
         post_id: '104029'

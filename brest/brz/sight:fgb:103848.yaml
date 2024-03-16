@@ -1,9 +1,9 @@
-id: 'sight:fgb:103848'
+id: 'sight-fgb-103848'
 title: 'Бронная гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 meta:
     fgb:
         post_id: '103848'

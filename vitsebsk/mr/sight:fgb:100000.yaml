@@ -1,9 +1,9 @@
-id: 'sight:fgb:100000'
+id: 'sight-fgb-100000'
 title: Пярун-камень
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 meta:
     fgb:
         post_id: '100000'

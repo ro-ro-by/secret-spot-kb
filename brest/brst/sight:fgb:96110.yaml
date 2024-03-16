@@ -1,9 +1,9 @@
-id: 'sight:fgb:96110'
+id: 'sight-fgb-96110'
 title: 'Берестейские платаны'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 tree:
     type: plane_tree
 location:

@@ -1,9 +1,9 @@
-id: 'sight:fgb:95982'
+id: 'sight-fgb-95982'
 title: 'Окаменевший вол'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: edd4310e321be3250d92bc7d08a29178.jpg

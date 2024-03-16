@@ -1,9 +1,9 @@
-id: 'sight:fgb:100872'
+id: 'sight-fgb-100872'
 title: 'Камень з надпісам'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 meta:
     fgb:
         post_id: '100872'

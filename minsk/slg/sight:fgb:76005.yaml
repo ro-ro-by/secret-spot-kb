@@ -1,9 +1,9 @@
-id: 'sight:fgb:76005'
+id: 'sight-fgb-76005'
 title: Метявичи
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: 0011875b549eac06dc5679ef58354b44.jpg

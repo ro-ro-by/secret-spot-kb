@@ -1,9 +1,9 @@
-id: 'sight:fgb:70767'
+id: 'sight-fgb-70767'
 title: 'Камни со знаками'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: 19aadece87dec602cee4c6a8c4252455.jpg

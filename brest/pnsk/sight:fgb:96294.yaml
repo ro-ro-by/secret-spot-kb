@@ -1,9 +1,9 @@
-id: 'sight:fgb:96294'
+id: 'sight-fgb-96294'
 title: 'Парк Стошаны'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 location:
     -
         type: point

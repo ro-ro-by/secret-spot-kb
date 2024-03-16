@@ -1,9 +1,9 @@
-id: 'sight:fgb:74693'
+id: 'sight-fgb-74693'
 title: 'Парк «Маньковичский»'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:stln'
+    region: 'region-brest'
+    subregion: 'subregion-stln'
 images:
     -
         file: 307df462538012daa1b4f32e5d8d4d8d.jpg

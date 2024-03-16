@@ -1,9 +1,9 @@
-id: 'sight:fgb:98653'
+id: 'sight-fgb-98653'
 title: 'Родник около д. Трубенок'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: abf535f17959867b3d54710de41d20ee.jpg

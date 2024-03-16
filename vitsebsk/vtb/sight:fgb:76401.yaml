@@ -1,9 +1,9 @@
-id: 'sight:fgb:76401'
+id: 'sight-fgb-76401'
 title: 'Иоанна Крестителя'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vtb'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vtb'
 images:
     -
         file: a8a5bbf6e02d19a92d4d06bdb14d0e6f.jpg

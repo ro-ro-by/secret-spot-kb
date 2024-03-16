@@ -1,9 +1,9 @@
-id: 'sight:fgb:96157'
+id: 'sight-fgb-96157'
 title: 'Культовый камень'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 images:
     -
         file: f4c74dedcc2f1fce26e3f01e0fb9ccf2.jpg

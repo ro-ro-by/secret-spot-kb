@@ -1,9 +1,9 @@
-id: 'sight:fgb:76722'
+id: 'sight-fgb-76722'
 title: 'Родник Мосарский'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 images:
     -
         file: cc0f94c8a8c248b1f5db9b1c154e28c1.jpg

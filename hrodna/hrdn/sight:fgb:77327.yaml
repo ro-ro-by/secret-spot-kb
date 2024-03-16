@@ -1,9 +1,9 @@
-id: 'sight:fgb:77327'
+id: 'sight-fgb-77327'
 title: 'Лесопарк Румлево'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 49108fcdbe07fc26564af1f8dc5f0f8e.jpg

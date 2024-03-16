@@ -1,9 +1,9 @@
-id: 'sight:fgb:75996'
+id: 'sight-fgb-75996'
 title: 'Святителя Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: 872fd2dd89cbc82378480cddfc6cf0b8.jpg

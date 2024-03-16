@@ -1,9 +1,9 @@
-id: 'sight:fgb:102880'
+id: 'sight-fgb-102880'
 title: 'Гара Моліцы'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 meta:
     fgb:
         post_id: '102880'

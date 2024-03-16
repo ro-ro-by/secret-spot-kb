@@ -1,9 +1,9 @@
-id: 'sight:fgb:99268'
+id: 'sight-fgb-99268'
 title: 'Малая Каменка'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vtb'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vtb'
 images:
     -
         file: 4d5f1a504997c946f5952695c21cf421.jpg

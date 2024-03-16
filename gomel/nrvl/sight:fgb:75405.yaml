@@ -1,9 +1,9 @@
-id: 'sight:fgb:75405'
+id: 'sight-fgb-75405'
 title: Криницы
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:nrvl'
+    region: 'region-gomel'
+    subregion: 'subregion-nrvl'
 location:
     -
         type: point

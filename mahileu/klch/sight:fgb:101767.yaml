@@ -1,9 +1,9 @@
-id: 'sight:fgb:101767'
+id: 'sight-fgb-101767'
 title: 'Родник Альховка'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 images:
     -
         file: 00249208aec301dde6f90db9804811da.jpg

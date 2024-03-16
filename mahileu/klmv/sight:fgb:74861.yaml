@@ -1,9 +1,9 @@
-id: 'sight:fgb:74861'
+id: 'sight-fgb-74861'
 title: 'Диконова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klmv'
+    region: 'region-mahileu'
+    subregion: 'subregion-klmv'
 images:
     -
         file: a052b07030b1919a8ca37e2015fdf1f3.jpg

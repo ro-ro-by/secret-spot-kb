@@ -1,9 +1,9 @@
-id: 'sight:fgb:76669'
+id: 'sight-fgb-76669'
 title: 'Святого Петра'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: dc06823542b22ddb5f84fc04bb307a7e.jpg

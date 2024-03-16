@@ -1,9 +1,9 @@
-id: 'sight:fgb:75585'
+id: 'sight-fgb-75585'
 title: 'Белы Камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 73b05529057ea7b5619e4f576e91f855.jpg

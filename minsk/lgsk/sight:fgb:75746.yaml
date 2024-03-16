@@ -1,9 +1,9 @@
-id: 'sight:fgb:75746'
+id: 'sight-fgb-75746'
 title: 'Буры камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '75746'

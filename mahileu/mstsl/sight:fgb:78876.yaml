@@ -1,9 +1,9 @@
-id: 'sight:fgb:78876'
+id: 'sight-fgb-78876'
 title: 'Родник у Чёрной речки'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 1fbd4ffa2226f2b94bec20ed80aab4ac.jpg

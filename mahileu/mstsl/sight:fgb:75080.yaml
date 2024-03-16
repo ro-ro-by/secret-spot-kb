@@ -1,9 +1,9 @@
-id: 'sight:fgb:75080'
+id: 'sight-fgb-75080'
 title: 'Родник Пустынский в часовне'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 817f8b710b0615f3ec858f01827130fd.jpg

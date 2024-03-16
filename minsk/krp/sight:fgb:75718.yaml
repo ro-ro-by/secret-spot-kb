@@ -1,9 +1,9 @@
-id: 'sight:fgb:75718'
+id: 'sight-fgb-75718'
 title: 'Божье кресло из д. Сомры'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 6e0e6bdc00710ebe038f3d87c84729da.jpg

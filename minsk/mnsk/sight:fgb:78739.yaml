@@ -1,9 +1,9 @@
-id: 'sight:fgb:78739'
+id: 'sight-fgb-78739'
 title: Партизанский
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: f33366cea63ab803eb9bcf72f7b53535.jpg

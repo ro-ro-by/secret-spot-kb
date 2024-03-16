@@ -1,9 +1,9 @@
-id: 'sight:fgb:78659'
+id: 'sight-fgb-78659'
 title: 'Жаралавая вада (Святых Маккавеев) / Культовый камень с 2 лунками'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 86eca50d289c44cc95d87e97c6b31af0.jpg

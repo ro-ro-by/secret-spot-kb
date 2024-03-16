@@ -1,9 +1,9 @@
-id: 'sight:fgb:76003'
+id: 'sight-fgb-76003'
 title: 'Святое озеро'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: 5a4c45259a396aedd7b7fc9b34b810f5.jpg

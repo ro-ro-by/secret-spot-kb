@@ -1,9 +1,9 @@
-id: 'sight:fgb:78345'
+id: 'sight-fgb-78345'
 title: Турский
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 meta:
     fgb:
         post_id: '78345'

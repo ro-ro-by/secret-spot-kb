@@ -1,9 +1,9 @@
-id: 'sight:fgb:77614'
+id: 'sight-fgb-77614'
 title: 'Дуб №2'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 images:
     -
         file: 70ac5f5474e88e5d9f2c6f6db25aaecb.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:79460'
+id: 'sight-fgb-79460'
 title: 'На Ученической (Грандичи)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: d423a8cdaa673fb8c50f85d36e41a8cf.jpg

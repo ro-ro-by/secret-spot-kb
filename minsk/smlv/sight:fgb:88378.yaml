@@ -1,9 +1,9 @@
-id: 'sight:fgb:88378'
+id: 'sight-fgb-88378'
 title: Домашаны
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: fa72ecdb3d39ce8c807aa6b5f7aca2db.jpg

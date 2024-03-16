@@ -1,9 +1,9 @@
-id: 'sight:fgb:97340'
+id: 'sight-fgb-97340'
 title: Комаришки
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 images:
     -
         file: d47c48c3b153a9ae538a148de113633f.jpg

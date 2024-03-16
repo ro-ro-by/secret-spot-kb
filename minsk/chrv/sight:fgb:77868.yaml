@@ -1,9 +1,9 @@
-id: 'sight:fgb:77868'
+id: 'sight-fgb-77868'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:chrv'
+    region: 'region-minsk'
+    subregion: 'subregion-chrv'
 images:
     -
         file: 8e38a9e43a492f575c0fc2c99451c13f.jpg

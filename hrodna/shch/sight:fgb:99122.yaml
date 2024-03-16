@@ -1,9 +1,9 @@
-id: 'sight:fgb:99122'
+id: 'sight-fgb-99122'
 title: 'Камень-следавік (Дзынговы камень)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: 5bc8b88bcc63cd381d0e472ff54fe86a.jpg

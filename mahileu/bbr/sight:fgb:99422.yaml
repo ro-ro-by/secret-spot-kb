@@ -1,9 +1,9 @@
-id: 'sight:fgb:99422'
+id: 'sight-fgb-99422'
 title: Бювет
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 location:
     -
         type: point

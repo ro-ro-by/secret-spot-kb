@@ -1,9 +1,9 @@
-id: 'sight:fgb:102424'
+id: 'sight-fgb-102424'
 title: 'Студня Одельская (Зруй)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: b928f9d41a1cca514a529ca354ff7f50.jpg

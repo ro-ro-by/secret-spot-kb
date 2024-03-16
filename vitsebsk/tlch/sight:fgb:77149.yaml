@@ -1,9 +1,9 @@
-id: 'sight:fgb:77149'
+id: 'sight-fgb-77149'
 title: 'Ревучая криница (Петропавловская)'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 images:
     -
         file: 709736a9f699508eb58dfb96603ea464.jpg

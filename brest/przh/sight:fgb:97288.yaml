@@ -1,9 +1,9 @@
-id: 'sight:fgb:97288'
+id: 'sight-fgb-97288'
 title: Камень-следовик
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: 422342c9367a158c85b1577d1a0dca99.jpg

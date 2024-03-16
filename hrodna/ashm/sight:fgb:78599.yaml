@@ -1,9 +1,9 @@
-id: 'sight:fgb:78599'
+id: 'sight-fgb-78599'
 title: 'Исток Вильни'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 meta:
     fgb:
         post_id: '78599'

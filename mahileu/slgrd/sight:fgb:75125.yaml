@@ -1,9 +1,9 @@
-id: 'sight:fgb:75125'
+id: 'sight-fgb-75125'
 title: "Шведова криница\t(кипящие ключи)"
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 location:
     -
         type: point

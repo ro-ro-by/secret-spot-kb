@@ -1,9 +1,9 @@
-id: 'sight:fgb:100067'
+id: 'sight-fgb-100067'
 title: 'Сіні камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: dc1a617418f9fd4051106b19fdfe4c96.jpg

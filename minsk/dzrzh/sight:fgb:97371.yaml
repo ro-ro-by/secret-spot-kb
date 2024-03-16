@@ -1,9 +1,9 @@
-id: 'sight:fgb:97371'
+id: 'sight-fgb-97371'
 title: Богдашевских
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: 3e610c55d7c0340a61bf52c621b45ba5.jpg

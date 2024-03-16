@@ -1,9 +1,9 @@
-id: 'sight:fgb:99097'
+id: 'sight-fgb-99097'
 title: Кринички
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: ebdd1b72df0130307574df60362fd133.jpg

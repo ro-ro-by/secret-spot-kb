@@ -1,9 +1,9 @@
-id: 'sight:fgb:74599'
+id: 'sight-fgb-74599'
 title: 'Ставы-2 (У лесника)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: a578323b6b97473386f40a9f768db47b.jpg

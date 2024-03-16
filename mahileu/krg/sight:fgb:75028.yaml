@@ -1,9 +1,9 @@
-id: 'sight:fgb:75028'
+id: 'sight-fgb-75028'
 title: Щиток
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 images:
     -
         file: daa989618c18c1ecccbed1b0fa649047.jpg

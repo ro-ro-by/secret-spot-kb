@@ -1,9 +1,9 @@
-id: 'sight:fgb:77131'
+id: 'sight-fgb-77131'
 title: 'Родник Песчанка'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 images:
     -
         file: 2a114b17fa154e723a428cd2085af854.jpg

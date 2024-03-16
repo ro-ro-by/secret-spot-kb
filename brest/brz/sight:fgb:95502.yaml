@@ -1,9 +1,9 @@
-id: 'sight:fgb:95502'
+id: 'sight-fgb-95502'
 title: Бусловка
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 images:
     -
         file: 3890bf500c1d7ebcfcd0bacfae02f2ef.jpg

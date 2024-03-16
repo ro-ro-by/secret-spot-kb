@@ -1,9 +1,9 @@
-id: 'sight:fgb:83202'
+id: 'sight-fgb-83202'
 title: Бояры-1
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: b672901519f11e360896fb119b5d396f.jpg

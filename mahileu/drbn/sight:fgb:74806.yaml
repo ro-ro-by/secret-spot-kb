@@ -1,9 +1,9 @@
-id: 'sight:fgb:74806'
+id: 'sight-fgb-74806'
 title: Дрибинский
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 location:
     -
         type: point

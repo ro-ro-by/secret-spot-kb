@@ -1,9 +1,9 @@
-id: 'sight:fgb:97019'
+id: 'sight-fgb-97019'
 title: Логойск-3
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: b95657b1b9b9bcc3172b63f0a2c6e83e.jpg

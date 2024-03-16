@@ -1,9 +1,9 @@
-id: 'sight:fgb:75218'
+id: 'sight-fgb-75218'
 title: 'Лодзикова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 meta:
     fgb:
         post_id: '75218'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97338'
+id: 'sight-fgb-97338'
 title: Вяз-старожил
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 75bf76e95fae59135629109ad3621e86.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74701'
+id: 'sight-fgb-74701'
 title: Лозы
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:stln'
+    region: 'region-brest'
+    subregion: 'subregion-stln'
 meta:
     fgb:
         post_id: '74701'

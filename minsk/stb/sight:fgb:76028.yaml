@@ -1,9 +1,9 @@
-id: 'sight:fgb:76028'
+id: 'sight-fgb-76028'
 title: 'Чортаў камень (Шавец)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: f344eac42e926aadb9561ff9d64dcfa7.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77731'
+id: 'sight-fgb-77731'
 title: 'Валун Большой камень кревский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 72fa445d4a93b40432cc2c5f48eac569.jpg

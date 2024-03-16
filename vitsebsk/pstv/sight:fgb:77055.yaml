@@ -1,9 +1,9 @@
-id: 'sight:fgb:77055'
+id: 'sight-fgb-77055'
 title: 'Полесские пригорки'
 type: hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 images:
     -
         file: 95e9514af35a8fa8555e60eec6aba31e.jpg

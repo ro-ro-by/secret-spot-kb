@@ -1,9 +1,9 @@
-id: 'sight:fgb:79438'
+id: 'sight-fgb-79438'
 title: Бискупцы
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 72f854e71c225992682d9424d74c197b.jpg

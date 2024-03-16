@@ -1,9 +1,9 @@
-id: 'sight:fgb:100136'
+id: 'sight-fgb-100136'
 title: 'Каменная ступа (Дайніца)'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '100136'

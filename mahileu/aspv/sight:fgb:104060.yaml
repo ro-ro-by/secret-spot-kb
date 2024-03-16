@@ -1,9 +1,9 @@
-id: 'sight:fgb:104060'
+id: 'sight-fgb-104060'
 title: Лапичи
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 location:
     -
         type: point

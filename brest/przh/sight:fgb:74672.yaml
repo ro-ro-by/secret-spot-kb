@@ -1,9 +1,9 @@
-id: 'sight:fgb:74672'
+id: 'sight-fgb-74672'
 title: 'Линовский пихтарник'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: bd5f47b9d59d860af2496bc17c473e07.jpg

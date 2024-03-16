@@ -1,9 +1,9 @@
-id: 'sight:fgb:75604'
+id: 'sight-fgb-75604'
 title: 'Гора Ходчиха'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 1fee3db7d318d17e22e0d98ce13c5c02.jpg

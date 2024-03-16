@@ -1,9 +1,9 @@
-id: 'sight:fgb:97066'
+id: 'sight-fgb-97066'
 title: 'Каменный крест'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 images:
     -
         file: 422ad28e9cd5f83aca72a10013146e98.jpg

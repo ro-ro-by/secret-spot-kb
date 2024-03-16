@@ -1,9 +1,9 @@
-id: 'sight:fgb:75341'
+id: 'sight-fgb-75341'
 title: 'Придорожная (№3)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 5576d3cdcbe8e5dfb0239e427ecd7c24.jpg

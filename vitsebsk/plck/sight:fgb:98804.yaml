@@ -1,9 +1,9 @@
-id: 'sight:fgb:98804'
+id: 'sight-fgb-98804'
 title: 'Парк Рудня'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '98804'

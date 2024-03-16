@@ -1,9 +1,9 @@
-id: 'sight:fgb:75299'
+id: 'sight-fgb-75299'
 title: 'Булавина криница'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 meta:
     fgb:
         post_id: '75299'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:83687'
+id: 'sight-fgb-83687'
 title: 'Кардашова криница'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '83687'

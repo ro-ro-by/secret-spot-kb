@@ -1,9 +1,9 @@
-id: 'sight:fgb:101899'
+id: 'sight-fgb-101899'
 title: 'Камень с надписями'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 93c990f9b2dfc8c9fc30e3f409d6cdf8.jpg

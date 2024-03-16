@@ -1,9 +1,9 @@
-id: 'sight:fgb:77130'
+id: 'sight-fgb-77130'
 title: 'Родник Капличка'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 images:
     -
         file: 959296dc42ac131237c89633db64a14f.jpg

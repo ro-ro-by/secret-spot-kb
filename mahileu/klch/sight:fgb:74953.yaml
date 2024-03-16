@@ -1,9 +1,9 @@
-id: 'sight:fgb:74953'
+id: 'sight-fgb-74953'
 title: 'Криница колхоза им.Ленина (1)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 images:
     -
         file: 772d4ede440b7d5faa42f3ea8d66b3ab.jpg

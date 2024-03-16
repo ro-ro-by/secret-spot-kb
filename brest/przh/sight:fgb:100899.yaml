@@ -1,9 +1,9 @@
-id: 'sight:fgb:100899'
+id: 'sight-fgb-100899'
 title: Камень-крэсла
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: 5f58b468a6005daded603964c9456ba1.jpg

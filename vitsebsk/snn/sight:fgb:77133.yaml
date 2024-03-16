@@ -1,9 +1,9 @@
-id: 'sight:fgb:77133'
+id: 'sight-fgb-77133'
 title: 'След Черта, След Медведя'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 images:
     -
         file: 10b3812387cb699bdb5263a27d357fc1.jpg

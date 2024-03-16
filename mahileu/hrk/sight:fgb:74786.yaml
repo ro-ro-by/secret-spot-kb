@@ -1,9 +1,9 @@
-id: 'sight:fgb:74786'
+id: 'sight-fgb-74786'
 title: 'На Лесной'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 location:
     -
         type: point

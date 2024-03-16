@@ -1,9 +1,9 @@
-id: 'sight:fgb:75036'
+id: 'sight-fgb-75036'
 title: 'На Победе'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:101269'
+id: 'sight-fgb-101269'
 title: 'Насаждение старинной усадьбы в деревне Заполье'
 type: forest
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 27b637ee573ebfcc858be4cb3894dbe5.jpg

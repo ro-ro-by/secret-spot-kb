@@ -1,9 +1,9 @@
-id: 'sight:fgb:101040'
+id: 'sight-fgb-101040'
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 meta:
     fgb:
         post_id: '101040'

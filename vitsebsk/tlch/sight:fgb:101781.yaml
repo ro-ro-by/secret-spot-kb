@@ -1,9 +1,9 @@
-id: 'sight:fgb:101781'
+id: 'sight-fgb-101781'
 title: 'Родник святителя Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 images:
     -
         file: 3327b672ed08e3c85bf9f069bb1f1063.jpg

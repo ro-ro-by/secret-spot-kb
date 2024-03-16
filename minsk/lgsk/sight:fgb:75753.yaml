@@ -1,9 +1,9 @@
-id: 'sight:fgb:75753'
+id: 'sight-fgb-75753'
 title: 'Святой родник (Святой Троицы)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 location:
     -
         type: point

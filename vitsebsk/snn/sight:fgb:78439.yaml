@@ -1,9 +1,9 @@
-id: 'sight:fgb:78439'
+id: 'sight-fgb-78439'
 title: 'Колодец Куповать'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 images:
     -
         file: 1635c1cc01f62b9d5f51467fb6fe3fcf.jpg

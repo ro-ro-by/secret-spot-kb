@@ -1,9 +1,9 @@
-id: 'sight:fgb:75956'
+id: 'sight-fgb-75956'
 title: 'Дубово-лиственная аллея'
 type: alley
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: c2741b79d2b4aed566e6b686f782607b.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74667'
+id: 'sight-fgb-74667'
 title: 'Рудка (Евгении Янищиц)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 images:
     -
         file: 8cfcf18222dfbbca2a4786d103f8ed2d.jpg

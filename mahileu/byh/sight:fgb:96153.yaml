@@ -1,9 +1,9 @@
-id: 'sight:fgb:96153'
+id: 'sight-fgb-96153'
 title: 'Святой Варвары'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 images:
     -
         file: bd0e566cadd3440a63a42fda75728e77.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75687'
+id: 'sight-fgb-75687'
 title: 'Родник Бобр'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 5a5d2e8d25e9eb53b2686277f012dd58.jpg

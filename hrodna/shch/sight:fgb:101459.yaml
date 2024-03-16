@@ -1,9 +1,9 @@
-id: 'sight:fgb:101459'
+id: 'sight-fgb-101459'
 title: 'Памятник усадебно-парковой архитектуры ХХ века Лебёдка Ивановская'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: f36dfa849193805c4fb4517337490529.jpg

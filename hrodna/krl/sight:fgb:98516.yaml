@@ -1,9 +1,9 @@
-id: 'sight:fgb:98516'
+id: 'sight-fgb-98516'
 title: 'Парк Обрина'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 meta:
     fgb:
         post_id: '98516'

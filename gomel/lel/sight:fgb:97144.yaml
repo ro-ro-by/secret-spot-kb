@@ -1,9 +1,9 @@
-id: 'sight:fgb:97144'
+id: 'sight-fgb-97144'
 title: 'Каменный идол'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 images:
     -
         file: abf92cc1658e19dae829a6587703b81d.jpg

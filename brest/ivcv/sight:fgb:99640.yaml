@@ -1,9 +1,9 @@
-id: 'sight:fgb:99640'
+id: 'sight-fgb-99640'
 title: 'Парк Ивацевичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivcv'
+    region: 'region-brest'
+    subregion: 'subregion-ivcv'
 meta:
     fgb:
         post_id: '99640'

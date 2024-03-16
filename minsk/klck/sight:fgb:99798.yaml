@@ -1,9 +1,9 @@
-id: 'sight:fgb:99798'
+id: 'sight-fgb-99798'
 title: Курлянда
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:klck'
+    region: 'region-minsk'
+    subregion: 'subregion-klck'
 images:
     -
         file: 8b0e540a7d842189583c51cf1cdfa8c8.jpg

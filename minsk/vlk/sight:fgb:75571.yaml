@@ -1,9 +1,9 @@
-id: 'sight:fgb:75571'
+id: 'sight-fgb-75571'
 title: 'Большой камень русскосельский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 0455a92016e245acdf47530d848012be.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77335'
+id: 'sight-fgb-77335'
 title: 'Чертов Камень гродненский (Камень-печ)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 1f927c105a1d60f78c064de3dbbec3d9.jpg

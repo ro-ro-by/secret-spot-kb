@@ -1,9 +1,9 @@
-id: 'sight:fgb:86905'
+id: 'sight-fgb-86905'
 title: Маккавеев
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:drb'
+    region: 'region-gomel'
+    subregion: 'subregion-drb'
 meta:
     fgb:
         post_id: '86905'

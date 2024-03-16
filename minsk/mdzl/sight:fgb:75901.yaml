@@ -1,9 +1,9 @@
-id: 'sight:fgb:75901'
+id: 'sight-fgb-75901'
 title: 'Валун Большой камень красницкий'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 5c10a43c4ac0016d69139d5db98fa229.jpg

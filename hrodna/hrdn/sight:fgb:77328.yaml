@@ -1,9 +1,9 @@
-id: 'sight:fgb:77328'
+id: 'sight-fgb-77328'
 title: 'Геологический конгломерат'
-type: сonglomerate
+type: conglomerate
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: f131bbbbc13f8a894de4ddcdee5ac97b.jpg

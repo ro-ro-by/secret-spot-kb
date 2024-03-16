@@ -1,9 +1,9 @@
-id: 'sight:fgb:75435'
+id: 'sight-fgb-75435'
 title: 'Произрастание дуба и других деревьев'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rgch'
+    region: 'region-gomel'
+    subregion: 'subregion-rgch'
 forest:
     dominated_type: oak
 images:

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77734'
+id: 'sight-fgb-77734'
 title: 'Валун Каменицкий'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 7d7b1df2f0e35a0d8431a42e9498c70d.jpg

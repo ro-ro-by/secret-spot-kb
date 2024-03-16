@@ -1,9 +1,9 @@
-id: 'sight:fgb:76812'
+id: 'sight-fgb-76812'
 title: Царь-дуб
 type: tree
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 tree:
     type: oak
 meta:

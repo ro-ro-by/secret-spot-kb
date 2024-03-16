@@ -1,9 +1,9 @@
-id: 'sight:fgb:74700'
+id: 'sight-fgb-74700'
 title: 'Солдатский Юрок'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:stln'
+    region: 'region-brest'
+    subregion: 'subregion-stln'
 meta:
     fgb:
         post_id: '74700'

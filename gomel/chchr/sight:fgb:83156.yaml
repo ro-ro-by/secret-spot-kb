@@ -1,9 +1,9 @@
-id: 'sight:fgb:83156'
+id: 'sight-fgb-83156'
 title: Гибусовых
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: 68dc66f65bd71b54b827f431d410f9bb.jpg

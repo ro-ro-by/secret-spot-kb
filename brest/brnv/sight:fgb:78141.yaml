@@ -1,9 +1,9 @@
-id: 'sight:fgb:78141'
+id: 'sight-fgb-78141'
 title: 'Родник Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 969408161848b819138cb7b9a010e2f4.jpg

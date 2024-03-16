@@ -1,9 +1,9 @@
-id: 'sight:fgb:96123'
+id: 'sight-fgb-96123'
 title: 'Парк Малые Щитники'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '96123'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77017'
+id: 'sight-fgb-77017'
 title: 'Гомельский родник, Гомля'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 images:
     -
         file: ac4046429ea6ccf9938864889d6e4a86.jpg

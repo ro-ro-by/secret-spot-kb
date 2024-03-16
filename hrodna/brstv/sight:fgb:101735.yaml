@@ -1,9 +1,9 @@
-id: 'sight:fgb:101735'
+id: 'sight-fgb-101735'
 title: 'Вековые дубы в окрестностях деревни Князевичи'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 tree:
     type: oak
 location:

@@ -1,9 +1,9 @@
-id: 'sight:fgb:88123'
+id: 'sight-fgb-88123'
 title: Плёсы
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 4190b88d4a1e6231a4403897b9e78584.jpg

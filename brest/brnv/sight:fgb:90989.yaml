@@ -1,9 +1,9 @@
-id: 'sight:fgb:90989'
+id: 'sight-fgb-90989'
 title: Цементовая
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 location:
     -
         type: point

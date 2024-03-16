@@ -1,9 +1,9 @@
-id: 'sight:fgb:99646'
+id: 'sight-fgb-99646'
 title: 'Парк Турна'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 meta:
     fgb:
         post_id: '99646'

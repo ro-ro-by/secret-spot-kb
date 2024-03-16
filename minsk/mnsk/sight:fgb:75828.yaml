@@ -1,9 +1,9 @@
-id: 'sight:fgb:75828'
+id: 'sight-fgb-75828'
 title: Волас
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 1f601a591e9db8a581024b9d09a1c964.jpg

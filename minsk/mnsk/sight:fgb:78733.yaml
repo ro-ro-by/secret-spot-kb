@@ -1,9 +1,9 @@
-id: 'sight:fgb:78733'
+id: 'sight-fgb-78733'
 title: 'Бювет в Малиновке'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 90acc9b898fc4fc594266fe8392ccfdc.jpg

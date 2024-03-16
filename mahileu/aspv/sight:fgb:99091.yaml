@@ -1,9 +1,9 @@
-id: 'sight:fgb:99091'
+id: 'sight-fgb-99091'
 title: 'У дамбы'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 0735b4584f037479d4961991cc449eb4.jpg

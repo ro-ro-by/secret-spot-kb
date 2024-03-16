@@ -1,9 +1,9 @@
-id: 'sight:fgb:100847'
+id: 'sight-fgb-100847'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stdrg'
+    region: 'region-minsk'
+    subregion: 'subregion-stdrg'
 meta:
     fgb:
         post_id: '100847'

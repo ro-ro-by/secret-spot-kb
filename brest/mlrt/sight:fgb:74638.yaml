@@ -1,9 +1,9 @@
-id: 'sight:fgb:74638'
+id: 'sight-fgb-74638'
 title: 'Дуб-патриарх «Пожежинский»'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:mlrt'
+    region: 'region-brest'
+    subregion: 'subregion-mlrt'
 images:
     -
         file: 023ded392f1b84c3220b24a2c4d5b472.jpg

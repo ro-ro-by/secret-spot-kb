@@ -1,9 +1,9 @@
-id: 'sight:fgb:77535'
+id: 'sight-fgb-77535'
 title: 'Валун Большой камень побоевский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 images:
     -
         file: a9deb950dc04a2e9401fc424b44a7948.jpg

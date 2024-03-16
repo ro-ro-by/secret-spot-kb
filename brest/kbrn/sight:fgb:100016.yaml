@@ -1,9 +1,9 @@
-id: 'sight:fgb:100016'
+id: 'sight-fgb-100016'
 title: 'Вялікі камень'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 meta:
     fgb:
         post_id: '100016'

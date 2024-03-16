@@ -1,9 +1,9 @@
-id: 'sight:fgb:78767'
+id: 'sight-fgb-78767'
 title: 'Рождества Пресвятой Богородицы'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: 487117e15734c6937bfbdf03288df45e.jpg

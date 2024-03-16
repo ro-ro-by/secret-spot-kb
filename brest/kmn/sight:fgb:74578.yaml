@@ -1,9 +1,9 @@
-id: 'sight:fgb:74578'
+id: 'sight-fgb-74578'
 title: 'Старинный парк Гремяча'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: f64aef28dc1b1ebd7d44f1fab5cec527.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99643'
+id: 'sight-fgb-99643'
 title: 'Парк Бучемль'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 meta:
     fgb:
         post_id: '99643'

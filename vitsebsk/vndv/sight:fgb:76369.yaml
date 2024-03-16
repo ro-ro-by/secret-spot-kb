@@ -1,9 +1,9 @@
-id: 'sight:fgb:76369'
+id: 'sight-fgb-76369'
 title: 'Мини-парк И. Храповицкого (Парк Кохановичи, Сквер Храповицкого)'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 images:
     -
         file: a185f0acec8715b72aa55cbc30b48c58.jpg

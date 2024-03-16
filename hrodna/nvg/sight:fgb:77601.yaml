@@ -1,9 +1,9 @@
-id: 'sight:fgb:77601'
+id: 'sight-fgb-77601'
 title: 'У Колодезной башни (Замковый)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 67d2399ed2339b8b5acb5a3a9500bad3.jpg

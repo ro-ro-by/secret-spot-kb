@@ -1,9 +1,9 @@
-id: 'sight:fgb:75877'
+id: 'sight-fgb-75877'
 title: 'Гора Маяк'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 4fe599f5d60a0e5de546bb42a33bbc3f.jpg

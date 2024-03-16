@@ -1,9 +1,9 @@
-id: 'sight:fgb:75840'
+id: 'sight-fgb-75840'
 title: 'Бювет на Сердича'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: f1b8bebb8fff59848c8310187559bf76.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75883'
+id: 'sight-fgb-75883'
 title: 'Криница Богдановича'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: c210314cede90d77f36f705d55c013d6.jpg

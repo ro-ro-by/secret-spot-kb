@@ -1,9 +1,9 @@
-id: 'sight:fgb:78118'
+id: 'sight-fgb-78118'
 title: (№15)
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivcv'
+    region: 'region-brest'
+    subregion: 'subregion-ivcv'
 meta:
     fgb:
         post_id: '78118'

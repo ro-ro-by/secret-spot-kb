@@ -1,9 +1,9 @@
-id: 'sight:fgb:100911'
+id: 'sight-fgb-100911'
 title: 'Камень кахання'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 meta:
     fgb:
         post_id: '100911'

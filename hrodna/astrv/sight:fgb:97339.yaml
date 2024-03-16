@@ -1,9 +1,9 @@
-id: 'sight:fgb:97339'
+id: 'sight-fgb-97339'
 title: 'Островецкая дубрава'
 type: forest
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 forest:
     dominated_type: oak
     types:

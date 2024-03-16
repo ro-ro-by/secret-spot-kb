@@ -1,9 +1,9 @@
-id: 'sight:fgb:78110'
+id: 'sight-fgb-78110'
 title: Святой
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 location:
     -
         type: point

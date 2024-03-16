@@ -1,9 +1,9 @@
-id: 'sight:fgb:75897'
+id: 'sight-fgb-75897'
 title: 'Валун Большой камень бояровский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: c9557a76ff81f6bee9326ad4faabc376.jpg

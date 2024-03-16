@@ -1,9 +1,9 @@
-id: 'sight:fgb:102821'
+id: 'sight-fgb-102821'
 title: 'Каралевы Боны'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '102821'

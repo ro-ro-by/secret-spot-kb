@@ -1,9 +1,9 @@
-id: 'sight:fgb:74577'
+id: 'sight-fgb-74577'
 title: 'Родник Ставы (Свято Михайловский)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: e80352b26007219956453751e4582c57.jpg

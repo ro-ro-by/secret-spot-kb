@@ -1,9 +1,9 @@
-id: 'sight:fgb:77227'
+id: 'sight-fgb-77227'
 title: 'Парк Оболь'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 meta:
     fgb:
         post_id: '77227'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:90050'
+id: 'sight-fgb-90050'
 title: 'Прилуки-2 (около бровара)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 3941993a73c8250fcd4d0d203c98550b.jpg

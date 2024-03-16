@@ -1,9 +1,9 @@
-id: 'sight:fgb:70744'
+id: 'sight-fgb-70744'
 title: 'Старинный парк Крошинский'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: b2f5fd0f3bd47546cf6e0e44caee1424.jpg

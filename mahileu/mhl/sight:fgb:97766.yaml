@@ -1,9 +1,9 @@
-id: 'sight:fgb:97766'
+id: 'sight-fgb-97766'
 title: Семукачи
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: 4fd9c3217a2c6d97ca6a516b06d247d5.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78113'
+id: 'sight-fgb-78113'
 title: 'Леплёвка (Кемпа)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 1ce0a4043d77f25af6a42fbf96cb4ae7.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74949'
+id: 'sight-fgb-74949'
 title: 'ООПТ КЛИЧЕВСКОГО ЛЕСХОЗА'
 type: TODO
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 images:
     -
         file: 2086e0768b4be9e2f0a496283fcfd5ee.jpg

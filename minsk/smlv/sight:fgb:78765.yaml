@@ -1,9 +1,9 @@
-id: 'sight:fgb:78765'
+id: 'sight-fgb-78765'
 title: 'Казацкая (???)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 location:
     -
         type: point

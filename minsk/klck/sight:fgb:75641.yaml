@@ -1,9 +1,9 @@
-id: 'sight:fgb:75641'
+id: 'sight-fgb-75641'
 title: 'Парк Раздивиллимонты'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:klck'
+    region: 'region-minsk'
+    subregion: 'subregion-klck'
 images:
     -
         file: e97036270d3769a462c66769822e50e2.jpg

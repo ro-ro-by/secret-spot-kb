@@ -1,9 +1,9 @@
-id: 'sight:fgb:100110'
+id: 'sight-fgb-100110'
 title: 'Звінячы камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 87f3cae90f2874464479e0cf103fe9cb.jpg

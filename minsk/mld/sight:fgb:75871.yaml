@@ -1,9 +1,9 @@
-id: 'sight:fgb:75871'
+id: 'sight-fgb-75871'
 title: 'Лесные культуры с участием пихты белой'
 type: forest
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 forest:
     types:
         - fir

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77318'
+id: 'sight-fgb-77318'
 title: 'Гродненская пуща'
 type: area
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 6cd0f21e799e9b46f8658c6b6be7b7ae.jpg

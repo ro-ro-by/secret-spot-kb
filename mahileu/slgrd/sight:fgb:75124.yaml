@@ -1,9 +1,9 @@
-id: 'sight:fgb:75124'
+id: 'sight-fgb-75124'
 title: 'Панская криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 location:
     -
         type: point

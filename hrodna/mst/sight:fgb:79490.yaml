@@ -1,9 +1,9 @@
-id: 'sight:fgb:79490'
+id: 'sight-fgb-79490'
 title: Зельвянёнок
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '79490'

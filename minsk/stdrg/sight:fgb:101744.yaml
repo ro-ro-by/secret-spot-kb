@@ -1,9 +1,9 @@
-id: 'sight:fgb:101744'
+id: 'sight-fgb-101744'
 title: 'Широколиственное насаждение Стародорожского лесхоза'
 type: forest
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stdrg'
+    region: 'region-minsk'
+    subregion: 'subregion-stdrg'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75573'
+id: 'sight-fgb-75573'
 title: 'Гора Мироткова'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: deed72e3bd50839fce1660e068c247a2.jpg

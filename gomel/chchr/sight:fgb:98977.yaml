@@ -1,9 +1,9 @@
-id: 'sight:fgb:98977'
+id: 'sight-fgb-98977'
 title: Холочье
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: 1600a420520d20b9b2264669e88f0149.jpg

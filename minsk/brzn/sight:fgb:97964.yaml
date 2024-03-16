@@ -1,9 +1,9 @@
-id: 'sight:fgb:97964'
+id: 'sight-fgb-97964'
 title: 'Каменны крыж'
 type: stone
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 images:
     -
         file: 35e9aeb6dc2a8693393600238ba25eec.jpg

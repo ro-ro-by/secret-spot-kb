@@ -1,9 +1,9 @@
-id: 'sight:fgb:96101'
+id: 'sight-fgb-96101'
 title: Сита
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 images:
     -
         file: 2c1804626887ef7342c777fbb43a8b9d.jpg

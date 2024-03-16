@@ -1,9 +1,9 @@
-id: 'sight:fgb:78592'
+id: 'sight-fgb-78592'
 title: 'Королевский ручей'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 meta:
     fgb:
         post_id: '78592'

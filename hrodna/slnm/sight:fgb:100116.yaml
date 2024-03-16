@@ -1,9 +1,9 @@
-id: 'sight:fgb:100116'
+id: 'sight-fgb-100116'
 title: 'Сіні камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 meta:
     fgb:
         post_id: '100116'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:76810'
+id: 'sight-fgb-76810'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 29c912188c089ad8a0c21f41f48ef308.jpg

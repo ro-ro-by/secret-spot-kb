@@ -1,9 +1,9 @@
-id: 'sight:fgb:96493'
+id: 'sight-fgb-96493'
 title: Видуш-гора
 type: hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lnn'
+    region: 'region-brest'
+    subregion: 'subregion-lnn'
 location:
     -
         type: point

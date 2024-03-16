@@ -1,9 +1,9 @@
-id: 'sight:fgb:98610'
+id: 'sight-fgb-98610'
 title: 'Парк Марьина Горка'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 meta:
     fgb:
         post_id: '98610'

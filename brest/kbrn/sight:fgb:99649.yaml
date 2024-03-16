@@ -1,9 +1,9 @@
-id: 'sight:fgb:99649'
+id: 'sight-fgb-99649'
 title: 'Парк Литвиново'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 meta:
     fgb:
         post_id: '99649'

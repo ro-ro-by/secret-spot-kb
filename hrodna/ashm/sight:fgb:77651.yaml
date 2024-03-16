@@ -1,9 +1,9 @@
-id: 'sight:fgb:77651'
+id: 'sight-fgb-77651'
 title: 'Огородникский большой камень'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: 3d64dc5df08288464a13ef4fc1a6266d.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75819'
+id: 'sight-fgb-75819'
 title: 'Обнажение Заславль'
 type: outcrop
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 4085da6efcf400f75a2d39e1e3b340ef.jpg

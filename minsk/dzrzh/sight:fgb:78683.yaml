@@ -1,9 +1,9 @@
-id: 'sight:fgb:78683'
+id: 'sight-fgb-78683'
 title: Станьково
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: e91a8d2ac3ff1f7def2db43e2b7388f6.jpg

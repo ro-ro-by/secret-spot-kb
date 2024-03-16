@@ -1,9 +1,9 @@
-id: 'sight:fgb:100047'
+id: 'sight-fgb-100047'
 title: 'Чортаў камень (Чортава Пліта, Чортава Печ)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 9dc3f98d487af653c4e2654180386c9f.jpg

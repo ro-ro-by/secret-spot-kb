@@ -1,9 +1,9 @@
-id: 'sight:fgb:75077'
+id: 'sight-fgb-75077'
 title: 'Кагальный колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 77e74c98280ec1b95294aba2df887b2a.jpg

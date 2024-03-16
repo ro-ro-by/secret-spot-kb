@@ -1,9 +1,9 @@
-id: 'sight:fgb:103097'
+id: 'sight-fgb-103097'
 title: 'Таўкач (Таўкачык)'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '103097'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99816'
+id: 'sight-fgb-99816'
 title: 'Лекавы камень (След Хрыста)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: 5cc5f19fd432aaa5fdf7785c89fe9a78.jpg

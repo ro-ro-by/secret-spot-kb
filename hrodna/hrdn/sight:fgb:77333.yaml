@@ -1,9 +1,9 @@
-id: 'sight:fgb:77333'
+id: 'sight-fgb-77333'
 title: 'Группа валунов Святская'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 071aad8dd6795dc631ebe1472fb390e1.jpg

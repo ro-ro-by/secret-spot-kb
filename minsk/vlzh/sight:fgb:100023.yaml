@@ -1,9 +1,9 @@
-id: 'sight:fgb:100023'
+id: 'sight-fgb-100023'
 title: 'Акамянелы кравец (шавец - ?)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '100023'

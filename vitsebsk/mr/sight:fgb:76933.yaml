@@ -1,9 +1,9 @@
-id: 'sight:fgb:76933'
+id: 'sight-fgb-76933'
 title: 'Чистая дубрава Язненская'
 type: forest
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 forest:
     dominated_type: oak
     types:

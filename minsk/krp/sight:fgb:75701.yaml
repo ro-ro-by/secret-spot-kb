@@ -1,9 +1,9 @@
-id: 'sight:fgb:75701'
+id: 'sight-fgb-75701'
 title: '494 км'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: cb382403d61a8218292e0081e7717903.jpg

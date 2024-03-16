@@ -1,9 +1,9 @@
-id: 'sight:fgb:78586'
+id: 'sight-fgb-78586'
 title: Збойск
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: d5ecdfc8df9bf43190739ea5984f3f72.jpg

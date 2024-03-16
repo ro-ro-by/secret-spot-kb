@@ -1,9 +1,9 @@
-id: 'sight:fgb:75566'
+id: 'sight-fgb-75566'
 title: Реутка
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 139ebc313a8b73f6c417138b97554e87.jpg

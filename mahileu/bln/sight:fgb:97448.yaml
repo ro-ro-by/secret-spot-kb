@@ -1,9 +1,9 @@
-id: 'sight:fgb:97448'
+id: 'sight-fgb-97448'
 title: 'Аверкава криница (Фамильный)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: 089761b85fee09e1ba6bd218481b4868.jpg

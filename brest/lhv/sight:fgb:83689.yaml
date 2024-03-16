@@ -1,9 +1,9 @@
-id: 'sight:fgb:83689'
+id: 'sight-fgb-83689'
 title: 'У Бакасова рва'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '83689'

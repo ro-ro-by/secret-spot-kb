@@ -1,9 +1,9 @@
-id: 'sight:fgb:83230'
+id: 'sight-fgb-83230'
 title: 'Родник Карцевичи'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 160635ebc720b58831a0bf3044f0461e.jpg

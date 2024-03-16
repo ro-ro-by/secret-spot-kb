@@ -1,9 +1,9 @@
-id: 'sight:fgb:99418'
+id: 'sight-fgb-99418'
 title: Борок
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75429'
+id: 'sight-fgb-75429'
 title: 'Два дуба'
 type: tree
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 images:
     -
         file: 4b76261bc05f269e6632186892692f10.jpg

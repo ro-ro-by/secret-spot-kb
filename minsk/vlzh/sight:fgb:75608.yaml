@@ -1,9 +1,9 @@
-id: 'sight:fgb:75608'
+id: 'sight-fgb-75608'
 title: 'Конгломерат Святой камень" бузуновский'
-type: сonglomerate
+type: conglomerate
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 61dcd28a537eb60f2b165682335f872c.jpg

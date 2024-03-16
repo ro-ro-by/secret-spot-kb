@@ -1,9 +1,9 @@
-id: 'sight:fgb:75999'
+id: 'sight-fgb-75999'
 title: Величковичи
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: 9e159b15501ea51bb44f27480104d99f.jpg

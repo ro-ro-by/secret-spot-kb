@@ -1,9 +1,9 @@
-id: 'sight:fgb:101738'
+id: 'sight-fgb-101738'
 title: 'Вековые дубы в окрестностях деревни Миклашовцы'
 type: forest
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 forest:
     dominated_type: oak
 location:

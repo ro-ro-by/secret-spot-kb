@@ -1,9 +1,9 @@
-id: 'sight:fgb:75619'
+id: 'sight-fgb-75619'
 title: 'Родник Воложинский'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 1486d673284ab3fb35ad25b234242655.jpg

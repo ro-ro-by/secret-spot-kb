@@ -1,9 +1,9 @@
-id: 'sight:fgb:100127'
+id: 'sight-fgb-100127'
 title: 'Божы камень (Камень Ісуса Хрыста)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:uzd'
+    region: 'region-minsk'
+    subregion: 'subregion-uzd'
 images:
     -
         file: 1d9721473eeecd3178d663d6b6aa05d4.jpg

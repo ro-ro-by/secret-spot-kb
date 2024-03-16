@@ -1,9 +1,9 @@
-id: 'sight:fgb:92220'
+id: 'sight-fgb-92220'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 7c96414d33ee3936c0c25719a7e0e4e1.jpg

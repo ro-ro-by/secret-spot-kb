@@ -1,9 +1,9 @@
-id: 'sight:fgb:76805'
+id: 'sight-fgb-76805'
 title: 'Чертовы Жернова (Чертова Мельница)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: ee971fbea9c0e6133d192c7e9b08b178.jpg

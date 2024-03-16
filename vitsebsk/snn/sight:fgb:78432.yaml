@@ -1,9 +1,9 @@
-id: 'sight:fgb:78432'
+id: 'sight-fgb-78432'
 title: Ильянка
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:snn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-snn'
 location:
     -
         type: point

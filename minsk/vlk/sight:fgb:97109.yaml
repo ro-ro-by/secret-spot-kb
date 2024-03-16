@@ -1,9 +1,9 @@
-id: 'sight:fgb:97109'
+id: 'sight-fgb-97109'
 title: 'Каменная чаша'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: e3e37e44a7090ad263ba5145ddd8140c.jpg

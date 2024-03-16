@@ -1,9 +1,9 @@
-id: 'sight:fgb:103723'
+id: 'sight-fgb-103723'
 title: 'Сакава гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '103723'

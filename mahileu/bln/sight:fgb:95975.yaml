@@ -1,9 +1,9 @@
-id: 'sight:fgb:95975'
+id: 'sight-fgb-95975'
 title: 'Родник Крынки'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: a8b315e732f3f75bd28b869ccaf374d4.jpg

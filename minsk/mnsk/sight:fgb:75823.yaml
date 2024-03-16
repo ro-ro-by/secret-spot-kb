@@ -1,9 +1,9 @@
-id: 'sight:fgb:75823'
+id: 'sight-fgb-75823'
 title: 'Роговский родник (Святого Яна)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 9a826022e0bfe7d7a9087907d09c8413.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78572'
+id: 'sight-fgb-78572'
 title: 'Каменка - 1'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 8f8be2bfd5049d30885468bfd1480e8b.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:76031'
+id: 'sight-fgb-76031'
 title: 'Синява (Столбцовский)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: 074d37144e7a7ba03c2835b4ad73c1a5.jpg

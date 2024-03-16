@@ -1,9 +1,9 @@
-id: 'sight:fgb:101463'
+id: 'sight-fgb-101463'
 title: 'Двухсотлетние сосны Белогрудские'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 3aa78db6f47818766accede74a91ab05.jpg

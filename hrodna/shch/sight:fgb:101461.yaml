@@ -1,9 +1,9 @@
-id: 'sight:fgb:101461'
+id: 'sight-fgb-101461'
 title: 'Дубрава в окрестностях деревни Лещанка'
 type: forest
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 forest:
     dominated_type: oak
     types:

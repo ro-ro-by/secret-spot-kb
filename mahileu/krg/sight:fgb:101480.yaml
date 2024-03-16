@@ -1,9 +1,9 @@
-id: 'sight:fgb:101480'
+id: 'sight-fgb-101480'
 title: 'Вековой дуб Белыничского лесхоза'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 images:
     -
         file: ef5560afcd041016e259b9129a8e6de4.jpg

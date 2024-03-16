@@ -1,9 +1,9 @@
-id: 'sight:fgb:100007'
+id: 'sight-fgb-100007'
 title: 'Паклонны камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 meta:
     fgb:
         post_id: '100007'

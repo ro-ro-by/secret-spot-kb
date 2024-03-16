@@ -1,9 +1,9 @@
-id: 'sight:fgb:75336'
+id: 'sight-fgb-75336'
 title: 'Иванов (№24)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 location:
     -
         type: point

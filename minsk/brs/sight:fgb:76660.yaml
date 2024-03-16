@@ -1,9 +1,9 @@
-id: 'sight:fgb:76660'
+id: 'sight-fgb-76660'
 title: Иканы
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 1ac3fe04a6110e8b5f334ca55e86dbe1.jpg

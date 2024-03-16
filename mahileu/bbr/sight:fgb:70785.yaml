@@ -1,9 +1,9 @@
-id: 'sight:fgb:70785'
+id: 'sight-fgb-70785'
 title: Дубрава
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 forest:
     dominated_type: oak
     types:

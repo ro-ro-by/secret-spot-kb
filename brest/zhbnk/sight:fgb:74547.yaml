@@ -1,9 +1,9 @@
-id: 'sight:fgb:74547'
+id: 'sight-fgb-74547'
 title: 'Мемориальный каменный крест'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:zhbnk'
+    region: 'region-brest'
+    subregion: 'subregion-zhbnk'
 images:
     -
         file: 9104a102cc32ba8ec231285b147ff3f8.png

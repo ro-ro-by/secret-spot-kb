@@ -1,9 +1,9 @@
-id: 'sight:fgb:103000'
+id: 'sight-fgb-103000'
 title: 'Змеева (Красная) гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '103000'

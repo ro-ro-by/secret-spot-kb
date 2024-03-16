@@ -1,9 +1,9 @@
-id: 'sight:fgb:91049'
+id: 'sight-fgb-91049'
 title: 'Помещика Пищало-2 (Городищанский-4)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 6273265b803e5d7674cdf0c6dfecb6e4.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74800'
+id: 'sight-fgb-74800'
 title: Домановский
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: 5eccd43afc77905917c89896fff53ead.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75885'
+id: 'sight-fgb-75885'
 title: Бортники
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 7320b014d835aa4f954c9db3047c465a.jpg

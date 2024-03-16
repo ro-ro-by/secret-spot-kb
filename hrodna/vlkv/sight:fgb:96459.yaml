@@ -1,9 +1,9 @@
-id: 'sight:fgb:96459'
+id: 'sight-fgb-96459'
 title: 'Парк Гнезно'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 13f1029ae0e8e09cee1d9d5face0682a.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74661'
+id: 'sight-fgb-74661'
 title: 'Около деревни Дубое'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 meta:
     fgb:
         post_id: '74661'

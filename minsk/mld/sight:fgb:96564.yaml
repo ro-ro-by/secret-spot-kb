@@ -1,9 +1,9 @@
-id: 'sight:fgb:96564'
+id: 'sight-fgb-96564'
 title: 'Сосна Веймутова'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 5147d87c15092cd6d23a8393d5cb444c.jpg

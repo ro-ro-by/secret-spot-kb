@@ -1,9 +1,9 @@
-id: 'sight:fgb:100430'
+id: 'sight-fgb-100430'
 title: 'Вялікі камень багатырэвіцкі'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '100430'

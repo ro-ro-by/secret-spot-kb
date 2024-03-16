@@ -1,9 +1,9 @@
-id: 'sight:fgb:101756'
+id: 'sight-fgb-101756'
 title: 'Балыкинской иконы Божией Матери'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 6b61191bfbe8246d6e1a50a4ef155330.jpg

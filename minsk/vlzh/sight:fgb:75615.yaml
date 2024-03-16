@@ -1,9 +1,9 @@
-id: 'sight:fgb:75615'
+id: 'sight-fgb-75615'
 title: 'Амилина гора'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 552d98c44e9a002ed99575d081f7cbfd.jpg

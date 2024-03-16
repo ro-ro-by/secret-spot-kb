@@ -1,9 +1,9 @@
-id: 'sight:fgb:98881'
+id: 'sight-fgb-98881'
 title: 'Парк Лынтупы'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 meta:
     fgb:
         post_id: '98881'

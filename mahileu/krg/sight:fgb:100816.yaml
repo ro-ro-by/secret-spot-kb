@@ -1,9 +1,9 @@
-id: 'sight:fgb:100816'
+id: 'sight-fgb-100816'
 title: 'След Святога'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 meta:
     fgb:
         post_id: '100816'

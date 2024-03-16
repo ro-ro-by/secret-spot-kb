@@ -1,9 +1,9 @@
-id: 'sight:fgb:92272'
+id: 'sight-fgb-92272'
 title: 'Родник Блонь'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: cc36c8e64787e8b2f19bd50dbfabe410.jpg

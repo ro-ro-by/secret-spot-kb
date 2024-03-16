@@ -1,9 +1,9 @@
-id: 'sight:fgb:92240'
+id: 'sight-fgb-92240'
 title: 'У Яна (Яна Купала, Щитно, Лососин)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: dfc32c9bf96cdbde4363aab1f309c8cd.jpg

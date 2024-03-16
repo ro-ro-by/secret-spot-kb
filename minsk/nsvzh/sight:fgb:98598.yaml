@@ -1,9 +1,9 @@
-id: 'sight:fgb:98598'
+id: 'sight-fgb-98598'
 title: 'Студня Ундины'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 3d0803814398a32ae04bcd58d9e09838.jpg

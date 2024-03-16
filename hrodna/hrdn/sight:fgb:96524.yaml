@@ -1,9 +1,9 @@
-id: 'sight:fgb:96524'
+id: 'sight-fgb-96524'
 title: 'Парк в окрестностях деревни Кашубинцы'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 817fe879a0e808cedefc17bb05718578.jpg

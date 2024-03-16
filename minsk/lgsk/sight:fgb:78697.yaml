@@ -1,9 +1,9 @@
-id: 'sight:fgb:78697'
+id: 'sight-fgb-78697'
 title: Добренево
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: c1ef7070429ef73c259b38a1f6efad99.jpg

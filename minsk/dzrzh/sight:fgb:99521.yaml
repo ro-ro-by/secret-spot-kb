@@ -1,9 +1,9 @@
-id: 'sight:fgb:99521'
+id: 'sight-fgb-99521'
 title: 'Надпись из деревьев "СССР ПОЛЕТ ЛЕНИНУ 100"'
 type: geoglyph
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 location:
     -
         type: point

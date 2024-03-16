@@ -1,9 +1,9 @@
-id: 'sight:fgb:75184'
+id: 'sight-fgb-75184'
 title: 'В Заречье'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 location:
     -
         type: point

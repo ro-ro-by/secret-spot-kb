@@ -1,9 +1,9 @@
-id: 'sight:fgb:100119'
+id: 'sight-fgb-100119'
 title: 'Тадэвушаў камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: 429e8744d7f1b01d21a7051eebb26ba3.jpg

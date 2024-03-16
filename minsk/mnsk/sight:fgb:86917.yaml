@@ -1,9 +1,9 @@
-id: 'sight:fgb:86917'
+id: 'sight-fgb-86917'
 title: Крыжовка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 8f7645989d448ab8362f94ff2f67871a.jpg

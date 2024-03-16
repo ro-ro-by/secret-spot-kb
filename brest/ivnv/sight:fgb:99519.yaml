@@ -1,9 +1,9 @@
-id: 'sight:fgb:99519'
+id: 'sight-fgb-99519'
 title: 'Тышковичский груд'
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivnv'
+    region: 'region-brest'
+    subregion: 'subregion-ivnv'
 images:
     -
         file: f12e03e573fd2f00251e52a69bc70b7f.jpg

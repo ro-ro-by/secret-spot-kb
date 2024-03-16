@@ -1,9 +1,9 @@
-id: 'sight:fgb:100033'
+id: 'sight-fgb-100033'
 title: 'Камень Валы'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: a7655846b1beaf222a552613cd2ebb3f.jpg

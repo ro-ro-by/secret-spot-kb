@@ -1,9 +1,9 @@
-id: 'sight:fgb:99131'
+id: 'sight-fgb-99131'
 title: 'Бородичи-2. Надмогильный камень с изображениями и надписями.'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: 0f76c4c4daf4e36a2dd307c2fbf60c11.jpg

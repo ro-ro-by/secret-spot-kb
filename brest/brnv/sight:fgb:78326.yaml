@@ -1,9 +1,9 @@
-id: 'sight:fgb:78326'
+id: 'sight-fgb-78326'
 title: Тиунцы
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 6bdd705a795ebcd12127e97b6b046a63.jpg

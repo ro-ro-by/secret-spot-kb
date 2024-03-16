@@ -1,9 +1,9 @@
-id: 'sight:fgb:100019'
+id: 'sight-fgb-100019'
 title: 'Гуд і Кумар'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 meta:
     fgb:
         post_id: '100019'

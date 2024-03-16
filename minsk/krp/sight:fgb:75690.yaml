@@ -1,9 +1,9 @@
-id: 'sight:fgb:75690'
+id: 'sight-fgb-75690'
 title: 'Родник Лесной'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 1241969371f9b7e74813d2bc7027af93.jpg

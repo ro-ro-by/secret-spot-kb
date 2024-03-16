@@ -1,9 +1,9 @@
-id: 'sight:fgb:99028'
+id: 'sight-fgb-99028'
 title: Лохницкое
 type: area
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 images:
     -
         file: 5c3a1d137c3d62c7439035f99bda1089.jpg

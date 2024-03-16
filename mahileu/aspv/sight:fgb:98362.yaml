@@ -1,9 +1,9 @@
-id: 'sight:fgb:98362'
+id: 'sight-fgb-98362'
 title: 'Камень (столб) со знаками (?)'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 89d7ef45819c442016c49b899fccf25c.jpg

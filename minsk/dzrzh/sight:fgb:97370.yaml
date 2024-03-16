@@ -1,9 +1,9 @@
-id: 'sight:fgb:97370'
+id: 'sight-fgb-97370'
 title: 'Исток Новосёлки'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 location:
     -
         type: point

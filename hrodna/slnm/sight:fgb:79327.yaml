@@ -1,9 +1,9 @@
-id: 'sight:fgb:79327'
+id: 'sight-fgb-79327'
 title: Панасовка-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 3c4336adf64296a6902dd204c0d13508.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99933'
+id: 'sight-fgb-99933'
 title: 'Скамянелая вёска'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 meta:
     fgb:
         post_id: '99933'

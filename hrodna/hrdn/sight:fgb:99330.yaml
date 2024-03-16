@@ -1,9 +1,9 @@
-id: 'sight:fgb:99330'
+id: 'sight-fgb-99330'
 title: 'Базылёва криница'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99330'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:103002'
+id: 'sight-fgb-103002'
 title: 'Гуменная гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:hncv'
+    region: 'region-brest'
+    subregion: 'subregion-hncv'
 meta:
     fgb:
         post_id: '103002'

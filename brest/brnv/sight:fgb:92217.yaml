@@ -1,9 +1,9 @@
-id: 'sight:fgb:92217'
+id: 'sight-fgb-92217'
 title: Хатки-2
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 434c2c874fc5f677929b849f69216eff.jpg

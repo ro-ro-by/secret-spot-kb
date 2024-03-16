@@ -1,9 +1,9 @@
-id: 'sight:fgb:75567'
+id: 'sight-fgb-75567'
 title: 'Большой камень дядичский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: a4a6f2654af8a80a0255ed752096eaa4.jpg

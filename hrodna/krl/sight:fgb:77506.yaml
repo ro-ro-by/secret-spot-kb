@@ -1,9 +1,9 @@
-id: 'sight:fgb:77506'
+id: 'sight-fgb-77506'
 title: 'Обнажение Тимошковичи'
 type: outcrop
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 images:
     -
         file: 1e51e9b7618e39b014619d3aaf163bec.jpg

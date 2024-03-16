@@ -1,9 +1,9 @@
-id: 'sight:fgb:97375'
+id: 'sight-fgb-97375'
 title: Василёк
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: d4a8bf2e0fa323feb2482c39c78fd99c.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74572'
+id: 'sight-fgb-74572'
 title: 'Тумин (Святой источник в честь святого велекомученника и целителя Пантелеимона)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: 8952dadedcc9482e93bc4a553965e9e2.jpg

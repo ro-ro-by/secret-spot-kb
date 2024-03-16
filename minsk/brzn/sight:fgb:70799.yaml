@@ -1,9 +1,9 @@
-id: 'sight:fgb:70799'
+id: 'sight-fgb-70799'
 title: 'Обнажение Мурова'
 type: outcrop
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 images:
     -
         file: 5e93de790a50b4f9c96b075593892e96.jpg

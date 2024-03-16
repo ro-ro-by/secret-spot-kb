@@ -1,9 +1,9 @@
-id: 'sight:fgb:75859'
+id: 'sight-fgb-75859'
 title: 'Ясень Александровского сквера'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 4fd60e1ccf2a1f7895a0ea656be7ddeb.jpg

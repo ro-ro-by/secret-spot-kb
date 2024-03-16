@@ -1,9 +1,9 @@
-id: 'sight:fgb:100818'
+id: 'sight-fgb-100818'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 meta:
     fgb:
         post_id: '100818'

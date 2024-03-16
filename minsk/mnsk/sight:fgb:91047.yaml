@@ -1,9 +1,9 @@
-id: 'sight:fgb:91047'
+id: 'sight-fgb-91047'
 title: Городищанский-2
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: a1d914d548f062fcf5313da373641864.jpg

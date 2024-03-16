@@ -1,9 +1,9 @@
-id: 'sight:fgb:77393'
+id: 'sight-fgb-77393'
 title: 'Державной иконы Божией Матери'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: b2d5029d306bf3b7a916c2b6dca44f99.jpg

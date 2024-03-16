@@ -1,9 +1,9 @@
-id: 'sight:fgb:83232'
+id: 'sight-fgb-83232'
 title: Малево-2
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 81a60c61566dfff9ae1c87d5d385e2b9.jpg

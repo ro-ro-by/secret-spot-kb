@@ -1,9 +1,9 @@
-id: 'sight:fgb:96437'
+id: 'sight-fgb-96437'
 title: 'Парк Здравнево'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vtb'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vtb'
 images:
     -
         file: 57d0441cb5f0dd92ab734241a3cca96b.jpg

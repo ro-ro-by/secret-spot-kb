@@ -1,9 +1,9 @@
-id: 'sight:fgb:99623'
+id: 'sight-fgb-99623'
 title: 'Парк Бурдыковщина'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 meta:
     fgb:
         post_id: '99623'

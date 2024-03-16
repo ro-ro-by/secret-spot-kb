@@ -1,9 +1,9 @@
-id: 'sight:fgb:77525'
+id: 'sight-fgb-77525'
 title: 'Парк Горни'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 0230efb46d111fb010dc9e0ef88fd552.jpg

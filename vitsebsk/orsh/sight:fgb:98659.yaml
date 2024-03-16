@@ -1,9 +1,9 @@
-id: 'sight:fgb:98659'
+id: 'sight-fgb-98659'
 title: 'Дуб черешчатый'
 type: tree
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 tree:
     type: oak
 location:

@@ -1,9 +1,9 @@
-id: 'sight:fgb:70755'
+id: 'sight-fgb-70755'
 title: 'След Божьей Матери, След Волата, След Асилка'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: fc4224b68447b95efb48bdbda02e5800.jpg

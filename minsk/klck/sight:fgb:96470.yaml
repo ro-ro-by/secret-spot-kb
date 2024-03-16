@@ -1,9 +1,9 @@
-id: 'sight:fgb:96470'
+id: 'sight-fgb-96470'
 title: 'Парк Дунайчицы'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:klck'
+    region: 'region-minsk'
+    subregion: 'subregion-klck'
 images:
     -
         file: a1aa9902a3ec5a78610383d3ac756979.jpg

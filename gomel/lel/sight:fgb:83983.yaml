@@ -1,9 +1,9 @@
-id: 'sight:fgb:83983'
+id: 'sight-fgb-83983'
 title: 'Осов - 2'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 images:
     -
         file: 0439808c17c82a9e3bbb3e94875e6f73.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:76728'
+id: 'sight-fgb-76728'
 title: Мнюта
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 images:
     -
         file: 744fcc0d0e90063562cf0dbcb6b838ba.jpg

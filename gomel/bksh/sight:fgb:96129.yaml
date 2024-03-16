@@ -1,9 +1,9 @@
-id: 'sight:fgb:96129'
+id: 'sight-fgb-96129'
 title: 'Парк Рогинь'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:bksh'
+    region: 'region-gomel'
+    subregion: 'subregion-bksh'
 images:
     -
         file: ab1f20aab8870c77ba509121535f3890.jpg

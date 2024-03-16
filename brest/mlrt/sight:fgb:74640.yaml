@@ -1,9 +1,9 @@
-id: 'sight:fgb:74640'
+id: 'sight-fgb-74640'
 title: Гусак
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:mlrt'
+    region: 'region-brest'
+    subregion: 'subregion-mlrt'
 images:
     -
         file: 22555eb8dce87aa5c14488fbfac6eaf4.jpg

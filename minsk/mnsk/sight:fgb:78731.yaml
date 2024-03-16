@@ -1,9 +1,9 @@
-id: 'sight:fgb:78731'
+id: 'sight-fgb-78731'
 title: 'Бювет на Матусевича'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: adcc372e78601382df99eaf9dffe8fea.jpg

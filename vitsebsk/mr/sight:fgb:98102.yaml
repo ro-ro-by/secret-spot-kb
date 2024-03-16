@@ -1,9 +1,9 @@
-id: 'sight:fgb:98102'
+id: 'sight-fgb-98102'
 title: 'Камень-следовик (след Божьей Матери)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 images:
     -
         file: 4064c87bef6584e1388e0fe3578255ef.jpg

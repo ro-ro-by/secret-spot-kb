@@ -1,9 +1,9 @@
-id: 'sight:fgb:75649'
+id: 'sight-fgb-75649'
 title: 'Дерево Черная береза'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 images:
     -
         file: 787c8baf0b2b493c45b8b4f21f6d6373.jpg
