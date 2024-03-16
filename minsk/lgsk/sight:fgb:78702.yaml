@@ -1,9 +1,9 @@
-id: 'sight-fgb-78702'
+id: sight-fgb-78702
 title: 'Карпиловский парк'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-lgsk'
+    region: region-minsk
+    subregion: subregion-lgsk
 meta:
     fgb:
         post_id: '78702'

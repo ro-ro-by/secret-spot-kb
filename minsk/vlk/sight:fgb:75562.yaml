@@ -1,9 +1,9 @@
-id: 'sight-fgb-75562'
+id: sight-fgb-75562
 title: 'Парк Любань'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 images:
     -
         file: f8fc60c60a08eed89b4c5070488806c6.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74771'
+id: sight-fgb-74771
 title: 'Гагуткова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hlsk'
+    region: region-mahileu
+    subregion: subregion-hlsk
 meta:
     fgb:
         post_id: '74771'

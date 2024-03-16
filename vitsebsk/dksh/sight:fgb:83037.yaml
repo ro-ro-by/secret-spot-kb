@@ -1,9 +1,9 @@
-id: 'sight-fgb-83037'
+id: sight-fgb-83037
 title: 'Шведский колодец'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-dksh'
+    region: region-vitsebsk
+    subregion: subregion-dksh
 images:
     -
         file: b63f3d7180e8fe059d31132fdd5e957b.jpg

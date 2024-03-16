@@ -1,9 +1,9 @@
-id: 'sight-fgb-96114'
+id: sight-fgb-96114
 title: Жуково
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: e40f3557ec7113ef1b7100e1ba69f519.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78726'
+id: sight-fgb-78726
 title: 'Питьевой фонтан на Волоха'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: f024e2d516ac9c62ee40c59d83eb4de7.jpg

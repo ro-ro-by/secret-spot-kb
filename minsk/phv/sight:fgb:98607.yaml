@@ -1,9 +1,9 @@
-id: 'sight-fgb-98607'
+id: sight-fgb-98607
 title: 'Дукорский парк'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 meta:
     fgb:
         post_id: '98607'

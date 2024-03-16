@@ -1,9 +1,9 @@
-id: 'sight-fgb-78496'
+id: sight-fgb-78496
 title: 'Святого Иоанна Кормянского'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-drb'
+    region: region-gomel
+    subregion: subregion-drb
 images:
     -
         file: de2b0d7e144dee448b6460aaf3952ab2.jpg

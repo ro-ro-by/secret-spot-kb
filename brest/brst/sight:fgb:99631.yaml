@@ -1,9 +1,9 @@
-id: 'sight-fgb-99631'
+id: sight-fgb-99631
 title: 'Парк Кустынь'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 meta:
     fgb:
         post_id: '99631'

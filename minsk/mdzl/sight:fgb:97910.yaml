@@ -1,9 +1,9 @@
-id: 'sight-fgb-97910'
+id: sight-fgb-97910
 title: 'Петров хутор'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 images:
     -
         file: 699e632d1105618d924ec8a645f4ffda.jpg

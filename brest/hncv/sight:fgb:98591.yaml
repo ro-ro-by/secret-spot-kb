@@ -1,9 +1,9 @@
-id: 'sight-fgb-98591'
+id: sight-fgb-98591
 title: 'Начевская аллея'
 type: alley
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-hncv'
+    region: region-brest
+    subregion: subregion-hncv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-76681'
+id: sight-fgb-76681
 title: 'Плисский камовый массив'
 type: area
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-hlbk'
+    region: region-vitsebsk
+    subregion: subregion-hlbk
 location:
     -
         type: geojson

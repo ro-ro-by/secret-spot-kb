@@ -1,9 +1,9 @@
-id: 'sight-fgb-99522'
+id: sight-fgb-99522
 title: Камень-следовик
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 24223ca3296b1180ac85e1fe63fa6cf2.jpg

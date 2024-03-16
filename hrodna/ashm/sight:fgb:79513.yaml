@@ -1,9 +1,9 @@
-id: 'sight-fgb-79513'
+id: sight-fgb-79513
 title: Карабань
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 meta:
     fgb:
         post_id: '79513'

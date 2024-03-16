@@ -1,9 +1,9 @@
-id: 'sight-fgb-90049'
+id: sight-fgb-90049
 title: 'Всехсвятский бювет'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: f2a43df0307855f8e4223d877e44b489.jpg

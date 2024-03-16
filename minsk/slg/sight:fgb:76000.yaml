@@ -1,9 +1,9 @@
-id: 'sight-fgb-76000'
+id: sight-fgb-76000
 title: 'Ковалева Лоза'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-slg'
+    region: region-minsk
+    subregion: subregion-slg
 images:
     -
         file: ae32247969e355caa1e6ca4a96a32aa8.jpg

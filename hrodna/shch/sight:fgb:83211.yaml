@@ -1,9 +1,9 @@
-id: 'sight-fgb-83211'
+id: sight-fgb-83211
 title: Перекоп
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 images:
     -
         file: 97a347c87593c43ba5b171641ee84a2d.jpg

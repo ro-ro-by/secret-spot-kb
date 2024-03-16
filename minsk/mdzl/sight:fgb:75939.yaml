@@ -1,9 +1,9 @@
-id: 'sight-fgb-75939'
+id: sight-fgb-75939
 title: 'Виктосева Криница'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 images:
     -
         file: efafcbc299120ac066b36b7b49ccadfc.jpg

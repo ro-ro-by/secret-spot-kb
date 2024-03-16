@@ -1,9 +1,9 @@
-id: 'sight-fgb-75303'
+id: sight-fgb-75303
 title: 'Обнажение Лоев'
 type: outcrop
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-loeu'
+    region: region-gomel
+    subregion: subregion-loeu
 images:
     -
         file: cf91fe9be9cb01db994b795cdc969984.jpg

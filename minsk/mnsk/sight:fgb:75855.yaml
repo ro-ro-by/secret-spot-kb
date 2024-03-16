@@ -1,9 +1,9 @@
-id: 'sight-fgb-75855'
+id: sight-fgb-75855
 title: 'Целебный источник'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 location:
     -
         type: point

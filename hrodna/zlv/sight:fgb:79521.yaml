@@ -1,9 +1,9 @@
-id: 'sight-fgb-79521'
+id: sight-fgb-79521
 title: 'Матчины слёзы'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 images:
     -
         file: 3e063148a461ac7b25d5ff100665461f.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75654'
+id: sight-fgb-75654
 title: 'Шпаковщина (Криница)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 location:
     -
         type: point

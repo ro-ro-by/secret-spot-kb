@@ -1,9 +1,9 @@
-id: 'sight-fgb-98609'
+id: sight-fgb-98609
 title: 'Парк Замостье'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 meta:
     fgb:
         post_id: '98609'

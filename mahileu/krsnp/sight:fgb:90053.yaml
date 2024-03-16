@@ -1,9 +1,9 @@
-id: 'sight-fgb-90053'
+id: sight-fgb-90053
 title: 'На Калинина'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-krsnp'
+    region: region-mahileu
+    subregion: subregion-krsnp
 images:
     -
         file: d9aa4bbc9832ee3beb72d1a45eb0179c.jpg

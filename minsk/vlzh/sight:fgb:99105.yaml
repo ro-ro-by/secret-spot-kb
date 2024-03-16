@@ -1,9 +1,9 @@
-id: 'sight-fgb-99105'
+id: sight-fgb-99105
 title: 'Киевецкий (Стенки)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlzh'
+    region: region-minsk
+    subregion: subregion-vlzh
 images:
     -
         file: 0d1883b463d16c98d857129c95a95e10.jpg

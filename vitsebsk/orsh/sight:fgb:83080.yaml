@@ -1,9 +1,9 @@
-id: 'sight-fgb-83080'
+id: sight-fgb-83080
 title: Боровцы
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 images:
     -
         file: 047c699d1e390fe1b0f02ae9a138fe9d.jpg

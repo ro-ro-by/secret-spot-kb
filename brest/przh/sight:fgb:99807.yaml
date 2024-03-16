@@ -1,9 +1,9 @@
-id: 'sight-fgb-99807'
+id: sight-fgb-99807
 title: 'Камень следовик'
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 images:
     -
         file: f6182042c75e639114562cbaae1563fd.jpg

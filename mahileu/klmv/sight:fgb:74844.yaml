@@ -1,9 +1,9 @@
-id: 'sight-fgb-74844'
+id: sight-fgb-74844
 title: НизОк
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-klmv'
+    region: region-mahileu
+    subregion: subregion-klmv
 location:
     -
         type: point

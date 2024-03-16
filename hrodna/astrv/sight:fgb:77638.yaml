@@ -1,9 +1,9 @@
-id: 'sight-fgb-77638'
+id: sight-fgb-77638
 title: 'Янова Криница'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 meta:
     fgb:
         post_id: '77638'

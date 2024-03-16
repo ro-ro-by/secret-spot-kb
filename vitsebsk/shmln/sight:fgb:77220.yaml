@@ -1,9 +1,9 @@
-id: 'sight-fgb-77220'
+id: sight-fgb-77220
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-shmln'
+    region: region-vitsebsk
+    subregion: subregion-shmln
 images:
     -
         file: 61027842a4d75989d03efb66d4db79e4.jpg

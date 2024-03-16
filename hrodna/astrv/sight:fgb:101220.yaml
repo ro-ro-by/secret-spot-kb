@@ -1,9 +1,9 @@
-id: 'sight-fgb-101220'
+id: sight-fgb-101220
 title: 'Вековые дубы в городе Островец'
 type: tree
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 tree:
     type: oak
 location:

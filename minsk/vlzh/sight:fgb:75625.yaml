@@ -1,9 +1,9 @@
-id: 'sight-fgb-75625'
+id: sight-fgb-75625
 title: 'Каменная чаша'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlzh'
+    region: region-minsk
+    subregion: subregion-vlzh
 images:
     -
         file: 999a3cfd630039a2cff0d09fd268599a.jpg

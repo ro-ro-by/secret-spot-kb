@@ -1,9 +1,9 @@
-id: 'sight-fgb-101162'
+id: sight-fgb-101162
 title: 'Камень з малюнкам чалавека са зброяй'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-krsk'
+    region: region-mahileu
+    subregion: subregion-krsk
 images:
     -
         file: f3ffcab582f2e8510a47c6edd65212d4.jpg

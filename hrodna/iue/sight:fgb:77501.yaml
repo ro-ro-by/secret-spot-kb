@@ -1,9 +1,9 @@
-id: 'sight-fgb-77501'
+id: sight-fgb-77501
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-iue'
+    region: region-hrodna
+    subregion: subregion-iue
 meta:
     fgb:
         post_id: '77501'

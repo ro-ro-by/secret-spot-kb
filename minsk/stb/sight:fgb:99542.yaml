@@ -1,9 +1,9 @@
-id: 'sight-fgb-99542'
+id: sight-fgb-99542
 title: Мацейчекова-2
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stb'
+    region: region-minsk
+    subregion: subregion-stb
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98928'
+id: sight-fgb-98928
 title: Паричи-3
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-svlg'
+    region: region-gomel
+    subregion: subregion-svlg
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98398'
+id: sight-fgb-98398
 title: 'Парк Ходоровка'
 type: park
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-dksh'
+    region: region-vitsebsk
+    subregion: subregion-dksh
 meta:
     fgb:
         post_id: '98398'

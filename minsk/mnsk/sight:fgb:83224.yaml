@@ -1,9 +1,9 @@
-id: 'sight-fgb-83224'
+id: sight-fgb-83224
 title: Лошица
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: f1258f21352885219e8803685917ec1d.jpg

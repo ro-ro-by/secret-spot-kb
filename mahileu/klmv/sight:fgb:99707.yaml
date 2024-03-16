@@ -1,9 +1,9 @@
-id: 'sight-fgb-99707'
+id: sight-fgb-99707
 title: Криница-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-klmv'
+    region: region-mahileu
+    subregion: subregion-klmv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74723'
+id: sight-fgb-74723
 title: 'Жидковичский (Святая криница)'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 location:
     -
         type: point

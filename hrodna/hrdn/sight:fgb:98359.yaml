@@ -1,9 +1,9 @@
-id: 'sight-fgb-98359'
+id: sight-fgb-98359
 title: Галактика
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 6df7143615ba9b5f0d4bb39329ecc656.jpg

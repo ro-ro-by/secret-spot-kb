@@ -1,9 +1,9 @@
-id: 'sight-fgb-93544'
+id: sight-fgb-93544
 title: Рудаковский-2
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 location:
     -
         type: point

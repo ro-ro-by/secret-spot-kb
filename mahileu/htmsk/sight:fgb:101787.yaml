@@ -1,9 +1,9 @@
-id: 'sight-fgb-101787'
+id: sight-fgb-101787
 title: Расчистки
 type: area
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-htmsk'
+    region: region-mahileu
+    subregion: subregion-htmsk
 location:
     -
         type: geojson

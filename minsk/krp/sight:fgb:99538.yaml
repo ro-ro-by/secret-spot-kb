@@ -1,9 +1,9 @@
-id: 'sight-fgb-99538'
+id: sight-fgb-99538
 title: 'Старый Сокол-1'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 location:
     -
         type: point

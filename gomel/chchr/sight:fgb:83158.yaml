@@ -1,9 +1,9 @@
-id: 'sight-fgb-83158'
+id: sight-fgb-83158
 title: 'Парк Осиновка'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 meta:
     fgb:
         post_id: '83158'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-96112'
+id: sight-fgb-96112
 title: 'У шлюза-1 (Калдубец)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: f2f5032997efc51e8f8ff63395707217.jpg

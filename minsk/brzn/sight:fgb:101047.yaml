@@ -1,9 +1,9 @@
-id: 'sight-fgb-101047'
+id: sight-fgb-101047
 title: 'Камень са знакам'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brzn'
+    region: region-minsk
+    subregion: subregion-brzn
 meta:
     fgb:
         post_id: '101047'

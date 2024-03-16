@@ -1,9 +1,9 @@
-id: 'sight-fgb-95966'
+id: sight-fgb-95966
 title: 'Парк Торчицы'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 0a7ec8c649a247e2279fc05290acc8d2.jpg

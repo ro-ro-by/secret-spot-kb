@@ -1,9 +1,9 @@
-id: 'sight-fgb-77135'
+id: sight-fgb-77135
 title: 'Святого Ильи'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-snn'
+    region: region-vitsebsk
+    subregion: subregion-snn
 location:
     -
         type: point

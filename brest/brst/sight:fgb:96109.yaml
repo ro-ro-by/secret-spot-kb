@@ -1,9 +1,9 @@
-id: 'sight-fgb-96109'
+id: sight-fgb-96109
 title: 'Брестский пихтарник'
 type: forest
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 forest:
     dominated_type: fir
 location:

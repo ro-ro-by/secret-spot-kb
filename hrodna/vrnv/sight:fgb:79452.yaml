@@ -1,9 +1,9 @@
-id: 'sight-fgb-79452'
+id: sight-fgb-79452
 title: Купава
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vrnv'
+    region: region-hrodna
+    subregion: subregion-vrnv
 meta:
     fgb:
         post_id: '79452'

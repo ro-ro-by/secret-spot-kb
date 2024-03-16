@@ -1,9 +1,9 @@
-id: 'sight-fgb-75267'
+id: sight-fgb-75267
 title: Корма
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-elsk'
+    region: region-gomel
+    subregion: subregion-elsk
 images:
     -
         file: 09949574e6be416eafd1a1461151b32a.jpg

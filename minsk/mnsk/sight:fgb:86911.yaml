@@ -1,9 +1,9 @@
-id: 'sight-fgb-86911'
+id: sight-fgb-86911
 title: 'Бювет Белорусочка'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 2cfda3b16d6acff29cec8b62db894d6d.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99681'
+id: sight-fgb-99681
 title: 'Парк Демьянковский'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-drb'
+    region: region-gomel
+    subregion: subregion-drb
 meta:
     fgb:
         post_id: '99681'

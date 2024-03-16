@@ -1,9 +1,9 @@
-id: 'sight-fgb-75922'
+id: sight-fgb-75922
 title: 'Парк Будслав'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 location:
     -
         type: point

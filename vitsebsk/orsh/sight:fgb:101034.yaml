@@ -1,9 +1,9 @@
-id: 'sight-fgb-101034'
+id: sight-fgb-101034
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 meta:
     fgb:
         post_id: '101034'

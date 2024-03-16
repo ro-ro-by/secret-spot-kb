@@ -1,9 +1,9 @@
-id: 'sight-fgb-77255'
+id: sight-fgb-77255
 title: 'Парк Лишки'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-brstv'
+    region: region-hrodna
+    subregion: subregion-brstv
 images:
     -
         file: efd43aeaf0fc9a69ddc896e1942e714b.jpg

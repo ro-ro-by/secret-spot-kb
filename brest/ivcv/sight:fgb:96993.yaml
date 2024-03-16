@@ -1,9 +1,9 @@
-id: 'sight-fgb-96993'
+id: sight-fgb-96993
 title: 'Место родника Тадеуша Костюшко'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivcv'
+    region: region-brest
+    subregion: subregion-ivcv
 images:
     -
         file: 3c3ef178d28767bf0d4171bfa718630e.jpg

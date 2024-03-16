@@ -1,9 +1,9 @@
-id: 'sight-fgb-77347'
+id: sight-fgb-77347
 title: 'Райгород (Привалка-1)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: eb10005d00276db46a0d9eae51480d39.jpg

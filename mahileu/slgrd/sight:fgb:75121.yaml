@@ -1,9 +1,9 @@
-id: 'sight-fgb-75121'
+id: sight-fgb-75121
 title: 'Комиссарова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-slgrd'
+    region: region-mahileu
+    subregion: subregion-slgrd
 location:
     -
         type: point

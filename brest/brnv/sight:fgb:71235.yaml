@@ -1,9 +1,9 @@
-id: 'sight-fgb-71235'
+id: sight-fgb-71235
 title: Мельница
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: a4da9fa0217e5fd34a800144aa67c22f.jpg

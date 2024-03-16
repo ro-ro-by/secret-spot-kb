@@ -1,9 +1,9 @@
-id: 'sight-fgb-77588'
+id: sight-fgb-77588
 title: 'Парк Любча'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 meta:
     fgb:
         post_id: '77588'

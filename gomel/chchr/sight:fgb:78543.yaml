@@ -1,9 +1,9 @@
-id: 'sight-fgb-78543'
+id: sight-fgb-78543
 title: Хлебный
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: 986c22b25eeeeeff103decdb78467e14.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99069'
+id: sight-fgb-99069
 title: 'Дубенецкий дуб'
 type: tree
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-stln'
+    region: region-brest
+    subregion: subregion-stln
 tree:
     type: oak
 location:

@@ -1,9 +1,9 @@
-id: 'sight-fgb-88353'
+id: sight-fgb-88353
 title: Гайковцы
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 meta:
     fgb:
         post_id: '88353'

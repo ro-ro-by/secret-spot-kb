@@ -1,9 +1,9 @@
-id: 'sight-fgb-78722'
+id: sight-fgb-78722
 title: 'Стаховщина (Видогощ, Видагорщи)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 173e786963cc620d28118ec8f9ddf7ca.jpg

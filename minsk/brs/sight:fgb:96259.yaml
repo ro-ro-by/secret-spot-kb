@@ -1,9 +1,9 @@
-id: 'sight-fgb-96259'
+id: sight-fgb-96259
 title: 'Лечебный дуб'
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 tree:
     type: oak
 meta:

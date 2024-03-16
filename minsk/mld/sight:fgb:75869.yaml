@@ -1,9 +1,9 @@
-id: 'sight-fgb-75869'
+id: sight-fgb-75869
 title: 'Парк Яхимовщина'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 images:
     -
         file: b642c8cd09caa74d0879d1863bc27ae9.jpg

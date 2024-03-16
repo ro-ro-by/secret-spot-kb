@@ -1,9 +1,9 @@
-id: 'sight-fgb-78748'
+id: sight-fgb-78748
 title: 'Чарские Луки'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 meta:
     fgb:
         post_id: '78748'

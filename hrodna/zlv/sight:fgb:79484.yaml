@@ -1,9 +1,9 @@
-id: 'sight-fgb-79484'
+id: sight-fgb-79484
 title: Теглевичский
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 meta:
     fgb:
         post_id: '79484'

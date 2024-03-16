@@ -1,9 +1,9 @@
-id: 'sight-fgb-76399'
+id: sight-fgb-76399
 title: 'Чертова борода'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vtb'
+    region: region-vitsebsk
+    subregion: subregion-vtb
 images:
     -
         file: db4a6628d580f6618278b00cb17f357e.jpg

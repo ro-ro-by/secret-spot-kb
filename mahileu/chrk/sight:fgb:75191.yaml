@@ -1,9 +1,9 @@
-id: 'sight-fgb-75191'
+id: sight-fgb-75191
 title: 'Дуб Великан'
 type: tree
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chrk'
+    region: region-mahileu
+    subregion: subregion-chrk
 tree:
     type: oak
 location:

@@ -1,9 +1,9 @@
-id: 'sight-fgb-83667'
+id: sight-fgb-83667
 title: 'Лешнянский парк'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 meta:
     fgb:
         post_id: '83667'

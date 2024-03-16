@@ -1,9 +1,9 @@
-id: 'sight-fgb-75008'
+id: sight-fgb-75008
 title: 'Пана Буходькова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-krsnp'
+    region: region-mahileu
+    subregion: subregion-krsnp
 meta:
     fgb:
         post_id: '75008'

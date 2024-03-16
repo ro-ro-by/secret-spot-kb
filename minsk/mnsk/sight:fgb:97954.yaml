@@ -1,9 +1,9 @@
-id: 'sight-fgb-97954'
+id: sight-fgb-97954
 title: Соколиный
 type: area
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 location:
     -
         type: geojson

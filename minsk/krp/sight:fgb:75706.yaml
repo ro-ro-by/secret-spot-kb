@@ -1,9 +1,9 @@
-id: 'sight-fgb-75706'
+id: sight-fgb-75706
 title: Маккавеев
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 meta:
     fgb:
         post_id: '75706'

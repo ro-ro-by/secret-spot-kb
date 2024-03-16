@@ -1,9 +1,9 @@
-id: 'sight-fgb-99430'
+id: sight-fgb-99430
 title: Приднепровье-1
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 location:
     -
         type: point

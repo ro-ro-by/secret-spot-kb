@@ -1,9 +1,9 @@
-id: 'sight-fgb-99944'
+id: sight-fgb-99944
 title: 'Лекавы камень'
 type: boulder
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-zhtk'
+    region: region-gomel
+    subregion: subregion-zhtk
 meta:
     fgb:
         post_id: '99944'

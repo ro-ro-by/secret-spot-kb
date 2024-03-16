@@ -1,9 +1,9 @@
-id: 'sight-fgb-91008'
+id: sight-fgb-91008
 title: Пуща-2
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lhv'
+    region: region-brest
+    subregion: subregion-lhv
 location:
     -
         type: point

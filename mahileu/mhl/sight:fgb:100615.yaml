@@ -1,9 +1,9 @@
-id: 'sight-fgb-100615'
+id: sight-fgb-100615
 title: 'Святой Анны'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mhl'
+    region: region-mahileu
+    subregion: subregion-mhl
 images:
     -
         file: 88b28a59cf6d2da6bd23120f5046b5cb.jpg

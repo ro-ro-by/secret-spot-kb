@@ -1,9 +1,9 @@
-id: 'sight-fgb-99682'
+id: sight-fgb-99682
 title: 'Парк Мурованский'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-brstv'
+    region: region-hrodna
+    subregion: subregion-brstv
 meta:
     fgb:
         post_id: '99682'

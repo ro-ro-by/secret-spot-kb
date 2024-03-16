@@ -1,9 +1,9 @@
-id: 'sight-fgb-75691'
+id: sight-fgb-75691
 title: 'Родник в деревне Старый Сокол'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 images:
     -
         file: 377bb863a27e0e6b6bd3f770dbd90da2.jpg

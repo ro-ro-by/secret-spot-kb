@@ -1,9 +1,9 @@
-id: 'sight-fgb-75867'
+id: sight-fgb-75867
 title: 'Парк Березинское'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 images:
     -
         file: fe61d0df5c0712747bc62d135b4869cf.jpg

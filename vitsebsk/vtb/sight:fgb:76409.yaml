@@ -1,9 +1,9 @@
-id: 'sight-fgb-76409'
+id: sight-fgb-76409
 title: 'Серафима Соровского'
 type: area
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vtb'
+    region: region-vitsebsk
+    subregion: subregion-vtb
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74493'
+id: sight-fgb-74493
 title: 'Панский ключок'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: b275bac61df4159d5533edeec2191182.jpg

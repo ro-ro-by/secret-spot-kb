@@ -1,9 +1,9 @@
-id: 'sight-fgb-74813'
+id: sight-fgb-74813
 title: 'Пилипёнкова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78756'
+id: sight-fgb-78756
 title: 'Лесное Векшицы'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 7179acd7c2bba8b5f1ecc8d84e8dbbf2.jpg

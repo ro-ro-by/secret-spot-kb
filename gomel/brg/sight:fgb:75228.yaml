@@ -1,9 +1,9 @@
-id: 'sight-fgb-75228'
+id: sight-fgb-75228
 title: 'Метеорит Брагин'
 type: meteorite
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-brg'
+    region: region-gomel
+    subregion: subregion-brg
 images:
     -
         file: 2f10fb7cec07a0bafceb520b1804f0c9.jpg

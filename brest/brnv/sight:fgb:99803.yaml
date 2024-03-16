@@ -1,9 +1,9 @@
-id: 'sight-fgb-99803'
+id: sight-fgb-99803
 title: Огородники
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 5d055ef8ee178929f62b87dc2b9939dd.jpg

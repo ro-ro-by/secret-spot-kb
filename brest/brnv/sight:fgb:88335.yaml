@@ -1,9 +1,9 @@
-id: 'sight-fgb-88335'
+id: sight-fgb-88335
 title: 'Городищанка (на Пролетарской, Татарский, Сарахмана)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: d0022cfe321f6cfc4c116ddbaafcf9ee.jpg

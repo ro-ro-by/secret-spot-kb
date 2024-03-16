@@ -1,9 +1,9 @@
-id: 'sight-fgb-98922'
+id: sight-fgb-98922
 title: Золотеево-1
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 meta:
     fgb:
         post_id: '98922'

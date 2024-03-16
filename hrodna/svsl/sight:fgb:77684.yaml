@@ -1,9 +1,9 @@
-id: 'sight-fgb-77684'
+id: sight-fgb-77684
 title: 'Парк совхоза Вердомичи'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-svsl'
+    region: region-hrodna
+    subregion: subregion-svsl
 images:
     -
         file: 7d243599daefd39264f1a3014ee115fe.jpg

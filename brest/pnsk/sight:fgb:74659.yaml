@@ -1,9 +1,9 @@
-id: 'sight-fgb-74659'
+id: sight-fgb-74659
 title: 'Родник Дубойский'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 location:
     -
         type: point

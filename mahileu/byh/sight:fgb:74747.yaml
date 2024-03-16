@@ -1,9 +1,9 @@
-id: 'sight-fgb-74747'
+id: sight-fgb-74747
 title: 'Нижняя Тощица'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-byh'
+    region: region-mahileu
+    subregion: subregion-byh
 images:
     -
         file: cc57cc85e926c7149377c8aaa2e081b2.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99686'
+id: sight-fgb-99686
 title: 'Парк Лаздунский'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-iue'
+    region: region-hrodna
+    subregion: subregion-iue
 meta:
     fgb:
         post_id: '99686'

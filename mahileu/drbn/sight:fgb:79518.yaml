@@ -1,9 +1,9 @@
-id: 'sight-fgb-79518'
+id: sight-fgb-79518
 title: 'Хлимонова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 meta:
     fgb:
         post_id: '79518'

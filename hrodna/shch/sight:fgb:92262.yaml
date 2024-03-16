@@ -1,9 +1,9 @@
-id: 'sight-fgb-92262'
+id: sight-fgb-92262
 title: 'На Костеневке'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 meta:
     fgb:
         post_id: '92262'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-97999'
+id: sight-fgb-97999
 title: 'Парк Лесковичи'
 type: park
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-shmln'
+    region: region-vitsebsk
+    subregion: subregion-shmln
 meta:
     fgb:
         post_id: '97999'

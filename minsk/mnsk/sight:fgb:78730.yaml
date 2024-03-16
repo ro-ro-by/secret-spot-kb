@@ -1,9 +1,9 @@
-id: 'sight-fgb-78730'
+id: sight-fgb-78730
 title: 'Бювет в парке Победы'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 1b643bea26440da8dc6502fcc7c59284.jpg

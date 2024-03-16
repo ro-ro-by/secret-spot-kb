@@ -1,9 +1,9 @@
-id: 'sight-fgb-100213'
+id: sight-fgb-100213
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-bksh'
+    region: region-gomel
+    subregion: subregion-bksh
 meta:
     fgb:
         post_id: '100213'

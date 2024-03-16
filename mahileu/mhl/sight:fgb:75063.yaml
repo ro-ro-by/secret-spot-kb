@@ -1,9 +1,9 @@
-id: 'sight-fgb-75063'
+id: sight-fgb-75063
 title: 'Катеринина криничка'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mhl'
+    region: region-mahileu
+    subregion: subregion-mhl
 meta:
     fgb:
         post_id: '75063'

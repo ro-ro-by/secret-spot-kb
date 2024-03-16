@@ -1,9 +1,9 @@
-id: 'sight-fgb-75634'
+id: sight-fgb-75634
 title: 'Участок карельской березы'
 type: forest
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-dzrzh'
+    region: region-minsk
+    subregion: subregion-dzrzh
 forest:
     dominated_type: birch_curly
 images:

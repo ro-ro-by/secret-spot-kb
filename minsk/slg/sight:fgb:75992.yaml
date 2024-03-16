@@ -1,9 +1,9 @@
-id: 'sight-fgb-75992'
+id: sight-fgb-75992
 title: 'Парк Листопадовичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-slg'
+    region: region-minsk
+    subregion: subregion-slg
 location:
     -
         type: point

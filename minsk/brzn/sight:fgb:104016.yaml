@@ -1,9 +1,9 @@
-id: 'sight-fgb-104016'
+id: sight-fgb-104016
 title: 'Родник Крыжики (За чёрным бродом)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brzn'
+    region: region-minsk
+    subregion: subregion-brzn
 images:
     -
         file: 1f69c66db4b24e23a2f5af3691050620.jpg

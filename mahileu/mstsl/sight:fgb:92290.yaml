@@ -1,9 +1,9 @@
-id: 'sight-fgb-92290'
+id: sight-fgb-92290
 title: 'Тихая криничка'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mstsl'
+    region: region-mahileu
+    subregion: subregion-mstsl
 location:
     -
         type: point

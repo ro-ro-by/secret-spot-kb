@@ -1,9 +1,9 @@
-id: 'sight-fgb-98802'
+id: sight-fgb-98802
 title: 'Парк Бездедовичи'
 type: park
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-plck'
+    region: region-vitsebsk
+    subregion: subregion-plck
 meta:
     fgb:
         post_id: '98802'

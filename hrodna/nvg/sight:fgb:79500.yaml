@@ -1,9 +1,9 @@
-id: 'sight-fgb-79500'
+id: sight-fgb-79500
 title: Буднянский
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 meta:
     fgb:
         post_id: '79500'

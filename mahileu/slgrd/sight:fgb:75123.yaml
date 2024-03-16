@@ -1,9 +1,9 @@
-id: 'sight-fgb-75123'
+id: sight-fgb-75123
 title: 'Петро-Павловская криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-slgrd'
+    region: region-mahileu
+    subregion: subregion-slgrd
 images:
     -
         file: e613478a84af336d281c967c8af553c8.jpg

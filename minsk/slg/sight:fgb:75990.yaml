@@ -1,9 +1,9 @@
-id: 'sight-fgb-75990'
+id: sight-fgb-75990
 title: 'Дубрава - 2'
 type: forest
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-slg'
+    region: region-minsk
+    subregion: subregion-slg
 forest:
     dominated_type: oak
     types:

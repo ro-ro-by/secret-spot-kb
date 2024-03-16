@@ -1,9 +1,9 @@
-id: 'sight-fgb-99266'
+id: sight-fgb-99266
 title: Аэродромный
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 1193458a842d64013ccd005c386b8ed9.jpg

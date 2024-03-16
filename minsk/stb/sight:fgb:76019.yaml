@@ -1,9 +1,9 @@
-id: 'sight-fgb-76019'
+id: sight-fgb-76019
 title: 'Липы мелколистные Миколаевщинские'
 type: forest
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stb'
+    region: region-minsk
+    subregion: subregion-stb
 forest:
     dominated_type: tilia
 location:

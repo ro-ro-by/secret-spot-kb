@@ -1,9 +1,9 @@
-id: 'sight-fgb-82950'
+id: sight-fgb-82950
 title: Бородичи
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kmn'
+    region: region-brest
+    subregion: subregion-kmn
 location:
     -
         type: point

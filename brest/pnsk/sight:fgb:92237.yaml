@@ -1,9 +1,9 @@
-id: 'sight-fgb-92237'
+id: sight-fgb-92237
 title: 'Колодец Якуба Колоса'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 images:
     -
         file: f2e3d06fbdacea5b04e2da26f3774a01.jpg

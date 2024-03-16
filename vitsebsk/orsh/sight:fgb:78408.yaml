@@ -1,9 +1,9 @@
-id: 'sight-fgb-78408'
+id: sight-fgb-78408
 title: Святой
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 images:
     -
         file: 3525b2975408920a7a2c8d4120220e6b.jpg

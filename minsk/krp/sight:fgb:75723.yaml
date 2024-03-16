@@ -1,9 +1,9 @@
-id: 'sight-fgb-75723'
+id: sight-fgb-75723
 title: 'Гарбаты камень'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 meta:
     fgb:
         post_id: '75723'

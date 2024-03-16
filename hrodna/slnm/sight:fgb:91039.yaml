@@ -1,9 +1,9 @@
-id: 'sight-fgb-91039'
+id: sight-fgb-91039
 title: Святой
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 meta:
     fgb:
         post_id: '91039'

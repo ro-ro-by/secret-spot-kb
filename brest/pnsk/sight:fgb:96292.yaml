@@ -1,9 +1,9 @@
-id: 'sight-fgb-96292'
+id: sight-fgb-96292
 title: 'Лесопарк Кудричи'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 location:
     -
         type: point

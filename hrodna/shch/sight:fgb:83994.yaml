@@ -1,9 +1,9 @@
-id: 'sight-fgb-83994'
+id: sight-fgb-83994
 title: 'Родник у дворца'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 images:
     -
         file: dbd3a19b88db36fda13315f0f7f41e91.jpg

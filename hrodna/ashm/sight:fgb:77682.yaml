@@ -1,9 +1,9 @@
-id: 'sight-fgb-77682'
+id: sight-fgb-77682
 title: 'В лесопарке'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 meta:
     fgb:
         post_id: '77682'

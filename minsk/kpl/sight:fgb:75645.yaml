@@ -1,9 +1,9 @@
-id: 'sight-fgb-75645'
+id: sight-fgb-75645
 title: 'Пихта калифорнийская Чижевичская'
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 tree:
     type: fir
 location:

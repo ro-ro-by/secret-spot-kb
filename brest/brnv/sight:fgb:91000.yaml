@@ -1,9 +1,9 @@
-id: 'sight-fgb-91000'
+id: sight-fgb-91000
 title: Мурованка-3
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 3c38ea0de5e2202dc4c3968299ebebc8.jpg

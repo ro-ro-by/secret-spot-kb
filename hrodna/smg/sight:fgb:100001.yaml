@@ -1,9 +1,9 @@
-id: 'sight-fgb-100001'
+id: sight-fgb-100001
 title: 'Культавы камень каля гарадзішча'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 images:
     -
         file: 837fe9b39ff0f9c1d48c12126d03e731.jpg

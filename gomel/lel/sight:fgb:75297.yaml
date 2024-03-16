@@ -1,9 +1,9 @@
-id: 'sight-fgb-75297'
+id: sight-fgb-75297
 title: Веслидное
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-lel'
+    region: region-gomel
+    subregion: subregion-lel
 location:
     -
         type: point

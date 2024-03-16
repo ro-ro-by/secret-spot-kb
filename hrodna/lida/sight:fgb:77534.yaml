@@ -1,9 +1,9 @@
-id: 'sight-fgb-77534'
+id: sight-fgb-77534
 title: 'В имении Дембовецких'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 images:
     -
         file: 41f8cc6d6f56f46802ff6c1d2a5cc5ee.jpg

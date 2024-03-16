@@ -1,9 +1,9 @@
-id: 'sight-fgb-99134'
+id: sight-fgb-99134
 title: 'Каменка-1. Каменный комплекс с изображениями и надписями.'
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kbrn'
+    region: region-brest
+    subregion: subregion-kbrn
 images:
     -
         file: 90e82e84c9ac5c08b2bc8f5354ed7a18.jpg

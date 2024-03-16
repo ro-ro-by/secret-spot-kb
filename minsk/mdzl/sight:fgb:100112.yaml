@@ -1,9 +1,9 @@
-id: 'sight-fgb-100112'
+id: sight-fgb-100112
 title: 'Комсін Сіні камень'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 meta:
     fgb:
         post_id: '100112'

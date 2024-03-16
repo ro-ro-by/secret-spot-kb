@@ -1,9 +1,9 @@
-id: 'sight-fgb-82502'
+id: sight-fgb-82502
 title: 'Колодец Щекотова-2'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 images:
     -
         file: e91ee5f62466f1bc875b63adc2cd88b1.jpg

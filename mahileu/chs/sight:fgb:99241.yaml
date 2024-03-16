@@ -1,9 +1,9 @@
-id: 'sight-fgb-99241'
+id: sight-fgb-99241
 title: Заложье-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 location:
     -
         type: point

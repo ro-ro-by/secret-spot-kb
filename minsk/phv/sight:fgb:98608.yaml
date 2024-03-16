@@ -1,9 +1,9 @@
-id: 'sight-fgb-98608'
+id: sight-fgb-98608
 title: 'Парк Блонь'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 meta:
     fgb:
         post_id: '98608'

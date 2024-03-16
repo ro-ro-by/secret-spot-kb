@@ -1,9 +1,9 @@
-id: 'sight-fgb-78133'
+id: sight-fgb-78133
 title: 'Парк Заполье'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 images:
     -
         file: c74d2d0666db2f8d996dae88b7edcfd7.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75243'
+id: sight-fgb-75243
 title: 'Насаждения сосны'
 type: forest
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 images:
     -
         file: c26ddbc69fd70d679d20e75c323e49ec.jpg

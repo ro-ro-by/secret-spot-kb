@@ -1,9 +1,9 @@
-id: 'sight-fgb-103210'
+id: sight-fgb-103210
 title: 'Каменная гара'
 type: sacral_hill
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-drb'
+    region: region-gomel
+    subregion: subregion-drb
 meta:
     fgb:
         post_id: '103210'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-100214'
+id: sight-fgb-100214
 title: 'Камень-следавік (Божы Слядок, След Пастуха, След Авечкі)'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 meta:
     fgb:
         post_id: '100214'

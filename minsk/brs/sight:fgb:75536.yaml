@@ -1,9 +1,9 @@
-id: 'sight-fgb-75536'
+id: sight-fgb-75536
 title: 'Парк Кричин сад'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 images:
     -
         file: 6e0d2fe867573ed9b608f89866a9fd53.jpg

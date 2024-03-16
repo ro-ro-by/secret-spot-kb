@@ -1,9 +1,9 @@
-id: 'sight-fgb-76021'
+id: sight-fgb-76021
 title: 'Парк Новая Веска'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stb'
+    region: region-minsk
+    subregion: subregion-stb
 images:
     -
         file: 3da9008e998eabb97842b11aaffa4ad6.jpg

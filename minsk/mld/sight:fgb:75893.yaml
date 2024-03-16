@@ -1,9 +1,9 @@
-id: 'sight-fgb-75893'
+id: sight-fgb-75893
 title: Олехновичи
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 images:
     -
         file: b63f4516c38fcc3a2d4ca509f77250ee.jpg

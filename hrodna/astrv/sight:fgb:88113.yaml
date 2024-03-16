@@ -1,9 +1,9 @@
-id: 'sight-fgb-88113'
+id: sight-fgb-88113
 title: 'Криничный пролесок'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 meta:
     fgb:
         post_id: '88113'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-96451'
+id: sight-fgb-96451
 title: 'Толкачевичский парк'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-uzd'
+    region: region-minsk
+    subregion: subregion-uzd
 meta:
     fgb:
         post_id: '96451'

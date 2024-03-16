@@ -1,9 +1,9 @@
-id: 'sight-fgb-96111'
+id: sight-fgb-96111
 title: Маслянки
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 meta:
     fgb:
         post_id: '96111'

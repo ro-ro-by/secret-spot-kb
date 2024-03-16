@@ -1,9 +1,9 @@
-id: 'sight-fgb-79451'
+id: sight-fgb-79451
 title: 'Святого Георгия'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vrnv'
+    region: region-hrodna
+    subregion: subregion-vrnv
 images:
     -
         file: 182c99ceb6361335e1463fbf497195e5.jpg

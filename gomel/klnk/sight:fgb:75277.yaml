@@ -1,9 +1,9 @@
-id: 'sight-fgb-75277'
+id: sight-fgb-75277
 title: 'Островные ельники Калинковичские'
 type: forest
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-klnk'
+    region: region-gomel
+    subregion: subregion-klnk
 forest:
     dominated_type: spruce
     types:

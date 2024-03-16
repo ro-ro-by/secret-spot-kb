@@ -1,9 +1,9 @@
-id: 'sight-fgb-97800'
+id: sight-fgb-97800
 title: 'Вековые деревья Голынковского лесничества'
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 location:
     -
         type: point

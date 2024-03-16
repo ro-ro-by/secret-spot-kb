@@ -1,9 +1,9 @@
-id: 'sight-fgb-97401'
+id: sight-fgb-97401
 title: 'Парк Гарутишки'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-dzrzh'
+    region: region-minsk
+    subregion: subregion-dzrzh
 meta:
     fgb:
         post_id: '97401'

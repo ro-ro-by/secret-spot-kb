@@ -1,9 +1,9 @@
-id: 'sight-fgb-75409'
+id: sight-fgb-75409
 title: 'Живая криничка'
 type: area
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-nrvl'
+    region: region-gomel
+    subregion: subregion-nrvl
 location:
     -
         type: point

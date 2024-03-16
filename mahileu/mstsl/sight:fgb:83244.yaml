@@ -1,9 +1,9 @@
-id: 'sight-fgb-83244'
+id: sight-fgb-83244
 title: Белково-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mstsl'
+    region: region-mahileu
+    subregion: subregion-mstsl
 meta:
     fgb:
         post_id: '83244'

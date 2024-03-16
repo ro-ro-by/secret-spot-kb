@@ -1,9 +1,9 @@
-id: 'sight-fgb-100908'
+id: sight-fgb-100908
 title: 'Камень абярэг (Камень са знакамі)'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 meta:
     fgb:
         post_id: '100908'

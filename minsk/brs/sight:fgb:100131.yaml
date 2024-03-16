@@ -1,9 +1,9 @@
-id: 'sight-fgb-100131'
+id: sight-fgb-100131
 title: 'Каменная ступа'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 meta:
     fgb:
         post_id: '100131'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-77324'
+id: sight-fgb-77324
 title: 'Гродненские форты'
 type: area
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 location:
     -
         type: point

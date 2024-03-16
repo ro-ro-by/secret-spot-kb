@@ -1,9 +1,9 @@
-id: 'sight-fgb-77599'
+id: sight-fgb-77599
 title: 'Родники живой и мёртвой воды'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 images:
     -
         file: 9b50bf2b5e4cb57fe80f9d189d07173a.jpg

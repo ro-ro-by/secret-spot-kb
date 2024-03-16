@@ -1,9 +1,9 @@
-id: 'sight-fgb-76667'
+id: sight-fgb-76667
 title: Покровский
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 images:
     -
         file: 69f816f4ee07f1ab44d02e613ace1f7a.jpg

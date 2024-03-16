@@ -1,9 +1,9 @@
-id: 'sight-fgb-100199'
+id: sight-fgb-100199
 title: 'Камень з падковай'
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brz'
+    region: region-brest
+    subregion: subregion-brz
 meta:
     fgb:
         post_id: '100199'

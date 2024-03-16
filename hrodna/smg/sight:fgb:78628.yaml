@@ -1,9 +1,9 @@
-id: 'sight-fgb-78628'
+id: sight-fgb-78628
 title: 'у Костёла'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 meta:
     fgb:
         post_id: '78628'

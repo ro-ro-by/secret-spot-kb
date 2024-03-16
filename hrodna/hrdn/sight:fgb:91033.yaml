@@ -1,9 +1,9 @@
-id: 'sight-fgb-91033'
+id: sight-fgb-91033
 title: Юзефовка
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 7fa9731f250b3b7e6661870910dc9b7c.jpg

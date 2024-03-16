@@ -1,9 +1,9 @@
-id: 'sight-fgb-79480'
+id: sight-fgb-79480
 title: Мижеричская
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 meta:
     fgb:
         post_id: '79480'

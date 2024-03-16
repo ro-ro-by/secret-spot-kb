@@ -1,9 +1,9 @@
-id: 'sight-fgb-99530'
+id: sight-fgb-99530
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 location:
     -
         type: point

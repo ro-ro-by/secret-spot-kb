@@ -1,9 +1,9 @@
-id: 'sight-fgb-99630'
+id: sight-fgb-99630
 title: 'Парк Вистычи'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 meta:
     fgb:
         post_id: '99630'

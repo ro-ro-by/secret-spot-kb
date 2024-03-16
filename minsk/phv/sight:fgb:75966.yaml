@@ -1,9 +1,9 @@
-id: 'sight-fgb-75966'
+id: sight-fgb-75966
 title: 'Криница Ельских'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 images:
     -
         file: 829c3cdc4b274723e3c70ffec38ec0d3.jpg

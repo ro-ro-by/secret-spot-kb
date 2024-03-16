@@ -1,9 +1,9 @@
-id: 'sight-fgb-77641'
+id: sight-fgb-77641
 title: 'Валун Большой камень'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 images:
     -
         file: 5ce7bb0b55ff165f1cb472b86775114b.jpg

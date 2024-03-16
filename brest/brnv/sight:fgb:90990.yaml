@@ -1,9 +1,9 @@
-id: 'sight-fgb-90990'
+id: sight-fgb-90990
 title: 'Родник под дамбой'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 307c77e0906c09815186142855454ece.jpg

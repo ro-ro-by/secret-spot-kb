@@ -1,9 +1,9 @@
-id: 'sight-fgb-74688'
+id: sight-fgb-74688
 title: Черчешин
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 meta:
     fgb:
         post_id: '74688'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75151'
+id: sight-fgb-75151
 title: 'Круты Равок'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-htmsk'
+    region: region-mahileu
+    subregion: subregion-htmsk
 location:
     -
         type: point

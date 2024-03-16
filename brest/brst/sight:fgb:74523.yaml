@@ -1,9 +1,9 @@
-id: 'sight-fgb-74523'
+id: sight-fgb-74523
 title: 'Заполье Мотыкалы'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: 74711a31e526577bf599521d9f423096.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-97449'
+id: sight-fgb-97449
 title: 'Минеральный (Солёный)'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 images:
     -
         file: ca5a95d6e735eea656d0033fbb42851b.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99925'
+id: sight-fgb-99925
 title: 'Камень Змея Вяля'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 meta:
     fgb:
         post_id: '99925'

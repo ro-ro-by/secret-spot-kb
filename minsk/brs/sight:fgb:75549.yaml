@@ -1,9 +1,9 @@
-id: 'sight-fgb-75549'
+id: sight-fgb-75549
 title: "Ёзусик\t(Святого Яна)"
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98666'
+id: sight-fgb-98666
 title: 'Хотовский парк'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stb'
+    region: region-minsk
+    subregion: subregion-stb
 images:
     -
         file: e25c299b26fb4a6717576e7775915077.jpg

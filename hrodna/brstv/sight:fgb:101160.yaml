@@ -1,9 +1,9 @@
-id: 'sight-fgb-101160'
+id: sight-fgb-101160
 title: 'Камень са скразной адтулінай'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-brstv'
+    region: region-hrodna
+    subregion: subregion-brstv
 meta:
     fgb:
         post_id: '101160'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-77340'
+id: sight-fgb-77340
 title: Королевский
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 5e3a4e8e441f7fca6762ec7e5a04eb5e.jpg

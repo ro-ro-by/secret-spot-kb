@@ -1,9 +1,9 @@
-id: 'sight-fgb-101129'
+id: sight-fgb-101129
 title: Кароль-камень
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kbrn'
+    region: region-brest
+    subregion: subregion-kbrn
 meta:
     fgb:
         post_id: '101129'

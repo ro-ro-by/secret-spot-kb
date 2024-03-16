@@ -1,9 +1,9 @@
-id: 'sight-fgb-96471'
+id: sight-fgb-96471
 title: 'Парк Летешин'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: 8a1466fba260335bdaf46f03abf40ec5.jpg

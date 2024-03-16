@@ -1,9 +1,9 @@
-id: 'sight-fgb-99665'
+id: sight-fgb-99665
 title: 'Парк Могилевцы'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 meta:
     fgb:
         post_id: '99665'

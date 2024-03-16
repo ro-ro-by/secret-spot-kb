@@ -1,9 +1,9 @@
-id: 'sight-fgb-98468'
+id: sight-fgb-98468
 title: 'Парк Лопушно'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-dtl'
+    region: region-hrodna
+    subregion: subregion-dtl
 meta:
     fgb:
         post_id: '98468'

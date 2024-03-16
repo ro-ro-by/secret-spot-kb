@@ -1,9 +1,9 @@
-id: 'sight-fgb-83686'
+id: sight-fgb-83686
 title: Замковый
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lhv'
+    region: region-brest
+    subregion: subregion-lhv
 images:
     -
         file: 3c9de763333ec2d97de2d09f754d7f16.jpg

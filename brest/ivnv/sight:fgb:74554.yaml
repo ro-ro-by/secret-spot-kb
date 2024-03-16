@@ -1,9 +1,9 @@
-id: 'sight-fgb-74554'
+id: sight-fgb-74554
 title: 'На реке Саморанка'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivnv'
+    region: region-brest
+    subregion: subregion-ivnv
 location:
     -
         type: point

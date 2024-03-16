@@ -1,9 +1,9 @@
-id: 'sight-fgb-77584'
+id: sight-fgb-77584
 title: 'Конгломерат Запольский-2'
 type: conglomerate
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 images:
     -
         file: 8f350bae6952a98066526337c0f2037c.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99684'
+id: sight-fgb-99684
 title: 'Парк Жемысловский'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-iue'
+    region: region-hrodna
+    subregion: subregion-iue
 location:
     -
         type: point

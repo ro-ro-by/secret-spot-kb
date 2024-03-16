@@ -1,9 +1,9 @@
-id: 'sight-fgb-88128'
+id: sight-fgb-88128
 title: 'Рованичская Слобода'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 images:
     -
         file: ed7a8c4c393a47891745584751be38fb.jpg

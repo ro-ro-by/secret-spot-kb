@@ -1,9 +1,9 @@
-id: 'sight-fgb-79052'
+id: sight-fgb-79052
 title: 'Парк Обчак'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 meta:
     fgb:
         post_id: '79052'

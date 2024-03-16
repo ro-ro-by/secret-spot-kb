@@ -1,9 +1,9 @@
-id: 'sight-fgb-76694'
+id: sight-fgb-76694
 title: 'Парк Залесье'
 type: park
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-hlbk'
+    region: region-vitsebsk
+    subregion: subregion-hlbk
 location:
     -
         type: point

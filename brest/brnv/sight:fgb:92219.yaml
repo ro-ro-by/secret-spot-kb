@@ -1,9 +1,9 @@
-id: 'sight-fgb-92219'
+id: sight-fgb-92219
 title: 'Родник Железница'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: ddb3bee9cae96970f2e1ec12d7820688.jpg

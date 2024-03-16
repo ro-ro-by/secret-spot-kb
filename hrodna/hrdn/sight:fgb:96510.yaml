@@ -1,9 +1,9 @@
-id: 'sight-fgb-96510'
+id: sight-fgb-96510
 title: 'Двухсотлетняя дубрава в окрестности агрогородка Озеры'
 type: forest
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 forest:
     dominated_type: oak
     types:

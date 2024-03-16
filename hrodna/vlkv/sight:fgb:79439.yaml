@@ -1,9 +1,9 @@
-id: 'sight-fgb-79439'
+id: sight-fgb-79439
 title: Дамба
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vlkv'
+    region: region-hrodna
+    subregion: subregion-vlkv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-92271'
+id: sight-fgb-92271
 title: 'Криница на Ивашко'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 images:
     -
         file: 9f62a3a0817b31e9be611b3173f51bdd.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-101789'
+id: sight-fgb-101789
 title: 'Бювет на Мицкевича'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: 98c1131310bdba7934a774c3dafd8d07.jpg

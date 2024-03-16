@@ -1,9 +1,9 @@
-id: 'sight-fgb-83018'
+id: sight-fgb-83018
 title: 'Святой ключок'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vndv'
+    region: region-vitsebsk
+    subregion: subregion-vndv
 meta:
     fgb:
         post_id: '83018'

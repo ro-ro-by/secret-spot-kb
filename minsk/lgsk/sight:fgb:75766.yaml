@@ -1,9 +1,9 @@
-id: 'sight-fgb-75766'
+id: sight-fgb-75766
 title: 'Святого Юрия'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-lgsk'
+    region: region-minsk
+    subregion: subregion-lgsk
 images:
     -
         file: f0df5afe6c170c27194b1208c67cd419.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74729'
+id: sight-fgb-74729
 title: 'Криницы на лугу'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 location:
     -
         type: point

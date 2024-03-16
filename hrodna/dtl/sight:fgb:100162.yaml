@@ -1,9 +1,9 @@
-id: 'sight-fgb-100162'
+id: sight-fgb-100162
 title: 'Камень з надпісамі і крыжам'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-dtl'
+    region: region-hrodna
+    subregion: subregion-dtl
 meta:
     fgb:
         post_id: '100162'

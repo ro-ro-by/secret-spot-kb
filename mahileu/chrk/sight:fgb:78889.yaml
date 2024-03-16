@@ -1,9 +1,9 @@
-id: 'sight-fgb-78889'
+id: sight-fgb-78889
 title: 'Слюнькиной (Партизанский)'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chrk'
+    region: region-mahileu
+    subregion: subregion-chrk
 location:
     -
         type: point

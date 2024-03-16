@@ -1,9 +1,9 @@
-id: 'sight-fgb-75809'
+id: sight-fgb-75809
 title: Лебяжий
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 830f74672be8135edf66ca21b152ce92.jpg

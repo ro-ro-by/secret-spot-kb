@@ -1,9 +1,9 @@
-id: 'sight-fgb-75715'
+id: sight-fgb-75715
 title: Водяной
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 location:
     -
         type: point

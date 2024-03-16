@@ -1,9 +1,9 @@
-id: 'sight-fgb-99201'
+id: sight-fgb-99201
 title: Железнодорожный
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hrk'
+    region: region-mahileu
+    subregion: subregion-hrk
 meta:
     fgb:
         post_id: '99201'

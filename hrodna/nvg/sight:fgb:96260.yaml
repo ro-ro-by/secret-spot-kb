@@ -1,9 +1,9 @@
-id: 'sight-fgb-96260'
+id: sight-fgb-96260
 title: 'Парк Новогрудский'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 meta:
     fgb:
         post_id: '96260'

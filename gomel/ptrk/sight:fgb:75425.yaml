@@ -1,9 +1,9 @@
-id: 'sight-fgb-75425'
+id: sight-fgb-75425
 title: Миргородский
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-ptrk'
+    region: region-gomel
+    subregion: subregion-ptrk
 meta:
     fgb:
         post_id: '75425'

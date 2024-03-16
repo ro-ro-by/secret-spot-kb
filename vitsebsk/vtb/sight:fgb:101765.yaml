@@ -1,9 +1,9 @@
-id: 'sight-fgb-101765'
+id: sight-fgb-101765
 title: 'Родник Лучёса-Май'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vtb'
+    region: region-vitsebsk
+    subregion: subregion-vtb
 images:
     -
         file: 50061be0eab44abf5b0b26132bf14a54.jpg

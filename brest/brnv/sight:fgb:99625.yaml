@@ -1,9 +1,9 @@
-id: 'sight-fgb-99625'
+id: sight-fgb-99625
 title: 'Парк Задвея'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 meta:
     fgb:
         post_id: '99625'

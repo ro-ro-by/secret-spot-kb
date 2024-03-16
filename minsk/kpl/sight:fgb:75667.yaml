@@ -1,9 +1,9 @@
-id: 'sight-fgb-75667'
+id: sight-fgb-75667
 title: 'Мартина Туровского'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 images:
     -
         file: f241420c02c40bba4261b269259d99e9.jpg

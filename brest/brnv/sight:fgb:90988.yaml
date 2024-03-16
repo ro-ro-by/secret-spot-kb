@@ -1,9 +1,9 @@
-id: 'sight-fgb-90988'
+id: sight-fgb-90988
 title: 'Бювет вокзальный'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 838439293297c378649f583ab0549c8f.jpg

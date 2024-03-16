@@ -1,9 +1,9 @@
-id: 'sight-fgb-75444'
+id: sight-fgb-75444
 title: 'Свято-Троицкий родник'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-rgch'
+    region: region-gomel
+    subregion: subregion-rgch
 images:
     -
         file: d6e8c1b98fd0635f3594da42a8c838f0.jpg

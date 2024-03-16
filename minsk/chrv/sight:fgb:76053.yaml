@@ -1,9 +1,9 @@
-id: 'sight-fgb-76053'
+id: sight-fgb-76053
 title: 'Парк Убель'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 meta:
     fgb:
         post_id: '76053'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-90987'
+id: sight-fgb-90987
 title: 'Бювет на Брестской'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 38384b91b1b980e0242df46de7eaef0d.jpg

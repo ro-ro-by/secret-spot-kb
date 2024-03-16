@@ -1,9 +1,9 @@
-id: 'sight-fgb-100868'
+id: sight-fgb-100868
 title: Камень-стол
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-drh'
+    region: region-brest
+    subregion: subregion-drh
 meta:
     fgb:
         post_id: '100868'

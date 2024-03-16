@@ -1,9 +1,9 @@
-id: 'sight-fgb-75631'
+id: sight-fgb-75631
 title: 'Родник Юцковский (Студенец)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-dzrzh'
+    region: region-minsk
+    subregion: subregion-dzrzh
 images:
     -
         file: 1df89494608bbc812c04bc22ef3aa9f5.jpg

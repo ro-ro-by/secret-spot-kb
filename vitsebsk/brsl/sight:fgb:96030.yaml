@@ -1,9 +1,9 @@
-id: 'sight-fgb-96030'
+id: sight-fgb-96030
 title: 'Парк Опса'
 type: park
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-brsl'
+    region: region-vitsebsk
+    subregion: subregion-brsl
 images:
     -
         file: 4853e6374eafafcafb89fb4a47a06040.jpg

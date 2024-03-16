@@ -1,9 +1,9 @@
-id: 'sight-fgb-96469'
+id: sight-fgb-96469
 title: 'Парк Туча'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: db2f42d151c5bb5c3463edfc6aea6829.jpg

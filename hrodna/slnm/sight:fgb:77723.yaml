@@ -1,9 +1,9 @@
-id: 'sight-fgb-77723'
+id: sight-fgb-77723
 title: 'На Энке'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: baa5da59413642dd3622f945558c046d.jpg

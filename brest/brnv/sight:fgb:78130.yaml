@@ -1,9 +1,9 @@
-id: 'sight-fgb-78130'
+id: sight-fgb-78130
 title: Подлозяны
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 3f81e94bf86904ff64634a29b408aa88.jpg

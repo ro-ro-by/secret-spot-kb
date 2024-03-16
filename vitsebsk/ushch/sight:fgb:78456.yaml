@@ -1,9 +1,9 @@
-id: 'sight-fgb-78456'
+id: sight-fgb-78456
 title: Тартак
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-ushch'
+    region: region-vitsebsk
+    subregion: subregion-ushch
 location:
     -
         type: point

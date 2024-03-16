@@ -1,9 +1,9 @@
-id: 'sight-fgb-98467'
+id: sight-fgb-98467
 title: 'Парк Козловщина'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-dtl'
+    region: region-hrodna
+    subregion: subregion-dtl
 meta:
     fgb:
         post_id: '98467'

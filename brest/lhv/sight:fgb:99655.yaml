@@ -1,9 +1,9 @@
-id: 'sight-fgb-99655'
+id: sight-fgb-99655
 title: 'Парк Нача Брындзовская'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lhv'
+    region: region-brest
+    subregion: subregion-lhv
 meta:
     fgb:
         post_id: '99655'

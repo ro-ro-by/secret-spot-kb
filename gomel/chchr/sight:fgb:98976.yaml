@@ -1,9 +1,9 @@
-id: 'sight-fgb-98976'
+id: sight-fgb-98976
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: abb168da9211cd9d9e5a156f31bfa1a9.jpg

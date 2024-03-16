@@ -1,9 +1,9 @@
-id: 'sight-fgb-74986'
+id: sight-fgb-74986
 title: 'Иванова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-klch'
+    region: region-mahileu
+    subregion: subregion-klch
 meta:
     fgb:
         post_id: '74986'

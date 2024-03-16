@@ -1,9 +1,9 @@
-id: 'sight-fgb-99662'
+id: sight-fgb-99662
 title: 'Парк Адамков'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 meta:
     fgb:
         post_id: '99662'

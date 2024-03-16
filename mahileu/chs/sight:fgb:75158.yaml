@@ -1,9 +1,9 @@
-id: 'sight-fgb-75158'
+id: sight-fgb-75158
 title: 'Городской парк'
 type: park
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75817'
+id: sight-fgb-75817
 title: 'Родники Святые криницы'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: a7caa7769299a47982d8581654ec17d8.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-77827'
+id: sight-fgb-77827
 title: 'Родник Чертовое окно'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 meta:
     fgb:
         post_id: '77827'

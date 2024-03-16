@@ -1,9 +1,9 @@
-id: 'sight-fgb-99544'
+id: sight-fgb-99544
 title: Лесной
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stdrg'
+    region: region-minsk
+    subregion: subregion-stdrg
 location:
     -
         type: point

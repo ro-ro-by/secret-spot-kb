@@ -1,9 +1,9 @@
-id: 'sight-fgb-95324'
+id: sight-fgb-95324
 title: 'Карлова крыница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 location:
     -
         type: point

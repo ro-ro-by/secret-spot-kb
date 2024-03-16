@@ -1,9 +1,9 @@
-id: 'sight-fgb-75824'
+id: sight-fgb-75824
 title: Крыница
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 356e3d3ca20db9a33b598abf93350dda.png

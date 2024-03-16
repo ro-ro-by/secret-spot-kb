@@ -1,9 +1,9 @@
-id: 'sight-fgb-100113'
+id: sight-fgb-100113
 title: 'Сіні камень (Вялікі камень)'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-smlv'
+    region: region-minsk
+    subregion: subregion-smlv
 meta:
     fgb:
         post_id: '100113'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74728'
+id: sight-fgb-74728
 title: 'Белковская криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 meta:
     fgb:
         post_id: '74728'

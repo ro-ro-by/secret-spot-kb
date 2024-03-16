@@ -1,9 +1,9 @@
-id: 'sight-fgb-100628'
+id: sight-fgb-100628
 title: 'Родник Завершье'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: d77a59c4f841ff36ed9307066c8e9e26.jpg

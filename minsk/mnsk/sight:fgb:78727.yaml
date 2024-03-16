@@ -1,9 +1,9 @@
-id: 'sight-fgb-78727'
+id: sight-fgb-78727
 title: 'Питьевой фонтан на Казинца'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 8cdf4d8279a4fd5aaa4f4f1e16425fef.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-96568'
+id: sight-fgb-96568
 title: 'Парк Рудаков'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hnk'
+    region: region-gomel
+    subregion: subregion-hnk
 images:
     -
         file: 7a5a7393f9ee0965ca27d7c6bf69042c.jpg

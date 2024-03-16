@@ -1,9 +1,9 @@
-id: 'sight-fgb-95960'
+id: sight-fgb-95960
 title: 'Парк Колдычево'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 17fbec8cb76eb87b28d4fd13429cfb80.jpg

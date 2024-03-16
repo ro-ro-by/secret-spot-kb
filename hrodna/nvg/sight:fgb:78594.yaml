@@ -1,9 +1,9 @@
-id: 'sight-fgb-78594'
+id: sight-fgb-78594
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 location:
     -
         type: point

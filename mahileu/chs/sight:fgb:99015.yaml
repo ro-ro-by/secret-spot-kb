@@ -1,9 +1,9 @@
-id: 'sight-fgb-99015'
+id: sight-fgb-99015
 title: Рагозинка-1
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 images:
     -
         file: bec758afba9baa8b3cf7e88b4a3dcfeb.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-101128'
+id: sight-fgb-101128
 title: 'Камень, які закрывае ваду'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 meta:
     fgb:
         post_id: '101128'
