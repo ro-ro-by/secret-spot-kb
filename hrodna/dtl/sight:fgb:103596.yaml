@@ -1,9 +1,9 @@
-id: 'sight:fgb:103596'
+id: 'sight-fgb-103596'
 title: 'Замкавая гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:dtl'
+    region: 'region-hrodna'
+    subregion: 'subregion-dtl'
 meta:
     fgb:
         post_id: '103596'

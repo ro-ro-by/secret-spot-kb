@@ -1,9 +1,9 @@
-id: 'sight:fgb:79511'
+id: 'sight-fgb-79511'
 title: Дворище-Гай
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 location:
     -
         type: point

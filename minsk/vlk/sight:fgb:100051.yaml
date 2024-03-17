@@ -1,9 +1,9 @@
-id: 'sight:fgb:100051'
+id: 'sight-fgb-100051'
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: be9c92c7482f40499446662a2ce74a01.jpg

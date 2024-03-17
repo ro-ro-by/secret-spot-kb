@@ -1,9 +1,9 @@
-id: 'sight:fgb:86912'
+id: 'sight-fgb-86912'
 title: 'Памяти Матери'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: cc4e5fa1d88316de480aa9d852d3a778.jpg

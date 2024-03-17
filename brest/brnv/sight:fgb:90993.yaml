@@ -1,9 +1,9 @@
-id: 'sight:fgb:90993'
+id: 'sight-fgb-90993'
 title: 'Парк Сочивки'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 meta:
     fgb:
         post_id: '90993'

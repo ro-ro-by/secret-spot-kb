@@ -1,9 +1,9 @@
-id: 'sight:fgb:101058'
+id: 'sight-fgb-101058'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: d56c4eb1301172a949716d0c74765048.jpg

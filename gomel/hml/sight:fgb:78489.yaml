@@ -1,9 +1,9 @@
-id: 'sight:fgb:78489'
+id: 'sight-fgb-78489'
 title: Клёнки-2
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:hml'
+    region: 'region-gomel'
+    subregion: 'subregion-hml'
 location:
     -
         type: point

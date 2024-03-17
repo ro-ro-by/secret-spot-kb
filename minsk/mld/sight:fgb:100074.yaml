@@ -1,9 +1,9 @@
-id: 'sight:fgb:100074'
+id: 'sight-fgb-100074'
 title: 'Камень Вінцусь'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '100074'

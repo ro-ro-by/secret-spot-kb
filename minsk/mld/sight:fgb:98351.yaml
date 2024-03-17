@@ -1,9 +1,9 @@
-id: 'sight:fgb:98351'
+id: 'sight-fgb-98351'
 title: Гидропарк
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 60bc9735eb8e9492391b07d1237ae0d5.jpg

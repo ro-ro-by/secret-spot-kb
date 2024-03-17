@@ -1,9 +1,9 @@
-id: 'sight:fgb:70786'
+id: 'sight-fgb-70786'
 title: 'Пойменная дубрава'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 forest:
     dominated_type: oak
     types:

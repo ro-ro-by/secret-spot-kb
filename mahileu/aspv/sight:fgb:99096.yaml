@@ -1,9 +1,9 @@
-id: 'sight:fgb:99096'
+id: 'sight-fgb-99096'
 title: 'У военного городка'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 location:
     -
         type: point

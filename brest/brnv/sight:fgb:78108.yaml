@@ -1,9 +1,9 @@
-id: 'sight:fgb:78108'
+id: 'sight-fgb-78108'
 title: Молчадка
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 343da6079c80716876ba12bc9b933d41.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:98004'
+id: 'sight-fgb-98004'
 title: 'Парк Иванск'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 meta:
     fgb:
         post_id: '98004'

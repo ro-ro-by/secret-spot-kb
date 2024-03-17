@@ -1,9 +1,9 @@
-id: 'sight:fgb:78945'
+id: 'sight-fgb-78945'
 title: Крыничник
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 meta:
     fgb:
         post_id: '78945'

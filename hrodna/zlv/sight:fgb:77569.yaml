@@ -1,9 +1,9 @@
-id: 'sight:fgb:77569'
+id: 'sight-fgb-77569'
 title: Лесной
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: 4523110af35f677c1eba621a0a0f9f07.jpg

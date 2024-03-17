@@ -1,9 +1,9 @@
-id: 'sight:fgb:78680'
+id: 'sight-fgb-78680'
 title: 'Страплевский родник'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 647c87ac8bbd420911a564a899d74539.jpg

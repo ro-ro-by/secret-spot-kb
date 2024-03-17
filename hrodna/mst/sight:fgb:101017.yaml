@@ -1,9 +1,9 @@
-id: 'sight:fgb:101017'
+id: 'sight-fgb-101017'
 title: 'Камень Міхасю Явару'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '101017'

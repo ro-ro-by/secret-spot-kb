@@ -1,9 +1,9 @@
-id: 'sight:fgb:100133'
+id: 'sight-fgb-100133'
 title: 'Камень з выемкай'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:nrvl'
+    region: 'region-gomel'
+    subregion: 'subregion-nrvl'
 meta:
     fgb:
         post_id: '100133'

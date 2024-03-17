@@ -1,9 +1,9 @@
-id: 'sight:fgb:96464'
+id: 'sight-fgb-96464'
 title: 'Парк Теолин'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 meta:
     fgb:
         post_id: '96464'

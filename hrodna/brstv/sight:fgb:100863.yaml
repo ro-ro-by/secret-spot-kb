@@ -1,9 +1,9 @@
-id: 'sight:fgb:100863'
+id: 'sight-fgb-100863'
 title: Камень-следавік
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 meta:
     fgb:
         post_id: '100863'

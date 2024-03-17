@@ -1,9 +1,9 @@
-id: 'sight:fgb:101125'
+id: 'sight-fgb-101125'
 title: 'Перуноў камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 meta:
     fgb:
         post_id: '101125'

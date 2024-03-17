@@ -1,9 +1,9 @@
-id: 'sight:fgb:75574'
+id: 'sight-fgb-75574'
 title: 'Гора Подвысокая (Кам)'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: b0c428a19cfb011058df0314d0f79edd.jpg

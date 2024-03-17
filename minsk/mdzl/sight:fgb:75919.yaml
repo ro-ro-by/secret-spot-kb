@@ -1,9 +1,9 @@
-id: 'sight:fgb:75919'
+id: 'sight-fgb-75919'
 title: 'Парк Ольшево'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78745'
+id: 'sight-fgb-78745'
 title: Вязынка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 65591cb22c3029110f907262fea03ace.jpg

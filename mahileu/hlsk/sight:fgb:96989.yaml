@@ -1,9 +1,9 @@
-id: 'sight:fgb:96989'
+id: 'sight-fgb-96989'
 title: 'Акулова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hlsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hlsk'
 images:
     -
         file: 724fdf5c4aed740e74fa07a3d6929e79.png

@@ -1,9 +1,9 @@
-id: 'sight:fgb:70790'
+id: 'sight-fgb-70790'
 title: 'На склоне Луковой горы'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 59e813bf8f1797f601e0c7d55767e5f5.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75955'
+id: 'sight-fgb-75955'
 title: 'Насаждение с участием экзотов Городейское'
 type: forest
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 7951441c14838345f8a3476adf070752.jpg

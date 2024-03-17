@@ -1,9 +1,9 @@
-id: 'sight:fgb:76002'
+id: 'sight-fgb-76002'
 title: 'Тычины 2'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 images:
     -
         file: c3d4d9ad9634fa1f6ca6e894f3c2b164.jpg

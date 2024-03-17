@@ -1,9 +1,9 @@
-id: 'sight:fgb:101075'
+id: 'sight-fgb-101075'
 title: 'Ласіны камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '101075'

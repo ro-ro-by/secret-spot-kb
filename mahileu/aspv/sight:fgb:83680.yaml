@@ -1,9 +1,9 @@
-id: 'sight:fgb:83680'
+id: 'sight-fgb-83680'
 title: 'Под липкой'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 meta:
     fgb:
         post_id: '83680'

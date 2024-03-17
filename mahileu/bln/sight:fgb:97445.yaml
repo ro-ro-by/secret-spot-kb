@@ -1,9 +1,9 @@
-id: 'sight:fgb:97445'
+id: 'sight-fgb-97445'
 title: Рудьё
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: 317389d5ff387bc4c712b16cc9ad510c.jpg

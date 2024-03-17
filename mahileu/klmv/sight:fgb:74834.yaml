@@ -1,9 +1,9 @@
-id: 'sight:fgb:74834'
+id: 'sight-fgb-74834'
 title: 'Гремучая (Святого Николая)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klmv'
+    region: 'region-mahileu'
+    subregion: 'subregion-klmv'
 images:
     -
         file: ee9fbda45b7d1bd8d3486d3c6be2600f.jpg

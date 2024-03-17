@@ -1,9 +1,9 @@
-id: 'sight:fgb:99546'
+id: 'sight-fgb-99546'
 title: Студенец
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '99546'

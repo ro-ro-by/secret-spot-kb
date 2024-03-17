@@ -1,9 +1,9 @@
-id: 'sight:fgb:95314'
+id: 'sight-fgb-95314'
 title: 'Родник Козловичи-2'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 4d983679a127a8ba230fca5fb78bb480.jpg

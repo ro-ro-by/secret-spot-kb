@@ -1,9 +1,9 @@
-id: 'sight:fgb:99979'
+id: 'sight-fgb-99979'
 title: 'Вялікі камень старадворскі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 images:
     -
         file: 740d03465661ec60a23f4d183fc3bdde.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99089'
+id: 'sight-fgb-99089'
 title: Дараганово
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: d48d8f7e0bf6c7077f13fe84568a0e45.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78694'
+id: 'sight-fgb-78694'
 title: '4 родника'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '78694'

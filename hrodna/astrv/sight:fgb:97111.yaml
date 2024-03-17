@@ -1,9 +1,9 @@
-id: 'sight:fgb:97111'
+id: 'sight-fgb-97111'
 title: 'Корытоподобные камни'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 images:
     -
         file: efd29a4e7043c574d794399653853900.jpg

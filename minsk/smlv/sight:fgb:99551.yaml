@@ -1,9 +1,9 @@
-id: 'sight:fgb:99551'
+id: 'sight-fgb-99551'
 title: Ковалевщина-1
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 location:
     -
         type: point

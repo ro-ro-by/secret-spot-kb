@@ -1,9 +1,9 @@
-id: 'sight:fgb:103113'
+id: 'sight-fgb-103113'
 title: 'Красная гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:brg'
+    region: 'region-gomel'
+    subregion: 'subregion-brg'
 meta:
     fgb:
         post_id: '103113'

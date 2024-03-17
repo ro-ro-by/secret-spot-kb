@@ -1,9 +1,9 @@
-id: 'sight:fgb:77578'
+id: 'sight-fgb-77578'
 title: 'Дуб-тройник Свитязянский'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 546c56104163928a2afe46293525c21b.jpg

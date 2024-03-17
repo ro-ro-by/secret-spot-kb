@@ -1,9 +1,9 @@
-id: 'sight:fgb:75569'
+id: 'sight-fgb-75569'
 title: 'Большой камень лыцевичский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: be25915fb6469a518928ceb2a99311ec.jpg

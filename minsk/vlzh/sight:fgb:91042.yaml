@@ -1,9 +1,9 @@
-id: 'sight:fgb:91042'
+id: 'sight-fgb-91042'
 title: Боровиковщина-2
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 26a488d60130864605e6478dd14da7e9.jpg

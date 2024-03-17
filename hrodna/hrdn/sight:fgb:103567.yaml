@@ -1,9 +1,9 @@
-id: 'sight:fgb:103567'
+id: 'sight-fgb-103567'
 title: 'Гара Высокая'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '103567'

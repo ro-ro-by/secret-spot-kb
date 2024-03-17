@@ -1,9 +1,9 @@
-id: 'sight:fgb:76359'
+id: 'sight-fgb-76359'
 title: 'Дубовые насаждения Падоры'
 type: forest
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 location:
     -
         type: point

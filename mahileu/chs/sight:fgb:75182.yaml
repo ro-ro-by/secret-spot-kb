@@ -1,9 +1,9 @@
-id: 'sight:fgb:75182'
+id: 'sight-fgb-75182'
 title: 'Пильёнова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 meta:
     fgb:
         post_id: '75182'

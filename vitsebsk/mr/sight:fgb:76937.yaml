@@ -1,9 +1,9 @@
-id: 'sight:fgb:76937'
+id: 'sight-fgb-76937'
 title: 'Родник Святая вода Дехтяревская'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 images:
     -
         file: 7417b81bfc3f479596f9d0ef75573b83.jpg

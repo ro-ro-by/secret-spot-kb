@@ -1,9 +1,9 @@
-id: 'sight:fgb:102680'
+id: 'sight-fgb-102680'
 title: 'Горы Шаламы'
 type: sacral_hill
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 meta:
     fgb:
         post_id: '102680'

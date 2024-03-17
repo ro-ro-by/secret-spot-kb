@@ -1,9 +1,9 @@
-id: 'sight:fgb:75762'
+id: 'sight-fgb-75762'
 title: Логойск-1
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: 6f28c6331b3d22ae479e6c5cfa1495f9.jpg

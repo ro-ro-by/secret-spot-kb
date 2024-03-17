@@ -1,9 +1,9 @@
-id: 'sight:fgb:79275'
+id: 'sight-fgb-79275'
 title: 'Солдатский на Энке'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 6e9e5ce9ace0360155f09af2a6eb5b9b.jpg

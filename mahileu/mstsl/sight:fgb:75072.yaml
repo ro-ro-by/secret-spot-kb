@@ -1,9 +1,9 @@
-id: 'sight:fgb:75072'
+id: 'sight-fgb-75072'
 title: 'Спорительница хлебов'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: c85e5350b3fd46dba8fbfb25a363d35b.jpg

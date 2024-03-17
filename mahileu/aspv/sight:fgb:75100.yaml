@@ -1,9 +1,9 @@
-id: 'sight:fgb:75100'
+id: 'sight-fgb-75100'
 title: 'У братской могилы (Есин А.С., Фальковский)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: f4d9412c70aaeb870e0070fa8e62ffa9.jpg

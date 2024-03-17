@@ -1,9 +1,9 @@
-id: 'sight:fgb:100035'
+id: 'sight-fgb-100035'
 title: 'Чортаў камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 meta:
     fgb:
         post_id: '100035'

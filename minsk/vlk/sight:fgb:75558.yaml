@@ -1,9 +1,9 @@
-id: 'sight:fgb:75558'
+id: 'sight-fgb-75558'
 title: 'Обнажение Винцентово'
 type: outcrop
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 962c2c15dac504414d84557781341da4.jpg

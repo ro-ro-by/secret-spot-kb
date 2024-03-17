@@ -1,9 +1,9 @@
-id: 'sight:fgb:99446'
+id: 'sight-fgb-99446'
 title: Воронча-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 location:
     -
         type: point

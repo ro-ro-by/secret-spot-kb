@@ -1,9 +1,9 @@
-id: 'sight:fgb:75934'
+id: 'sight-fgb-75934'
 title: Камень-ступа
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 39ab489f3c696d95874458dce66ff327.jpg

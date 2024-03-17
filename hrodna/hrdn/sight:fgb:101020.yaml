@@ -1,9 +1,9 @@
-id: 'sight:fgb:101020'
+id: 'sight-fgb-101020'
 title: 'Камень Элаізы Ажэшкі'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: a656a385b1c63cbd24042e45f8781f41.jpg

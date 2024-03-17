@@ -1,9 +1,9 @@
-id: 'sight:fgb:79440'
+id: 'sight-fgb-79440'
 title: 'На Железнодорожной'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 4a7aaed6c895b72d492df875f9968044.jpg

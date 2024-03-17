@@ -1,9 +1,9 @@
-id: 'sight:fgb:75083'
+id: 'sight-fgb-75083'
 title: 'Рыбацкая криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 location:
     -
         type: point

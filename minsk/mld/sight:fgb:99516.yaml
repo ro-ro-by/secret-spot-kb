@@ -1,9 +1,9 @@
-id: 'sight:fgb:99516'
+id: 'sight-fgb-99516'
 title: 'Ліпавая алея ў вёсцы Баяры'
 type: alley
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 3dd4bf5a7614ea8438f67e4b3a937b56.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:79492'
+id: 'sight-fgb-79492'
 title: Левобережный
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 images:
     -
         file: 091dbd72fab1d7225658250cb939cb09.jpg

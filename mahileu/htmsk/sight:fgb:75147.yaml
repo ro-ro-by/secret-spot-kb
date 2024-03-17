@@ -1,9 +1,9 @@
-id: 'sight:fgb:75147'
+id: 'sight-fgb-75147'
 title: 'Отдельно стоящий дуб'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 tree:
     type: oak
 location:

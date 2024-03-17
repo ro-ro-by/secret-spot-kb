@@ -1,9 +1,9 @@
-id: 'sight:fgb:78884'
+id: 'sight-fgb-78884'
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 meta:
     fgb:
         post_id: '78884'

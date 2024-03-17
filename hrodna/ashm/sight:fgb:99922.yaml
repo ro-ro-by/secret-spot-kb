@@ -1,9 +1,9 @@
-id: 'sight:fgb:99922'
+id: 'sight-fgb-99922'
 title: 'Чортаў след (Чортаў ступень)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 meta:
     fgb:
         post_id: '99922'

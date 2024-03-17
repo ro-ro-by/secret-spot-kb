@@ -1,9 +1,9 @@
-id: 'sight:fgb:88134'
+id: 'sight-fgb-88134'
 title: Береговой
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krch'
+    region: 'region-mahileu'
+    subregion: 'subregion-krch'
 images:
     -
         file: b66170c55376912bd2c9a2ae698921ad.jpg

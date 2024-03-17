@@ -1,9 +1,9 @@
-id: 'sight:fgb:95769'
+id: 'sight-fgb-95769'
 title: 'Дуб Троцкого'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:chrv'
+    region: 'region-minsk'
+    subregion: 'subregion-chrv'
 tree:
     type: oak
 meta:

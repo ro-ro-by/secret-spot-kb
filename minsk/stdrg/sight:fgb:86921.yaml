@@ -1,9 +1,9 @@
-id: 'sight:fgb:86921'
+id: 'sight-fgb-86921'
 title: Князев
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stdrg'
+    region: 'region-minsk'
+    subregion: 'subregion-stdrg'
 meta:
     fgb:
         post_id: '86921'

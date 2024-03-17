@@ -1,9 +1,9 @@
-id: 'sight:fgb:99831'
+id: 'sight-fgb-99831'
 title: 'Камень са следам падковы'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '99831'

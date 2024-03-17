@@ -1,9 +1,9 @@
-id: 'sight:fgb:75611'
+id: 'sight-fgb-75611'
 title: 'Парк Андривонж'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: f2588d70c324905b844e9dea7baf10c6.jpg

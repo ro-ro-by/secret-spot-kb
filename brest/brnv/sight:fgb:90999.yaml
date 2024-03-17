@@ -1,9 +1,9 @@
-id: 'sight:fgb:90999'
+id: 'sight-fgb-90999'
 title: 'Сунгловщина-2 (Школьный)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 493fb9209a58f6d535bc8fb9c83a8c83.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99657'
+id: 'sight-fgb-99657'
 title: 'Парк Флорианово'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '99657'

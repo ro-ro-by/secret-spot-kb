@@ -1,9 +1,9 @@
-id: 'sight:fgb:76727'
+id: 'sight-fgb-76727'
 title: Супонец-3
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 images:
     -
         file: e324e10c31980acfaf89a0f0f7bff44f.jpg

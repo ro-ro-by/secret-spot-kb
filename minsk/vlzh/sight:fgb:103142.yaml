@@ -1,9 +1,9 @@
-id: 'sight:fgb:103142'
+id: 'sight-fgb-103142'
 title: 'Катовая гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '103142'

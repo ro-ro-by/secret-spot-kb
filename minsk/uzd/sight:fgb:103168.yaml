@@ -1,9 +1,9 @@
-id: 'sight:fgb:103168'
+id: 'sight-fgb-103168'
 title: 'Барсукова гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:uzd'
+    region: 'region-minsk'
+    subregion: 'subregion-uzd'
 meta:
     fgb:
         post_id: '103168'

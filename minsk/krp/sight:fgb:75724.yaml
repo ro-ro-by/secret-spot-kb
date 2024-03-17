@@ -1,9 +1,9 @@
-id: 'sight:fgb:75724'
+id: 'sight-fgb-75724'
 title: Брище
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 28769ce00215746105231511dcc6e12d.jpg

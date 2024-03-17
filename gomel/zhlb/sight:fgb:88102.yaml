@@ -1,9 +1,9 @@
-id: 'sight:fgb:88102'
+id: 'sight-fgb-88102'
 title: Истобки-1
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 images:
     -
         file: 041779eb362a1e2b19aba91efa00018e.jpg

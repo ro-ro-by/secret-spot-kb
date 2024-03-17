@@ -1,9 +1,9 @@
-id: 'sight:fgb:79603'
+id: 'sight-fgb-79603'
 title: Горы
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 images:
     -
         file: 808fba089c46f076b11d603ea8a72f7d.jpg

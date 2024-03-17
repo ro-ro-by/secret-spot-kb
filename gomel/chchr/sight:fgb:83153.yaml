@@ -1,9 +1,9 @@
-id: 'sight:fgb:83153'
+id: 'sight-fgb-83153'
 title: Сергеева-1
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: bbb5ce8b7acb73bf80c581cbaf489328.jpg

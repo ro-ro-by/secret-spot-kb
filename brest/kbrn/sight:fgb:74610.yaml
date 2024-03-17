@@ -1,9 +1,9 @@
-id: 'sight:fgb:74610'
+id: 'sight-fgb-74610'
 title: 'Богоявленский источник'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: dcbabbc952f7206e7c2ea293165a4aae.jpg

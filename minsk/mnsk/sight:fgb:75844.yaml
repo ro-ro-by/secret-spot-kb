@@ -1,9 +1,9 @@
-id: 'sight:fgb:75844'
+id: 'sight-fgb-75844'
 title: Озёрный
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 meta:
     fgb:
         post_id: '75844'

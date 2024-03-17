@@ -1,9 +1,9 @@
-id: 'sight:fgb:96445'
+id: 'sight-fgb-96445'
 title: 'Бювет минеральной воды'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:uzd'
+    region: 'region-minsk'
+    subregion: 'subregion-uzd'
 meta:
     fgb:
         post_id: '96445'

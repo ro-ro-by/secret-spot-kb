@@ -1,9 +1,9 @@
-id: 'sight:fgb:75834'
+id: 'sight-fgb-75834'
 title: 'Бювет Криница'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 6bbfe9d5c329533c0819019453ee2e03.jpg

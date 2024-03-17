@@ -1,9 +1,9 @@
-id: 'sight:fgb:74616'
+id: 'sight-fgb-74616'
 title: 'Парк Совейки'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 location:
     -
         type: point

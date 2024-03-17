@@ -1,9 +1,9 @@
-id: 'sight:fgb:75564'
+id: 'sight-fgb-75564'
 title: 'Парк Остюковичи'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: a4df90707ca4d79e9a6c8a41ddc2fbfb.jpg

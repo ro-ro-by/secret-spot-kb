@@ -1,9 +1,9 @@
-id: 'sight:fgb:100879'
+id: 'sight-fgb-100879'
 title: 'Камень-печ (Чортаў камень)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:bshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-bshn'
 meta:
     fgb:
         post_id: '100879'

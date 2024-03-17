@@ -1,9 +1,9 @@
-id: 'sight:fgb:75053'
+id: 'sight-fgb-75053'
 title: 'Святителя Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '75053'

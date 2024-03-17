@@ -1,9 +1,9 @@
-id: 'sight:fgb:96282'
+id: 'sight-fgb-96282'
 title: 'Слядок аленя (Лечебный камень)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '96282'

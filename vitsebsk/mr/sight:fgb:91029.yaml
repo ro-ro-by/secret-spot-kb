@@ -1,9 +1,9 @@
-id: 'sight:fgb:91029'
+id: 'sight-fgb-91029'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 meta:
     fgb:
         post_id: '91029'

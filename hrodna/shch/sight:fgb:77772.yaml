@@ -1,9 +1,9 @@
-id: 'sight:fgb:77772'
+id: 'sight-fgb-77772'
 title: 'Парк Большое Можейково'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: 3e583206156ecfe471d0069316631a86.jpg

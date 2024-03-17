@@ -1,9 +1,9 @@
-id: 'sight:fgb:88112'
+id: 'sight-fgb-88112'
 title: 'Анютины Глазки'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 06b7ec592bb2aa9561ccf5e008a583a0.jpg

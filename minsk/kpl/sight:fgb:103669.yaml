@@ -1,9 +1,9 @@
-id: 'sight:fgb:103669'
+id: 'sight-fgb-103669'
 title: 'Гара Курган'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 meta:
     fgb:
         post_id: '103669'

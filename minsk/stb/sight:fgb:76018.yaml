@@ -1,9 +1,9 @@
-id: 'sight:fgb:76018'
+id: 'sight-fgb-76018'
 title: 'Липы американские Нововесковские'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 tree:
     type: tilia
 location:

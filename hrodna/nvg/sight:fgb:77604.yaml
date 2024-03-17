@@ -1,9 +1,9 @@
-id: 'sight:fgb:77604'
+id: 'sight-fgb-77604'
 title: Макавеев
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: b4fd51cebd9db3a3177e1677b5731de0.jpg

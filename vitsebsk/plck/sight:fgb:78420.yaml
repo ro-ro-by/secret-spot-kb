@@ -1,9 +1,9 @@
-id: 'sight:fgb:78420'
+id: 'sight-fgb-78420'
 title: Минеральная-1
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '78420'

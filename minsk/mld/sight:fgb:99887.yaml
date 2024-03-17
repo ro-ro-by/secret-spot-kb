@@ -1,9 +1,9 @@
-id: 'sight:fgb:99887'
+id: 'sight-fgb-99887'
 title: 'Адамаў камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '99887'

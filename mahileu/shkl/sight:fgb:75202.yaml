@@ -1,9 +1,9 @@
-id: 'sight:fgb:75202'
+id: 'sight-fgb-75202'
 title: 'Городской парк'
 type: park
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 images:
     -
         file: d338969e3c25ba49c2deb7fc62b4ae3f.jpg

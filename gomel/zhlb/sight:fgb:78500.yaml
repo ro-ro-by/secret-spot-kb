@@ -1,9 +1,9 @@
-id: 'sight:fgb:78500'
+id: 'sight-fgb-78500'
 title: 'Ильинка (Святого Илии)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 images:
     -
         file: c1b025c68ff83fe16352643c98dfcfb5.jpg

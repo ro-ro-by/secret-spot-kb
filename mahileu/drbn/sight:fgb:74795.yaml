@@ -1,9 +1,9 @@
-id: 'sight:fgb:74795'
+id: 'sight-fgb-74795'
 title: 'Лесные богатыри'
 type: TODO
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: eede30d70f49c96c0c0915e2018acc30.jpg

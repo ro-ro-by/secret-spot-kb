@@ -1,9 +1,9 @@
-id: 'sight:fgb:94205'
+id: 'sight-fgb-94205'
 title: Святой
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 51b55eb15132888c4d8f6c73b823a8b6.jpg

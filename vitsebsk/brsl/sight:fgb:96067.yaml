@@ -1,9 +1,9 @@
-id: 'sight:fgb:96067'
+id: 'sight-fgb-96067'
 title: 'Парк Заверье'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 images:
     -
         file: 848184747e40dc6abbbc67bc363d1e9a.jpg

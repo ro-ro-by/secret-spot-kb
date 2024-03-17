@@ -1,9 +1,9 @@
-id: 'sight:fgb:74501'
+id: 'sight-fgb-74501'
 title: 'Старинный парк «Габрилево»'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 images:
     -
         file: 34854e093cc3583cdb7d5fda5323c60e.jpg

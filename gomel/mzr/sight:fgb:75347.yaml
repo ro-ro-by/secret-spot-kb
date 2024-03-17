@@ -1,9 +1,9 @@
-id: 'sight:fgb:75347'
+id: 'sight-fgb-75347'
 title: 'Кустовница-Криничанский (№13, в честь иконы Божией Матери "Живоносный источник")'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: c033b8f6b72036e24058714b08737dc0.jpg

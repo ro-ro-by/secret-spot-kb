@@ -1,9 +1,9 @@
-id: 'sight:fgb:78649'
+id: 'sight-fgb-78649'
 title: 'Святителя Николая Чудотворца (Панский)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 images:
     -
         file: c2c9c03b1b5988c08d1079293d52a24d.jpg

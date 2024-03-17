@@ -1,9 +1,9 @@
-id: 'sight:fgb:70793'
+id: 'sight-fgb-70793'
 title: 'Каменная чаша'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: aad6f2c1f975477ede83b9ed204d9761.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78555'
+id: 'sight-fgb-78555'
 title: 'На Лесной'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 location:
     -
         type: point

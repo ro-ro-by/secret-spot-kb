@@ -1,9 +1,9 @@
-id: 'sight:fgb:75689'
+id: 'sight-fgb-75689'
 title: 'Родник Бездонная Яма'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 2bea6bc8e5c5d73e5bd83dca0ec7fcb9.jpg

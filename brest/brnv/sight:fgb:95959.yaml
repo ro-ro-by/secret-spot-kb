@@ -1,9 +1,9 @@
-id: 'sight:fgb:95959'
+id: 'sight-fgb-95959'
 title: 'Парк Ясенец'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 13ee31354bd1af961764ab2478f17b6d.jpg

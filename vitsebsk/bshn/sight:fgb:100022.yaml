@@ -1,9 +1,9 @@
-id: 'sight:fgb:100022'
+id: 'sight-fgb-100022'
 title: Верамей-камень
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:bshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-bshn'
 meta:
     fgb:
         post_id: '100022'

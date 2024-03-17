@@ -1,9 +1,9 @@
-id: 'sight:fgb:77004'
+id: 'sight-fgb-77004'
 title: 'Святого Пантелеймона'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 images:
     -
         file: 7d461f8f459d2188ea71c253c1a54629.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:100160'
+id: 'sight-fgb-100160'
 title: 'Камень з выявамі'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: f6e018df629d1bab92078cb1cb1b605f.jpg

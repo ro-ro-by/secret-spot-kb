@@ -1,9 +1,9 @@
-id: 'sight:fgb:99090'
+id: 'sight-fgb-99090'
 title: 'У одинокой сосны'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 8f2ee3c4695bb5f0f44345ecbefd9869.jpg

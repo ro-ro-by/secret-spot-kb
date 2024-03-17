@@ -1,9 +1,9 @@
-id: 'sight:fgb:88138'
+id: 'sight-fgb-88138'
 title: Кривослободский
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 images:
     -
         file: 985a47e6becec7d88e2326df9a3572f0.jpg

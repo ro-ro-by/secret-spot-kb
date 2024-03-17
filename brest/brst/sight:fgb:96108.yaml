@@ -1,9 +1,9 @@
-id: 'sight:fgb:96108'
+id: 'sight-fgb-96108'
 title: 'Брестские гледичии'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 80921a0434870b7d3549dda58ed3fe08.jpg

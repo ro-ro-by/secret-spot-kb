@@ -1,9 +1,9 @@
-id: 'sight:fgb:78707'
+id: 'sight-fgb-78707'
 title: Шейбака
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 images:
     -
         file: f55c3ab484643bbb5aaaff8374703b05.jpg

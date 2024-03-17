@@ -1,9 +1,9 @@
-id: 'sight:fgb:75917'
+id: 'sight-fgb-75917'
 title: 'Полуостров Черевки'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 3e51365b083557f9c7a452e9675014f9.jpg

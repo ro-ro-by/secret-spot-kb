@@ -1,9 +1,9 @@
-id: 'sight:fgb:75903'
+id: 'sight-fgb-75903'
 title: 'Валун Большой камень мацкийский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 668539e6b9166eaa79bb992f03fc2b99.jpg

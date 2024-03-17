@@ -1,9 +1,9 @@
-id: 'sight:fgb:100871'
+id: 'sight-fgb-100871'
 title: 'Камень з надпісам'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '100871'

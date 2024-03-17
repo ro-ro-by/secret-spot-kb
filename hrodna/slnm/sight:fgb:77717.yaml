@@ -1,9 +1,9 @@
-id: 'sight:fgb:77717'
+id: 'sight-fgb-77717'
 title: 'Новый (Ближний, иконы Божией Матери)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 6978905f3d94d44358769cc0504df811.jpg

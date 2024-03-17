@@ -1,9 +1,9 @@
-id: 'sight:fgb:101494'
+id: 'sight-fgb-101494'
 title: 'Городечненские сосны'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: 932f927e177fb09e8ae3fecb0d92df06.jpg

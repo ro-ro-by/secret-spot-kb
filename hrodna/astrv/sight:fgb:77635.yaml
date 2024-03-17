@@ -1,9 +1,9 @@
-id: 'sight:fgb:77635'
+id: 'sight-fgb-77635'
 title: 'Святоянская криница'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 images:
     -
         file: baa27ab30e0a8b511b41996315b6dc2c.jpg

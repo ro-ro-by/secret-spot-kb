@@ -1,9 +1,9 @@
-id: 'sight:fgb:77491'
+id: 'sight-fgb-77491'
 title: 'Большой камень лаздуновский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: 98babe82eface66d7350a845dbbcb08f.jpg

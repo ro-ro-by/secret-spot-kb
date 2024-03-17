@@ -1,9 +1,9 @@
-id: 'sight:fgb:74826'
+id: 'sight-fgb-74826'
 title: 'Бювет святой Троицы'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsk'
 images:
     -
         file: 0250b48a6ed3ba2ca5585e677946ee71.jpg

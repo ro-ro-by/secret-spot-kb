@@ -1,9 +1,9 @@
-id: 'sight:fgb:76819'
+id: 'sight-fgb-76819'
 title: 'Территория карьера льнозавода'
 type: area
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dbrn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dbrn'
 images:
     -
         file: 5cd55b414d531c905faee7ed3a905430.jpg

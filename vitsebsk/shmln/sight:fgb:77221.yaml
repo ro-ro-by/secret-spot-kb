@@ -1,9 +1,9 @@
-id: 'sight:fgb:77221'
+id: 'sight-fgb-77221'
 title: 'Валун чорнаручайскі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 meta:
     fgb:
         post_id: '77221'

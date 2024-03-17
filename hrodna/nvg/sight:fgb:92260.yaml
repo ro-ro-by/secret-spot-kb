@@ -1,9 +1,9 @@
-id: 'sight:fgb:92260'
+id: 'sight-fgb-92260'
 title: 'Костёльный (В Фарном костеле)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77801'
+id: 'sight-fgb-77801'
 title: Буйвичи
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: ad1a9fdc949e4a57e772510e7a01070c.jpg

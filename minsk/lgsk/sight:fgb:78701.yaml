@@ -1,9 +1,9 @@
-id: 'sight:fgb:78701'
+id: 'sight-fgb-78701'
 title: 'Парк Малые Бесяды'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lgsk'
+    region: 'region-minsk'
+    subregion: 'subregion-lgsk'
 meta:
     fgb:
         post_id: '78701'

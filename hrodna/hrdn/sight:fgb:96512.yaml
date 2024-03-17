@@ -1,9 +1,9 @@
-id: 'sight:fgb:96512'
+id: 'sight-fgb-96512'
 title: 'Вековой дуб у деревни Лесница'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 tree:
     type: oak
 location:

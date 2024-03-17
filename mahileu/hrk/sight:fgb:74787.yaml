@@ -1,9 +1,9 @@
-id: 'sight:fgb:74787'
+id: 'sight-fgb-74787'
 title: Мерея
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 location:
     -
         type: point

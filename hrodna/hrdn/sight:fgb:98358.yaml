@@ -1,9 +1,9 @@
-id: 'sight:fgb:98358'
+id: 'sight-fgb-98358'
 title: Тарусичи
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 72e5e6c82ac837ad062384fef43619e5.jpg

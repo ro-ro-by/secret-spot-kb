@@ -1,9 +1,9 @@
-id: 'sight:fgb:75332'
+id: 'sight-fgb-75332'
 title: 'Борисковичи-2 (№31)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: ff01280b644ea8a9462decdccb5ee279.jpg

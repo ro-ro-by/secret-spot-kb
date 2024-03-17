@@ -1,9 +1,9 @@
-id: 'sight:fgb:99000'
+id: 'sight-fgb-99000'
 title: Коровчино-1
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 location:
     -
         type: point

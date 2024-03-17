@@ -1,9 +1,9 @@
-id: 'sight:fgb:103012'
+id: 'sight-fgb-103012'
 title: 'Лоева гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:loeu'
+    region: 'region-gomel'
+    subregion: 'subregion-loeu'
 meta:
     fgb:
         post_id: '103012'

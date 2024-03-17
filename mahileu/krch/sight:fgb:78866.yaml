@@ -1,9 +1,9 @@
-id: 'sight:fgb:78866'
+id: 'sight-fgb-78866'
 title: Ильинский
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krch'
+    region: 'region-mahileu'
+    subregion: 'subregion-krch'
 images:
     -
         file: 7516c4cf2b688c6841403e369ad994f7.jpg

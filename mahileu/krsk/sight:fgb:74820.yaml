@@ -1,9 +1,9 @@
-id: 'sight:fgb:74820'
+id: 'sight-fgb-74820'
 title: 'Дубовая роща'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsk'
 forest:
     dominated_type: oak
 location:

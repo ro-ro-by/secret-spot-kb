@@ -1,9 +1,9 @@
-id: 'sight:fgb:76804'
+id: 'sight-fgb-76804'
 title: 'Окаменелый Медведь'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 97c311e3f07a0aa6a85ed4cbfcf11e81.jpg

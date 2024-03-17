@@ -1,9 +1,9 @@
-id: 'sight:fgb:75002'
+id: 'sight-fgb-75002'
 title: 'Костел (Ясеневый гай)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 images:
     -
         file: 57a175fe9e1508d7de7d4fb2ff28cb36.jpg

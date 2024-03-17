@@ -1,9 +1,9 @@
-id: 'sight:fgb:74546'
+id: 'sight-fgb-74546'
 title: 'Каменный идол'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:zhbnk'
+    region: 'region-brest'
+    subregion: 'subregion-zhbnk'
 images:
     -
         file: 7042f7ef1be87d243a81d43db6dbf349.jpg

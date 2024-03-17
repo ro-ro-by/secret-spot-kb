@@ -1,9 +1,9 @@
-id: 'sight:fgb:88091'
+id: 'sight-fgb-88091'
 title: 'Колодец Далмана'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 images:
     -
         file: 1ee598ffad493093cc13c6de6783a5b8.jpg

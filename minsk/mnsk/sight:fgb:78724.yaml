@@ -1,9 +1,9 @@
-id: 'sight:fgb:78724'
+id: 'sight-fgb-78724'
 title: 'Бювет в Уручье'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 17917e4e82be359de5caaf9d032ff79c.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99421'
+id: 'sight-fgb-99421'
 title: Бювет
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 meta:
     fgb:
         post_id: '99421'

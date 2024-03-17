@@ -1,9 +1,9 @@
-id: 'sight:fgb:75993'
+id: 'sight-fgb-75993'
 title: 'Парк Погост'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 location:
     -
         type: point

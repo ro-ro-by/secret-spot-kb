@@ -1,9 +1,9 @@
-id: 'sight:fgb:74825'
+id: 'sight-fgb-74825'
 title: 'Александра Невского'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsk'
 images:
     -
         file: d81b213b50cbccf3e91b44ab79c3804e.jpg

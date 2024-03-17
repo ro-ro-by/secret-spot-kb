@@ -1,9 +1,9 @@
-id: 'sight:fgb:78776'
+id: 'sight-fgb-78776'
 title: Крыничка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stb'
+    region: 'region-minsk'
+    subregion: 'subregion-stb'
 images:
     -
         file: 3b33cbdac54de49ca9f2ee5c872c8842.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78565'
+id: 'sight-fgb-78565'
 title: Солы-3
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 56600cd0fda3b0ffb8db8cb0b969dc27.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99269'
+id: 'sight-fgb-99269'
 title: Тресковщина
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 974763e1b447b2f85c742424f567ca69.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75636'
+id: 'sight-fgb-75636'
 title: 'Демидовичские родники'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: ad0177ea1c24a525673925699327855b.jpg

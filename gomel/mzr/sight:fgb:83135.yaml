@@ -1,9 +1,9 @@
-id: 'sight:fgb:83135'
+id: 'sight-fgb-83135'
 title: Придорожная-2
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 9c9ea491a7f7da639d0d98d438c735c4.jpg

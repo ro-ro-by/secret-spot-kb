@@ -1,9 +1,9 @@
-id: 'sight:fgb:92223'
+id: 'sight-fgb-92223'
 title: 'Большие Радваничи'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 95fa877c01b734942eb91b9911e96df9.jpg

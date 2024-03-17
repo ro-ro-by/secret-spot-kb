@@ -1,9 +1,9 @@
-id: 'sight:fgb:101068'
+id: 'sight-fgb-101068'
 title: 'Паклонны камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 meta:
     fgb:
         post_id: '101068'

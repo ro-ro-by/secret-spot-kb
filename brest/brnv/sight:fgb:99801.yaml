@@ -1,9 +1,9 @@
-id: 'sight:fgb:99801'
+id: 'sight-fgb-99801'
 title: Войно-Ясенецких
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: c393ba18ad6d3eef62660c38b0b714a7.jpg

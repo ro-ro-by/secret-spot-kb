@@ -1,64 +1,64 @@
 items:
     -
-        id: 'sight-type:alley'
+        id: 'sight_type-alley'
         title: 'Аллея'
     -
-        id: 'sight-type:area'
+        id: 'sight_type-area'
         title: 'Местность'
     -
-        id: 'sight-type:basin'
+        id: 'sight_type-basin'
         title: 'Котловина'
     -
-        id: 'sight-type:boulder'
+        id: 'sight_type-boulder'
         title: 'Валун'
     -
-        id: 'sight-type:cliff'
+        id: 'sight_type-cliff'
         title: 'Уступ'
     -
-        id: 'sight-type:dune'
+        id: 'sight_type-dune'
         title: 'Дюна'
     -
-        id: 'sight-type:esker'
+        id: 'sight_type-esker'
         title: 'Гряда'
     -
-        id: 'sight-type:forest'
+        id: 'sight_type-forest'
         title: 'Лес'
     -
-        id: 'sight-type:geoglyph'
+        id: 'sight_type-geoglyph'
         title: 'Геоглиф'
     -
-        id: 'sight-type:hill'
+        id: 'sight_type-hill'
         title: 'Гора'
     -
-        id: 'sight-type:meteorite'
+        id: 'sight_type-meteorite'
         title: 'Метеорит'
     -
-        id: 'sight-type:outcrop'
+        id: 'sight_type-outcrop'
         title: 'Обнажение'
     -
-        id: 'sight-type:park'
+        id: 'sight_type-park'
         title: 'Парк'
     -
-        id: 'sight-type:river'
+        id: 'sight_type-river'
         title: 'Река'
     -
-        id: 'sight-type:sacral_hill'
+        id: 'sight_type:sacral_hill'
         title: 'Сакральная гора'
     -
-        id: 'sight-type:spring'
+        id: 'sight_type-spring'
         title: 'Родник'
     -
-        id: 'sight-type:stone'
+        id: 'sight_type-stone'
         title: 'Камень'
     -
-        id: 'sight-type:tree'
+        id: 'sight_type-tree'
         title: 'Дерево'
     -
-        id: 'sight-type:сonglomerate'
+        id: 'sight_type-conglomerate'
         title: 'Конгломерат'
     -
-        id: 'sight-type:REMOVE'
+        id: 'sight_type-REMOVE'
         title: '[system] REMOVE'
     -
-        id: 'sight-type:TODO'
+        id: 'sight_type-TODO'
         title: '[system] TODO'

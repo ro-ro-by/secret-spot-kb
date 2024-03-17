@@ -1,9 +1,9 @@
-id: 'sight:fgb:77301'
+id: 'sight-fgb-77301'
 title: 'Большой камень  тусуманский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: 79ad2f29839b2407e57cc85bd7d4bb03.jpg

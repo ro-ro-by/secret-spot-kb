@@ -1,9 +1,9 @@
-id: 'sight:fgb:76712'
+id: 'sight-fgb-76712'
 title: Гатовщина
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 images:
     -
         file: 2d5df8383829497ff91b925943631c5e.jpg

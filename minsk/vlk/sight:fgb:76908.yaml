@@ -1,9 +1,9 @@
-id: 'sight:fgb:76908'
+id: 'sight-fgb-76908'
 title: 'Забалацкі камень з лункамі'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 3bc64e784201394988ce9bf1d9d25a4b.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:98390'
+id: 'sight-fgb-98390'
 title: 'На Подгорной'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 location:
     -
         type: point

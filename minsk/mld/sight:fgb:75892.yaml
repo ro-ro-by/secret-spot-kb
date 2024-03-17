@@ -1,9 +1,9 @@
-id: 'sight:fgb:75892'
+id: 'sight-fgb-75892'
 title: 'Янки Купалы'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 4e8635fbf62922d12d00d72141300a01.jpg

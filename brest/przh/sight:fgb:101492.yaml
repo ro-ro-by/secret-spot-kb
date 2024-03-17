@@ -1,9 +1,9 @@
-id: 'sight:fgb:101492'
+id: 'sight-fgb-101492'
 title: 'Парк Видное'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 location:
     -
         type: point

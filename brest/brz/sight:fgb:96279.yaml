@@ -1,9 +1,9 @@
-id: 'sight:fgb:96279'
+id: 'sight-fgb-96279'
 title: 'Лечебный камень (Ступня Божай Маці)'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 meta:
     fgb:
         post_id: '96279'

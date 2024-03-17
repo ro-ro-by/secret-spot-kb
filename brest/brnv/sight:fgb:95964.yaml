@@ -1,9 +1,9 @@
-id: 'sight:fgb:95964'
+id: 'sight-fgb-95964'
 title: 'Парк Павлиново'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: f50bf63fd4b649e0cad112408e7df97e.jpg

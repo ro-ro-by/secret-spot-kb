@@ -1,9 +1,9 @@
-id: 'sight:fgb:74808'
+id: 'sight-fgb-74808'
 title: Коровчино-2
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: 7a72eb5771b2df21d8ecdb0e529c65a5.jpg

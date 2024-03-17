@@ -1,9 +1,9 @@
-id: 'sight:fgb:77144'
+id: 'sight-fgb-77144'
 title: 'Каменный крест (Баба, Екатеринин крест, Крест-Баба)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 images:
     -
         file: f859570712a4e3735fc7c85be9261408.jpg

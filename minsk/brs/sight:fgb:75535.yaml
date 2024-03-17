@@ -1,9 +1,9 @@
-id: 'sight:fgb:75535'
+id: 'sight-fgb-75535'
 title: 'Парк Героев'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 location:
     -
         type: point

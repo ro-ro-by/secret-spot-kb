@@ -1,9 +1,9 @@
-id: 'sight:fgb:75846'
+id: 'sight-fgb-75846'
 title: 'Бювет "Аисты"'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: a2e34d9071c70d26b131aec3d9e1cf04.jpg

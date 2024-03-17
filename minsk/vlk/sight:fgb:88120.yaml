@@ -1,9 +1,9 @@
-id: 'sight:fgb:88120'
+id: 'sight-fgb-88120'
 title: Палисад
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: ef84c0bee715f03515c1f960a70ff225.jpg

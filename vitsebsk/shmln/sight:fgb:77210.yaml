@@ -1,9 +1,9 @@
-id: 'sight:fgb:77210'
+id: 'sight-fgb-77210'
 title: 'Валун Большой камень (Чортаў камень, Акамянелая хата)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 images:
     -
         file: 980a37ba52b5b07c152abfe1a1137518.jpg

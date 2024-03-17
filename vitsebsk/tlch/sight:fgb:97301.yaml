@@ -1,9 +1,9 @@
-id: 'sight:fgb:97301'
+id: 'sight-fgb-97301'
 title: 'Парк Забайкал'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 meta:
     fgb:
         post_id: '97301'

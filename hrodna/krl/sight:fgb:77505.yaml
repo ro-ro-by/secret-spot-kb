@@ -1,9 +1,9 @@
-id: 'sight:fgb:77505'
+id: 'sight-fgb-77505'
 title: 'Парк Мир'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 images:
     -
         file: 83b31eac0deb098da0756a4d15d3a02a.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77031'
+id: 'sight-fgb-77031'
 title: 'Камень без названия'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '77031'

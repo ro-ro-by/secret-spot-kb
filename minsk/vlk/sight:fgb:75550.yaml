@@ -1,9 +1,9 @@
-id: 'sight:fgb:75550'
+id: 'sight-fgb-75550'
 title: 'Валун Большой камень дворецкий'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 5de989fc646dc4da0996ea1ae7802caa.jpg

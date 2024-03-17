@@ -1,9 +1,9 @@
-id: 'sight:fgb:77303'
+id: 'sight-fgb-77303'
 title: 'Камень полужский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: f642fe33479b171fcbf1e44f2743267a.jpg

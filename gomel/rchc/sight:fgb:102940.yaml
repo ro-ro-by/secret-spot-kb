@@ -1,9 +1,9 @@
-id: 'sight:fgb:102940'
+id: 'sight-fgb-102940'
 title: 'Чортаў гарадок'
 type: sacral_hill
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 meta:
     fgb:
         post_id: '102940'

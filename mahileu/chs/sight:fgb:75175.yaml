@@ -1,9 +1,9 @@
-id: 'sight:fgb:75175'
+id: 'sight-fgb-75175'
 title: 'Нупрэева криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 location:
     -
         type: point

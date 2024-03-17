@@ -1,9 +1,9 @@
-id: 'sight:fgb:75943'
+id: 'sight-fgb-75943'
 title: Нарочанский-4
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 3d9a9e9f9948dda860c27857e9a25977.jpg

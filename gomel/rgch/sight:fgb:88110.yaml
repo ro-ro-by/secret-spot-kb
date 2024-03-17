@@ -1,9 +1,9 @@
-id: 'sight:fgb:88110'
+id: 'sight-fgb-88110'
 title: 'Святой родник'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rgch'
+    region: 'region-gomel'
+    subregion: 'subregion-rgch'
 images:
     -
         file: bd487823885cd8bdf69f46290baffe4d.jpg

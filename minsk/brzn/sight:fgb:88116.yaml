@@ -1,9 +1,9 @@
-id: 'sight:fgb:88116'
+id: 'sight-fgb-88116'
 title: 'Родник Горанка'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 images:
     -
         file: 2ec33ea2af7e61b3bc80db356188dd21.jpg

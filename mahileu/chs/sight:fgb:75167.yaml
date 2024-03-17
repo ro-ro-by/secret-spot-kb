@@ -1,9 +1,9 @@
-id: 'sight:fgb:75167'
+id: 'sight-fgb-75167'
 title: 'Архипова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 location:
     -
         type: point

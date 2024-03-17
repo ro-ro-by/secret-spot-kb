@@ -1,9 +1,9 @@
-id: 'sight:fgb:75098'
+id: 'sight-fgb-75098'
 title: Крынка
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 45c75ff76cfad28dc6b0ebbf899e202a.png

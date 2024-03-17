@@ -1,9 +1,9 @@
-id: 'sight:fgb:77876'
+id: 'sight-fgb-77876'
 title: 'Дуб Мицкевича'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 images:
     -
         file: 2ecbc733059d28e606f240e65eb8a78c.jpg

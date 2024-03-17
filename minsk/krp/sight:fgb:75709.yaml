@@ -1,9 +1,9 @@
-id: 'sight:fgb:75709'
+id: 'sight-fgb-75709'
 title: Маккавеев
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 location:
     -
         type: point

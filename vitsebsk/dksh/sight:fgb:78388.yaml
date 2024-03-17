@@ -1,9 +1,9 @@
-id: 'sight:fgb:78388'
+id: 'sight-fgb-78388'
 title: 'Парк Березовка'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 meta:
     fgb:
         post_id: '78388'

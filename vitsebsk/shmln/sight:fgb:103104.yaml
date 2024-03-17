@@ -1,9 +1,9 @@
-id: 'sight:fgb:103104'
+id: 'sight-fgb-103104'
 title: 'Французская гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 meta:
     fgb:
         post_id: '103104'

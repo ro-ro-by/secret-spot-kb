@@ -1,9 +1,9 @@
-id: 'sight:fgb:75221'
+id: 'sight-fgb-75221'
 title: 'Бориса и Глеба (Борисоглебская, Святочница)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 images:
     -
         file: b3481f4a508eaaf1ecacbde126e37461.jpg

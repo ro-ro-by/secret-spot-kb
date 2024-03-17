@@ -1,9 +1,9 @@
-id: 'sight:fgb:76800'
+id: 'sight-fgb-76800'
 title: 'След Пресвятой Богородицы (Стапа Маці Божай)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 meta:
     fgb:
         post_id: '76800'

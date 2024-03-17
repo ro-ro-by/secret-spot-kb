@@ -1,9 +1,9 @@
-id: 'sight:fgb:88124'
+id: 'sight-fgb-88124'
 title: 'У больницы'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: c031ef327d4e66fc77d9ec289ad0fc8e.jpg

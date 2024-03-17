@@ -1,9 +1,9 @@
-id: 'sight:fgb:77093'
+id: 'sight-fgb-77093'
 title: 'Вялікі камень Глазкоўскі'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:rsn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-rsn'
 images:
     -
         file: 0b7c0292e60bcc5ad92d77457644e7a4.jpg

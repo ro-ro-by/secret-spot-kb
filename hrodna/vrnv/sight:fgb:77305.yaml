@@ -1,9 +1,9 @@
-id: 'sight:fgb:77305'
+id: 'sight-fgb-77305'
 title: 'Большой камень ремзовский с ямками'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: db134511bea31885165cc708d841d013.jpg

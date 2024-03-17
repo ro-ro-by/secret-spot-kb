@@ -1,9 +1,9 @@
-id: 'sight:fgb:75853'
+id: 'sight-fgb-75853'
 title: 'Вековая аллея'
 type: alley
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 18447c9a20984370d654eb7319afe09f.jpg

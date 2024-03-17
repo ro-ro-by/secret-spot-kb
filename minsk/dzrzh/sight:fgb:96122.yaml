@@ -1,9 +1,9 @@
-id: 'sight:fgb:96122'
+id: 'sight-fgb-96122'
 title: 'Вековой дуб'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: 868b2fe86853aa347f1a6dc1a1bc2acb.jpg

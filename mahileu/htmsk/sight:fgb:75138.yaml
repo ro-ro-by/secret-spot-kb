@@ -1,9 +1,9 @@
-id: 'sight:fgb:75138'
+id: 'sight-fgb-75138'
 title: 'Эталонное насаждение сосны'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 images:
     -
         file: bca330679dd2cb44a546350da38f8871.jpg

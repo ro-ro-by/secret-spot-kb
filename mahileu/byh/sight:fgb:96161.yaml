@@ -1,9 +1,9 @@
-id: 'sight:fgb:96161'
+id: 'sight-fgb-96161'
 title: 'Каменные кресты'
 type: stone
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 meta:
     fgb:
         post_id: '96161'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99077'
+id: 'sight-fgb-99077'
 title: 'Колодцы с карт РККА'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: 4a8720a2ccbfe115d0cc6af23e690880.jpg

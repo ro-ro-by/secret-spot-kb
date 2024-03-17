@@ -1,9 +1,9 @@
-id: 'sight:fgb:75874'
+id: 'sight-fgb-75874'
 title: 'Гора Копланщина'
 type: hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: 40d5541e5c053ef9e685f6c8be1c6544.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75179'
+id: 'sight-fgb-75179'
 title: Нива
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chs'
+    region: 'region-mahileu'
+    subregion: 'subregion-chs'
 meta:
     fgb:
         post_id: '75179'

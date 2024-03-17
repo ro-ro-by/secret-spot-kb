@@ -1,9 +1,9 @@
-id: 'sight:fgb:74511'
+id: 'sight-fgb-74511'
 title: 'Вишня птичья'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: fc31be7d98772179ae223f105642de19.jpg

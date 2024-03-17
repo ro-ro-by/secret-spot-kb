@@ -1,9 +1,9 @@
-id: 'sight:fgb:75282'
+id: 'sight-fgb-75282'
 title: Крымок
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:klnk'
+    region: 'region-gomel'
+    subregion: 'subregion-klnk'
 meta:
     fgb:
         post_id: '75282'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:101479'
+id: 'sight-fgb-101479'
 title: 'Вяз шершавый'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: d82b3502b6ae06833dbe093c3ab020ab.jpg

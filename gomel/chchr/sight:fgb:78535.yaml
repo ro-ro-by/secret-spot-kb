@@ -1,9 +1,9 @@
-id: 'sight:fgb:78535'
+id: 'sight-fgb-78535'
 title: 'Кипячие ключи'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: 6cef0b42cebbbdf6a410cdd5ecd98d22.jpg

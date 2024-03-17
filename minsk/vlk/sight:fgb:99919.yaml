@@ -1,9 +1,9 @@
-id: 'sight:fgb:99919'
+id: 'sight-fgb-99919'
 title: 'Панскае крэсла'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: b5826b0bda8f51ff4660ea04b807d84e.jpg

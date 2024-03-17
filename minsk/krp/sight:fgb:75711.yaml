@@ -1,9 +1,9 @@
-id: 'sight:fgb:75711'
+id: 'sight-fgb-75711'
 title: 'Витов колодец'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77310'
+id: 'sight-fgb-77310'
 title: 'Камень з трыма крыжамі'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 meta:
     fgb:
         post_id: '77310'

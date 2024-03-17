@@ -1,9 +1,9 @@
-id: 'sight:fgb:75925'
+id: 'sight-fgb-75925'
 title: 'Большой камень кочергинский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 meta:
     fgb:
         post_id: '75925'

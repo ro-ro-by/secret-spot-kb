@@ -1,9 +1,9 @@
-id: 'sight:fgb:70788'
+id: 'sight-fgb-70788'
 title: Черница
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 2d05fac9bb57201c01a11cff344aa920.jpg

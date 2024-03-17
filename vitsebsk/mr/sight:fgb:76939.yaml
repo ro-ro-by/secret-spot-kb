@@ -1,9 +1,9 @@
-id: 'sight:fgb:76939'
+id: 'sight-fgb-76939'
 title: 'Новопогостский Большой Камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 images:
     -
         file: 3f48431abe0698db24808cf31266c3c6.jpg

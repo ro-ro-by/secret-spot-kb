@@ -1,9 +1,9 @@
-id: 'sight:fgb:99886'
+id: 'sight-fgb-99886'
 title: 'Антосеў (Адосеў) камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 meta:
     fgb:
         post_id: '99886'

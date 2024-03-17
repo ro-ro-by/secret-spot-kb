@@ -1,9 +1,9 @@
-id: 'sight:fgb:83981'
+id: 'sight-fgb-83981'
 title: Добричский
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 images:
     -
         file: 77f82bab65a4f60c709e1bc028e56d13.jpg

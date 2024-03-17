@@ -1,9 +1,9 @@
-id: 'sight:fgb:96269'
+id: 'sight-fgb-96269'
 title: 'Поклонные березы'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 tree:
     type: birch
 meta:

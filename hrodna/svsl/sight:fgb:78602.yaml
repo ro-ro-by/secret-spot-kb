@@ -1,9 +1,9 @@
-id: 'sight:fgb:78602'
+id: 'sight-fgb-78602'
 title: Панский
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:svsl'
+    region: 'region-hrodna'
+    subregion: 'subregion-svsl'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:104028'
+id: 'sight-fgb-104028'
 title: 'Липичненский родник'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:shch'
+    region: 'region-hrodna'
+    subregion: 'subregion-shch'
 images:
     -
         file: 2e330f0103e10f1586bc27b11a1f9690.jpg

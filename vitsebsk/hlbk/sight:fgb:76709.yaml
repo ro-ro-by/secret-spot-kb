@@ -1,9 +1,9 @@
-id: 'sight:fgb:76709'
+id: 'sight-fgb-76709'
 title: 'Вялікі камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:hlbk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-hlbk'
 meta:
     fgb:
         post_id: '76709'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75591'
+id: 'sight-fgb-75591'
 title: 'Валун Камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 1877952b47f098720083c20f70216ba6.jpg

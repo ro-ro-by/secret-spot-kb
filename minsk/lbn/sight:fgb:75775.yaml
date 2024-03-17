@@ -1,9 +1,9 @@
-id: 'sight:fgb:75775'
+id: 'sight-fgb-75775'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 meta:
     fgb:
         post_id: '75775'

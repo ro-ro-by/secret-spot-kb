@@ -1,9 +1,9 @@
-id: 'sight:fgb:75117'
+id: 'sight-fgb-75117'
 title: 'Святы Ручай (Святых Маккавеев)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 0c1860f3db03603c16f8c3060e8addcb.jpg

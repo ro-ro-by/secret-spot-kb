@@ -1,9 +1,9 @@
-id: 'sight:fgb:77225'
+id: 'sight-fgb-77225'
 title: 'Мядзвежы валун (Акамянелы мядзведзь)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 meta:
     fgb:
         post_id: '77225'

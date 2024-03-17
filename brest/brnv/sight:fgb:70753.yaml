@@ -1,9 +1,9 @@
-id: 'sight:fgb:70753'
+id: 'sight-fgb-70753'
 title: Стронга
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 089b025eff865da3c23fc56949315b44.jpg

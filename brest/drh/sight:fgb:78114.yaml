@@ -1,9 +1,9 @@
-id: 'sight:fgb:78114'
+id: 'sight-fgb-78114'
 title: 'Олёнушено окно'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:drh'
+    region: 'region-brest'
+    subregion: 'subregion-drh'
 meta:
     fgb:
         post_id: '78114'

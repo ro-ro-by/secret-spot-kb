@@ -1,9 +1,9 @@
-id: 'sight:fgb:70789'
+id: 'sight-fgb-70789'
 title: 'Панский родник'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bbr'
+    region: 'region-mahileu'
+    subregion: 'subregion-bbr'
 images:
     -
         file: 8607f0badda45c674137bb9266e320ff.jpg

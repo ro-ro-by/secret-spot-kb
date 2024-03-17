@@ -1,9 +1,9 @@
-id: 'sight:fgb:100132'
+id: 'sight-fgb-100132'
 title: 'Камень з выемкай (Дзюравы камень)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 meta:
     fgb:
         post_id: '100132'

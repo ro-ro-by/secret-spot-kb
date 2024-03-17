@@ -1,9 +1,9 @@
-id: 'sight:fgb:75988'
+id: 'sight-fgb-75988'
 title: Дубрава-3
 type: forest
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 forest:
     dominated_type: oak
     types:

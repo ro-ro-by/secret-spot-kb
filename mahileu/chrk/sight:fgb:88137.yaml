@@ -1,9 +1,9 @@
-id: 'sight:fgb:88137'
+id: 'sight-fgb-88137'
 title: Гронов
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 location:
     -
         type: point

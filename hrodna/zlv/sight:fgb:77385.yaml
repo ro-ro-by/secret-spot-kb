@@ -1,9 +1,9 @@
-id: 'sight:fgb:77385'
+id: 'sight-fgb-77385'
 title: 'Большой Камень ивашковичский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 meta:
     fgb:
         post_id: '77385'

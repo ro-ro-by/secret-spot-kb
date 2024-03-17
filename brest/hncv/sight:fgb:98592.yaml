@@ -1,9 +1,9 @@
-id: 'sight:fgb:98592'
+id: 'sight-fgb-98592'
 title: 'Круговичский валун'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:hncv'
+    region: 'region-brest'
+    subregion: 'subregion-hncv'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75975'
+id: 'sight-fgb-75975'
 title: 'След Бога'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slck'
+    region: 'region-minsk'
+    subregion: 'subregion-slck'
 meta:
     fgb:
         post_id: '75975'

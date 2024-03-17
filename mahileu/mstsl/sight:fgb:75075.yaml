@@ -1,9 +1,9 @@
-id: 'sight:fgb:75075'
+id: 'sight-fgb-75075'
 title: 'Здоровец-1 (Здоровец, Подгорный)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: f31b13273d4a985b14cba66c90102209.jpg

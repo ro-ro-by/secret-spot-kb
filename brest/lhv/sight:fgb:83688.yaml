@@ -1,9 +1,9 @@
-id: 'sight:fgb:83688'
+id: 'sight-fgb-83688'
 title: Подбераги
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '83688'

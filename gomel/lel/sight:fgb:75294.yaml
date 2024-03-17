@@ -1,9 +1,9 @@
-id: 'sight:fgb:75294'
+id: 'sight-fgb-75294'
 title: 'Уникальный участок леса (дубрава)'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 forest:
     dominated_type: oak
     types:

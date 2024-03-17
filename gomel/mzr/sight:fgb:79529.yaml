@@ -1,9 +1,9 @@
-id: 'sight:fgb:79529'
+id: 'sight-fgb-79529'
 title: Валун
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 2d5259b9b727ae2a9c949647dc2e43e8.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97290'
+id: 'sight-fgb-97290'
 title: 'Парк Линово'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 meta:
     fgb:
         post_id: '97290'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:103890'
+id: 'sight-fgb-103890'
 title: 'Гара Сасніца'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '103890'

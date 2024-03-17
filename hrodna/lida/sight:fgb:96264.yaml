@@ -1,9 +1,9 @@
-id: 'sight:fgb:96264'
+id: 'sight-fgb-96264'
 title: 'Поклонная сосна'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: c8d8bd09037aa2324487b472cf2cafdb.jpg

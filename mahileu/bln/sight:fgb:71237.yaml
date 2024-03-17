@@ -1,9 +1,9 @@
-id: 'sight:fgb:71237'
+id: 'sight-fgb-71237'
 title: 'Белыничской иконы Божией Матери'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: 03fcdddb0fb2f58d585b2e63a9bc9227.jpg

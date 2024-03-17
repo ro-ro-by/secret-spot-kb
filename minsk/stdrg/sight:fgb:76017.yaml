@@ -1,9 +1,9 @@
-id: 'sight:fgb:76017'
+id: 'sight-fgb-76017'
 title: Богоявленский
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:stdrg'
+    region: 'region-minsk'
+    subregion: 'subregion-stdrg'
 meta:
     fgb:
         post_id: '76017'

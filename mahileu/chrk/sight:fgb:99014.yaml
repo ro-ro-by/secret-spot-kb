@@ -1,9 +1,9 @@
-id: 'sight:fgb:99014'
+id: 'sight-fgb-99014'
 title: Ржавец-2
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77644'
+id: 'sight-fgb-77644'
 title: 'Валун Невестин камень / Традыцыя ўшанавання валуна «Нявесцін камень»'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: d24ae4dcf22d629c7a642b05975a9f40.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97131'
+id: 'sight-fgb-97131'
 title: 'Красный дуб'
 type: tree
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 tree:
     type: oak
 meta:

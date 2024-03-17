@@ -1,9 +1,9 @@
-id: 'sight:fgb:96115'
+id: 'sight-fgb-96115'
 title: Щитники-1
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: ef98cd51eac15f1829d1d699ce595c80.jpg

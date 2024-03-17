@@ -1,9 +1,9 @@
-id: 'sight:fgb:79443'
+id: 'sight-fgb-79443'
 title: Студенец
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: d1dbf7b2b319889d8a32fefdd40594b9.jpg

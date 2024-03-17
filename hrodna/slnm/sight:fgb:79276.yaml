@@ -1,9 +1,9 @@
-id: 'sight:fgb:79276'
+id: 'sight-fgb-79276'
 title: 'На Щорса'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 meta:
     fgb:
         post_id: '79276'

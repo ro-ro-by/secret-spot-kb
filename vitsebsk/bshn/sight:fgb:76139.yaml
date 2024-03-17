@@ -1,9 +1,9 @@
-id: 'sight:fgb:76139'
+id: 'sight-fgb-76139'
 title: 'Кагальный колодец'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:bshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-bshn'
 images:
     -
         file: 11ac4c6e9b9940e3f9e4ed6fadd2d26d.jpg

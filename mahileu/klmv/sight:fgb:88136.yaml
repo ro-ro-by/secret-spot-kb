@@ -1,9 +1,9 @@
-id: 'sight:fgb:88136'
+id: 'sight-fgb-88136'
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klmv'
+    region: 'region-mahileu'
+    subregion: 'subregion-klmv'
 location:
     -
         type: point

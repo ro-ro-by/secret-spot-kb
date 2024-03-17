@@ -1,9 +1,9 @@
-id: 'sight:fgb:102801'
+id: 'sight-fgb-102801'
 title: "Вітагор'е"
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 meta:
     fgb:
         post_id: '102801'

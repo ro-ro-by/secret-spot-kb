@@ -1,9 +1,9 @@
-id: 'sight:fgb:77256'
+id: 'sight-fgb-77256'
 title: 'Парк Массоляны'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 images:
     -
         file: cedb432fbba8a2342beb2a9570ce63da.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:98590'
+id: 'sight-fgb-98590'
 title: 'Парк Заушье'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 meta:
     fgb:
         post_id: '98590'

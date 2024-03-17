@@ -1,9 +1,9 @@
-id: 'sight:fgb:75533'
+id: 'sight-fgb-75533'
 title: 'Валуны Быки'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 875fc356d68eb972e42928a75cc741f1.jpg

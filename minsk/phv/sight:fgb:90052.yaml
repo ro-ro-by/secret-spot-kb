@@ -1,9 +1,9 @@
-id: 'sight:fgb:90052'
+id: 'sight-fgb-90052'
 title: 'Вековой вяз'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: 7935b9c958774e2e44eaaad568df46fe.jpg

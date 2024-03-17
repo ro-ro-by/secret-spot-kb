@@ -1,9 +1,9 @@
-id: 'sight:fgb:78658'
+id: 'sight-fgb-78658'
 title: Дераки
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '78658'

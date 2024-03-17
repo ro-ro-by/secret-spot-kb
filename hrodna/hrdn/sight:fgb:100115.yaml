@@ -1,9 +1,9 @@
-id: 'sight:fgb:100115'
+id: 'sight-fgb-100115'
 title: 'Чырвоны камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '100115'

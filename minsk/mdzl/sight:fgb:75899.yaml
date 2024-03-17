@@ -1,9 +1,9 @@
-id: 'sight:fgb:75899'
+id: 'sight-fgb-75899'
 title: 'Валун Большой камень высочкинский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 55792e9d69dd6d69dfd18057c9c021ec.jpg

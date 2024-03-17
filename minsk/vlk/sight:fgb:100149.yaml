@@ -1,9 +1,9 @@
-id: 'sight:fgb:100149'
+id: 'sight-fgb-100149'
 title: 'Камень у гонар экспедыцыі Тышкевіча'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 45219861d8b94534dec099f5d7d73d7f.jpg

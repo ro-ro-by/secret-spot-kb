@@ -1,9 +1,9 @@
-id: 'sight:fgb:76655'
+id: 'sight-fgb-76655'
 title: 'На Центральной'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: f1d6cc5ef1f0f859032b40ae805189b5.jpg

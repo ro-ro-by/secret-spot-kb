@@ -1,9 +1,9 @@
-id: 'sight:fgb:99321'
+id: 'sight-fgb-99321'
 title: 'Жуков Зрой'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99321'

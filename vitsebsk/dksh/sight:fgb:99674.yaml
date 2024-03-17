@@ -1,9 +1,9 @@
-id: 'sight:fgb:99674'
+id: 'sight-fgb-99674'
 title: 'Парк Ситцы'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 meta:
     fgb:
         post_id: '99674'

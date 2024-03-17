@@ -1,9 +1,9 @@
-id: 'sight:fgb:97294'
+id: 'sight-fgb-97294'
 title: 'Парк Александровщина'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 meta:
     fgb:
         post_id: '97294'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77143'
+id: 'sight-fgb-77143'
 title: Коханово-2
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:tlch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-tlch'
 location:
     -
         type: point

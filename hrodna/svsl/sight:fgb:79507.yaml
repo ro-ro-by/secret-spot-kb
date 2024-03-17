@@ -1,9 +1,9 @@
-id: 'sight:fgb:79507'
+id: 'sight-fgb-79507'
 title: Первомайский
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:svsl'
+    region: 'region-hrodna'
+    subregion: 'subregion-svsl'
 meta:
     fgb:
         post_id: '79507'

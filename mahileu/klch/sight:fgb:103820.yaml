@@ -1,9 +1,9 @@
-id: 'sight:fgb:103820'
+id: 'sight-fgb-103820'
 title: 'Чортава града'
 type: sacral_hill
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:klch'
+    region: 'region-mahileu'
+    subregion: 'subregion-klch'
 meta:
     fgb:
         post_id: '103820'

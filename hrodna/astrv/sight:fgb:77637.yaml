@@ -1,9 +1,9 @@
-id: 'sight:fgb:77637'
+id: 'sight-fgb-77637'
 title: 'Ля Багiнi'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:astrv'
+    region: 'region-hrodna'
+    subregion: 'subregion-astrv'
 images:
     -
         file: 4fed2873afe23cb5c3752dada80422bc.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:88354'
+id: 'sight-fgb-88354'
 title: Островище
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 location:
     -
         type: point

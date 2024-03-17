@@ -1,9 +1,9 @@
-id: 'sight:fgb:78559'
+id: 'sight-fgb-78559'
 title: Мстибово-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 location:
     -
         type: point

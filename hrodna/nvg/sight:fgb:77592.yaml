@@ -1,9 +1,9 @@
-id: 'sight:fgb:77592'
+id: 'sight-fgb-77592'
 title: 'Большой камень гирдовский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: f13c96a1cb3eb08322e9afc8168eafe5.jpg

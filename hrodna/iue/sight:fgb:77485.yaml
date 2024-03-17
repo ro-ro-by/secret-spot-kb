@@ -1,9 +1,9 @@
-id: 'sight:fgb:77485'
+id: 'sight-fgb-77485'
 title: 'Обнажение Морино'
 type: outcrop
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: 0fc1947dfd7275e0b0085d874ebb1247.jpg

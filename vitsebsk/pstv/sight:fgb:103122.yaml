@@ -1,9 +1,9 @@
-id: 'sight:fgb:103122'
+id: 'sight-fgb-103122'
 title: 'Ханская гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:pstv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-pstv'
 meta:
     fgb:
         post_id: '103122'

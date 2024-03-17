@@ -1,9 +1,9 @@
-id: 'sight:fgb:96561'
+id: 'sight-fgb-96561'
 title: 'Камень Міцкевіча'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 995acefca4a5b57b2eb21a170d8fe886.jpg

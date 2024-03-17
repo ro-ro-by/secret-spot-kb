@@ -1,9 +1,9 @@
-id: 'sight:fgb:100045'
+id: 'sight-fgb-100045'
 title: 'Халадоўская Печ'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:bshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-bshn'
 meta:
     fgb:
         post_id: '100045'

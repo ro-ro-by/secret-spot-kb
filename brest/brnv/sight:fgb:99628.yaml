@@ -1,9 +1,9 @@
-id: 'sight:fgb:99628'
+id: 'sight-fgb-99628'
 title: 'Парк Полонечка'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 meta:
     fgb:
         post_id: '99628'

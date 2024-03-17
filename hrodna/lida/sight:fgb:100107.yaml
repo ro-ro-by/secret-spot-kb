@@ -1,9 +1,9 @@
-id: 'sight:fgb:100107'
+id: 'sight-fgb-100107'
 title: 'Валун з прыроднай выемкай'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 meta:
     fgb:
         post_id: '100107'

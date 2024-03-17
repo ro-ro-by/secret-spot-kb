@@ -1,9 +1,9 @@
-id: 'sight:fgb:77257'
+id: 'sight-fgb-77257'
 title: 'Парк Старый Дворец'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 images:
     -
         file: 6785d6274abd2209ae55d90aa2a51f33.jpg

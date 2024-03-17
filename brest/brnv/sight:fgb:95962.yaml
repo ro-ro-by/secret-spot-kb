@@ -1,9 +1,9 @@
-id: 'sight:fgb:95962'
+id: 'sight-fgb-95962'
 title: 'Парк Большая Своротва'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: b1a55420e231446b10b4d8a4678c28b2.jpg

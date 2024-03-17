@@ -1,9 +1,9 @@
-id: 'sight:fgb:79516'
+id: 'sight-fgb-79516'
 title: 'Исток Ошмянки'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 meta:
     fgb:
         post_id: '79516'

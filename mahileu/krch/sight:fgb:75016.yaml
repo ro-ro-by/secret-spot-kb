@@ -1,9 +1,9 @@
-id: 'sight:fgb:75016'
+id: 'sight-fgb-75016'
 title: 'Под Замковой горой (Забелышинская, Селитреная)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krch'
+    region: 'region-mahileu'
+    subregion: 'subregion-krch'
 images:
     -
         file: 1077cf35330eeca47568fb6564f491a2.jpg

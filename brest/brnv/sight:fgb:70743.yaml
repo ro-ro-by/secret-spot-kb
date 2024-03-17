@@ -1,9 +1,9 @@
-id: 'sight:fgb:70743'
+id: 'sight-fgb-70743'
 title: 'Родник Ясенец (Кипяток)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 10893847b6ab89d22891fd0531e46dbc.jpg

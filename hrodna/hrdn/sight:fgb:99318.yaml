@@ -1,9 +1,9 @@
-id: 'sight:fgb:99318'
+id: 'sight-fgb-99318'
 title: 'Старый колодец'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '99318'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77707'
+id: 'sight-fgb-77707'
 title: 'Большой камень рудавкавский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 1fab2ec2a3643fef813f3ce713d5ce4e.jpg

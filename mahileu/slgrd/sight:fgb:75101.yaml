@@ -1,9 +1,9 @@
-id: 'sight:fgb:75101'
+id: 'sight-fgb-75101'
 title: 'Источник Голубая криница (Синий колодец)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 8ecc2942d4a93d1f1df185429a5e89c0.jpg

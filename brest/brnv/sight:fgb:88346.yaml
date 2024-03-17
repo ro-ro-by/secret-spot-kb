@@ -1,9 +1,9 @@
-id: 'sight:fgb:88346'
+id: 'sight-fgb-88346'
 title: Басины
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: cb2420c7f4a3096bed90bd1d31a24ec3.jpg

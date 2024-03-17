@@ -1,9 +1,9 @@
-id: 'sight:fgb:99004'
+id: 'sight-fgb-99004'
 title: Рясно-2
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: e74192d95f71ac06e62f51f9b93c5a38.jpg

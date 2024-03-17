@@ -1,9 +1,9 @@
-id: 'sight:fgb:77713'
+id: 'sight-fgb-77713'
 title: 'Пана Скурата (Предтечи и Крестителя Господня Иоанна)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 219f367a5c99d5b605d514a07c924058.jpg

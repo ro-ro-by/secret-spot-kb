@@ -1,9 +1,9 @@
-id: 'sight:fgb:88131'
+id: 'sight-fgb-88131'
 title: 'На Папенке'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 meta:
     fgb:
         post_id: '88131'

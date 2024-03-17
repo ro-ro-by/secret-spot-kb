@@ -1,9 +1,9 @@
-id: 'sight:fgb:99129'
+id: 'sight-fgb-99129'
 title: 'Камень 1846 года'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kbrn'
+    region: 'region-brest'
+    subregion: 'subregion-kbrn'
 images:
     -
         file: 242fb694b12442b921b917a28bce095a.jpg

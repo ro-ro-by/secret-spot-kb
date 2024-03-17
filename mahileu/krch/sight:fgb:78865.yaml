@@ -1,9 +1,9 @@
-id: 'sight:fgb:78865'
+id: 'sight-fgb-78865'
 title: 'Около пляжа (Забелышинский-???)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krch'
+    region: 'region-mahileu'
+    subregion: 'subregion-krch'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78650'
+id: 'sight-fgb-78650'
 title: Святой
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brzn'
+    region: 'region-minsk'
+    subregion: 'subregion-brzn'
 images:
     -
         file: 697349cfe7e6f3ea23d27446baeef81f.jpg

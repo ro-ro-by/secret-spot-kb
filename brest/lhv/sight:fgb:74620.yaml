@@ -1,9 +1,9 @@
-id: 'sight:fgb:74620'
+id: 'sight-fgb-74620'
 title: 'Устье Мышанки'
 type: area
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '74620'

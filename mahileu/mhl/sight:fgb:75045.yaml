@@ -1,9 +1,9 @@
-id: 'sight:fgb:75045'
+id: 'sight-fgb-75045'
 title: 'Полыковичская криница (Параскевы Пятницы)'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: aaf36afa9de51d4dd3ef0df9ff4ea987.jpg

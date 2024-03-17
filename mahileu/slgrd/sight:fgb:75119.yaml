@@ -1,9 +1,9 @@
-id: 'sight:fgb:75119'
+id: 'sight-fgb-75119'
 title: 'Лукашова криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 7e07501f45c4e13782fdade222a236fc.jpg

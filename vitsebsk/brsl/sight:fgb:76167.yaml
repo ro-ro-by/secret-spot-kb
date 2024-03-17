@@ -1,9 +1,9 @@
-id: 'sight:fgb:76167'
+id: 'sight-fgb-76167'
 title: 'Парк Видзы-Ловчинские'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 images:
     -
         file: c7a56131a2d00c4cc94379b96b4b97a9.jpg

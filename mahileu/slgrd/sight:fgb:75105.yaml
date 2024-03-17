@@ -1,9 +1,9 @@
-id: 'sight:fgb:75105'
+id: 'sight-fgb-75105'
 title: Славгородский
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: ba5e018a30825f090cd115abc7f252fd.jpg

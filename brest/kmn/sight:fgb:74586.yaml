@@ -1,9 +1,9 @@
-id: 'sight:fgb:74586'
+id: 'sight-fgb-74586'
 title: 'След Божьей Матери, Божьего Младенца и посоха Богородицы'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 images:
     -
         file: 010ab84081efbbc6fe7cf141d3db7146.jpg

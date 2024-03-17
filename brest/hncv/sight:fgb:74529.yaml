@@ -1,9 +1,9 @@
-id: 'sight:fgb:74529'
+id: 'sight-fgb-74529'
 title: 'Сосна Веймутова'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:hncv'
+    region: 'region-brest'
+    subregion: 'subregion-hncv'
 images:
     -
         file: c8633eb2fe41e18da04ce41cca947aa6.jpg

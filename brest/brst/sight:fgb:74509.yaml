@@ -1,9 +1,9 @@
-id: 'sight:fgb:74509'
+id: 'sight-fgb-74509'
 title: 'Бук лесной'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brst'
+    region: 'region-brest'
+    subregion: 'subregion-brst'
 images:
     -
         file: 146d6140c50b5405edad6e428b945c6f.jpg

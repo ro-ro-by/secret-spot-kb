@@ -1,9 +1,9 @@
-id: 'sight:fgb:96992'
+id: 'sight-fgb-96992'
 title: Гребло
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: d7c335a95beb9856c31eaf310700376c.jpg

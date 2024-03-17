@@ -1,9 +1,9 @@
-id: 'sight:fgb:97374'
+id: 'sight-fgb-97374'
 title: Пятигорье-4
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: 28a925f0e58553a98a35e795877c0724.jpg

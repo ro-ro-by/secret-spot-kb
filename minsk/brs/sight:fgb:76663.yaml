@@ -1,9 +1,9 @@
-id: 'sight:fgb:76663'
+id: 'sight-fgb-76663'
 title: Ельница
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 1e3f14f2e164310bd68f76e1fa34190a.jpg

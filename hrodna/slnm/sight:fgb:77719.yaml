@@ -1,9 +1,9 @@
-id: 'sight:fgb:77719'
+id: 'sight-fgb-77719'
 title: 'У Стадиона'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: ac0eb4abb12d9d0fb2179fd967bc87ec.jpg

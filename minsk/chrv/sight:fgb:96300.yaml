@@ -1,9 +1,9 @@
-id: 'sight:fgb:96300'
+id: 'sight-fgb-96300'
 title: 'Ведрецкое болото'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:chrv'
+    region: 'region-minsk'
+    subregion: 'subregion-chrv'
 images:
     -
         file: f27664b475d1274278e4f92d082b323f.jpg

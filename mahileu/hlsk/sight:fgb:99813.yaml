@@ -1,9 +1,9 @@
-id: 'sight:fgb:99813'
+id: 'sight-fgb-99813'
 title: 'Святы камень (След Хрыста)'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hlsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hlsk'
 images:
     -
         file: d5702b33bd94fe25feec89a85bb5c739.jpg

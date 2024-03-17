@@ -1,9 +1,9 @@
-id: 'sight:fgb:75543'
+id: 'sight-fgb-75543'
 title: 'Ксении Петребургской источник'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 59195f7303617a82970e6407d687703e.jpg

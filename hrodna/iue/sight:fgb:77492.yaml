@@ -1,9 +1,9 @@
-id: 'sight:fgb:77492'
+id: 'sight-fgb-77492'
 title: 'Большой камень довнарский'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: dc29222e6af87e76237786932ff41ef6.jpg

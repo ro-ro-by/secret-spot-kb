@@ -1,9 +1,9 @@
-id: 'sight:fgb:75000'
+id: 'sight-fgb-75000'
 title: Селище
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 forest:
     dominated_type: oak
     types:

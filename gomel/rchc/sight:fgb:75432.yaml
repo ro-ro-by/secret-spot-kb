@@ -1,9 +1,9 @@
-id: 'sight:fgb:75432'
+id: 'sight-fgb-75432'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 location:
     -
         type: point

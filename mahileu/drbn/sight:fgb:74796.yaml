@@ -1,9 +1,9 @@
-id: 'sight:fgb:74796'
+id: 'sight-fgb-74796'
 title: 'Трилесинские исполины'
 type: TODO
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 location:
     -
         type: point

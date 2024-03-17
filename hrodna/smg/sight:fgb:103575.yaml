@@ -1,9 +1,9 @@
-id: 'sight:fgb:103575'
+id: 'sight-fgb-103575'
 title: 'Гара Лысая'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 meta:
     fgb:
         post_id: '103575'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:101772'
+id: 'sight-fgb-101772'
 title: 'Завышанский дугласник'
 type: forest
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivnv'
+    region: 'region-brest'
+    subregion: 'subregion-ivnv'
 forest:
     dominated_type: firs_douglas
 images:

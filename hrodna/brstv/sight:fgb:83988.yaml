@@ -1,9 +1,9 @@
-id: 'sight:fgb:83988'
+id: 'sight-fgb-83988'
 title: 'У чварака'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:brstv'
+    region: 'region-hrodna'
+    subregion: 'subregion-brstv'
 meta:
     fgb:
         post_id: '83988'

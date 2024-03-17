@@ -1,9 +1,9 @@
-id: 'sight:fgb:77023'
+id: 'sight-fgb-77023'
 title: 'Вялікі камень Косараўскі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 meta:
     fgb:
         post_id: '77023'

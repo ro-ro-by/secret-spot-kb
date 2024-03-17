@@ -1,9 +1,9 @@
-id: 'sight:fgb:101150'
+id: 'sight-fgb-101150'
 title: 'Камень з выемкамі невыразных формаў'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '101150'

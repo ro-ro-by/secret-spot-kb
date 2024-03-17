@@ -1,9 +1,9 @@
-id: 'sight:fgb:75598'
+id: 'sight-fgb-75598'
 title: 'Валун Большой камень бузуновский'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 7d4c1e7310f92370c0f247309ceed91b.jpg

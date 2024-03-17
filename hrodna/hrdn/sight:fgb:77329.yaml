@@ -1,9 +1,9 @@
-id: 'sight:fgb:77329'
+id: 'sight-fgb-77329'
 title: 'Гора чертовая Поречская'
 type: hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: dfe057a31aab291e061093e7beb8fd80.jpg

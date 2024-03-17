@@ -1,9 +1,9 @@
-id: 'sight:fgb:100106'
+id: 'sight-fgb-100106'
 title: 'Чортава (Гоманава) чарка'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 meta:
     fgb:
         post_id: '100106'

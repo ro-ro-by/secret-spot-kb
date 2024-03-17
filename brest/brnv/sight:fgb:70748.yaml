@@ -1,9 +1,9 @@
-id: 'sight:fgb:70748'
+id: 'sight-fgb-70748'
 title: 'Старинный парк Верхне-Черниховский'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 4266508618aa4d5ac24e9d624b973d79.jpg

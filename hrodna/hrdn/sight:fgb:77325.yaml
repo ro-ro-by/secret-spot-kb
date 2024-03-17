@@ -1,9 +1,9 @@
-id: 'sight:fgb:77325'
+id: 'sight-fgb-77325'
 title: 'Парк в городе Скидель'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 location:
     -
         type: point

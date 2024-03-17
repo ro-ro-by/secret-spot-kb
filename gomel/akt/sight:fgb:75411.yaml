@@ -1,9 +1,9 @@
-id: 'sight:fgb:75411'
+id: 'sight-fgb-75411'
 title: Бабинец
 type: area
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:akt'
+    region: 'region-gomel'
+    subregion: 'subregion-akt'
 images:
     -
         file: a06ad67a8e3bdff0df00f96fc55f4d2f.jpg

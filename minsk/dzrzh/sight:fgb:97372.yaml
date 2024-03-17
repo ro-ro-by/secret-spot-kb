@@ -1,9 +1,9 @@
-id: 'sight:fgb:97372'
+id: 'sight-fgb-97372'
 title: Курнелево
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: 45413190abc210fd33c915e71a41fdd3.jpg

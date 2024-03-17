@@ -1,9 +1,9 @@
-id: 'sight:fgb:75600'
+id: 'sight-fgb-75600'
 title: 'Валун Большой камень навиновский'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 636bbed2a8d4388f8bddb58baf789543.jpg

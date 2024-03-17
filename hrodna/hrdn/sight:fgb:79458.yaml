@@ -1,9 +1,9 @@
-id: 'sight:fgb:79458'
+id: 'sight-fgb-79458'
 title: Весенний
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 71f4171924578df2afe55e6c352876f0.jpg

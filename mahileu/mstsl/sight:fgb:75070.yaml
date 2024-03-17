@@ -1,9 +1,9 @@
-id: 'sight:fgb:75070'
+id: 'sight-fgb-75070'
 title: 'Ширина и Подречье'
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: 4cfb5f145b9af1e47d9c7703f1fa8104.jpg

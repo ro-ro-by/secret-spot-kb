@@ -1,9 +1,9 @@
-id: 'sight:fgb:79510'
+id: 'sight-fgb-79510'
 title: 'Тихие луги'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 meta:
     fgb:
         post_id: '79510'

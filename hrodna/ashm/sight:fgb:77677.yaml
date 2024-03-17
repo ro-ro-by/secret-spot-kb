@@ -1,9 +1,9 @@
-id: 'sight:fgb:77677'
+id: 'sight-fgb-77677'
 title: Невестин-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:ashm'
+    region: 'region-hrodna'
+    subregion: 'subregion-ashm'
 images:
     -
         file: d07ab13a13db9f1d05e8e9755db9bb03.jpg

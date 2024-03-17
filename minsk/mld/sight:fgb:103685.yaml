@@ -1,9 +1,9 @@
-id: 'sight:fgb:103685'
+id: 'sight-fgb-103685'
 title: 'Гара Петухова'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '103685'

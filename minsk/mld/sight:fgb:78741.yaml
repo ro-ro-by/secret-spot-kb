@@ -1,9 +1,9 @@
-id: 'sight:fgb:78741'
+id: 'sight-fgb-78741'
 title: 'Исток реки Западная Березина'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 images:
     -
         file: c254839f2d21083cbea879d994ca2f81.jpg

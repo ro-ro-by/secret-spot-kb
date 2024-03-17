@@ -1,9 +1,9 @@
-id: 'sight:fgb:74724'
+id: 'sight-fgb-74724'
 title: 'Майская (Спасовская) криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: cb7a494620104ab7ed70a468539075b9.jpg

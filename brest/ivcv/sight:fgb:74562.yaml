@@ -1,9 +1,9 @@
-id: 'sight:fgb:74562'
+id: 'sight-fgb-74562'
 title: 'Турнянские чёрные берёзы'
 type: forest
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:ivcv'
+    region: 'region-brest'
+    subregion: 'subregion-ivcv'
 forest:
     dominated_type: birch_black
 images:

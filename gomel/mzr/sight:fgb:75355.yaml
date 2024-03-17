@@ -1,9 +1,9 @@
-id: 'sight:fgb:75355'
+id: 'sight-fgb-75355'
 title: 'Божкова (Лучежевичи 4 дачи, №28)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 80ace2fcb0e5d499d5f4a4dc3229b50f.jpg

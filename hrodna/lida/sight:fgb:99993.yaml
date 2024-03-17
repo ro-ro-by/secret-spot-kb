@@ -1,9 +1,9 @@
-id: 'sight:fgb:99993'
+id: 'sight-fgb-99993'
 title: 'Архаічная крапільніца'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 meta:
     fgb:
         post_id: '99993'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75011'
+id: 'sight-fgb-75011'
 title: 'Панская криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 meta:
     fgb:
         post_id: '75011'

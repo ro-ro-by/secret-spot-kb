@@ -1,9 +1,9 @@
-id: 'sight:fgb:74794'
+id: 'sight-fgb-74794'
 title: 'Каменский бор'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 forest:
     dominated_type: pine
 images:

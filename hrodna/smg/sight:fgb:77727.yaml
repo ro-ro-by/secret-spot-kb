@@ -1,9 +1,9 @@
-id: 'sight:fgb:77727'
+id: 'sight-fgb-77727'
 title: 'Камень Богушевича'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 images:
     -
         file: 39652e7aac285d0544bc2b7b08fca8db.jpg

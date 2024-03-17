@@ -1,9 +1,9 @@
-id: 'sight:fgb:75027'
+id: 'sight-fgb-75027'
 title: Криница-2
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 images:
     -
         file: 22735b879a53dc888b1c62c0f350d061.jpg

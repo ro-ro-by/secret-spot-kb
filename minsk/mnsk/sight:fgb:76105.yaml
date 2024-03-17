@@ -1,9 +1,9 @@
-id: 'sight:fgb:76105'
+id: 'sight-fgb-76105'
 title: 'Тополь-великан (Вековой тополь)'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: ab84ce29c20acf6509718de4dc35622a.jpg

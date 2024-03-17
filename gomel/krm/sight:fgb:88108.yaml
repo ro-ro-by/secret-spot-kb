@@ -1,9 +1,9 @@
-id: 'sight:fgb:88108'
+id: 'sight-fgb-88108'
 title: 'Романова криница'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 images:
     -
         file: b09ce9d53c3dfa5bd288239f6fb0d475.jpg

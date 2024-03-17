@@ -1,9 +1,9 @@
-id: 'sight:fgb:99810'
+id: 'sight-fgb-99810'
 title: 'Камень следавік са слядамі Дзевы Марыі і Чорта'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: 6b17caa9829f27b291144b16268ec34f.jpg

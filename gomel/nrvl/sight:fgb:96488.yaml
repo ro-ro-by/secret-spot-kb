@@ -1,9 +1,9 @@
-id: 'sight:fgb:96488'
+id: 'sight-fgb-96488'
 title: 'Парк Головчицы'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:nrvl'
+    region: 'region-gomel'
+    subregion: 'subregion-nrvl'
 images:
     -
         file: 2da3e6df1bf5046ba5ea33d4f6523d7d.jpg

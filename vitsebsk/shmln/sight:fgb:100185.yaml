@@ -1,9 +1,9 @@
-id: 'sight:fgb:100185'
+id: 'sight-fgb-100185'
 title: 'Валун Пярун'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shmln'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shmln'
 images:
     -
         file: 762a67871e09787477425875f985d63e.jpg

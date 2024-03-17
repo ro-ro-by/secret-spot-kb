@@ -1,9 +1,9 @@
-id: 'sight:fgb:96461'
+id: 'sight-fgb-96461'
 title: 'Парк Краски'
 type: park
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 images:
     -
         file: 4248a9ce2d661c4cfdf75ccea392ee2a.jpg

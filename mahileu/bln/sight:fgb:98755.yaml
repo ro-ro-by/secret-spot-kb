@@ -1,9 +1,9 @@
-id: 'sight:fgb:98755'
+id: 'sight-fgb-98755'
 title: 'Камень Чарвякова'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 meta:
     fgb:
         post_id: '98755'

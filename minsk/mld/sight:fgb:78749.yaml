@@ -1,9 +1,9 @@
-id: 'sight:fgb:78749'
+id: 'sight-fgb-78749'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mld'
+    region: 'region-minsk'
+    subregion: 'subregion-mld'
 meta:
     fgb:
         post_id: '78749'

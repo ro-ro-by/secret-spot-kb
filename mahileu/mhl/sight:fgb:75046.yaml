@@ -1,9 +1,9 @@
-id: 'sight:fgb:75046'
+id: 'sight-fgb-75046'
 title: 'Вековое дерево дуб'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: abb946d8f3dfbb5da9f657694b0eefb8.jpg

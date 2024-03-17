@@ -1,9 +1,9 @@
-id: 'sight:fgb:100037'
+id: 'sight-fgb-100037'
 title: 'Каменныя валы'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 meta:
     fgb:
         post_id: '100037'

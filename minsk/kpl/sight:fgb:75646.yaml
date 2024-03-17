@@ -1,9 +1,9 @@
-id: 'sight:fgb:75646'
+id: 'sight-fgb-75646'
 title: 'Дубрава кисличная'
 type: forest
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 forest:
     dominated_type: oak
     types:

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99108'
+id: 'sight-fgb-99108'
 title: 'ДОЛ «Родничок»'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '99108'

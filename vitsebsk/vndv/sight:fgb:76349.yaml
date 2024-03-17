@@ -1,9 +1,9 @@
-id: 'sight:fgb:76349'
+id: 'sight-fgb-76349'
 title: 'Старинный парк Освейский'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 images:
     -
         file: eb5059b3c0d37bdace2b3d1d563026f0.jpg

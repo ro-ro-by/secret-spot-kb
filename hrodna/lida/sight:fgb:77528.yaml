@@ -1,9 +1,9 @@
-id: 'sight:fgb:77528'
+id: 'sight-fgb-77528'
 title: 'Камень-чашечник (Камень-Кабыла)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:lida'
+    region: 'region-hrodna'
+    subregion: 'subregion-lida'
 images:
     -
         file: 8c411c394ddeb5444ac9e335b85f9452.jpg

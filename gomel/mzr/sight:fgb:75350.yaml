@@ -1,9 +1,9 @@
-id: 'sight:fgb:75350'
+id: 'sight-fgb-75350'
 title: 'Матвеева криница'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 meta:
     fgb:
         post_id: '75350'

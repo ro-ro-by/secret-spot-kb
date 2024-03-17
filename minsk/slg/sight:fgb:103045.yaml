@@ -1,9 +1,9 @@
-id: 'sight:fgb:103045'
+id: 'sight-fgb-103045'
 title: 'Вышкоўская гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 meta:
     fgb:
         post_id: '103045'

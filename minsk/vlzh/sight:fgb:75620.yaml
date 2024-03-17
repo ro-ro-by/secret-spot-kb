@@ -1,9 +1,9 @@
-id: 'sight:fgb:75620'
+id: 'sight-fgb-75620'
 title: Ивенчик
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 735d0a4281c1a2c228a006119703b3cc.jpg

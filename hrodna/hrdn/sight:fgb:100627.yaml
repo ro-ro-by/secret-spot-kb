@@ -1,9 +1,9 @@
-id: 'sight:fgb:100627'
+id: 'sight-fgb-100627'
 title: 'Родник у фольварка Каролино'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: ee0504bf4a935ccf22703603563f9550.jpg

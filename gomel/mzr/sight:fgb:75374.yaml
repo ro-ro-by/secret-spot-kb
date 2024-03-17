@@ -1,9 +1,9 @@
-id: 'sight:fgb:75374'
+id: 'sight-fgb-75374'
 title: Щекотова-1
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: eea9df0c574951ddfe07917f965e93ba.jpg

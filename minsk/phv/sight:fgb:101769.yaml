@@ -1,9 +1,9 @@
-id: 'sight:fgb:101769'
+id: 'sight-fgb-101769'
 title: 'Родник у музея'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:phv'
+    region: 'region-minsk'
+    subregion: 'subregion-phv'
 images:
     -
         file: fed5852961180c8a1f869c3c5be0791f.jpg

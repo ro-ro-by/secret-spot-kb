@@ -1,9 +1,9 @@
-id: 'sight:fgb:101048'
+id: 'sight-fgb-101048'
 title: 'Камень са знакам у выглядзе паўсферы'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '101048'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75960'
+id: 'sight-fgb-75960'
 title: Свитезь
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: 7ba04dcb7a803eb9027339f18e97ab50.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:79474'
+id: 'sight-fgb-79474'
 title: 'На Соловьёва'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:zlv'
+    region: 'region-hrodna'
+    subregion: 'subregion-zlv'
 images:
     -
         file: 929db090d5567658ab25990c6a59cc07.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75694'
+id: 'sight-fgb-75694'
 title: Маковье
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 images:
     -
         file: 55a02385fcd900f203bb27ff4df85ae9.jpg

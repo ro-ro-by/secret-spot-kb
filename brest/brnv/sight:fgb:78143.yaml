@@ -1,9 +1,9 @@
-id: 'sight:fgb:78143'
+id: 'sight-fgb-78143'
 title: Россошь
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 2b441466cf6dfabe861bce023a416baa.jpg

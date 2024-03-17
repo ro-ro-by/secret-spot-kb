@@ -1,9 +1,9 @@
-id: 'sight:fgb:75273'
+id: 'sight-fgb-75273'
 title: 'Парк Красный Берег'
 type: park
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:zhlb'
+    region: 'region-gomel'
+    subregion: 'subregion-zhlb'
 images:
     -
         file: 6a931ea86df42f1eac87a9b208ad5a45.jpg

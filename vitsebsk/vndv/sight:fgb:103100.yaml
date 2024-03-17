@@ -1,9 +1,9 @@
-id: 'sight:fgb:103100'
+id: 'sight-fgb-103100'
 title: 'Богава гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 meta:
     fgb:
         post_id: '103100'

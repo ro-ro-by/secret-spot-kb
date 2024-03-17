@@ -1,9 +1,9 @@
-id: 'sight:fgb:75446'
+id: 'sight-fgb-75446'
 title: 'Камень Кравец'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:svlg'
+    region: 'region-gomel'
+    subregion: 'subregion-svlg'
 images:
     -
         file: a7887cf16880c4c30d1e07d87ff22b8c.jpg

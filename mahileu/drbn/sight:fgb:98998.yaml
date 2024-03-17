@@ -1,9 +1,9 @@
-id: 'sight:fgb:98998'
+id: 'sight-fgb-98998'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: dc912c66f3a14cbe24be8930df3f0d84.jpg

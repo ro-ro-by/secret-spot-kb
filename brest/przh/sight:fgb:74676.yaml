@@ -1,9 +1,9 @@
-id: 'sight:fgb:74676'
+id: 'sight-fgb-74676'
 title: 'Божий Следок'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 images:
     -
         file: 2c1d08e356dde98b0c7abf401b634517.jpg

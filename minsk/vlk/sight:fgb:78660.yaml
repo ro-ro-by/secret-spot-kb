@@ -1,9 +1,9 @@
-id: 'sight:fgb:78660'
+id: 'sight-fgb-78660'
 title: 'Парк Ободовцы'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: a9a98ae8cc60463f1581aee2d5cee68b.jpg

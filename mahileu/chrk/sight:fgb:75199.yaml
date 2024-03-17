@@ -1,9 +1,9 @@
-id: 'sight:fgb:75199'
+id: 'sight-fgb-75199'
 title: Криница
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:chrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-chrk'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75354'
+id: 'sight-fgb-75354'
 title: 'Большие Боровые Криницы'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 meta:
     fgb:
         post_id: '75354'

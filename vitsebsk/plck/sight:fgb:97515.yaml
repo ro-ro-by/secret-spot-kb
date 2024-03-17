@@ -1,9 +1,9 @@
-id: 'sight:fgb:97515'
+id: 'sight-fgb-97515'
 title: 'Голова спящей собаки'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 images:
     -
         file: e2b6e0ca45ef29db35e660e70e512843.jpg

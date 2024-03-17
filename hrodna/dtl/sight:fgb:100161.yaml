@@ -1,9 +1,9 @@
-id: 'sight:fgb:100161'
+id: 'sight-fgb-100161'
 title: 'Каменная пліта з высечыным крыжам і надпісам'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:dtl'
+    region: 'region-hrodna'
+    subregion: 'subregion-dtl'
 meta:
     fgb:
         post_id: '100161'

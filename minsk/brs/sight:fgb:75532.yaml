@@ -1,9 +1,9 @@
-id: 'sight:fgb:75532'
+id: 'sight-fgb-75532'
 title: 'Валун Князь-камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 35bda3a4f754cb78a381b99c6a8e032a.jpg

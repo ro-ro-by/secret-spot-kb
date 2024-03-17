@@ -1,9 +1,9 @@
-id: 'sight:fgb:75769'
+id: 'sight-fgb-75769'
 title: 'Группа из шести деревьев дуба черешчатого'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:lbn'
+    region: 'region-minsk'
+    subregion: 'subregion-lbn'
 images:
     -
         file: 443327e66e34c1b5f23737d66dd02191.jpg

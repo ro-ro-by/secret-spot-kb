@@ -1,9 +1,9 @@
-id: 'sight:fgb:98989'
+id: 'sight-fgb-98989'
 title: 'На Красноармейской'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:hrk'
+    region: 'region-mahileu'
+    subregion: 'subregion-hrk'
 meta:
     fgb:
         post_id: '98989'

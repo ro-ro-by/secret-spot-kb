@@ -1,9 +1,9 @@
-id: 'sight:fgb:99126'
+id: 'sight-fgb-99126'
 title: 'Мір-Гара (Святая гара)'
 type: sacral_hill
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slck'
+    region: 'region-minsk'
+    subregion: 'subregion-slck'
 images:
     -
         file: c76209cfde95780d301f1e1e9db4c7fa.jpg

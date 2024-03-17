@@ -1,9 +1,9 @@
-id: 'sight:fgb:76402'
+id: 'sight-fgb-76402'
 title: 'Георгия Победоносца'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vtb'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vtb'
 images:
     -
         file: 7df123456054d486f78b56f916553bc5.jpg

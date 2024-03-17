@@ -1,9 +1,9 @@
-id: 'sight:fgb:75537'
+id: 'sight-fgb-75537'
 title: 'Парк в деревне имени Воровского'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: 8ba70b097ee442906275310897c6382d.jpg

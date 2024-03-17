@@ -1,9 +1,9 @@
-id: 'sight:fgb:78686'
+id: 'sight-fgb-78686'
 title: Шестаки
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:kpl'
+    region: 'region-minsk'
+    subregion: 'subregion-kpl'
 images:
     -
         file: c7ca45307634cf11544bbcf4239748a5.jpg

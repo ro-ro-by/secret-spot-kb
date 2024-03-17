@@ -1,9 +1,9 @@
-id: 'sight:fgb:74497'
+id: 'sight-fgb-74497'
 title: 'Старинный парк «Старые Пески»'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brz'
+    region: 'region-brest'
+    subregion: 'subregion-brz'
 images:
     -
         file: 8b08bd645b940cfb207fbbbf1d25233b.jpg

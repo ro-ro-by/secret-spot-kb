@@ -1,9 +1,9 @@
-id: 'sight:fgb:77027'
+id: 'sight-fgb-77027'
 title: 'Барысаў камень Полацкі (Першы Барысаў камень)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:plck'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-plck'
 images:
     -
         file: c2bca444c523bcdbf91d86638a3cc813.jpg

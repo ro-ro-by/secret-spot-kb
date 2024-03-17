@@ -1,9 +1,9 @@
-id: 'sight:fgb:75977'
+id: 'sight-fgb-75977'
 title: 'Божией Матери Остробрамской'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slck'
+    region: 'region-minsk'
+    subregion: 'subregion-slck'
 images:
     -
         file: 89f277d59746559bea333ed8e24dfb3d.jpg

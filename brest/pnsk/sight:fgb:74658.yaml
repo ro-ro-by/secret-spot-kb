@@ -1,9 +1,9 @@
-id: 'sight:fgb:74658'
+id: 'sight-fgb-74658'
 title: 'Колодец королевы Боны'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 images:
     -
         file: 7456161f19f808cec77c30e4a1df8cf2.jpg

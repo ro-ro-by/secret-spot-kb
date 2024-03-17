@@ -1,9 +1,9 @@
-id: 'sight:fgb:78717'
+id: 'sight-fgb-78717'
 title: Буды-2
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: fa637bd626bcdaaedf8e8f04da8b059e.jpg

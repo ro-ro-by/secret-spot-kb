@@ -1,9 +1,9 @@
-id: 'sight:fgb:95775'
+id: 'sight-fgb-95775'
 title: 'Прокопов дуб'
 type: tree
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 tree:
     type: oak
 meta:

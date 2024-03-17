@@ -1,9 +1,9 @@
-id: 'sight:fgb:76364'
+id: 'sight-fgb-76364'
 title: 'Большой камень Харабровский'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 images:
     -
         file: b132f77b7f5ecf228f7ab4783103c8b1.jpg

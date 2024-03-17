@@ -1,9 +1,9 @@
-id: 'sight:fgb:77172'
+id: 'sight-fgb-77172'
 title: 'Валун Змеев камень'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 images:
     -
         file: e2c6a72eaef334134c07bf5a84153255.jpg

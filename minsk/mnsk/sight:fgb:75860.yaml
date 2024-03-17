@@ -1,9 +1,9 @@
-id: 'sight:fgb:75860'
+id: 'sight-fgb-75860'
 title: 'Бювет в Доме Милосердия'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 47e81b0a631381d3a9d0f524ee07a4c3.jpg

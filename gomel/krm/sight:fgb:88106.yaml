@@ -1,9 +1,9 @@
-id: 'sight:fgb:88106'
+id: 'sight-fgb-88106'
 title: Волынцы-2
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 images:
     -
         file: 2edecdc444d2d70eaee9df649220826e.jpg

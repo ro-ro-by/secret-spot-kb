@@ -1,9 +1,9 @@
-id: 'sight:fgb:101154'
+id: 'sight-fgb-101154'
 title: 'Камень з цыліндрычным паглыбленнем'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vlkv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vlkv'
 meta:
     fgb:
         post_id: '101154'

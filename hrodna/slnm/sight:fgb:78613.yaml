@@ -1,9 +1,9 @@
-id: 'sight:fgb:78613'
+id: 'sight-fgb-78613'
 title: Деревная-5
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 location:
     -
         type: point

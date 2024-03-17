@@ -1,9 +1,9 @@
-id: 'sight:fgb:75596'
+id: 'sight-fgb-75596'
 title: 'Валуны Макасичские'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: e2fb2e0d523cbc0cd64d7e85f2b52b73.jpg

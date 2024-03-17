@@ -1,9 +1,9 @@
-id: 'sight:fgb:90991'
+id: 'sight-fgb-90991'
 title: Кропильница
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 59ae3d96f21232f49f5950640a69d2e6.jpg

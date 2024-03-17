@@ -1,9 +1,9 @@
-id: 'sight:fgb:75916'
+id: 'sight-fgb-75916'
 title: 'Полуостров Наносы'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: eb1aafa1c2e0413d13c51fecce0a5502.jpg

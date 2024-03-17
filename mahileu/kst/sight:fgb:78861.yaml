@@ -1,9 +1,9 @@
-id: 'sight:fgb:78861'
+id: 'sight-fgb-78861'
 title: 'Казанской иконы Божией Матери'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:kst'
+    region: 'region-mahileu'
+    subregion: 'subregion-kst'
 images:
     -
         file: 9de741f8a11763d77bb0a44c6b7a4bb6.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:95977'
+id: 'sight-fgb-95977'
 title: 'Парк Белыничи'
 type: park
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:bln'
+    region: 'region-mahileu'
+    subregion: 'subregion-bln'
 images:
     -
         file: 59811662578df6d9a79f17727bd26d42.jpg

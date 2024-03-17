@@ -1,9 +1,9 @@
-id: 'sight:fgb:78666'
+id: 'sight-fgb-78666'
 title: 'Под Белой горой'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '78666'

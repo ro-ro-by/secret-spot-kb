@@ -1,9 +1,9 @@
-id: 'sight:fgb:75335'
+id: 'sight-fgb-75335'
 title: Борисковичи-3
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 images:
     -
         file: 34edff2c6911eecb2c48e23b21b3c473.jpg

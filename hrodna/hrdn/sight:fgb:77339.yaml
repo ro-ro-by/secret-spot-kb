@@ -1,9 +1,9 @@
-id: 'sight:fgb:77339'
+id: 'sight-fgb-77339'
 title: 'Аллея памяти'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: d7de0a83623d34debca5753a7b06958c.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99918'
+id: 'sight-fgb-99918'
 title: 'Чортавы жорны'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 meta:
     fgb:
         post_id: '99918'

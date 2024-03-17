@@ -1,9 +1,9 @@
-id: 'sight:fgb:76992'
+id: 'sight-fgb-76992'
 title: 'Рогволодов камень (уменьшеная копия)'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:orsh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-orsh'
 images:
     -
         file: a59acb22e05d56d784938bbf0c30f0e9.jpg

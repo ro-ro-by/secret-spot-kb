@@ -1,9 +1,9 @@
-id: 'sight:fgb:78123'
+id: 'sight-fgb-78123'
 title: 'Тумин Второй'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:kmn'
+    region: 'region-brest'
+    subregion: 'subregion-kmn'
 meta:
     fgb:
         post_id: '78123'

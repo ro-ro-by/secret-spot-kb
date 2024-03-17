@@ -1,9 +1,9 @@
-id: 'sight:fgb:93158'
+id: 'sight-fgb-93158'
 title: 'Родник МариАнны (Криничная-4, Мар’яны)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 31a6eaa4e23b9ca198e36032bdf7b151.jpg

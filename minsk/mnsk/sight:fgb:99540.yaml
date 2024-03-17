@@ -1,9 +1,9 @@
-id: 'sight:fgb:99540'
+id: 'sight-fgb-99540'
 title: Криница-1989
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 location:
     -
         type: point

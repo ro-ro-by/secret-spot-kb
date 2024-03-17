@@ -1,9 +1,9 @@
-id: 'sight:fgb:95958'
+id: 'sight-fgb-95958'
 title: 'Парк Стайки'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 53753ac4ac0d071001aeeb553c9cc515.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74798'
+id: 'sight-fgb-74798'
 title: 'Гремячая криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: 0f36d005b6f6ec8df23e1bcc068e3684.jpg

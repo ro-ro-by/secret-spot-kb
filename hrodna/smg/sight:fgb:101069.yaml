@@ -1,9 +1,9 @@
-id: 'sight:fgb:101069'
+id: 'sight-fgb-101069'
 title: 'Святы камень'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:smg'
+    region: 'region-hrodna'
+    subregion: 'subregion-smg'
 meta:
     fgb:
         post_id: '101069'

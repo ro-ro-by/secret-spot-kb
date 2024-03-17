@@ -1,9 +1,9 @@
-id: 'sight:fgb:83096'
+id: 'sight-fgb-83096'
 title: Кураковщина
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:krm'
+    region: 'region-gomel'
+    subregion: 'subregion-krm'
 images:
     -
         file: 20bb0cd4d9269b0b90e73884124c0bd4.jpg

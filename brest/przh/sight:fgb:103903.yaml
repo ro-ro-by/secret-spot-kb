@@ -1,9 +1,9 @@
-id: 'sight:fgb:103903'
+id: 'sight-fgb-103903'
 title: 'Гара Пачуйкі'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 meta:
     fgb:
         post_id: '103903'

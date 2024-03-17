@@ -1,9 +1,9 @@
-id: 'sight:fgb:91058'
+id: 'sight-fgb-91058'
 title: 'Каменная баба'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 meta:
     fgb:
         post_id: '91058'

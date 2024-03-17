@@ -1,9 +1,9 @@
-id: 'sight:fgb:100036'
+id: 'sight-fgb-100036'
 title: 'Каменныя валы'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:ptrk'
+    region: 'region-gomel'
+    subregion: 'subregion-ptrk'
 meta:
     fgb:
         post_id: '100036'

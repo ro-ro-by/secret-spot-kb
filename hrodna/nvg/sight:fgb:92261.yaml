@@ -1,9 +1,9 @@
-id: 'sight:fgb:92261'
+id: 'sight-fgb-92261'
 title: Сенежицы
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 45331917d57c2cc69cdabbeec94de6b8.jpg

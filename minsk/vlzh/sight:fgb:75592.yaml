@@ -1,9 +1,9 @@
-id: 'sight:fgb:75592'
+id: 'sight-fgb-75592'
 title: 'Валун Васьков камень (Чёртов камень)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: 9e87bbeb26a31ee4da98744686b5b95d.jpg

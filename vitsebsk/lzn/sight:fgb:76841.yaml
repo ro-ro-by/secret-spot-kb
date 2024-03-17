@@ -1,9 +1,9 @@
-id: 'sight:fgb:76841'
+id: 'sight-fgb-76841'
 title: Добромысли
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:lzn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-lzn'
 images:
     -
         file: 3685284ba5a6cf2c3674aa649cf89392.jpg

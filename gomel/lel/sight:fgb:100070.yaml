@@ -1,9 +1,9 @@
-id: 'sight:fgb:100070'
+id: 'sight-fgb-100070'
 title: 'Чорны камень (Камень-Дзяўчынка)'
 type: boulder
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:lel'
+    region: 'region-gomel'
+    subregion: 'subregion-lel'
 images:
     -
         file: 4203b30d004d736e7f1c1d31797c6f57.jpg

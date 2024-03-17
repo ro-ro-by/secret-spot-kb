@@ -1,9 +1,9 @@
-id: 'sight:fgb:100055'
+id: 'sight-fgb-100055'
 title: 'Трусаў (Скарбавы) камень'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 images:
     -
         file: 6fb2847201223302515f5399e77b0b34.jpg

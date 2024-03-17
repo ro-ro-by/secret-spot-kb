@@ -1,9 +1,9 @@
-id: 'sight:fgb:75154'
+id: 'sight-fgb-75154'
 title: Леванова
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 location:
     -
         type: point

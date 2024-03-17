@@ -1,9 +1,9 @@
-id: 'sight:fgb:79457'
+id: 'sight-fgb-79457'
 title: Лососнянский-2
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: ccad806ccdd36e18ddcaa058dd8876cc.jpg

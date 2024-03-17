@@ -1,9 +1,9 @@
-id: 'sight:fgb:99454'
+id: 'sight-fgb-99454'
 title: Бояры-4
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 location:
     -
         type: point

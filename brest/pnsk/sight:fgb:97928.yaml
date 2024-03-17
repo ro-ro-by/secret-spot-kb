@@ -1,9 +1,9 @@
-id: 'sight:fgb:97928'
+id: 'sight-fgb-97928'
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 images:
     -
         file: c758db7776ebc107848c5be05e9c36fe.jpg

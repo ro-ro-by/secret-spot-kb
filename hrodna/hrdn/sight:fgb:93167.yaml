@@ -1,9 +1,9 @@
-id: 'sight:fgb:93167'
+id: 'sight-fgb-93167'
 title: 'Щечиново (Щачиново)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 25ab3f88cc0f983f4e2f7c588d8a39a8.jpg

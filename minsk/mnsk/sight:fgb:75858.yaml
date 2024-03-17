@@ -1,9 +1,9 @@
-id: 'sight:fgb:75858'
+id: 'sight-fgb-75858'
 title: 'Клены Александровского сквера'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 968b7d28d8356c717ed0777be023a242.jpg

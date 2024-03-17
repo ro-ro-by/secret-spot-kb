@@ -1,9 +1,9 @@
-id: 'sight:fgb:99106'
+id: 'sight-fgb-99106'
 title: Марудовка
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 meta:
     fgb:
         post_id: '99106'

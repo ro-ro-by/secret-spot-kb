@@ -1,9 +1,9 @@
-id: 'sight:fgb:75041'
+id: 'sight-fgb-75041'
 title: Родник
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krg'
+    region: 'region-mahileu'
+    subregion: 'subregion-krg'
 meta:
     fgb:
         post_id: '75041'

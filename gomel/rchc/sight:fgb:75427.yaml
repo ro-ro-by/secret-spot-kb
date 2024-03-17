@@ -1,9 +1,9 @@
-id: 'sight:fgb:75427'
+id: 'sight-fgb-75427'
 title: 'Насаждения дуба'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 images:
     -
         file: 7b4964053fabed99f96ebe3ebf23fa57.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:99445'
+id: 'sight-fgb-99445'
 title: 'Большие Туполы-2'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:krl'
+    region: 'region-hrodna'
+    subregion: 'subregion-krl'
 location:
     -
         type: point

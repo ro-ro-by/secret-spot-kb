@@ -1,9 +1,9 @@
-id: 'sight:fgb:91009'
+id: 'sight-fgb-91009'
 title: 'Колодец Бохвицей'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 images:
     -
         file: 9c8858eddf018e50acb56eb7b1627219.jpg

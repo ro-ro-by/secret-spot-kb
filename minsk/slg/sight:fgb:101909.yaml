@@ -1,9 +1,9 @@
-id: 'sight:fgb:101909'
+id: 'sight-fgb-101909'
 title: 'Дуб черешчатый'
 type: tree
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 tree:
     type: oak
 meta:

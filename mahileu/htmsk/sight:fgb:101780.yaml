@@ -1,9 +1,9 @@
-id: 'sight:fgb:101780'
+id: 'sight-fgb-101780'
 title: Гута
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75539'
+id: 'sight-fgb-75539'
 title: 'Парк возле деревни Скуплино'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 images:
     -
         file: c18719459517303a406d4368fe317669.jpg

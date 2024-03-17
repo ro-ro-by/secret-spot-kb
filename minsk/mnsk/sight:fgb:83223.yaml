@@ -1,9 +1,9 @@
-id: 'sight:fgb:83223'
+id: 'sight-fgb-83223'
 title: Тресковщинский-2
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 meta:
     fgb:
         post_id: '83223'

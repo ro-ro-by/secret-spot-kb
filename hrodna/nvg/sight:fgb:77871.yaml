@@ -1,9 +1,9 @@
-id: 'sight:fgb:77871'
+id: 'sight-fgb-77871'
 title: 'Святой дуб'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 images:
     -
         file: 76abb5e6ec4be809a2398d353ee27960.jpg

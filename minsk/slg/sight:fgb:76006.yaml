@@ -1,9 +1,9 @@
-id: 'sight:fgb:76006'
+id: 'sight-fgb-76006'
 title: 'Следавік Цудоўны'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:slg'
+    region: 'region-minsk'
+    subregion: 'subregion-slg'
 meta:
     fgb:
         post_id: '76006'

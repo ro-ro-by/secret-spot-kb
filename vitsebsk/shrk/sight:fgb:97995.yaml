@@ -1,9 +1,9 @@
-id: 'sight:fgb:97995'
+id: 'sight-fgb-97995'
 title: 'Парк Ганова'
 type: park
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:shrk'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-shrk'
 meta:
     fgb:
         post_id: '97995'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75380'
+id: 'sight-fgb-75380'
 title: 'На Крулёвой горе'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 meta:
     fgb:
         post_id: '75380'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77107'
+id: 'sight-fgb-77107'
 title: 'Сырны камень Расонскі'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:rsn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-rsn'
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97037'
+id: 'sight-fgb-97037'
 title: 'Парк Вошковцы'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '97037'

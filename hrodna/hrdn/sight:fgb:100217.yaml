@@ -1,9 +1,9 @@
-id: 'sight:fgb:100217'
+id: 'sight-fgb-100217'
 title: 'След Божай Маці'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 meta:
     fgb:
         post_id: '100217'

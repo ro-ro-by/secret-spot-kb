@@ -1,9 +1,9 @@
-id: 'sight:fgb:99983'
+id: 'sight-fgb-99983'
 title: 'Лекавы камень'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 images:
     -
         file: b6ae74d66b935d5b1593adf8d4c4c47b.jpg

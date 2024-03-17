@@ -1,9 +1,9 @@
-id: 'sight:fgb:75079'
+id: 'sight-fgb-75079'
 title: 'Святой источник Пустынский'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mstsl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mstsl'
 images:
     -
         file: f48acda67c5cd26e7ae1434fd6037e3b.jpg

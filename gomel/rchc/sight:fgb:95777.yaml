@@ -1,9 +1,9 @@
-id: 'sight:fgb:95777'
+id: 'sight-fgb-95777'
 title: 'Дуб Минтус'
 type: tree
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 tree:
     type: oak
 meta:

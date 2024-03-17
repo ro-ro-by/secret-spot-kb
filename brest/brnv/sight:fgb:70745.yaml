@@ -1,9 +1,9 @@
-id: 'sight:fgb:70745'
+id: 'sight-fgb-70745'
 title: 'Старинный парк Ястрембельский'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 207b5236e88ddc5b2275187b532e9e3d.jpg

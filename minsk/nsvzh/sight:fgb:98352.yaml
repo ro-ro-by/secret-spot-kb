@@ -1,9 +1,9 @@
-id: 'sight:fgb:98352'
+id: 'sight-fgb-98352'
 title: 'Качановичи-2 (исток Уши)'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:nsvzh'
+    region: 'region-minsk'
+    subregion: 'subregion-nsvzh'
 images:
     -
         file: eda69427fda90230590d676cc72189ea.jpg

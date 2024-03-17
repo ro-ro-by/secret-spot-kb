@@ -1,9 +1,9 @@
-id: 'sight:fgb:103566'
+id: 'sight-fgb-103566'
 title: 'Гара Вароная'
 type: sacral_hill
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:mst'
+    region: 'region-hrodna'
+    subregion: 'subregion-mst'
 meta:
     fgb:
         post_id: '103566'

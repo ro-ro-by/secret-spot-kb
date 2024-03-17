@@ -1,9 +1,9 @@
-id: 'sight:fgb:93156'
+id: 'sight-fgb-93156'
 title: 'Копаники (Исток ручья)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 906dc51aa3881ebdb62fe7f263322925.jpg

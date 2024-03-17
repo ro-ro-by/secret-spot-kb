@@ -1,9 +1,9 @@
-id: 'sight:fgb:99653'
+id: 'sight-fgb-99653'
 title: 'Парк Грушевский'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lhv'
+    region: 'region-brest'
+    subregion: 'subregion-lhv'
 meta:
     fgb:
         post_id: '99653'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:100189'
+id: 'sight-fgb-100189'
 title: 'Камень з незразумелымі надпісамі'
 type: boulder
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:drbn'
+    region: 'region-mahileu'
+    subregion: 'subregion-drbn'
 images:
     -
         file: 228eef991f625b2a30a0fef53a4d73e2.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:78380'
+id: 'sight-fgb-78380'
 title: 'Чёртова борода'
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vtb'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vtb'
 location:
     -
         type: geojson

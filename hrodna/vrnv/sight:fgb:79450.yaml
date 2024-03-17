@@ -1,9 +1,9 @@
-id: 'sight:fgb:79450'
+id: 'sight-fgb-79450'
 title: Осова
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:vrnv'
+    region: 'region-hrodna'
+    subregion: 'subregion-vrnv'
 images:
     -
         file: debe2dc445e4f1c7c9e24cc90b73f0a6.jpg

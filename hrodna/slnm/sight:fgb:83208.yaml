@@ -1,9 +1,9 @@
-id: 'sight:fgb:83208'
+id: 'sight-fgb-83208'
 title: 'Исток Каменки'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 location:
     -
         type: point

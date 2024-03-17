@@ -1,9 +1,9 @@
-id: 'sight:fgb:75152'
+id: 'sight-fgb-75152'
 title: 'Сабинчина криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:htmsk'
+    region: 'region-mahileu'
+    subregion: 'subregion-htmsk'
 meta:
     fgb:
         post_id: '75152'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75426'
+id: 'sight-fgb-75426'
 title: 'Участок уникальной дубравы Речицкий'
 type: forest
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:rchc'
+    region: 'region-gomel'
+    subregion: 'subregion-rchc'
 forest:
     dominated_type: oak
 images:

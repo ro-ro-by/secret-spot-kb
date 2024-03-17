@@ -1,9 +1,9 @@
-id: 'sight:fgb:75345'
+id: 'sight-fgb-75345'
 title: Николая
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:mzr'
+    region: 'region-gomel'
+    subregion: 'subregion-mzr'
 location:
     -
         type: point

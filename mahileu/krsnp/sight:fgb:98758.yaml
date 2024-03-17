@@ -1,9 +1,9 @@
-id: 'sight:fgb:98758'
+id: 'sight-fgb-98758'
 title: 'На Набережной'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:krsnp'
+    region: 'region-mahileu'
+    subregion: 'subregion-krsnp'
 images:
     -
         file: 3963c8c37c2e0549022e126ae6a9db6f.jpg

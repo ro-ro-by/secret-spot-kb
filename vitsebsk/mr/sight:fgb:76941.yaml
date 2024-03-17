@@ -1,9 +1,9 @@
-id: 'sight:fgb:76941'
+id: 'sight-fgb-76941'
 title: 'Буяноўскі пагорак (Астанец) / Буяновский погурок'
 type: hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:mr'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-mr'
 location:
     -
         type: point

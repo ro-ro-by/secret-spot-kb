@@ -1,9 +1,9 @@
-id: 'sight:fgb:93168'
+id: 'sight-fgb-93168'
 title: Войново
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:nvg'
+    region: 'region-hrodna'
+    subregion: 'subregion-nvg'
 location:
     -
         type: point

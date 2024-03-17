@@ -1,9 +1,9 @@
-id: 'sight:fgb:77345'
+id: 'sight-fgb-77345'
 title: 'Криничная-1 (Исток ручья, 100 крыниц)'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: 23c01af47f0572f250f93c4154e7bfb9.jpg

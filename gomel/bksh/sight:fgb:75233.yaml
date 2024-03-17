@@ -1,9 +1,9 @@
-id: 'sight:fgb:75233'
+id: 'sight-fgb-75233'
 title: 'Источник Макковея'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:bksh'
+    region: 'region-gomel'
+    subregion: 'subregion-bksh'
 images:
     -
         file: 613d17612e9f72e55604f7b58b7669dc.jpg

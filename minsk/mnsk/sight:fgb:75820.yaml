@@ -1,9 +1,9 @@
-id: 'sight:fgb:75820'
+id: 'sight-fgb-75820'
 title: 'Парк камней (Музей "пад богаваю страхою")'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: ba2fa2825acdff70dc7ee00feb79c78f.jpg

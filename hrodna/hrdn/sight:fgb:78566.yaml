@@ -1,9 +1,9 @@
-id: 'sight:fgb:78566'
+id: 'sight-fgb-78566'
 title: 'Колодец Солы-4'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:hrdn'
+    region: 'region-hrodna'
+    subregion: 'subregion-hrdn'
 images:
     -
         file: dc958a9b1db940248251b1ee7bbabe0e.jpg

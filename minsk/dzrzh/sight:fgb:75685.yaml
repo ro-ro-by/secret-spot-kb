@@ -1,9 +1,9 @@
-id: 'sight:fgb:75685'
+id: 'sight-fgb-75685'
 title: Гарбузы
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:dzrzh'
+    region: 'region-minsk'
+    subregion: 'subregion-dzrzh'
 images:
     -
         file: 361d7bed873b7c83565dc7e9e0b14340.jpg

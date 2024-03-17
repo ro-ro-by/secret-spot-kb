@@ -1,9 +1,9 @@
-id: 'sight:fgb:99661'
+id: 'sight-fgb-99661'
 title: 'Парк Чернеевичи'
 type: park
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:pnsk'
+    region: 'region-brest'
+    subregion: 'subregion-pnsk'
 meta:
     fgb:
         post_id: '99661'

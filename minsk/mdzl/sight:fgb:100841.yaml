@@ -1,9 +1,9 @@
-id: 'sight:fgb:100841'
+id: 'sight-fgb-100841'
 title: 'След Мядзведзя (Сіні камень)'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mdzl'
+    region: 'region-minsk'
+    subregion: 'subregion-mdzl'
 meta:
     fgb:
         post_id: '100841'

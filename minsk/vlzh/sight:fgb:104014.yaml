@@ -1,9 +1,9 @@
-id: 'sight:fgb:104014'
+id: 'sight-fgb-104014'
 title: 'Родник Грибовского'
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlzh'
+    region: 'region-minsk'
+    subregion: 'subregion-vlzh'
 images:
     -
         file: c0c60700f11bc004c36958980504731f.jpg

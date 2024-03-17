@@ -1,9 +1,9 @@
-id: 'sight:fgb:76815'
+id: 'sight-fgb-76815'
 title: Млынок
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:dksh'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-dksh'
 images:
     -
         file: 39411a6919291c85626df546b80dd021.jpg

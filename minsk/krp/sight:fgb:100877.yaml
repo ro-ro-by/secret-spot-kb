@@ -1,9 +1,9 @@
-id: 'sight:fgb:100877'
+id: 'sight-fgb-100877'
 title: Камень-хата
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:krp'
+    region: 'region-minsk'
+    subregion: 'subregion-krp'
 meta:
     fgb:
         post_id: '100877'

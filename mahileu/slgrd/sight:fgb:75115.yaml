@@ -1,9 +1,9 @@
-id: 'sight:fgb:75115'
+id: 'sight-fgb-75115'
 title: 'Синий колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 meta:
     fgb:
         post_id: '75115'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:77168'
+id: 'sight-fgb-77168'
 title: Сорочинская-1
 type: spring
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:ushch'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-ushch'
 images:
     -
         file: 5e3a2f1daabeb55bf5241ba0843a3dbf.jpg

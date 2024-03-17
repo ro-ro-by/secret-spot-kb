@@ -1,9 +1,9 @@
-id: 'sight:fgb:98969'
+id: 'sight-fgb-98969'
 title: 'У стадиона (Полесье-7)'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: e3caba6ab96683804f6158697ee1796e.jpg

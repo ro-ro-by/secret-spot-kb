@@ -1,9 +1,9 @@
-id: 'sight:fgb:97070'
+id: 'sight-fgb-97070'
 title: 'Камень-кресло (Камень-ложак)'
 type: boulder
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:iue'
+    region: 'region-hrodna'
+    subregion: 'subregion-iue'
 images:
     -
         file: c041974b2739f40d61a9813e7cb24de6.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:76198'
+id: 'sight-fgb-76198'
 title: 'Камень с подковой'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:brsl'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-brsl'
 meta:
     fgb:
         post_id: '76198'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:74735'
+id: 'sight-fgb-74735'
 title: 'Дубовая роща в урочище Дубки'
 type: forest
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 forest:
     dominated_type: oak
 images:

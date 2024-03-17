@@ -1,9 +1,9 @@
-id: 'sight:fgb:103801'
+id: 'sight-fgb-103801'
 title: 'Гара Зайцава'
 type: sacral_hill
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:chshn'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-chshn'
 meta:
     fgb:
         post_id: '103801'

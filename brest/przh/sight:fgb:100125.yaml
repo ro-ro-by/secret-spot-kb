@@ -1,9 +1,9 @@
-id: 'sight:fgb:100125'
+id: 'sight-fgb-100125'
 title: 'Камень, які выклікае дождж'
 type: boulder
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:przh'
+    region: 'region-brest'
+    subregion: 'subregion-przh'
 meta:
     fgb:
         post_id: '100125'

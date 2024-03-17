@@ -1,9 +1,9 @@
-id: 'sight:fgb:76365'
+id: 'sight-fgb-76365'
 title: 'Большой камень Дерновичский'
 type: boulder
 belongsTo:
-    region: 'region:vitsebsk'
-    subregion: 'subregion:vndv'
+    region: 'region-vitsebsk'
+    subregion: 'subregion-vndv'
 images:
     -
         file: 2779c2163ad7c9a683eaa08da7b21041.jpg

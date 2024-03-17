@@ -1,9 +1,9 @@
-id: 'sight:fgb:75110'
+id: 'sight-fgb-75110'
 title: Васьковичи-2
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 7b36bf87f285826d96caf8cc8609dbdc.jpg

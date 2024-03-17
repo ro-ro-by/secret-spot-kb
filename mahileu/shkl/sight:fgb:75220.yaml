@@ -1,9 +1,9 @@
-id: 'sight:fgb:75220'
+id: 'sight-fgb-75220'
 title: Мельница
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:shkl'
+    region: 'region-mahileu'
+    subregion: 'subregion-shkl'
 images:
     -
         file: 9b35e3309c0560f99e148c4fa43f5e8e.jpg

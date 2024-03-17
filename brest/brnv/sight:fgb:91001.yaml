@@ -1,9 +1,9 @@
-id: 'sight:fgb:91001'
+id: 'sight-fgb-91001'
 title: 'Скобелевский (Жерствянка, Жерствянник)'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 5e3e1c3a6457bce4aa4bcac860baf573.jpg

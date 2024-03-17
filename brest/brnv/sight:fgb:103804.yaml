@@ -1,9 +1,9 @@
-id: 'sight:fgb:103804'
+id: 'sight-fgb-103804'
 title: 'Гара Гай'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 meta:
     fgb:
         post_id: '103804'

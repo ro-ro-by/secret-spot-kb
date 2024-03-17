@@ -1,9 +1,9 @@
-id: 'sight:fgb:97346'
+id: 'sight-fgb-97346'
 title: 'Парк Семково'
 type: park
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 location:
     -
         type: point

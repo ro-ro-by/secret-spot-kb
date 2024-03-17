@@ -1,9 +1,9 @@
-id: 'sight:fgb:74993'
+id: 'sight-fgb-74993'
 title: 'Криница д. Тупичино'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:kst'
+    region: 'region-mahileu'
+    subregion: 'subregion-kst'
 images:
     -
         file: 98e1457ff3c38e0449043199fc2ca69a.jpg

@@ -1,9 +1,9 @@
-id: 'sight:fgb:97606'
+id: 'sight-fgb-97606'
 title: 'Родник с часовней'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 location:
     -
         type: point

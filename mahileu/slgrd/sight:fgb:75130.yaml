@@ -1,9 +1,9 @@
-id: 'sight:fgb:75130'
+id: 'sight-fgb-75130'
 title: Замковый
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:slgrd'
+    region: 'region-mahileu'
+    subregion: 'subregion-slgrd'
 images:
     -
         file: 615f680aba7ac485d80f37949d2e830a.jpg

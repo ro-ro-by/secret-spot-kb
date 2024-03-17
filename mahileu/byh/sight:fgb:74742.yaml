@@ -1,9 +1,9 @@
-id: 'sight:fgb:74742'
+id: 'sight-fgb-74742'
 title: 'Хвядосава криница'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:byh'
+    region: 'region-mahileu'
+    subregion: 'subregion-byh'
 meta:
     fgb:
         post_id: '74742'

@@ -1,9 +1,9 @@
-id: 'sight:fgb:75816'
+id: 'sight-fgb-75816'
 title: 'Центральный ботанический сад'
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 028307e5e21f3520034fc278ebb6dab9.jpg

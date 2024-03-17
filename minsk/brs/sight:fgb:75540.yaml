@@ -1,9 +1,9 @@
-id: 'sight:fgb:75540'
+id: 'sight-fgb-75540'
 title: 'Камень со следом Коня'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:brs'
+    region: 'region-minsk'
+    subregion: 'subregion-brs'
 meta:
     fgb:
         post_id: '75540'

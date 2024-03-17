@@ -1,9 +1,9 @@
-id: 'sight:fgb:90998'
+id: 'sight-fgb-90998'
 title: 'Емельяновичи-2 и 3'
 type: spring
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: 70d16dde939be92151155a5d9f090c38.jpg

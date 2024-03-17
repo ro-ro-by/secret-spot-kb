@@ -1,9 +1,9 @@
-id: 'sight:fgb:90045'
+id: 'sight-fgb-90045'
 title: Звенячи-1
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 47ccc26e2a7d2bec6bcb70870ee4fb7d.jpg

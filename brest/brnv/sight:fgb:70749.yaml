@@ -1,9 +1,9 @@
-id: 'sight:fgb:70749'
+id: 'sight-fgb-70749'
 title: 'Дубы пирамидальные Барановичские'
 type: tree
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:brnv'
+    region: 'region-brest'
+    subregion: 'subregion-brnv'
 images:
     -
         file: c8b8be8e86fd5282ff884b1ce6e89ac6.jpg

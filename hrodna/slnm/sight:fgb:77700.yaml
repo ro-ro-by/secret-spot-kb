@@ -1,9 +1,9 @@
-id: 'sight:fgb:77700'
+id: 'sight-fgb-77700'
 title: 'Загорьевский концовоморенный массив'
 type: area
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 images:
     -
         file: 7cb6cf4c3bf1b17ab8bd44d7ca62031f.jpg

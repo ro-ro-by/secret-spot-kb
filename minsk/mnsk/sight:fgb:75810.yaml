@@ -1,9 +1,9 @@
-id: 'sight:fgb:75810'
+id: 'sight-fgb-75810'
 title: Подсады
 type: area
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:mnsk'
+    region: 'region-minsk'
+    subregion: 'subregion-mnsk'
 images:
     -
         file: 8d9198a19d0560d78bbd4ecf9dbdb7cf.jpg

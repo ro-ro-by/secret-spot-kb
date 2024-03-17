@@ -1,9 +1,9 @@
-id: 'sight:fgb:75255'
+id: 'sight-fgb-75255'
 title: 'Рождества Пресвятой Богородицы'
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:drb'
+    region: 'region-gomel'
+    subregion: 'subregion-drb'
 images:
     -
         file: b4c1cd980535adadd1e1cbc790b22921.jpg

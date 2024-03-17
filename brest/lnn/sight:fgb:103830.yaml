@@ -1,9 +1,9 @@
-id: 'sight:fgb:103830'
+id: 'sight-fgb-103830'
 title: 'Сонная гара'
 type: sacral_hill
 belongsTo:
-    region: 'region:brest'
-    subregion: 'subregion:lnn'
+    region: 'region-brest'
+    subregion: 'subregion-lnn'
 meta:
     fgb:
         post_id: '103830'

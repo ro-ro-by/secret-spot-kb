@@ -1,9 +1,9 @@
-id: 'sight:fgb:79277'
+id: 'sight-fgb-79277'
 title: 'На Школьной'
 type: spring
 belongsTo:
-    region: 'region:hrodna'
-    subregion: 'subregion:slnm'
+    region: 'region-hrodna'
+    subregion: 'subregion-slnm'
 meta:
     fgb:
         post_id: '79277'

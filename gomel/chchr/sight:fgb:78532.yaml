@@ -1,9 +1,9 @@
-id: 'sight:fgb:78532'
+id: 'sight-fgb-78532'
 title: Роспись
 type: spring
 belongsTo:
-    region: 'region:gomel'
-    subregion: 'subregion:chchr'
+    region: 'region-gomel'
+    subregion: 'subregion-chchr'
 images:
     -
         file: dc7a6bdfc510f4755d0b0f20cf134f76.jpg

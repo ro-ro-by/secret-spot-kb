@@ -1,9 +1,9 @@
-id: 'sight:fgb:99124'
+id: 'sight-fgb-99124'
 title: Камень-следавік
 type: spring
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:smlv'
+    region: 'region-minsk'
+    subregion: 'subregion-smlv'
 images:
     -
         file: bb704a4cf8fe14f3df852c44676ce551.jpg

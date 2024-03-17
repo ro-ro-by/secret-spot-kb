@@ -1,9 +1,9 @@
-id: 'sight:fgb:100158'
+id: 'sight-fgb-100158'
 title: 'Камень з ямкамі'
 type: boulder
 belongsTo:
-    region: 'region:minsk'
-    subregion: 'subregion:vlk'
+    region: 'region-minsk'
+    subregion: 'subregion-vlk'
 images:
     -
         file: 626510e64734ae0f9e0dfa7cbb7ddf26.jpg

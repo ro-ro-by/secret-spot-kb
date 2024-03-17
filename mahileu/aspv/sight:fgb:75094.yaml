@@ -1,9 +1,9 @@
-id: 'sight:fgb:75094'
+id: 'sight-fgb-75094'
 title: 'Святой колодец'
 type: spring
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:aspv'
+    region: 'region-mahileu'
+    subregion: 'subregion-aspv'
 images:
     -
         file: d2752463ac83a66713b81ccaed1145e2.jpg

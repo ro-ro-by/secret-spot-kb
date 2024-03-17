@@ -1,9 +1,9 @@
-id: 'sight:fgb:75052'
+id: 'sight-fgb-75052'
 title: Прибережье
 type: area
 belongsTo:
-    region: 'region:mahileu'
-    subregion: 'subregion:mhl'
+    region: 'region-mahileu'
+    subregion: 'subregion-mhl'
 images:
     -
         file: d239ea0d3c01f7345a02a890ddd97352.jpg
