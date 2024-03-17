@@ -1,0 +1,113 @@
+{
+    "$id": "sight.schema",
+    "title": "Sight",
+    "description": "Sight",
+    "type": "object",
+    "allOf": [
+        {
+            "$ref": "#/$defs/kb-object"
+        }
+    ],
+    "properties": {
+        "type": {
+            "description": "Sight type",
+            "type": "string",
+            "enum": [
+                "alley",
+                "area",
+                "basin",
+                "boulder",
+                "cliff",
+                "dune",
+                "esker",
+                "forest",
+                "geoglyph",
+                "hill",
+                "meteorite",
+                "outcrop",
+                "park",
+                "river",
+                "sacral_hill",
+                "spring",
+                "stone",
+                "tree",
+                "conglomerate",
+                "REMOVE",
+                "TODO"
+            ]
+        },
+        "title": {
+            "description": "Title",
+            "type": "string"
+        },
+        "belongsTo": {
+            "description": "Belongs to",
+            "type": "object",
+            "properties": {
+                "region": {
+                    "description": "Region",
+                    "type": "string"
+                },
+                "subregion": {
+                    "description": "Sub Region",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "region",
+                "subregion"
+            ]
+        },
+        "images": {
+            "description": "Images",
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/kb-sight-image"
+            }
+        }
+    },
+    "required": [
+        "id",
+        "type",
+        "belongsTo"
+    ],
+    "$defs": {
+        "kb-object": {
+            "title": "Object",
+            "description": "Any KB object",
+            "type": "object",
+            "properties": {
+                "id": {
+                    "description": "Identifier of object",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ]
+        },
+        "kb-sight-image": {
+            "type": "object",
+            "properties": {
+                "file": {
+                    "description": "Filename",
+                    "type": "string"
+                },
+                "tags": {
+                    "description": "List of tags",
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "enum": [
+                            "image-tag:object:photo",
+                            "image-tag:object:overview",
+                            "image-tag:object:info",
+                            "image-tag:object:schema",
+                            "image-tag:location:schema"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
