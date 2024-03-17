@@ -1,9 +1,9 @@
-id: 'sight-fgb-75941'
+id: sight-fgb-75941
 title: Бювет
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 images:
     -
         file: 7b35297b2ac01dc642d553467aa98c3b.jpg

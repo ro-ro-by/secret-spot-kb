@@ -1,9 +1,9 @@
-id: 'sight-fgb-90995'
+id: sight-fgb-90995
 title: Студенец
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 413df3a89a9ec9f38ca7e1c24a37efaa.jpg

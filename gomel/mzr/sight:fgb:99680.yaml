@@ -1,9 +1,9 @@
-id: 'sight-fgb-99680'
+id: sight-fgb-99680
 title: 'Парк Скрыгаловский'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 meta:
     fgb:
         post_id: '99680'

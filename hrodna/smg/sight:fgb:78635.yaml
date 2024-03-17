@@ -1,9 +1,9 @@
-id: 'sight-fgb-78635'
+id: sight-fgb-78635
 title: Млынок
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75986'
+id: sight-fgb-75986
 title: Автозаводец
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-smlv'
+    region: region-minsk
+    subregion: subregion-smlv
 images:
     -
         file: 5af5732acf0b712aecdfdbb19f2ef507.jpg

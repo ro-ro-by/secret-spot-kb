@@ -1,9 +1,9 @@
-id: 'sight-fgb-79487'
+id: sight-fgb-79487
 title: 'Фенечка (Дороглянец)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-mst'
+    region: region-hrodna
+    subregion: subregion-mst
 images:
     -
         file: d287705718225f05ac442f8710521800.jpg

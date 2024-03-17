@@ -1,9 +1,9 @@
-id: 'sight-fgb-74755'
+id: sight-fgb-74755
 title: Студенка
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-byh'
+    region: region-mahileu
+    subregion: subregion-byh
 meta:
     fgb:
         post_id: '74755'

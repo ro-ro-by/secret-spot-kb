@@ -1,9 +1,9 @@
-id: 'sight-fgb-95957'
+id: sight-fgb-95957
 title: 'Парк Домашевичи'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: cb19617522b0dfd1c183b72ad00fc095.jpg

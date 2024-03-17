@@ -1,9 +1,9 @@
-id: 'sight-fgb-78542'
+id: sight-fgb-78542
 title: 'Школьный (на болоте)'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: b280071b18f429b4f2fb7a26898d2383.jpg

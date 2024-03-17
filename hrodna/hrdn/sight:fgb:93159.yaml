@@ -1,9 +1,9 @@
-id: 'sight-fgb-93159'
+id: sight-fgb-93159
 title: 'Лесница (Чудакова)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: c7dfb95a4308600b62f3f02da9143e0d.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78442'
+id: sight-fgb-78442
 title: Друцкий-2
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-tlch'
+    region: region-vitsebsk
+    subregion: subregion-tlch
 meta:
     fgb:
         post_id: '78442'

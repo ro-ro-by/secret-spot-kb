@@ -1,9 +1,9 @@
-id: 'sight-fgb-76048'
+id: sight-fgb-76048
 title: 'Святой Троицы'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-uzd'
+    region: region-minsk
+    subregion: subregion-uzd
 images:
     -
         file: fa6c617c36c10a75b6cec7b0b2f0709a.jpg

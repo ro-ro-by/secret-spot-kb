@@ -1,9 +1,9 @@
-id: 'sight-fgb-77715'
+id: sight-fgb-77715
 title: 'Старый (Дальний, Успения Божией Матери)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: 2038e07618af83cfc0eb97711539be60.jpg

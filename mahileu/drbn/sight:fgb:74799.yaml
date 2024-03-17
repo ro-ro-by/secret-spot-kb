@@ -1,9 +1,9 @@
-id: 'sight-fgb-74799'
+id: sight-fgb-74799
 title: Пан-ключ
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98765'
+id: sight-fgb-98765
 title: Чериковский
 type: area
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chrk'
+    region: region-mahileu
+    subregion: subregion-chrk
 meta:
     fgb:
         post_id: '98765'

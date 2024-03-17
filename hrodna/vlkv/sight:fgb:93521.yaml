@@ -1,9 +1,9 @@
-id: 'sight-fgb-93521'
+id: sight-fgb-93521
 title: 'Пресвятой Троицы'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vlkv'
+    region: region-hrodna
+    subregion: subregion-vlkv
 images:
     -
         file: 4625bae07faabdf046c207b51c947b20.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74522'
+id: sight-fgb-74522
 title: 'Брестская родниковая струга (Родник на Ключевой)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: 4ce85eae5a31f69b67199adae30ef410.jpg

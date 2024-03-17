@@ -1,9 +1,9 @@
-id: 'sight-fgb-88376'
+id: sight-fgb-88376
 title: Интурист
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 location:
     -
         type: point

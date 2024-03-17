@@ -1,9 +1,9 @@
-id: 'sight-fgb-75918'
+id: sight-fgb-75918
 title: 'Парк Комарово'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 images:
     -
         file: ffbf422623a24b39c4c80bb34d3e52c3.jpg

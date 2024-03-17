@@ -1,9 +1,9 @@
-id: 'sight-fgb-74783'
+id: sight-fgb-74783
 title: 'Полящицкая роща'
 type: forest
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hrk'
+    region: region-mahileu
+    subregion: subregion-hrk
 forest:
     dominated_type: birch
 images:

@@ -1,9 +1,9 @@
-id: 'sight-fgb-101216'
+id: sight-fgb-101216
 title: 'Дубрава в Дёрновичском лесничестве'
 type: forest
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-plck'
+    region: region-vitsebsk
+    subregion: subregion-plck
 forest:
     dominated_type: oak
     types:

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78807'
+id: sight-fgb-78807
 title: Труд-Аэропорт-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hrk'
+    region: region-mahileu
+    subregion: subregion-hrk
 location:
     -
         type: point

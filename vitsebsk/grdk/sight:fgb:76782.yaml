@@ -1,9 +1,9 @@
-id: 'sight-fgb-76782'
+id: sight-fgb-76782
 title: 'Родник Исток'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-grdk'
+    region: region-vitsebsk
+    subregion: subregion-grdk
 images:
     -
         file: 5c8597859bad3a56b6fec541ce14b442.jpg

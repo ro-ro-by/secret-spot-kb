@@ -1,9 +1,9 @@
-id: 'sight-fgb-70756'
+id: sight-fgb-70756
 title: 'Сунгловщина (Сангаловщина, святых Петра и Павла)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: aa991462d8a24c7d8d384d3cfba75cad.jpg

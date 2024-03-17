@@ -1,9 +1,9 @@
-id: 'sight-fgb-75991'
+id: sight-fgb-75991
 title: Клен
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-slg'
+    region: region-minsk
+    subregion: subregion-slg
 tree:
     type: maple
 location:

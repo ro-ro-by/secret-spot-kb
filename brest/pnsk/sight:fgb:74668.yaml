@@ -1,9 +1,9 @@
-id: 'sight-fgb-74668'
+id: sight-fgb-74668
 title: 'Пихта белая'
 type: tree
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 tree:
     type: fir
 meta:

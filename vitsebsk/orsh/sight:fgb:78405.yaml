@@ -1,9 +1,9 @@
-id: 'sight-fgb-78405'
+id: sight-fgb-78405
 title: Боровка
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 location:
     -
         type: point

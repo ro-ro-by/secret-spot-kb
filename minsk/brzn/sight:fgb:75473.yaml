@@ -1,9 +1,9 @@
-id: 'sight-fgb-75473'
+id: sight-fgb-75473
 title: 'Святое озеро'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brzn'
+    region: region-minsk
+    subregion: subregion-brzn
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-93537'
+id: sight-fgb-93537
 title: 'Свидичи (Криничка)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 images:
     -
         file: 3714f6932f5364f7b2834e3d8c46012b.jpg

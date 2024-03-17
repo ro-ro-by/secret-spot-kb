@@ -1,9 +1,9 @@
-id: 'sight-fgb-75068'
+id: sight-fgb-75068
 title: 'Дубрава Лютня'
 type: forest
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mstsl'
+    region: region-mahileu
+    subregion: subregion-mstsl
 forest:
     dominated_type: oak
     types:

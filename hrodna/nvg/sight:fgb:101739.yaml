@@ -1,9 +1,9 @@
-id: 'sight-fgb-101739'
+id: sight-fgb-101739
 title: 'Эталонное насаждение сосны Вселюбское'
 type: forest
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 location:
     -
         type: point

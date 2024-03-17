@@ -1,9 +1,9 @@
-id: 'sight-fgb-103900'
+id: sight-fgb-103900
 title: 'Гара Міска'
 type: sacral_hill
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 meta:
     fgb:
         post_id: '103900'

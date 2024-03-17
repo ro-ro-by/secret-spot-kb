@@ -1,9 +1,9 @@
-id: 'sight-fgb-97298'
+id: sight-fgb-97298
 title: 'Парк Пенюга'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 meta:
     fgb:
         post_id: '97298'

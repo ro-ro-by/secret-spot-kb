@@ -1,9 +1,9 @@
-id: 'sight-fgb-100429'
+id: sight-fgb-100429
 title: 'Валун Красненский'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 meta:
     fgb:
         post_id: '100429'

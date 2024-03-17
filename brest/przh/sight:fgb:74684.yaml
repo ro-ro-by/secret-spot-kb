@@ -1,9 +1,9 @@
-id: 'sight-fgb-74684'
+id: sight-fgb-74684
 title: 'Родник святой Троицы'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 images:
     -
         file: 918be01341c85b556210b2c4ed73e05e.jpg

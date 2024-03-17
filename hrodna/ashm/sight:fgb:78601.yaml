@@ -1,9 +1,9 @@
-id: 'sight-fgb-78601'
+id: sight-fgb-78601
 title: 'В квартале Строителей'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 meta:
     fgb:
         post_id: '78601'

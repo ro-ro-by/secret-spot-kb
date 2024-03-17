@@ -1,9 +1,9 @@
-id: 'sight-fgb-75449'
+id: sight-fgb-75449
 title: 'Святая криница'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: a4ed88a21c39a692938ca9e57c639112.jpg

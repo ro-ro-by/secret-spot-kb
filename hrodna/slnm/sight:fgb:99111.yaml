@@ -1,9 +1,9 @@
-id: 'sight-fgb-99111'
+id: sight-fgb-99111
 title: 'Парк Новодевятковичи'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 meta:
     fgb:
         post_id: '99111'

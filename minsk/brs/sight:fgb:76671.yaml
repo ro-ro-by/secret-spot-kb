@@ -1,9 +1,9 @@
-id: 'sight-fgb-76671'
+id: sight-fgb-76671
 title: 'Камень в форме фигуры человека'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 images:
     -
         file: 9cc9e0d87f52f1c66ee2cc2f16805633.jpg

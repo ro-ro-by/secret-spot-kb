@@ -1,9 +1,9 @@
-id: 'sight-fgb-78144'
+id: sight-fgb-78144
 title: Ельских
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 location:
     -
         type: point

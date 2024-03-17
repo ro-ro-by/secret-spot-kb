@@ -1,9 +1,9 @@
-id: 'sight-fgb-74816'
+id: sight-fgb-74816
 title: 'Тарасова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 meta:
     fgb:
         post_id: '74816'

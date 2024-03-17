@@ -1,9 +1,9 @@
-id: 'sight-fgb-79444'
+id: sight-fgb-79444
 title: 'Ключ Надежды'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vrnv'
+    region: region-hrodna
+    subregion: subregion-vrnv
 location:
     -
         type: point

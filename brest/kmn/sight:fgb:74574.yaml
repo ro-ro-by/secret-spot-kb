@@ -1,9 +1,9 @@
-id: 'sight-fgb-74574'
+id: sight-fgb-74574
 title: 'Родник Белая'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kmn'
+    region: region-brest
+    subregion: subregion-kmn
 images:
     -
         file: ae599e7cb8d51008b3f050958b91c211.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75216'
+id: sight-fgb-75216
 title: Кринички
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-shkl'
+    region: region-mahileu
+    subregion: subregion-shkl
 location:
     -
         type: point

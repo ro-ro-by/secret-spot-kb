@@ -1,9 +1,9 @@
-id: 'sight-fgb-101814'
+id: sight-fgb-101814
 title: Рышток
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 meta:
     fgb:
         post_id: '101814'

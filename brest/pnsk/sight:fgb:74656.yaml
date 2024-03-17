@@ -1,9 +1,9 @@
-id: 'sight-fgb-74656'
+id: sight-fgb-74656
 title: Сошно
 type: area
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 location:
     -
         type: point

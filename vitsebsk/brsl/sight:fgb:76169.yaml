@@ -1,9 +1,9 @@
-id: 'sight-fgb-76169'
+id: sight-fgb-76169
 title: 'Родник Лазенки (Лазёнки, Сероводородный, Смердонские воды, Видзовский)'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-brsl'
+    region: region-vitsebsk
+    subregion: subregion-brsl
 images:
     -
         file: d970522d38fe75e8228c23468bc96b8a.jpg

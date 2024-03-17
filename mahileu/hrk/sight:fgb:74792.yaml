@@ -1,9 +1,9 @@
-id: 'sight-fgb-74792'
+id: sight-fgb-74792
 title: 'Попова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hrk'
+    region: region-mahileu
+    subregion: subregion-hrk
 location:
     -
         type: point

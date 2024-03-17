@@ -1,11 +1,11 @@
-id: 'sight-fgb-96468'
+id: sight-fgb-96468
 title: 'Дубовые аллеи усадьбы Чарноцких'
 type: alley
 alley:
     type: oak
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: 416bf1c59e56a70dacd20d64c86928b1.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99819'
+id: sight-fgb-99819
 title: 'Божы слядок'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 meta:
     fgb:
         post_id: '99819'

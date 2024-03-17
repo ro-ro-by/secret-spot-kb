@@ -1,9 +1,9 @@
-id: 'sight-fgb-78319'
+id: sight-fgb-78319
 title: Кочерыжка
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: cf693a8e9a06744e75ee7f2e5d0bf44a.jpg

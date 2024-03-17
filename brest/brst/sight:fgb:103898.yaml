@@ -1,9 +1,9 @@
-id: 'sight-fgb-103898'
+id: sight-fgb-103898
 title: 'Гара Маякова'
 type: sacral_hill
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 meta:
     fgb:
         post_id: '103898'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-100168'
+id: sight-fgb-100168
 title: 'Надмагіллі з паўсферай'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 meta:
     fgb:
         post_id: '100168'

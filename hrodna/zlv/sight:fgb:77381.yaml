@@ -1,9 +1,9 @@
-id: 'sight-fgb-77381'
+id: sight-fgb-77381
 title: 'Родник Зеньковский'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 images:
     -
         file: 8a0736eead9e64d255a16107c24f0827.jpg

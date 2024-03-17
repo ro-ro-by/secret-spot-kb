@@ -1,9 +1,9 @@
-id: 'sight-fgb-78412'
+id: sight-fgb-78412
 title: Приднепровье-3
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-orsh'
+    region: region-vitsebsk
+    subregion: subregion-orsh
 location:
     -
         type: point

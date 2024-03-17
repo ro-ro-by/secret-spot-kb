@@ -1,9 +1,9 @@
-id: 'sight-fgb-96994'
+id: sight-fgb-96994
 title: 'Родник Тадеуша Костюшко'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivcv'
+    region: region-brest
+    subregion: subregion-ivcv
 images:
     -
         file: 99f6f3be7e9599b5ce0dcdcc9597d48d.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-96124'
+id: sight-fgb-96124
 title: 'Парк Скоки'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: 416c17f1da342f4232360900c23a4c2b.jpg

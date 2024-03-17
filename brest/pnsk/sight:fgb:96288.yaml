@@ -1,9 +1,9 @@
-id: 'sight-fgb-96288'
+id: sight-fgb-96288
 title: 'Парк Дубое'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 images:
     -
         file: d2350ffe8d01f39c0607de95a524785e.jpg

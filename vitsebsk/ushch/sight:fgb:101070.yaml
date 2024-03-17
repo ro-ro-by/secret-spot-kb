@@ -1,9 +1,9 @@
-id: 'sight-fgb-101070'
+id: sight-fgb-101070
 title: 'Капавішча Сваролье'
 type: boulder
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-ushch'
+    region: region-vitsebsk
+    subregion: subregion-ushch
 meta:
     fgb:
         post_id: '101070'

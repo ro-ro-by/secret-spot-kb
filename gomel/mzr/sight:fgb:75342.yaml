@@ -1,9 +1,9 @@
-id: 'sight-fgb-75342'
+id: sight-fgb-75342
 title: №29
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 location:
     -
         type: point

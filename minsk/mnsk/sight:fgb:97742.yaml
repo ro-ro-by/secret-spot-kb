@@ -1,9 +1,9 @@
-id: 'sight-fgb-97742'
+id: sight-fgb-97742
 title: 'Метеорит Греск'
 type: meteorite
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 6c3fab672e573f5fe49401bc92f5063b.jpg

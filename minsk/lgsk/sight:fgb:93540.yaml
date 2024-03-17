@@ -1,9 +1,9 @@
-id: 'sight-fgb-93540'
+id: sight-fgb-93540
 title: 'Теплый Стан (Исток)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-lgsk'
+    region: region-minsk
+    subregion: subregion-lgsk
 images:
     -
         file: 644021867536e0eea0a79ccf38ecbbf2.jpg

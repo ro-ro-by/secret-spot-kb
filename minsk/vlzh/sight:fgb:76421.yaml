@@ -1,9 +1,9 @@
-id: 'sight-fgb-76421'
+id: sight-fgb-76421
 title: 'Парк Богданов'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlzh'
+    region: region-minsk
+    subregion: subregion-vlzh
 meta:
     fgb:
         post_id: '76421'

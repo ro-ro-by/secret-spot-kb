@@ -1,9 +1,9 @@
-id: 'sight-fgb-79594'
+id: sight-fgb-79594
 title: 'Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 meta:
     fgb:
         post_id: '79594'

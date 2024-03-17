@@ -1,9 +1,9 @@
-id: 'sight-fgb-88084'
+id: sight-fgb-88084
 title: 'Придорожный колодец'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lnn'
+    region: region-brest
+    subregion: subregion-lnn
 images:
     -
         file: 710c37504fecdaeda25f2073c8ec48cb.jpg

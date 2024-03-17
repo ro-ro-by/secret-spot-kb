@@ -1,9 +1,9 @@
-id: 'sight-fgb-88122'
+id: sight-fgb-88122
 title: Замянка
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-stb'
+    region: region-minsk
+    subregion: subregion-stb
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99802'
+id: sight-fgb-99802
 title: 'Исток Коросинки'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: f336e00fb8e1e5b51d5daf347f3ad016.jpg

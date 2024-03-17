@@ -1,9 +1,9 @@
-id: 'sight-fgb-96977'
+id: sight-fgb-96977
 title: Хотимча
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-htmsk'
+    region: region-mahileu
+    subregion: subregion-htmsk
 location:
     -
         type: point

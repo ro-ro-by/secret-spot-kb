@@ -1,9 +1,9 @@
-id: 'sight-fgb-97767'
+id: sight-fgb-97767
 title: 'Бювет на Горького'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 images:
     -
         file: 0049f2191e893352e2437fb5dfc3b41a.jpg

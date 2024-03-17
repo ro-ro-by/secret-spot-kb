@@ -1,9 +1,9 @@
-id: 'sight-fgb-100026'
+id: sight-fgb-100026
 title: 'Чортаў камень (След чорта)'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 meta:
     fgb:
         post_id: '100026'

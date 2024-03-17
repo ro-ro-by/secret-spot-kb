@@ -1,9 +1,9 @@
-id: 'sight-fgb-74513'
+id: sight-fgb-74513
 title: 'Буки лесные пурпурные «Лютинские»'
 type: tree
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 tree:
     type: beech
 location:

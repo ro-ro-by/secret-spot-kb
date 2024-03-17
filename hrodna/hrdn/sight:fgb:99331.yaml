@@ -1,9 +1,9 @@
-id: 'sight-fgb-99331'
+id: sight-fgb-99331
 title: Зроик
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 meta:
     fgb:
         post_id: '99331'

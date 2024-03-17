@@ -1,9 +1,9 @@
-id: 'sight-fgb-75839'
+id: sight-fgb-75839
 title: 'Бювет "Ангел"'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 6da5af0ff8fd58accfffa24a1d5926a0.jpg

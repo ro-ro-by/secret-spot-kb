@@ -1,9 +1,9 @@
-id: 'sight-fgb-101072'
+id: sight-fgb-101072
 title: 'Паклонны камень'
 type: boulder
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-shkl'
+    region: region-mahileu
+    subregion: subregion-shkl
 meta:
     fgb:
         post_id: '101072'

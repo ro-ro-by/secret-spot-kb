@@ -1,9 +1,9 @@
-id: 'sight-fgb-92218'
+id: sight-fgb-92218
 title: 'Моргач-1 (истоки р.Горольянка)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75447'
+id: sight-fgb-75447
 title: 'Родник и Проща'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-svlg'
+    region: region-gomel
+    subregion: subregion-svlg
 images:
     -
         file: eb6bb3469731fedbe79924941d8594d8.jpg

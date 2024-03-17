@@ -1,9 +1,9 @@
-id: 'sight-fgb-79522'
+id: sight-fgb-79522
 title: 'На Гагарина'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 location:
     -
         type: point

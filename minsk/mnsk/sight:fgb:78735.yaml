@@ -1,9 +1,9 @@
-id: 'sight-fgb-78735'
+id: sight-fgb-78735
 title: 'Парк Прилуки'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 meta:
     fgb:
         post_id: '78735'

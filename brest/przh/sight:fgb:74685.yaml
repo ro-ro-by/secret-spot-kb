@@ -1,9 +1,9 @@
-id: 'sight-fgb-74685'
+id: sight-fgb-74685
 title: 'Щитно (Щитно-2)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 images:
     -
         file: 89ffd4d5d0c96390727586d2356682ef.jpg

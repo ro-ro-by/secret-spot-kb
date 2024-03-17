@@ -1,9 +1,9 @@
-id: 'sight-fgb-97060'
+id: sight-fgb-97060
 title: 'Дуб Вацлава Ластовского'
 type: tree
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-plck'
+    region: region-vitsebsk
+    subregion: subregion-plck
 tree:
     type: oak
 meta:

@@ -1,9 +1,9 @@
-id: 'sight-fgb-101016'
+id: sight-fgb-101016
 title: 'Камень Ігнація Ходзькі'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 meta:
     fgb:
         post_id: '101016'

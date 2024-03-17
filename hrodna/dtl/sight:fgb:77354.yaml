@@ -1,9 +1,9 @@
-id: 'sight-fgb-77354'
+id: sight-fgb-77354
 title: Молчадка
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-dtl'
+    region: region-hrodna
+    subregion: subregion-dtl
 images:
     -
         file: 905fa33abd8eb31cd65a1163d3391f26.jpg

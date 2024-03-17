@@ -1,9 +1,9 @@
-id: 'sight-fgb-96473'
+id: sight-fgb-96473
 title: 'Парк Яновичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: bd510f0b392d2797215de4bad4fefa1f.jpg

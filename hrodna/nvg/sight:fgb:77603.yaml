@@ -1,9 +1,9 @@
-id: 'sight-fgb-77603'
+id: sight-fgb-77603
 title: 'Святителя Николая Чудотворца'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 images:
     -
         file: 6accf3d968cd50aca12f72cbd20703fe.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98938'
+id: sight-fgb-98938
 title: 'Бювет "Сосновый бор"'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 meta:
     fgb:
         post_id: '98938'

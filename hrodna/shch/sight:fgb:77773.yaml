@@ -1,9 +1,9 @@
-id: 'sight-fgb-77773'
+id: sight-fgb-77773
 title: 'Парк Руткевичи'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 location:
     -
         type: point

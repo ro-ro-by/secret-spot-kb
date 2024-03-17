@@ -1,9 +1,9 @@
-id: 'sight-fgb-75181'
+id: sight-fgb-75181
 title: 'Микеева криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 location:
     -
         type: point

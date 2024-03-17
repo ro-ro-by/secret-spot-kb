@@ -1,9 +1,9 @@
-id: 'sight-fgb-75176'
+id: sight-fgb-75176
 title: 'Петрова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 location:
     -
         type: point

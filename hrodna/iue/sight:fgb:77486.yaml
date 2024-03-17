@@ -1,9 +1,9 @@
-id: 'sight-fgb-77486'
+id: sight-fgb-77486
 title: 'Родник Ивьевский'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-iue'
+    region: region-hrodna
+    subregion: subregion-iue
 images:
     -
         file: 488710e818a034589b17d93cc7090f24.jpg

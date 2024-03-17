@@ -1,9 +1,9 @@
-id: 'sight-fgb-100130'
+id: sight-fgb-100130
 title: Камень-чаша
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brs'
+    region: region-minsk
+    subregion: subregion-brs
 meta:
     fgb:
         post_id: '100130'

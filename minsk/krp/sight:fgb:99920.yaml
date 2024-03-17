@@ -1,9 +1,9 @@
-id: 'sight-fgb-99920'
+id: sight-fgb-99920
 title: 'Чортаў каменьі (Вялікі камень)'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-krp'
+    region: region-minsk
+    subregion: subregion-krp
 meta:
     fgb:
         post_id: '99920'

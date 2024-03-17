@@ -1,9 +1,9 @@
-id: 'sight-fgb-99691'
+id: sight-fgb-99691
 title: 'Парк Кухтичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-uzd'
+    region: region-minsk
+    subregion: subregion-uzd
 meta:
     fgb:
         post_id: '99691'

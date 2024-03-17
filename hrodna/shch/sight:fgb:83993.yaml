@@ -1,9 +1,9 @@
-id: 'sight-fgb-83993'
+id: sight-fgb-83993
 title: 'Водолей  (Больничный)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-shch'
+    region: region-hrodna
+    subregion: subregion-shch
 images:
     -
         file: fa4ad8f4d3aacb16eae9f30c1793ca73.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78124'
+id: sight-fgb-78124
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kmn'
+    region: region-brest
+    subregion: subregion-kmn
 images:
     -
         file: f2d0436d43505ee531780c5b185375d9.jpg

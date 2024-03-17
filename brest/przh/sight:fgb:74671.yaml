@@ -1,9 +1,9 @@
-id: 'sight-fgb-74671'
+id: sight-fgb-74671
 title: 'Участок культуры сосны Веймутовой'
 type: forest
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 forest:
     dominated_type: pine
 images:

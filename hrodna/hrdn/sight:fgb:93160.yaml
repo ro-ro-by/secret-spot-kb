@@ -1,9 +1,9 @@
-id: 'sight-fgb-93160'
+id: sight-fgb-93160
 title: Верхпольница
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 4f117963db217df0313d9418f196cc7e.jpg

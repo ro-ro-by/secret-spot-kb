@@ -1,9 +1,9 @@
-id: 'sight-fgb-83209'
+id: sight-fgb-83209
 title: 'Исток Мшанки'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 location:
     -
         type: point

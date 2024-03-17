@@ -1,9 +1,9 @@
-id: 'sight-fgb-92257'
+id: sight-fgb-92257
 title: Рутковичи
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-krl'
+    region: region-hrodna
+    subregion: subregion-krl
 images:
     -
         file: d7d3c0aae467d24b4dc2e051d2cc36f2.jpg

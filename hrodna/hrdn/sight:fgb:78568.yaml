@@ -1,9 +1,9 @@
-id: 'sight-fgb-78568'
+id: sight-fgb-78568
 title: Новики
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 images:
     -
         file: 7c9ab15351c4be424019f0a4d141a081.jpg

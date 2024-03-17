@@ -1,9 +1,9 @@
-id: 'sight-fgb-75437'
+id: sight-fgb-75437
 title: 'Старинный парк'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-rgch'
+    region: region-gomel
+    subregion: subregion-rgch
 images:
     -
         file: ecc74a0dac170a31219940298beb9ddf.jpg

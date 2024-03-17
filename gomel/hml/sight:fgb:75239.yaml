@@ -1,9 +1,9 @@
-id: 'sight-fgb-75239'
+id: sight-fgb-75239
 title: 'Парк Гомельского дворцово-паркового ансамбля'
 type: park
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 images:
     -
         file: c946a0fa61215ad9dbc4802b32a34f25.jpg

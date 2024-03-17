@@ -1,9 +1,9 @@
-id: 'sight-fgb-70765'
+id: sight-fgb-70765
 title: 'Островная дубрава на болоте Великое'
 type: forest
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 forest:
     dominated_type: oak
     types:

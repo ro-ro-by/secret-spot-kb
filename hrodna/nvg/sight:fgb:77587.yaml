@@ -1,9 +1,9 @@
-id: 'sight-fgb-77587'
+id: sight-fgb-77587
 title: 'Парк Щорсы'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-nvg'
+    region: region-hrodna
+    subregion: subregion-nvg
 images:
     -
         file: 1a814233283ec7cb06131ad89465ea8b.jpg

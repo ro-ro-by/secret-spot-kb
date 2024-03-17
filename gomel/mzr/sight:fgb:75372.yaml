@@ -1,9 +1,9 @@
-id: 'sight-fgb-75372'
+id: sight-fgb-75372
 title: 'Хутарская криница'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 meta:
     fgb:
         post_id: '75372'

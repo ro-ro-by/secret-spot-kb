@@ -1,9 +1,9 @@
-id: 'sight-fgb-75203'
+id: sight-fgb-75203
 title: 'Отдельно стоящие дубы'
 type: forest
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-shkl'
+    region: region-mahileu
+    subregion: subregion-shkl
 forest:
     dominated_type: oak
 images:

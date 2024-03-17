@@ -1,9 +1,9 @@
-id: 'sight-fgb-101743'
+id: sight-fgb-101743
 title: 'Вековой дуб в д. Новое Поле'
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 tree:
     type: oak
 location:

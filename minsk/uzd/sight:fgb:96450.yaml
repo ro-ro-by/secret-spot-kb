@@ -1,9 +1,9 @@
-id: 'sight-fgb-96450'
+id: sight-fgb-96450
 title: 'Парк Наднеман'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-uzd'
+    region: region-minsk
+    subregion: subregion-uzd
 images:
     -
         file: 0090b26213601e44779939aa0250de1e.jpg

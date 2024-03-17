@@ -1,9 +1,9 @@
-id: 'sight-fgb-74836'
+id: sight-fgb-74836
 title: Малашиха
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-klmv'
+    region: region-mahileu
+    subregion: subregion-klmv
 location:
     -
         type: point

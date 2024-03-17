@@ -1,9 +1,9 @@
-id: 'sight-fgb-75295'
+id: sight-fgb-75295
 title: Дубрава
 type: forest
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-lel'
+    region: region-gomel
+    subregion: subregion-lel
 forest:
     dominated_type: oak
     types:

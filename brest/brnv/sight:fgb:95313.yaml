@@ -1,9 +1,9 @@
-id: 'sight-fgb-95313'
+id: sight-fgb-95313
 title: 'Козловичи-1 (Под Ясенем)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 879999feae8f4dc70248b5684d89757c.jpg

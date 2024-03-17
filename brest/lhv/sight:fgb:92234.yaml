@@ -1,9 +1,9 @@
-id: 'sight-fgb-92234'
+id: sight-fgb-92234
 title: Холхуны
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lhv'
+    region: region-brest
+    subregion: subregion-lhv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-83234'
+id: sight-fgb-83234
 title: 'Слёзы Марыси'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-nsvzh'
+    region: region-minsk
+    subregion: subregion-nsvzh
 meta:
     fgb:
         post_id: '83234'

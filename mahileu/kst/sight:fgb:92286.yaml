@@ -1,9 +1,9 @@
-id: 'sight-fgb-92286'
+id: sight-fgb-92286
 title: Крупня-6
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-kst'
+    region: region-mahileu
+    subregion: subregion-kst
 meta:
     fgb:
         post_id: '92286'

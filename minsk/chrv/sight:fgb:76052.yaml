@@ -1,9 +1,9 @@
-id: 'sight-fgb-76052'
+id: sight-fgb-76052
 title: 'Парк Смиловичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 location:
     -
         type: point

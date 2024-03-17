@@ -1,9 +1,9 @@
-id: 'sight-fgb-79324'
+id: sight-fgb-79324
 title: 'В часовне'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: 44ecd488841d1bbabe614d51594741f0.jpg

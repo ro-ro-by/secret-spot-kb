@@ -1,9 +1,9 @@
-id: 'sight-fgb-75750'
+id: sight-fgb-75750
 title: Мехеды
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-lgsk'
+    region: region-minsk
+    subregion: subregion-lgsk
 images:
     -
         file: fd0dd0ae445076006826a5ccfab671cd.jpg

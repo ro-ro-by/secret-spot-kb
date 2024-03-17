@@ -1,9 +1,9 @@
-id: 'sight-fgb-86901'
+id: sight-fgb-86901
 title: Стайки
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-mr'
+    region: region-vitsebsk
+    subregion: subregion-mr
 images:
     -
         file: d0c3a8e2df9bff100064a8ca103e4d4b.jpg

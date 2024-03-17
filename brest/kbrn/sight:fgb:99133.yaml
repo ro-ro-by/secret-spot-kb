@@ -1,9 +1,9 @@
-id: 'sight-fgb-99133'
+id: sight-fgb-99133
 title: 'Камень с изображениями и надписями'
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kbrn'
+    region: region-brest
+    subregion: subregion-kbrn
 images:
     -
         file: a8d41284f31e97e4f141c07b5204de4f.jpg

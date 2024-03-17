@@ -1,9 +1,9 @@
-id: 'sight-fgb-99634'
+id: sight-fgb-99634
 title: 'Парк Горловичи'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-drh'
+    region: region-brest
+    subregion: subregion-drh
 meta:
     fgb:
         post_id: '99634'

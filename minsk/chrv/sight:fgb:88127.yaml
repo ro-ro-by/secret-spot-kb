@@ -1,9 +1,9 @@
-id: 'sight-fgb-88127'
+id: sight-fgb-88127
 title: Градно
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 images:
     -
         file: 75ca35a1e1259e1d823ebd04b07c629f.jpg

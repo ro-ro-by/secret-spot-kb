@@ -1,9 +1,9 @@
-id: 'sight-fgb-78667'
+id: sight-fgb-78667
 title: 'Парк Матьковцы'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 meta:
     fgb:
         post_id: '78667'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-98753'
+id: sight-fgb-98753
 title: 'На Кривоноса'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-klch'
+    region: region-mahileu
+    subregion: subregion-klch
 meta:
     fgb:
         post_id: '98753'

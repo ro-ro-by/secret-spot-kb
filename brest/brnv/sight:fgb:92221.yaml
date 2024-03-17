@@ -1,9 +1,9 @@
-id: 'sight-fgb-92221'
+id: sight-fgb-92221
 title: Хатки-3
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 128fc614bd1a6dab03fd20e52d48bb24.jpg

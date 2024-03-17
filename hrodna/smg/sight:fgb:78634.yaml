@@ -1,9 +1,9 @@
-id: 'sight-fgb-78634'
+id: sight-fgb-78634
 title: Колодец
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 meta:
     fgb:
         post_id: '78634'

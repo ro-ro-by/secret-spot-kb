@@ -1,9 +1,9 @@
-id: 'sight-fgb-99800'
+id: sight-fgb-99800
 title: Павлиново-2
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 13b665681dce2098550eb88b71da462b.jpg

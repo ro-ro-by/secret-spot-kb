@@ -1,9 +1,9 @@
-id: 'sight-fgb-83207'
+id: sight-fgb-83207
 title: Блошня
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: c696f64a4750faef3820b765c95cdaa6.jpg

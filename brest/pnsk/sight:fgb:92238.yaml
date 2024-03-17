@@ -1,9 +1,9 @@
-id: 'sight-fgb-92238'
+id: sight-fgb-92238
 title: 'Святого Николая'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-pnsk'
+    region: region-brest
+    subregion: subregion-pnsk
 meta:
     fgb:
         post_id: '92238'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75406'
+id: sight-fgb-75406
 title: 'Жаливля (Лечебная Вода)'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-nrvl'
+    region: region-gomel
+    subregion: subregion-nrvl
 location:
     -
         type: point

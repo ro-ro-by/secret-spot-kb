@@ -1,9 +1,9 @@
-id: 'sight-fgb-78627'
+id: sight-fgb-78627
 title: 'У Лесной Поляны'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 meta:
     fgb:
         post_id: '78627'

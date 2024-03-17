@@ -1,9 +1,9 @@
-id: 'sight-fgb-78736'
+id: sight-fgb-78736
 title: 'Парк Новое Поле'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 meta:
     fgb:
         post_id: '78736'

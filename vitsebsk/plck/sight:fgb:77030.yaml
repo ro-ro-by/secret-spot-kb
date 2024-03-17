@@ -1,9 +1,9 @@
-id: 'sight-fgb-77030'
+id: sight-fgb-77030
 title: 'Камень с надписью'
 type: boulder
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-plck'
+    region: region-vitsebsk
+    subregion: subregion-plck
 meta:
     fgb:
         post_id: '77030'

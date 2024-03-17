@@ -1,9 +1,9 @@
-id: 'sight-fgb-75363'
+id: sight-fgb-75363
 title: Викторова
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 meta:
     fgb:
         post_id: '75363'

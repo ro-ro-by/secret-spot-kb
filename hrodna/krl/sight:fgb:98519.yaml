@@ -1,9 +1,9 @@
-id: 'sight-fgb-98519'
+id: sight-fgb-98519
 title: Бухово
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-krl'
+    region: region-hrodna
+    subregion: subregion-krl
 location:
     -
         type: point

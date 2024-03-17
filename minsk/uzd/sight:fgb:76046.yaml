@@ -1,9 +1,9 @@
-id: 'sight-fgb-76046'
+id: sight-fgb-76046
 title: 'Толкачёвские родники-2'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-uzd'
+    region: region-minsk
+    subregion: subregion-uzd
 meta:
     fgb:
         post_id: '76046'

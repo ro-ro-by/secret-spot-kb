@@ -1,9 +1,9 @@
-id: 'sight-fgb-93545'
+id: sight-fgb-93545
 title: 'Родник на 2-й Набережной'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 images:
     -
         file: 253b709296e64610b75f08edd9c2fc6c.jpg

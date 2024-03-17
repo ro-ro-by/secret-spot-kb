@@ -1,9 +1,9 @@
-id: 'sight-fgb-77258'
+id: sight-fgb-77258
 title: 'На Центральной'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-brstv'
+    region: region-hrodna
+    subregion: subregion-brstv
 location:
     -
         type: point

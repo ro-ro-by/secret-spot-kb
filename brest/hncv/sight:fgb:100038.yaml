@@ -1,9 +1,9 @@
-id: 'sight-fgb-100038'
+id: sight-fgb-100038
 title: 'Каменныя валы'
 type: boulder
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-hncv'
+    region: region-brest
+    subregion: subregion-hncv
 meta:
     fgb:
         post_id: '100038'

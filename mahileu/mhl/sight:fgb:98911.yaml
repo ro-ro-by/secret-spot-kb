@@ -1,9 +1,9 @@
-id: 'sight-fgb-98911'
+id: sight-fgb-98911
 title: Дунаёк
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mhl'
+    region: region-mahileu
+    subregion: subregion-mhl
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78512'
+id: sight-fgb-78512
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-ptrk'
+    region: region-gomel
+    subregion: subregion-ptrk
 meta:
     fgb:
         post_id: '78512'

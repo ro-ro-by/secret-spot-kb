@@ -1,9 +1,9 @@
-id: 'sight-fgb-75648'
+id: sight-fgb-75648
 title: 'Парк Бобовня'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-kpl'
+    region: region-minsk
+    subregion: subregion-kpl
 images:
     -
         file: 376aec126268f5ccd5698c7b136180d9.jpg

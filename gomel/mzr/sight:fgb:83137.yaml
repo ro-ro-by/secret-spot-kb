@@ -1,9 +1,9 @@
-id: 'sight-fgb-83137'
+id: sight-fgb-83137
 title: Крынки
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 meta:
     fgb:
         post_id: '83137'

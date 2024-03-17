@@ -1,9 +1,9 @@
-id: 'sight-fgb-78492'
+id: sight-fgb-78492
 title: 'Бювет Никиты Исповедника'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 images:
     -
         file: ec6155630a34776d0e92757026de5bec.jpg

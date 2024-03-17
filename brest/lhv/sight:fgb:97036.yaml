@@ -1,9 +1,9 @@
-id: 'sight-fgb-97036'
+id: sight-fgb-97036
 title: 'Парк Нача Свенцицкая'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-lhv'
+    region: region-brest
+    subregion: subregion-lhv
 images:
     -
         file: e9c7f0ac99719d7f0fd1d7f039621967.jpg

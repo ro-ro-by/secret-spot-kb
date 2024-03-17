@@ -1,9 +1,9 @@
-id: 'sight-fgb-100002'
+id: sight-fgb-100002
 title: Камень-кадрыль
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-brzn'
+    region: region-minsk
+    subregion: subregion-brzn
 meta:
     fgb:
         post_id: '100002'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-74811'
+id: sight-fgb-74811
 title: 'Халимонова криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 location:
     -
         type: point

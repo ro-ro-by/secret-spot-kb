@@ -1,9 +1,9 @@
-id: 'sight-fgb-75850'
+id: sight-fgb-75850
 title: 'Гуры (святой)'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: c094027c688f5ce217286ec8e75ec89b.jpg

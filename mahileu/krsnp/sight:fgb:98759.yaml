@@ -1,9 +1,9 @@
-id: 'sight-fgb-98759'
+id: sight-fgb-98759
 title: 'На Дмитриева'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-krsnp'
+    region: region-mahileu
+    subregion: subregion-krsnp
 location:
     -
         type: point

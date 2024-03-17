@@ -1,9 +1,9 @@
-id: 'sight-fgb-75997'
+id: sight-fgb-75997
 title: Святая
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-slg'
+    region: region-minsk
+    subregion: subregion-slg
 meta:
     fgb:
         post_id: '75997'

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75821'
+id: sight-fgb-75821
 title: 'Парк Игнатичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75638'
+id: sight-fgb-75638
 title: 'Витовский / Святой родник'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-dzrzh'
+    region: region-minsk
+    subregion: subregion-dzrzh
 images:
     -
         file: 6f011b1852593eb68c5d52e70c268adf.jpg

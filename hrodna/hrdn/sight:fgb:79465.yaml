@@ -1,9 +1,9 @@
-id: 'sight-fgb-79465'
+id: sight-fgb-79465
 title: 'Озёрский (Березина'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 location:
     -
         type: point

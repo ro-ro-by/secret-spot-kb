@@ -1,9 +1,9 @@
-id: 'sight-fgb-99440'
+id: sight-fgb-99440
 title: 'Василя Тяпинского'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-chshn'
+    region: region-vitsebsk
+    subregion: subregion-chshn
 images:
     -
         file: 750c43994ec7af7579fd7c1ff337a390.jpg

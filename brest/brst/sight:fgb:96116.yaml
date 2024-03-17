@@ -1,9 +1,9 @@
-id: 'sight-fgb-96116'
+id: sight-fgb-96116
 title: Щитники-2
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 images:
     -
         file: e7b801e1db6790344352862689a5f3ca.jpg

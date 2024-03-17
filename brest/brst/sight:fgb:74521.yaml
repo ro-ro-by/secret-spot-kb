@@ -1,9 +1,9 @@
-id: 'sight-fgb-74521'
+id: sight-fgb-74521
 title: 'Парк Люта'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brst'
+    region: region-brest
+    subregion: subregion-brst
 meta:
     fgb:
         post_id: '74521'

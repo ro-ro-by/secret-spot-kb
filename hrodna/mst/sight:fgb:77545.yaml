@@ -1,9 +1,9 @@
-id: 'sight-fgb-77545'
+id: sight-fgb-77545
 title: Панский
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-mst'
+    region: region-hrodna
+    subregion: subregion-mst
 images:
     -
         file: 84a320cb40033df6554cc1b004ac54bb.jpg

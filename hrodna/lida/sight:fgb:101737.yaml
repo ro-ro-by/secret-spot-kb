@@ -1,9 +1,9 @@
-id: 'sight-fgb-101737'
+id: sight-fgb-101737
 title: 'Вековой дуб у станции Белогруда'
 type: tree
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 tree:
     type: oak
 location:

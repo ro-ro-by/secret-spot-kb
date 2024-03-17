@@ -1,9 +1,9 @@
-id: 'sight-fgb-79514'
+id: sight-fgb-79514
 title: Слободской
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 meta:
     fgb:
         post_id: '79514'

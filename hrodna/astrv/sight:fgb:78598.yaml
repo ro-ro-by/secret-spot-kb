@@ -1,9 +1,9 @@
-id: 'sight-fgb-78598'
+id: sight-fgb-78598
 title: 'Святого Якуба'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 images:
     -
         file: 3a5411d7bbbba65c2ce033f90b676a4d.jpg

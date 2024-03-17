@@ -1,9 +1,9 @@
-id: 'sight-fgb-75321'
+id: sight-fgb-75321
 title: 'Белый Яр (№19, Белый ров)'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 location:
     -
         type: point

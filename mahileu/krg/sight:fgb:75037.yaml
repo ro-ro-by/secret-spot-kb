@@ -1,9 +1,9 @@
-id: 'sight-fgb-75037'
+id: sight-fgb-75037
 title: 'Кислая криница'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-krg'
+    region: region-mahileu
+    subregion: subregion-krg
 meta:
     fgb:
         post_id: '75037'

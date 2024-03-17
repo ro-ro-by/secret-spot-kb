@@ -1,9 +1,9 @@
-id: 'sight-fgb-78575'
+id: sight-fgb-78575
 title: 'Кнышава криница'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-hrdn'
+    region: region-hrodna
+    subregion: subregion-hrdn
 meta:
     fgb:
         post_id: '78575'

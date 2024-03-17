@@ -1,9 +1,9 @@
-id: 'sight-fgb-99641'
+id: sight-fgb-99641
 title: 'Парк Коссово'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivcv'
+    region: region-brest
+    subregion: subregion-ivcv
 meta:
     fgb:
         post_id: '99641'

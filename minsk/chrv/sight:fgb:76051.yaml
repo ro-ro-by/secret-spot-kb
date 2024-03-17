@@ -1,9 +1,9 @@
-id: 'sight-fgb-76051'
+id: sight-fgb-76051
 title: 'Парк Рованичи'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 location:
     -
         type: point

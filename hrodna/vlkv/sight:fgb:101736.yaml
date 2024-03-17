@@ -1,9 +1,9 @@
-id: 'sight-fgb-101736'
+id: sight-fgb-101736
 title: 'Пихтарник Волковысский'
 type: forest
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-vlkv'
+    region: region-hrodna
+    subregion: subregion-vlkv
 forest:
     dominated_type: fir
 location:

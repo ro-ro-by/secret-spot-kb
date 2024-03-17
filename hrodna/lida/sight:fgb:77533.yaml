@@ -1,9 +1,9 @@
-id: 'sight-fgb-77533'
+id: sight-fgb-77533
 title: Замковый
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 images:
     -
         file: 1069e28a168fc5f7206a24dc215cd783.jpg

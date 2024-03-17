@@ -1,9 +1,9 @@
-id: 'sight-fgb-99101'
+id: sight-fgb-99101
 title: 'Камень с фигурами'
 type: boulder
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-slnm'
+    region: region-hrodna
+    subregion: subregion-slnm
 images:
     -
         file: 66f964d1448531b10dda2fc5be1f909f.jpg

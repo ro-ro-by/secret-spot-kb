@@ -1,9 +1,9 @@
-id: 'sight-fgb-99202'
+id: sight-fgb-99202
 title: 'На Рабочей'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-hrk'
+    region: region-mahileu
+    subregion: subregion-hrk
 meta:
     fgb:
         post_id: '99202'

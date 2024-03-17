@@ -1,9 +1,9 @@
-id: 'sight-fgb-78657'
+id: sight-fgb-78657
 title: 'На Стахановской'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 location:
     -
         type: point

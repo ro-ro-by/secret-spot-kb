@@ -1,9 +1,9 @@
-id: 'sight-fgb-70746'
+id: sight-fgb-70746
 title: 'Парк Тугановичский'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 5653a9267a6cb09d2d7546ef27bf1367.jpg

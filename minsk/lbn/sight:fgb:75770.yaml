@@ -1,9 +1,9 @@
-id: 'sight-fgb-75770'
+id: sight-fgb-75770
 title: 'Группа деревьев березы черной'
 type: tree
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-lbn'
+    region: region-minsk
+    subregion: subregion-lbn
 tree:
     type: birch_black
 meta:

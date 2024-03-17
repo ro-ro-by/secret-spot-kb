@@ -1,9 +1,9 @@
-id: 'sight-fgb-99099'
+id: sight-fgb-99099
 title: 'Александра Невского'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-aspv'
+    region: region-mahileu
+    subregion: subregion-aspv
 meta:
     fgb:
         post_id: '99099'

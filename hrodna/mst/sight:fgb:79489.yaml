@@ -1,9 +1,9 @@
-id: 'sight-fgb-79489'
+id: sight-fgb-79489
 title: Миткевичский
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-mst'
+    region: region-hrodna
+    subregion: subregion-mst
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-99943'
+id: sight-fgb-99943
 title: 'Скарбавы камень'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-phv'
+    region: region-minsk
+    subregion: subregion-phv
 meta:
     fgb:
         post_id: '99943'

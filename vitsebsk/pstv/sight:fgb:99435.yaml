@@ -1,9 +1,9 @@
-id: 'sight-fgb-99435'
+id: sight-fgb-99435
 title: 'Святая криница Верховье'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-pstv'
+    region: region-vitsebsk
+    subregion: subregion-pstv
 images:
     -
         file: f901e2182ccb1dac7aa40aa4f4ab5f91.jpg

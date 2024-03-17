@@ -1,9 +1,9 @@
-id: 'sight-fgb-75365'
+id: sight-fgb-75365
 title: Чапун
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 meta:
     fgb:
         post_id: '75365'

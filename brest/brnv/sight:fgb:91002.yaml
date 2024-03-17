@@ -1,9 +1,9 @@
-id: 'sight-fgb-91002'
+id: sight-fgb-91002
 title: Поручин
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: 620a9a56bb47c9d3f1fd953f27d05c0c.jpg

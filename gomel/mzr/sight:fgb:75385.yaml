@@ -1,9 +1,9 @@
-id: 'sight-fgb-75385'
+id: sight-fgb-75385
 title: 'Крынки (№2)'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 location:
     -
         type: point

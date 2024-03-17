@@ -1,9 +1,9 @@
-id: 'sight-fgb-104057'
+id: sight-fgb-104057
 title: Даниловск-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mstsl'
+    region: region-mahileu
+    subregion: subregion-mstsl
 location:
     -
         type: point

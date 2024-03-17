@@ -1,9 +1,9 @@
-id: 'sight-fgb-100613'
+id: sight-fgb-100613
 title: 'Студня Рыгора Шырмы'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 images:
     -
         file: 1d5c6d5cda0777130e7e43030ccd7c33.jpg

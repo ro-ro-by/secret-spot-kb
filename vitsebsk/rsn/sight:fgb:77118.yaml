@@ -1,9 +1,9 @@
-id: 'sight-fgb-77118'
+id: sight-fgb-77118
 title: '16 родников'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-rsn'
+    region: region-vitsebsk
+    subregion: subregion-rsn
 meta:
     fgb:
         post_id: '77118'

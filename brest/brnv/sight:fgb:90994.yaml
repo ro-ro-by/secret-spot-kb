@@ -1,9 +1,9 @@
-id: 'sight-fgb-90994'
+id: sight-fgb-90994
 title: Ежонка
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 location:
     -
         type: point

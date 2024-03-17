@@ -1,9 +1,9 @@
-id: 'sight-fgb-77239'
+id: sight-fgb-77239
 title: 'Парк Старинки'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 meta:
     fgb:
         post_id: '77239'

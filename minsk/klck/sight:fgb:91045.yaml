@@ -1,9 +1,9 @@
-id: 'sight-fgb-91045'
+id: sight-fgb-91045
 title: Понача
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: b694abbdc373e328131e9f406f6de937.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-78972'
+id: sight-fgb-78972
 title: 'В Южном'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 meta:
     fgb:
         post_id: '78972'

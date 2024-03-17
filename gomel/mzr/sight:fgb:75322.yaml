@@ -1,9 +1,9 @@
-id: 'sight-fgb-75322'
+id: sight-fgb-75322
 title: 'Комаровка (№ 20)'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-mzr'
+    region: region-gomel
+    subregion: subregion-mzr
 location:
     -
         type: point

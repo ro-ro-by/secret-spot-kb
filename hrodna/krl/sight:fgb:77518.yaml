@@ -1,9 +1,9 @@
-id: 'sight-fgb-77518'
+id: sight-fgb-77518
 title: Воронча-1
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-krl'
+    region: region-hrodna
+    subregion: subregion-krl
 location:
     -
         type: point

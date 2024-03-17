@@ -1,9 +1,9 @@
-id: 'sight-fgb-97016'
+id: sight-fgb-97016
 title: 'Парк Копылы'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kmn'
+    region: region-brest
+    subregion: subregion-kmn
 images:
     -
         file: 99e5af8c9b057ab2d0807f81e780b1a6.jpg

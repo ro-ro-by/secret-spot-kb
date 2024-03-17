@@ -1,9 +1,9 @@
-id: 'sight-fgb-97406'
+id: sight-fgb-97406
 title: Роговский-2
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 location:
     -
         type: point

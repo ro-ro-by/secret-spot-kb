@@ -1,9 +1,9 @@
-id: 'sight-fgb-78140'
+id: sight-fgb-78140
 title: Гаювка
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 meta:
     fgb:
         post_id: '78140'

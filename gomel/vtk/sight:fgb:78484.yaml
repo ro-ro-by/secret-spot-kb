@@ -1,9 +1,9 @@
-id: 'sight-fgb-78484'
+id: sight-fgb-78484
 title: 'Медвежья криница'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-vtk'
+    region: region-gomel
+    subregion: subregion-vtk
 meta:
     fgb:
         post_id: '78484'

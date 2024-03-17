@@ -1,9 +1,9 @@
-id: 'sight-fgb-88363'
+id: sight-fgb-88363
 title: Глинка-2
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-stln'
+    region: region-brest
+    subregion: subregion-stln
 meta:
     fgb:
         post_id: '88363'

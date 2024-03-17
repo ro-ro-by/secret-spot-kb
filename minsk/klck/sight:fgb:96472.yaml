@@ -1,9 +1,9 @@
-id: 'sight-fgb-96472'
+id: sight-fgb-96472
 title: 'Парк Тесновка'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-klck'
+    region: region-minsk
+    subregion: subregion-klck
 images:
     -
         file: eaefb13e0b428281a091da6d38dadcad.jpg

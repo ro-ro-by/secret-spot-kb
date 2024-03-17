@@ -1,9 +1,9 @@
-id: 'sight-fgb-74698'
+id: sight-fgb-74698
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-stln'
+    region: region-brest
+    subregion: subregion-stln
 images:
     -
         file: 52a9ad68126d703ccb7742f6cb4cde88.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75841'
+id: sight-fgb-75841
 title: 'Бювет на Долгобродской'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 images:
     -
         file: 2426a578a3093551fb48cc1419aea269.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-97347'
+id: sight-fgb-97347
 title: 'Парк Аннополь'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 meta:
     fgb:
         post_id: '97347'

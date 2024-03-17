@@ -1,9 +1,9 @@
-id: 'sight-fgb-79477'
+id: sight-fgb-79477
 title: Карьерный
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-zlv'
+    region: region-hrodna
+    subregion: subregion-zlv
 images:
     -
         file: 55ebbf0fe286ff57119504e9796debc8.jpg

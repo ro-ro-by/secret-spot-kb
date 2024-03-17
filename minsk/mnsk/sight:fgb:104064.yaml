@@ -1,9 +1,9 @@
-id: 'sight-fgb-104064'
+id: sight-fgb-104064
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mnsk'
+    region: region-minsk
+    subregion: subregion-mnsk
 location:
     -
         type: point

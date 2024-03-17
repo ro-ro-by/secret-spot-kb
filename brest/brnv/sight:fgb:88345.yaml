@@ -1,9 +1,9 @@
-id: 'sight-fgb-88345'
+id: sight-fgb-88345
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 meta:
     fgb:
         post_id: '88345'

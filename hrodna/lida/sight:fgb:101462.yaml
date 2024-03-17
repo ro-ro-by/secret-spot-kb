@@ -1,9 +1,9 @@
-id: 'sight-fgb-101462'
+id: sight-fgb-101462
 title: 'Усадебный парк в деревне Тарново'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-lida'
+    region: region-hrodna
+    subregion: subregion-lida
 images:
     -
         file: db078b9bffb5724661b49330a4adaabe.jpg

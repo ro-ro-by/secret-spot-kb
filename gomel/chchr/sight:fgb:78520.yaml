@@ -1,9 +1,9 @@
-id: 'sight-fgb-78520'
+id: sight-fgb-78520
 title: 'Ключевая криница'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: 5d59b7fb6c52e804921632df4b38c220.jpg

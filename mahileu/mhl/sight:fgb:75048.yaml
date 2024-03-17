@@ -1,9 +1,9 @@
-id: 'sight-fgb-75048'
+id: sight-fgb-75048
 title: 'Дашковский парк'
 type: park
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-mhl'
+    region: region-mahileu
+    subregion: subregion-mhl
 images:
     -
         file: 556cad46734513291c86ac5501b43a3a.jpg

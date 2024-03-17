@@ -1,9 +1,9 @@
-id: 'sight-fgb-74570'
+id: sight-fgb-74570
 title: 'Бытенский (Три криницы, №13)'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivcv'
+    region: region-brest
+    subregion: subregion-ivcv
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75248'
+id: sight-fgb-75248
 title: 'Источник в честь Казанской иконы Божией матери'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 images:
     -
         file: 17acf7b0547adb7ac75291326de66032.jpg

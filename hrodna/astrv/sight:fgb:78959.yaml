@@ -1,9 +1,9 @@
-id: 'sight-fgb-78959'
+id: sight-fgb-78959
 title: 'Свирянский-1 (Свирянский ручей)'
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 location:
     -
         type: point

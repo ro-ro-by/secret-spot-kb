@@ -1,9 +1,9 @@
-id: 'sight-fgb-95323'
+id: sight-fgb-95323
 title: Сипайлы
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-bln'
+    region: region-mahileu
+    subregion: subregion-bln
 location:
     -
         type: point

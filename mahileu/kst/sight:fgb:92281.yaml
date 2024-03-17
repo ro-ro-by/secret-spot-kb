@@ -1,9 +1,9 @@
-id: 'sight-fgb-92281'
+id: sight-fgb-92281
 title: Крупня-1
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-kst'
+    region: region-mahileu
+    subregion: subregion-kst
 location:
     -
         type: point

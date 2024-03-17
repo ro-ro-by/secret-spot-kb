@@ -1,9 +1,9 @@
-id: 'sight-fgb-100126'
+id: sight-fgb-100126
 title: 'Камень следавік'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mld'
+    region: region-minsk
+    subregion: subregion-mld
 images:
     -
         file: 41b0229a4ad35fe50b524271eb91226f.jpg

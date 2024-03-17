@@ -1,9 +1,9 @@
-id: 'sight-fgb-75287'
+id: sight-fgb-75287
 title: 'У больницы'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-krm'
+    region: region-gomel
+    subregion: subregion-krm
 images:
     -
         file: 22893741c5a4bb89ba1d991e1bea10c1.jpg

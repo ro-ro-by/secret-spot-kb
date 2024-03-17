@@ -1,9 +1,9 @@
-id: 'sight-fgb-78117'
+id: sight-fgb-78117
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-ivcv'
+    region: region-brest
+    subregion: subregion-ivcv
 location:
     -
         type: point

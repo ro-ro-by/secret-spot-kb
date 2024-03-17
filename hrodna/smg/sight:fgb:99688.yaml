@@ -1,9 +1,9 @@
-id: 'sight-fgb-99688'
+id: sight-fgb-99688
 title: 'Парк Кушлянский'
 type: park
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-smg'
+    region: region-hrodna
+    subregion: subregion-smg
 meta:
     fgb:
         post_id: '99688'

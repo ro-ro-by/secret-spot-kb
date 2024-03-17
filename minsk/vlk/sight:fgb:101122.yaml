@@ -1,9 +1,9 @@
-id: 'sight-fgb-101122'
+id: sight-fgb-101122
 title: 'Перуноў камень'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 meta:
     fgb:
         post_id: '101122'

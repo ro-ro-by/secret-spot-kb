@@ -1,9 +1,9 @@
-id: 'sight-fgb-97291'
+id: sight-fgb-97291
 title: 'Парк Каштановка'
 type: park
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-przh'
+    region: region-brest
+    subregion: subregion-przh
 meta:
     fgb:
         post_id: '97291'

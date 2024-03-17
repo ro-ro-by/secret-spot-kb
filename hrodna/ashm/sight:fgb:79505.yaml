@@ -1,9 +1,9 @@
-id: 'sight-fgb-79505'
+id: sight-fgb-79505
 title: Сухой
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-ashm'
+    region: region-hrodna
+    subregion: subregion-ashm
 location:
     -
         type: point

@@ -1,9 +1,9 @@
-id: 'sight-fgb-75142'
+id: sight-fgb-75142
 title: 'Ивановская роща'
 type: forest
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-htmsk'
+    region: region-mahileu
+    subregion: subregion-htmsk
 forest:
     dominated_type: birch
 images:

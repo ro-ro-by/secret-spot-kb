@@ -1,9 +1,9 @@
-id: 'sight-fgb-101019'
+id: sight-fgb-101019
 title: 'Камень Напалеона'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 meta:
     fgb:
         post_id: '101019'

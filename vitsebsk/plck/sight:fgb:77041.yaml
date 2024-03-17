@@ -1,9 +1,9 @@
-id: 'sight-fgb-77041'
+id: sight-fgb-77041
 title: Родник
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-plck'
+    region: region-vitsebsk
+    subregion: subregion-plck
 location:
     -
         type: point

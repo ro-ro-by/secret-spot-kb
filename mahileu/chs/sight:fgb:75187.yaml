@@ -1,9 +1,9 @@
-id: 'sight-fgb-75187'
+id: sight-fgb-75187
 title: 'Шеперово 3'
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-chs'
+    region: region-mahileu
+    subregion: subregion-chs
 meta:
     fgb:
         post_id: '75187'

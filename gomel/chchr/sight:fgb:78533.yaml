@@ -1,9 +1,9 @@
-id: 'sight-fgb-78533'
+id: sight-fgb-78533
 title: Каменка
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 images:
     -
         file: 1e6915e9cfd7a4e8e69ec7f7fd87f4c7.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-76809'
+id: sight-fgb-76809
 title: 'Зусцэвье (???)'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-dksh'
+    region: region-vitsebsk
+    subregion: subregion-dksh
 location:
     -
         type: point

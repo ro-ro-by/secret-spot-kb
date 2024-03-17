@@ -1,9 +1,9 @@
-id: 'sight-fgb-78523'
+id: sight-fgb-78523
 title: Ключевой-5
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-chchr'
+    region: region-gomel
+    subregion: subregion-chchr
 meta:
     fgb:
         post_id: '78523'

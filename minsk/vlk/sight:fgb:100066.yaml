@@ -1,9 +1,9 @@
-id: 'sight-fgb-100066'
+id: sight-fgb-100066
 title: 'Вялікі камень'
 type: boulder
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-vlk'
+    region: region-minsk
+    subregion: subregion-vlk
 images:
     -
         file: 52efc4560d07c18ee2d5a2cdb57dedb2.jpg

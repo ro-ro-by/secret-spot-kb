@@ -1,9 +1,9 @@
-id: 'sight-fgb-77202'
+id: sight-fgb-77202
 title: 'Поклонное дерево'
 type: tree
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-shrk'
+    region: region-vitsebsk
+    subregion: subregion-shrk
 meta:
     fgb:
         post_id: '77202'

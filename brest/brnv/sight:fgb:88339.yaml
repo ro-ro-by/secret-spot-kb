@@ -1,9 +1,9 @@
-id: 'sight-fgb-88339'
+id: sight-fgb-88339
 title: Гать
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-brnv'
+    region: region-brest
+    subregion: subregion-brnv
 images:
     -
         file: b1450927d2db007cd6d84a32765b63c6.jpg

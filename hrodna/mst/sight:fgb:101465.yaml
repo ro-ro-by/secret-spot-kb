@@ -1,9 +1,9 @@
-id: 'sight-fgb-101465'
+id: sight-fgb-101465
 title: 'Вековое насаждение в городе Мосты'
 type: forest
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-mst'
+    region: region-hrodna
+    subregion: subregion-mst
 images:
     -
         file: afb37efbcfc73750278a10f400580cbc.jpg

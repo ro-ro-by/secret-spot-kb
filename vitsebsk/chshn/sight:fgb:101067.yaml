@@ -1,9 +1,9 @@
-id: 'sight-fgb-101067'
+id: sight-fgb-101067
 title: 'Ахвярны камень'
 type: boulder
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-chshn'
+    region: region-vitsebsk
+    subregion: subregion-chshn
 meta:
     fgb:
         post_id: '101067'

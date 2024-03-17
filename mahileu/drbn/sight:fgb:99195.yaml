@@ -1,9 +1,9 @@
-id: 'sight-fgb-99195'
+id: sight-fgb-99195
 title: Преобаженск-2
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 meta:
     fgb:
         post_id: '99195'

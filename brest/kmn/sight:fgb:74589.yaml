@@ -1,9 +1,9 @@
-id: 'sight-fgb-74589'
+id: sight-fgb-74589
 title: 'Верхи-1 и Верхи-2'
 type: spring
 belongsTo:
-    region: 'region-brest'
-    subregion: 'subregion-kmn'
+    region: region-brest
+    subregion: subregion-kmn
 images:
     -
         file: 1edba454ab06641b677442f2047e15cb.jpg

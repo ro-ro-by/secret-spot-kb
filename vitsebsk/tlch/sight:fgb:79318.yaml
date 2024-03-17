@@ -1,9 +1,9 @@
-id: 'sight-fgb-79318'
+id: sight-fgb-79318
 title: 'Исток Оболянки'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-tlch'
+    region: region-vitsebsk
+    subregion: subregion-tlch
 meta:
     fgb:
         post_id: '79318'

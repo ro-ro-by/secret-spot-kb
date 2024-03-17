@@ -1,9 +1,9 @@
-id: 'sight-fgb-79592'
+id: sight-fgb-79592
 title: 'Бювет в парке'
 type: spring
 belongsTo:
-    region: 'region-gomel'
-    subregion: 'subregion-hml'
+    region: region-gomel
+    subregion: subregion-hml
 images:
     -
         file: 84691a9939564165b1c9ef685e662cc4.jpg

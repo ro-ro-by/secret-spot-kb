@@ -1,9 +1,9 @@
-id: 'sight-fgb-95307'
+id: sight-fgb-95307
 title: Тартак
 type: spring
 belongsTo:
-    region: 'region-hrodna'
-    subregion: 'subregion-astrv'
+    region: region-hrodna
+    subregion: subregion-astrv
 images:
     -
         file: 657b0d915ebaabd6b80fce1fe61b2bea.jpg

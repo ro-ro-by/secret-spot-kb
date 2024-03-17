@@ -1,9 +1,9 @@
-id: 'sight-fgb-76404'
+id: sight-fgb-76404
 title: 'Параскевы Пятницы'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vtb'
+    region: region-vitsebsk
+    subregion: subregion-vtb
 images:
     -
         file: d8d3d23827f8ce65231910fd13db544f.jpg

@@ -1,9 +1,9 @@
-id: 'sight-fgb-95780'
+id: sight-fgb-95780
 title: 'Молочный (Святой)'
 type: spring
 belongsTo:
-    region: 'region-vitsebsk'
-    subregion: 'subregion-vndv'
+    region: region-vitsebsk
+    subregion: subregion-vndv
 images:
     -
         file: 4bef7d7104f730bf97ce2cb2c6b2ee05.png

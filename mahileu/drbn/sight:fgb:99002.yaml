@@ -1,9 +1,9 @@
-id: 'sight-fgb-99002'
+id: sight-fgb-99002
 title: Пески
 type: spring
 belongsTo:
-    region: 'region-mahileu'
-    subregion: 'subregion-drbn'
+    region: region-mahileu
+    subregion: subregion-drbn
 images:
     -
         file: b4b5114fa76a97610d230cf310a1fe21.jpg

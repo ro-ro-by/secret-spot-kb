@@ -1,9 +1,9 @@
-id: 'sight-fgb-97922'
+id: sight-fgb-97922
 title: 'Фрагмент старинного парка в д. Засвирь (Липово-дубовая аллея)'
 type: park
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-mdzl'
+    region: region-minsk
+    subregion: subregion-mdzl
 location:
     -
         type: point

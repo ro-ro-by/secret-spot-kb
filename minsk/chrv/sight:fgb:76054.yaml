@@ -1,9 +1,9 @@
-id: 'sight-fgb-76054'
+id: sight-fgb-76054
 title: 'Родник Галковского'
 type: spring
 belongsTo:
-    region: 'region-minsk'
-    subregion: 'subregion-chrv'
+    region: region-minsk
+    subregion: subregion-chrv
 location:
     -
         type: point
