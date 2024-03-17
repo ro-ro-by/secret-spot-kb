@@ -1,0 +1,37 @@
+name: Data validation
+on: [push]
+jobs:
+  schema:
+    runs-on: ubuntu-latest
+    permissions:
+      checks: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: src
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install -g ajv-cli
+
+      #####
+      # Validate schema
+      #####
+      - name: Validate schema
+        shell: bash {0}
+        run: |
+          ajv validate -s ./src/.system/schema/sight.json -d "./src/*/*/sight*.yaml" --errors=json 2> errors.log
+
+      #####
+      # Push checks result
+      #####
+      - uses: LouisBrunner/checks-action@v2.0.0
+        if: always()
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          name: Schema Validation
+          conclusion: ${{ job.status }}
+          output_text_description_file: errors.log
+          output: |
+            {"summary":"Schema Validation results"}
