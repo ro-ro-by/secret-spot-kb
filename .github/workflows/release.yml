@@ -21,10 +21,10 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Download artifacts
         run: |
-          aws s3 cp --recursive s3://by-secret-spot-artifacts/${{ steps.short-sha.outputs.sha }} ./artifacts
+          aws s3 cp --recursive s3://by-secret-spot-artifacts/8670338 ./artifacts
       - name: Prepare artifacts
         run: |
-          for file in ./artifacts/* ; do mv $file ${file%.*}-${{ inputs.tag }}.${file#*.}; done
+          for file in artifacts/* ; do mv $file ${file%.*}-${{ inputs.tag }}.${file#*.}; done
       - name: Show
         run: |
           ls -la artifacts
