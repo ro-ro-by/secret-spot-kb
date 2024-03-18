@@ -2,11 +2,12 @@ name: Artifacts build
 run-name: ${{ github.actor }} is building artifacts for ${{ github.sha }}
 on:
   workflow_dispatch:
-    full:
-      description: 'Full mode'
-      required: false
-      default: false
-      type: boolean
+    inputs:
+      full:
+        description: 'Full mode'
+        required: false
+        default: false
+        type: boolean
 jobs:
   main:
     runs-on: ubuntu-latest
