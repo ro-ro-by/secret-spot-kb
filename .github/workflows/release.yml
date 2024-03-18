@@ -24,7 +24,8 @@ jobs:
           aws s3 cp --recursive s3://by-secret-spot-artifacts/8670338c0698b35d44c708ac2e1f39287cdd6adb ./artifacts
       - name: Prepare artifacts
         run: |
-          for file in artifacts/* ; do mv $file secret-spot-${file%.*}-${{ inputs.tag }}.${file#*.}; done
+          cd artifacts
+          for file in * ; do mv $file secret-spot-${file%.*}-${{ inputs.tag }}.${file#*.}; done
       - name: Show
         run: |
           ls -la artifacts
