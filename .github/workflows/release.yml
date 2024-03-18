@@ -7,7 +7,7 @@ on:
         default: 'latest'
         required: true
 jobs:
-  schema:
+  main:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,7 +20,15 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Download artifacts
         run: |
-          aws s3 cp --recursive s3://by-secret-spot-artifacts/${{ inputs.version }} artifacts
+          aws s3 cp --recursive s3://by-secret-spot-artifacts/${{ inputs.version }} ./artifacts
       - name: Show
         run: |
           ls -la artifacts
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          prerelease: true
+          generate_release_notes: true
+          files: ./artifacts/*
+
