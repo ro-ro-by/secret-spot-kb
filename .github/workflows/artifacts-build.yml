@@ -1,0 +1,61 @@
+name: Artifacts build
+run-name: ${{ github.actor }} is building artifacts for ${{ github.sha }}
+on:
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Full mode'
+        required: false
+        default: false
+        type: boolean
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/checkout@v4
+        with:
+          path: data/kb
+
+      - name: Pack KB as yaml
+        run: |
+          mkdir -p ./data/output
+          
+          docker run -v ./data/kb:/app/kb -v ./data/output:/app/output isxam/secret-spot-kb-tool:latest php bin/cli kb:repo:pack kb output/kb.yaml
+          docker run -v ./data/kb:/app/kb -v ./data/output:/app/output isxam/secret-spot-kb-tool:latest php bin/cli kb:repo:pack kb output/kb-min.yaml -m
+
+      - name: Pack KB as JSON
+        run: |
+          shopt -s expand_aliases
+          alias yaml2json="python -c 'import sys,yaml,json; print(json.dumps(yaml.safe_load(str(sys.stdin.read()))))'"
+          
+          cat ./data/output/kb.yaml | yaml2json > ./data/output/kb.json
+          cat ./data/output/kb-min.yaml | yaml2json > ./data/output/kb-min.json
+
+      - name: Build GeoJSON
+        run: |
+          docker run -v ./data/output:/app/output isxam/secret-spot-kb-tool:latest php bin/cli kb:export:geojson output/kb.yaml > ./data/output/kb.geojson
+
+      - name: Build KML
+        run: |
+          npm install -g tokml
+          tokml --name title_long --description description --documentName "SecretSpot" ./data/output/kb.geojson > ./data/output/kb.kml
+
+      - name: Build GPX
+        if: ${{ inputs.full }}
+        run: |
+          sudo apt-get install -y gpsbabel
+          gpsbabel -i kml -f ./data/output/kb.kml -o gpx -F ./data/output/kb.gpx
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-north-1
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+      - name: Upload artifacts to S3
+        run: |
+          aws s3 cp --recursive ./data/output s3://by-secret-spot-artifacts/${{ github.sha }}
