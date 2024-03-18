@@ -1,6 +1,12 @@
 name: Artifacts build
 run-name: ${{ github.actor }} is building artifacts for ${{ github.sha }}
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    full:
+      description: 'Full mode'
+      required: false
+      default: false
+      type: boolean
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -37,6 +43,7 @@ jobs:
           tokml --name title_long --description description --documentName "SecretSpot" ./data/output/kb.geojson > ./data/output/kb.kml
 
       - name: Build GPX
+        if: ${{ inputs.full }}
         run: |
           sudo apt-get install -y gpsbabel
           gpsbabel -i kml -f ./data/output/kb.kml -o gpx -F ./data/output/kb.gpx
