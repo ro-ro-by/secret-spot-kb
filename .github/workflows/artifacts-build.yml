@@ -58,4 +58,4 @@ jobs:
 
       - name: Upload artifacts to S3
         run: |
-          aws s3 cp --recursive ./data/output s3://by-secret-spot-artifacts/${{ github.sha }}
+          aws s3 sync --delete ./data/output s3://by-secret-spot-artifacts/${{ github.sha }}
