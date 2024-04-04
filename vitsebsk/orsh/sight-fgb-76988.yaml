@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_1200.jpg'
+            fgb:
+                post_id: '76988'
 location:
     -
         type: point

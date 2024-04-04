@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_20180512_145729_hdr.jpg'
+            fgb:
+                post_id: '88346'
         meta:
             author: 'Дмитрий Карачун'
 location:

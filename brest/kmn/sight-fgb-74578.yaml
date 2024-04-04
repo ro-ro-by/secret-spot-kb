@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_5287.jpg'
+            fgb:
+                post_id: '74578'
     -
         file: 4abbfa4687d443af2154b1ee52d48a5f.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_starinnyj_park_v_d_gremyacha.jpg'
+            fgb:
+                post_id: '74578'
 location:
     -
         type: point

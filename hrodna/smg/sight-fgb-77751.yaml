@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_hvedevickij_valun.jpg'
+            fgb:
+                post_id: '77751'
     -
         file: 6a9f73636f7aaa2d403b757f389516de.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/hv.jpg'
+            fgb:
+                post_id: '77751'
         meta:
             author: ВалероС
 location:

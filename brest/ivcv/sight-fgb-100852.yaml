@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/348589514_141870768882987_8943650058425015919_n.jpg'
+            fgb:
+                post_id: '100852'
         meta:
             author: 'А. Паўлоўская'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/348595895_265510059268521_898237225822736910_n.jpg'
+            fgb:
+                post_id: '100852'
         meta:
             author: 'А. Паўлоўская'
 meta:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0176_9104.jpg'
+            fgb:
+                post_id: '75766'
     -
         file: b12b704b3a996c1de90548df33da48fa.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0011.jpg'
+            fgb:
+                post_id: '75766'
         meta:
             author: Victoryor
 location:

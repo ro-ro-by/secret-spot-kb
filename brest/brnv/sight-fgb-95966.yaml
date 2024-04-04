@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/image005_(2).jpg'
+            fgb:
+                post_id: '95966'
     -
         file: 88b45bb460e82b393cbfed4789d9a465.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/11_5176.jpg'
+            fgb:
+                post_id: '95966'
         meta:
             author: 'Алесь Гизун'
 meta:

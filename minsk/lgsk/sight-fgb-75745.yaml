@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kramianec_lag_4187.jpg'
+            fgb:
+                post_id: '75745'
         meta:
             author: 'В. Вінакураў'
             version: 1988
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kramianec_lagojsk-88_9359.jpg'
+            fgb:
+                post_id: '75745'
         meta:
             author: 'В. Вінакураў'
             version: 1988
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0131_4214.jpg'
+            fgb:
+                post_id: '75745'
 meta:
     fgb:
         post_id: '75745'

@@ -12,14 +12,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_vojtehovskij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77662'
     -
         file: bd78152b142fdbe0f1b81d5078e14e7c.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9805.jpg'
+            fgb:
+                post_id: '77662'
         meta:
             author: ВалероС
 location:

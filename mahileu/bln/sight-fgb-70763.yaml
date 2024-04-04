@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/belynichskij_rajon_kartoshema_5908.jpg'
+            fgb:
+                post_id: '70763'
 meta:
     fgb:
         post_id: '70763'

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_5720.jpg'
+            fgb:
+                post_id: '75427'
     -
         file: 1585756cadf34994cea070dbf53bd9ba.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta1.jpg'
+            fgb:
+                post_id: '75427'
 location:
     -
         type: point

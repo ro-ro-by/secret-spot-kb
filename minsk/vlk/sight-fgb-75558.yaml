@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_8266.jpg'
+            fgb:
+                post_id: '75558'
     -
         file: b140d8da5c5961adc1b83176e6db7814.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9058.jpg'
+            fgb:
+                post_id: '75558'
     -
         file: 39a0783839060050001769f64596d30c.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_8972.jpg'
+            fgb:
+                post_id: '75558'
     -
         file: 2f44c5ef545740a522584908e77e8759.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/33196151634_cc6cf2fe22_b.jpg'
+            fgb:
+                post_id: '75558'
         meta:
             author: 'Александр Dehty'
 location:

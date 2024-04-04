@@ -12,7 +12,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_8204.jpg'
+            fgb:
+                post_id: '97755'
     -
         file: aabb31823fcfd55621d0dcf802eb372e.jpg
         tags:
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9889.jpg'
+            fgb:
+                post_id: '97755'
     -
         file: 4ad1887ab840d387271e953fc8b51bb1.jpg
         tags:
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_5904.jpg'
+            fgb:
+                post_id: '97755'
     -
         file: 7dc84b286f59e1ddcfc0e0dac2dd716a.jpg
         tags:
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_4048.jpg'
+            fgb:
+                post_id: '97755'
 meta:
     fgb:
         post_id: '97755'

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_2197.jpg'
+            fgb:
+                post_id: '76105'
     -
         file: a65d351d61c34aa523361fa4f794ef53.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3790f5c8033d98bbfbd1440152db52deed76111a_img_7407_600x800.jpg'
+            fgb:
+                post_id: '76105'
 tree:
     type: cottonwood
 location:

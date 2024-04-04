@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_8714.jpg'
+            fgb:
+                post_id: '77295'
     -
         file: 7b1e213b7f4fc06ae119c56c9959562c.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bolshoj_kamen_tolochkinskij2.jpg'
+            fgb:
+                post_id: '77295'
     -
         file: e2c6d1facd0cfcce23e32b21d73061a3.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2008.jpg'
+            fgb:
+                post_id: '77295'
         meta:
             author: ВалероС
 location:

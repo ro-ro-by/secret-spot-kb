@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dauginauski_idal.jpg'
+            fgb:
+                post_id: '97006'
         meta:
             author: 'Валерий Винокуров'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/230414-dolginovo01.jpg'
+            fgb:
+                post_id: '97006'
         meta:
             author: 'Георгий Лихторович'
 meta:

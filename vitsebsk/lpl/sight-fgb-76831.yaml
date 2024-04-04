@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dmhtgdwo8ta.jpg'
+            fgb:
+                post_id: '76831'
         meta:
             author: 'Зміцер Скварчэўскі'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/oubss7gqqwc.jpg'
+            fgb:
+                post_id: '76831'
         meta:
             author: 'Зміцер Скварчэўскі'
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/v1ehgheatpk.jpg'
+            fgb:
+                post_id: '76831'
         meta:
             author: 'Зміцер Скварчэўскі'
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/wkc_qrd3rjk.jpg'
+            fgb:
+                post_id: '76831'
         meta:
             author: 'Зміцер Скварчэўскі'
 meta:

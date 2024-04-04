@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/20200928165552_img_2754.jpg'
+            fgb:
+                post_id: '96779'
         meta:
             author: N-35
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/20200928165609_img_2756.jpg'
+            fgb:
+                post_id: '96779'
         meta:
             author: N-35
 location:

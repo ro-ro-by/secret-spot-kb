@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/imgp9700.jpg'
+            fgb:
+                post_id: '78737'
         meta:
             author: 'Mikola Pankavets'
 location:

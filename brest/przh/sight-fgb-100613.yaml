@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/297827997_1819518698255722_6082820194534948481_n.jpg'
+            fgb:
+                post_id: '100613'
         meta:
             author: 'Николай Кузич'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/297856858_487765733354212_813236136608768150_n.jpg'
+            fgb:
+                post_id: '100613'
         meta:
             author: 'Николай Кузич'
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/297959418_461517325571686_3919690020375759362_n.jpg'
+            fgb:
+                post_id: '100613'
         meta:
             author: 'Николай Кузич'
 location:

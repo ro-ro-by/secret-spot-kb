@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/mezhevskaya_ozovaya_gryada_kartoshema_5899.jpg'
+            fgb:
+                post_id: '77085'
 meta:
     fgb:
         post_id: '77085'

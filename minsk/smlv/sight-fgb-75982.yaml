@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/05_5939.jpg'
+            fgb:
+                post_id: '75982'
         meta:
             author: 'Сергей Глиндзич'
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3361.jpg'
+            fgb:
+                post_id: '75982'
     -
         file: 971e5dd19ff492ac727d9b16fa6cc756.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_6839.jpg'
+            fgb:
+                post_id: '75982'
 location:
     -
         type: point

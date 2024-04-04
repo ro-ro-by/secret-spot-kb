@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/agarodzh_5763.jpg'
+            fgb:
+                post_id: '75600'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/agarodvalozhyn-97_4685.jpg'
+            fgb:
+                post_id: '75600'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -31,14 +33,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_2647.jpg'
+            fgb:
+                post_id: '75600'
     -
         file: 7d406b9764f67224bf7b4586e40a1c62.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_4708.jpg'
+            fgb:
+                post_id: '75600'
 location:
     -
         type: point

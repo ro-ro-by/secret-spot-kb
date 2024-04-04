@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3614.jpg'
+            fgb:
+                post_id: '95303'
     -
         file: 152bcc290a5717dfb5c9f9e76315dcde.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_3201.jpg'
+            fgb:
+                post_id: '95303'
     -
         file: b8386b160c6b651d932d269c5cdf3d9a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_2015.jpg'
+            fgb:
+                post_id: '95303'
     -
         file: e50db1029bbf9e172750f6528f99603b.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/bystrica-2_kartoshema.jpg'
+            fgb:
+                post_id: '95303'
 location:
     -
         type: geojson

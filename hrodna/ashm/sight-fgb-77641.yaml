@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/garodnosh_3236.jpg'
+            fgb:
+                post_id: '77641'
         meta:
             author: 'В. Вінакураў'
             version: 1988
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2595.jpg'
+            fgb:
+                post_id: '77641'
         meta:
             author: ВалероС
 location:

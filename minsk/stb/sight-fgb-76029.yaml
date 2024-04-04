@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ris1.jpg'
+            fgb:
+                post_id: '76029'
         meta:
             author: 'Александр Крыжевич, Софья Мицкевич '
 meta:

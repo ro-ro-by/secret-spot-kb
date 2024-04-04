@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/sakovshnvalozhyn-97_5818.jpg'
+            fgb:
+                post_id: '94957'
         meta:
             author: 'В. Вінакураў'
             version: 1997

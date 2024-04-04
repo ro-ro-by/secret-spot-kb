@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2d-17jn-otch_06.jpg'
+            fgb:
+                post_id: '75856'
         meta:
             author: 'Сергей Глиндзич'
 location:

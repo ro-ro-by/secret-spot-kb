@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_1_kart-shema.jpg'
+            fgb:
+                post_id: '75308'
 location:
     -
         type: point

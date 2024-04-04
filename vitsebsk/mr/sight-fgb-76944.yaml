@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bertvmyory-99_8353.jpg'
+            fgb:
+                post_id: '76944'
         meta:
             author: 'В. Ф. Вінакураў'
             version: 1999

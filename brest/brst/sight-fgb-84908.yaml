@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/torfyanik_dubrovka__1493125904414__w859.png'
+            fgb:
+                post_id: '84908'
     -
         file: be72a9bd4d15741616e5e4c7def082ba.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/torfyanik_dubrovka__1500193952593__w1280.jpg'
+            fgb:
+                post_id: '84908'
         meta:
             author: 'Денис Тищук'
 location:

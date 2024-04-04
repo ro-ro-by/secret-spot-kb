@@ -11,35 +11,40 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_8760.jpg'
+            fgb:
+                post_id: '76958'
     -
         file: 44a38e798f9d5812751ea358f8bbe09b.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_3753.jpg'
+            fgb:
+                post_id: '76958'
     -
         file: bf99651077fd86249f15c7a15824255a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_2322.jpg'
+            fgb:
+                post_id: '76958'
     -
         file: 3af2021d204ba87c0f64ad965cfe9180.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_7686.jpg'
+            fgb:
+                post_id: '76958'
     -
         file: 8a283172e08119ce6a872d3df3f99d8b.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/5_3959.jpg'
+            fgb:
+                post_id: '76958'
 meta:
     fgb:
         post_id: '76958'

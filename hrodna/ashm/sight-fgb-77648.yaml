@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_petrovichskij_valun.jpg'
+            fgb:
+                post_id: '77648'
     -
         file: 11f34f2b7549ce322622513efa43805b.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8975.jpg'
+            fgb:
+                post_id: '77648'
         meta:
             author: ВалероС
 location:

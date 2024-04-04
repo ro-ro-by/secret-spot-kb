@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/risunok6.jpg'
+            fgb:
+                post_id: '75687'
         meta:
             author: 'Сергей Глиндзич'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_bobr.jpg'
+            fgb:
+                post_id: '75687'
 location:
     -
         type: point

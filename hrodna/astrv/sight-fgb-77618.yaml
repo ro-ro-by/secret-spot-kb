@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zakharastrav_8030.jpg'
+            fgb:
+                post_id: '77618'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -21,14 +22,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/zaharishkinskij_valun_str_3.jpg'
+            fgb:
+                post_id: '77618'
     -
         file: 25472ca8ab983932d2a2c310955ac9d7.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8523.jpg'
+            fgb:
+                post_id: '77618'
         meta:
             author: ВалероС
 location:

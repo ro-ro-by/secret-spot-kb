@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/tjopsclvhjmrvakta_kgt5qiywp9c8...x3qqdzi5zfxcgljvsccyqjec5cm0to.jpg'
+            fgb:
+                post_id: '101493'
 tree:
     type: oak
 location:

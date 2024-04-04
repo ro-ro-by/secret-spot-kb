@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0028.jpg'
+            fgb:
+                post_id: '75631'
     -
         file: 25d1bf9b78ef99c379d1ac5a25fcbf09.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0029.jpg'
+            fgb:
+                post_id: '75631'
     -
         file: 606fe37074efe79ca9ecdc01f5ac967f.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/p0030.jpg'
+            fgb:
+                post_id: '75631'
     -
         file: 8d3e4a3919e6d5c6079ca97ffd96d1f2.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_6210.jpg'
+            fgb:
+                post_id: '75631'
 location:
     -
         type: point

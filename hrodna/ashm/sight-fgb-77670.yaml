@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_chernushkinskij_valun.jpg'
+            fgb:
+                post_id: '77670'
     -
         file: be6712d26fe43eafae52bb3c9f5f6baa.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9016.jpg'
+            fgb:
+                post_id: '77670'
         meta:
             author: ВалероС
 location:

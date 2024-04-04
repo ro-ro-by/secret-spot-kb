@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0022.jpg'
+            fgb:
+                post_id: '76957'
         meta:
             author: 'І. Клімковіч'
             version: 2016

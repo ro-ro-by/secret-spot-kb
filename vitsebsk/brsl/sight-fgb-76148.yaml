@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_1986.jpg'
+            fgb:
+                post_id: '76148'
     -
         file: 05ed892141fde9216ff456f6f6e73e7a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/marcin_k-brsl_0282.jpg'
+            fgb:
+                post_id: '76148'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shlajbunvl.jpg'
+            fgb:
+                post_id: '76148'
 meta:
     fgb:
         post_id: '76148'

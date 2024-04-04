@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_9653.jpg'
+            fgb:
+                post_id: '75571'
     -
         file: 7e374ffa2ae2743c023aea0c67ff0ad4.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bolshoj_kamen_russkoselskij.jpg'
+            fgb:
+                post_id: '75571'
     -
         file: e88114e6bf399a96e819c71c3c99111a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/33223575953_b0d41b4c95_b.jpg'
+            fgb:
+                post_id: '75571'
         meta:
             author: 'Александр Dehty'
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/34035905205_a640f80703_b.jpg'
+            fgb:
+                post_id: '75571'
         meta:
             author: 'Александр Dehty'
 location:

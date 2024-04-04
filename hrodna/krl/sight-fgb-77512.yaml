@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gorno-rutovskie_ovragi.jpg'
+            fgb:
+                post_id: '77512'
 meta:
     fgb:
         post_id: '77512'

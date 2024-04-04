@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_6831.jpg'
+            fgb:
+                post_id: '96228'
 tree:
     type: spruce
 location:

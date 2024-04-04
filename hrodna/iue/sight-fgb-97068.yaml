@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/090420-volchok02.jpg'
+            fgb:
+                post_id: '97068'
         meta:
             author: 'Андрей Волчок'
 meta:

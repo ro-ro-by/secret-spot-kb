@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bikulnichypolacki-00_8150.jpg'
+            fgb:
+                post_id: '77015'
         meta:
             author: 'В. Вінакураў'
             version: 2000
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_3525.jpg'
+            fgb:
+                post_id: '77015'
     -
         file: 4388f261bfacc585cc2211a21bbea9f1.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_6686.jpg'
+            fgb:
+                post_id: '77015'
     -
         file: 7a021db41a4517ce890237e58181ae80.jpg
         tags:
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_9664.jpg'
+            fgb:
+                post_id: '77015'
     -
         file: 8058226ee1d84099cd38515dc1b3b375.jpg
         tags:
@@ -44,7 +48,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_0853.jpg'
+            fgb:
+                post_id: '77015'
         meta:
             author: 'В. Вінакураў'
 location:

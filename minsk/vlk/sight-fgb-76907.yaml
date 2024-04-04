@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/119561316.jpg'
+            fgb:
+                post_id: '76907'
         meta:
             author: 'Александр Dehty'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/119561319.jpg'
+            fgb:
+                post_id: '76907'
         meta:
             author: 'Александр Dehty'
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/17048566279_c419778997_b.jpg'
+            fgb:
+                post_id: '76907'
         meta:
             author: 'Александр Dehty'
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/scebyaraki.jpg'
+            fgb:
+                post_id: '76907'
 location:
     -
         type: point

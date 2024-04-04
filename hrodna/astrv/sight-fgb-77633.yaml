@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/c5f017cc2e4021480a40ef67d77c837a.jpg'
+            fgb:
+                post_id: '77633'
 tree:
     type: populus
 meta:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_0732.jpg'
+            fgb:
+                post_id: '77668'
     -
         file: 111ee37223a43f6334d866fff0d4bb56.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9073.jpg'
+            fgb:
+                post_id: '77668'
         meta:
             author: ВалероС
 location:

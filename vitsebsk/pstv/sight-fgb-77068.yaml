@@ -12,21 +12,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/024.jpg'
+            fgb:
+                post_id: '77068'
     -
         file: 371be2181277b0c2e3fb69b21910a0be.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/025.jpg'
+            fgb:
+                post_id: '77068'
     -
         file: d1055166984800d64745e708a76b3fa8.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_borodinskij_prigorok.jpg'
+            fgb:
+                post_id: '77068'
 meta:
     fgb:
         post_id: '77068'

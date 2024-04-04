@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/park_dub_b__1494498099780__w544.jpg'
+            fgb:
+                post_id: '74582'
     -
         file: a8c330b35b33b395af5488047b103637.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_4316.jpg'
+            fgb:
+                post_id: '74582'
     -
         file: e7b922f62a6fade4159356da1b2c877e.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_6991.jpg'
+            fgb:
+                post_id: '74582'
 tree:
     type: oak
 location:

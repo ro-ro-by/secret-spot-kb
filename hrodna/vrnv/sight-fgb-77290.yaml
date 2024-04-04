@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9364.jpg'
+            fgb:
+                post_id: '77290'
     -
         file: 5b604f13e56ea22144fdfef1209aeedd.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mantunskaya_gryada1.jpg'
+            fgb:
+                post_id: '77290'
     -
         file: 6abc4e598503b42c6a8c84044032625f.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mantunskaya_gryada2.jpg'
+            fgb:
+                post_id: '77290'
 meta:
     fgb:
         post_id: '77290'

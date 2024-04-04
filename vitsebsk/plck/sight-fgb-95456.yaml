@@ -11,7 +11,10 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kozyanskij_kk.jpg'
+            fgb:
+                post_id:
+                    - '95456'
+                    - '77217'
 location:
     -
         type: geojson

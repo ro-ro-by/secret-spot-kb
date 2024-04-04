@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_4123.jpg'
+            fgb:
+                post_id: '77213'
     -
         file: 929dc8def5543826c4676b396caaad18.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_4770.jpg'
+            fgb:
+                post_id: '77213'
 tree:
     type: aspen
 location:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/lyudmila_duchyc_iryn...arusi_(2011)_113.jpg'
+            fgb:
+                post_id: '75772'
     -
         file: 2961b8c12537dff6ea4af21d4376c2f0.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lechebnie012-.jpg'
+            fgb:
+                post_id: '75772'
         meta:
             author: 'Л. В. Дучиц и И. Е. Климкович'
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_3094.jpg'
+            fgb:
+                post_id: '75772'
 location:
     -
         type: geojson

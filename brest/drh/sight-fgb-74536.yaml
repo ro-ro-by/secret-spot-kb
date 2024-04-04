@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/radostovskij.jpg'
+            fgb:
+                post_id: '74536'
     -
         file: 8eafa8a414742446023e3654df988314.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_1..jpg'
+            fgb:
+                post_id: '74536'
         meta:
             author: ЗУК
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/radostovo._zakaznik_landshaftnyj_radostovskij_2..jpg'
+            fgb:
+                post_id: '74536'
         meta:
             author: ЗУК
 location:

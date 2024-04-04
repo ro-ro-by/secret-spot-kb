@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_perehrestenskie_beresty.jpg'
+            fgb:
+                post_id: '74645'
 tree:
     type: elm
 location:

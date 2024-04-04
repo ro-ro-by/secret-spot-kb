@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/olmanskie_bolota.jpg'
+            fgb:
+                post_id: '74694'
 location:
     -
         type: geojson

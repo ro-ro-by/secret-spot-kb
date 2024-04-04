@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3116.jpg'
+            fgb:
+                post_id: '75876'
     -
         file: 0a428c8f46e5f44bc0045ad266828346.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/12_0068.jpg'
+            fgb:
+                post_id: '75876'
     -
         file: e5c7bd2c64368a6c5bab99391950cacf.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_kurgan.jpg'
+            fgb:
+                post_id: '75876'
 meta:
     fgb:
         post_id: '75876'

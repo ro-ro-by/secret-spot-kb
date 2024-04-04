@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220528_0001.jpg'
+            fgb:
+                post_id: '100028'
         meta:
             author: 'М. Мялешка'
             version: 1928

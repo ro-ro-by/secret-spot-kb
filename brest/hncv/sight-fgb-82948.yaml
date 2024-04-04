@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lyusina-u-vescy-493-1338919877_b1.jpg'
+            fgb:
+                post_id: '82948'
         meta:
             author: 'Аляксандр Занька'
             version: 1967
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lyusina-u-vescy-493-1338918888_b2.jpg'
+            fgb:
+                post_id: '82948'
         meta:
             author: 'Аляксандр Занька'
             version: 1967

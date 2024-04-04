@@ -11,7 +11,10 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/krasnyj_bor.jpg'
+            fgb:
+                post_id:
+                    - '76368'
+                    - '95458'
 location:
     -
         type: geojson

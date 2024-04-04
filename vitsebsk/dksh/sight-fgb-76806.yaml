@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ahvirndok_1562.jpg'
+            fgb:
+                post_id: '76806'
         meta:
             author: 'В. Вінакураў'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ahvirndok-86_7834.jpg'
+            fgb:
+                post_id: '76806'
         meta:
             author: 'В. Вінакураў'
             version: 1986

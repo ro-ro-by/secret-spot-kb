@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/sosna_vejmutova__1500919738166__w1500.jpg'
+            fgb:
+                post_id: '74544'
 tree:
     type: oak
 location:

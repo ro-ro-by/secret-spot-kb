@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/23-novudvormynski-w.jpg'
+            fgb:
+                post_id: '75827'
         meta:
             author: 'Л. Дучиц, 2006.'
 meta:

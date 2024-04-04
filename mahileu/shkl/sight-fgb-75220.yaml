@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/osnvq41-1kq.jpg'
+            fgb:
+                post_id: '75220'
         meta:
             author: 'Maximilian Mizura'
 location:

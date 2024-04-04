@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_3421.jpg'
+            fgb:
+                post_id: '75900'
     -
         file: 228c34a2ed44af1a3a993fea6a0d38fe.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/98_1772.jpg'
+            fgb:
+                post_id: '75900'
     -
         file: f7cdf249e772532b8581f69de203d940.jpg
         tags:
@@ -26,14 +28,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/99_9836.jpg'
+            fgb:
+                post_id: '75900'
     -
         file: 0599bf6aaa8aa366afc3220e675a04da.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0438.jpg'
+            fgb:
+                post_id: '75900'
         meta:
             author: Victoryor
 location:

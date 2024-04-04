@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_9094.jpg'
+            fgb:
+                post_id: '95165'
     -
         file: 70e116c937b0a8263ea2766294fcbd5a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zditovskie_duby__1499875294045__w1333.jpg'
+            fgb:
+                post_id: '95165'
 location:
     -
         type: point

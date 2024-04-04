@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dscf1123.jpg'
+            fgb:
+                post_id: '75951'
         meta:
             author: 'Игорь Рудаковский'
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_8877.jpg'
+            fgb:
+                post_id: '75951'
     -
         file: 2c2146b5bfeb48007d0181168771868c.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bb_kartoshema.jpg'
+            fgb:
+                post_id: '75951'
 location:
     -
         type: point

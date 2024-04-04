@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/remzu_voranv-96_8392.jpg'
+            fgb:
+                post_id: '77305'
         meta:
             author: 'В. Вінакураў'
             version: 1996

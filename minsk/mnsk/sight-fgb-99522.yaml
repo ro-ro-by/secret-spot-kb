@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/b5644a952cb2f62c1f767acfe80044e1_m.jpg'
+            fgb:
+                post_id: '99522'
     -
         file: ea15977ac9fcb1184f11992592386a6d.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_1298.jpg'
+            fgb:
+                post_id: '99522'
         meta:
             author: 'Алекс Сталь'
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/sam_2868_-_kopiya.jpg'
+            fgb:
+                post_id: '99522'
         meta:
             author: kalilaska
 meta:

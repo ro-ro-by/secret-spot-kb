@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1024px-stone_with_a_cross_from_the_karaliova_slabada-2.jpg'
+            fgb:
+                post_id: '98924'
         meta:
             author: 'Тэльман Маслюкоў'
 meta:

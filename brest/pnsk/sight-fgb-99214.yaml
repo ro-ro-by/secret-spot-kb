@@ -11,14 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/6-0.png'
+            fgb:
+                post_id:
+                    - '99214'
+                    - '99213'
+                    - '99211'
+                    - '99212'
     -
         file: 741c81cae1dcc06ed5bafb2dd9523996.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1920px-vodnye_kanaly_dneprobug.jpg'
+            fgb:
+                post_id:
+                    - '99214'
+                    - '99213'
+                    - '99211'
+                    - '99212'
 location:
     -
         type: geojson

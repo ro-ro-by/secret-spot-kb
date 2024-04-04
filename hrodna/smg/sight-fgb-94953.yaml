@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/6-krevokksmarg_2503.jpg'
+            fgb:
+                post_id: '94953'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/6-krevokksm_2408.jpg'
+            fgb:
+                post_id: '94953'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/6-krevosmarg_3042.jpg'
+            fgb:
+                post_id: '94953'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -41,7 +44,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_2540_1411.jpg'
+            fgb:
+                post_id: '94953'
 meta:
     fgb:
         post_id: '94953'

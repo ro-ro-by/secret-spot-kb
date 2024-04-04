@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ivanov_hutor.jpg'
+            fgb:
+                post_id: '74999'
     -
         file: 5dffedfb8b07721dfbe2e12badd8af3f.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/-7cwijvcke8.jpg'
+            fgb:
+                post_id: '74999'
     -
         file: a99e4dd3ac5efbcb8ec21812d77d07e6.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/itojpob8kxa.jpg'
+            fgb:
+                post_id: '74999'
 location:
     -
         type: point

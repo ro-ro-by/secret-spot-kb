@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_katerinovskij_kamen.jpg'
+            fgb:
+                post_id: '77752'
     -
         file: fbe622cceceb7dcde63c19cbacbd7900.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_0589.jpg'
+            fgb:
+                post_id: '77752'
         meta:
             author: ВалероС
 location:

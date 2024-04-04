@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/m3dklp79izq.jpg'
+            fgb:
+                post_id: '75875'
         meta:
             author: tam_erm
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_20170505_095308.jpg'
+            fgb:
+                post_id: '75875'
         meta:
             author: tam_erm
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_20170505_095322.jpg'
+            fgb:
+                post_id: '75875'
         meta:
             author: tam_erm
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_20170514_101748.jpg'
+            fgb:
+                post_id: '75875'
         meta:
             author: tam_erm
 meta:

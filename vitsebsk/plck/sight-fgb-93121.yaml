@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/viber_image_2019-04-17__14.09.41_(1).jpg'
+            fgb:
+                post_id: '93121'
         meta:
             author: 'Mikola Pankavets'
 location:

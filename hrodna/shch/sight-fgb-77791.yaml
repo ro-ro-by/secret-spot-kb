@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._starye_vasilishki.jpg'
+            fgb:
+                post_id: '77791'
     -
         file: 1134b67d5f38bb0f30c82d2403a31dc7.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_2197.jpg'
+            fgb:
+                post_id: '77791'
         meta:
             author: ВалероС
 location:

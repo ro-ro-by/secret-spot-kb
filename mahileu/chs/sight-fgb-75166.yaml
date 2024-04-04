@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_5373.jpg'
+            fgb:
+                post_id: '75166'
     -
         file: e05d413067ccc84b0748a83016051b93.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_bordilovskoe-kremenec.jpg'
+            fgb:
+                post_id: '75166'
 meta:
     fgb:
         post_id: '75166'

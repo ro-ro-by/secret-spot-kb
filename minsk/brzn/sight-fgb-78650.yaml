@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/novosele_krynichka_20160213_shuk_tutby_phsl_4134.jpg'
+            fgb:
+                post_id: '78650'
         meta:
             author: 'Ольга Шукайло'
 meta:

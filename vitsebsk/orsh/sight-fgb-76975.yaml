@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_2206.jpg'
+            fgb:
+                post_id: '76975'
     -
         file: 79e39d5b0d9e6d44a153aeda9907101d.jpg
         tags:
@@ -19,14 +20,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_1046.jpg'
+            fgb:
+                post_id: '76975'
     -
         file: 146844b2a2df2bfeab7e5e351a080f4e.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2-zaharkor-95_5929.jpg'
+            fgb:
+                post_id: '76975'
         meta:
             author: 'В. Вінакураў'
             version: 1995

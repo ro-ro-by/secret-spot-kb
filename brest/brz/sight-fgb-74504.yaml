@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/7-charniakovbiaroz_.jpg'
+            fgb:
+                post_id: '74504'
         meta:
             author: 'Л. Дучиц, 2011г'
 meta:

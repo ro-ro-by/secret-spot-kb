@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_7007_6097.jpg'
+            fgb:
+                post_id: '75235'
         meta:
             author: 'Александр 6 Гапеенко'
 location:

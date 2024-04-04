@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/e995acb201ea3a49658bb610f3593950.jpg'
+            fgb:
+                post_id: '77117'
         meta:
             author: 'Сергей Плыткевич'
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mickevkvoranausk-96_2734.jpg'
+            fgb:
+                post_id: '77311'
         meta:
             author: 'В. Вінакураў'
             version: 1996
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_0933_2142.jpg'
+            fgb:
+                post_id: '77311'
 meta:
     fgb:
         post_id: '77311'

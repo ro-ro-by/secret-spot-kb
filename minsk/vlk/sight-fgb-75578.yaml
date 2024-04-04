@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/41.jpg'
+            fgb:
+                post_id: '75578'
     -
         file: 4e6e270d7595630a1bd09d1f55884e6d.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc07313_9516.jpg'
+            fgb:
+                post_id: '75578'
         meta:
             author: 'Александр Dehty'
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc07424.jpg'
+            fgb:
+                post_id: '75578'
         meta:
             author: 'Александр Dehty'
 location:

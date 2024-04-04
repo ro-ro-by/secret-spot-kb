@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ankudskij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77658'
     -
         file: faa53ed0e15fe300558e5dfa47d2d485.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2736_6634.jpg'
+            fgb:
+                post_id: '77658'
         meta:
             author: ВалероС
 location:

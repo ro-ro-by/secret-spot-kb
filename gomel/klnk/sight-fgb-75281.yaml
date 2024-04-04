@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2poj.jpg'
+            fgb:
+                post_id: '75281'
         meta:
             author: 'Людмила Дучиц, Ирина Климкович'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3dub.jpg'
+            fgb:
+                post_id: '75281'
         meta:
             author: 'Людмила Дучиц, Ирина Климкович'
 tree:

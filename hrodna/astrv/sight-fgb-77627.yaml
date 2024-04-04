@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/yakentanskij_valun_str_1.jpg'
+            fgb:
+                post_id: '77627'
     -
         file: e291384928c2fea686c23be3d9a351d2.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/yakentanskij_valun_str_3.jpg'
+            fgb:
+                post_id: '77627'
     -
         file: 82d5edd365ce9f5d1208045983bfbf62.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8794.jpg'
+            fgb:
+                post_id: '77627'
         meta:
             author: ВалероС
 location:

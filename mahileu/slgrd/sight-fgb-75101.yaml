@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/lyudmila_duchyc_iryn...arusi_(2011)_068.jpg'
+            fgb:
+                post_id: '75101'
     -
         file: 6c27d9882758c5bf96d7bc7b5a2ec6a0.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_3506_0529.jpg'
+            fgb:
+                post_id: '75101'
 location:
     -
         type: point

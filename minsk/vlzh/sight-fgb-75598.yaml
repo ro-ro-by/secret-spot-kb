@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/buzunuval-97.jpg'
+            fgb:
+                post_id: '75598'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_6236.jpg'
+            fgb:
+                post_id: '75598'
     -
         file: 1c50f19c9a5eec4924bef280f5f48003.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_5993.jpg'
+            fgb:
+                post_id: '75598'
 meta:
     fgb:
         post_id: '75598'

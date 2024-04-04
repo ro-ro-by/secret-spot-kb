@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/voinevic0_5343.jpg'
+            fgb:
+                post_id: '77745'
         meta:
             author: 'В. Вінакураў'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vojnevickij_chertov_kamen.jpg'
+            fgb:
+                post_id: '77745'
 meta:
     fgb:
         post_id: '77745'

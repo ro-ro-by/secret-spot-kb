@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/4237901a29636b9e93ae1d6138e49e05.jpg'
+            fgb:
+                post_id: '76836'
         meta:
             author: 'Валадар Шушкевич'
 location:

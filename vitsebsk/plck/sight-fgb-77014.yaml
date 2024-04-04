@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_4073.jpg'
+            fgb:
+                post_id: '77014'
     -
         file: 4df8b7a8b1603e43488cccce84b75f7d.jpg
         tags:
@@ -19,7 +20,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9762.jpg'
+            fgb:
+                post_id: '77014'
         meta:
             author: 'В. Вінакураў'
 location:

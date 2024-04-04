@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_(1).jpg'
+            fgb:
+                post_id: '98653'
         meta:
             author: 'Александр Бобков'
 location:

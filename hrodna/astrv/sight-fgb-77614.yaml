@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/duby_7503.jpg'
+            fgb:
+                post_id: '77614'
 tree:
     type: oak
 location:

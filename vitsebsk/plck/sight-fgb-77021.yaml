@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zamakvaronechplcvt-00_4604.jpg'
+            fgb:
+                post_id: '77021'
         meta:
             author: 'В. Ф. Вінакураў'
             version: 2000

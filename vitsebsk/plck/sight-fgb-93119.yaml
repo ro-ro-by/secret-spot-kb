@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20190411_144046_novyy_razmer.jpg'
+            fgb:
+                post_id: '93119'
         meta:
             author: 'Mikola Pankavets'
 location:

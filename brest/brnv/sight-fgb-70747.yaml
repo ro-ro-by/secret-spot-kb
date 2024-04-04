@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/image006.jpg'
+            fgb:
+                post_id: '70747'
     -
         file: 7e716ca0372745c5b6d9e040809410cc.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/07042255.jpg'
+            fgb:
+                post_id: '70747'
         meta:
             author: 'Виктор Максимов'
 location:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_5692_1138.jpg'
+            fgb:
+                post_id: '70750'
     -
         file: 8678d0fd3f1c7ffce1a9a47f91e728cc.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_5684_8697.jpg'
+            fgb:
+                post_id: '70750'
 tree:
     type: oak
 location:

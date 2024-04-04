@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zdanboris89_8735.jpg'
+            fgb:
+                post_id: '75542'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/163.jpg'
+            fgb:
+                post_id: '75542'
     -
         file: 4500eacbadf2e45ffcd30407bb6d5194.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0304_3778.jpg'
+            fgb:
+                post_id: '75542'
 meta:
     fgb:
         post_id: '75542'

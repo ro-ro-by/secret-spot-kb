@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dubiani_barus-89_8566.jpg'
+            fgb:
+                post_id: '75541'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/bezymyannyj_0204.png'
+            fgb:
+                post_id: '75541'
         meta:
             author: Victoryor
     -
@@ -30,7 +32,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dsc_0013.jpg'
+            fgb:
+                post_id: '75541'
         meta:
             author: Victoryor
 location:

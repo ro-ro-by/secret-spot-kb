@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/ostrovets_oopt.jpg'
+            fgb:
+                post_id: '77612'
 meta:
     fgb:
         post_id: '77612'

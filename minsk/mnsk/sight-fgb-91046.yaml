@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/hncqunigf-8.jpg'
+            fgb:
+                post_id: '91046'
         meta:
             author: 'ПИГ Стрела'
 location:

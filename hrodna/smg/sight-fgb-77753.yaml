@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vojstomskij_valun.jpg'
+            fgb:
+                post_id: '77753'
     -
         file: 6abafca0707f34c4872d2c256a446a43.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_0552.jpg'
+            fgb:
+                post_id: '77753'
         meta:
             author: ВалероС
 location:

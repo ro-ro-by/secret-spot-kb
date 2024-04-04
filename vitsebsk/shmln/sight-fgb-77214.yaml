@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1461.jpg'
+            fgb:
+                post_id: '77214'
     -
         file: 0aa29be6d9d3f1f467dc6eff399c6ac9.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_8180.jpg'
+            fgb:
+                post_id: '77214'
 tree:
     type: tilia
 location:

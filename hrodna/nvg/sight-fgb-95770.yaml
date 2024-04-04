@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/b00004-046.jpg'
+            fgb:
+                post_id: '95770'
 tree:
     type: oak
 meta:

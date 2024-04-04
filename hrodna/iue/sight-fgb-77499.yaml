@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/39-.jpg'
+            fgb:
+                post_id: '77499'
         meta:
             author: 'Л.Дучиц, 2005.'
 meta:

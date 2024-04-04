@@ -15,7 +15,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ostr1.jpg'
+            fgb:
+                post_id: '97339'
 location:
     -
         type: point

@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gologurskij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77659'
     -
         file: e4d3762f7396c723700397a2cad8537b.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8426.jpg'
+            fgb:
+                post_id: '77659'
         meta:
             author: ВалероС
 location:

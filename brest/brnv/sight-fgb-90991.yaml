@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/11-garadzischabaran-w.jpg'
+            fgb:
+                post_id: '90991'
         meta:
             author: 'Л. Дучиц'
             version: '2008'

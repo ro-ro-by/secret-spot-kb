@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_7117.jpg'
+            fgb:
+                post_id: '75940'
     -
         file: 8d6d5a8189dc091b5ca0136ec09a0b74.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kupa_kartoshema.jpg'
+            fgb:
+                post_id: '75940'
     -
         file: 78cd04e69e020e978d1466ce7ce3b39d.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/v7jkuot4c8o.jpg'
+            fgb:
+                post_id: '75940'
         meta:
             author: 'Сергей Лойко'
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/9not4ndnyws.jpg'
+            fgb:
+                post_id: '75940'
         meta:
             author: 'Сергей Лойко'
 location:

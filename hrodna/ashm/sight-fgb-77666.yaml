@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_novodvorskij_valun.jpg'
+            fgb:
+                post_id: '77666'
     -
         file: 1206db04f62fd604d130abb7f618a7ce.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9133.jpg'
+            fgb:
+                post_id: '77666'
         meta:
             author: ВалероС
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/turnyanskij_grachevnik__1499876078152__w1252.jpg'
+            fgb:
+                post_id: '97017'
 location:
     -
         type: geojson

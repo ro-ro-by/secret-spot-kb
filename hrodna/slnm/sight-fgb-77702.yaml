@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3710.jpg'
+            fgb:
+                post_id: '77702'
     -
         file: 3801442b848e5ca60bc279d88ce43671.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_strazhynae.jpg'
+            fgb:
+                post_id: '77702'
 meta:
     fgb:
         post_id: '77702'

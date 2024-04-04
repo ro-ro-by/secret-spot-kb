@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/timirazevasen-1_4624.jpg'
+            fgb:
+                post_id: '77119'
         meta:
             author: 'В. Вінакураў'
             version: 1990
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/timirazevasen-2_7913.jpg'
+            fgb:
+                post_id: '77119'
         meta:
             author: 'В. Вінакураў'
             version: 1990

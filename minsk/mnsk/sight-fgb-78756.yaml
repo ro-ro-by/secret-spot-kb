@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/qmk-wfrye-q.jpg'
+            fgb:
+                post_id: '78756'
         meta:
             author: 'Максим Астрейко'
 location:

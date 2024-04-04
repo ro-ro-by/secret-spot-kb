@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3-tulankaiue-97_2009.jpg'
+            fgb:
+                post_id: '77494'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kamen_tulanski.jpg'
+            fgb:
+                post_id: '77494'
 location:
     -
         type: point

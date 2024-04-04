@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dpnk-uoyytg.jpg'
+            fgb:
+                post_id: '83983'
         meta:
             author: 'Денис Карповец'
 location:

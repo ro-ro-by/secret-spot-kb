@@ -11,21 +11,24 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._mikulishki_4194.jpg'
+            fgb:
+                post_id: '77792'
     -
         file: 8148c12854fb061978d3fb545fed91a9.png
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2022-11-04.png'
+            fgb:
+                post_id: '77792'
     -
         file: 76b3744e1411e53e86633d166599c4fd.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_1874_4904.jpg'
+            fgb:
+                post_id: '77792'
         meta:
             author: ВалероС
 location:

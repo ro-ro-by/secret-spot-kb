@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0126_2568.jpg'
+            fgb:
+                post_id: '70802'
 meta:
     fgb:
         post_id: '70802'

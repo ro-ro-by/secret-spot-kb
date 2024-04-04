@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/bezymyannyj_0957.jpg'
+            fgb:
+                post_id: '83681'
     -
         file: 8be6daa252674964ab435429a6619373.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20191124_162950.jpg'
+            fgb:
+                post_id: '83681'
         meta:
             author: Victoryor
 location:

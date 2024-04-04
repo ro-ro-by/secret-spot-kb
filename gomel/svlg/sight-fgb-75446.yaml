@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20170521_120637_2589.jpg'
+            fgb:
+                post_id: '75446'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20170521_120753_4146.jpg'
+            fgb:
+                post_id: '75446'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/karta_melko.jpg'
+            fgb:
+                post_id: '75446'
         meta:
             author: Victoryor
 location:

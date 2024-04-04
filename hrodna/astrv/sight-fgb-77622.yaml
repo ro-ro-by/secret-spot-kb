@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/mackijskij_valun_str_1.jpg'
+            fgb:
+                post_id: '77622'
     -
         file: 7e6af2397f1a667e7d54128b1b9665bd.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/mackijskij_valun_str_3.jpg'
+            fgb:
+                post_id: '77622'
     -
         file: 26fc8d9672d5a7e385b1943d4a42395d.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8717.jpg'
+            fgb:
+                post_id: '77622'
         meta:
             author: ВалероС
 location:

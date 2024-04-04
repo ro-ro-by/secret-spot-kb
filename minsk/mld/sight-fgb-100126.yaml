@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/20230304_1246091.jpg'
+            fgb:
+                post_id: '100126'
         meta:
             author: davailamu
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/20230304_1246199.jpg'
+            fgb:
+                post_id: '100126'
         meta:
             author: davailamu
 location:

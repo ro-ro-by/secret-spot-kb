@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_2336.jpg'
+            fgb:
+                post_id: '77100'
         meta:
             author: 'В. Вінакураў'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_lidin_kamen_grechushinskij.jpg'
+            fgb:
+                post_id: '77100'
 meta:
     fgb:
         post_id: '77100'

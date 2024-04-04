@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_5736.jpg'
+            fgb:
+                post_id: '95302'
     -
         file: a687b74fa91776401eaf32b6d5fe3576.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_7110.jpg'
+            fgb:
+                post_id: '95302'
     -
         file: 09bc87cf92313417a9605d3720a3f146.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_9192.jpg'
+            fgb:
+                post_id: '95302'
     -
         file: b0f0d9f3c47845c3be8099cc6c89ae15.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/klevatishki_kartoshema.jpg'
+            fgb:
+                post_id: '95302'
 location:
     -
         type: geojson

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dubkisen_piarun_4736.jpg'
+            fgb:
+                post_id: '77134'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_0637.jpg'
+            fgb:
+                post_id: '77134'
     -
         file: c8f2b07372100ba4df051ff17764f760.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dubkisyanno.jpg'
+            fgb:
+                post_id: '77134'
 meta:
     fgb:
         post_id: '77134'

@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3224.jpg'
+            fgb:
+                post_id: '77304'
     -
         file: f6c2e410135b631ab09e816c1ecb2ce7.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamen_gudinishskinskij1.jpg'
+            fgb:
+                post_id: '77304'
     -
         file: 882b0e4feab7f0cd7350851718d19cf2.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamen_gudinishskinskij2.jpg'
+            fgb:
+                post_id: '77304'
     -
         file: 8c00fc43b793fc84d1fb06ccd833d4e3.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2025.jpg'
+            fgb:
+                post_id: '77304'
         meta:
             author: ВалероС
 location:

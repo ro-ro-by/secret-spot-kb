@@ -11,7 +11,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/250717-bykhov01.jpg'
+            fgb:
+                post_id: '96155'
 meta:
     fgb:
         post_id: '96155'

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dva_valuna_lukinskie.jpg'
+            fgb:
+                post_id: '77591'
     -
         file: 13ee3031fc9a24cc359bb147ed498b75.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_2956.jpg'
+            fgb:
+                post_id: '77591'
         meta:
             author: ВалероС
 location:

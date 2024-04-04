@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/germanishskij_valun_1_str_1.jpg'
+            fgb:
+                post_id: '77625'
         meta:
             author: ВалероС
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/germanishskij_valun_1_str_3.jpg'
+            fgb:
+                post_id: '77625'
     -
         file: 645205fa5be464060de303775e5973be.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8467_1345.jpg'
+            fgb:
+                post_id: '77625'
         meta:
             author: ВалероС
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_4940_7025.jpg'
+            fgb:
+                post_id: '70803'
         meta:
             author: B59
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_4945_3338.jpg'
+            fgb:
+                post_id: '70803'
         meta:
             author: B59
 meta:

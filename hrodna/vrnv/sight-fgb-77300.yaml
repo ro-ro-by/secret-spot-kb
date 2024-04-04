@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9596.jpg'
+            fgb:
+                post_id: '77300'
     -
         file: f7bab2c93dd052bea8a351da349819cd.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamen_provozhskoj2.jpg'
+            fgb:
+                post_id: '77300'
     -
         file: da7e2db0b1d2844937c4ec728bf39e90.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_1836.jpg'
+            fgb:
+                post_id: '77300'
         meta:
             author: ВалероС
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_1840.jpg'
+            fgb:
+                post_id: '77300'
         meta:
             author: ВалероС
 location:

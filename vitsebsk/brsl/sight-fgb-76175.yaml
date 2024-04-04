@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ielgaicbraslausk-99_3069.jpg'
+            fgb:
+                post_id: '76175'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ielgaic-braslausk-99_4428.jpg'
+            fgb:
+                post_id: '76175'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2-edagal2brasl-99_5587.jpg'
+            fgb:
+                post_id: '76175'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -41,7 +44,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/edagal1braslau-99_5983.jpg'
+            fgb:
+                post_id: '76175'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -51,7 +55,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/edagalzkbraslau-99.jpg'
+            fgb:
+                post_id: '76175'
 meta:
     fgb:
         post_id: '76175'

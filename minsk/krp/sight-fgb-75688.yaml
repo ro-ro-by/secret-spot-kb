@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1432.jpg'
+            fgb:
+                post_id: '75688'
     -
         file: 0fb1642f53b6e27b1a0b2f05fc7004db.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_2150.jpg'
+            fgb:
+                post_id: '75688'
     -
         file: efc6f555f3bff6009c9e71ef0fc7fec4.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_v_urochische_vysokie_gory.jpg'
+            fgb:
+                post_id: '75688'
 location:
     -
         type: point

@@ -11,7 +11,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/rodnik.png'
+            fgb:
+                post_id: '75098'
 location:
     -
         type: point

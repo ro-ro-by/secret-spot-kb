@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._skorzhiki.jpg'
+            fgb:
+                post_id: '77789'
     -
         file: 40259fa9f0f4f9f5e3040d7f0f60f253.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_2305.jpg'
+            fgb:
+                post_id: '77789'
         meta:
             author: ВалероС
 location:

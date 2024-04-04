@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_1415.jpg'
+            fgb:
+                post_id: '77654'
     -
         file: 5cd679726d1be1cb74f324ec4c05b2e2.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_borodovschinskij_valun.jpg'
+            fgb:
+                post_id: '77654'
         meta:
             author: ВалероС
     -
@@ -27,14 +29,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/borodovsch.png'
+            fgb:
+                post_id: '77654'
     -
         file: ef71e77bb6018a3a7b24aaaaaec9a163.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_2125.jpg'
+            fgb:
+                post_id: '77654'
         meta:
             author: ВалероС
 location:

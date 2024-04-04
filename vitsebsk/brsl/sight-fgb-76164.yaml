@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_4713.jpg'
+            fgb:
+                post_id: '76164'
     -
         file: 92097351fba658ddc06534065a1e51b5.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_8869.jpg'
+            fgb:
+                post_id: '76164'
     -
         file: 38d5569c707a7b97cd2897d6e9a2c863.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/volasbraslav-99_4187.jpg'
+            fgb:
+                post_id: '76164'
         meta:
             author: 'В. Вінакураў'
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shvolosvl.jpg'
+            fgb:
+                post_id: '76164'
 meta:
     fgb:
         post_id: '76164'

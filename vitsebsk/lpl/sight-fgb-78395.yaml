@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/4kdfl-73uja.jpg'
+            fgb:
+                post_id: '78395'
         meta:
             author: 'Зміцер Скварчэўскі'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/i1cfktuxboq.jpg'
+            fgb:
+                post_id: '78395'
         meta:
             author: 'Зміцер Скварчэўскі'
 meta:

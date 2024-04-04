@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/6-borisovpolacki_7041.jpg'
+            fgb:
+                post_id: '77027'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_0547_8492.jpg'
+            fgb:
+                post_id: '77027'
     -
         file: b2b0afa0b70fb1cf232a566d62bd0478.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_3307.jpg'
+            fgb:
+                post_id: '77027'
 meta:
     fgb:
         post_id: '77027'

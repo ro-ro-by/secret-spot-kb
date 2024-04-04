@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_0629.jpg'
+            fgb:
+                post_id: '77011'
 meta:
     fgb:
         post_id: '77011'

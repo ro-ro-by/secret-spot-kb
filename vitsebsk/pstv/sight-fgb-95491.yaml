@@ -11,14 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/poslednij_variant.jpg'
+            fgb:
+                post_id:
+                    - '95491'
+                    - '95488'
+                    - '77742'
+                    - '95490'
     -
         file: dd567052e1b59c50ce9f0f38bf4b75c9.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/narachanski.jpg'
+            fgb:
+                post_id:
+                    - '95491'
+                    - '95488'
+                    - '77742'
+                    - '95490'
 location:
     -
         type: geojson

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/tupalchsmr-86_2999.jpg'
+            fgb:
+                post_id: '77733'
         meta:
             author: 'В. Вінакураў'
             version: 1986
@@ -23,7 +24,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_7032.jpg'
+            fgb:
+                post_id: '77733'
 location:
     -
         type: point

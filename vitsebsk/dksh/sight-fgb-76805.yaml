@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chertgornudoksh-89_5689.jpg'
+            fgb:
+                post_id: '76805'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chertgrndokshyc-89_4324.jpg'
+            fgb:
+                post_id: '76805'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chortzgorndokshic-89_5421.jpg'
+            fgb:
+                post_id: '76805'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -41,7 +44,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chortmlynzhornyasavy_0144.jpg'
+            fgb:
+                post_id: '76805'
         meta:
             author: 'В. Вінакураў'
             version: 1989

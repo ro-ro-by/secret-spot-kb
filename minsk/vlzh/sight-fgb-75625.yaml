@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/27-chashaivianec.jpg'
+            fgb:
+                post_id: '75625'
         meta:
             author: 'Л.Дучиц, 2013'
 meta:

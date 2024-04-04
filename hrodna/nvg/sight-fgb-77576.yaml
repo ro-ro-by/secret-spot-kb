@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/novogrudskij_a3_s_topoosnovoj.jpg'
+            fgb:
+                post_id: '77576'
 meta:
     fgb:
         post_id: '77576'

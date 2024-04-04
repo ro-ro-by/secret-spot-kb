@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_geologicheskij_konglomerat_d._kolpaki.jpg'
+            fgb:
+                post_id: '77328'
     -
         file: 8b9443d0ab297fa9a028f3edee62465f.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9692.jpg'
+            fgb:
+                post_id: '77328'
     -
         file: 6a5ed25bd24081fac6be384c808bf9f1.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0001.jpg'
+            fgb:
+                post_id: '77328'
         meta:
             author: 'В. Вінакураў'
             version: 2000

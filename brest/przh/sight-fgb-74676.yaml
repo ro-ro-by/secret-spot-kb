@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/file.jpg'
+            fgb:
+                post_id: '74676'
         meta:
             author: irena_s
 meta:

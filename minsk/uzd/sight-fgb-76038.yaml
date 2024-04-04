@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_7069.jpg'
+            fgb:
+                post_id: '76038'
     -
         file: 26e411b96401db83b90675c7c628bd09.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/uzda-vk-87_5028.jpg'
+            fgb:
+                post_id: '76038'
         meta:
             author: 'В. Вінакураў'
             version: 1987
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/uzdzenkm-87_6649.jpg'
+            fgb:
+                post_id: '76038'
         meta:
             author: 'В. Вінакураў'
             version: 1987

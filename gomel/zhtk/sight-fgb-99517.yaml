@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/398454_900.jpg'
+            fgb:
+                post_id: '99517'
         meta:
             author: pravdaosele
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/399210_900.jpg'
+            fgb:
+                post_id: '99517'
         meta:
             author: pravdaosele
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/d960c54320787ad3539d1b41ffb85426.jpeg'
+            fgb:
+                post_id: '99517'
         meta:
             author: pravdaosele
 tree:

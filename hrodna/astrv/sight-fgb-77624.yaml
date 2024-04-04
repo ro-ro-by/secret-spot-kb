@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_6701.jpg'
+            fgb:
+                post_id: '77624'
     -
         file: 130e994fe65d1bdbf4d1a8e97dbfbf17.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/bezdanishkinskij_valun_3.jpg'
+            fgb:
+                post_id: '77624'
     -
         file: ce7c54c71f93975e1cd30886d7f42112.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8778.jpg'
+            fgb:
+                post_id: '77624'
         meta:
             author: ВалероС
 location:

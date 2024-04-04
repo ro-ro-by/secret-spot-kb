@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/photo_5325937100228511907_y.jpg'
+            fgb:
+                post_id: '102371'
         meta:
             author: 'Я. Дыкусар'
             version: 2016

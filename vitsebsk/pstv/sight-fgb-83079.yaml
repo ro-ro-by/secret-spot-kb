@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/01_8891.jpg'
+            fgb:
+                post_id: '83079'
     -
         file: 24392998354d713b6e701fd231aa71f7.jpg
         tags:
@@ -19,14 +20,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/120.jpg'
+            fgb:
+                post_id: '83079'
     -
         file: 89583497e7f57adba0ed877971c59567.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/121.jpg'
+            fgb:
+                post_id: '83079'
 meta:
     fgb:
         post_id: '83079'

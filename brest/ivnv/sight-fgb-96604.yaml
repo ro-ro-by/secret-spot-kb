@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/b268078d3a768027951ecb76a09dee621470d217_1005_1.jpg'
+            fgb:
+                post_id: '96604'
         meta:
             author: 'А. Строкач'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2023-02-18-20-45-37-293_com.instagram.android_2.jpg'
+            fgb:
+                post_id: '96604'
         meta:
             author: 'А. Строкач'
 tree:

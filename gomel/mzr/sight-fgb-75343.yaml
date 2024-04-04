@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/hfmh-ew402o.jpg'
+            fgb:
+                post_id: '75343'
         meta:
             author: 'Maximilian Mizura'
 location:

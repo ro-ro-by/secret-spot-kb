@@ -11,35 +11,40 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_2883.jpg'
+            fgb:
+                post_id: '77640'
     -
         file: c20752776073bdb3c685f828dfd02c2a.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_2689.jpg'
+            fgb:
+                post_id: '77640'
     -
         file: bf2fcf22b895871a6ff1b4dbd1d14609.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_9898.jpg'
+            fgb:
+                post_id: '77640'
     -
         file: d48ea7152469ba3504d8f6144be09c45.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/4_7144.jpg'
+            fgb:
+                post_id: '77640'
     -
         file: 569599b8875862cc6f9bbbcc0eac29e0.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/holodnyj_ruchej_kartoshema.jpg'
+            fgb:
+                post_id: '77640'
 location:
     -
         type: geojson

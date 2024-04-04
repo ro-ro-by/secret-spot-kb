@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/krinica-izbiskiy_1.jpg'
+            fgb:
+                post_id: '92225'
         meta:
             author: 'Дмитрий Ивченко'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/40858589.jpg'
+            fgb:
+                post_id: '92225'
         meta:
             author: 'Кастусь Шыталь'
             version: '29 августа 1936г'

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/chapel161_d119.jpg'
+            fgb:
+                post_id: '75096'
         meta:
             author: 'Андрей Дыбовский'
 location:

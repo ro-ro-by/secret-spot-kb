@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/qobzg_2eqpappkoy7jj15cd0ed9fw1...rplfrhx0mcl0bolfx1oxzeda3dllop.jpg'
+            fgb:
+                post_id: '101761'
 location:
     -
         type: point

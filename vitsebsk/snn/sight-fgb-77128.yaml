@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/rashodnpiarun_senna-84_8197.jpg'
+            fgb:
+                post_id: '77128'
         meta:
             author: 'В. Вінакураў'
             version: 1984
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dsc_4375.jpg'
+            fgb:
+                post_id: '77128'
         meta:
             author: LLlypuk82
     -
@@ -30,14 +32,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_5368.jpg'
+            fgb:
+                post_id: '77128'
     -
         file: 89683f672615c3229898ddaf71040d17.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_0544.jpg'
+            fgb:
+                post_id: '77128'
 location:
     -
         type: point

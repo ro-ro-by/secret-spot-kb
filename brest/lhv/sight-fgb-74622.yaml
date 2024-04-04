@@ -13,7 +13,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1506070673_kartaooptleshozlyach.jpg'
+            fgb:
+                post_id: '74622'
 meta:
     fgb:
         post_id: '74622'

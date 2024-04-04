@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20200329_125819.jpg'
+            fgb:
+                post_id: '78864'
         meta:
             author: 'Олег Савочка'
 location:

@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0450.jpg'
+            fgb:
+                post_id: '77212'
     -
         file: af03c18217b66e4d85162b96b77d5ee1.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_4046.jpg'
+            fgb:
+                post_id: '77212'
 tree:
     type: pine
 location:

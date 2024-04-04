@@ -11,7 +11,10 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/holmogory_kartoshema_9368_6185.jpg'
+            fgb:
+                post_id:
+                    - '95460'
+                    - '95461'
 location:
     -
         type: geojson

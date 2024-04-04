@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/rodnik15.05.2008.jpg'
+            fgb:
+                post_id: '96113'
         meta:
             author: 'Андрей Абрамчук'
 location:

@@ -12,21 +12,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_5847.jpg'
+            fgb:
+                post_id: '75601'
     -
         file: c33db0950fc72e98aecd903d6263258b.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_3944.jpg'
+            fgb:
+                post_id: '75601'
     -
         file: c21e6af930fb3251997a9fda6c89d8a7.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/050_5247.jpg'
+            fgb:
+                post_id: '75601'
         meta:
             author: ВалероС
 location:

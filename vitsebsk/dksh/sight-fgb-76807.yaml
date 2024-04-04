@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_0590_3250.jpg'
+            fgb:
+                post_id: '76807'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/moj_gorod_dokshicy_r...5.03.12_06.35.15.jpg'
+            fgb:
+                post_id: '76807'
 tree:
     type: pine
 location:

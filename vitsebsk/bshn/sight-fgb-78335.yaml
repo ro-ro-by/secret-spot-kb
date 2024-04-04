@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/rodnik-krivino_4.jpg'
+            fgb:
+                post_id: '78335'
         meta:
             author: 'Дмитрий Ивченко'
 location:

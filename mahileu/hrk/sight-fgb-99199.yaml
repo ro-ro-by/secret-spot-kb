@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/rscc7u0hf5u.jpg'
+            fgb:
+                post_id: '99199'
         meta:
             author: 'Maximilian Mizura'
 location:

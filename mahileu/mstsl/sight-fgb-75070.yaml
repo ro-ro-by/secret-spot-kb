@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_shirina_i_podreche.jpg'
+            fgb:
+                post_id: '75070'
 meta:
     fgb:
         post_id: '75070'

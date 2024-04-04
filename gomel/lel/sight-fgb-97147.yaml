@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/230414-danilevichi.jpg'
+            fgb:
+                post_id: '97147'
         meta:
             author: 'Сергей Кравчук'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/danil.png'
+            fgb:
+                post_id: '97147'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_4971.jpg'
+            fgb:
+                post_id: '97147'
         meta:
             author: Victoryor
 meta:

@@ -11,7 +11,11 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chernevichskij.jpg'
+            fgb:
+                post_id:
+                    - '95353'
+                    - '75530'
+                    - '75708'
 meta:
     fgb:
         post_id:

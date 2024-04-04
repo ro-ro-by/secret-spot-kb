@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zvonecbraslav-99_7444.jpg'
+            fgb:
+                post_id: '76197'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zvonecbrasl99_6056.jpg'
+            fgb:
+                post_id: '76197'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shzvonecbraslav-99.jpg'
+            fgb:
+                post_id: '76197'
 meta:
     fgb:
         post_id: '76197'

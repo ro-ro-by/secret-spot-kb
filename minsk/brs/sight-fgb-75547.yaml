@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/yzxcr1i8_-m.jpg'
+            fgb:
+                post_id: '75547'
         meta:
             author: 'Александр База'
 location:

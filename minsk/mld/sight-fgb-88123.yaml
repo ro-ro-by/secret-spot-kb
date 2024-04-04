@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/krynichka_ne_beraze_vilii.jpg'
+            fgb:
+                post_id: '88123'
         meta:
             author: 'Mikola Pankavets'
 location:

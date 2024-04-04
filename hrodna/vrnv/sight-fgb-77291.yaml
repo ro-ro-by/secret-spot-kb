@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dubincovskij_prigorok1.jpg'
+            fgb:
+                post_id: '77291'
     -
         file: 5893e00fe919fe9688f7863af45908bc.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dubincovskij_prigorok2.jpg'
+            fgb:
+                post_id: '77291'
 meta:
     fgb:
         post_id: '77291'

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kucishki_1265.jpg'
+            fgb:
+                post_id: '77607'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -23,14 +24,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_6178.jpg'
+            fgb:
+                post_id: '77607'
     -
         file: 00958bba37301ea8fcf6b75e5a3343b8.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8669.jpg'
+            fgb:
+                post_id: '77607'
         meta:
             author: ВалероС
 location:

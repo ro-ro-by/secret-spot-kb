@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/photo_2020-10-23_18-19-24.jpg'
+            fgb:
+                post_id: '96994'
         meta:
             author: 'Александр Гиль'
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/10_6854.jpg'
+            fgb:
+                post_id: '98102'
         meta:
             author: 'И. Е. Климкович'
             version: 2016

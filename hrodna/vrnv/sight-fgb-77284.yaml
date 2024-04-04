@@ -12,21 +12,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9430.jpg'
+            fgb:
+                post_id: '77284'
     -
         file: ee74b443c6051499ef1f427ec6b5e5fa.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/150625112158-048.jpg'
+            fgb:
+                post_id: '77284'
     -
         file: 6575c0d7ad8852491626ea28accff57b.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/cheslav_kamen_voronovskij_resp.jpg'
+            fgb:
+                post_id: '77284'
         meta:
             author: ВалероС
     -
@@ -35,7 +38,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3101.jpg'
+            fgb:
+                post_id: '77284'
         meta:
             author: ВалероС
     -
@@ -44,7 +48,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3103.jpg'
+            fgb:
+                post_id: '77284'
         meta:
             author: ВалероС
 location:

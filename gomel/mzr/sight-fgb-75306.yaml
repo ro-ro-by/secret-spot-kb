@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mozyrskie_ovragi.jpg'
+            fgb:
+                post_id: '75306'
     -
         file: 2ac49ff5dc6b6b4636fdde34f1a276c9.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_5557.jpg'
+            fgb:
+                post_id: '75306'
 location:
     -
         type: geojson

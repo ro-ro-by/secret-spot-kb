@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mem4.png'
+            fgb:
+                post_id: '75232'
     -
         file: 622d719622c6859c545dbf636acf1ec7.png
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mem5.png'
+            fgb:
+                post_id: '75232'
         meta:
             author: Victoryor
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_8285.jpg'
+            fgb:
+                post_id: '75232'
         meta:
             author: Victoryor
 tree:

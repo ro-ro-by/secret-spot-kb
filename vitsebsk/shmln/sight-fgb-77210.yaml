@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/vjalkamshumilin97_9711.jpg'
+            fgb:
+                post_id: '77210'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -23,7 +24,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_7468.jpg'
+            fgb:
+                post_id: '77210'
 meta:
     fgb:
         post_id: '77210'

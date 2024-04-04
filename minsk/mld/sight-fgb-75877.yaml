@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_2985.jpg'
+            fgb:
+                post_id: '75877'
     -
         file: f3e0415cff5fa35fd8954d11d78678ee.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_mayak.jpg'
+            fgb:
+                post_id: '75877'
 meta:
     fgb:
         post_id: '75877'

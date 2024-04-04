@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/vaveranskij_valun_str_1.jpg'
+            fgb:
+                post_id: '77621'
     -
         file: a048d958d197f49468a707eea8ed739c.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/vaveranskij_valun_str_3.jpg'
+            fgb:
+                post_id: '77621'
     -
         file: fc4da79c078a274a5e3c77edc1463ffa.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8461.jpg'
+            fgb:
+                post_id: '77621'
         meta:
             author: ВалероС
 location:

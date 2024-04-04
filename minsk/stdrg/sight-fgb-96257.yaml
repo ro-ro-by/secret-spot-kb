@@ -11,7 +11,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/bezymyannyj_8969.png'
+            fgb:
+                post_id: '96257'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_7780.jpg'
+            fgb:
+                post_id: '96257'
         meta:
             author: Victoryor
 location:

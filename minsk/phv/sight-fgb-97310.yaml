@@ -11,7 +11,10 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/cennye.jpg'
+            fgb:
+                post_id:
+                    - '97310'
+                    - '97308'
 location:
     -
         type: geojson

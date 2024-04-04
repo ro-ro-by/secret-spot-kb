@@ -11,7 +11,11 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/svislochsko_berezinskij_krasnokn_zhivotnye2.jpg'
+            fgb:
+                post_id:
+                    - '74823'
+                    - '75088'
+                    - '74965'
 location:
     -
         type: geojson

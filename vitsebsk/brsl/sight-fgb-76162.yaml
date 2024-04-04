@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0803.jpg'
+            fgb:
+                post_id: '76162'
     -
         file: adc981957d9b859fa64a6cf106aa2568.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9502.jpg'
+            fgb:
+                post_id: '76162'
     -
         file: f6c47d2408410e1d83d4b262f5fbe7fd.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_7021.jpg'
+            fgb:
+                post_id: '76162'
         meta:
             author: 'В. Вінакураў'
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_2602.jpg'
+            fgb:
+                post_id: '76162'
 meta:
     fgb:
         post_id: '76162'

@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/np_kartoshema.jpg'
+            fgb:
+                post_id: '96138'
     -
         file: 6cac55182386e3358d13e81d1dc4c836.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_6093.jpg'
+            fgb:
+                post_id: '96138'
     -
         file: ea0c2190398d62e34e3c2ef673fad107.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/98_8665.jpg'
+            fgb:
+                post_id: '96138'
     -
         file: a2ec8fbd2d58be7007269022882bac13.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/99_9556.jpg'
+            fgb:
+                post_id: '96138'
 meta:
     fgb:
         post_id: '96138'

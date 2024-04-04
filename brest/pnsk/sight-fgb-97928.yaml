@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/pinkovichi_(cerkov_pokrovskaya)_3_istochnik.jpg'
+            fgb:
+                post_id: '97928'
         meta:
             author: 'Николай Кузич'
 location:

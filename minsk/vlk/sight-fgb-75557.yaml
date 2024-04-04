@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/64.jpg'
+            fgb:
+                post_id: '75557'
     -
         file: 33d81d73fd40bd686df0022b2c8ec9db.jpg
         tags:
@@ -19,7 +20,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/2_9067.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06651.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -37,7 +40,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06627.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -46,7 +50,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06629.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -55,7 +60,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06630.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -64,7 +70,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06631.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
     -
@@ -73,7 +80,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dsc06632.jpg'
+            fgb:
+                post_id: '75557'
         meta:
             author: 'Александр Dehty'
 meta:

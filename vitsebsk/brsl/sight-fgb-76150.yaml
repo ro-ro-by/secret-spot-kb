@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_3305.jpg'
+            fgb:
+                post_id: '76150'
     -
         file: efa8bfee856d7e36bb68d6180a2850c9.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bulavbrasl99_8284.jpg'
+            fgb:
+                post_id: '76150'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_5934.jpg'
+            fgb:
+                post_id: '76150'
 meta:
     fgb:
         post_id: '76150'

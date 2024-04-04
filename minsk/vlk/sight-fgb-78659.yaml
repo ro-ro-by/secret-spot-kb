@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/29011647750_1e62fbfac2_b.jpg'
+            fgb:
+                post_id: '78659'
         meta:
             author: 'Александр Dehty'
 location:

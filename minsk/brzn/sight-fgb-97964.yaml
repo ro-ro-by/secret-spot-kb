@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/175446154_1154995411613026_4826919716831596541_n.jpg'
+            fgb:
+                post_id: '97964'
         meta:
             author: 'Алена Паўлоўская'
 meta:

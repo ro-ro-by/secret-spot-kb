@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_9140.jpg'
+            fgb:
+                post_id: '77211'
     -
         file: c40f13c7f5f76a0a388e68c19ffcff65.jpg
         tags:
@@ -19,7 +20,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_4598.jpg'
+            fgb:
+                post_id: '77211'
     -
         file: c6a666bd73347e710bfb997f51c8d445.jpg
         tags:
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_7657.jpg'
+            fgb:
+                post_id: '77211'
 tree:
     type: pine
 location:

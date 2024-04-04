@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511938_y.jpg'
+            fgb:
+                post_id: '103175'
         meta:
             author: 'В. С. Нікіфараў'
             version: 2009

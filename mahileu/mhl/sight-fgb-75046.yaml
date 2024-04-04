@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9277.jpg'
+            fgb:
+                post_id: '75046'
     -
         file: d4280009a44b06e4ff1d824fc9a07de4.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vekovoe_derevo_dub.jpg'
+            fgb:
+                post_id: '75046'
 tree:
     type: oak
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/p_20160102_130506-krivich.jpg'
+            fgb:
+                post_id: '78462'
 location:
     -
         type: point
