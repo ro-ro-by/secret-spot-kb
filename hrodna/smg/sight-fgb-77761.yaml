@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/20-dubatoukasmarg-w.jpg'
+            fgb:
+                post_id: '77761'
         meta:
             author: 'Л. Дучиц (2009) и И. Климкович (2017).'
 meta:

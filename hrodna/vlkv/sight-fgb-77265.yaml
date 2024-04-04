@@ -13,7 +13,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0366.jpg'
+            fgb:
+                post_id: '77265'
 meta:
     fgb:
         post_id: '77265'

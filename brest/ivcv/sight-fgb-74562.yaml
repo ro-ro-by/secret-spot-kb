@@ -13,7 +13,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_turnyanskie_chernye_berezy.jpg'
+            fgb:
+                post_id: '74562'
 location:
     -
         type: point

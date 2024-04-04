@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/6nhecv1c1si.jpg'
+            fgb:
+                post_id: '78683'
         meta:
             author: Strela
 location:

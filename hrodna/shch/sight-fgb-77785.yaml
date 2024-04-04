@@ -12,7 +12,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_8836.jpg'
+            fgb:
+                post_id: '77785'
     -
         file: c868b67a50c594d94fede4d43f0be6b5.jpg
         tags:
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_8790.jpg'
+            fgb:
+                post_id: '77785'
 location:
     -
         type: geojson

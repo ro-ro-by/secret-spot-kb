@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/355_2.jpg'
+            fgb:
+                post_id: '96108'
 tree:
     type: honey_locust
 location:

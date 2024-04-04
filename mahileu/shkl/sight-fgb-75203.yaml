@@ -13,7 +13,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_otdelno_stoyaschie_duby.jpg'
+            fgb:
+                post_id: '75203'
 location:
     -
         type: point

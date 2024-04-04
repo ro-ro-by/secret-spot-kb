@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kushlianusmarg_9449.jpg'
+            fgb:
+                post_id: '77727'
         meta:
             author: 'В. Вінакураў'
             version: 1979
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_7633.jpg'
+            fgb:
+                post_id: '77727'
     -
         file: a93b6f035414b1abf8628b0b3a10962d.jpg
         tags:
@@ -29,14 +31,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_4362.jpg'
+            fgb:
+                post_id: '77727'
     -
         file: 62d5c00ac0e571c56c5e8983a24c0386.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/150625114803-007.jpg'
+            fgb:
+                post_id: '77727'
 meta:
     fgb:
         post_id: '77727'

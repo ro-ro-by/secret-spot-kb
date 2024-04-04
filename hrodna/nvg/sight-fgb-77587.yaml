@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc01238.jpg'
+            fgb:
+                post_id: '77587'
         meta:
             author: 'Владимир Малый'
 location:

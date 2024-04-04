@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc03975.jpg'
+            fgb:
+                post_id: '75879'
         meta:
             author: 'Alexandr Dzehtsiaronak'
 location:

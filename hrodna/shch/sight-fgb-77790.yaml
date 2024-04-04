@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_valun_v_d._lyadsk_vysokij.jpg'
+            fgb:
+                post_id: '77790'
     -
         file: 86b5041f4f08d678e1b19f50599b1add.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_0717.jpg'
+            fgb:
+                post_id: '77790'
         meta:
             author: ВалероС
 location:

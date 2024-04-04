@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/photo_5325937100228511941_y_-_kopiya.jpg'
+            fgb:
+                post_id: '103910'
         meta:
             author: 'Л. У. Дучыц'
             version: 2005

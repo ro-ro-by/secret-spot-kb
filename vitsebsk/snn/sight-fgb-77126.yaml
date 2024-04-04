@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chortausenna-89_0431.jpg'
+            fgb:
+                post_id: '77126'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chort_cennenski97_0818.jpg'
+            fgb:
+                post_id: '77126'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -31,21 +33,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_0979.jpg'
+            fgb:
+                post_id: '77126'
     -
         file: adbd3f5b7d23c9dcee4e5dca596c810a.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_9117.jpg'
+            fgb:
+                post_id: '77126'
     -
         file: dc6e11cfda21d304998ecd9ea20cf352.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/150817123026-016.jpg'
+            fgb:
+                post_id: '77126'
 meta:
     fgb:
         post_id: '77126'

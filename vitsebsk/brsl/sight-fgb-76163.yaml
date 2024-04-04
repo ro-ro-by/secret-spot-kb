@@ -11,28 +11,32 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/130.jpg'
+            fgb:
+                post_id: '76163'
     -
         file: c81044810bcfb24032a58efc64b33126.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1236.jpg'
+            fgb:
+                post_id: '76163'
     -
         file: 5953f5878f9497d4f364c5ec49fbfc24.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_3004.jpg'
+            fgb:
+                post_id: '76163'
     -
         file: 55c164ca27f5354c082eed272a110700.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_5698.jpg'
+            fgb:
+                post_id: '76163'
         meta:
             author: 'В. Вінакураў'
     -
@@ -41,7 +45,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shdvorsivl_1074.jpg'
+            fgb:
+                post_id: '76163'
 meta:
     fgb:
         post_id: '76163'

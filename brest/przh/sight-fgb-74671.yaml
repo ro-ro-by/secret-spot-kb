@@ -13,7 +13,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/01_0705.jpg'
+            fgb:
+                post_id: '74671'
 location:
     -
         type: point

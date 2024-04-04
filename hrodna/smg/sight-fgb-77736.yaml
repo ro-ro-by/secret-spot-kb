@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kotau_kevlusm-94_1936.jpg'
+            fgb:
+                post_id: '77736'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -23,14 +24,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_7490.jpg'
+            fgb:
+                post_id: '77736'
     -
         file: 7ed88c127605d0039d484dd3c02e61bd.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_257.jpg'
+            fgb:
+                post_id: '77736'
         meta:
             author: ВалероС
 location:

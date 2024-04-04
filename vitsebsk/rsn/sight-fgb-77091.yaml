@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3607.jpg'
+            fgb:
+                post_id: '77091'
     -
         file: 62e43a691604e35275e0fb8b30d39fbb.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_gvozdiha.jpg'
+            fgb:
+                post_id: '77091'
 location:
     -
         type: point

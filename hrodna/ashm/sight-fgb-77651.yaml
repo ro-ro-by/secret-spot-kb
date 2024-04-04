@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_ogorodnickij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77651'
     -
         file: 381612d79aa35a0581bbf8fda36e4b54.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9160.jpg'
+            fgb:
+                post_id: '77651'
         meta:
             author: ВалероС
 location:

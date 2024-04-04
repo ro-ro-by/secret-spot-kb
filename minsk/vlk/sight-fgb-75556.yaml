@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_9229.jpg'
+            fgb:
+                post_id: '75556'
     -
         file: b1e9e5695e70c61ea4800af02894a769.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/15495575756_2a297a3a14_b.jpg'
+            fgb:
+                post_id: '75556'
         meta:
             author: 'Александр Dehty'
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lyubecki2a.jpg'
+            fgb:
+                post_id: '75556'
 location:
     -
         type: point

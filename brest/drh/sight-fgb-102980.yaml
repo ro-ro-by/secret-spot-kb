@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/radostovo._gora_krivaya_1..jpg'
+            fgb:
+                post_id: '102980'
         meta:
             author: ЗУК
 meta:

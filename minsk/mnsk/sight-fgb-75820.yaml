@@ -11,35 +11,40 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_3314.jpg'
+            fgb:
+                post_id: '75820'
     -
         file: bc4e5d548dea50809b0e13b629140946.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_4152.jpg'
+            fgb:
+                post_id: '75820'
     -
         file: b9bfc0701a30da96a655fa3781cdbb84.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_9792.jpg'
+            fgb:
+                post_id: '75820'
     -
         file: 88cc9ff696f40a743a37a9f34afccccc.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_4499.jpg'
+            fgb:
+                post_id: '75820'
     -
         file: e3a284e7a6bf9b28ca4fe2e335611764.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/pk-brest-02_5316.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2002
@@ -49,7 +54,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/prybuskaya-pk_02_6937.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2002
@@ -59,7 +65,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zahchbaltykapk-10_7292.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2010
@@ -69,7 +76,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dzed_svislach-85_9826.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1985
@@ -79,7 +87,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dzed-06_9502.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2006
@@ -89,7 +98,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/goldak_maladz-03_0335.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2003
@@ -99,7 +109,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/krbatorprk_0138.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1986
@@ -109,7 +120,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/krug_dolginov-89_7744.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -119,7 +131,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/staiki2-78_5563.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1978
@@ -129,7 +142,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/staiki3-78_6270.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1978
@@ -139,7 +153,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/staikilg-78_3958.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 1978
@@ -149,7 +164,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/stajki_2-pk-02_8001.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2002
@@ -159,7 +175,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/stajki-pk4-02_4384.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2002
@@ -169,7 +186,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/znaklsvir-pk-02_7970.jpg'
+            fgb:
+                post_id: '75820'
         meta:
             author: 'В. Вінакураў'
             version: 2002
@@ -179,14 +197,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1205.jpg'
+            fgb:
+                post_id: '75820'
     -
         file: 0b9357ca5e9db4111db6672902da5f23.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_6673.jpg'
+            fgb:
+                post_id: '75820'
 location:
     -
         type: geojson

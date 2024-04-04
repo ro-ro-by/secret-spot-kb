@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/_2014_05_07__01.41.52_sh4ara_.jpg'
+            fgb:
+                post_id: '77547'
         meta:
             author: 'Mikola Pankavets'
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/plan_zazere-badeevo2.jpg'
+            fgb:
+                post_id: '98953'
 meta:
     fgb:
         post_id: '98953'

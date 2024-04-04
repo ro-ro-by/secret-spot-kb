@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/19078247693_7656ac24e2_b.jpg'
+            fgb:
+                post_id: '75581'
         meta:
             author: 'Александр Dehty'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/19511149478_fb1623957f_b.jpg'
+            fgb:
+                post_id: '75581'
         meta:
             author: 'Александр Dehty'
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/kanstanpolle.jpg'
+            fgb:
+                post_id: '75581'
 location:
     -
         type: point

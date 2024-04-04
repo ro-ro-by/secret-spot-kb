@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_1819.jpg'
+            fgb:
+                post_id: '74829'
         meta:
             author: 'Александр 6'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0078_8194.jpg'
+            fgb:
+                post_id: '74829'
         meta:
             author: 'Александр 6'
 location:

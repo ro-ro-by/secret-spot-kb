@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_1463.jpg'
+            fgb:
+                post_id: '75902'
     -
         file: 9b426987f87bb2dab6e82719fcbe01ae.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/98_9692.jpg'
+            fgb:
+                post_id: '75902'
     -
         file: f9f22aa60fde515efc6b93b4f2d5fc24.jpg
         tags:
@@ -26,7 +28,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/99_5029.jpg'
+            fgb:
+                post_id: '75902'
 meta:
     fgb:
         post_id: '75902'

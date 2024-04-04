@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/kamenka.jpg'
+            fgb:
+                post_id: '99268'
         meta:
             author: 'Алла Мишурная'
 location:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/stefaneckie_prigorki_kartoshema.jpg'
+            fgb:
+                post_id: '77288'
     -
         file: 497a35371f5ae96a8f81053055b34fcb.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_stefaneckie_prigorki.jpg'
+            fgb:
+                post_id: '77288'
 meta:
     fgb:
         post_id: '77288'

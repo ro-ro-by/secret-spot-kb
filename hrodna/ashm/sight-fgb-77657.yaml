@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shapoval_ashm-87_4413.jpg'
+            fgb:
+                post_id: '77657'
         meta:
             author: 'В. Вінакураў'
             version: 1987
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/skrshapov_2710.jpg'
+            fgb:
+                post_id: '77657'
         meta:
             author: 'В. Вінакураў'
             version: 1987
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_4211.jpg'
+            fgb:
+                post_id: '77657'
 location:
     -
         type: point

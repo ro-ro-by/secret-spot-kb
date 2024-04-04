@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dscf1030.jpg'
+            fgb:
+                post_id: '76168'
         meta:
             author: 'Игорь Рудаковский'
 location:

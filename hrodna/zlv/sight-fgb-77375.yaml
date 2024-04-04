@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_8596_5587.jpg'
+            fgb:
+                post_id: '77375'
     -
         file: 19ab5f8bff687e949ed1cea115046d76.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_8599_1207.jpg'
+            fgb:
+                post_id: '77375'
     -
         file: 9e8af8750632c897c590105669c03a66.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/02_5137.jpg'
+            fgb:
+                post_id: '77375'
 location:
     -
         type: point

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/0_18202f_8c699102_orig.jpg'
+            fgb:
+                post_id: '77017'
         meta:
             author: 'Сергей Глиндзич'
 location:

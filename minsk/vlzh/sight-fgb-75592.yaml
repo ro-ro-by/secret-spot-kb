@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/awgustvsvalozh-97_0037.jpg'
+            fgb:
+                post_id: '75592'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3169.jpg'
+            fgb:
+                post_id: '75592'
     -
         file: fbcf3adfbc909d422dce2c3280634055.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_5969.jpg'
+            fgb:
+                post_id: '75592'
 location:
     -
         type: point

@@ -15,7 +15,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dsc_0043.jpg'
+            fgb:
+                post_id: '70785'
         meta:
             author: Victoryor
 location:

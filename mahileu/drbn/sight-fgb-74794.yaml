@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_3886.jpg'
+            fgb:
+                post_id: '74794'
     -
         file: ad6f6d1563ce96b06630099b864a4b76.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamenskij_bor.jpg'
+            fgb:
+                post_id: '74794'
 location:
     -
         type: point

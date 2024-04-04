@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/ea935b6e-fa2f-4d7f-b0e6-82530b8d5f90.jpeg'
+            fgb:
+                post_id: '99136'
         meta:
             author: Walterbox
 location:

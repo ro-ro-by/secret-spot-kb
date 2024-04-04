@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamen_tovkinskij2_3568.jpg'
+            fgb:
+                post_id: '77296'
     -
         file: a9996d10522484de9080d5a91747a39f.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_2364_9438.jpg'
+            fgb:
+                post_id: '77296'
         meta:
             author: ВалероС
 location:

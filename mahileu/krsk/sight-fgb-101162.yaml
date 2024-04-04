@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_viber_2023-03-15_17-11-52-985.jpg'
+            fgb:
+                post_id: '101162'
 meta:
     fgb:
         post_id: '101162'

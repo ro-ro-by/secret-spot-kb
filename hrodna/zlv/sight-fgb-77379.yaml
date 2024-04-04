@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/klimavick-iue97_5933.jpg'
+            fgb:
+                post_id: '77379'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/03_5477.jpg'
+            fgb:
+                post_id: '77379'
     -
         file: f1e81a7b8ddcc2f55b09304a6f954772.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3276_cr.jpg'
+            fgb:
+                post_id: '77379'
         meta:
             author: ВалероС
     -
@@ -37,7 +40,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3279.jpg'
+            fgb:
+                post_id: '77379'
         meta:
             author: ВалероС
 location:

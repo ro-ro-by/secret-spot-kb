@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/s1710001.jpg'
+            fgb:
+                post_id: '76048'
         meta:
             author: 'ПИГ Стрела'
 location:

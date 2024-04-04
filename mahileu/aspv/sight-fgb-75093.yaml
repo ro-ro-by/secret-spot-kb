@@ -11,21 +11,24 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_etalonnoe_nasazhdenie1.jpg'
+            fgb:
+                post_id: '75093'
     -
         file: 830e934ae728bc59951df7d0d70f1d57.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_etalonnoe_nasazhdenie2.jpg'
+            fgb:
+                post_id: '75093'
     -
         file: 5da44532b48e469d300d66a25dffb98d.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dji_0284.jpg'
+            fgb:
+                post_id: '75093'
         meta:
             author: Victoryor
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_3517_7601.jpg'
+            fgb:
+                post_id: '75093'
         meta:
             author: Victoryor
     -
@@ -43,7 +47,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_3529.jpg'
+            fgb:
+                post_id: '75093'
         meta:
             author: Victoryor
 location:

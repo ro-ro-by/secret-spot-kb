@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2020_05_02_volha_siamaszka_kamien_abramovicz_1.jpg'
+            fgb:
+                post_id: '96561'
     -
         file: d058c2781d288ef7bfd0d7d0eb98911b.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2020_05_02_volha_siamaszka_kamien_abramovicz_5_logo.jpg'
+            fgb:
+                post_id: '96561'
     -
         file: a128f719a11175df5ccb9c086ad30052.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2020_05_02_volha_siamaszka_kamien_abramovicz_7_logo.jpg'
+            fgb:
+                post_id: '96561'
 location:
     -
         type: point

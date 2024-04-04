@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kuelskij_kartoshema.jpg'
+            fgb:
+                post_id: '75950'
     -
         file: 0659ef088c38f7cb061ce9290f6ca7c9.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_6921.jpg'
+            fgb:
+                post_id: '75950'
     -
         file: c9baf78adcaf20e9c5c2ce7037418f21.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/98_7176.jpg'
+            fgb:
+                post_id: '75950'
 location:
     -
         type: point

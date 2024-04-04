@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0360.jpg'
+            fgb:
+                post_id: '95459'
     -
         file: 520da36fe7aafb416ac89ae6f2ebe338.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ed90207044f4374d8a7731a293e7388e.jpg'
+            fgb:
+                post_id: '95459'
 location:
     -
         type: geojson

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/100.jpg'
+            fgb:
+                post_id: '75614'
     -
         file: fcde3230d1b6ed46217ce253eb79ca28.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_dub_velikan.jpg'
+            fgb:
+                post_id: '75614'
 tree:
     type: oak
 meta:

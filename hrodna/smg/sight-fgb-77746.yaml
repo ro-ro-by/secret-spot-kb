@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_sutkovskij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77746'
     -
         file: c2fc9ca2e854407a62bb1a344c803bb3.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9591.jpg'
+            fgb:
+                post_id: '77746'
         meta:
             author: ВалероС
 location:

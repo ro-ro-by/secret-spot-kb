@@ -12,7 +12,10 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/smychok.jpg'
+            fgb:
+                post_id:
+                    - '95470'
+                    - '95471'
 location:
     -
         type: geojson

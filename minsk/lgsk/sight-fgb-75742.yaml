@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2d3_04_croco67.jpg'
+            fgb:
+                post_id: '75742'
         meta:
             author: 'Сергей Глиндзич'
 location:

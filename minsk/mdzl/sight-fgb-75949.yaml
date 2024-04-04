@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/97_2806.jpg'
+            fgb:
+                post_id: '75949'
     -
         file: f2401b49c10743d1bfc54c8a46f0268e.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mlyn_kartoshema.jpg'
+            fgb:
+                post_id: '75949'
 location:
     -
         type: point

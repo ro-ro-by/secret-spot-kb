@@ -15,7 +15,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/59c4f9c8de1ac44dd988a36113e4e5d70b3f1494_dub.jpg'
+            fgb:
+                post_id: '96044'
 location:
     -
         type: point

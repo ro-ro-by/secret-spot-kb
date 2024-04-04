@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_sutkovskie_glyby_konglomeratov.jpg'
+            fgb:
+                post_id: '77757'
     -
         file: 53f341b47629d4e21dcd167bbfa42785.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9642.jpg'
+            fgb:
+                post_id: '77757'
         meta:
             author: ВалероС
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9655.jpg'
+            fgb:
+                post_id: '77757'
         meta:
             author: ВалероС
     -
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9627.jpg'
+            fgb:
+                post_id: '77757'
         meta:
             author: ВалероС
 location:

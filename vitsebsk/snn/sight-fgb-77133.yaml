@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/medvedpushkarysen-89_4159.jpg'
+            fgb:
+                post_id: '77133'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/medvedsyanno-89.jpg'
+            fgb:
+                post_id: '77133'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/pushkarysyanno.jpg'
+            fgb:
+                post_id: '77133'
 meta:
     fgb:
         post_id: '77133'

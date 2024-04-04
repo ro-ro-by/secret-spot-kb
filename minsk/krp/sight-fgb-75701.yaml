@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2021-08-07_11-49-49.jpg'
+            fgb:
+                post_id: '75701'
         meta:
             author: 'Белавская А.'
 location:

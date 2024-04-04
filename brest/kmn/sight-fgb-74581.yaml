@@ -13,14 +13,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_verhovichskij_plyuschevnik.jpg'
+            fgb:
+                post_id: '74581'
     -
         file: f741de2b9d48a33e69c3336830fb543a.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/verhovichi_.roty.jpg'
+            fgb:
+                post_id: '74581'
         meta:
             author: ЗУК
 location:

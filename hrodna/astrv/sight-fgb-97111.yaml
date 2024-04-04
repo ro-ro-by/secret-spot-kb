@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/44-i.jpg'
+            fgb:
+                post_id: '97111'
         meta:
             author: 'А. Павловская'
             version: 2019
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/45-2.jpg'
+            fgb:
+                post_id: '97111'
         meta:
             author: 'А. Павловская, 2019'
             version: 2019

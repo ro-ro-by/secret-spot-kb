@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_4870.jpg'
+            fgb:
+                post_id: '77298'
         meta:
             author: ВалероС
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_valun_dajnovskij2.jpg'
+            fgb:
+                post_id: '77298'
     -
         file: 5190c8c2e93afd80cbafc879956104b0.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3289.jpg'
+            fgb:
+                post_id: '77298'
         meta:
             author: ВалероС
 location:

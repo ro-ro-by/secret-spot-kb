@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_7760.jpg'
+            fgb:
+                post_id: '77297'
     -
         file: 580590dac478c2929e2e9eb28abc724a.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_kamen_malinovschinskij2.jpg'
+            fgb:
+                post_id: '77297'
     -
         file: 9c16a7d9d9f1d0248636fd1810c95e9b.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_3329_4800.jpg'
+            fgb:
+                post_id: '77297'
         meta:
             author: ВалероС
 location:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_8105.jpg'
+            fgb:
+                post_id: '76149'
     -
         file: 36f706cecab4af1e769c460ea910f7d1.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/pastuhbraslau-99_2900.jpg'
+            fgb:
+                post_id: '76149'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_1729.jpg'
+            fgb:
+                post_id: '76149'
 meta:
     fgb:
         post_id: '76149'

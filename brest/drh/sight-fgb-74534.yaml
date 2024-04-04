@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/32742710643_dabec4c12f_b.jpg'
+            fgb:
+                post_id: '74534'
     -
         file: 380997c153bb9912654ec7573b63b9f2.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/12_1826.jpg'
+            fgb:
+                post_id: '74534'
 tree:
     type: carya
 location:

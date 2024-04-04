@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bukovichbyarezinsk-87_7644.jpg'
+            fgb:
+                post_id: '70800'
         meta:
             author: 'В. Вінакураў'
             version: 1987

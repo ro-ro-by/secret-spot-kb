@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_1868.jpg'
+            fgb:
+                post_id: '75142'
     -
         file: a845c67e091d5bb6db1150477f0d687c.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_8675.jpg'
+            fgb:
+                post_id: '75142'
 location:
     -
         type: point

@@ -13,14 +13,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0370.jpg'
+            fgb:
+                post_id: '77206'
     -
         file: 5ca19213b786c36cbd9f6e625d09ac81.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/104.jpg'
+            fgb:
+                post_id: '77206'
         meta:
             author: oleg_k16
 location:

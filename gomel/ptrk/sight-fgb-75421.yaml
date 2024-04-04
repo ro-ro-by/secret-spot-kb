@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/148.jpg'
+            fgb:
+                post_id: '75421'
     -
         file: 05591aefa152de5f0a87eb84c6ea1219.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_9252_2820.jpg'
+            fgb:
+                post_id: '75421'
         meta:
             author: N-35
 location:

@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_vaschinnickij_valun.jpg'
+            fgb:
+                post_id: '77664'
     -
         file: b9b02496b5a18445bb0116c5bb792fc4.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9001.jpg'
+            fgb:
+                post_id: '77664'
         meta:
             author: ВалероС
 location:

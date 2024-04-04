@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_martishkinskij_valun.jpg'
+            fgb:
+                post_id: '77755'
     -
         file: e7341905ea73c4b4746a26d80929e423.png
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/martish.png'
+            fgb:
+                post_id: '77755'
 location:
     -
         type: point

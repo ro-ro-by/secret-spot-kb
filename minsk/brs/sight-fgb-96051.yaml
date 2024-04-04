@@ -11,7 +11,10 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shema_borisovskij_krasnokn_i_cennye_soobsches.jpg'
+            fgb:
+                post_id:
+                    - '96051'
+                    - '96052'
 location:
     -
         type: geojson

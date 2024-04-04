@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/gukgel_94_4511.jpg'
+            fgb:
+                post_id: '77620'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -23,21 +24,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_1.jpg'
+            fgb:
+                post_id: '77620'
     -
         file: ee2be166c83728eebf60f62473c63824.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/aleksandrijskij_bolshoj_kamen_str_3.jpg'
+            fgb:
+                post_id: '77620'
     -
         file: 10fa506e1c8c7c6308fdfc43ccfa84d5.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/alek.jpg'
+            fgb:
+                post_id: '77620'
 location:
     -
         type: point

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/dscf4078.jpg'
+            fgb:
+                post_id: '74610'
         meta:
             author: mat_set
 location:

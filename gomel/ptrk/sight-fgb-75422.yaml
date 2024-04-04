@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_park_shklyarevskogo.jpg'
+            fgb:
+                post_id: '75422'
     -
         file: bb48f91e845964b50b051508ea4ee5ca.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/laureat_gospremii33.jpg'
+            fgb:
+                post_id: '75422'
     -
         file: b39e202473f0abaf20642210219d9042.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/laureat_gospremii22.jpg'
+            fgb:
+                post_id: '75422'
 location:
     -
         type: point

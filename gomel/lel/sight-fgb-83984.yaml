@@ -11,14 +11,20 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/startyi-zhaden.jpg'
+            fgb:
+                post_id:
+                    - '83984'
+                    - '97387'
     -
         file: 574690f1931613e5b8a9f5b53397ba5a.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_0916.jpg'
+            fgb:
+                post_id:
+                    - '83984'
+                    - '97387'
 location:
     -
         type: geojson

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2021-11-02_dji_0010676_01.jpg'
+            fgb:
+                post_id: '79521'
         meta:
             author: Prusaker
 location:

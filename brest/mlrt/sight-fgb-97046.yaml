@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/oltushskaya_beryoza__1499875556554__w1388.jpg'
+            fgb:
+                post_id: '97046'
 tree:
     type: birch_black
 location:

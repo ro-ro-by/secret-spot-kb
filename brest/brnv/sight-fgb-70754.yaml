@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kryzh-palanechka.jpg'
+            fgb:
+                post_id: '70754'
         meta:
             author: 'Л. У. Дучыц'
             version: 2003
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chashapalanechka.jpg'
+            fgb:
+                post_id: '70754'
         meta:
             author: 'Л. У. Дучыц'
             version: 2003

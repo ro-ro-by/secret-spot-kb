@@ -11,14 +11,20 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_6031.jpg'
+            fgb:
+                post_id:
+                    - '95455'
+                    - '95454'
     -
         file: 508eed8b4fc684eedfb28a0bb291bebe.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/elnya.jpg'
+            fgb:
+                post_id:
+                    - '95455'
+                    - '95454'
 location:
     -
         type: geojson

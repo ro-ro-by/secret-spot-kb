@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gontovlya1.jpg'
+            fgb:
+                post_id: '74797'
     -
         file: e02e5251538e14a9d5abaac314734e1c.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_shema_gontovlya2.jpg'
+            fgb:
+                post_id: '74797'
 location:
     -
         type: point

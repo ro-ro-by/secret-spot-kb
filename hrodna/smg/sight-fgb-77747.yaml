@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_seleckij_valun.jpg'
+            fgb:
+                post_id: '77747'
     -
         file: c69e21bb8a44ee5fdc436651b4f337aa.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9686.jpg'
+            fgb:
+                post_id: '77747'
         meta:
             author: ВалероС
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_1176.jpg'
+            fgb:
+                post_id: '101797'
         meta:
             author: 'Л. У. Дучыц'
             version: 2010
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_0312.jpg'
+            fgb:
+                post_id: '101797'
     -
         file: 7e4553a4014ba5c5df3ada607edb21ec.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/de4ebcdefa6bd0848b9715bc4c2ce0ef_-1.jpg'
+            fgb:
+                post_id: '101797'
         meta:
             author: Victoryor
 location:

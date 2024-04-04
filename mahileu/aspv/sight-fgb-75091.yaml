@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_zhornovskij_dendrosad.jpg'
+            fgb:
+                post_id: '75091'
     -
         file: 23444f968d1fbbc4de4e6941aad8efa8.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0334.jpg'
+            fgb:
+                post_id: '75091'
         meta:
             author: Victoryor
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0336.jpg'
+            fgb:
+                post_id: '75091'
         meta:
             author: Victoryor
     -
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0337.jpg'
+            fgb:
+                post_id: '75091'
         meta:
             author: Victoryor
 location:

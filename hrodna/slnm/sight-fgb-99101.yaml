@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/fdfb637fb2cb.jpg'
+            fgb:
+                post_id: '99101'
         meta:
             author: Nikolai
 meta:

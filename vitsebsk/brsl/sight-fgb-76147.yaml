@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_0947.jpg'
+            fgb:
+                post_id: '76147'
     -
         file: 04c8c7ef19735cf4b5dfc3e220a65888.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/karovbraslau-99_8025.jpg'
+            fgb:
+                post_id: '76147'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shchernvl.jpg'
+            fgb:
+                post_id: '76147'
 meta:
     fgb:
         post_id: '76147'

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/r_wberz.jpg'
+            fgb:
+                post_id: '78741'
         meta:
             author: 'Сергей Глиндзич'
 location:

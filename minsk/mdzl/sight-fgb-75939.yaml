@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc02789a_degen1103.jpg'
+            fgb:
+                post_id: '75939'
         meta:
             author: Degen1103
 location:

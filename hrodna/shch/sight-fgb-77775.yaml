@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3-pugachisch_5929.jpg'
+            fgb:
+                post_id: '77775'
         meta:
             author: 'В. Вінакураў'
             version: 2001
@@ -23,21 +24,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_1524.jpg'
+            fgb:
+                post_id: '77775'
     -
         file: 457d0c064bbe9ce665103e4ddb5b9fce.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_4747.jpg'
+            fgb:
+                post_id: '77775'
     -
         file: 265dfd35b8bf25edf1ab78789ff607e3.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_(2).jpg'
+            fgb:
+                post_id: '77775'
 meta:
     fgb:
         post_id: '77775'

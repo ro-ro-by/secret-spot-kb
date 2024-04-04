@@ -15,7 +15,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_pojmennaya_dubrava.jpg'
+            fgb:
+                post_id: '70786'
 location:
     -
         type: point

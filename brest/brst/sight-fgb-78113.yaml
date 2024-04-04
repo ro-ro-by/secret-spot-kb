@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/rodnik9.02.2020-3.jpg'
+            fgb:
+                post_id: '78113'
         meta:
             author: 'Иван Прокопюк'
 location:

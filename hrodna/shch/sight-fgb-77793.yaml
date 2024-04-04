@@ -11,21 +11,24 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_valun_v_d._yakubovichi.jpg'
+            fgb:
+                post_id: '77793'
     -
         file: 11b93274ba074306f738fed25a876b66.png
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2022-10-18_(4)_3403.png'
+            fgb:
+                post_id: '77793'
     -
         file: 76ab506ca520f752fdc352fe2631f9b3.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_3240.jpg'
+            fgb:
+                post_id: '77793'
         meta:
             author: ВалероС
     -
@@ -34,7 +37,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2022-10-18_(5)_0492.png'
+            fgb:
+                post_id: '77793'
         meta:
             author: ВалероС
     -
@@ -43,7 +47,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/yaku-b.png'
+            fgb:
+                post_id: '77793'
         meta:
             author: ВалероС
 location:

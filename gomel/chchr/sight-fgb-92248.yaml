@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/zal41.jpg'
+            fgb:
+                post_id: '92248'
         meta:
             author: 'Александр 6'
 location:

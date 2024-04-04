@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/makasichvalog-88_4950.jpg'
+            fgb:
+                post_id: '75596'
         meta:
             author: 'В. Вінакураў'
             version: 1988
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/frgmakasichvalozhyn-88_8231.jpg'
+            fgb:
+                post_id: '75596'
         meta:
             author: 'В. Вінакураў'
             version: 1988
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mokasval-97_4182.jpg'
+            fgb:
+                post_id: '75596'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -41,7 +44,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1445.jpg'
+            fgb:
+                post_id: '75596'
     -
         file: e1905be98e00e17fb7e324ffe3b50a50.jpg
         tags:
@@ -49,7 +53,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_5489.jpg'
+            fgb:
+                post_id: '75596'
 location:
     -
         type: point

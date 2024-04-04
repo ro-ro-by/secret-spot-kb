@@ -13,21 +13,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_5438.jpg'
+            fgb:
+                post_id: '75087'
     -
         file: ef2ddee98ed6da561aa4f6bf033dbe67.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_1838.jpg'
+            fgb:
+                post_id: '75087'
     -
         file: 806f8a1e40331ad6a9d4a0af92587122.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0514.jpg'
+            fgb:
+                post_id: '75087'
         meta:
             author: Victoryor
     -
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0357.jpg'
+            fgb:
+                post_id: '75087'
         meta:
             author: Victoryor
     -
@@ -45,7 +49,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0369.jpg'
+            fgb:
+                post_id: '75087'
         meta:
             author: Victoryor
     -
@@ -54,7 +59,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0501.jpg'
+            fgb:
+                post_id: '75087'
         meta:
             author: Victoryor
 location:

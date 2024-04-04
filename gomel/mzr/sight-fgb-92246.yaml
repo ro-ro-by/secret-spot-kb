@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/wp_20180926_15_07_49_pro.jpg'
+            fgb:
+                post_id: '92246'
         meta:
             author: 'Антон Комаров'
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/chortau_kvyaleckiglyb_2860.jpg'
+            fgb:
+                post_id: '76690'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_4576.jpg'
+            fgb:
+                post_id: '76690'
     -
         file: 07fa33728f210ee4f7b239a598408299.jpg
         tags:
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_4704.jpg'
+            fgb:
+                post_id: '76690'
     -
         file: 18f681979e69ca5565ea61f78c4194c8.jpg
         tags:
@@ -37,7 +40,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/vyalec_4124_6993.jpg'
+            fgb:
+                post_id: '76690'
 location:
     -
         type: point

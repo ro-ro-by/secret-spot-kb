@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/z19-zarove_06.jpg'
+            fgb:
+                post_id: '98009'
         meta:
             author: 'Сергей Глиндзич'
 location:

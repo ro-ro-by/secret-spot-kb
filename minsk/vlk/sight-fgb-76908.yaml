@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/kamen_katloucy_lyudm...arusi_(2011)_139.jpg'
+            fgb:
+                post_id: '76908'
     -
         file: 49ed1ca43110de5299fb88b6f9e23a0e.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/18996161321_f07cb5b328_b.jpg'
+            fgb:
+                post_id: '76908'
         meta:
             author: 'Александр Dehty'
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/18805394590_28094e265c_b.jpg'
+            fgb:
+                post_id: '76908'
         meta:
             author: 'Александр Dehty'
     -
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/katloucy_2404.jpg'
+            fgb:
+                post_id: '76908'
 location:
     -
         type: point

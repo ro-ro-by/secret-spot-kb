@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/41_2543.jpg'
+            fgb:
+                post_id: '75779'
     -
         file: 51a48b45c0f657fe2c78d8715941dad4.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0006.jpg'
+            fgb:
+                post_id: '75779'
         meta:
             author: 'В. Вінакураў'
             version: 1994

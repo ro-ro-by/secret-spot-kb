@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/akopu_lagoisk-89_4757.jpg'
+            fgb:
+                post_id: '75751'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_9420_4090.jpg'
+            fgb:
+                post_id: '75751'
 meta:
     fgb:
         post_id: '75751'

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kaptrv-97-post_4612.jpg'
+            fgb:
+                post_id: '77065'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_0113.jpg'
+            fgb:
+                post_id: '77065'
     -
         file: 097a36b979a4ed9a4be1404862baff4a.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_6377.jpg'
+            fgb:
+                post_id: '77065'
     -
         file: de4f4f4ab4fe66624d0c5173854be399.jpg
         tags:
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/088_0608.jpg'
+            fgb:
+                post_id: '77065'
 location:
     -
         type: point

@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.04.55.jpg'
+            fgb:
+                post_id: '76830'
     -
         file: c032afdb5fd578044824a9b3527fa461.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/moj_gorad_lepel.avi_...5.03.07_11.05.14.jpg'
+            fgb:
+                post_id: '76830'
     -
         file: 42e54dfd14648025c620e59451d84603.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0005.jpg'
+            fgb:
+                post_id: '76830'
         meta:
             author: 'І. Клімковіч'
             version: 2011

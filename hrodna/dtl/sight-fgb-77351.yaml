@@ -11,7 +11,11 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lipichanskaya_puscha.jpg'
+            fgb:
+                post_id:
+                    - '77351'
+                    - '78590'
+                    - '77800'
 location:
     -
         type: geojson

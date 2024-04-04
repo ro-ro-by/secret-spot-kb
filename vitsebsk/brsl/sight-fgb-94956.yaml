@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/maskaucbraslav99_0424.jpg'
+            fgb:
+                post_id: '94956'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zamakmaskavick99_6177.jpg'
+            fgb:
+                post_id: '94956'
         meta:
             author: 'В. Вінакураў'
             version: 1999

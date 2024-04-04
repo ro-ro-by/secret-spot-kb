@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/7u-io8q1byk.jpg'
+            fgb:
+                post_id: '75267'
         meta:
             author: 'Максим Мотыгин'
 location:

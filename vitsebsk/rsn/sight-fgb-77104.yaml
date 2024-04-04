@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_5243.jpg'
+            fgb:
+                post_id: '77104'
         meta:
             author: 'В. Вінакураў'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shemticheskaya_karta_izbischenskij_bolshoj_kamen.jpg'
+            fgb:
+                post_id: '77104'
 meta:
     fgb:
         post_id: '77104'

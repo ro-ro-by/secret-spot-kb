@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_derevo_duba_chershchatogo.jpg'
+            fgb:
+                post_id: '75768'
 tree:
     type: oak
 location:

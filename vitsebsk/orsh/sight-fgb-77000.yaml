@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/krinica-berestenovo_1.jpg'
+            fgb:
+                post_id: '77000'
         meta:
             author: 'Дмитрий Ивченко'
 location:

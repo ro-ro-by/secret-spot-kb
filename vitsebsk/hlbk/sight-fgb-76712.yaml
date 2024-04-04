@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/novyj_risunok_(3)_3122.jpg'
+            fgb:
+                post_id: '76712'
 location:
     -
         type: point

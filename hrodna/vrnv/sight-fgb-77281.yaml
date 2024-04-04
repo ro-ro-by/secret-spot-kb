@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/tavkine2voran96_2505.jpg'
+            fgb:
+                post_id: '77281'
         meta:
             author: 'В. Вінакураў'
             version: 1996
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/tavkinevoranausk96_4890.jpg'
+            fgb:
+                post_id: '77281'
         meta:
             author: 'В. Вінакураў'
             version: 1996
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/150625111733-027.jpg'
+            fgb:
+                post_id: '77281'
 location:
     -
         type: point

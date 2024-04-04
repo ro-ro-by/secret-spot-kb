@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zabalac-iue97_0398.jpg'
+            fgb:
+                post_id: '77480'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,14 +22,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_3203.jpg'
+            fgb:
+                post_id: '77480'
     -
         file: 548ccbb9842110e19829d80e56b20d2f.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/valun_z_yamkami_zabalacki.jpg'
+            fgb:
+                post_id: '77480'
 location:
     -
         type: point

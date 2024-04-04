@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4paromec.jpg'
+            fgb:
+                post_id: '95748'
         meta:
             author: 'Людмила Дучиц, Ирина Климкович'
 tree:

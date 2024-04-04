@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0209.jpg'
+            fgb:
+                post_id: '77121'
         meta:
             author: 'Александр Демидов'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_1061.jpg'
+            fgb:
+                post_id: '77121'
 location:
     -
         type: point

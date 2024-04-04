@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kniazbiarozauschina-78_0650.jpg'
+            fgb:
+                post_id: '75532'
         meta:
             author: 'В. Вінакураў'
             version: 1978
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_8379.jpg'
+            fgb:
+                post_id: '75532'
 location:
     -
         type: point

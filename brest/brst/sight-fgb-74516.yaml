@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_7522.jpg'
+            fgb:
+                post_id: '74516'
     -
         file: 74d38cbe8cc074095f9685c8086245e9.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_brestskij.jpg'
+            fgb:
+                post_id: '74516'
 location:
     -
         type: geojson

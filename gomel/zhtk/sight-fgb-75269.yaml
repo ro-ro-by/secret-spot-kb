@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_7883.jpg'
+            fgb:
+                post_id: '75269'
     -
         file: f400e3c4c74932d4530cccc9c5fb33cf.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/karta_1_nasazhdenie_duba_i_berezy_lyudenevichskoe_lesnichestvo.jpg'
+            fgb:
+                post_id: '75269'
     -
         file: 1d2c5f257ee00009bc59fdce3eb94997.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/karta_2_nasazhdenie_duba_i_berezy_zhitkovichskoe_lesnichestvo.jpg'
+            fgb:
+                post_id: '75269'
 location:
     -
         type: point

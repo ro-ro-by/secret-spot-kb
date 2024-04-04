@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shklennikavmyadzel-95_6102.jpg'
+            fgb:
+                post_id: '75909'
         meta:
             author: 'В. Вінакураў'
             version: 1995

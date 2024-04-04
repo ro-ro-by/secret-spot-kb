@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20200812_121817.jpg'
+            fgb:
+                post_id: '76720'
         meta:
             author: 'Юрий Соловьёв'
     -
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/novyj_risunok_(13)_6733.jpg'
+            fgb:
+                post_id: '76720'
 location:
     -
         type: point

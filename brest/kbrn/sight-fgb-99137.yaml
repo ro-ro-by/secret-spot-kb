@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/_(lozhe_kamennoe)_1.jpg'
+            fgb:
+                post_id: '99137'
         meta:
             author: 'Николай Кузич'
 meta:

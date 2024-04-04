@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/valun-1-07022018.jpg'
+            fgb:
+                post_id: '95367'
 meta:
     fgb:
         post_id: '95367'

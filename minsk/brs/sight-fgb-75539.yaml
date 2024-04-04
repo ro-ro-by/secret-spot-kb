@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/hoz1_z4.jpg'
+            fgb:
+                post_id: '75539'
         meta:
             author: 'Юрий Шамкалович'
 location:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_park_pobedy_v_g._myadel_2.jpg'
+            fgb:
+                post_id: '75920'
 location:
     -
         type: point

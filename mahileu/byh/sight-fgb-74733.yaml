@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_2772.jpg'
+            fgb:
+                post_id: '74733'
     -
         file: c732239602634514e0a3024ac19ba77e.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/barsuki.jpg'
+            fgb:
+                post_id: '74733'
         meta:
             author: Антон-1983
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0221_1910.jpg'
+            fgb:
+                post_id: '74733'
         meta:
             author: Victoryor
     -
@@ -36,7 +39,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_2703_5479.jpg'
+            fgb:
+                post_id: '74733'
         meta:
             author: Victoryor
 tree:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/hojniki22_(2).jpg'
+            fgb:
+                post_id: '97007'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/bezymyannyj_1019.png'
+            fgb:
+                post_id: '97007'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dsc_3822.jpg'
+            fgb:
+                post_id: '97007'
         meta:
             author: Victoryor
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/dsc_3827.jpg'
+            fgb:
+                post_id: '97007'
         meta:
             author: Victoryor
 tree:

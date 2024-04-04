@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20170411_165236_img_20170411_165308-5tx.jpg'
+            fgb:
+                post_id: '86903'
         meta:
             author: 'Юрий Щербаков'
 location:

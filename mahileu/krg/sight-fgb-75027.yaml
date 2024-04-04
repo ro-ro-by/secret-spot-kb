@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_krinica-2_2.jpg'
+            fgb:
+                post_id: '75027'
     -
         file: 4c8ad5bb979886f7beead66404d2c6bc.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9143.jpg'
+            fgb:
+                post_id: '75027'
 location:
     -
         type: point

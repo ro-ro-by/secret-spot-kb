@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/paligon04.jpg'
+            fgb:
+                post_id: '86902'
         meta:
             author: Degen1103
 location:

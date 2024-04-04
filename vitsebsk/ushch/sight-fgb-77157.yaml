@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_rodnik_borkovschina.jpg'
+            fgb:
+                post_id: '77157'
     -
         file: ba5a3017b2e6918771e2bdfbbc8199a3.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_8003.jpg'
+            fgb:
+                post_id: '77157'
 location:
     -
         type: point

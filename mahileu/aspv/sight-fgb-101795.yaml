@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2022-10-10_15-26-05.jpg'
+            fgb:
+                post_id: '101795'
         meta:
             author: 'Анна Белавская'
 location:

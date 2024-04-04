@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/image005_5549.jpg'
+            fgb:
+                post_id: '96124'
 location:
     -
         type: geojson

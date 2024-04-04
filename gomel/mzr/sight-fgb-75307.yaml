@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_3_kart-shema_1.jpg'
+            fgb:
+                post_id: '75307'
     -
         file: 9cb3b3142a42495772444d8d0cb6b4d5.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/nasazhdenie_duba_chereshchatogo_3_kart-shema_2.jpg'
+            fgb:
+                post_id: '75307'
 location:
     -
         type: point

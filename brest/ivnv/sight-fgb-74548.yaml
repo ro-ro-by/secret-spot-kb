@@ -13,21 +13,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/vejmutovy_sosny__1500408772101__w1500.jpg'
+            fgb:
+                post_id: '74548'
     -
         file: 7bbff57e1c08a5b63f02774eaa11d55c.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3615.jpg'
+            fgb:
+                post_id: '74548'
     -
         file: 93037d787106bac25d6564574f8cfe57.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_3465.jpg'
+            fgb:
+                post_id: '74548'
 location:
     -
         type: point

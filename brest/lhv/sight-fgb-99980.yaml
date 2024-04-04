@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/potapovichi_(kamni_s_nadpisyami_1683g.)_1_.jpg'
+            fgb:
+                post_id: '99980'
 meta:
     fgb:
         post_id: '99980'

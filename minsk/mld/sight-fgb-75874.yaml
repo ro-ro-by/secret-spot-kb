@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_9894.jpg'
+            fgb:
+                post_id: '75874'
     -
         file: 384ffd3a5d3e9ede667d9a03624d80e5.jpg
         tags:
@@ -19,14 +20,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_1220.jpg'
+            fgb:
+                post_id: '75874'
     -
         file: b6a09fb4289741ddac7cdd482a1fd577.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_gora_koplanschina.jpg'
+            fgb:
+                post_id: '75874'
 meta:
     fgb:
         post_id: '75874'

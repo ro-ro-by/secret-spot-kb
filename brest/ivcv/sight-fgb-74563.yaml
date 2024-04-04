@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_9380_3174.jpg'
+            fgb:
+                post_id: '74563'
     -
         file: 1315391d3f39230c304ec14beec109f2.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_bobrovichskij_dub1.jpg'
+            fgb:
+                post_id: '74563'
     -
         file: ead034166fc993314bbd733f23cbe8b8.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/bobrovichi.jpg'
+            fgb:
+                post_id: '74563'
 tree:
     type: oak
 location:

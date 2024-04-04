@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_2457_9829.jpg'
+            fgb:
+                post_id: '77731'
     -
         file: 2ac82ccee0e7dd5dc04d2ad80b8b653d.jpg
         tags:
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_2120.jpg'
+            fgb:
+                post_id: '77731'
 location:
     -
         type: point

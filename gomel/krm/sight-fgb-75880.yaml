@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_5411_2.jpg'
+            fgb:
+                post_id: '75880'
         meta:
             author: 'Александр 6'
 location:

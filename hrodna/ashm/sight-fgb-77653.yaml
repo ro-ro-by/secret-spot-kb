@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_mostivilishskij_valun.jpg'
+            fgb:
+                post_id: '77653'
     -
         file: f0fafacad673e3a90804f7916714315b.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9112.jpg'
+            fgb:
+                post_id: '77653'
         meta:
             author: ВалероС
 location:

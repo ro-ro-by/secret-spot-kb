@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_valun_v_d._kostenevo.jpg'
+            fgb:
+                post_id: '77788'
     -
         file: 3336af6e8586f3d141bd1cf14d89692f.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/izobrazhenie_3758_3452.jpg'
+            fgb:
+                post_id: '77788'
         meta:
             author: ВалероС
 location:

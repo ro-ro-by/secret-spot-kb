@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/307638563_2374087666090931_3509251761933341996_n.jpg'
+            fgb:
+                post_id: '104041'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/307644504_632452608452201_8308706188402519806_n.jpg'
+            fgb:
+                post_id: '104041'
         meta:
             author: Victoryor
 meta:

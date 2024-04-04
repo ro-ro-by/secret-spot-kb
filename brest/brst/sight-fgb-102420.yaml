@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/p.varyag1.jpg'
+            fgb:
+                post_id: '102420'
     -
         file: 7785d5603a7b155dafd7b0b56d8eed9d.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/p.varyag2.jpg'
+            fgb:
+                post_id: '102420'
     -
         file: be397e6609a7c46d36c689d87a4014b6.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/_dsc1007c.jpg'
+            fgb:
+                post_id: '102420'
         meta:
             author: mat_set
 meta:

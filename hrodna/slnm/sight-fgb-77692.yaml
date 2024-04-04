@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/slonimskij.jpg'
+            fgb:
+                post_id: '77692'
 location:
     -
         type: geojson

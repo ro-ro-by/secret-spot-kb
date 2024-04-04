@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_9231.jpg'
+            fgb:
+                post_id: '76984'
     -
         file: 67607bb9464ed4c34603a6fbfb0093d5.jpg
         tags:
@@ -19,7 +20,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_5330.jpg'
+            fgb:
+                post_id: '76984'
 location:
     -
         type: point

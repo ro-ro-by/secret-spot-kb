@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/22-w.jpg'
+            fgb:
+                post_id: '97102'
         meta:
             author: 'Л. Дучиц, 2014.'
 meta:

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20210709_132420.jpg'
+            fgb:
+                post_id: '99803'
         meta:
             author: 'Александр Гиль'
 location:

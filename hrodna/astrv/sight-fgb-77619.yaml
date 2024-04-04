@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/mackevichev_kamen_str_1.jpg'
+            fgb:
+                post_id: '77619'
     -
         file: 0132fa9c70b808e66d2f8a04acf271ac.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/mackevichev_kamen_str_3.jpg'
+            fgb:
+                post_id: '77619'
     -
         file: 83d098697295b6bbc42ddf963d088043.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_8538.jpg'
+            fgb:
+                post_id: '77619'
         meta:
             author: ВалероС
 location:

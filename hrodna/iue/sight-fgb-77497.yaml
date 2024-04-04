@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/janceviue-97.jpg'
+            fgb:
+                post_id: '77497'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/valun_yancevicki.jpg'
+            fgb:
+                post_id: '77497'
 location:
     -
         type: point

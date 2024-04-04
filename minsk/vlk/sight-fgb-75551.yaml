@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shemmishuty.jpg'
+            fgb:
+                post_id: '75551'
     -
         file: 34dd971815bce8a890a97ef292ce5e5a.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mischinj-vilej-97.jpg'
+            fgb:
+                post_id: '75551'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mishinj2vilejsk-97.jpg'
+            fgb:
+                post_id: '75551'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/mishinj3vilejsk-97.jpg'
+            fgb:
+                post_id: '75551'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -48,7 +52,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/a.jpg'
+            fgb:
+                post_id: '75551'
         meta:
             author: 'Александр Dehty'
     -
@@ -57,7 +62,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/tablica_1_000_4420.jpg'
+            fgb:
+                post_id: '75551'
         meta:
             author: 'Александр Dehty'
 location:

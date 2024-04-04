@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/selische_astravec94_4197.jpg'
+            fgb:
+                post_id: '77608'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/selishche_vk_astrav_8706.jpg'
+            fgb:
+                post_id: '77608'
         meta:
             author: 'В. Вінакураў'
             version: 1994
@@ -33,7 +35,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_5436.jpg'
+            fgb:
+                post_id: '77608'
 location:
     -
         type: point

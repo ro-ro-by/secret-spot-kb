@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/snimok_7741.jpg'
+            fgb:
+                post_id: '76938'
     -
         file: edbe3f725677f0ee5cbd839d0662725d.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/158865_html_2cd44bc9.jpg'
+            fgb:
+                post_id: '76938'
 location:
     -
         type: point

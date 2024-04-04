@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_9480_4467.jpg'
+            fgb:
+                post_id: '75238'
         meta:
             author: tam_erm
 location:

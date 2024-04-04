@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/baraucymuzvilejsk06_7381.jpg'
+            fgb:
+                post_id: '75586'
         meta:
             author: 'В. Вінакураў'
             version: 2006
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/18370826034_c687d10134_b.jpg'
+            fgb:
+                post_id: '75586'
         meta:
             author: 'Александр Dehty'
     -
@@ -30,7 +32,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/baraucy.jpg'
+            fgb:
+                post_id: '75586'
 location:
     -
         type: point

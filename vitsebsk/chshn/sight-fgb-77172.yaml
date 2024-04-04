@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/zmeevgogaleukachsh-86_7128.jpg'
+            fgb:
+                post_id: '77172'
         meta:
             author: 'В. Вінакураў'
             version: 1986
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/gogolevka01.11_(5).jpg'
+            fgb:
+                post_id: '77172'
         meta:
             author: 'Дмитрий Ивченко'
 meta:

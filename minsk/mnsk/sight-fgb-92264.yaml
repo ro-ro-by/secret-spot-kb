@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/e0p75krkyvq.jpg'
+            fgb:
+                post_id: '92264'
         meta:
             author: 'Максим Астрейко'
 location:

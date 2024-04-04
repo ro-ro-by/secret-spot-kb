@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20210525_172228.jpg'
+            fgb:
+                post_id: '75644'
     -
         file: 6b038f77c23ed0cda6a8ba5b6d21d726.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20210525_172255.jpg'
+            fgb:
+                post_id: '75644'
     -
         file: 7ed2868ecc89e585f7a5cc77d1ec4cbc.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20210525_172402.jpg'
+            fgb:
+                post_id: '75644'
 tree:
     type: maple
 location:

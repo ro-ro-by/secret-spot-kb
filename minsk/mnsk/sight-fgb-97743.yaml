@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dauginauski_idal.jpg'
+            fgb:
+                post_id: '97743'
         meta:
             author: 'Валерий Винокуров'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/230414-dolginovo01.jpg'
+            fgb:
+                post_id: '97743'
         meta:
             author: 'Георгий Лихторович'
     -
@@ -29,21 +31,24 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_3410_6081.jpg'
+            fgb:
+                post_id: '97743'
     -
         file: 14d5747a633aeb8b3aeb885528013e1d.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_5987.jpg'
+            fgb:
+                post_id: '97743'
     -
         file: 3cc08e366420b0e0cb261709c3e08fb0.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/4_7878.jpg'
+            fgb:
+                post_id: '97743'
 meta:
     fgb:
         post_id: '97743'

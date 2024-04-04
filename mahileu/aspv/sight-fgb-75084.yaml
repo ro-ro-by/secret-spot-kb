@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/arcvsvlzy30.jpg'
+            fgb:
+                post_id: '75084'
         meta:
             author: 'Ян Ярый'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dji_0221.jpg'
+            fgb:
+                post_id: '75084'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_1281.jpg'
+            fgb:
+                post_id: '75084'
         meta:
             author: Victoryor
 tree:

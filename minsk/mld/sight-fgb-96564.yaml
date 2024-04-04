@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_2124.jpg'
+            fgb:
+                post_id: '96564'
     -
         file: 146d64d8d9165ff9b4307fcc7d7a8808.jpg
         tags:
@@ -19,14 +20,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_3417.jpg'
+            fgb:
+                post_id: '96564'
     -
         file: 2971e15eaec1f3209698a36cd4538557.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/shematicheskaya_karta_sosna_vejmutova.jpg'
+            fgb:
+                post_id: '96564'
 tree:
     type: pine
 meta:

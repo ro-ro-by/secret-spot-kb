@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/1_8889.jpg'
+            fgb:
+                post_id: '76133'
         meta:
             author: 'Михаил Lbhrj'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/052-2_w1200.jpg'
+            fgb:
+                post_id: '76133'
 location:
     -
         type: point

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dscn2740.jpg'
+            fgb:
+                post_id: '75005'
         meta:
             author: 'Александр6 Гапеенко'
 location:

@@ -12,7 +12,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/3_4484.jpg'
+            fgb:
+                post_id: '77380'
         meta:
             author: 'В. Вінакураў'
     -
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_1281.jpg'
+            fgb:
+                post_id: '77380'
         meta:
             author: ВалероС
 location:

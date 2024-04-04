@@ -11,7 +11,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/bezymyannyj_6145.jpg'
+            fgb:
+                post_id: '99077'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20191117_110142.jpg'
+            fgb:
+                post_id: '99077'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/bezymyannyj3333.jpg'
+            fgb:
+                post_id: '99077'
         meta:
             author: Victoryor
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20191117_111419.jpg'
+            fgb:
+                post_id: '99077'
         meta:
             author: Victoryor
     -
@@ -47,7 +51,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_20191117_113513.jpg'
+            fgb:
+                post_id: '99077'
         meta:
             author: Victoryor
 location:

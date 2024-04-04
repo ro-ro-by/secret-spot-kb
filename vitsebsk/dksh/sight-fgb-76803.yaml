@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/scepkdokshyck-89_7447.jpg'
+            fgb:
+                post_id: '76803'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/valuscepdokshyc-89_2148.jpg'
+            fgb:
+                post_id: '76803'
         meta:
             author: 'В. Вінакураў'
             version: 1989
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/frhiu-pershaj-shkoly.-1685.jpg'
+            fgb:
+                post_id: '76803'
         meta:
             author: Victoryor
     -
@@ -40,7 +43,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bezymyannyj_2267.jpg'
+            fgb:
+                post_id: '76803'
         meta:
             author: Victoryor
     -
@@ -49,7 +53,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_0601.jpg'
+            fgb:
+                post_id: '76803'
         meta:
             author: Victoryor
 location:

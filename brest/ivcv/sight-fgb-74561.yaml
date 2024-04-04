@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/33516461096_fd8f067dda_b.jpg'
+            fgb:
+                post_id: '74561'
     -
         file: 9e798f033e0ba9ef219e8d8d557dfc86.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_starinnyj_park_grudopol.jpg'
+            fgb:
+                post_id: '74561'
 location:
     -
         type: point

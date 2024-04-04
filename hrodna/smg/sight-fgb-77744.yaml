@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_milidovskij_valun.jpg'
+            fgb:
+                post_id: '77744'
     -
         file: 34695a6892e09b22d01e2cbee8918b81.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_9558.jpg'
+            fgb:
+                post_id: '77744'
         meta:
             author: ВалероС
 location:

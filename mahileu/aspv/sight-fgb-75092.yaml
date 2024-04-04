@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_5533.jpg'
+            fgb:
+                post_id: '75092'
     -
         file: 46e50dd7450dd0afb44f9c68494fa9cd.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_priterpa.jpg'
+            fgb:
+                post_id: '75092'
 location:
     -
         type: point

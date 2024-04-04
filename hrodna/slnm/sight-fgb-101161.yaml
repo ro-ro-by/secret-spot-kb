@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/rudavka_(kamen_kultovyj_s_krestom)_1.jpg'
+            fgb:
+                post_id: '101161'
         meta:
             author: 'Мікола Кузіч'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/rudavka_(kamen_kultovyj_s_krestom)_2_fragment.jpg'
+            fgb:
+                post_id: '101161'
         meta:
             author: 'Мікола Кузіч'
 location:

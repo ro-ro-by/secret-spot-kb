@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/scanner_20220823_002416.jpg'
+            fgb:
+                post_id: '100066'
         meta:
             author: 'А. Зайцаў'
             version: 2018

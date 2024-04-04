@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_1499.jpg'
+            fgb:
+                post_id: '77781'
         meta:
             author: ВалероС
     -
@@ -21,14 +22,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_1391.jpg'
+            fgb:
+                post_id: '77781'
     -
         file: 0dfca7ff7f5641ee7a9b1ce6d02775f2.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_0434.jpg'
+            fgb:
+                post_id: '77781'
         meta:
             author: ВалероС
 location:

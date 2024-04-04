@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/___018_193.jpg'
+            fgb:
+                post_id: '83211'
         meta:
             author: ВалероС
 location:

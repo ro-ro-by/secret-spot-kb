@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/senegicnavagrud-86_0975.jpg'
+            fgb:
+                post_id: '77582'
         meta:
             author: 'В. Вінакураў'
             version: 1986
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/senegicnovagr-86_4760.jpg'
+            fgb:
+                post_id: '77582'
         meta:
             author: 'В. Вінакураў'
             version: 1986
@@ -31,14 +33,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_4996.jpg'
+            fgb:
+                post_id: '77582'
     -
         file: 96a44c17eb449681d899a02df0d81259.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_4522.jpg'
+            fgb:
+                post_id: '77582'
 location:
     -
         type: point

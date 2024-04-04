@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/soragisluck-87_9158.jpg'
+            fgb:
+                post_id: '75974'
         meta:
             author: 'В. Вінакураў'
             version: 1987
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/frg-soragisluck-87_9835.jpg'
+            fgb:
+                post_id: '75974'
         meta:
             author: 'В. Вінакураў'
             version: 1987
@@ -31,14 +33,16 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/p0119_4337.jpg'
+            fgb:
+                post_id: '75974'
     -
         file: 1e58c6fa2563dd6c199fa08f5b02c9f9.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/dsc_0599.jpg'
+            fgb:
+                post_id: '75974'
         meta:
             author: Victoryor
 meta:

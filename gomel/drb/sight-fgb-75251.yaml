@@ -15,14 +15,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_1100.jpg'
+            fgb:
+                post_id: '75251'
     -
         file: 1786e3dcdf295af6ef8f537e049cc6b3.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_6439.jpg'
+            fgb:
+                post_id: '75251'
     -
         file: 6b4d6e50b9605820dee8d852eb55c89b.jpg
         tags:
@@ -30,7 +32,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/ostrovnye_elniki_kartoshema.jpg'
+            fgb:
+                post_id: '75251'
 location:
     -
         type: point

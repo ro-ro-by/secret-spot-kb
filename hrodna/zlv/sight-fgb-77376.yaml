@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/2_0027.jpg'
+            fgb:
+                post_id: '77376'
     -
         file: 281908a18dd9f70ee7a928e70f2ae5b6.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/_mg_0224.jpg'
+            fgb:
+                post_id: '77376'
         meta:
             author: Tegenaria
 location:

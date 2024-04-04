@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2022-07-09_13-12-04.jpg'
+            fgb:
+                post_id: '101796'
         meta:
             author: 'Анна Белавская'
 location:

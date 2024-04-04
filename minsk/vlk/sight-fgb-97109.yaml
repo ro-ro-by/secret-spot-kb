@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/35-.jpg'
+            fgb:
+                post_id: '97109'
         meta:
             author: 'И. Климкович, 2018.'
 meta:

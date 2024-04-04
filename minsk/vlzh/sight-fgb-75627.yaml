@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_6523_0428.jpg'
+            fgb:
+                post_id: '75627'
 location:
     -
         type: point

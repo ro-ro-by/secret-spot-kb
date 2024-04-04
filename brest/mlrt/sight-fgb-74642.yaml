@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lukavasldmalar_4733.jpg'
+            fgb:
+                post_id: '74642'
         meta:
             author: 'В. Вінакураў'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/lukavasldmalaryta_7386.jpg'
+            fgb:
+                post_id: '74642'
         meta:
             author: 'В. Вінакураў'
             version: 1996

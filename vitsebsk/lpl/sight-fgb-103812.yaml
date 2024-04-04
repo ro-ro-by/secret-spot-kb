@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/photo_5325937100228511912_y.jpg'
+            fgb:
+                post_id: '103812'
         meta:
             author: 'І. Я. Клімквовіч'
             version: 2011

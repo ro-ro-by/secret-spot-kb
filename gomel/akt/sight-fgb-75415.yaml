@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_8138.jpg'
+            fgb:
+                post_id: '75415'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_0710.jpg'
+            fgb:
+                post_id: '75415'
         meta:
             author: Victoryor
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_8125.jpg'
+            fgb:
+                post_id: '75415'
         meta:
             author: Victoryor
     -
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_8133.jpg'
+            fgb:
+                post_id: '75415'
         meta:
             author: Victoryor
     -
@@ -47,7 +51,8 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/proscha.jpg'
+            fgb:
+                post_id: '75415'
         meta:
             author: Victoryor
 location:

@@ -13,14 +13,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/1_3945.jpg'
+            fgb:
+                post_id: '75200'
     -
         file: 79a7d165fe260b474bb9c2881fc81e75.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/rov-nizhninskii.jpg'
+            fgb:
+                post_id: '75200'
 meta:
     fgb:
         post_id: '75200'

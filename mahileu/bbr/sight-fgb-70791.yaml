@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/bezymyannyj_4931_(1).jpg'
+            fgb:
+                post_id: '70791'
         meta:
             author: Victoryor
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/gorohovka.jpg'
+            fgb:
+                post_id: '70791'
         meta:
             author: Strela
 location:

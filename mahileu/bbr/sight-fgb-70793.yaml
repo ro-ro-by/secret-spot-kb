@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/26-bobruisk-w.jpg'
+            fgb:
+                post_id: '70793'
         meta:
             author: 'Л. Дучиц, 2005'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_6507_izmen.razmer.jpg'
+            fgb:
+                post_id: '70793'
         meta:
             author: 'Л. Дучиц, 2005'
     -
@@ -29,7 +31,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/img_6508_izmen.razmer.jpg'
+            fgb:
+                post_id: '70793'
         meta:
             author: 'Л. Дучиц, 2005'
 meta:

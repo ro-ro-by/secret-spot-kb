@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/vasilishki_sch-92_2262.jpg'
+            fgb:
+                post_id: '77776'
         meta:
             author: 'В. Вінакураў'
             version: 1992
@@ -22,7 +23,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_8855.jpg'
+            fgb:
+                post_id: '77776'
     -
         file: 06f727c4c82d6becd5e5600460481b03.jpg
         tags:
@@ -31,7 +33,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/4_0047.jpg'
+            fgb:
+                post_id: '77776'
 location:
     -
         type: point

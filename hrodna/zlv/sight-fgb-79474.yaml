@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/doc278255471_438557902.jpg'
+            fgb:
+                post_id: '79474'
         meta:
             author: 'Светлана Войтко'
 location:

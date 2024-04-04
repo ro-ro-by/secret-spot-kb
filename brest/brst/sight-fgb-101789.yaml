@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/298501877_1415281838984469_4983084914047992120_n.jpg'
+            fgb:
+                post_id: '101789'
         meta:
             author: 'Александр Строкач'
 location:

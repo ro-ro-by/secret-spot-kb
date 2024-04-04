@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/imgp9841.jpg'
+            fgb:
+                post_id: '76023'
         meta:
             author: 'Mikola Pankavets'
     -
@@ -20,7 +21,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_3618.jpg'
+            fgb:
+                post_id: '76023'
 location:
     -
         type: point

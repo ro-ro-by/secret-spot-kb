@@ -11,14 +11,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/1_7978.jpg'
+            fgb:
+                post_id: '76151'
     -
         file: 475874c2ddf672cc68c40d0e16c128b5.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/cudadzejkstashelishbrasl-99_5461.jpg'
+            fgb:
+                post_id: '76151'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -28,7 +30,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/gurnelishkibrsl99_1471.jpg'
+            fgb:
+                post_id: '76151'
         meta:
             author: 'В. Вінакураў'
             version: 1999
@@ -38,7 +41,8 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shgurnelishkicudadzvl.jpg'
+            fgb:
+                post_id: '76151'
 meta:
     fgb:
         post_id: '76151'

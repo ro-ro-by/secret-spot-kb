@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/screenshot_2022-05-20-08-27-49-947_com.instagram.android.jpg'
+            fgb:
+                post_id: '77578'
         meta:
             author: 'Мікола Кузіч'
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/242.jpg'
+            fgb:
+                post_id: '77578'
     -
         file: 995f348a6e41db258177455174ed0e9f.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/243_3841.jpg'
+            fgb:
+                post_id: '77578'
 tree:
     type: oak
 location:

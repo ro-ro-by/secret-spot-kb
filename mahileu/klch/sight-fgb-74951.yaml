@@ -13,28 +13,32 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_2105.jpg'
+            fgb:
+                post_id: '74951'
     -
         file: f080cbf7f0277f6c22cd107634c6df7e.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/2_3123.jpg'
+            fgb:
+                post_id: '74951'
     -
         file: efd796706c528bfbce13d633b9f23821.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/3_0973.jpg'
+            fgb:
+                post_id: '74951'
     -
         file: 790f127bd4670d44938845da1ee7c22a.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/shematicheskaya_karta_uchastok_dubovo-yasenevogo_lesa.jpg'
+            fgb:
+                post_id: '74951'
 location:
     -
         type: point

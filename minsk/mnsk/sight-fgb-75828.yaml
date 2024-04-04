@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/krugovk_minsk-96_2561.jpg'
+            fgb:
+                post_id: '75828'
         meta:
             author: 'В. Вінакураў'
             version: 1996

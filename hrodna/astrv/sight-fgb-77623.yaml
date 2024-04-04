@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_8647_8318.jpg'
+            fgb:
+                post_id: '77623'
         meta:
             author: ВалероС
     -
@@ -20,14 +21,16 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/vidinishskij_valun_str_1.jpg'
+            fgb:
+                post_id: '77623'
     -
         file: fe29184875eb6800166b6b084d66a078.jpg
         tags:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/vidinishskij_valun_str_3.jpg'
+            fgb:
+                post_id: '77623'
 location:
     -
         type: point

@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/img_20220524_0009_(2).jpg'
+            fgb:
+                post_id: '99919'
         meta:
             author: 'А. Дзехцяронак'
             version: 2014

@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/132.jpg'
+            fgb:
+                post_id: '70752'
     -
         file: 6e5e2b54a6a19612cebbb62939283cf6.jpg
         tags:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/12_7917.jpg'
+            fgb:
+                post_id: '70752'
     -
         file: 9f5608f2a277fa7ecb2323703ac9c5f3.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_1002.jpg'
+            fgb:
+                post_id: '70752'
         meta:
             author: 'Михаил Шубич'
 location:

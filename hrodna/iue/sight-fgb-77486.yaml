@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/kriniciu-97_1246.jpg'
+            fgb:
+                post_id: '77486'
         meta:
             author: 'В. Вінакураў'
             version: 1997
@@ -21,7 +22,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'http://globustut.by/_mu_a__gtb/0183/img_2121_7107.jpg'
+            fgb:
+                post_id: '77486'
 location:
     -
         type: point

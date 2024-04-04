@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/1_6418.jpg'
+            fgb:
+                post_id: '77064'
     -
         file: a2f6f692d1c5e59fc675a32c0ff1d49d.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/2_9347.jpg'
+            fgb:
+                post_id: '77064'
     -
         file: 8f7793b2911eb716b88db0e750dbe0e0.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/3_7860.jpg'
+            fgb:
+                post_id: '77064'
     -
         file: 3742bf29fd76ef8661d28fbc5a885977.jpg
         tags:
@@ -33,7 +36,8 @@ images:
             - 'image-tag:object:info'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/124.jpg'
+            fgb:
+                post_id: '77064'
 location:
     -
         type: point

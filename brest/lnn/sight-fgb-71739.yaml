@@ -11,21 +11,24 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_5438.jpg'
+            fgb:
+                post_id: '71739'
     -
         file: e5231f30a98b0a11e133862670d7e885.jpg
         tags:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/img_5443_5345.jpg'
+            fgb:
+                post_id: '71739'
     -
         file: 022079453b924d650a15e02708550143.jpg
         tags:
             - 'image-tag:object:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/screenshot_20200728-180316.jpg'
+            fgb:
+                post_id: '71739'
 tree:
     type: oak
 location:

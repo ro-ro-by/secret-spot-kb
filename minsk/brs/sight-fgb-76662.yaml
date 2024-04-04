@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:photo'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/7_2783.jpg'
+            fgb:
+                post_id: '76662'
         meta:
             author: 'Дмитрий Скворчевский'
 meta:

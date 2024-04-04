@@ -11,7 +11,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_d/0183/conv/scanner_20220823_002657.jpg'
+            fgb:
+                post_id: '77196'
         meta:
             author: 'В. Вінакураў'
             version: 1997

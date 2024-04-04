@@ -11,14 +11,16 @@ images:
             - 'image-tag:location:schema'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/shematicheskaya_karta_listvennica_vekovaya.jpg'
+            fgb:
+                post_id: '75102'
     -
         file: 1f6c7e02b1fe3168c00b13ae6713b8a6.jpg
         tags:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_0076__uluki._vekovaya_listvennica.jpg'
+            fgb:
+                post_id: '75102'
         meta:
             author: Victoryor
     -
@@ -27,7 +29,8 @@ images:
             - 'image-tag:object:overview'
         source:
             type: fgb
-            url: 'https://fgb.by/_mu_c/0183/dsc_0073_uluki._vekovaya_listvennica.jpg'
+            fgb:
+                post_id: '75102'
         meta:
             author: Victoryor
 tree:
