@@ -21,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '97742'
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.92926'
+            lon: '27.68919'
+        source: fgb
 meta:
     fgb:
         post_id: '97742'

@@ -13,6 +13,16 @@ images:
             type: fgb
             fgb:
                 post_id: '75273'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-way-319526224.geojson'
+        source:
+            type: osm
+            osm:
+                type: way
+                id: 319526224
 osm:
     -
         type: way

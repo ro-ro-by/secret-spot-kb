@@ -32,6 +32,13 @@ images:
                 post_id: '77583'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.42896'
+            lon: '25.73246'
+        source: schema
 meta:
     fgb:
         post_id: '77583'

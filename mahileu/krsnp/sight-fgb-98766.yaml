@@ -13,6 +13,16 @@ images:
             type: fgb
             fgb:
                 post_id: '98766'
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.278827'
+            lon: '31.533448'
+        source:
+            author:
+                name: Broken
+            type: knowledge
 meta:
     fgb:
         post_id: '98766'

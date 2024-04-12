@@ -13,6 +13,20 @@ images:
             type: fgb
             fgb:
                 post_id: '74624'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-17289163.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 17289163
+osm:
+    -
+        type: relation
+        id: 17289163
 meta:
     fgb:
         post_id: '74624'
