@@ -4,9 +4,6 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
-osm:
-    - type: node
-      id: 9392994778
 images:
     -
         file: 838ef0e6b50c4db1a64bbc0883e9fbcf.jpg
@@ -41,6 +38,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77509'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.5292731
+            lon: 26.031853
+        source:
+            type: osm
+            osm:
+                type: node
+                id: 9392994778
+osm:
+    -
+        type: node
+        id: 9392994778
 meta:
     fgb:
         post_id: '77509'

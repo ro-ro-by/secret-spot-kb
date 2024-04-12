@@ -4,9 +4,6 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
-osm:
-    - type: relation
-      id: 17289163
 images:
     -
         file: 80fe7e41604852c9cdd2018eb39ec70f.jpg
@@ -16,6 +13,20 @@ images:
             type: fgb
             fgb:
                 post_id: '74624'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-17289163.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 17289163
+osm:
+    -
+        type: relation
+        id: 17289163
 meta:
     fgb:
         post_id: '74624'

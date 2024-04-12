@@ -4,13 +4,6 @@ type: basin
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
-location:
-    -
-        type: point
-        coordinates:
-            lat: '54.62054'
-            lon: '27.16759'
-        source: fgb
 images:
     -
         file: 7515d70208145103ce133479b7b8adfe.jpg
@@ -28,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75572'
+location:
+    -
+        type: point
+        coordinates:
+            lat: '54.62054'
+            lon: '27.16759'
+        source: fgb
 meta:
     fgb:
         post_id: '75572'

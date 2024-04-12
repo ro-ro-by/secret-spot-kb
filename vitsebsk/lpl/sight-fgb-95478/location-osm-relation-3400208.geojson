@@ -6,8 +6,13 @@
   "id": "relation/3400208",
   "properties": {
     "boundary": "protected_area",
+    "contact:facebook": "https://www.facebook.com/bbz1925",
+    "contact:instagram": "https://www.instagram.com/berezinskyreserve",
+    "contact:telegram": "https://t.me/s/berezinskyreserve",
+    "contact:vk": "https://vk.com/club57134407",
+    "contact:youtube": "https://www.youtube.com/channel/UC6O_ENDDX7NJ1HsUOBoHATw",
     "email": "info@berezinsky.by;tourism@berezinsky.by",
-    "fax": "+375(213) 22-63-42",
+    "fax": "+375 2132 37742",
     "governance_type": "government_managed",
     "int_name": "Biarezinski bijasfierny zapaviednik",
     "leisure": "nature_reserve",
@@ -25,7 +30,7 @@
     "official_name:be": "Бярэзінскі дзяржаўны біясферны запаведнік",
     "old_name:uk": "Березинський біосферний заповідник",
     "operator": "Государственное природоохранное учреждение «Березинский биосферный заповедник»",
-    "phone": "+375(213) 22-63-44;+375(213) 22-64-00",
+    "phone": "+375 213 237744;+375 213 226400",
     "protect_class": "1",
     "protection_object": "nature",
     "protection_title": "Государственный биосферный заповедник",
@@ -33,13 +38,12 @@
     "site_ownership": "national",
     "site_status": "designated",
     "source": "Park administration",
-    "start_date": "1925.01.30",
+    "start_date": "1925-01-30",
     "type": "boundary",
     "valid_from": "1979",
     "website": "https://berezinsky.by/",
     "wikidata": "Q1194178",
-    "wikipedia": "ru:Березинский биосферный заповедник",
-    "wikipedia:be": "Бярэзінскі біясферны запаведнік",
+    "wikipedia": "be:Бярэзінскі біясферны запаведнік",
     "id": "relation/3400208"
   },
   "geometry": {
@@ -487,6 +491,10 @@
           54.9387353
         ],
         [
+          28.2971009,
+          54.9505331
+        ],
+        [
           28.2602895,
           54.9708719
         ],
@@ -589,6 +597,10 @@
         [
           28.225637,
           54.9515665
+        ],
+        [
+          28.2096305,
+          54.9470609
         ],
         [
           28.1921757,

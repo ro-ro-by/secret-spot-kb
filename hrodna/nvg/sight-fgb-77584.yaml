@@ -4,13 +4,6 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
-location:
-    -
-        type: point
-        coordinates:
-            lat: '53.42889'
-            lon: '25.73222'
-        source: schema
 images:
     -
         file: 8f350bae6952a98066526337c0f2037c.jpg
@@ -39,6 +32,13 @@ images:
                 post_id: '77584'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.42889'
+            lon: '25.73222'
+        source: schema
 meta:
     fgb:
         post_id: '77584'

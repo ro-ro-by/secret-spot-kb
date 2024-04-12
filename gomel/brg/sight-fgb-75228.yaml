@@ -4,13 +4,6 @@ type: meteorite
 belongsTo:
     region: region-gomel
     subregion: subregion-brg
-location:
-    -
-        type: point
-        coordinates:
-            lat: '51.79028'
-            lon: '30.27046'
-        source: fgb
 images:
     -
         file: 2f10fb7cec07a0bafceb520b1804f0c9.jpg
@@ -28,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75228'
+location:
+    -
+        type: point
+        coordinates:
+            lat: '51.79028'
+            lon: '30.27046'
+        source: fgb
 meta:
     fgb:
         post_id: '75228'

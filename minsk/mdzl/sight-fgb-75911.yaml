@@ -4,9 +4,6 @@ type: cliff
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
-osm:
-    - type: relation
-      id: 12889389
 images:
     -
         file: 727e8b8204c78b9f25834c9fd1ef2944.jpg
@@ -32,6 +29,20 @@ images:
             type: fgb
             fgb:
                 post_id: '75911'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-osm-relation-12889389.geojson'
+        source:
+            type: osm
+            osm:
+                type: relation
+                id: 12889389
+osm:
+    -
+        type: relation
+        id: 12889389
 meta:
     fgb:
         post_id: '75911'
