@@ -4,6 +4,13 @@ type: dune
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.22396'
+            lon: '25.27875'
+        source: schema
 images:
     -
         file: e52d932d7c530ace8bf2068db53b0ce1.jpg

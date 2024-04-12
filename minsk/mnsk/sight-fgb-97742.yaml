@@ -4,6 +4,13 @@ type: meteorite
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.92926'
+            lon: '27.68919'
+        source: fgb
 images:
     -
         file: 6c3fab672e573f5fe49401bc92f5063b.jpg

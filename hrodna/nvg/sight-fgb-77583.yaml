@@ -4,6 +4,13 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.42896'
+            lon: '25.73246'
+        source: schema
 images:
     -
         file: adf74b84e9be6a78bb50b805315a6289.jpg

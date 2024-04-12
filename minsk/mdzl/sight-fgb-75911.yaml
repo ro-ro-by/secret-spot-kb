@@ -4,6 +4,9 @@ type: cliff
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+osm:
+    - type: relation
+      id: 12889389
 images:
     -
         file: 727e8b8204c78b9f25834c9fd1ef2944.jpg

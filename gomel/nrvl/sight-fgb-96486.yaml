@@ -1,6 +1,8 @@
 id: sight-fgb-96486
 title: 'Память леса'
-type: geoglyph
+type: forest
+forest:
+    dominated_type: pine
 belongsTo:
     region: region-gomel
     subregion: subregion-nrvl

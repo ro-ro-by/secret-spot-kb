@@ -4,6 +4,13 @@ type: river
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+location:
+    -
+        type: point
+        coordinates:
+            lat: '54.86829'
+            lon: '26.85975'
+        source: fgb
 meta:
     fgb:
         post_id: '95512'

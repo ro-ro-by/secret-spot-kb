@@ -4,6 +4,9 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+osm:
+    - type: relation
+      id: 17289163
 images:
     -
         file: 80fe7e41604852c9cdd2018eb39ec70f.jpg
