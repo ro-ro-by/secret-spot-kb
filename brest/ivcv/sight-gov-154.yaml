@@ -1,0 +1,13 @@
+id: sight-gov-154
+title: 'Ивацевичское криволесье'
+belongsTo:
+    region: region-brest
+    subregion: subregion-ivcv
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/154'

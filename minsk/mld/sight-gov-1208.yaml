@@ -1,0 +1,13 @@
+id: sight-gov-1208
+title: 'Гора «Маяк»'
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mld
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1208'

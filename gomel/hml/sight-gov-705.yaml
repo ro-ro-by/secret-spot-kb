@@ -1,0 +1,13 @@
+id: sight-gov-705
+title: 'Насаждения сосны'
+belongsTo:
+    region: region-gomel
+    subregion: subregion-hml
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/705'

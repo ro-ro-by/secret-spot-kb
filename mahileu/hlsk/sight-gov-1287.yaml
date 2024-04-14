@@ -1,0 +1,13 @@
+id: sight-gov-1287
+title: Дубрава-3
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1287'

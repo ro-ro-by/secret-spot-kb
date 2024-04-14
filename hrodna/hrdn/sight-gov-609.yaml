@@ -1,0 +1,13 @@
+id: sight-gov-609
+title: 'Заказник «Друскеники»'
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-hrdn
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/609'

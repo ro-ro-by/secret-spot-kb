@@ -1,0 +1,13 @@
+id: sight-gov-912
+title: 'Старинный дуб в деревне Лемна'
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-orsh
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/912'

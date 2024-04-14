@@ -1,0 +1,13 @@
+id: sight-gov-1323
+title: 'Заказник «Заболотье»'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1323'

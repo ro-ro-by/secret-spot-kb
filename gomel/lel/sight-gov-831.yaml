@@ -1,0 +1,13 @@
+id: sight-gov-831
+title: 'Заказник «Урочище Заручевье»'
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+system:
+    review-gov-duplicate: true
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/831'
