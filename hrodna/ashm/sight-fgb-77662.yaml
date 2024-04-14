@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Войтеховский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00049
+    founded_on: 16.02.1995
 images:
     -
         file: cb1085e2e81557ed913d343b6756c3af.jpg
@@ -31,6 +37,12 @@ location:
             lat: '54.339781'
             lon: '26.099790'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.339781
+            lon: 26.09979
+        source: gov
 meta:
     fgb:
         post_id: '77662'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Национальный парк «Беловежская пуща»'
+    type: 'национальный парк'
+    status: 'республиканский , 16.03.2016'
+    area_size: 150083.0
+    founded_on: 27.09.2004
 images:
     -
         file: b7d6272b6e1554bc6af8c4950c279c04.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 4096466
+    -
+        type: point
+        coordinates:
+            lat: 52.569523
+            lon: 23.802953
+        source: gov
 osm:
     -
         type: relation

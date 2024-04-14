@@ -3,8 +3,21 @@ title: 'Обнажение Птичь'
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Обнажение Птичь'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 17.12.2020
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.794194
+            lon: 27.4145
+        source: gov
 meta:
     source:
         -

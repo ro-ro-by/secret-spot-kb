@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Гряда Зенкевича'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 80.0
+    founded_on: 06.12.2011
 images:
     -
         file: b4c89d181b6bebd3a0c11844fca45580.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77187'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.285128
+            lon: 27.891491
+        source: gov
 meta:
     fgb:
         post_id: '77187'

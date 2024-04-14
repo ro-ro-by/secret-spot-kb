@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+gov:
+    title: 'Заказник «Свислочско-Березинский»'
+    type: заказник
+    status: 'республиканский , 29.12.2023'
+    area_size: 17480.54
+    founded_on: 04.02.2015
 images:
     -
         file: 8098ec3a3852c7affc6466e51f19c9ba.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 7917570
+    -
+        type: point
+        coordinates:
+            lat: 53.343659
+            lon: 28.995889
+        source: gov
 osm:
     -
         type: relation

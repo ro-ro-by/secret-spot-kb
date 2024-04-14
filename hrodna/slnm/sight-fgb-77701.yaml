@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Заказник «Борковский концовоморенный массив»'
+    type: заказник
+    status: 'местный , 11.11.2008'
+    area_size: 574.0
+    founded_on: 30.12.1997
 images:
     -
         file: d066bf51cf403dd1fb9f3b08d946975f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77701'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.229893
+            lon: 25.591866
+        source: gov
 meta:
     fgb:
         post_id: '77701'

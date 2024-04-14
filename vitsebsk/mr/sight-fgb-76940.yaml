@@ -4,6 +4,19 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Горянская гряда'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 58.77
+    founded_on: 09.04.2020
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.575706
+            lon: 27.582739
+        source: gov
 meta:
     fgb:
         post_id: '76940'

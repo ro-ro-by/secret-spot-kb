@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Насаждение дуба черешчатого Слободское'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.05.2020'
+    area_size: 103.3
+    founded_on: 22.02.2008
 images:
     -
         file: ddca95d5ca7c6ab16b4386bd2bdf90d1.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.05072
             lon: 28.9305
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.050722
+            lon: 28.9305
+        source: gov
 meta:
     fgb:
         post_id: '75308'

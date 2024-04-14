@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Большой камень» можейковский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001392
+    founded_on: 31.07.2006
 images:
     -
         file: b2cca6c37298ae80b0a2c05550280c7e.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.017030'
             lon: '25.000971'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.01703
+            lon: 25.000971
+        source: gov
 meta:
     fgb:
         post_id: '77279'

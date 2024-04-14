@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slck
+gov:
+    title: 'Заказник «Воробьевский»'
+    type: заказник
+    status: местный
+    area_size: 684.4
+    founded_on: 23.12.2015
 images:
     -
         file: c31921b8095c5fcc1e99e83a495ea3df.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 16410680
+    -
+        type: point
+        coordinates:
+            lat: 53.252548
+            lon: 27.592753
+        source: gov
 osm:
     -
         type: relation

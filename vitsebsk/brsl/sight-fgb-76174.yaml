@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Родник Петкун'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 04.09.2020'
+    area_size: 8.83
+    founded_on: 15.01.2007
 images:
     -
         file: 13d966f2703aff6d4c753f1b9a13d8e7.jpg
@@ -22,6 +28,12 @@ location:
             lat: '55.69392'
             lon: '27.21554'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.69392
+            lon: 27.21554
+        source: gov
 meta:
     fgb:
         post_id: '76174'

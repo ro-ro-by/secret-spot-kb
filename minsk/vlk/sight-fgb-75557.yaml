@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валуны «Каменные волы» стеберякские'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00092
+    founded_on: 19.03.2007
 images:
     -
         file: dbdbe1360c896048ba7c3efba4b720f6.jpg
@@ -84,6 +90,13 @@ images:
                 post_id: '75557'
         meta:
             author: 'Александр Dehty'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.68617
+            lon: 26.93715
+        source: gov
 meta:
     fgb:
         post_id: '75557'

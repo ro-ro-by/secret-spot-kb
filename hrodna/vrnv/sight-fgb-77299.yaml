@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень вороновский'
+    type: 'геологический памятник природы'
+    status: 'местный , 28.10.2002'
+    founded_on: 31.10.1997
 images:
     -
         file: cce5416aae97f740490cc6b1638916d2.jpg
@@ -38,6 +43,12 @@ location:
             lat: '54.159026'
             lon: '25.338111'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.159026
+            lon: 25.338111
+        source: gov
 meta:
     fgb:
         post_id: '77299'

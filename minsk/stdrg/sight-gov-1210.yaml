@@ -3,8 +3,21 @@ title: Камень-валун
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: Камень-валун
+    type: 'геологический памятник природы'
+    status: 'местный , 12.01.2016'
+    area_size: 0.00169
+    founded_on: 30.10.2009
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.104365
+            lon: 28.420404
+        source: gov
 meta:
     source:
         -

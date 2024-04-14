@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Логойский родник Святого Николая'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 13.09.2022'
+    area_size: 0.57
+    founded_on: 27.10.2008
 images:
     -
         file: b07100cbb4b201520b85c5be668fb441.jpg
@@ -20,6 +26,12 @@ location:
             lat: '54.20199'
             lon: '27.85033'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.20199
+            lon: 27.85033
+        source: gov
 meta:
     fgb:
         post_id: '75744'

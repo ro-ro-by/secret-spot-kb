@@ -4,6 +4,12 @@ type: cliff
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Береговой уступ «Степеневский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 40.0
+    founded_on: 18.03.2008
 images:
     -
         file: 727e8b8204c78b9f25834c9fd1ef2944.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 12889389
+    -
+        type: point
+        coordinates:
+            lat: 54.87808
+            lon: 26.67928
+        source: gov
 osm:
     -
         type: relation

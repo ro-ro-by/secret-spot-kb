@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Здитовские дубы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.3529
+    founded_on: 27.07.2016
 images:
     -
         file: 45648b00db5d23edb5fe8e7f8300255a.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.19759
             lon: 24.0601
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.197594
+            lon: 24.060103
+        source: gov
 meta:
     fgb:
         post_id: '95165'

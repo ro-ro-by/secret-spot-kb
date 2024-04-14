@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Заказник «Гайно-Бродня»'
+    type: заказник
+    status: республиканский
+    area_size: 1196.22
+    founded_on: 04.02.2015
 images:
     -
         file: 561d605becec5ef1d0b11b5425e5006a.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9244451
+    -
+        type: point
+        coordinates:
+            lat: 54.13553
+            lon: 28.07019
+        source: gov
 osm:
     -
         type: relation

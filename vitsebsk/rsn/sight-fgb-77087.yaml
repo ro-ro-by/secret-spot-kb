@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Заборовский мох»'
+    type: заказник
+    status: местный
+    area_size: 2460.1
+    founded_on: 22.04.2020
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.800749
+            lon: 28.683959
+        source: gov
 meta:
     fgb:
         post_id: '77087'

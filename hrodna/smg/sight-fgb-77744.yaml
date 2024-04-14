@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Милидовский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.0006
+    founded_on: 23.03.1995
 images:
     -
         file: e809c9cce1fb3d35ff351fb2168f47aa.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.336168'
             lon: '26.385170'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.336175
+            lon: 26.385147
+        source: gov
 meta:
     fgb:
         post_id: '77744'

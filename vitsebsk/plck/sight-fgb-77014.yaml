@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Валун Святицкий'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.015
+    founded_on: 19.03.2007
 images:
     -
         file: d93811d7edeeefe617c36415264d22f1.jpg
@@ -31,6 +37,12 @@ location:
             lat: 55.2775
             lon: 28.77278
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.2775
+            lon: 28.772778
+        source: gov
 meta:
     fgb:
         post_id: '77014'

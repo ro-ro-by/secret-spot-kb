@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Холмы «Речкинские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 6.82
+    founded_on: 19.03.2007
 images:
     -
         file: 53db8cf8b9971ff1fb810132bfb59547.jpg
@@ -37,6 +43,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75560'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.5796
+            lon: 27.08135
+        source: gov
 meta:
     fgb:
         post_id: '75560'

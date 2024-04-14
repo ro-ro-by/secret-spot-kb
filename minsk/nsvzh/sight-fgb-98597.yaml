@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Заказник «Малевский»'
+    type: заказник
+    status: 'местный , 02.04.2018'
+    area_size: 153.5
+    founded_on: 22.10.2008
 images:
     -
         file: 0427083e040910433b4582702fc322c9.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 6581704
+    -
+        type: point
+        coordinates:
+            lat: 53.201638
+            lon: 26.577917
+        source: gov
 osm:
     -
         type: relation

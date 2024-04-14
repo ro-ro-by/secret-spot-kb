@@ -3,8 +3,21 @@ title: 'Насаждение сосны обыкновенной «Соснов�
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Насаждение сосны обыкновенной «Сосновый парк»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 11.41
+    founded_on: 02.08.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.4785
+            lon: 30.3106
+        source: gov
 meta:
     source:
         -

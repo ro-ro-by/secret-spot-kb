@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Заказник «Чисть»'
+    type: заказник
+    status: местный
+    area_size: 1455.79
+    founded_on: 30.12.2014
 images:
     -
         file: 5dc8c8670ebfef86f1bd8e4cb21d6d89.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96308'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.287792
+            lon: 27.182775
+        source: gov
 meta:
     fgb:
         post_id: '96308'

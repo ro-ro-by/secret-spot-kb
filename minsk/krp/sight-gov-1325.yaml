@@ -3,8 +3,20 @@ title: 'Клевский дуб 3'
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Клевский дуб 3'
+    type: 'ботанический памятник природы'
+    status: 'местный , 02.12.2018'
+    founded_on: 22.11.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.034417
+            lon: 29.409917
+        source: gov
 meta:
     source:
         -

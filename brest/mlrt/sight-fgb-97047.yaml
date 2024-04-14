@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Заказник "Ореховский"'
+    type: заказник
+    status: 'местный , 20.01.2017'
+    area_size: 1807.0
+    founded_on: 22.02.2011
 images:
     -
         file: 460f41a6f9ec75d404ef3b59702bfd25.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1123717875
+    -
+        type: point
+        coordinates:
+            lat: 51.649753
+            lon: 23.917125
+        source: gov
 osm:
     -
         type: way

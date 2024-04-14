@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Лебяжий»'
+    type: заказник
+    status: 'республиканский , 23.09.2019'
+    area_size: 43.4899
+    founded_on: 28.04.2015
 images:
     -
         file: 830f74672be8135edf66ca21b152ce92.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 5637028
+    -
+        type: point
+        coordinates:
+            lat: 53.94564
+            lon: 27.4493
+        source: gov
 osm:
     -
         type: relation

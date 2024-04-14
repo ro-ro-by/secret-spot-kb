@@ -3,8 +3,21 @@ title: 'Заказник «Мокрое-1»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Мокрое-1»'
+    type: заказник
+    status: 'местный , 18.05.2021'
+    area_size: 81.47
+    founded_on: 18.11.2009
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.561658
+            lon: 29.384644
+        source: gov
 meta:
     source:
         -

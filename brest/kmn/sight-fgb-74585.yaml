@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Заказник "Ворохово"'
+    type: заказник
+    status: 'местный , 03.10.2007'
+    area_size: 693.0
+    founded_on: 26.10.1995
 images:
     -
         file: 3afe3e1b8377b679e0324b02df94cfca.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74585'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.32856
+            lon: 23.488726
+        source: gov
 meta:
     fgb:
         post_id: '74585'

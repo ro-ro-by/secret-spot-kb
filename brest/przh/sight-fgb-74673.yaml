@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Ружанская пуща'
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 2812.0
+    founded_on: 21.02.1986
 images:
     -
         file: be6750e64e61e81f59f9cefec9d9d401.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9230620
+    -
+        type: point
+        coordinates:
+            lat: 52.90555
+            lon: 24.942028
+        source: gov
 osm:
     -
         type: relation

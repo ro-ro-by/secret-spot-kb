@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Родник Добрица'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 29.09.2023
 images:
     -
         file: 6ba1600b943f0b07c6c484a31f63d2c0.jpg
@@ -22,6 +28,12 @@ location:
             lat: '52.01328'
             lon: '29.32522'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.01328
+            lon: 29.32522
+        source: gov
 meta:
     fgb:
         post_id: '75378'

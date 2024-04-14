@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-krg
+gov:
+    title: 'Заказник «Пойма реки Друть»'
+    type: заказник
+    status: 'местный , 01.12.2023'
+    area_size: 314.0
+    founded_on: 15.12.2003
 images:
     -
         file: 1adfdfb704ccfe4126099ed9a20b8c31.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75033'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.158144
+            lon: 29.768534
+        source: gov
 meta:
     fgb:
         post_id: '75033'

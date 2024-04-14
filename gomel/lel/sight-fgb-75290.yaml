@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Дуб черешчатый «Данилевичский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02
+    founded_on: 26.04.2007
 images:
     -
         file: edaef3e5f0c2dab51c7377dcd8400e3e.jpg
@@ -38,6 +44,12 @@ location:
             lat: 51.79569
             lon: 28.01053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.77736
+            lon: 27.947431
+        source: gov
 meta:
     fgb:
         post_id: '75290'

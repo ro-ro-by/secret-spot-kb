@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Медухово
+    type: заказник
+    status: 'республиканский , 17.04.2014'
+    area_size: 1375.34
+    founded_on: 11.04.1996
 images:
     -
         file: 42985ba6239a5f599c5fc8fa36bbab87.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 457936363
+    -
+        type: point
+        coordinates:
+            lat: 53.133409
+            lon: 24.916103
+        source: gov
 osm:
     -
         type: way

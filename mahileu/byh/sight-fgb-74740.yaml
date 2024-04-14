@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Заказник «Клетное»'
+    type: заказник
+    status: 'местный , 01.08.2022'
+    area_size: 479.86
+    founded_on: 26.09.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.494161
+            lon: 30.14782
+        source: gov
 meta:
     fgb:
         post_id: '74740'

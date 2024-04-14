@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Большой камень Зыбалишкинский'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.001
+    founded_on: 29.03.2019
 images:
     -
         file: 0cf9d2417e5d66d292cd36a07568453e.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77071'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.106159
+            lon: 26.351742
+        source: gov
 meta:
     fgb:
         post_id: '77071'

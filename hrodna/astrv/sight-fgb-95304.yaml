@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Омут
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 5.5
+    founded_on: 05.06.2015
 images:
     -
         file: 17773fec666dd41850f535fb79dfa009.jpg
@@ -47,6 +53,12 @@ location:
             osm:
                 type: relation
                 id: 13512659
+    -
+        type: point
+        coordinates:
+            lat: 54.821344
+            lon: 25.834979
+        source: gov
 osm:
     -
         type: relation

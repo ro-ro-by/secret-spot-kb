@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Камень Пасутичский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.06.2010'
+    founded_on: 14.08.1995
 images:
     -
         file: 71973bde0155b574a35d9b2532ea64dd.jpg
@@ -36,6 +41,12 @@ location:
             lat: '53.141767'
             lon: '24.631218'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.141906
+            lon: 24.631189
+        source: gov
 meta:
     fgb:
         post_id: '77375'

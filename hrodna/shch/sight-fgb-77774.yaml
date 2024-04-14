@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Баличский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00082
+    founded_on: 18.01.2008
 images:
     -
         file: 1efdbd731ffb6ac5634a8054eb6360d7.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.513809'
             lon: '24.757229'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.513809
+            lon: 24.757229
+        source: gov
 meta:
     fgb:
         post_id: '77774'

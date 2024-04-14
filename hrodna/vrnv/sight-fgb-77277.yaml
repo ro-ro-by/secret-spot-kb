@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Парк сельскохозяйственного производственного кооператива «Элит-Агро» и прилегающее урочище «Гаик»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 8.65
+    founded_on: 08.05.2007
 images:
     -
         file: d8e9f8892884221d4f12a2dbd531a124.jpg
@@ -28,6 +34,12 @@ location:
             lat: 54.23798
             lon: 25.30457
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.237222
+            lon: 25.305
+        source: gov
 meta:
     fgb:
         post_id: '77277'

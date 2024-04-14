@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Каскад криниц'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 29.05.2022'
+    area_size: 1.18
+    founded_on: 26.09.2007
 images:
     -
         file: 16422a1c5b711aa80501528d003d6ddb.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.45985'
             lon: '30.02595'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.4599
+            lon: 30.02621
+        source: gov
 meta:
     fgb:
         post_id: '74737'

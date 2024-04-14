@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Парк «Березинское»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 13.33
+    founded_on: 28.10.2008
 images:
     -
         file: fe61d0df5c0712747bc62d135b4869cf.jpg
@@ -28,6 +34,12 @@ location:
             lat: 54.222417
             lon: 26.606778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.222067
+            lon: 26.607053
+        source: gov
 meta:
     fgb:
         post_id: '75867'

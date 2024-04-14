@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Группа валунов "Святская"'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.02.2018'
+    area_size: 0.0025
+    founded_on: 20.12.2002
 images:
     -
         file: 071aad8dd6795dc631ebe1472fb390e1.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77333'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.796556
+            lon: 23.661222
+        source: gov
 meta:
     fgb:
         post_id: '77333'

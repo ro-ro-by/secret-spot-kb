@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Дуб-патриарх «Пожежинский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.03
+    founded_on: 26.04.2007
 images:
     -
         file: 023ded392f1b84c3220b24a2c4d5b472.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.892167
             lon: 23.951722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.892117
+            lon: 23.951683
+        source: gov
 meta:
     fgb:
         post_id: '74638'

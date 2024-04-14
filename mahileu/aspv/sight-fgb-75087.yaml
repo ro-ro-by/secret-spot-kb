@@ -6,6 +6,11 @@ belongsTo:
     subregion: subregion-aspv
 forest:
     dominated_type: oak
+gov:
+    title: Дубрава
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 21.3
 images:
     -
         file: 2a77495359c4268479edc23a4b50c837.jpg
@@ -79,6 +84,12 @@ location:
             osm:
                 type: relation
                 id: 16005250
+    -
+        type: point
+        coordinates:
+            lat: 53.46035
+            lon: 28.629133
+        source: gov
 osm:
     -
         type: relation

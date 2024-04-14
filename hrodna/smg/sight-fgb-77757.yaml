@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Сутьковские глыбы конгломераты'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.0052
+    founded_on: 23.03.1995
 images:
     -
         file: e50ce4e45e4b2e0ca4cd096f6b6e3146.jpg
@@ -50,6 +56,12 @@ location:
             lat: '54.394924'
             lon: '26.374528'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.394924
+            lon: 26.374528
+        source: gov
 meta:
     fgb:
         post_id: '77757'

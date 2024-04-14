@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Каменка-2'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.0314
+    founded_on: 25.08.2023
 images:
     -
         file: 8f48e9c49ad239f222afc8eceb1d5989.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.5874'
             lon: '23.77691'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.587389
+            lon: 23.776944
+        source: gov
 meta:
     fgb:
         post_id: '79320'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: '«Рудаков ров»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 80.0
+    founded_on: 18.03.2008
 images:
     -
         file: a28aac639d2be2ee50b9f613fbcffa0e.jpg
@@ -29,6 +35,12 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.3868
+            lon: 30.3796
+        source: gov
 meta:
     fgb:
         post_id: '76984'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-kmn
 forest:
     dominated_type: ivy
+gov:
+    title: 'Верховичский плющевник'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0028
+    founded_on: 25.10.2001
 images:
     -
         file: 9bd84fad76f0ca24cf2dbdbd792ccac1.jpg
@@ -32,6 +38,12 @@ location:
             lat: 52.478917
             lon: 23.519389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.478917
+            lon: 23.519389
+        source: gov
 meta:
     fgb:
         post_id: '74581'

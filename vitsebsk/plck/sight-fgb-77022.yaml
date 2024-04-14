@@ -4,6 +4,19 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Гора Городок Замошская'
+    type: 'геологический памятник природы'
+    status: 'местный , 20.08.2021'
+    area_size: 145.0
+    founded_on: 23.05.2001
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.320224
+            lon: 28.431774
+        source: gov
 meta:
     fgb:
         post_id: '77022'

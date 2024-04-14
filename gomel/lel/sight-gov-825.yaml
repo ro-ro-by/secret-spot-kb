@@ -3,8 +3,21 @@ title: 'Заказник «Манчицы»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Манчицы»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 570.96
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.942745
+            lon: 28.466249
+        source: gov
 meta:
     source:
         -

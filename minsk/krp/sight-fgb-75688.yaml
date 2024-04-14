@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Родник в урочище Высокие горы'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 31.05.2022'
+    area_size: 8.0E-5
+    founded_on: 28.10.2008
 images:
     -
         file: d7399b6dcd4b2d337780ce12d7101a14.jpg
@@ -36,6 +42,12 @@ location:
             lat: '54.26998'
             lon: '28.97309'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.26998
+            lon: 28.97309
+        source: gov
 meta:
     fgb:
         post_id: '75688'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Гора Стражиная'
+    type: 'геологический памятник природы'
+    status: 'местный , 15.04.2010'
+    area_size: 95.13
+    founded_on: 30.12.1997
 images:
     -
         file: 6fdf1dd9d2f16c0eb0d2c0fbfac35c84.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77702'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.209478
+            lon: 25.478872
+        source: gov
 meta:
     fgb:
         post_id: '77702'

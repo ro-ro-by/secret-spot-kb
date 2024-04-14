@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Заказник «Сетище»'
+    type: заказник
+    status: 'местный , 21.09.2018'
+    area_size: 524.0
+    founded_on: 19.12.2007
 images:
     -
         file: 5e2871c72831d0cd712d3cb9b047f653.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75089'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.525619
+            lon: 28.751942
+        source: gov
 meta:
     fgb:
         post_id: '75089'

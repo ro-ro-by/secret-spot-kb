@@ -4,6 +4,19 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Заказник «Шаповаловские погорки»'
+    type: заказник
+    status: 'местный , 23.05.2023'
+    area_size: 173.15
+    founded_on: 22.04.1998
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.062267
+            lon: 27.157523
+        source: gov
 meta:
     fgb:
         post_id: '75623'

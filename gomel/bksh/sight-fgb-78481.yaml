@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-bksh
+gov:
+    title: 'Заказник «Белуга»'
+    type: заказник
+    status: местный
+    area_size: 264.0
+    founded_on: 14.05.2007
 images:
     -
         file: b03121d7b4bfcdf61e701368f59f152c.png
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '78481'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.534663
+            lon: 30.301133
+        source: gov
 meta:
     fgb:
         post_id: '78481'

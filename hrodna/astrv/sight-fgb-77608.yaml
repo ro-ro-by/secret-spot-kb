@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Валун «Мурованный камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001824
+    founded_on: 18.01.2008
 images:
     -
         file: 24070fc0fa2a802907edd4343593ce33.jpg
@@ -44,6 +50,12 @@ location:
             lat: '54.697327'
             lon: '25.843738'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.697327
+            lon: 25.843738
+        source: gov
 meta:
     fgb:
         post_id: '77608'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-mstsl
+gov:
+    title: 'Криница «Кагальный колодец»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 03.06.2022'
+    area_size: 0.01
+    founded_on: 29.01.2003
 images:
     -
         file: 77e74c98280ec1b95294aba2df887b2a.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.02577'
             lon: '31.72513'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.02577
+            lon: 31.72513
+        source: gov
 meta:
     fgb:
         post_id: '75077'

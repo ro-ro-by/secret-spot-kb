@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Заказник «Липки»'
+    type: заказник
+    status: местный
+    area_size: 414.96
+    founded_on: 21.12.2015
 images:
     -
         file: 506c2db9e45d10b908e2bf52fbb4b07b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75695'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.480019
+            lon: 29.285546
+        source: gov
 meta:
     fgb:
         post_id: '75695'

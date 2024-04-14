@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Большой камень сеньковщинский'
+    type: 'геологический памятник природы'
+    status: 'местный , 15.04.2010'
+    founded_on: 30.12.1997
 images:
     -
         file: b6054f9a1fb1372e31b79432ac5e3aab.jpg
@@ -38,6 +43,12 @@ location:
             lat: '53.188818'
             lon: '25.174178'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.188818
+            lon: 25.174178
+        source: gov
 meta:
     fgb:
         post_id: '77706'

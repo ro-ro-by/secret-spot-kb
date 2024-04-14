@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Заказник «Морочанский»'
+    type: заказник
+    status: 'местный , 07.05.2018'
+    area_size: 133.87
+    founded_on: 24.08.2006
 images:
     -
         file: 66f1eaa4294a22ef461f02775bee53df.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75658'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.884167
+            lon: 26.969444
+        source: gov
 meta:
     fgb:
         post_id: '75658'

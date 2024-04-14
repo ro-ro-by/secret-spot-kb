@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Мигматит»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001656
+    founded_on: 19.03.2007
 images:
     -
         file: f9db636fc3d58303632081ac6703ca58.jpg
@@ -23,6 +29,12 @@ location:
             lat: '54.192954'
             lon: '26.383279'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.19295
+            lon: 26.38327
+        source: gov
 meta:
     fgb:
         post_id: '75594'

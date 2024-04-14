@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Райгород'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.0314
+    founded_on: 25.08.2023
 images:
     -
         file: eb10005d00276db46a0d9eae51480d39.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.93047'
             lon: '23.93553'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.930469
+            lon: 23.935531
+        source: gov
 meta:
     fgb:
         post_id: '77347'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Забродье»'
+    type: заказник
+    status: местный
+    area_size: 3742.29
+    founded_on: 23.12.2015
 images:
     -
         file: ea8ff4366d703145f459e10bfb42ef7b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96064'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.730813
+            lon: 29.272802
+        source: gov
 meta:
     fgb:
         post_id: '96064'

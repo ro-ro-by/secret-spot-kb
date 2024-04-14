@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Большой камень» кревский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001326
+    founded_on: 18.01.2008
 images:
     -
         file: 72fa445d4a93b40432cc2c5f48eac569.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.323487'
             lon: '26.302889'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.323487
+            lon: 26.302889
+        source: gov
 meta:
     fgb:
         post_id: '77731'

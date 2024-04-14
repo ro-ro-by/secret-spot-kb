@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Калининский камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 22.10.2002'
+    founded_on: 21.06.2010
 images:
     -
         file: 42846141d7ee19ef478eecbe35105ae7.jpg
@@ -33,6 +38,12 @@ location:
             lat: '53.253287'
             lon: '24.715140'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.253289
+            lon: 24.715267
+        source: gov
 meta:
     fgb:
         post_id: '78971'

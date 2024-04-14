@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - pine
+gov:
+    title: 'Участки широколиственно-сосновых лесов'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 96.9
+    founded_on: 03.12.2008
 images:
     -
         file: 6a97364ed09d8191bc45289c1b41e218.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.47603
             lon: 29.95322
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.476028
+            lon: 29.953222
+        source: gov
 meta:
     fgb:
         post_id: '75428'

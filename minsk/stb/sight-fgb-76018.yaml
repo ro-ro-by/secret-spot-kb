@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Липы американские «Нововесковские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02
+    founded_on: 26.04.2007
 tree:
     type: tilia
 location:
@@ -13,6 +19,12 @@ location:
             lat: 53.221611
             lon: 26.673639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.35538
+            lon: 26.54111
+        source: gov
 meta:
     fgb:
         post_id: '76018'

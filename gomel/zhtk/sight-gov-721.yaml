@@ -3,8 +3,21 @@ title: 'Насаждения дуба и березы'
 belongsTo:
     region: region-gomel
     subregion: subregion-zhtk
+gov:
+    title: 'Насаждения дуба и березы'
+    type: 'ботанический памятник природы'
+    status: 'местный , 17.09.2018'
+    area_size: 8.7
+    founded_on: 24.03.2009
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.254167
+            lon: 27.782472
+        source: gov
 meta:
     source:
         -

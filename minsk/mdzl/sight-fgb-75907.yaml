@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Седловой камень» занарочанский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001
+    founded_on: 18.03.2008
 images:
     -
         file: 14569c51883234e646973ec53cf9b5db.jpg
@@ -48,6 +54,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75907'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.79478
+            lon: 26.79055
+        source: gov
 meta:
     fgb:
         post_id: '75907'

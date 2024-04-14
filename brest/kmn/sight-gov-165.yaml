@@ -3,8 +3,21 @@ title: 'Муравчицкие конгломераты'
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Муравчицкие конгломераты'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.002
+    founded_on: 17.12.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.375952
+            lon: 23.506194
+        source: gov
 meta:
     source:
         -

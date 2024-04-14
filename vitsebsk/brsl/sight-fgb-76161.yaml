@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» огонский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00039
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.636944
+            lon: 27.150556
+        source: gov
 meta:
     fgb:
         post_id: '76161'

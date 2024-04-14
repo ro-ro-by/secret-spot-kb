@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Пожежинская криница'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.11
+    founded_on: 31.12.2021
 images:
     -
         file: 91d22e766f70cd0c979b37ccd4a7e04b.jpg
@@ -22,6 +28,12 @@ location:
             lat: '51.96111'
             lon: '23.97314'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.961212
+            lon: 23.972627
+        source: gov
 meta:
     fgb:
         post_id: '74644'

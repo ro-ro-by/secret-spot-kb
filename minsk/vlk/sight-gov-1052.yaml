@@ -3,8 +3,21 @@ title: 'Заказник «Бонда»'
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Бонда»'
+    type: заказник
+    status: 'местный , 27.02.2015'
+    area_size: 356.0
+    founded_on: 24.05.2013
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.663773
+            lon: 26.602742
+        source: gov
 meta:
     source:
         -

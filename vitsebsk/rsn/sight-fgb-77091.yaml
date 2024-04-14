@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Гора Гвоздиха'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 22.8
+    founded_on: 31.12.2009
 images:
     -
         file: bbbf7102c75b1edb81ce3bfd1851d3b9.jpg
@@ -28,6 +34,12 @@ location:
             lat: 55.92739
             lon: 29.27294
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.925968
+            lon: 29.275131
+        source: gov
 meta:
     fgb:
         post_id: '77091'

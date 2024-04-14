@@ -4,6 +4,12 @@ type: sacral_hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Гора «Замечек»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 66.0
+    founded_on: 19.03.2007
 images:
     -
         file: 798f24cc5de053aed4498e3195001e36.jpg
@@ -16,6 +22,13 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1997
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.20316
+            lon: 26.25759
+        source: gov
 meta:
     fgb:
         post_id: '103135'

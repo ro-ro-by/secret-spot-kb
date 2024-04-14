@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» мацкийский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0009
+    founded_on: 18.03.2008
 images:
     -
         file: 668539e6b9166eaa79bb992f03fc2b99.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75903'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.78126
+            lon: 27.0813
+        source: gov
 meta:
     fgb:
         post_id: '75903'

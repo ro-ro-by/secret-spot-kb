@@ -4,6 +4,12 @@ type: TODO
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Низшее место Беларуси'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.02.2018'
+    area_size: 8.3
+    founded_on: 20.12.2002
 images:
     -
         file: 59d2093bc56a32160638e3d6921dca78.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77330'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.943167
+            lon: 23.913389
+        source: gov
 meta:
     fgb:
         post_id: '77330'

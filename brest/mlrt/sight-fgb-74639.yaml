@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Царь-дуб «Пожежинский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.022
+    founded_on: 26.04.2007
 images:
     -
         file: 476da23d1d0e5dee2428b4778fb9b894.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.884444
             lon: 24.036111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.884672
+            lon: 24.035943
+        source: gov
 meta:
     fgb:
         post_id: '74639'

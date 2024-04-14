@@ -3,8 +3,21 @@ title: 'Заказник «В пойме реки Дитва»'
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: 'Заказник «В пойме реки Дитва»'
+    type: заказник
+    status: 'местный , 22.10.2021'
+    area_size: 898.58
+    founded_on: 17.04.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.894148
+            lon: 25.043745
+        source: gov
 meta:
     source:
         -

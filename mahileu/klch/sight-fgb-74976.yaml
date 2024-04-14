@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник республиканского значения «Долгое»'
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 644.45
+    founded_on: 16.08.1979
 images:
     -
         file: 7322218cab1c24528e6b8073312a051b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74976'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.138274
+            lon: 27.682053
+        source: gov
 meta:
     fgb:
         post_id: '74976'

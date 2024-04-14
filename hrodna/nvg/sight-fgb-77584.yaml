@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Конгломерат «Запольский-2»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0016
+    founded_on: 18.01.2008
 images:
     -
         file: 8f350bae6952a98066526337c0f2037c.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.42889'
             lon: '25.73222'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 53.429128
+            lon: 25.732548
+        source: gov
 meta:
     fgb:
         post_id: '77584'

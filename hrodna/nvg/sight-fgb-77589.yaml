@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Гора каплица'
+    type: 'геологический памятник природы'
+    status: 'местный , 23.09.2008'
+    area_size: 280.0
+    founded_on: 18.03.1997
 images:
     -
         file: a762e220973d7267b85d616ee5a353c1.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77589'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.534778
+            lon: 25.890917
+        source: gov
 meta:
     fgb:
         post_id: '77589'

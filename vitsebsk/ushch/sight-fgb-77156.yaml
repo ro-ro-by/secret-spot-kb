@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Валуны «Березовские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    founded_on: 19.03.2007
 images:
     -
         file: bed705b86a53b2304cbe6dbb35aeeb60.jpg
@@ -39,6 +44,12 @@ location:
             lat: '55.23144'
             lon: '28.979195'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.23144
+            lon: 28.979195
+        source: gov
 meta:
     fgb:
         post_id: '77156'

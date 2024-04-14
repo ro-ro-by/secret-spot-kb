@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Валун «Большой камень» литовский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000648
+    founded_on: 18.01.2008
 images:
     -
         file: 9a4d5122f99c39e8e9421cf5fd23a153.jpg
@@ -32,6 +38,13 @@ images:
                 post_id: '77579'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.637332
+            lon: 25.817087
+        source: gov
 meta:
     fgb:
         post_id: '77579'

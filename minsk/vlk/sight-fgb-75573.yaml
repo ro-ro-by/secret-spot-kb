@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Гора Мироткова'
+    type: 'геологический памятник природы'
+    status: 'местный , 02.12.2008'
+    area_size: 4.5
+    founded_on: 27.02.1998
 images:
     -
         file: deed72e3bd50839fce1660e068c247a2.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75573'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.279922
+            lon: 27.358319
+        source: gov
 meta:
     fgb:
         post_id: '75573'

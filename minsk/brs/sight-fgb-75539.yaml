@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Парк в д. Скуплино'
+    type: 'ботанический памятник природы'
+    status: 'местный , 13.11.2023'
+    area_size: 2.91
+    founded_on: 24.02.1988
 images:
     -
         file: c18719459517303a406d4368fe317669.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.433889
             lon: 28.287806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.432003
+            lon: 28.289444
+        source: gov
 meta:
     fgb:
         post_id: '75539'

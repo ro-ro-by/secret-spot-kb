@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Полуостров «Наносы»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 90.0
+    founded_on: 18.03.2008
 images:
     -
         file: eb1aafa1c2e0413d13c51fecce0a5502.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75916'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.86701
+            lon: 26.7215
+        source: gov
 meta:
     fgb:
         post_id: '75916'

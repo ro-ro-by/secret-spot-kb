@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Ворониновская дубовая роща'
+    type: 'ботанический памятник природы'
+    status: 'местный , 29.05.2022'
+    area_size: 3.0
+    founded_on: 26.09.2007
 images:
     -
         file: 98d0fbe297dac223f49d9a10eef6e648.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.528111
             lon: 30.331333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.528111
+            lon: 30.331333
+        source: gov
 meta:
     fgb:
         post_id: '74736'

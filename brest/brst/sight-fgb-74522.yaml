@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Брестская родниковая струга'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.3944
+    founded_on: 30.11.2016
 images:
     -
         file: 4ce85eae5a31f69b67199adae30ef410.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 6867440
+    -
+        type: point
+        coordinates:
+            lat: 52.11077
+            lon: 23.72825
+        source: gov
 osm:
     -
         type: relation

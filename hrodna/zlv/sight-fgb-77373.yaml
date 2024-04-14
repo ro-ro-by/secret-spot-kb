@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Дуб
+    type: 'ботанический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 14.08.1995
 images:
     -
         file: 572c4f2bc4d104f931e613eff6d9f8d3.jpg
@@ -22,6 +27,12 @@ location:
             lat: 53.12272
             lon: 24.9925
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.122722
+            lon: 24.9925
+        source: gov
 meta:
     fgb:
         post_id: '77373'

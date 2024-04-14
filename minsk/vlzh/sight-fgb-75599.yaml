@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» залесский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000899
+    founded_on: 19.03.2007
 images:
     -
         file: e852cebebb1c097541599463c6894e14.jpg
@@ -39,6 +45,12 @@ location:
             lat: '54.056037'
             lon: '27.035323'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.05603
+            lon: 27.03532
+        source: gov
 meta:
     fgb:
         post_id: '75599'

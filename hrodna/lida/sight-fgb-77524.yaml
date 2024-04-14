@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: 'Заказник «Березина»'
+    type: заказник
+    status: 'местный , 13.10.2008'
+    area_size: 876.31
+    founded_on: 28.01.1997
 images:
     -
         file: 4b5937a590eb138ea7b080b8f09e0820.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1107120359
+    -
+        type: point
+        coordinates:
+            lat: 53.92338
+            lon: 25.103704
+        source: gov
 osm:
     -
         type: way

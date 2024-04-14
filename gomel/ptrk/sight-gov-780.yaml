@@ -3,8 +3,21 @@ title: Дубрава
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: Дубрава
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 20.2
+    founded_on: 28.10.2004
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.469166
+            lon: 28.644237
+        source: gov
 meta:
     source:
         -

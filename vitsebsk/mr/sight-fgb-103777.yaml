@@ -4,6 +4,12 @@ type: sacral_hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Новолоцкие погурки'
+    type: 'геологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 46.73
+    founded_on: 23.09.2011
 images:
     -
         file: 5966d79c54ed823500f195d28aa41f8f.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 10780900
+    -
+        type: point
+        coordinates:
+            lat: 55.576628
+            lon: 27.391164
+        source: gov
 osm:
     -
         type: relation

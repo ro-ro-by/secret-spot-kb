@@ -9,6 +9,12 @@ forest:
     types:
         - pine
         - aspen
+gov:
+    title: Селище
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.39
+    founded_on: 22.05.2002
 location:
     -
         type: point
@@ -16,6 +22,12 @@ location:
             lat: 53.4305
             lon: 31.42247
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.4305
+            lon: 31.422472
+        source: gov
 meta:
     fgb:
         post_id: '75000'

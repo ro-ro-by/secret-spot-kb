@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Гомсин камень» куренецкий'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000295
+    founded_on: 19.03.2007
 images:
     -
         file: 65423a30d8baa8244f1d67183c07e40a.jpg
@@ -35,6 +41,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75553'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.55779
+            lon: 26.95207
+        source: gov
 meta:
     fgb:
         post_id: '75553'

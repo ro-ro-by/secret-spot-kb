@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Два сросшихся дуба черешчатых «Голынковские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02
+    founded_on: 26.04.2007
 images:
     -
         file: 0f28d0a94cabb3eea378fa872009ca5c.jpg
@@ -24,6 +30,12 @@ location:
             lat: '52.937976'
             lon: '26.424801'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.93797
+            lon: 26.4248
+        source: gov
 meta:
     fgb:
         post_id: '75640'

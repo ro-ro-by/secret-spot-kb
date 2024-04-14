@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Подубье
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 7.8
+    founded_on: 05.06.2015
 images:
     -
         file: f16dad69ac9644ad80b56f8236e3a6e7.jpg
@@ -55,6 +61,12 @@ location:
             osm:
                 type: relation
                 id: 13512798
+    -
+        type: point
+        coordinates:
+            lat: 54.850338
+            lon: 25.813527
+        source: gov
 osm:
     -
         type: relation

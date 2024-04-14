@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: 'Заказник «Озерище»'
+    type: заказник
+    status: местный
+    area_size: 93.0
+    founded_on: 19.02.2012
 images:
     -
         file: 26ab4cb0d58055d6dd2eb8b3baf6b6c9.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75162'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.864361
+            lon: 31.149597
+        source: gov
 meta:
     fgb:
         post_id: '75162'

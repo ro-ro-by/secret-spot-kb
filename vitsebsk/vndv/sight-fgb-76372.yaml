@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Памятник природы «Генина гора»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.5
+    founded_on: 01.03.2016
 images:
     -
         file: 46f84ee6ca308439fa3874f3a4eb2d99.jpg
@@ -38,6 +44,12 @@ location:
             lat: '56.03963'
             lon: '27.92451'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 56.039636
+            lon: 27.924506
+        source: gov
 meta:
     fgb:
         post_id: '76372'

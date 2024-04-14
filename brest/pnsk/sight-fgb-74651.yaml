@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Заказник "Ступское"'
+    type: заказник
+    status: 'местный , 24.03.2005'
+    area_size: 879.0
+    founded_on: 24.11.1992
 images:
     -
         file: 4390af22667d3293f0b30825392c33ed.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74651'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.90392
+            lon: 26.391768
+        source: gov
 meta:
     fgb:
         post_id: '74651'

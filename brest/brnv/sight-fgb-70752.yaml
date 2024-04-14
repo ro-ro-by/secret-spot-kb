@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Насаждение лиственницы европейской «Молчадское»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 05.05.2007'
+    area_size: 1.6
+    founded_on: 27.12.1963
 images:
     -
         file: 891c548e5b54abf7483ae7a3d496d43e.jpg
@@ -38,6 +44,12 @@ location:
             lat: 53.358444
             lon: 25.734611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.35844
+            lon: 25.73461
+        source: gov
 meta:
     fgb:
         post_id: '70752'

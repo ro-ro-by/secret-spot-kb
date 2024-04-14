@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Заказник «Пенный Мох»'
+    type: заказник
+    status: 'местный , 05.12.2023'
+    area_size: 186.36
+    founded_on: 30.06.1993
 images:
     -
         file: 94fb87c673e1b99ba3eb2076b681ff97.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '98950'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.302454
+            lon: 29.837024
+        source: gov
 meta:
     fgb:
         post_id: '98950'

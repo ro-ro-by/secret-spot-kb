@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Большой камень моргиновский'
+    type: 'геологический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 0.0013
+    founded_on: 28.10.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.932044
+            lon: 27.120478
+        source: gov
 meta:
     fgb:
         post_id: '75926'

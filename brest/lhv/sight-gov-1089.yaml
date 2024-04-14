@@ -3,8 +3,21 @@ title: 'Заказник "Цыгане"'
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник "Цыгане"'
+    type: заказник
+    status: 'местный , 06.12.2019'
+    area_size: 2181.75
+    founded_on: 20.08.1990
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.038426
+            lon: 26.167046
+        source: gov
 meta:
     source:
         -

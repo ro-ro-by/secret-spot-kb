@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Зеневский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00141
+    founded_on: 18.01.2008
 images:
     -
         file: 06d6d8763fa5171aa7aaef6df1728fc7.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.690617'
             lon: '24.965302'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.690617
+            lon: 24.965302
+        source: gov
 meta:
     fgb:
         post_id: '77778'

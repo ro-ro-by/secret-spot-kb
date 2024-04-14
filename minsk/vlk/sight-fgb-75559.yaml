@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Обнажение «Поповцы»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 2.5
+    founded_on: 19.03.2007
 images:
     -
         file: 763694aa8a2cd411ffddb65b30039379.jpg
@@ -38,6 +44,12 @@ location:
             lat: '54.576962'
             lon: '26.704780'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.57696
+            lon: 26.70478
+        source: gov
 meta:
     fgb:
         post_id: '75559'

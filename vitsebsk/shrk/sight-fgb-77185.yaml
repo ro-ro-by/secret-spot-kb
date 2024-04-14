@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Торфяной заказник "Лесное"'
+    type: заказник
+    status: 'местный , 06.12.2011'
+    area_size: 4088.0
+    founded_on: 24.08.1994
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.332128
+            lon: 27.031771
+        source: gov
 meta:
     fgb:
         post_id: '77185'

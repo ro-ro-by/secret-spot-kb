@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Заказник "Бобровина"'
+    type: заказник
+    status: 'местный , 05.10.2020'
+    area_size: 3655.9
+    founded_on: 04.07.2016
 images:
     -
         file: 94e35e95d7d6adb9d137961391ffa027.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '97032'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.352323
+            lon: 24.370265
+        source: gov
 meta:
     fgb:
         post_id: '97032'

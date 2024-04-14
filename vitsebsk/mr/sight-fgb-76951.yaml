@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Симков Кладовой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 0.00079
+    founded_on: 23.09.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.570886
+            lon: 27.655333
+        source: gov
 meta:
     fgb:
         post_id: '76951'

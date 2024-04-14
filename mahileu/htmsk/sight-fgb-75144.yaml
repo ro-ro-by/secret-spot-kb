@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Святое озеро'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 30.10.2012'
+    area_size: 10.0
+    founded_on: 21.06.1990
 images:
     -
         file: e7730efbdb6286405ff681f4e43bd9e1.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75144'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.336451
+            lon: 32.463958
+        source: gov
 meta:
     fgb:
         post_id: '75144'

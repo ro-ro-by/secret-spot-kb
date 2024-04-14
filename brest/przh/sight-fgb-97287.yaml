@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Парк "Близная"'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 6.35
+    founded_on: 13.11.2018
 images:
     -
         file: a797bee724ea5ca8b8b27f343f9fb444.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.943944
             lon: 24.9395
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.943944
+            lon: 24.9395
+        source: gov
 meta:
     fgb:
         post_id: '97287'

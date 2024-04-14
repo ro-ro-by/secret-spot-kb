@@ -4,6 +4,12 @@ type: alley
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Вековая аллея в д. Бояры'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.84
+    founded_on: 22.12.2020
 images:
     -
         file: 3dd4bf5a7614ea8438f67e4b3a937b56.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.301972
             lon: 26.770639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.301947
+            lon: 26.770628
+        source: gov
 meta:
     fgb:
         post_id: '99516'

@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Медведковский оз'
+    type: 'геологический памятник природы'
+    status: 'местный , 04.01.2018'
+    area_size: 2.92
+    founded_on: 23.02.2012
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.117823
+            lon: 27.654193
+        source: gov
 meta:
     fgb:
         post_id: '76699'

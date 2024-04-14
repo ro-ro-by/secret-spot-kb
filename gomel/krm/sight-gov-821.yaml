@@ -3,8 +3,21 @@ title: 'Заказник «Струменский»'
 belongsTo:
     region: region-gomel
     subregion: subregion-krm
+gov:
+    title: 'Заказник «Струменский»'
+    type: заказник
+    status: местный
+    area_size: 8683.67
+    founded_on: 28.12.2012
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.162216
+            lon: 30.986709
+        source: gov
 meta:
     source:
         -

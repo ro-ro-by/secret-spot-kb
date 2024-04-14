@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Обнажение «Дубно»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 8.0
+    founded_on: 31.07.2006
 images:
     -
         file: 9448fc439a6b7c8250cf7009b6bea683.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77541'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.439444
+            lon: 24.390278
+        source: gov
 meta:
     fgb:
         post_id: '77541'

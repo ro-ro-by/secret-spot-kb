@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Обнажение «Тимошковичи»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 10.0
+    founded_on: 31.07.2006
 images:
     -
         file: 1e51e9b7618e39b014619d3aaf163bec.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77506'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.500203
+            lon: 25.979375
+        source: gov
 meta:
     fgb:
         post_id: '77506'

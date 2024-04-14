@@ -3,8 +3,21 @@ title: 'Заказник «Ельский»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Ельский»'
+    type: заказник
+    status: местный
+    area_size: 1322.42
+    founded_on: 20.01.2014
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.76176
+            lon: 28.60551
+        source: gov
 meta:
     source:
         -

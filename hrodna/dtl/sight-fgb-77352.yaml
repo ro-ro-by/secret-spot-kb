@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-dtl
+gov:
+    title: 'Заказник «Тростянка – Моргаль»'
+    type: заказник
+    status: 'местный , 01.12.2023'
+    area_size: 557.6
+    founded_on: 20.07.1995
 images:
     -
         file: 67488e380fc75ef4ab4502aa552966ae.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77352'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.414267
+            lon: 25.169143
+        source: gov
 meta:
     fgb:
         post_id: '77352'

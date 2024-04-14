@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Клены Александровского сквера'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.058
+    founded_on: 12.10.2017
 images:
     -
         file: 968b7d28d8356c717ed0777be023a242.jpg
@@ -38,6 +44,12 @@ location:
             lat: 53.901806
             lon: 27.562861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.901917
+            lon: 27.563222
+        source: gov
 meta:
     fgb:
         post_id: '75858'

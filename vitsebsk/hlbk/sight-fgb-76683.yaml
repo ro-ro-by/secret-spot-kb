@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Глубокский дендрологический сад'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 82.0
+    founded_on: 08.05.2007
 images:
     -
         file: 1298fcd832f232f93d5e11390a5bec28.jpg
@@ -52,6 +58,12 @@ location:
             lat: '55.147902'
             lon: '27.737479'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.148375
+            lon: 27.740338
+        source: gov
 meta:
     fgb:
         post_id: '76683'

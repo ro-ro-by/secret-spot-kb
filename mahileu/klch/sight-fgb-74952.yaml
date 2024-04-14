@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Криница «Долговская»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 0.031
+    founded_on: 16.10.2006
 images:
     -
         file: 745ed1499da7e9589b9652028917f6ad.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.67112'
             lon: '29.7748'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.67112
+            lon: 29.7748
+        source: gov
 meta:
     fgb:
         post_id: '74952'

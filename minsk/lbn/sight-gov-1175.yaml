@@ -3,8 +3,21 @@ title: 'Родник Мало-Городятичского лесничеств�
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Родник Мало-Городятичского лесничества'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 18.05.2016'
+    area_size: 3.3
+    founded_on: 24.10.2008
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.53991
+            lon: 28.31288
+        source: gov
 meta:
     source:
         -

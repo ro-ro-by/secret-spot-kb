@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-drb
+gov:
+    title: 'Заказник «Ипуть»'
+    type: заказник
+    status: местный
+    area_size: 3501.8
+    founded_on: 11.03.2013
 images:
     -
         file: 12849da5894de105831b1fcbe1d42275.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 10066515
+    -
+        type: point
+        coordinates:
+            lat: 52.507579
+            lon: 31.430276
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Любецкий»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00034
+    founded_on: 19.03.2007
 images:
     -
         file: f2b2d44d409327cc549189330a0c052a.jpg
@@ -38,6 +44,12 @@ location:
             lat: '54.502835'
             lon: '26.922866'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.50283
+            lon: 26.92286
+        source: gov
 meta:
     fgb:
         post_id: '75556'

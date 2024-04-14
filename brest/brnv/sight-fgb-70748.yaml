@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Верхне-Черниховский»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 21.12.2010'
+    area_size: 6.5
+    founded_on: 28.03.1994
 images:
     -
         file: 4266508618aa4d5ac24e9d624b973d79.jpg
@@ -32,6 +38,12 @@ location:
             lat: 53.246889
             lon: 26.233861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.246889
+            lon: 26.233861
+        source: gov
 meta:
     fgb:
         post_id: '70748'

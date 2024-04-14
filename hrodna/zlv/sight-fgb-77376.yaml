@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Выход марены "Королинский"'
+    type: 'геологический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 22.10.2002
 images:
     -
         file: ce4c7bd554552c157054e21b0769747e.jpg
@@ -33,6 +38,12 @@ location:
             osm:
                 type: way
                 id: 502075353
+    -
+        type: point
+        coordinates:
+            lat: 53.088119
+            lon: 24.863506
+        source: gov
 osm:
     -
         type: way

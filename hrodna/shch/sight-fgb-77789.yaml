@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Скоржитский'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.10.2008'
+    founded_on: 21.06.1993
 images:
     -
         file: 59f96bc8c293b7f9c44eb81cd7e9eee1.jpg
@@ -30,6 +35,12 @@ location:
             lat: '53.554302'
             lon: '24.583231'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.554333
+            lon: 24.583278
+        source: gov
 meta:
     fgb:
         post_id: '77789'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Заказник «Малиновщинские возвышенности»'
+    type: заказник
+    status: 'местный , 04.01.2018'
+    area_size: 353.24
+    founded_on: 16.05.1996
 images:
     -
         file: 444fd17c8a87145b2a75a26858a8db56.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76682'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.095027
+            lon: 27.640825
+        source: gov
 meta:
     fgb:
         post_id: '76682'

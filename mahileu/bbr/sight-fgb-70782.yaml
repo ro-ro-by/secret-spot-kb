@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Заказник «Дубовский каскад озер»'
+    type: заказник
+    status: 'местный , 10.12.2021'
+    area_size: 1028.26
+    founded_on: 19.12.2007
 images:
     -
         file: dd49dca168066993ee4129877e83b9d1.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 13376521
+    -
+        type: point
+        coordinates:
+            lat: 53.063056
+            lon: 29.325556
+        source: gov
 osm:
     -
         type: relation

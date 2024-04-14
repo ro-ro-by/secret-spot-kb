@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-htmsk
 forest:
     dominated_type: birch
+gov:
+    title: 'Боханская березовая роща'
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.01.2002'
+    area_size: 7.5
+    founded_on: 21.08.1994
 images:
     -
         file: 9e15db783f901c5671d791647a55bdb3.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.390111
             lon: 32.489694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.390111
+            lon: 32.489694
+        source: gov
 meta:
     fgb:
         post_id: '75140'

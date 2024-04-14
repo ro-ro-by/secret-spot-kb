@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Конгломерат «Святой камень» бузуновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 6.0E-5
+    founded_on: 19.03.2007
 images:
     -
         file: 61dcd28a537eb60f2b165682335f872c.jpg
@@ -22,6 +28,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75608'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.01703
+            lon: 27.04484
+        source: gov
 meta:
     fgb:
         post_id: '75608'

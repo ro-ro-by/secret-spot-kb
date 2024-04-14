@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Заказник "Оброво"'
+    type: заказник
+    status: 'местный , 16.05.2016'
+    area_size: 394.0
+    founded_on: 20.02.1997
 images:
     -
         file: b2bcc3230c4089852acfb2a2be089eca.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 552189427
+    -
+        type: point
+        coordinates:
+            lat: 52.180725
+            lon: 25.69038
+        source: gov
 osm:
     -
         type: way

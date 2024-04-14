@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Сарьянская низменность'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.8
+    founded_on: 10.06.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.928714
+            lon: 27.887628
+        source: gov
 meta:
     fgb:
         post_id: '76351'

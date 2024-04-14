@@ -4,6 +4,12 @@ type: TODO
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Трилесинские исполины'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 3.3
+    founded_on: 26.02.2003
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 54.049028
             lon: 30.97575
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.049028
+            lon: 30.97575
+        source: gov
 meta:
     fgb:
         post_id: '74796'

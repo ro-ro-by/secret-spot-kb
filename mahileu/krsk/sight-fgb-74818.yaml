@@ -4,6 +4,11 @@ type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+gov:
+    title: 'Насаждение сосны веймутовой «Чигиринский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 3.9
 images:
     -
         file: a6426ba3a3c505ba264f3c18e70bafc0.jpg
@@ -29,6 +34,12 @@ location:
             lat: 53.379917
             lon: 29.800972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.379917
+            lon: 29.800972
+        source: gov
 meta:
     fgb:
         post_id: '74818'

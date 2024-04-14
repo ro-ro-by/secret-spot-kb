@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Вековые дубы в д. Хохлово'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.39
+    founded_on: 22.12.2020
 images:
     -
         file: 7a1861f3fa313aa98da75372f543c685.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.163861
             lon: 26.761361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.163861
+            lon: 26.761056
+        source: gov
 meta:
     fgb:
         post_id: '99515'

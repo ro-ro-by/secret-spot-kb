@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Марианны'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.2826
+    founded_on: 25.08.2023
 images:
     -
         file: 31a6eaa4e23b9ca198e36032bdf7b151.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.8493'
             lon: '23.886'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.849306
+            lon: 23.866
+        source: gov
 meta:
     fgb:
         post_id: '93158'

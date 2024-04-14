@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Новинская хвоя'
+    type: 'ботанический памятник природы'
+    status: 'местный , 10.12.2021'
+    area_size: 0.0488
+    founded_on: 14.12.2007
 images:
     -
         file: 2eb63026723d002b358a2b8e216d2f44.jpg
@@ -30,6 +36,12 @@ location:
             lat: 52.566806
             lon: 25.907583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.566806
+            lon: 25.907583
+        source: gov
 meta:
     fgb:
         post_id: '74565'

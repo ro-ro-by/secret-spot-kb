@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Валун «Большой камень» плисский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000841
+    founded_on: 18.01.2008
 images:
     -
         file: 2aacd4e7143e0fa9f9425d80730797f5.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.819803'
             lon: '25.799511'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.819803
+            lon: 25.799511
+        source: gov
 meta:
     fgb:
         post_id: '77580'

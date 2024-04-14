@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Вековой дуб в деревне Краснобережье'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.005
+    founded_on: 10.06.2019
 images:
     -
         file: 578a19f4762139364069792a2c6d1cd7.jpg
@@ -38,6 +44,12 @@ location:
             lat: 51.87911
             lon: 28.43964
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.879133
+            lon: 28.439722
+        source: gov
 meta:
     fgb:
         post_id: '96045'

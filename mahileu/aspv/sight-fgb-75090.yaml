@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Заказник «Ляжанка»'
+    type: заказник
+    status: 'местный , 21.09.2018'
+    area_size: 398.0
+    founded_on: 23.08.2006
 images:
     -
         file: 4530fbddf68641d1369eb5c0c5ccca8a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75090'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.55824
+            lon: 28.707415
+        source: gov
 meta:
     fgb:
         post_id: '75090'

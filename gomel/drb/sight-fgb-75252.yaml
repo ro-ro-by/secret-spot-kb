@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-drb
+gov:
+    title: 'Обнажение «Новый Крупец»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.01
+    founded_on: 31.07.2006
 images:
     -
         file: 58d3973a17dfbb567d99e37b7c31ea32.jpg
@@ -14,6 +20,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75252'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.327494
+            lon: 31.359956
+        source: gov
 meta:
     fgb:
         post_id: '75252'

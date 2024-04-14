@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Меловая гора'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 171.29
+    founded_on: 28.03.1997
 images:
     -
         file: f91d9847df6aa6cd698245cf3aa5a926.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74627'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.750895
+            lon: 24.007656
+        source: gov
 meta:
     fgb:
         post_id: '74627'

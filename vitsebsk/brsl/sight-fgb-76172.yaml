@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Родник Исток Никли'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 04.09.2020'
+    area_size: 1.48
+    founded_on: 15.01.2007
 images:
     -
         file: 9cd6b2edd0d05b83bd2a9151667b5de1.jpg
@@ -22,6 +28,12 @@ location:
             lat: '55.77593'
             lon: '27.31165'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.775933
+            lon: 27.311647
+        source: gov
 meta:
     fgb:
         post_id: '76172'

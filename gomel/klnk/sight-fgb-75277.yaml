@@ -8,6 +8,12 @@ forest:
     dominated_type: spruce
     types:
         - spruce
+gov:
+    title: 'Островные ельники «Калинковичские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 171.5
+    founded_on: 05.05.2007
 images:
     -
         file: e77477b4981462414bf886deae42055e.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.21586
             lon: 29.11092
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.215861
+            lon: 29.110917
+        source: gov
 meta:
     fgb:
         post_id: '75277'

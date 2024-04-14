@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Вековая дубрава в окрестностях аг. Белая'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.4
+    founded_on: 02.12.2019
 images:
     -
         file: 48ec8d44b4b811309f3d1afd18296693.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.07736
             lon: 28.91108
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.077361
+            lon: 28.911083
+        source: gov
 meta:
     fgb:
         post_id: '96044'

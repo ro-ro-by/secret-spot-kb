@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Демидовичские родники'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 28.10.2008'
+    area_size: 8.69
+    founded_on: 29.09.2006
 images:
     -
         file: ad0177ea1c24a525673925699327855b.jpg
@@ -20,6 +26,12 @@ location:
             lat: '53.80072'
             lon: '27.14402'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.80072
+            lon: 27.14402
+        source: gov
 meta:
     fgb:
         post_id: '75636'

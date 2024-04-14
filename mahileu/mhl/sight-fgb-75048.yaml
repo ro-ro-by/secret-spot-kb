@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Дашковский парк'
+    type: 'ботанический памятник природы'
+    status: 'местный , 18.01.2012'
+    area_size: 3.4
+    founded_on: 24.02.2006
 images:
     -
         file: 556cad46734513291c86ac5501b43a3a.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.736472
             lon: 30.268306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.736472
+            lon: 30.268306
+        source: gov
 meta:
     fgb:
         post_id: '75048'

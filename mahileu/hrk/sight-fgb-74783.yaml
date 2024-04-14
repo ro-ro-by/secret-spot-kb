@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-hrk
 forest:
     dominated_type: birch
+gov:
+    title: 'Полящицкая роща'
+    type: 'ботанический памятник природы'
+    status: 'местный , 22.12.2016'
+    area_size: 17.9
+    founded_on: 20.11.2002
 images:
     -
         file: d7dbe255cdbfec5c43d4b386b55544b6.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 471332545
+    -
+        type: point
+        coordinates:
+            lat: 54.278175
+            lon: 31.098197
+        source: gov
 osm:
     -
         type: relation

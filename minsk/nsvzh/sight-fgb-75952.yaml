@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Дуб черешчатый "Козловский" ("Дуб-Якуб")'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.031
+    founded_on: 26.04.2007
 images:
     -
         file: 6a96b52e49b97fa61c6674f04464128e.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.160861
             lon: 26.526306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.16089
+            lon: 26.52662
+        source: gov
 meta:
     fgb:
         post_id: '75952'

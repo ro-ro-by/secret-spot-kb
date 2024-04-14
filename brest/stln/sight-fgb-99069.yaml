@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Дубенецкий дуб'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0382
+    founded_on: 31.05.2021
 tree:
     type: oak
 location:
@@ -13,6 +19,12 @@ location:
             lat: 52.03548
             lon: 26.97063
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.035478
+            lon: 26.970633
+        source: gov
 meta:
     fgb:
         post_id: '99069'

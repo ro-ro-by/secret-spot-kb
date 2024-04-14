@@ -3,8 +3,21 @@ title: 'Заказник «Суражский»'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Заказник «Суражский»'
+    type: заказник
+    status: местный
+    area_size: 11025.92
+    founded_on: 30.12.2022
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.558327
+            lon: 30.535712
+        source: gov
 meta:
     source:
         -

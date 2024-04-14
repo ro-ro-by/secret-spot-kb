@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Валун «Большой камень» кудаевский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00345
+    founded_on: 18.03.2008
 images:
     -
         file: 54afca30945293bdb7ea8ec4743ce4f2.jpg
@@ -36,6 +42,12 @@ location:
             lat: 54.55222
             lon: 30.52682
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.5528
+            lon: 30.5268
+        source: gov
 meta:
     fgb:
         post_id: '76974'

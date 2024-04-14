@@ -4,6 +4,12 @@ type: alley
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Дубово-лиственничная аллея'
+    type: 'ботанический памятник природы'
+    status: 'местный , 26.11.2021'
+    area_size: 11.0
+    founded_on: 28.10.2008
 images:
     -
         file: c2741b79d2b4aed566e6b686f782607b.jpg
@@ -36,6 +42,12 @@ location:
             lat: 53.288611
             lon: 26.731528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.288611
+            lon: 26.731528
+        source: gov
 meta:
     fgb:
         post_id: '75956'

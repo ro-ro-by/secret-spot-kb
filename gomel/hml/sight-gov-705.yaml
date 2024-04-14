@@ -3,8 +3,21 @@ title: 'Насаждения сосны'
 belongsTo:
     region: region-gomel
     subregion: subregion-hml
+gov:
+    title: 'Насаждения сосны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 22.0
+    founded_on: 22.07.2008
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.184556
+            lon: 31.017833
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Парк «Святск»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 6.1478
+    founded_on: '08.05.2007 (18.10.2021)'
 images:
     -
         file: dbe66e1c459fa11b2864d8cbf999cda4.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.79742
             lon: 23.65965
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.798717
+            lon: 23.661905
+        source: gov
 meta:
     fgb:
         post_id: '77319'

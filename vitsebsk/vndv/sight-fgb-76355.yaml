@@ -4,6 +4,11 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Городиловская гора'
+    type: 'геологический памятник природы'
+    status: местный
+    founded_on: 10.06.2011
 images:
     -
         file: a447534c27e8747d177ea8fbb6414e7e.jpg
@@ -20,6 +25,12 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 56.024883
+            lon: 28.253417
+        source: gov
 meta:
     fgb:
         post_id: '76355'

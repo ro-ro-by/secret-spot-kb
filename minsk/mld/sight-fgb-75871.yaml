@@ -7,6 +7,12 @@ belongsTo:
 forest:
     types:
         - fir
+gov:
+    title: 'Лесные культуры с участием пихты белой'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.95
+    founded_on: 12.10.2012
 location:
     -
         type: point
@@ -14,6 +20,12 @@ location:
             lat: 54.344944
             lon: 26.803722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.345514
+            lon: 26.804919
+        source: gov
 meta:
     fgb:
         post_id: '75871'

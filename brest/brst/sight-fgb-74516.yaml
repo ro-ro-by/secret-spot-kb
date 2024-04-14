@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Заказник "Брестский"'
+    type: заказник
+    status: 'местный , 29.12.2016'
+    area_size: 66.71
+    founded_on: 29.08.1995
 images:
     -
         file: d2c4828bae65cc5416b3004a803c6703.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 14224339
+    -
+        type: point
+        coordinates:
+            lat: 52.09278
+            lon: 23.801609
+        source: gov
 osm:
     -
         type: relation

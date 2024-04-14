@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Большой камень Глазковский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00187
+    founded_on: 31.12.2009
 images:
     -
         file: 0b7c0292e60bcc5ad92d77457644e7a4.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77093'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.944933
+            lon: 28.804133
+        source: gov
 meta:
     fgb:
         post_id: '77093'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Щербишские родники'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.26
+    founded_on: 29.03.2019
 images:
     -
         file: 021f02a5ad12e13665836e4682241ccf.jpg
@@ -45,6 +51,12 @@ location:
             lat: '55.07603'
             lon: '26.42421'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.076956
+            lon: 26.418782
+        source: gov
 meta:
     fgb:
         post_id: '77066'

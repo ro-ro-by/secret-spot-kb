@@ -4,6 +4,19 @@ type: sacral_hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гора «Барсучиха»'
+    type: 'геологический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 17.81
+    founded_on: 28.10.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93773
+            lon: 27.20785
+        source: gov
 meta:
     fgb:
         post_id: '103661'

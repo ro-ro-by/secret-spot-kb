@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Валун «Князь-камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000429
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.52498
+            lon: 28.21049
+        source: gov
 meta:
     fgb:
         post_id: '101130'

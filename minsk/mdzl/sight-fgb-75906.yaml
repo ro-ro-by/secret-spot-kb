@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Ольшевский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0007
+    founded_on: 18.03.2008
 images:
     -
         file: a261d3042ab168c55911604caa90485b.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75906'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.96747
+            lon: 26.37134
+        source: gov
 meta:
     fgb:
         post_id: '75906'

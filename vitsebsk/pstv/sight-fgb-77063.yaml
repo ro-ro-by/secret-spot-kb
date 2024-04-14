@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Валун «Большой камень» лодосский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00102
 images:
     -
         file: 02f50a78eb092526fd2398c0b99904db.jpg
@@ -42,6 +47,12 @@ location:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=106007#106007'
                 version: '08 Apr 2024, Mon, 12:43'
+    -
+        type: point
+        coordinates:
+            lat: 55.030615
+            lon: 26.530693
+        source: gov
 meta:
     fgb:
         post_id: '77063'

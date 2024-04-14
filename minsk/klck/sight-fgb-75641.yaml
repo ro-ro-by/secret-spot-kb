@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Парк «Радзивиллимонты»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 9.3
+    founded_on: 08.05.2007
 images:
     -
         file: e97036270d3769a462c66769822e50e2.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.009111
             lon: 26.674361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.00902
+            lon: 26.67719
+        source: gov
 meta:
     fgb:
         post_id: '75641'

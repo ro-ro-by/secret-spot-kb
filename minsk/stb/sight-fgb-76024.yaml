@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Родник «Красный»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 21.11.2023'
+    area_size: 3.6
+    founded_on: 24.10.2008
 images:
     -
         file: f90f23b0d9b206fcab9ad82143af4bb1.jpg
@@ -30,6 +36,12 @@ location:
             lat: '53.77175'
             lon: '26.64375'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.77175
+            lon: 26.64375
+        source: gov
 meta:
     fgb:
         post_id: '76024'

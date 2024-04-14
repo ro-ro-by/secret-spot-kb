@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - tilia
+gov:
+    title: 'Кристопольские вековые деревья'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.75
+    founded_on: 14.03.2023
 images:
     -
         file: a8d1cfb286fb6fe10bf9f25596be1128.jpg
@@ -32,6 +38,12 @@ location:
             lat: 53.24958
             lon: 30.62031
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.249583
+            lon: 30.620306
+        source: gov
 meta:
     fgb:
         post_id: '96032'

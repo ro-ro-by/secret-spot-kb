@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Юригдицкий валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.00035
+    founded_on: 23.03.1995
 images:
     -
         file: 9e0bb2d3165f74480ddf92f5153432b2.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.570920'
             lon: '26.599311'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.57092
+            lon: 26.599311
+        source: gov
 meta:
     fgb:
         post_id: '77756'

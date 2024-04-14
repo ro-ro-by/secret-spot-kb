@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: '«Голубая криница»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.0314
+    founded_on: 31.07.2006
 images:
     -
         file: 8ecc2942d4a93d1f1df185429a5e89c0.jpg
@@ -28,6 +34,12 @@ location:
             lat: '53.37941'
             lon: '31.04446'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.379342
+            lon: 31.04444
+        source: gov
 meta:
     fgb:
         post_id: '75101'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Валун «Святой камень» сенежицкий'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000235
+    founded_on: 18.01.2008
 images:
     -
         file: 0c77b78ca9ca3b8287c54a2514d70dec.jpg
@@ -50,6 +56,12 @@ location:
             lat: '53.540969'
             lon: '25.960464'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.540969
+            lon: 25.960464
+        source: gov
 meta:
     fgb:
         post_id: '77582'

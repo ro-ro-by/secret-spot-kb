@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Большой камень» дворецкий'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000651
+    founded_on: 19.03.2007
 images:
     -
         file: 5de989fc646dc4da0996ea1ae7802caa.jpg
@@ -40,6 +46,12 @@ location:
             lat: '54.670732'
             lon: '26.732236'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.67073
+            lon: 26.73223
+        source: gov
 meta:
     fgb:
         post_id: '75550'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Буяновский погорок'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 28.0
+    founded_on: 09.04.2020
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 55.68165
             lon: 27.52852
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.681956
+            lon: 27.528683
+        source: gov
 meta:
     fgb:
         post_id: '76941'

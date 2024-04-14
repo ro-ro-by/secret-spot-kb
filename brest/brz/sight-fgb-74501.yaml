@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Старинный парк «Габрилево»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 08.02.2008'
+    area_size: 5.82
+    founded_on: 27.10.1998
 images:
     -
         file: 34854e093cc3583cdb7d5fda5323c60e.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.508333
             lon: 25.120556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.508333
+            lon: 25.120556
+        source: gov
 meta:
     fgb:
         post_id: '74501'

@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Раздяловичские острова Черемушно'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 4.5748
+    founded_on: 30.09.2020
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.546481
+            lon: 26.141967
+        source: gov
 meta:
     fgb:
         post_id: '98594'

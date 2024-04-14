@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Парк Нижне-Теребежовский'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 11.47
+    founded_on: 27.02.1998
 images:
     -
         file: fb6135f0f9f768a536b6713824d8301b.jpg
@@ -20,6 +26,12 @@ location:
             lat: 51.823611
             lon: 26.723889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.824413
+            lon: 26.719089
+        source: gov
 meta:
     fgb:
         post_id: '74690'

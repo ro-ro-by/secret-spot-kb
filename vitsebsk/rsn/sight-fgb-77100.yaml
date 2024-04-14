@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Лидин камень Гречушинский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00072
+    founded_on: 31.12.2009
 images:
     -
         file: 852efb4f2255cefd4f974e1103ec49b5.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77100'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.876567
+            lon: 28.864017
+        source: gov
 meta:
     fgb:
         post_id: '77100'

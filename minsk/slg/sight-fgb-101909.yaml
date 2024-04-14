@@ -4,8 +4,21 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Дуб черешчатый'
+    type: 'ботанический памятник природы'
+    status: 'местный , 18.05.2016'
+    area_size: 0.003
+    founded_on: 24.10.2008
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.640417
+            lon: 28.021389
+        source: gov
 meta:
     fgb:
         post_id: '101909'

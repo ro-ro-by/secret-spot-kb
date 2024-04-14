@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Заказник «Сита»'
+    type: заказник
+    status: местный
+    area_size: 492.38
+    founded_on: 30.11.2018
 images:
     -
         file: 2c1804626887ef7342c777fbb43a8b9d.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96101'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.67138
+            lon: 26.787065
+        source: gov
 meta:
     fgb:
         post_id: '96101'

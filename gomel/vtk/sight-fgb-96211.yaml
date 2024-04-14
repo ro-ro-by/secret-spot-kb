@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-vtk
+gov:
+    title: 'Вековой дуб в агрогородке Яново'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0305
+    founded_on: 01.04.2019
 images:
     -
         file: f3c8768753f97d9969325dc4b27c099e.jpg
@@ -30,6 +36,12 @@ location:
             lat: 52.833417
             lon: 31.499278
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.833417
+            lon: 31.499278
+        source: gov
 meta:
     fgb:
         post_id: '96211'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Заказник «Пойма Птичи»'
+    type: заказник
+    status: 'местный , 15.12.2014'
+    area_size: 911.95
+    founded_on: 27.12.2006
 images:
     -
         file: 1ed45d3f2ef36d1fbfaa0b786f6cea50.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75418'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.420055
+            lon: 28.820113
+        source: gov
 meta:
     fgb:
         post_id: '75418'

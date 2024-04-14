@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Шевекинский валун'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0006
+    founded_on: 12.05.2003
 images:
     -
         file: 098531e956d719344af161dc84a13aa2.jpg
@@ -26,6 +32,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77209'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.568358
+            lon: 29.549978
+        source: gov
 meta:
     fgb:
         post_id: '77209'

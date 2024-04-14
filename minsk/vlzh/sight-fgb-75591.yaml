@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00124
+    founded_on: 19.03.2007
 images:
     -
         file: 1877952b47f098720083c20f70216ba6.jpg
@@ -47,6 +53,12 @@ location:
             lat: '53.860319'
             lon: '26.651311'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.86031
+            lon: 26.65131
+        source: gov
 meta:
     fgb:
         post_id: '75591'

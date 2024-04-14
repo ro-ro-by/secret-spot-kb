@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: Клища
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 18.1
+    founded_on: 21.04.2009
 images:
     -
         file: a1ef6fc759782558c54e0744b5dc26a2.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.030806
             lon: 24.645528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.030806
+            lon: 24.645528
+        source: gov
 meta:
     fgb:
         post_id: '74604'

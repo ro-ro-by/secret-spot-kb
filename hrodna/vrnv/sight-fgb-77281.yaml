@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Перунов камень» товкинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001599
+    founded_on: 31.07.2006
 images:
     -
         file: 3f0f24397a9f199b81c8afdc640f2a34.jpg
@@ -42,6 +48,12 @@ location:
             lat: '54.017661'
             lon: '25.175163'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.017661
+            lon: 25.175163
+        source: gov
 meta:
     fgb:
         post_id: '77281'

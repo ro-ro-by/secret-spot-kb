@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Обнажение «Зборово»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.01
+    founded_on: 31.07.2006
 images:
     -
         file: ba24210ed7ed1518f12f233ffc214d37.jpg
@@ -22,6 +28,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75433'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.093164
+            lon: 30.187609
+        source: gov
 meta:
     fgb:
         post_id: '75433'

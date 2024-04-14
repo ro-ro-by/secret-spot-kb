@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Вековой вяз'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0284
+    founded_on: 30.10.2020
 images:
     -
         file: 7935b9c958774e2e44eaaad568df46fe.jpg
@@ -15,6 +21,13 @@ images:
                 post_id: '90052'
 tree:
     type: elm
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.5242
+            lon: 28.138083
+        source: gov
 meta:
     fgb:
         post_id: '90052'

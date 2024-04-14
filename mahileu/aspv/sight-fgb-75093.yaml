@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Эталонное насаждение'
+    type: 'ботанический памятник природы'
+    status: 'местный , 16.03.2011'
+    area_size: 5.7
+    founded_on: 26.03.2003
 images:
     -
         file: 37297a3c085a69cc617fb5a85cb3d23c.jpg
@@ -58,6 +64,12 @@ location:
             lat: '53.359580'
             lon: '28.848233'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.35958
+            lon: 28.848233
+        source: gov
 meta:
     fgb:
         post_id: '75093'

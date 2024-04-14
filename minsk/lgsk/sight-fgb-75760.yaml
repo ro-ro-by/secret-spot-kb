@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Родник «Логозинка»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 13.06.2023
 images:
     -
         file: 860c69dbcb35f1f9a649f48aeaf2db49.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.25289'
             lon: '27.78861'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.25289
+            lon: 27.78861
+        source: gov
 meta:
     fgb:
         post_id: '75760'

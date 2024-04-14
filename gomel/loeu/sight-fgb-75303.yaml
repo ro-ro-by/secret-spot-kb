@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-loeu
+gov:
+    title: 'Обнажение «Лоев»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.01
+    founded_on: 31.07.2006
 images:
     -
         file: cf91fe9be9cb01db994b795cdc969984.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75303'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.9428
+            lon: 30.8061
+        source: gov
 meta:
     fgb:
         post_id: '75303'

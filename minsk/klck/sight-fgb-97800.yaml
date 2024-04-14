@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Вековые деревья Голынковского лесничества'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.21
 location:
     -
         type: point
@@ -11,6 +16,12 @@ location:
             lat: 52.891556
             lon: 26.491306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.891556
+            lon: 26.491306
+        source: gov
 meta:
     fgb:
         post_id: '97800'

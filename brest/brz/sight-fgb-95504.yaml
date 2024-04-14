@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Республиканский биологический заказник «Споровский»'
+    type: заказник
+    status: 'республиканский , 23.02.1999'
+    area_size: 19384.0
+    founded_on: 15.08.1991
 images:
     -
         file: a121579f59911638c3c0b9bc9a5d0b84.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 9124491
+    -
+        type: point
+        coordinates:
+            lat: 52.401935
+            lon: 25.108173
+        source: gov
 osm:
     -
         type: relation

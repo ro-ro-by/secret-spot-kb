@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Дубровка»'
+    type: заказник
+    status: местный
+    area_size: 3735.06
+    founded_on: 23.12.2015
 images:
     -
         file: feb5a2e58bb8f66f80b555be0a18a4e2.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96061'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.858675
+            lon: 29.262185
+        source: gov
 meta:
     fgb:
         post_id: '96061'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Ели обыкновенные змеевидной формы «Брестские»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.04.2007'
+    area_size: 0.03
+    founded_on: 27.12.1963
 images:
     -
         file: 8c01114dcb4b83a4e29f490470d78f9f.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.0925
             lon: 23.673333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.0925
+            lon: 23.673333
+        source: gov
 meta:
     fgb:
         post_id: '74512'

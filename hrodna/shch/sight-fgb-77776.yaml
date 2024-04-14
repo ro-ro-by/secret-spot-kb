@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Василишковский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00144
+    founded_on: 18.01.2008
 images:
     -
         file: 18347b487b7d4b5cd476e02e73eac5d9.jpg
@@ -42,6 +48,12 @@ location:
             lat: '53.775444'
             lon: '24.853298'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.77544
+            lon: 24.853336
+        source: gov
 meta:
     fgb:
         post_id: '77776'

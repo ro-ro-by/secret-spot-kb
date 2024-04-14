@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Парк «Руткевичи»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 5.0
+    founded_on: 08.05.2007
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 53.5756
             lon: 24.73368
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.575439
+            lon: 24.733942
+        source: gov
 meta:
     fgb:
         post_id: '77773'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Заказник «Свитязянский»'
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 1193.79
+    founded_on: 18.06.1970
 images:
     -
         file: f794663871db7623b0ae45cbb4878c1f.jpg
@@ -35,6 +41,12 @@ location:
             osm:
                 type: relation
                 id: 7843845
+    -
+        type: point
+        coordinates:
+            lat: 53.463585
+            lon: 25.880912
+        source: gov
 osm:
     -
         type: relation

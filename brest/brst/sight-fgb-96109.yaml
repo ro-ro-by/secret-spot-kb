@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-brst
 forest:
     dominated_type: fir
+gov:
+    title: 'Брестский пихтарник'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0065
+    founded_on: 30.12.2019
 location:
     -
         type: point
@@ -13,6 +19,12 @@ location:
             lat: 52.085694
             lon: 23.684778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.085694
+            lon: 23.684778
+        source: gov
 meta:
     fgb:
         post_id: '96109'

@@ -3,8 +3,21 @@ title: 'Пригривденские дубы'
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Пригривденские дубы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0919
+    founded_on: 12.10.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.759358
+            lon: 25.215704
+        source: gov
 meta:
     source:
         -

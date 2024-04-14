@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Родник «Святая вода Дехтяревская»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 4.14
+    founded_on: 23.09.2011
 images:
     -
         file: 7417b81bfc3f479596f9d0ef75573b83.jpg
@@ -28,6 +34,12 @@ location:
             lat: '55.57360'
             lon: '27.48894'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.573653
+            lon: 27.488739
+        source: gov
 meta:
     fgb:
         post_id: '76937'

@@ -3,8 +3,21 @@ title: 'Заказник «Глыбочанский»'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Заказник «Глыбочанский»'
+    type: заказник
+    status: 'местный , 17.12.2020'
+    area_size: 556.71
+    founded_on: 11.03.1987
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.295976
+            lon: 28.904721
+        source: gov
 meta:
     source:
         -

@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава кисличная'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 37.74
+    founded_on: 30.11.2021
 location:
     -
         type: point
@@ -15,6 +21,12 @@ location:
             lat: 53.177556
             lon: 27.200889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.177556
+            lon: 27.200889
+        source: gov
 meta:
     fgb:
         post_id: '75646'

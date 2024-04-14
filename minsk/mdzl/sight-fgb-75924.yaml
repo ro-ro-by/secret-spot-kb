@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Большой камень жосненский'
+    type: 'геологический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 0.0028
+    founded_on: 28.10.2008
 images:
     -
         file: 5d162282129eb7dfdfe92149a9e69d07.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75924'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.920106
+            lon: 27.218683
+        source: gov
 meta:
     fgb:
         post_id: '75924'

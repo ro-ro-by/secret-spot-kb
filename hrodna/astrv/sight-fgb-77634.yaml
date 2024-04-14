@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Быстрица-1
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 1.3
+    founded_on: 05.06.2015
 images:
     -
         file: f485087d0e23190073e719b27fb29028.jpg
@@ -55,6 +61,12 @@ location:
             osm:
                 type: relation
                 id: 13512741
+    -
+        type: point
+        coordinates:
+            lat: 54.814608
+            lon: 25.859167
+        source: gov
 osm:
     -
         type: relation

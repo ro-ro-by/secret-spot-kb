@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Озеро Бык'
+    type: заказник
+    status: 'местный , 27.03.2020'
+    area_size: 119.96
+    founded_on: 28.09.1999
 images:
     -
         file: 39e716c6e12e68052b44bc5ad16a2c67.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 879344709
+    -
+        type: point
+        coordinates:
+            lat: 54.692033
+            lon: 25.749122
+        source: gov
 osm:
     -
         type: way

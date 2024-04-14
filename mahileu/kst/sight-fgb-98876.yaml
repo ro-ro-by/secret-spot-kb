@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: 'Вековой дуб Костюковичского лесхоза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.05
+    founded_on: 17.12.2021
 images:
     -
         file: 105bcb8f3f117ffd681faa528c0239dc.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.184089
             lon: 32.044694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.184089
+            lon: 32.044694
+        source: gov
 meta:
     fgb:
         post_id: '98876'

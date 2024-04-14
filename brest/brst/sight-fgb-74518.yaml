@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Заказник "Бугский"'
+    type: заказник
+    status: 'местный , 26.12.2019'
+    area_size: 3285.06
+    founded_on: 20.12.1999
 images:
     -
         file: 7193a38f4f4f83b421cb06e69a65aa98.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74518'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.19008
+            lon: 23.482581
+        source: gov
 meta:
     fgb:
         post_id: '74518'

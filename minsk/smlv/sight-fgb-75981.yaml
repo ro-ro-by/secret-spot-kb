@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Парк «Шипяны»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 10.05.2023'
+    area_size: 9.51
+    founded_on: 08.12.2008
 images:
     -
         file: 1dbfe94c43fa732c4c9d7e2c452b6847.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.961306
             lon: 28.290306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.961306
+            lon: 28.290306
+        source: gov
 meta:
     fgb:
         post_id: '75981'

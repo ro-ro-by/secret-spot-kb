@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lnn
+gov:
+    title: Борский
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 2818.4
+    founded_on: 16.08.1979
 images:
     -
         file: 2c35bbb74f13b18e1dbe767de54382b9.jpg
@@ -25,6 +31,12 @@ location:
             osm:
                 type: way
                 id: 538516532
+    -
+        type: point
+        coordinates:
+            lat: 52.700857
+            lon: 26.926457
+        source: gov
 osm:
     -
         type: way

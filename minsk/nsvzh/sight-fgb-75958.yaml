@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Сновский парк'
+    type: 'ботанический памятник природы'
+    status: 'местный , 15.04.2019'
+    area_size: 11.81
+    founded_on: 28.10.2008
 images:
     -
         file: a3c99aa6d70fac62910aec9cf36abfd1.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.224278
             lon: 26.414528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.224278
+            lon: 26.414528
+        source: gov
 meta:
     fgb:
         post_id: '75958'

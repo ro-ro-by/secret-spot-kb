@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Сосны-гиганты «Новобоярские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 3.3
+    founded_on: 26.04.2007
 images:
     -
         file: 4cb096c39197f9b9cd1726348896e1e2.jpg
@@ -61,6 +67,12 @@ location:
             osm:
                 type: relation
                 id: 14945481
+    -
+        type: point
+        coordinates:
+            lat: 53.42021
+            lon: 30.0037
+        source: gov
 osm:
     -
         type: relation

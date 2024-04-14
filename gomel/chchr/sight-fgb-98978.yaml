@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-chchr
+gov:
+    title: 'Заказник «Чечерский»'
+    type: заказник
+    status: местный
+    area_size: 13436.68
+    founded_on: 25.01.2013
 images:
     -
         file: d95699fde17fa221433e27e360d22c7d.png
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '98978'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.018407
+            lon: 31.059887
+        source: gov
 meta:
     fgb:
         post_id: '98978'

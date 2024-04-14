@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsnp
+gov:
+    title: 'Дендрологический сад имени И.И.Зотова'
+    type: 'ботанический памятник природы'
+    status: 'местный , 23.02.2017'
+    area_size: 2.71
+    founded_on: 22.05.2002
 images:
     -
         file: 86860d52e9c74db82537bae24e970dd9.jpg
@@ -45,6 +51,12 @@ location:
             osm:
                 type: way
                 id: 662171110
+    -
+        type: point
+        coordinates:
+            lat: 53.317083
+            lon: 31.5175
+        source: gov
 osm:
     -
         type: way

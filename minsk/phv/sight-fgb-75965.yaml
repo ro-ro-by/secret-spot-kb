@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Сергеевичский»'
+    type: заказник
+    status: 'местный , 30.10.2020'
+    area_size: 2905.4
+    founded_on: 22.11.2001
 location:
     -
         type: geojson
@@ -14,6 +20,12 @@ location:
             osm:
                 type: relation
                 id: 16410658
+    -
+        type: point
+        coordinates:
+            lat: 53.51409
+            lon: 27.759649
+        source: gov
 osm:
     -
         type: relation

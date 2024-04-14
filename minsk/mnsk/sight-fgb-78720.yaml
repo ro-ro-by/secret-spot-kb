@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Памятник природы «Стайки»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 1.4
+    founded_on: 26.01.2016
 images:
     -
         file: c9087090d8590cb0fecdbd064400f067.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.80288'
             lon: '27.73176'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.78412
+            lon: 27.53601
+        source: gov
 meta:
     fgb:
         post_id: '78720'

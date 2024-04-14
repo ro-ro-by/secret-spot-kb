@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Центральный ботанический сад Национальной академии наук Беларуси'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.06.2014'
+    area_size: 93.0
+    founded_on: 29.09.1999
 images:
     -
         file: 028307e5e21f3520034fc278ebb6dab9.jpg
@@ -45,6 +51,12 @@ location:
             osm:
                 type: relation
                 id: 222265
+    -
+        type: point
+        coordinates:
+            lat: 53.92155
+            lon: 27.60946
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Заказник «Стрельский»'
+    type: заказник
+    status: 'республиканский , 03.04.2020'
+    area_size: 12054.09
+    founded_on: 23.02.1999
 images:
     -
         file: a2896975eafa1b94fd3dccfc64dd8e82.jpg
@@ -25,6 +31,12 @@ location:
             osm:
                 type: relation
                 id: 4483064
+    -
+        type: point
+        coordinates:
+            lat: 51.9359
+            lon: 29.4499
+        source: gov
 osm:
     -
         type: relation

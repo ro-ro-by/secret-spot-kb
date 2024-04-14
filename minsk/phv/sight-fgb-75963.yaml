@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Омельнянский»'
+    type: заказник
+    status: республиканский
+    area_size: 2011.57
+    founded_on: 16.08.1979
 images:
     -
         file: 7a22e990bd06f688395668a81eaffc11.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75963'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.35388
+            lon: 28.03166
+        source: gov
 meta:
     fgb:
         post_id: '75963'

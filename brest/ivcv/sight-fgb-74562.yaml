@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-ivcv
 forest:
     dominated_type: birch_black
+gov:
+    title: 'Турнянские чёрные берёзы'
+    type: 'ботанический памятник природы'
+    status: 'местный , 10.12.2021'
+    area_size: 11.57
+    founded_on: 18.12.2002
 images:
     -
         file: bf18036b6c54a4c55925b5fb6dec4da1.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.500361
             lon: 25.745972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.500361
+            lon: 25.745972
+        source: gov
 meta:
     fgb:
         post_id: '74562'

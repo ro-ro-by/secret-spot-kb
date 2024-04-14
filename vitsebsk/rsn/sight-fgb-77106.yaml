@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Цыбульский камень Заозерский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00068
+    founded_on: 31.12.2009
 images:
     -
         file: 66b8a6a304afecf4e5e44a3b9d37c5ae.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77106'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.873833
+            lon: 28.892633
+        source: gov
 meta:
     fgb:
         post_id: '77106'

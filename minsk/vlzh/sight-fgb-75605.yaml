@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Обнажение «Полочаны»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 4.5
+    founded_on: 19.03.2007
 images:
     -
         file: 195e5fca3fd7f5063ea375884d1b34f9.jpg
@@ -34,6 +40,12 @@ location:
             osm:
                 type: relation
                 id: 12009851
+    -
+        type: point
+        coordinates:
+            lat: 54.00292
+            lon: 26.98267
+        source: gov
 osm:
     -
         type: relation

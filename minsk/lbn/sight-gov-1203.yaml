@@ -3,8 +3,21 @@ title: 'Обнажение Костеши'
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Обнажение Костеши'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 02.11.2020
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.882917
+            lon: 28.102667
+        source: gov
 meta:
     source:
         -

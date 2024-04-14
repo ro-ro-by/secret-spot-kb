@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Плебанская долина'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 26.93
+    founded_on: 16.02.1995
 images:
     -
         file: 52e313607b6653d0460f12222ff4a454.jpg
@@ -20,6 +26,12 @@ location:
             lat: '54.240832'
             lon: '26.007053'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.240832
+            lon: 26.007053
+        source: gov
 meta:
     fgb:
         post_id: '77649'

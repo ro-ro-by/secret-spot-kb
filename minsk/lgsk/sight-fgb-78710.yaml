@@ -4,6 +4,19 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Родник «Лесной»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 31.05.2022'
+    area_size: 0.002
+    founded_on: 28.10.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.5077
+            lon: 29.15051
+        source: gov
 meta:
     fgb:
         post_id: '78710'

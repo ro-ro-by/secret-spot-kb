@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Вязькутино»'
+    type: заказник
+    status: местный
+    area_size: 649.16
+    founded_on: 23.12.2015
 images:
     -
         file: 5d5e1665e18991407f3c5971bddb05fc.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96062'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.720099
+            lon: 29.115165
+        source: gov
 meta:
     fgb:
         post_id: '96062'

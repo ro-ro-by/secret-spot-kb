@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Обнажение «Морино»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 3.25
+    founded_on: 31.07.2006
 images:
     -
         file: 0fc1947dfd7275e0b0085d874ebb1247.jpg
@@ -35,6 +41,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77485'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.845385
+            lon: 25.635768
+        source: gov
 meta:
     fgb:
         post_id: '77485'

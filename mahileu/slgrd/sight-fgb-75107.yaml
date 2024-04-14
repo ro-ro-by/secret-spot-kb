@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: 'Заказник «Журавель»'
+    type: заказник
+    status: 'местный , 28.12.2023'
+    area_size: 543.93
+    founded_on: 27.12.2006
 images:
     -
         file: 05a2329cd0ed6e995638cc4b1ff06749.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 662173402
+    -
+        type: point
+        coordinates:
+            lat: 53.493189
+            lon: 30.885747
+        source: gov
 osm:
     -
         type: way

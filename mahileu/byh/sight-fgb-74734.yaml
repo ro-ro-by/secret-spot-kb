@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Грудиновский парк'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 13.05.2021'
+    area_size: 13.56
+    founded_on: 08.05.2007
 images:
     -
         file: 7bb8aff3c86f44f2d68ad59b041bdd7a.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.635528
             lon: 30.471639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.635913
+            lon: 30.479794
+        source: gov
 meta:
     fgb:
         post_id: '74734'

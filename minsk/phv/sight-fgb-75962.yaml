@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Матеевичский»'
+    type: заказник
+    status: республиканский
+    area_size: 1802.19
+    founded_on: 27.12.2007
 images:
     -
         file: 2c17db7c28b61c0f618f01a01f5e579a.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 444422175
+    -
+        type: point
+        coordinates:
+            lat: 53.40239
+            lon: 28.26236
+        source: gov
 osm:
     -
         type: way

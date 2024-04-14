@@ -3,8 +3,21 @@ title: 'Заказник «Друскеники»'
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Заказник «Друскеники»'
+    type: заказник
+    status: 'местный , 13.02.2023'
+    area_size: 5662.15
+    founded_on: 12.12.2016
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.895291
+            lon: 24.078884
+        source: gov
 meta:
     source:
         -

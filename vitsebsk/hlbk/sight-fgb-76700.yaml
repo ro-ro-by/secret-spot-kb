@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Большой камень Давыдковский'
+    type: 'геологический памятник природы'
+    status: 'местный , 04.01.2018'
+    area_size: 0.0028
+    founded_on: 23.02.2012
 images:
     -
         file: cdc1a577cd859e6a113056ec8334e9a2.jpg
@@ -14,6 +20,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76700'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.124306
+            lon: 28.032139
+        source: gov
 meta:
     fgb:
         post_id: '76700'

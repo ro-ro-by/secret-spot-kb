@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Селецкий валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.00025
+    founded_on: 23.03.1995
 images:
     -
         file: cf4efb85d08bca3a6a73e6b1d25b3db8.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.363923'
             lon: '26.367431'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.363923
+            lon: 26.367431
+        source: gov
 meta:
     fgb:
         post_id: '77747'

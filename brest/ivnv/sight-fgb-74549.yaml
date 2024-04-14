@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Заказник "Завишье"'
+    type: заказник
+    status: 'местный , 30.05.2006'
+    area_size: 1323.7
+    founded_on: 26.12.1995
 images:
     -
         file: 36164ddbab4b61e2bf96e784c80a98b3.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74549'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.93487
+            lon: 25.656098
+        source: gov
 meta:
     fgb:
         post_id: '74549'

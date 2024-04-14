@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: Тополь-великан
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.045
+    founded_on: 12.10.2017
 images:
     -
         file: ab84ce29c20acf6509718de4dc35622a.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.902472
             lon: 27.575083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.902389
+            lon: 27.575139
+        source: gov
 meta:
     fgb:
         post_id: '76105'

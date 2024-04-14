@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-klch
 forest:
     dominated_type: oak
+gov:
+    title: 'Участок дубово-ясеневого леса'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 76.12
+    founded_on: 16.10.2006
 images:
     -
         file: 639decc7163cc39c84465d2804110202.jpg
@@ -46,6 +52,12 @@ location:
             lat: 53.371111
             lon: 29.026722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.371111
+            lon: 29.026722
+        source: gov
 meta:
     fgb:
         post_id: '74951'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Парк «Вселюб»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 11.0
+    founded_on: 08.05.2007
 images:
     -
         file: 47ee04c4b1c2c7e13bb25ecb443d4036.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.71953
             lon: 25.80239
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.719991
+            lon: 25.802979
+        source: gov
 meta:
     fgb:
         post_id: '77577'

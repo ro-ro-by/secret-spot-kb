@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Васьков камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001232
+    founded_on: 19.03.2007
 images:
     -
         file: 9e87bbeb26a31ee4da98744686b5b95d.jpg
@@ -39,6 +45,12 @@ location:
             lat: '54.124787'
             lon: '26.489924'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.12478
+            lon: 26.48992
+        source: gov
 meta:
     fgb:
         post_id: '75592'

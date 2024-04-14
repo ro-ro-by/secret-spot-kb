@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Ряснянский»'
+    type: заказник
+    status: 'местный , 28.10.2008'
+    area_size: 2650.0
+    founded_on: 28.01.2004
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.030774
+            lon: 31.119032
+        source: gov
 meta:
     fgb:
         post_id: '74801'

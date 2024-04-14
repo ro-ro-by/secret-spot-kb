@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: Вселюбский
+    type: заказник
+    status: 'местный , 23.09.2008'
+    area_size: 3010.0
+    founded_on: 23.12.1997
 images:
     -
         file: 58ca1a6a9d76f0966d0c389f9572773a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77586'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.753451
+            lon: 25.786821
+        source: gov
 meta:
     fgb:
         post_id: '77586'

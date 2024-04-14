@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krg
+gov:
+    title: 'Озеро Хотомле'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 07.08.2020'
+    area_size: 8.89
+    founded_on: 28.10.2003
 images:
     -
         file: fa2f46864c7789f3cb7514109704af05.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 25192504
+    -
+        type: point
+        coordinates:
+            lat: 54.104156
+            lon: 29.516873
+        source: gov
 osm:
     -
         type: way

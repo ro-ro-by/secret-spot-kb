@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Памятник природы «Друйский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 1.6
+    founded_on: 26.01.2016
 images:
     -
         file: 9d63db4bf29603f53ae3f20c7fc470a0.jpg
@@ -28,6 +34,12 @@ location:
             lat: '55.78610'
             lon: '27.46982'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.787251
+            lon: 27.47007
+        source: gov
 meta:
     fgb:
         post_id: '86896'

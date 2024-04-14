@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» венцевичский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0008
+    founded_on: 18.03.2008
 images:
     -
         file: 40cb9ba4f818cd8f9839a984870a10c6.jpg
@@ -46,6 +52,12 @@ location:
             lat: '54.887737'
             lon: '26.506548'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.88774
+            lon: 26.50658
+        source: gov
 meta:
     fgb:
         post_id: '75898'

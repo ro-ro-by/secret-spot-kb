@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Родник около д. Радима'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 28.10.2008'
+    area_size: 4.66
+    founded_on: 10.12.2007
 images:
     -
         file: 03529d4525f5acf0251c9626f435b337.jpg
@@ -20,6 +26,12 @@ location:
             lat: '53.59222'
             lon: '27.29586'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.59222
+            lon: 27.29586
+        source: gov
 meta:
     fgb:
         post_id: '75637'

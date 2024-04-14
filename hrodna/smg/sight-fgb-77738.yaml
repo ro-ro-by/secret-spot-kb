@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Холм «Милидовская гора»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 15.0
+    founded_on: 18.01.2008
 images:
     -
         file: 57371cbdfde963132ec2b96cb670529d.jpg
@@ -14,6 +20,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77738'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.330944
+            lon: 26.373814
+        source: gov
 meta:
     fgb:
         post_id: '77738'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Хотиславские липы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.04
+    founded_on: 24.08.2012
 images:
     -
         file: c07b990824a66e9aa8b02a70d692564e.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.7075
             lon: 24.091944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.7075
+            lon: 24.091944
+        source: gov
 meta:
     fgb:
         post_id: '74630'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Заказник «Стефанецкие пригорки»'
+    type: заказник
+    status: 'местный , 28.10.2002'
+    area_size: 1000.0
+    founded_on: 31.10.1997
 images:
     -
         file: d4ebb79acdbe9a325163c86fdb5d29ac.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77288'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.198947
+            lon: 25.259202
+        source: gov
 meta:
     fgb:
         post_id: '77288'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Нещердо»'
+    type: заказник
+    status: местный
+    area_size: 6692.28
+    founded_on: 25.05.2018
 images:
     -
         file: 1eab600b9b5552d2f1689d38f1ef4bae.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77086'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.896914
+            lon: 29.067548
+        source: gov
 meta:
     fgb:
         post_id: '77086'

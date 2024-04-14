@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Черневичский»'
+    type: заказник
+    status: республиканский
+    area_size: 10180.0
+    founded_on: 24.01.2005
 images:
     -
         file: 0d8bde571a50a04162c50844cfd17d77.jpg
@@ -16,6 +22,13 @@ images:
                     - '95353'
                     - '75530'
                     - '75708'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.03254
+            lon: 28.85056
+        source: gov
 meta:
     fgb:
         post_id:

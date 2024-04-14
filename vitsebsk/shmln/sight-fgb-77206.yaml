@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Морозовский валун'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001
+    founded_on: 12.05.2003
 images:
     -
         file: 662ac805abb67867d37ce725068dc1ea.jpg
@@ -32,6 +38,12 @@ location:
             lat: '55.249996'
             lon: '29.771603'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.249714
+            lon: 29.771823
+        source: gov
 meta:
     fgb:
         post_id: '77206'

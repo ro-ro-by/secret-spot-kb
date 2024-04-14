@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Заказник «Загорьевский концовоморенный массив»'
+    type: заказник
+    status: 'местный , 11.11.2008'
+    area_size: 1240.6
+    founded_on: 30.12.1997
 images:
     -
         file: 7cb6cf4c3bf1b17ab8bd44d7ca62031f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77700'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.974783
+            lon: 25.393332
+        source: gov
 meta:
     fgb:
         post_id: '77700'

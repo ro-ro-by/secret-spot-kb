@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Заказник республиканского значения «Простырь»'
+    type: заказник
+    status: 'республиканский , 02.12.2011'
+    area_size: 9544.71
+    founded_on: 28.02.1994
 images:
     -
         file: 5e73378272b49b01c1ce0dee8cf4b412.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 8049967
+    -
+        type: point
+        coordinates:
+            lat: 52.133176
+            lon: 26.096697
+        source: gov
 osm:
     -
         type: relation

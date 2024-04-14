@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Старинный парк'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 5.2
+    founded_on: 12.12.2005
 images:
     -
         file: ecc74a0dac170a31219940298beb9ddf.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.17794
             lon: 30.25164
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.173441
+            lon: 30.254703
+        source: gov
 meta:
     fgb:
         post_id: '75437'

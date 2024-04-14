@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Избищенский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.0007
+    founded_on: 31.12.2009
 images:
     -
         file: c090c24334a803a1f514bb2c395666f2.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77104'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.904889
+            lon: 28.864944
+        source: gov
 meta:
     fgb:
         post_id: '77104'

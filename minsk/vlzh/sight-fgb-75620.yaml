@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Заказник «Ивенчик»'
+    type: заказник
+    status: 'местный , 23.05.2023'
+    area_size: 47.36
+    founded_on: 16.10.2008
 images:
     -
         file: 735d0a4281c1a2c228a006119703b3cc.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9716724
+    -
+        type: point
+        coordinates:
+            lat: 53.937033
+            lon: 26.758277
+        source: gov
 osm:
     -
         type: relation

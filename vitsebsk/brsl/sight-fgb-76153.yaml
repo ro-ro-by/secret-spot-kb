@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Чертов камень» ричевский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00142
+    founded_on: 19.03.2007
 images:
     -
         file: a89c2ab603a4a555e462eee70ab087f7.jpg
@@ -39,6 +45,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76153'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.703284
+            lon: 26.681526
+        source: gov
 meta:
     fgb:
         post_id: '76153'

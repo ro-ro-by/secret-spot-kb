@@ -3,8 +3,21 @@ title: 'Видомлянская озерная котловина'
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Видомлянская озерная котловина'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 1.48
+    founded_on: 17.12.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.344266
+            lon: 23.82526
+        source: gov
 meta:
     source:
         -

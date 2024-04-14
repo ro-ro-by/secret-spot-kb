@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Подсады»'
+    type: заказник
+    status: республиканский
+    area_size: 1038.84
+    founded_on: 03.11.2022
 images:
     -
         file: 8d9198a19d0560d78bbd4ecf9dbdb7cf.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 8235715
+    -
+        type: point
+        coordinates:
+            lat: 53.94666
+            lon: 27.15
+        source: gov
 osm:
     -
         type: relation

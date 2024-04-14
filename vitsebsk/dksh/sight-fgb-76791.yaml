@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Дуб-великан “Ситцевский”'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    founded_on: 26.04.2007
 images:
     -
         file: 0fb1f626a2e0cfa29dce57af18844e79.jpg
@@ -22,6 +27,12 @@ location:
             lat: 54.91323
             lon: 27.53761
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.913
+            lon: 27.5374
+        source: gov
 meta:
     fgb:
         post_id: '76791'

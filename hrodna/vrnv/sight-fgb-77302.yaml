@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень на довгеньках якубовский'
+    type: 'геологический памятник природы'
+    status: 'местный , 28.10.2002'
+    founded_on: 31.10.1997
 images:
     -
         file: 562ede80036a2d2d434e0acef1ad1d0d.jpg
@@ -38,6 +43,12 @@ location:
             lat: '53.861685'
             lon: '24.826184'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.861685
+            lon: 24.826184
+        source: gov
 meta:
     fgb:
         post_id: '77302'

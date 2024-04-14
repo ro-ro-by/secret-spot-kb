@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Парк «Комарово»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 5.66
+    founded_on: 28.10.2008
 images:
     -
         file: ffbf422623a24b39c4c80bb34d3e52c3.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.900806
             lon: 26.397944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.900806
+            lon: 26.397944
+        source: gov
 meta:
     fgb:
         post_id: '75918'

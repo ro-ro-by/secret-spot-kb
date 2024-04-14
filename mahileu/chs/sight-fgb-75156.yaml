@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: Дуб-великан
+    type: 'ботанический памятник природы'
+    status: 'местный , 16.02.20211'
+    area_size: 0.02
+    founded_on: 14.11.2007
 tree:
     type: oak
 location:
@@ -13,6 +19,12 @@ location:
             lat: 53.701083
             lon: 31.098083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.701083
+            lon: 31.098083
+        source: gov
 meta:
     fgb:
         post_id: '75156'

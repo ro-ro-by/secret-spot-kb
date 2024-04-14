@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Колодки»'
+    type: заказник
+    status: местный
+    area_size: 1927.57
+    founded_on: 29.12.2014
 images:
     -
         file: c5c05434d24865808c19ab467acf7a4a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96304'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.620349
+            lon: 26.714649
+        source: gov
 meta:
     fgb:
         post_id: '96304'

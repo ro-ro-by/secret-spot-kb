@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Заказник «Копцевская озовая гряда»'
+    type: заказник
+    status: 'местный , 09.04.2020'
+    area_size: 163.77
+    founded_on: 31.03.2000
 images:
     -
         file: 0d5a2b3f01f3b024a0d1ea979bfd7940.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76931'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.470833
+            lon: 28.256944
+        source: gov
 meta:
     fgb:
         post_id: '76931'

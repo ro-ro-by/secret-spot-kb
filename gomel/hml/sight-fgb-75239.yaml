@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-hml
+gov:
+    title: 'Парк Гомельского дворцово-паркового ансамбля'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.03.2014'
+    area_size: 17.5425
+    founded_on: 08.05.2007
 images:
     -
         file: c946a0fa61215ad9dbc4802b32a34f25.jpg
@@ -38,6 +44,12 @@ location:
             lat: 52.421833
             lon: 30.014722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.423198
+            lon: 31.015087
+        source: gov
 meta:
     fgb:
         post_id: '75239'

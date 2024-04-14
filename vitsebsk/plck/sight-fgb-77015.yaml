@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Скопление валунов «Яново»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 4.0
+    founded_on: 19.03.2007
 images:
     -
         file: 9235cdaf37e347a6bd8fe24152288fe7.jpg
@@ -59,6 +65,12 @@ location:
             lat: 55.27366
             lon: 28.78241
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.27408
+            lon: 28.78372
+        source: gov
 meta:
     fgb:
         post_id: '77015'

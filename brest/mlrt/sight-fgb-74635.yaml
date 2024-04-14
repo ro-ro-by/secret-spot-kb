@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Дюна «Мокранская»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 160.0
+    founded_on: 18.03.2008
 images:
     -
         file: 89c9f4d8b9d4fd16e3f54289eaf80832.jpg
@@ -20,6 +26,12 @@ location:
             lat: '51.82086'
             lon: '24.27667'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 51.821181
+            lon: 24.266541
+        source: gov
 meta:
     fgb:
         post_id: '74635'

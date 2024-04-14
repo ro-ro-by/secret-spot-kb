@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Валун «Пашинский-1»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00053
+    founded_on: 18.03.2008
 images:
     -
         file: ddb5a0068da8d4a80b984fc464076a59.jpg
@@ -29,6 +35,12 @@ location:
             lat: 54.55833
             lon: 30.49584
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.5591
+            lon: 30.4972
+        source: gov
 meta:
     fgb:
         post_id: '76976'

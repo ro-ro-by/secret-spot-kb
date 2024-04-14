@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Заказник «Белая Русь»'
+    type: заказник
+    status: республиканский
+    area_size: 4515.34
+    founded_on: 31.01.2023
 images:
     -
         file: 7df90bc7f1bdf852d63881c4420df996.png
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 7838544
+    -
+        type: point
+        coordinates:
+            lat: 54.2697
+            lon: 27.89772
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Локтевский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00102
+    founded_on: 31.12.2009
 images:
     -
         file: 7b68aa01a68bee06dbc4b5fe92b968e7.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77095'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.921167
+            lon: 29.274917
+        source: gov
 meta:
     fgb:
         post_id: '77095'

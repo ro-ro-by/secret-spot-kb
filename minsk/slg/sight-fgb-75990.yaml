@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: Дубрава-2
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.12.2015'
+    area_size: 5.2
+    founded_on: 27.07.2006
 images:
     -
         file: 0ecc389e516af2176af604c88c17846a.jpg
@@ -25,6 +31,12 @@ location:
             lat: 52.691083
             lon: 27.521139
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.691083
+            lon: 27.521139
+        source: gov
 meta:
     fgb:
         post_id: '75990'

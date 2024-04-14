@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Парк Победы в г. Мяделе'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 20.5
+    founded_on: 28.10.2008
 images:
     -
         file: 52dd1fde471e3157268ba35032b4bbeb.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.870778
             lon: 26.917861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.870778
+            lon: 26.917861
+        source: gov
 meta:
     fgb:
         post_id: '75920'

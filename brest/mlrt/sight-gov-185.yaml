@@ -3,8 +3,21 @@ title: 'Великоритские грабы'
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Великоритские грабы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0703
+    founded_on: 31.12.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: gov
 meta:
     source:
         -

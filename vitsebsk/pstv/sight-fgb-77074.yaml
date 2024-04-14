@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Большой камень Казнадеюшский'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.001
+    founded_on: 29.03.2019
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.078961
+            lon: 26.294952
+        source: gov
 meta:
     fgb:
         post_id: '77074'

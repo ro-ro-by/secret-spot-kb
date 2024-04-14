@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Большой камень» полторавщинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001104
+    founded_on: 18.01.2008
 images:
     -
         file: 7d81f67ae034dc15392113c3a4146257.jpg
@@ -32,6 +38,12 @@ location:
             lat: '54.345122'
             lon: '26.212992'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.345122
+            lon: 26.212992
+        source: gov
 meta:
     fgb:
         post_id: '77732'

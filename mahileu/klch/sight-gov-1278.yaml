@@ -3,8 +3,21 @@ title: 'Криница на реке Несета'
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Криница на реке Несета'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 0.015
+    founded_on: 16.10.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.41978
+            lon: 29.21672
+        source: gov
 meta:
     source:
         -

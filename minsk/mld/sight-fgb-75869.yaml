@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Парк «Яхимовщина»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.91
+    founded_on: 28.10.2008
 images:
     -
         file: b642c8cd09caa74d0879d1863bc27ae9.jpg
@@ -28,6 +34,12 @@ location:
             lat: 54.235972
             lon: 26.667667
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.235874
+            lon: 26.667642
+        source: gov
 meta:
     fgb:
         post_id: '75869'

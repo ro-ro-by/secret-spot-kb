@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Парк «Малиновщина»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.09
+    founded_on: 28.10.2008
 images:
     -
         file: 96dd270e550fb181876492b0a49e2e86.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.330139
             lon: 26.658194
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.330197
+            lon: 26.654647
+        source: gov
 meta:
     fgb:
         post_id: '75868'

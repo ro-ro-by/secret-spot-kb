@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Некасецкое насаждение карельской березы'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 8.9
+    founded_on: 05.05.2007
 images:
     -
         file: e88cd352e12f170e58072e0f7c6e5321.jpg
@@ -29,6 +35,12 @@ location:
             lat: 54.904556
             lon: 27.078083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.88951
+            lon: 27.00436
+        source: gov
 meta:
     fgb:
         post_id: '75895'

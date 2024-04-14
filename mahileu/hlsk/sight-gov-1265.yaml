@@ -3,8 +3,21 @@ title: 'Вековое широколиственное насаждение'
 belongsTo:
     region: region-mahileu
     subregion: subregion-hlsk
+gov:
+    title: 'Вековое широколиственное насаждение'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 18.5
+    founded_on: 26.10.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.743056
+            lon: 28.419361
+        source: gov
 meta:
     source:
         -

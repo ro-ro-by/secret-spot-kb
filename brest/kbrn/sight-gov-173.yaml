@@ -3,8 +3,21 @@ title: 'Шеметовские березы'
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Шеметовские березы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.53
+    founded_on: 06.12.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.321722
+            lon: 24.680691
+        source: gov
 meta:
     source:
         -

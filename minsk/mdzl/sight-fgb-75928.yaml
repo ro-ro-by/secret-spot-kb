@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Камень дягилевский'
+    type: 'геологический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 0.0007
+    founded_on: 28.10.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.920914
+            lon: 27.061436
+        source: gov
 meta:
     fgb:
         post_id: '75928'

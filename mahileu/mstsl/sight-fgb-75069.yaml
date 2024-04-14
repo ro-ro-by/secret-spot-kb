@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-mstsl
+gov:
+    title: 'Заказник «Закружье»'
+    type: заказник
+    status: 'местный , 03.06.2022'
+    area_size: 136.48
+    founded_on: 27.09.2006
 images:
     -
         file: a7c0ad3ae71402f9482570ea7eef55cc.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75069'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.00537
+            lon: 31.67928
+        source: gov
 meta:
     fgb:
         post_id: '75069'

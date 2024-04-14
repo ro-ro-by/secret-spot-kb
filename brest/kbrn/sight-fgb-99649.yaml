@@ -4,6 +4,19 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Парк Литвиново'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 6.1
+    founded_on: 06.12.2021
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.230841
+            lon: 24.194114
+        source: gov
 meta:
     fgb:
         post_id: '99649'

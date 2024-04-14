@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Городечненские сосны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0113
+    founded_on: 05.09.2018
 images:
     -
         file: 932f927e177fb09e8ae3fecb0d92df06.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 14435094
+    -
+        type: point
+        coordinates:
+            lat: 52.421389
+            lon: 24.308611
+        source: gov
 osm:
     -
         type: relation

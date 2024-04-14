@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Ледниковый конгломерат «Раковский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00325
+    founded_on: 19.03.2007
 images:
     -
         file: 635e293f7798a908d5efa17b6d1b5909.jpg
@@ -36,6 +42,12 @@ location:
             lat: '53.972347'
             lon: '27.078334'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.97234
+            lon: 27.07833
+        source: gov
 meta:
     fgb:
         post_id: '75607'

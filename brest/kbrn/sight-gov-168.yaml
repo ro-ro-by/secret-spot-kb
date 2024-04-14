@@ -3,8 +3,21 @@ title: 'Запрудский плющевник'
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Запрудский плющевник'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.19
+    founded_on: 06.12.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.383838
+            lon: 24.586192
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Заказник "Хованщина"'
+    type: заказник
+    status: местный
+    area_size: 10002.77
+    founded_on: 19.12.2018
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.590832
+            lon: 25.318271
+        source: gov
 meta:
     fgb:
         post_id: '95368'

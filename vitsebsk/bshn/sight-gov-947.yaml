@@ -3,8 +3,21 @@ title: 'Заказник «Кораневский»'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+gov:
+    title: 'Заказник «Кораневский»'
+    type: заказник
+    status: местный
+    area_size: 704.0
+    founded_on: 09.04.2018
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.240496
+            lon: 29.170612
+        source: gov
 meta:
     source:
         -

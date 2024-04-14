@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: Стронга
+    type: заказник
+    status: республиканский
+    area_size: 12015.0
+    founded_on: 26.10.1998
 images:
     -
         file: 089b025eff865da3c23fc56949315b44.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 8609810
+    -
+        type: point
+        coordinates:
+            lat: 53.097275
+            lon: 25.667934
+        source: gov
 osm:
     -
         type: relation

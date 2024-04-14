@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Заказник «Волчья гора»'
+    type: заказник
+    status: 'местный , 09.04.2020'
+    area_size: 163.77
+    founded_on: 31.03.2000
 images:
     -
         file: b0221fcc6cdb630d6932218e33de3c23.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.12887'
             lon: '29.50658'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.683444
+            lon: 27.374222
+        source: gov
 meta:
     fgb:
         post_id: '70796'

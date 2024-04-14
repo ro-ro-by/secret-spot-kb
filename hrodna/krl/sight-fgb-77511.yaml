@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Заказник «Турецкие гряды»'
+    type: заказник
+    status: 'местный , 30.09.2008'
+    area_size: 150.0
+    founded_on: 27.08.1997
 images:
     -
         file: 2c8c9279e263390025cb66d43f9c8c7b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77511'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.531738
+            lon: 26.338304
+        source: gov
 meta:
     fgb:
         post_id: '77511'

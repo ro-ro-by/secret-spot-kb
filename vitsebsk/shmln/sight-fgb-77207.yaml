@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Плиговский валун'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0044
+    founded_on: 12.05.2003
 images:
     -
         file: fcf60b073e749e988e01300daef55ced.jpg
@@ -15,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77207'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.368807
+            lon: 29.548582
+        source: gov
 meta:
     fgb:
         post_id: '77207'

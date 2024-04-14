@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Судницкие родники'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 21.11.2023'
+    area_size: 2.7
+    founded_on: 24.10.2008
 images:
     -
         file: 0020d8d74efe1212987781653912b8b4.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 13546652
+    -
+        type: point
+        coordinates:
+            lat: 53.50153
+            lon: 26.619
+        source: gov
 osm:
     -
         type: relation

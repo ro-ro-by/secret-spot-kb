@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-przh
 forest:
     dominated_type: pine
+gov:
+    title: 'Участок культуры сосны Веймутовой'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.3
+    founded_on: 05.05.2007
 images:
     -
         file: 5c0420ee613dfe24984aeddbdfcceda6.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.60833
             lon: 24.36222
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.608333
+            lon: 24.362222
+        source: gov
 meta:
     fgb:
         post_id: '74671'

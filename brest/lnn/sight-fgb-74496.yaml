@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lnn
+gov:
+    title: 'Лунинецкие воротничковые сосны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.7313
+    founded_on: 05.07.2016
 images:
     -
         file: 81c9b406a276be47cf518c845434c5d7.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.249167
             lon: 26.832833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.249167
+            lon: 26.832833
+        source: gov
 meta:
     fgb:
         post_id: '74496'

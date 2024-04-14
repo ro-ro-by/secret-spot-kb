@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Насаждение с участием экзотов «Городейское»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.6
+    founded_on: 05.05.2007
 images:
     -
         file: 7951441c14838345f8a3476adf070752.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.290222
             lon: 26.733083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.29022
+            lon: 26.73308
+        source: gov
 meta:
     fgb:
         post_id: '75955'

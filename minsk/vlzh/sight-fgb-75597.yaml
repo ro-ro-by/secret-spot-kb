@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» аляновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00168
+    founded_on: 19.03.2007
 images:
     -
         file: 20c5a632c0835ca1dd99dbba2dd43ab0.jpg
@@ -31,6 +37,12 @@ location:
             lat: '54.217289'
             lon: '26.204220'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.21728
+            lon: 26.20422
+        source: gov
 meta:
     fgb:
         post_id: '75597'

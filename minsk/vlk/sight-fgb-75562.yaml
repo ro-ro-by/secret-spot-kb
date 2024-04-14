@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Парк «Любань»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 02.12.2008'
+    area_size: 5.03
+    founded_on: 27.05.1987
 images:
     -
         file: f8fc60c60a08eed89b4c5070488806c6.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.596694
             lon: 26.876639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.597222
+            lon: 26.876694
+        source: gov
 meta:
     fgb:
         post_id: '75562'

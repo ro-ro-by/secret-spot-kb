@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Парк в д. Новый Двор'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.04.2023'
+    area_size: 0.9
+    founded_on: 16.10.2008
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 54.054
             lon: 27.008111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.0541
+            lon: 27.00813
+        source: gov
 meta:
     fgb:
         post_id: '75613'

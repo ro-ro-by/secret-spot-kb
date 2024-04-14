@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Парк "Дубое"'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 19.6892
+    founded_on: 26.07.2016
 images:
     -
         file: d2350ffe8d01f39c0607de95a524785e.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.089444
             lon: 25.770556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.089444
+            lon: 25.770556
+        source: gov
 meta:
     fgb:
         post_id: '96288'

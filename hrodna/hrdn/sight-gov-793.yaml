@@ -3,8 +3,21 @@ title: 'Родник Плебанишки'
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Плебанишки'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.2826
+    founded_on: 25.08.2023
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.867278
+            lon: 23.8685
+        source: gov
 meta:
     source:
         -

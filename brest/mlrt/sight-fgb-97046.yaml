@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Олтушская береза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.01
+    founded_on: 16.01.2017
 images:
     -
         file: 3f90135f796697134dde238bd66e4a86.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.68008
             lon: 23.95642
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.680083
+            lon: 23.956417
+        source: gov
 meta:
     fgb:
         post_id: '97046'

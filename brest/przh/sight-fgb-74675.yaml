@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Заказник "Выдренка"'
+    type: заказник
+    status: 'местный , 09.03.2015'
+    area_size: 3615.0
+    founded_on: 16.12.1997
 images:
     -
         file: 9d0c15468d68f335ff015e2d13e65926.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 14434072
+    -
+        type: point
+        coordinates:
+            lat: 52.460237
+            lon: 24.348962
+        source: gov
 osm:
     -
         type: relation

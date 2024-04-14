@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-vlkv
+gov:
+    title: '«Старинное дерево-дуб» (Царь-дуб)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 26.02.2021'
+    area_size: 0.026
+    founded_on: 17.07.1992
 images:
     -
         file: 3b18c77c5ae1b22d1f9d3a7e99363c12.jpg
@@ -23,6 +29,13 @@ images:
                 post_id: '77266'
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.190317
+            lon: 24.562392
+        source: gov
 meta:
     fgb:
         post_id: '77266'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун «Большой камень» плисский 1'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00075
+    founded_on: 18.03.2008
 images:
     -
         file: 9a0aa7222e968e8c2bff6e275535ddd1.jpg
@@ -29,6 +35,12 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.212909
+            lon: 27.9353
+        source: gov
 meta:
     fgb:
         post_id: '76685'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Валун «Камень Филаретов»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001
+    founded_on: 31.07.2006
 images:
     -
         file: bba7f797cc317071f80d1233170188a4.jpg
@@ -31,6 +37,12 @@ location:
             lat: '53.37377'
             lon: '26.11168'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.37377
+            lon: 26.11168
+        source: gov
 meta:
     fgb:
         post_id: '70751'

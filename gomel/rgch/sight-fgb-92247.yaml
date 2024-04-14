@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Родник «Серебрянка»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.01
+    founded_on: 28.11.2002
 images:
     -
         file: 3bbf6b39e024a9a44e7c39fbd3c33678.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.1233'
             lon: '30.38083'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.199623
+            lon: 30.286341
+        source: gov
 meta:
     fgb:
         post_id: '92247'

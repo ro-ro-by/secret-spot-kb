@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Дукорский старинный дуб «Желаний»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.05
+    founded_on: 30.10.2020
 images:
     -
         file: 667bf669e6e958d06e0715588984a5cb.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.675611
             lon: 27.967889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.675611
+            lon: 27.967889
+        source: gov
 meta:
     fgb:
         post_id: '78762'

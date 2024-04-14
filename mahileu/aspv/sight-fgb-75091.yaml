@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Жорновский дендросад'
+    type: 'ботанический памятник природы'
+    status: 'местный , 16.03.2011'
+    area_size: 1.4
+    founded_on: 25.08.2009
 images:
     -
         file: 6c835065cb9d2aac64ddc5e1874b168a.jpg
@@ -59,6 +65,12 @@ location:
             osm:
                 type: way
                 id: 1107945735
+    -
+        type: point
+        coordinates:
+            lat: 53.457748
+            lon: 28.617488
+        source: gov
 osm:
     -
         type: way

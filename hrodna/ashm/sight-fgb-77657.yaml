@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Шаповаловский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00074
+    founded_on: 16.02.1995
 images:
     -
         file: 427ff059c799d0c1f909693b2cec5916.jpg
@@ -42,6 +48,12 @@ location:
             lat: '54.321338'
             lon: '26.059080'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.321338
+            lon: 26.05908
+        source: gov
 meta:
     fgb:
         post_id: '77657'

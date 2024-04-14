@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Криница Богдановича'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 13.02.2020'
+    area_size: 0.13
+    founded_on: 28.10.2008
 images:
     -
         file: c210314cede90d77f36f705d55c013d6.jpg
@@ -20,6 +26,12 @@ location:
             lat: '54.25285'
             lon: '27.09455'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.252727
+            lon: 27.094519
+        source: gov
 meta:
     fgb:
         post_id: '75883'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Роговский родник'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.003
+    founded_on: 13.01.2009
 images:
     -
         file: 9a826022e0bfe7d7a9087907d09c8413.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.12583'
             lon: '27.30029'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.12583
+            lon: 27.30029
+        source: gov
 meta:
     fgb:
         post_id: '75823'

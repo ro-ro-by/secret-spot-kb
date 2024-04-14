@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: Дендросад
+    type: 'ботанический памятник природы'
+    status: 'местный , 28.12.2018'
+    area_size: 6.0
+    founded_on: 15.09.1992
 images:
     -
         file: 54f3c2ab081e9423146848d45f967251.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.33083
             lon: 30.31598
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.3302
+            lon: 30.3157
+        source: gov
 meta:
     fgb:
         post_id: '76989'

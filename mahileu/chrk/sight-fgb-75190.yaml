@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Межледниковое отложение'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 1.5
+    founded_on: 31.07.2006
 images:
     -
         file: c3623c03347b8423007d6612c2b39e19.jpg
@@ -15,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75190'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.560635
+            lon: 31.396491
+        source: gov
 meta:
     fgb:
         post_id: '75190'

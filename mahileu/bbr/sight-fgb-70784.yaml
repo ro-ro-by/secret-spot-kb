@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Вековая сосна'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.009
+    founded_on: 20.06.2014
 images:
     -
         file: 37facb3d5a156065e809234a73f99662.jpg
@@ -32,6 +38,12 @@ location:
             lat: '53.025424'
             lon: '29.138746'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.025278
+            lon: 29.138611
+        source: gov
 meta:
     fgb:
         post_id: '70784'

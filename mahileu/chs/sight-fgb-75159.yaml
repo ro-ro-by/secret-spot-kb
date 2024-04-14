@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: «Валун»
+    type: 'геологический памятник природы'
+    status: 'местный , 27.11.2002'
+    area_size: 0.05
+    founded_on: 22.02.2006
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.783226
+            lon: 31.099257
+        source: gov
 meta:
     fgb:
         post_id: '75159'

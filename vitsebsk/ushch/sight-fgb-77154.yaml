@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Валун «Сорочинский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0003
+    founded_on: 19.03.2007
 images:
     -
         file: 01939151701fd8b0c2b92b74f631f679.jpg
@@ -22,6 +28,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77154'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.222721
+            lon: 28.75792
+        source: gov
 meta:
     fgb:
         post_id: '77154'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Вековой дуб'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.029
+    founded_on: 12.10.2017
 images:
     -
         file: 1686a5df168e965aeb0ee7c5c52a85d5.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.853222
             lon: 27.505889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.853222
+            lon: 27.505889
+        source: gov
 meta:
     fgb:
         post_id: '78718'

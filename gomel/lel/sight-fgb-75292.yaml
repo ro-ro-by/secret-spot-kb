@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - pine
+gov:
+    title: 'Уникальный участок леса (сосна)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 20.11.2017'
+    area_size: 18.73
+    founded_on: 04.11.2008
 images:
     -
         file: db433c5ade537eb127b0e94d020348d7.jpg
@@ -32,6 +38,12 @@ location:
             lat: 51.75181
             lon: 28.16583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.751806
+            lon: 28.165833
+        source: gov
 meta:
     fgb:
         post_id: '75292'

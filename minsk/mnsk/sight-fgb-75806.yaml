@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Прилепский»'
+    type: заказник
+    status: республиканский
+    area_size: 3242.0
+    founded_on: 20.09.2000
 images:
     -
         file: e5b32648b66b6907521bcd81c64f2fca.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 619794136
+    -
+        type: point
+        coordinates:
+            lat: 54.03286
+            lon: 27.77232
+        source: gov
 osm:
     -
         type: way

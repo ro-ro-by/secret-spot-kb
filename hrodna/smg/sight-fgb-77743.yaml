@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Большой Кривский камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.001
+    founded_on: 23.03.1995
 images:
     -
         file: 64d4f68a94181ba96281ebae29a8a210.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.255075'
             lon: '26.368041'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.255075
+            lon: 26.368041
+        source: gov
 meta:
     fgb:
         post_id: '77743'

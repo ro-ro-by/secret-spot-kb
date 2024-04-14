@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Камень Климовичский с ямками'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.06.2010'
+    founded_on: 22.10.2002
 images:
     -
         file: c55a2f45a6ca83c0c6d944d25cd3131f.jpg
@@ -51,6 +56,12 @@ location:
             lat: '53.224316'
             lon: '25.044444'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.224322
+            lon: 25.044472
+        source: gov
 meta:
     fgb:
         post_id: '77379'

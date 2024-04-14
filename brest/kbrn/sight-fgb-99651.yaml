@@ -4,6 +4,19 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Парк Полятичи'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.94
+    founded_on: 06.12.2021
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.22616
+            lon: 24.270898
+        source: gov
 meta:
     fgb:
         post_id: '99651'

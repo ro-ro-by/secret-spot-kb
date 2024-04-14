@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Валун «Кракотский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00067
+    founded_on: 31.07.2006
 images:
     -
         file: 1cba887dd8e747342d247fbd23bf7ad5.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 605774004
+    -
+        type: point
+        coordinates:
+            lat: 53.018794
+            lon: 24.976474
+        source: gov
 osm:
     -
         type: relation

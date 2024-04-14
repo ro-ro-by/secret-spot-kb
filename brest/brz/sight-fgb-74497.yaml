@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Старинный парк «Старые Пески»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 08.02.2008'
+    area_size: 7.712
+    founded_on: 19.04.1983
 images:
     -
         file: 8b08bd645b940cfb207fbbbf1d25233b.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.516389
             lon: 25.1975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.490785152004
+            lon: 25.215645838592
+        source: gov
 meta:
     fgb:
         post_id: '74497'

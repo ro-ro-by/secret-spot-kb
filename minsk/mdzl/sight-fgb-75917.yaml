@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Полуостров «Черевки»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 90.0
+    founded_on: 18.03.2008
 images:
     -
         file: 3e51365b083557f9c7a452e9675014f9.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75917'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.88224
+            lon: 26.78515
+        source: gov
 meta:
     fgb:
         post_id: '75917'

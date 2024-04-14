@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-bksh
+gov:
+    title: 'Заказник «Буда-Кошелевский»'
+    type: заказник
+    status: республиканский
+    area_size: 6720.63
+    founded_on: 13.04.1988
 images:
     -
         file: 7a2a5d734b991984b0002b00039f622b.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9231802
+    -
+        type: point
+        coordinates:
+            lat: 52.7744
+            lon: 30.6264
+        source: gov
 osm:
     -
         type: relation

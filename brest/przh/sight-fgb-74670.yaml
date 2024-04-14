@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Парк города Пружаны'
+    type: 'ботанический памятник природы'
+    status: 'местный , 13.11.2018'
+    area_size: 13.77
+    founded_on: 15.08.1977
 images:
     -
         file: 2554f406e8e647f30aa151dc4aa963b8.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.565333
             lon: 24.457472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.565333
+            lon: 24.457472
+        source: gov
 meta:
     fgb:
         post_id: '74670'

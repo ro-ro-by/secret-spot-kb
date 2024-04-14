@@ -3,8 +3,21 @@ title: 'Заказник «Мох Озерский»'
 belongsTo:
     region: region-gomel
     subregion: subregion-svlg
+gov:
+    title: 'Заказник «Мох Озерский»'
+    type: заказник
+    status: местный
+    area_size: 2692.5
+    founded_on: 16.12.2014
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.688494
+            lon: 29.457705
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Памятник природы «Кохановичи»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.2826
+    founded_on: 01.03.2016
 images:
     -
         file: a02fd10d9356e30e07a28f2750c81498.jpg
@@ -45,6 +51,12 @@ location:
             osm:
                 type: relation
                 id: 16459914
+    -
+        type: point
+        coordinates:
+            lat: 55.86557
+            lon: 28.13422
+        source: gov
 osm:
     -
         type: relation

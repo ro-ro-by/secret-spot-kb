@@ -4,6 +4,18 @@ type: sacral_hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Холм «Гора Маяк»'
+    type: 'геологический памятник природы'
+    status: 'республиканский , 19.03.2007'
+    area_size: 2.54
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.097382
+            lon: 26.292131
+        source: gov
 meta:
     fgb:
         post_id: '103882'

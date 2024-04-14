@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Дуб «Суворовский»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.04.2007'
+    area_size: 0.022
 images:
     -
         file: d62a23191882f249bc76fe9cef431574.jpg
@@ -22,6 +27,12 @@ location:
             lat: 51.986056
             lon: 24.539528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.986056
+            lon: 24.539528
+        source: gov
 meta:
     fgb:
         post_id: '74607'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Большой камень туланский'
+    type: 'геологический памятник природы'
+    status: 'местный , 30.03.2020'
+    area_size: 0.00047
+    founded_on: 26.02.1998
 images:
     -
         file: cb462a66a3faa0e18e3cf077d5460337.jpg
@@ -31,6 +37,12 @@ location:
             lat: '54.114166'
             lon: '25.551599'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.114222
+            lon: 25.551583
+        source: gov
 meta:
     fgb:
         post_id: '77494'

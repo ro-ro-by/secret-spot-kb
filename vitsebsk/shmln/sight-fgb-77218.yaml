@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Родник «Пятенка»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 05.03.2018'
+    area_size: 0.015
+    founded_on: 03.12.2012
 images:
     -
         file: 2c5b98d4648e6f36aa4440cd81ee0dc2.jpg
@@ -36,6 +42,12 @@ location:
             lat: '55.32805'
             lon: '29.69104'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.328073
+            lon: 29.690987
+        source: gov
 meta:
     fgb:
         post_id: '77218'

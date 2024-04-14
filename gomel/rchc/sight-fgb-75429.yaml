@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Два дуба'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.2
+    founded_on: 03.12.2008
 images:
     -
         file: 4b76261bc05f269e6632186892692f10.jpg
@@ -46,6 +52,12 @@ location:
             lat: 52.20397
             lon: 29.86972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.193626
+            lon: 29.874714
+        source: gov
 meta:
     fgb:
         post_id: '75429'

@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Хотиславская дюна'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 229.9
+    founded_on: 28.03.1997
 images:
     -
         file: 47553a75dbb0c47d9b7d5ce187c3ce20.jpg
@@ -20,6 +26,12 @@ location:
             lat: '51.69187'
             lon: '24.12829'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 51.694859
+            lon: 24.133397
+        source: gov
 meta:
     fgb:
         post_id: '74626'

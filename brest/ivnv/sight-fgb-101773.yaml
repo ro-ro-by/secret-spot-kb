@@ -4,6 +4,12 @@ type: geoglyph
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Ленинский лес'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 26.54
+    founded_on: 10.09.2021
 images:
     -
         file: 3e088e406ce8797a01482f29b161b7c8.jpg
@@ -48,6 +54,12 @@ location:
             lat: 52.158889
             lon: 25.562778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.158786
+            lon: 25.562914
+        source: gov
 meta:
     fgb:
         post_id: '101773'

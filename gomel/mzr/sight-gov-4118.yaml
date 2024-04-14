@@ -3,8 +3,21 @@ title: 'Дубрава «Любинская»'
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Дубрава «Любинская»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.05.2020'
+    area_size: 3.68
+    founded_on: 22.02.2008
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.001224
+            lon: 28.76438
+        source: gov
 meta:
     source:
         -

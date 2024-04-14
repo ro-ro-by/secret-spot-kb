@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Парк «Бобовня»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 7.23
+    founded_on: 30.11.2021
 images:
     -
         file: 376aec126268f5ccd5698c7b136180d9.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.260083
             lon: 26.948722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.260083
+            lon: 26.948722
+        source: gov
 meta:
     fgb:
         post_id: '75648'

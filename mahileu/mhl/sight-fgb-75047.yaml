@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Вековое дерево дуб 2'
+    type: 'ботанический памятник природы'
+    status: 'местный , 02.07.2014'
+    area_size: 0.02
+    founded_on: 18.02.2004
 images:
     -
         file: 32c8245abab9564d09926ee738e2fa01.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.897139
             lon: 30.319944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.897062
+            lon: 30.319958
+        source: gov
 meta:
     fgb:
         post_id: '75047'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Большой камень» дайновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00074
+    founded_on: 31.07.2006
 images:
     -
         file: cf0c4b47e011177fd950a36791d4eb38.jpg
@@ -40,6 +46,12 @@ location:
             lat: '54.063541'
             lon: '25.402805'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.063541
+            lon: 25.402805
+        source: gov
 meta:
     fgb:
         post_id: '77283'

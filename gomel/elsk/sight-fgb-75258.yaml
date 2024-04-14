@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-elsk
+gov:
+    title: 'Береза черная'
+    type: 'ботанический памятник природы'
+    status: 'местный , 19.12.2016'
+    area_size: 0.01
+    founded_on: 23.02.2007
 images:
     -
         file: 603819a8c91231bf62b1ad37de7a78df.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.82389
             lon: 29.09055
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.823889
+            lon: 29.090556
+        source: gov
 meta:
     fgb:
         post_id: '75258'

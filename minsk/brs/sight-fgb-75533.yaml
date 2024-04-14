@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Валун «Быки»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00096
+    founded_on: 19.03.2007
 images:
     -
         file: 875fc356d68eb972e42928a75cc741f1.jpg
@@ -42,6 +48,12 @@ location:
             lat: '54.52544'
             lon: '28.18937'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.52544
+            lon: 28.18937
+        source: gov
 meta:
     fgb:
         post_id: '75533'

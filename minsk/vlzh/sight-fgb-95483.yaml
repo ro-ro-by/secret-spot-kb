@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Заказник «Налибокский»'
+    type: заказник
+    status: 'республиканский , 14.02.2012'
+    area_size: 86892.0
+    founded_on: 27.05.2005
 images:
     -
         file: 89b14b340bbe34ac0884290335bb3b0f.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 6451322
+    -
+        type: point
+        coordinates:
+            lat: 54.103135
+            lon: 26.506724
+        source: gov
 osm:
     -
         type: relation

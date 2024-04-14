@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Будревич камень» вороновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00066
+    founded_on: 31.07.2006
 images:
     -
         file: 88574108e9145d6e41327cb10ceac6e6.jpg
@@ -41,6 +47,12 @@ location:
             lat: '53.924118'
             lon: '24.718028'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.924118
+            lon: 24.718028
+        source: gov
 meta:
     fgb:
         post_id: '77282'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Дуб-великан «Волат»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.4
+    founded_on: 07.07.1993
 images:
     -
         file: 47e70e6af9465b54b495cca3c6fde608.jpg
@@ -22,6 +28,12 @@ location:
             lat: 55.408111
             lon: 29.987333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.408073
+            lon: 29.987577
+        source: gov
 meta:
     fgb:
         post_id: '76765'

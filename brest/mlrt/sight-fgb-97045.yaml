@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Фрагмент стариного парка в деревне Замшаны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.07
+    founded_on: 16.07.2018
 images:
     -
         file: b80ce794df49e0532a4962a50c1bc01e.jpg
@@ -20,6 +26,12 @@ location:
             lat: 51.831944
             lon: 24.086944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.831944
+            lon: 24.086944
+        source: gov
 meta:
     fgb:
         post_id: '97045'

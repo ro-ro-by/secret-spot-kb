@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Обнажение «Винцентово»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 5.4
+    founded_on: 19.03.2007
 images:
     -
         file: f77244e0890dc8454f65a2e7d22b9eab.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.36494'
             lon: '27.25463'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.36494
+            lon: 27.25462
+        source: gov
 meta:
     fgb:
         post_id: '86910'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Родник «Барковщина»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 17.12.2020'
+    area_size: 0.59
+    founded_on: 11.04.2011
 images:
     -
         file: 29f0bca6a867286f0e5a0b4b68765518.jpg
@@ -28,6 +34,12 @@ location:
             lat: '55.10111'
             lon: '28.60361'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.10111
+            lon: 28.60361
+        source: gov
 meta:
     fgb:
         post_id: '77157'

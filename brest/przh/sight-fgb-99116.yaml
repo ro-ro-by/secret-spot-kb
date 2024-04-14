@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Высоковозрастные лиственничные насаждения "Зеленевичские"'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.31
+    founded_on: 28.06.2018
 images:
     -
         file: 2979471192419ac89bd141f30c186c5f.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.953389
             lon: 24.832694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.953389
+            lon: 24.832694
+        source: gov
 meta:
     fgb:
         post_id: '99116'

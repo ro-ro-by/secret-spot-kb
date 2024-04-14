@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Заказник «Маковье»'
+    type: заказник
+    status: местный
+    area_size: 874.36
+    founded_on: 21.12.2015
 images:
     -
         file: 55a02385fcd900f203bb27ff4df85ae9.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75694'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.16825
+            lon: 29.269264
+        source: gov
 meta:
     fgb:
         post_id: '75694'

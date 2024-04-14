@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: Слонимский
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 4812.73
+    founded_on: 22.08.1978
 images:
     -
         file: 5e642929a994746e1f9e1c4eccf7706a.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9248224
+    -
+        type: point
+        coordinates:
+            lat: 53.101264
+            lon: 25.493724
+        source: gov
 osm:
     -
         type: relation

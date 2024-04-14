@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Два валуна лукинские'
+    type: 'геологический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 18.03.1997
 images:
     -
         file: 81a7428bcc23fc3b70278b1b54ce4ea5.jpg
@@ -30,6 +35,12 @@ location:
             lat: '53.625898'
             lon: '25.749790'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.62575
+            lon: 25.749722
+        source: gov
 meta:
     fgb:
         post_id: '77591'

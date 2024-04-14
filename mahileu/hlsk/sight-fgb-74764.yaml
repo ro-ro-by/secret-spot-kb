@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-hlsk
+gov:
+    title: 'Заказник «Березовка»'
+    type: заказник
+    status: 'местный , 11.01.2019'
+    area_size: 373.42
+    founded_on: 22.01.1993
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.806974
+            lon: 28.815679
+        source: gov
 meta:
     fgb:
         post_id: '74764'

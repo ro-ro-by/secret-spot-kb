@@ -3,8 +3,21 @@ title: 'Заказник «Микулишки»'
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Заказник «Микулишки»'
+    type: заказник
+    status: местный
+    area_size: 1711.79
+    founded_on: 21.02.2023
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.371543
+            lon: 25.655437
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Амилина гора'
+    type: 'геологический памятник природы'
+    status: 'местный , 11.04.2023'
+    area_size: 2.02
+    founded_on: 16.10.2008
 images:
     -
         file: 552d98c44e9a002ed99575d081f7cbfd.jpg
@@ -24,6 +30,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75615'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.220417
+            lon: 26.497715
+        source: gov
 meta:
     fgb:
         post_id: '75615'

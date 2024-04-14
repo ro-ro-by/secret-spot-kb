@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-dzrzh
 forest:
     dominated_type: birch_curly
+gov:
+    title: 'Участок карельской березы'
+    type: 'ботанический памятник природы'
+    status: 'местный , 28.10.2008'
+    area_size: 38.57
+    founded_on: 29.09.2006
 images:
     -
         file: 80f48a3b60b55fb9c5618b86c59c0f9e.jpg
@@ -38,6 +44,12 @@ location:
             lat: 53.704917
             lon: 27.029278
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.704917
+            lon: 27.029278
+        source: gov
 meta:
     fgb:
         post_id: '75634'

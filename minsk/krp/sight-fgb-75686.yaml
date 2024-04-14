@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Заказник «Денисовичский»'
+    type: заказник
+    status: республиканский
+    area_size: 3050.59
+    founded_on: 27.12.2007
 images:
     -
         file: a40b893bfef2fd2d91afb0ef9de22dc2.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75686'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.23752
+            lon: 29.17684
+        source: gov
 meta:
     fgb:
         post_id: '75686'

@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Великий мох юховичский»'
+    type: заказник
+    status: местный
+    area_size: 1635.52
+    founded_on: 22.04.2020
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.996152
+            lon: 28.668325
+        source: gov
 meta:
     fgb:
         post_id: '77088'

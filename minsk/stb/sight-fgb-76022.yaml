@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Ландшафтный парк в д. Сула'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.07.2023'
+    area_size: 5.02
+    founded_on: 24.10.2008
 location:
     -
         type: point
@@ -20,6 +26,12 @@ location:
             osm:
                 type: relation
                 id: 16527398
+    -
+        type: point
+        coordinates:
+            lat: 53.743889
+            lon: 26.878833
+        source: gov
 osm:
     -
         type: relation

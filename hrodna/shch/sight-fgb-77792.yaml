@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Микулишкинский'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.10.2008'
+    founded_on: 21.06.1993
 images:
     -
         file: 8f689921126e6fa8ce434eba7c581043.jpg
@@ -38,6 +43,12 @@ location:
             lat: '53.872654'
             lon: '24.572783'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.872654
+            lon: 24.572783
+        source: gov
 meta:
     fgb:
         post_id: '77792'

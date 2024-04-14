@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Заказник «Мешкалы»'
+    type: заказник
+    status: 'местный , 28.10.2002'
+    area_size: 72.0
+    founded_on: 24.12.1992
 images:
     -
         file: 16eeba416897f74912f5e919ab1b7a5d.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77289'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.884353
+            lon: 25.007356
+        source: gov
 meta:
     fgb:
         post_id: '77289'

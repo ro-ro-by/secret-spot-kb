@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-mlrt
 forest:
     dominated_type: spruce
+gov:
+    title: 'Островные ельники «Малоритские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 17.0
+    founded_on: 05.05.2007
 images:
     -
         file: 4e32708ab6744f9478e0f12c2250949c.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.832778
             lon: 24.139444
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.832778
+            lon: 24.139444
+        source: gov
 meta:
     fgb:
         post_id: '74631'

@@ -3,8 +3,21 @@ title: 'Заказник «Гайна»'
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Заказник «Гайна»'
+    type: заказник
+    status: местный
+    area_size: 1464.1
+    founded_on: 22.04.2013
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.275546
+            lon: 28.249701
+        source: gov
 meta:
     source:
         -

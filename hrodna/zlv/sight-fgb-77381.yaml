@@ -4,6 +4,11 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Родник "Зеньковский"'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 22.10.2002
 images:
     -
         file: 8a0736eead9e64d255a16107c24f0827.jpg
@@ -22,6 +27,12 @@ location:
             lat: '52.97707'
             lon: '24.87522'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.97707
+            lon: 24.87522
+        source: gov
 meta:
     fgb:
         post_id: '77381'

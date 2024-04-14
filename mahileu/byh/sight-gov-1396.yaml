@@ -3,8 +3,21 @@ title: 'Заказник «Дунайковский»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Заказник «Дунайковский»'
+    type: заказник
+    status: местный
+    area_size: 914.85
+    founded_on: 01.08.2022
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.41616
+            lon: 29.914408
+        source: gov
 meta:
     source:
         -

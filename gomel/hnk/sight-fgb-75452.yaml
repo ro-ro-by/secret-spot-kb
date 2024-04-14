@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-hnk
+gov:
+    title: 'Сосна «Королева»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 09.01.2023'
+    area_size: 1.39
+    founded_on: 27.09.2004
 images:
     -
         file: 349fdef2200f051317b7df984fdeece6.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.93833
             lon: 30.03225
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.938333
+            lon: 30.03225
+        source: gov
 meta:
     fgb:
         post_id: '75452'

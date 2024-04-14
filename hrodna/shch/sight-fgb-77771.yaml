@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Заказник «Котра»'
+    type: заказник
+    status: республиканский
+    area_size: 10463.5
+    founded_on: 19.06.2003
 images:
     -
         file: 9ed9cd579e7a008b916fe6ce5c45d82c.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9254769
+    -
+        type: point
+        coordinates:
+            lat: 53.907535
+            lon: 24.646079
+        source: gov
 osm:
     -
         type: relation

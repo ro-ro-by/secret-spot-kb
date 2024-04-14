@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» шальтинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000656
+    founded_on: 19.03.2007
 images:
     -
         file: 60b2239e8390f4d4442a5af3b91c6004.jpg
@@ -39,6 +45,12 @@ location:
             lat: '54.211754'
             lon: '26.160720'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.21175
+            lon: 26.16072
+        source: gov
 meta:
     fgb:
         post_id: '75601'

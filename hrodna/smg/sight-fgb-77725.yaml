@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Парк в деревне Залесье'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 35.0
+    founded_on: 08.05.2007
 images:
     -
         file: 24276905ed5624cb0b68b17e2dd6b052.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.42106
             lon: 26.52053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.421014
+            lon: 26.520854
+        source: gov
 meta:
     fgb:
         post_id: '77725'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Новопогостский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 0.00052
+    founded_on: 23.09.2011
 images:
     -
         file: 3f48431abe0698db24808cf31266c3c6.jpg
@@ -20,6 +26,12 @@ location:
             lat: 55.496
             lon: 27.51306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.495989
+            lon: 27.513175
+        source: gov
 meta:
     fgb:
         post_id: '76939'

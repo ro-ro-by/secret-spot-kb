@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-dtl
+gov:
+    title: «Камень-богатырь»
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00085
+    founded_on: 31.07.2006
 images:
     -
         file: 1d33155945ec8a0c9ab448044b905912.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.381960'
             lon: '25.521654'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.38196
+            lon: 25.521654
+        source: gov
 meta:
     fgb:
         post_id: '77349'

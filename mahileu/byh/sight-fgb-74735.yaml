@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-byh
 forest:
     dominated_type: oak
+gov:
+    title: 'Дубовая роща в урочище «Дубки»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 29.05.2022'
+    area_size: 7.22
+    founded_on: 26.09.2007
 images:
     -
         file: b16d6d249136cb6e540104a44278698c.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.484361
             lon: 30.288639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.484361
+            lon: 30.288639
+        source: gov
 meta:
     fgb:
         post_id: '74735'

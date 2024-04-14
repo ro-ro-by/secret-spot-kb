@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Ваверанский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 14.03.2016'
+    area_size: 0.00068
+    founded_on: 17.02.1995
 images:
     -
         file: 64082d4d207f726499e5f02cf9773a3c.jpg
@@ -38,6 +44,12 @@ location:
             lat: '54.582773'
             lon: '25.889110'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.582773
+            lon: 25.88911
+        source: gov
 meta:
     fgb:
         post_id: '77621'

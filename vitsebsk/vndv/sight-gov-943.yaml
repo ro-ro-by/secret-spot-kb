@@ -3,8 +3,21 @@ title: 'Дубовые насаждения'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Дубовые насаждения'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 62.0
+    founded_on: 10.06.2011
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.7495
+            lon: 28.095694
+        source: gov
 meta:
     source:
         -

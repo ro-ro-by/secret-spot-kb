@@ -3,8 +3,21 @@ title: 'Заказник «Засадище»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Засадище»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 112.88
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.664389
+            lon: 28.083185
+        source: gov
 meta:
     source:
         -

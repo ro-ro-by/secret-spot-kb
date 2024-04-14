@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Котловины «Гумнище» и «Подберезье»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 3.75
+    founded_on: 31.07.2006
 images:
     -
         file: 54980ddcba38eb3640a10e749dd39c28.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77539'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.533353
+            lon: 24.205003
+        source: gov
 meta:
     fgb:
         post_id: '77539'

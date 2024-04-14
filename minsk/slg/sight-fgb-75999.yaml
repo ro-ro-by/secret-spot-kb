@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Величковичи»'
+    type: заказник
+    status: 'местный , 30.12.2015'
+    area_size: 197.61
+    founded_on: 27.07.2006
 images:
     -
         file: 9e159b15501ea51bb44f27480104d99f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75999'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.634059
+            lon: 27.226574
+        source: gov
 meta:
     fgb:
         post_id: '75999'

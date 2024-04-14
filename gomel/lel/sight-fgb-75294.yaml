@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Уникальный участок леса (дубрава)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 20.11.2017'
+    area_size: 4.42
+    founded_on: 04.11.2008
 images:
     -
         file: 13b42b3b125d09c73153439bb2b1fd9d.jpg
@@ -24,6 +30,12 @@ location:
             lat: 51.53789
             lon: 27.74431
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.537889
+            lon: 27.744306
+        source: gov
 meta:
     fgb:
         post_id: '75294'

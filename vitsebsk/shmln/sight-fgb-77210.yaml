@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Валун «Большой камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0062
+    founded_on: 19.03.2007
 images:
     -
         file: 980a37ba52b5b07c152abfe1a1137518.jpg
@@ -26,6 +32,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77210'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.192354
+            lon: 29.488974
+        source: gov
 meta:
     fgb:
         post_id: '77210'

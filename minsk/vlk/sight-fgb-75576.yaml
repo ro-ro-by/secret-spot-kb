@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Родник «Стреж»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 1.14
+    founded_on: 02.12.2008
 images:
     -
         file: ca50d5102dc2a9804c0707d30ff862a0.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.53924'
             lon: '26.72844'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.53924
+            lon: 26.72844
+        source: gov
 meta:
     fgb:
         post_id: '75576'

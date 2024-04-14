@@ -3,8 +3,21 @@ title: 'Заказник «Галло»'
 belongsTo:
     region: region-gomel
     subregion: subregion-elsk
+gov:
+    title: 'Заказник «Галло»'
+    type: заказник
+    status: местный
+    area_size: 1150.96
+    founded_on: 29.12.2014
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.723664
+            lon: 28.658899
+        source: gov
 meta:
     source:
         -

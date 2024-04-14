@@ -3,8 +3,21 @@ title: 'Заказник «Березина»'
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Заказник «Березина»'
+    type: заказник
+    status: местный
+    area_size: 3242.0
+    founded_on: 22.04.2013
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.438034
+            lon: 28.34062
+        source: gov
 meta:
     source:
         -

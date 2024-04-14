@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Юхновский»'
+    type: заказник
+    status: республиканский
+    area_size: 221.0
+    founded_on: 13.08.2001
 images:
     -
         file: 6a4e928945cf97058de89180cb720e00.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 6031169
+    -
+        type: point
+        coordinates:
+            lat: 53.96765
+            lon: 27.8465
+        source: gov
 osm:
     -
         type: relation

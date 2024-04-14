@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Заказник "Гривда"'
+    type: заказник
+    status: 'местный , 08.04.2008'
+    area_size: 196.11
+    founded_on: 19.06.1990
 images:
     -
         file: 87a6503d2e3903544f4cb9041a61d20f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74569'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.844419
+            lon: 25.161868
+        source: gov
 meta:
     fgb:
         post_id: '74569'

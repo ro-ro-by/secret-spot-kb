@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Насаждение карельской березы «Калининское»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 10.9
+    founded_on: 05.05.2007
 images:
     -
         file: 209d39c42e199cf19f319ea9281b20df.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.564222
             lon: 25.678444
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.563429
+            lon: 25.664432
+        source: gov
 meta:
     fgb:
         post_id: '74566'

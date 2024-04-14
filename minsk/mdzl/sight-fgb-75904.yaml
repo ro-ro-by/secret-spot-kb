@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» проньковский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0005
+    founded_on: 18.03.2008
 images:
     -
         file: 8dd8639575d5f35ee9ffa5d1c39eb9b7.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75904'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.81569
+            lon: 26.69837
+        source: gov
 meta:
     fgb:
         post_id: '75904'

@@ -4,6 +4,12 @@ type: TODO
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Лесные богатыри'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 20.0
+    founded_on: 26.02.2003
 images:
     -
         file: eede30d70f49c96c0c0915e2018acc30.jpg
@@ -37,6 +43,12 @@ location:
             osm:
                 type: relation
                 id: 662180214
+    -
+        type: point
+        coordinates:
+            lat: 54.129
+            lon: 30.915722
+        source: gov
 osm:
     -
         type: relation

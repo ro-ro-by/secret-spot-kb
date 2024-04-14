@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Вековой дуб Мозырского лесхоза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.07
+    founded_on: 02.12.2019
 images:
     -
         file: 8a06e578df92b7ba2d78aac18ff07852.jpg
@@ -22,6 +28,12 @@ location:
             lat: 51.8675
             lon: 29.252556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.8675
+            lon: 29.252556
+        source: gov
 meta:
     fgb:
         post_id: '96043'

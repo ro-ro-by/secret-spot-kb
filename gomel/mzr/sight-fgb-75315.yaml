@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Каменные валы'
+    type: 'геологический памятник природы'
+    status: местный
+    founded_on: 22.02.2008
 images:
     -
         file: fdd6a28ebd7e54ddc8a1f3c43dcb5135.jpg
@@ -35,6 +40,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75315'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.998747
+            lon: 29.302366
+        source: gov
 meta:
     fgb:
         post_id: '75315'

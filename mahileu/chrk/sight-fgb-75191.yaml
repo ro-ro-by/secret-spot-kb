@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Дуб великан'
+    type: 'ботанический памятник природы'
+    status: 'местный , 14.11.2007'
+    area_size: 0.02
+    founded_on: 09.12.2003
 tree:
     type: oak
 location:
@@ -13,6 +19,12 @@ location:
             lat: 53.568306
             lon: 31.3815
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.569082
+            lon: 31.373051
+        source: gov
 meta:
     fgb:
         post_id: '75191'

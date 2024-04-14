@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: Еловский
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 959.2
+    founded_on: 16.08.1979
 images:
     -
         file: 1d90060968e562407eee0f90f3430ed2.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 499513065
+    -
+        type: point
+        coordinates:
+            lat: 52.572109
+            lon: 26.384438
+        source: gov
 osm:
     -
         type: way

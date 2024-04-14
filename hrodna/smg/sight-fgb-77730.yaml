@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Большой камень» асановский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001624
+    founded_on: 18.01.2008
 images:
     -
         file: a03958d0a140c59231e711059c16617c.jpg
@@ -32,6 +38,12 @@ location:
             lat: '54.350924'
             lon: '26.236451'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.350924
+            lon: 26.236451
+        source: gov
 meta:
     fgb:
         post_id: '77730'

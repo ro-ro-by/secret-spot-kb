@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Памятник природы «Млынок»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.5
+    founded_on: 26.01.2016
 images:
     -
         file: 39411a6919291c85626df546b80dd021.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 7094676
+    -
+        type: point
+        coordinates:
+            lat: 54.97834
+            lon: 28.00671
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник республиканского значения «Выгонощанское»'
+    type: заказник
+    status: 'республиканский , 04.02.2015'
+    area_size: 55047.4
+    founded_on: 18.11.1968
 images:
     -
         file: 2bc6e9290eb4968af40809fc1a46895a.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 7834249
+    -
+        type: point
+        coordinates:
+            lat: 52.518007
+            lon: 25.841054
+        source: gov
 osm:
     -
         type: relation

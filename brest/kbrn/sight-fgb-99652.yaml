@@ -4,6 +4,19 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Парк Шемета'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 3.07
+    founded_on: 06.12.2021
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.331615
+            lon: 24.64891
+        source: gov
 meta:
     fgb:
         post_id: '99652'

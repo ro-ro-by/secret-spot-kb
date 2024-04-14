@@ -4,6 +4,12 @@ type: TODO
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Вековые деревья Речицкого лесхоза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.63
+    founded_on: 21.06.2021
 images:
     -
         file: 96d6a55a09754b875e8fc51e21c28c3f.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.37894
             lon: 30.32292
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.378944
+            lon: 30.322917
+        source: gov
 meta:
     fgb:
         post_id: '97451'

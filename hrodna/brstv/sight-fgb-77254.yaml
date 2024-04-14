@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Гродненская Свислочь'
+    type: заказник
+    status: 'местный , 29.09.2017'
+    area_size: 4881.17
+    founded_on: 24.05.2002
 images:
     -
         file: 865c37580aee858c0fdbdcb829266a3d.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: node
                 id: 8394796377
+    -
+        type: point
+        coordinates:
+            lat: 53.392071
+            lon: 23.929494
+        source: gov
 osm:
     -
         type: node

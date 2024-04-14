@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Валун «Чертов камень» осташинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000756
+    founded_on: 18.01.2008
 images:
     -
         file: a836baa4823b7cbc837f06e662254937.jpg
@@ -43,6 +49,13 @@ images:
                 post_id: '77508'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.463251
+            lon: 26.170176
+        source: gov
 meta:
     fgb:
         post_id: '77508'

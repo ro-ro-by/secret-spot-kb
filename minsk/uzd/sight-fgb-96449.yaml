@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-uzd
+gov:
+    title: 'Заказник «Истоки реки Неман»'
+    type: заказник
+    status: 'местный , 07.02.2023'
+    area_size: 905.42
+    founded_on: 15.10.2008
 images:
     -
         file: d6a605c2f853cf4e3c24f789869d15e0.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1139362628
+    -
+        type: point
+        coordinates:
+            lat: 53.481727
+            lon: 27.341592
+        source: gov
 osm:
     -
         type: way

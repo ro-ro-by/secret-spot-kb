@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dbrn
+gov:
+    title: 'Бородинцевская криница'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 26.05.2017'
+    area_size: 0.01
+    founded_on: 29.09.1999
 images:
     -
         file: 4e97953534387c7359453015f2b4e99b.jpg
@@ -31,6 +37,12 @@ location:
             lat: '54.63401'
             lon: '30.73779'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.633974
+            lon: 30.737825
+        source: gov
 meta:
     fgb:
         post_id: '76820'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Парк в г. Скидель'
+    type: 'ботанический памятник природы'
+    status: 'местный , 12.02.2018'
+    area_size: 4.36
+    founded_on: 20.02.2001
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 53.58342
             lon: 24.26236
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.596417
+            lon: 24.25975
+        source: gov
 meta:
     fgb:
         post_id: '77325'

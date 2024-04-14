@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава «Лютня»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 30.12.2022'
+    area_size: 78.4
+    founded_on: 05.05.2007
 images:
     -
         file: ca1adec2921cc04d4880d79a24b7aff0.jpg
@@ -33,6 +39,12 @@ location:
             osm:
                 type: way
                 id: 117124316
+    -
+        type: point
+        coordinates:
+            lat: 54.046278
+            lon: 31.693778
+        source: gov
 osm:
     -
         type: way

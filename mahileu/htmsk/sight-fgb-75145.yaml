@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Святая криница'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 30.10.2002'
+    area_size: 4.0E-5
+    founded_on: 28.09.1994
 images:
     -
         file: 21a45c73edb5d8126925cd7b42b18ad5.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 10772063
+    -
+        type: point
+        coordinates:
+            lat: 53.31319
+            lon: 32.33844
+        source: gov
 osm:
     -
         type: relation

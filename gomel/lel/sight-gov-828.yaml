@@ -3,8 +3,21 @@ title: 'Заказник «Невица»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Невица»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 413.66
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.681656
+            lon: 27.580273
+        source: gov
 meta:
     source:
         -

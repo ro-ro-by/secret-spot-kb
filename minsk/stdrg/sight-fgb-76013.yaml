@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: 'Заказник «Фаличский Мох»'
+    type: заказник
+    status: республиканский
+    area_size: 3176.41
+    founded_on: 01.02.2020
 images:
     -
         file: 25e1cef393ddafcf3ea6ecb89d3b89b4.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 656557891
+    -
+        type: point
+        coordinates:
+            lat: 53.1124
+            lon: 28.31415
+        source: gov
 osm:
     -
         type: way

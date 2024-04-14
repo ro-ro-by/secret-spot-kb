@@ -3,8 +3,21 @@ title: 'Заказник «Луговое»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Луговое»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 311.36
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.587161
+            lon: 28.339291
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+gov:
+    title: 'Парк "Соломинка" в населенном пункте Добригоры'
+    type: 'ботанический памятник природы'
+    status: 'местный , 03.12.2019'
+    area_size: 9.22
+    founded_on: 20.07.2005
 images:
     -
         file: 7f1a86cb76a2b7a91913917b7e40830c.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.98075
             lon: 29.5245
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.980753
+            lon: 29.524508
+        source: gov
 meta:
     fgb:
         post_id: '76134'

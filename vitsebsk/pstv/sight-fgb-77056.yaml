@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Сергеевичские холмы»'
+    type: заказник
+    status: 'местный , 29.03.2019'
+    area_size: 140.0
+    founded_on: 11.03.1998
 images:
     -
         file: 2b224c5fe09ce1e7a132f21b2ec4ed3f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77056'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.020783
+            lon: 27.235586
+        source: gov
 meta:
     fgb:
         post_id: '77056'

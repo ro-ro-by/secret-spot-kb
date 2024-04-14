@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-rchc
 forest:
     dominated_type: oak
+gov:
+    title: 'Участок уникальной дубравы «Речицкий»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 74.6
+    founded_on: 05.05.2007
 images:
     -
         file: 6b8d24afc18280cf8483ee3ef48a1ea8.jpg
@@ -30,6 +36,12 @@ location:
             lat: 52.48936
             lon: 29.94267
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.489361
+            lon: 29.942667
+        source: gov
 meta:
     fgb:
         post_id: '75426'

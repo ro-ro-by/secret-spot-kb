@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: Реутка
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 4.2
+    founded_on: 02.12.2008
 images:
     -
         file: 139ebc313a8b73f6c417138b97554e87.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.5435
             lon: 26.726306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.5435
+            lon: 26.726306
+        source: gov
 meta:
     fgb:
         post_id: '75566'

@@ -4,6 +4,19 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Речицкие дубы'
+    type: 'ботанический памятник природы'
+    status: 'местный , 03.08.2021'
+    area_size: 0.0869
+    founded_on: 24.12.2010
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.86
+            lon: 26.797778
+        source: gov
 meta:
     fgb:
         post_id: '74700'

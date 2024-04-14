@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Мантунская гряда'
+    type: 'геологический памятник природы'
+    status: 'местный , 28.10.2002'
+    area_size: 750.0
+    founded_on: 31.10.1997
 images:
     -
         file: dd97dc6323a0316e036408b6f8e84679.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77290'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.861111
+            lon: 24.838889
+        source: gov
 meta:
     fgb:
         post_id: '77290'

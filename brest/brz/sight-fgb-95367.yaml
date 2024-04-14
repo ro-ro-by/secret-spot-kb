@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Березовский валун'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.00085
+    founded_on: 28.12.2017
 images:
     -
         file: 6426ea7f5cdc05752f661e56023c624d.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '95367'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.538878
+            lon: 24.983161
+        source: gov
 meta:
     fgb:
         post_id: '95367'

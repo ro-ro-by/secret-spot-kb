@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Криница «Брезгун»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.02
+    founded_on: 09.12.2003
 images:
     -
         file: f69b52c3f0bd4a6c9b32cda961e45ecd.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.67769'
             lon: '31.31352'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.67769
+            lon: 31.31352
+        source: gov
 meta:
     fgb:
         post_id: '75193'

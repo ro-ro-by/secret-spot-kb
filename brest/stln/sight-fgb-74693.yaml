@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Парк «Маньковичский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 24.0
+    founded_on: 16.07.2007
 images:
     -
         file: 307df462538012daa1b4f32e5d8d4d8d.jpg
@@ -20,6 +26,12 @@ location:
             lat: 51.896
             lon: 26.869194
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.895503
+            lon: 26.869063
+        source: gov
 meta:
     fgb:
         post_id: '74693'

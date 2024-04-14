@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Гряда «Орешкинская»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 40.0
+    founded_on: 18.03.2008
 images:
     -
         file: dd82e909f7e9a97472d46ff46c092368.jpg
@@ -28,6 +34,12 @@ location:
             lat: 54.75
             lon: 30.46667
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.749
+            lon: 30.4609
+        source: gov
 meta:
     fgb:
         post_id: '76979'

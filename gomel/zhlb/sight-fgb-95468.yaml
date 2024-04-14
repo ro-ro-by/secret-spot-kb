@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-zhlb
+gov:
+    title: 'Заказник «Выдрица»'
+    type: заказник
+    status: республиканский
+    area_size: 17403.38
+    founded_on: 14.10.1999
 images:
     -
         file: 9adb83e36918f7de0b9350fd2abd4174.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 4756726
+    -
+        type: point
+        coordinates:
+            lat: 52.443
+            lon: 29.3236
+        source: gov
 osm:
     -
         type: relation

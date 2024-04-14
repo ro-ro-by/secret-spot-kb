@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Святое озеро»'
+    type: заказник
+    status: 'местный , 30.12.2015'
+    area_size: 118.24
+    founded_on: 13.01.2009
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: '53.79665'
             lon: '29.08896'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.711932
+            lon: 27.595642
+        source: gov
 meta:
     fgb:
         post_id: '75473'

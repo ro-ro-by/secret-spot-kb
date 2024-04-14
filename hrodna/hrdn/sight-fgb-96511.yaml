@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Дуб «Свободы» у Крестовоздвиженского костела'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.04
+    founded_on: 12.02.2018
 tree:
     type: oak
 location:
@@ -13,6 +19,12 @@ location:
             lat: 53.77389
             lon: 23.57069
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.773889
+            lon: 23.570694
+        source: gov
 meta:
     fgb:
         post_id: '96511'

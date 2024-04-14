@@ -3,8 +3,21 @@ title: 'Заказник «Вилейты»'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Вилейты»'
+    type: заказник
+    status: местный
+    area_size: 5101.0
+    founded_on: 20.05.2013
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.218259
+            lon: 26.753369
+        source: gov
 meta:
     source:
         -

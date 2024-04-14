@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Коптюганский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001598
+    founded_on: 18.01.2008
 images:
     -
         file: bea624094942f0997ba0ca50d19d8482.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.762776'
             lon: '24.890687'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.762776
+            lon: 24.890687
+        source: gov
 meta:
     fgb:
         post_id: '77779'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-lpl
+gov:
+    title: 'Царь-дуб «Тадулинский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.05
+    founded_on: 26.04.2007
 images:
     -
         file: a280d035d7e21ceb87b542e772b1604f.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.80055
             lon: 28.87347
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.800472
+            lon: 28.873389
+        source: gov
 meta:
     fgb:
         post_id: '76829'

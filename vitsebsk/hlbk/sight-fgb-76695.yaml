@@ -4,6 +4,19 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Памятник природы «Мосар»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.07
+    founded_on: 26.01.2016
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.223458
+            lon: 27.468033
+        source: gov
 meta:
     fgb:
         post_id: '76695'

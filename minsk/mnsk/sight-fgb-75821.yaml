@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Парк Игнатичи'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.78
+    founded_on: 13.01.2009
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 53.742194
             lon: 27.555528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.742194
+            lon: 27.555528
+        source: gov
 meta:
     fgb:
         post_id: '75821'

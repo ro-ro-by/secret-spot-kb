@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Заказник «Романьки-Корчевка»'
+    type: заказник
+    status: 'местный , 09.06.2020'
+    area_size: 676.54
+    founded_on: 24.02.2006
 images:
     -
         file: 1651d80b68d60cbb6fb8c4e03842c96e.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75051'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.745244
+            lon: 30.108328
+        source: gov
 meta:
     fgb:
         post_id: '75051'

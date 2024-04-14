@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-tlch
+gov:
+    title: 'Заказник «Медвежий лук»'
+    type: заказник
+    status: 'местный , 31.12.2020'
+    area_size: 32.32
+    founded_on: 24.06.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.567588
+            lon: 29.660857
+        source: gov
 meta:
     fgb:
         post_id: '77137'

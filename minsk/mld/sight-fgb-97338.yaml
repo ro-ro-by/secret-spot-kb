@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Вяз-старожил в д. Талуи'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.13
+    founded_on: 05.04.2021
 images:
     -
         file: 75bf76e95fae59135629109ad3621e86.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.314583
             lon: 26.592833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.31458
+            lon: 26.59283
+        source: gov
 meta:
     fgb:
         post_id: '97338'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Невельские вязы'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.12.2019'
+    area_size: 0.075
+    founded_on: 23.06.2005
 images:
     -
         file: 9250159b280e44bc9b4d5eef538f1024.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.368
             lon: 23.37625
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.930046
+            lon: 25.848214
+        source: gov
 meta:
     fgb:
         post_id: '74646'

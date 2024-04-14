@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vtb
+gov:
+    title: 'Лужеснянский дендропарк'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 8.78
+    founded_on: 07.08.2020
 images:
     -
         file: e079e55208290df54a1d97c96b5d403a.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 8935112
+    -
+        type: point
+        coordinates:
+            lat: 55.251176
+            lon: 30.142862
+        source: gov
 osm:
     -
         type: relation

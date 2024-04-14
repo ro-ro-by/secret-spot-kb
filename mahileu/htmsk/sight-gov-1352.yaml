@@ -3,8 +3,21 @@ title: 'Эталонное насаждение сосны'
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Эталонное насаждение сосны'
+    type: 'ботанический памятник природы'
+    status: 'местный , 12.08.2011'
+    area_size: 15.0
+    founded_on: 29.10.2003
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.338
+            lon: 32.532611
+        source: gov
 meta:
     source:
         -

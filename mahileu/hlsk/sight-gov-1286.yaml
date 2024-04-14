@@ -3,8 +3,21 @@ title: Дубрава-2
 belongsTo:
     region: region-mahileu
     subregion: subregion-hlsk
+gov:
+    title: Дубрава-2
+    type: 'ботанический памятник природы'
+    status: 'местный , 26.10.2021'
+    area_size: 19.3
+    founded_on: 11.12.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.732056
+            lon: 28.403183
+        source: gov
 meta:
     source:
         -

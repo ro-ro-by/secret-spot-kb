@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Тышковичский груд'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 7.04
+    founded_on: 10.09.2021
 images:
     -
         file: f12e03e573fd2f00251e52a69bc70b7f.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.43499
             lon: 25.57394
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.434994
+            lon: 25.573936
+        source: gov
 meta:
     fgb:
         post_id: '99519'

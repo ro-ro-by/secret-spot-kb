@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валуны «Топилишкинские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    founded_on: 18.01.2008
 images:
     -
         file: 348ab406960f7a26a4fd236baaf32b6f.jpg
@@ -39,6 +44,12 @@ location:
             lat: '53.642862'
             lon: '24.719496'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.642862
+            lon: 24.719496
+        source: gov
 meta:
     fgb:
         post_id: '77783'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Лапейкинский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00085
+    founded_on: 16.02.1995
 images:
     -
         file: ed0510d413802462a016e65885bf2642.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.354497'
             lon: '25.696021'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.354497
+            lon: 25.696021
+        source: gov
 meta:
     fgb:
         post_id: '77661'

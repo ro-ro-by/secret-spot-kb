@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Валун Высотковский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00089
+    founded_on: 31.12.2009
 images:
     -
         file: 9eaa25014a69012bbf6a801f0a077c36.jpg
@@ -20,6 +26,12 @@ location:
             lat: 55.88331
             lon: 28.97809
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.883312
+            lon: 28.978085
+        source: gov
 meta:
     fgb:
         post_id: '77101'

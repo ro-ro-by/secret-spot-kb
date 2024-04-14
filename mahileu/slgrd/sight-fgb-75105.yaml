@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: 'Заказник «Славгородский»'
+    type: заказник
+    status: республиканский
+    area_size: 14779.33
+    founded_on: 04.11.2017
 images:
     -
         file: ba5e018a30825f090cd115abc7f252fd.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9201117
+    -
+        type: point
+        coordinates:
+            lat: 53.321561
+            lon: 31.053753
+        source: gov
 osm:
     -
         type: relation

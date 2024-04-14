@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Заказник «Тагиное»'
+    type: заказник
+    status: 'местный , 21.09.2018'
+    area_size: 274.8
+    founded_on: 23.08.2006
 images:
     -
         file: 5a47003d5c310c342b543cbef541d3a5.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75086'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.547382
+            lon: 28.579402
+        source: gov
 meta:
     fgb:
         post_id: '75086'

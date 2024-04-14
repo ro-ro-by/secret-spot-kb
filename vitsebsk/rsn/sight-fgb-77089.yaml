@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Лазарева криница'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.0314
+    founded_on: 31.12.2009
 images:
     -
         file: b988e3a6db48877fe46c58511d39d32e.jpg
@@ -38,6 +44,12 @@ location:
             lat: '55.82943'
             lon: '28.78091'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.829399
+            lon: 28.780845
+        source: gov
 meta:
     fgb:
         post_id: '77089'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Заказник «Волмянский»'
+    type: заказник
+    status: республиканский
+    area_size: 614.5
+    founded_on: 29.12.2001
 images:
     -
         file: b48dcf6291341041afe1d12ca3c1308a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75979'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.94135
+            lon: 27.92016
+        source: gov
 meta:
     fgb:
         post_id: '75979'

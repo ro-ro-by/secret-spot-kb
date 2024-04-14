@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Дуб Волат'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.07
+    founded_on: 26.09.2018
 images:
     -
         file: fb1b28f8d637aa8227509ee66466149c.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.778139
             lon: 26.627361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.778139
+            lon: 26.627361
+        source: gov
 meta:
     fgb:
         post_id: '74533'

@@ -4,6 +4,10 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Валун «Большой камень» смолянковский'
+    type: 'геологический памятник природы'
+    status: республиканский
 images:
     -
         file: 3ba0cf473215bc1e067d1b7606e0f82c.jpg
@@ -39,6 +43,12 @@ location:
             lat: '54.326896'
             lon: '26.073283'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.326896
+            lon: 26.073283
+        source: gov
 meta:
     fgb:
         post_id: '77642'

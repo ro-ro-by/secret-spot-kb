@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Хомичский дуб-гигант'
+    type: 'ботанический памятник природы'
+    status: 'местный , 29.05.2022'
+    area_size: 0.066
+    founded_on: 26.09.2007
 images:
     -
         file: eaae40de202318d9476759e836a67ee3.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.34058
             lon: 30.00269
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.340583
+            lon: 30.002694
+        source: gov
 meta:
     fgb:
         post_id: '74738'

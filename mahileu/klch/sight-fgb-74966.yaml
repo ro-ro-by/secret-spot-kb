@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Мокрое-2»'
+    type: заказник
+    status: 'местный , 18.05.2021'
+    area_size: 62.86
+    founded_on: 30.03.2011
 images:
     -
         file: 764a15b8483e5bf7cedc612cbf109a87.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74966'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.524382
+            lon: 29.371608
+        source: gov
 meta:
     fgb:
         post_id: '74966'

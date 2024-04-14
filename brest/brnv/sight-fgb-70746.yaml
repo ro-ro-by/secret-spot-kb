@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Тугановичский»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 21.12.2010'
+    area_size: 12.0
+    founded_on: 28.03.1994
 images:
     -
         file: 5653a9267a6cb09d2d7546ef27bf1367.jpg
@@ -37,6 +43,12 @@ location:
             osm:
                 type: relation
                 id: 12281492
+    -
+        type: point
+        coordinates:
+            lat: 53.358
+            lon: 26.134889
+        source: gov
 osm:
     -
         type: relation

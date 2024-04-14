@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Загорьевский пригорок'
+    type: 'геологический памятник природы'
+    status: 'местный , 30.09.2008'
+    area_size: 400.0
+    founded_on: 27.08.1997
 images:
     -
         file: 148061c50934f544475589b47b9f20dc.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77513'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.509611
+            lon: 26.349536
+        source: gov
 meta:
     fgb:
         post_id: '77513'

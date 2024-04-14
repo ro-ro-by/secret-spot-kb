@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-uzd
+gov:
+    title: 'Заказник «Ленчино»'
+    type: заказник
+    status: 'местный , 24.11.2023'
+    area_size: 362.22
+    founded_on: 13.06.2008
 images:
     -
         file: 826ba9cb99014d41272e71591d139f51.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1131618643
+    -
+        type: point
+        coordinates:
+            lat: 53.543458
+            lon: 27.267689
+        source: gov
 osm:
     -
         type: way

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Родник «Белево»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 26.05.2016'
+    area_size: 0.01
+    founded_on: 26.01.2006
 images:
     -
         file: f2ea96e7b11d54bdb4969ca8c081754e.jpg
@@ -22,6 +28,12 @@ location:
             lat: '52.43070'
             lon: '23.75005'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.4307
+            lon: 23.75005
+        source: gov
 meta:
     fgb:
         post_id: '74573'

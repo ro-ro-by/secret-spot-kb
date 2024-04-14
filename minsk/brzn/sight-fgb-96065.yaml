@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Лозоровщина»'
+    type: заказник
+    status: местный
+    area_size: 2246.73
+    founded_on: 23.12.2015
 images:
     -
         file: 8852e6cf5883ff0ccae45affba4375ed.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '96065'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.746211
+            lon: 28.967622
+        source: gov
 meta:
     fgb:
         post_id: '96065'

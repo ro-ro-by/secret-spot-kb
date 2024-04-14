@@ -3,8 +3,21 @@ title: 'Ивацевичское криволесье'
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Ивацевичское криволесье'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.28
+    founded_on: 12.10.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.694009
+            lon: 25.309778
+        source: gov
 meta:
     source:
         -

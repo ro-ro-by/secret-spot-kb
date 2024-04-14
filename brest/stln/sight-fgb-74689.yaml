@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Парк «Ново-Бережновский»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 17.06.2008'
+    area_size: 6.0
+    founded_on: 16.08.1976
 images:
     -
         file: 82469ebc21a9ec0c77acfa17e3981536.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.011528
             lon: 26.989333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.011528
+            lon: 26.989333
+        source: gov
 meta:
     fgb:
         post_id: '74689'

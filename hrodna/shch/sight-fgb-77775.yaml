@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Большой камень» пугачевский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0056
+    founded_on: 18.01.2008
 images:
     -
         file: d7afefa39cacc47a8f651e026a31f041.jpg
@@ -42,6 +48,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77775'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.803309
+            lon: 24.608078
+        source: gov
 meta:
     fgb:
         post_id: '77775'

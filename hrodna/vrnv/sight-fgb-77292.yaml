@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Пущанская гора'
+    type: 'геологический памятник природы'
+    status: 'местный , 28.10.2002'
+    area_size: 180.0
+    founded_on: 31.10.1997
 images:
     -
         file: 83f96bbdd79f5ba11568c2e8a9c4fda7.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77292'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.266667
+            lon: 25.533333
+        source: gov
 meta:
     fgb:
         post_id: '77292'

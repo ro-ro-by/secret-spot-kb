@@ -3,8 +3,21 @@ title: 'Заказник «Липняки»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Заказник «Липняки»'
+    type: заказник
+    status: 'местный , 10.12.2021'
+    area_size: 392.81
+    founded_on: 19.12.2007
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.093333
+            lon: 28.750278
+        source: gov
 meta:
     source:
         -

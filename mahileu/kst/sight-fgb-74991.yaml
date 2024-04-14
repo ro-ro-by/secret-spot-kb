@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: 'Природная криница д.Студенец'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 27.01.2023'
+    area_size: 0.071
+    founded_on: 04.12.2002
 images:
     -
         file: 31f49b49ce1fa9233a3e5a2cb38fffa5.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.28967'
             lon: '32.05760'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.28967
+            lon: 32.0576
+        source: gov
 meta:
     fgb:
         post_id: '74991'

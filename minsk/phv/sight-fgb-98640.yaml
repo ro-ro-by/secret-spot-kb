@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Ветеревичский»'
+    type: заказник
+    status: 'местный , 30.10.2020'
+    area_size: 1574.61
+    founded_on: 24.12.1997
 images:
     -
         file: 046027a7847bd2957f2104a804ccf4ec.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 13236309
+    -
+        type: point
+        coordinates:
+            lat: 53.385256
+            lon: 27.688153
+        source: gov
 osm:
     -
         type: relation

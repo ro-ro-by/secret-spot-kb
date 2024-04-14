@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Соколиный»'
+    type: заказник
+    status: местный
+    area_size: 20.9
+    founded_on: 29.08.2011
 location:
     -
         type: geojson
@@ -14,6 +20,12 @@ location:
             osm:
                 type: way
                 id: 37593729
+    -
+        type: point
+        coordinates:
+            lat: 53.782917
+            lon: 27.603676
+        source: gov
 osm:
     -
         type: way

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Родник «Ясенец»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 21.12.2010'
+    area_size: 0.0009
+    founded_on: 28.11.2000
 images:
     -
         file: 10893847b6ab89d22891fd0531e46dbc.jpg
@@ -28,6 +34,12 @@ location:
             lat: '53.35469'
             lon: '26.05344'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.34469
+            lon: 26.05344
+        source: gov
 meta:
     fgb:
         post_id: '70743'

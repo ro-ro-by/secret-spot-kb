@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-mld
 forest:
     dominated_type: larch
+gov:
+    title: 'Польские культуры лиственницы европейской'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.53
+    founded_on: 12.10.2012
 location:
     -
         type: point
@@ -13,6 +19,12 @@ location:
             lat: 54.280806
             lon: 26.459389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.280956
+            lon: 26.461614
+        source: gov
 meta:
     fgb:
         post_id: '75872'

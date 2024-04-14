@@ -3,8 +3,21 @@ title: 'Гора «Маяк»'
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Гора «Маяк»'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.4
+    founded_on: 28.10.2008
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.27597
+            lon: 26.53227
+        source: gov
 meta:
     source:
         -

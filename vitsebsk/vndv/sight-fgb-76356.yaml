@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Освейская долина прорыва'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.13
+    founded_on: 10.06.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 56.034328
+            lon: 27.920693
+        source: gov
 meta:
     fgb:
         post_id: '76356'

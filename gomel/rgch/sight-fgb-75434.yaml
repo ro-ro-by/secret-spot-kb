@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Урочище Бритская грива'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 85.53
+    founded_on: 05.12.2023
 images:
     -
         file: b839c39b4ad5399a08a8c1774b9f07c8.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.04956
             lon: 30.07706
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.049556
+            lon: 30.077056
+        source: gov
 meta:
     fgb:
         post_id: '75434'

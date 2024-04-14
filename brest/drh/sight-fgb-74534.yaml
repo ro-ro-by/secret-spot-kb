@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-drh
+gov:
+    title: 'Кария овальная «Брашевичская»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.04.2007'
+    area_size: 0.0085
 images:
     -
         file: 6b42858750a62b6760a41c65c33d1166.jpg
@@ -30,6 +35,12 @@ location:
             lat: 52.208056
             lon: 25.021111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.20805
+            lon: 25.021006
+        source: gov
 meta:
     fgb:
         post_id: '74534'

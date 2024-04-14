@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Наполеоновский дуб'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0226
+    founded_on: 02.04.2018
 images:
     -
         file: e016ecfcecdef7e5210378a00afadcbc.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 14435093
+    -
+        type: point
+        coordinates:
+            lat: 52.422583
+            lon: 24.309611
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Моствилишкинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00072
+    founded_on: 16.02.1995
 images:
     -
         file: 667b934d4722453cbb345b5ee73f14c8.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.378507'
             lon: '26.009210'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.378507
+            lon: 26.00921
+        source: gov
 meta:
     fgb:
         post_id: '77653'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Барташицкий»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00084
+    founded_on: 18.01.2008
 images:
     -
         file: 3a4b4bea21c6b5b0661730b5b5b9717a.jpg
@@ -30,6 +36,12 @@ location:
             lat: '53.597428'
             lon: '24.612381'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.597428
+            lon: 24.612381
+        source: gov
 meta:
     fgb:
         post_id: '77784'

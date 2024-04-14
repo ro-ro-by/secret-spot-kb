@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-dtl
+gov:
+    title: 'Заказник «Липичанская пуща»'
+    type: заказник
+    status: республиканский
+    area_size: 15153.0
+    founded_on: 08.10.2002
 images:
     -
         file: 407b91a2482878afc964841577b672c0.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 9233765
+    -
+        type: point
+        coordinates:
+            lat: 53.461564
+            lon: 24.933343
+        source: gov
 osm:
     -
         type: relation

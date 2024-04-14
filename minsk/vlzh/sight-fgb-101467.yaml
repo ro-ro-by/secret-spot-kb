@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Старинный дуб в окрестности деревни Боровиковщина'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.04.2023'
+    area_size: 0.05
+    founded_on: 16.10.2008
 images:
     -
         file: b0c07297efeea91cee27b2daea4430ce.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.964222
             lon: 26.708417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.964222
+            lon: 26.708417
+        source: gov
 meta:
     fgb:
         post_id: '101467'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Гора Большая'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 17.7
+    founded_on: 29.03.2019
 images:
     -
         file: e7a9600ed2e198f7da8082e739491c49.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77051'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.106191
+            lon: 27.055628
+        source: gov
 meta:
     fgb:
         post_id: '77051'

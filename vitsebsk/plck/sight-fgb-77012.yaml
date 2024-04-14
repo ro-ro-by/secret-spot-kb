@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Заказник «Гряда Гамовщинская»'
+    type: заказник
+    status: 'местный , 18.02.2011'
+    area_size: 195.0
+    founded_on: 23.05.2001
 images:
     -
         file: 861cb6f49212305d1a8641fe7c7ff600.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77012'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.468764
+            lon: 28.308802
+        source: gov
 meta:
     fgb:
         post_id: '77012'

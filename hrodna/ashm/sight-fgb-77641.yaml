@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Валун «Большой камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001394
+    founded_on: 31.07.2006
 images:
     -
         file: 5ce7bb0b55ff165f1cb472b86775114b.jpg
@@ -33,6 +39,12 @@ location:
             lat: '54.378499'
             lon: '25.885614'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.378499
+            lon: 25.885614
+        source: gov
 meta:
     fgb:
         post_id: '77641'

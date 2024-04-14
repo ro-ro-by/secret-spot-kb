@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Парк «Грудополь»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.06.2002'
+    area_size: 8.39
+    founded_on: 22.03.1994
 images:
     -
         file: f975e9e2c5d3b7ca943586772e2a8711.jpg
@@ -37,6 +43,12 @@ location:
             osm:
                 type: relation
                 id: 11069591
+    -
+        type: point
+        coordinates:
+            lat: 52.866639
+            lon: 25.683611
+        source: gov
 osm:
     -
         type: relation

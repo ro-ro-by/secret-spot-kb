@@ -3,8 +3,21 @@ title: 'Заказник "Хотиславский"'
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Заказник "Хотиславский"'
+    type: заказник
+    status: местный
+    area_size: 85.4
+    founded_on: 30.10.2017
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.742186
+            lon: 24.100325
+        source: gov
 meta:
     source:
         -

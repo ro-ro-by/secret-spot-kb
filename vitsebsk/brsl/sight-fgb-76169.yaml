@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Родник Лазенки'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 04.09.2020'
+    area_size: 1.03
+    founded_on: 15.01.2007
 images:
     -
         file: d970522d38fe75e8228c23468bc96b8a.jpg
@@ -22,6 +28,12 @@ location:
             lat: '55.38287'
             lon: '26.56362'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.382861
+            lon: 26.562728
+        source: gov
 meta:
     fgb:
         post_id: '76169'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lnn
+gov:
+    title: Лунинский
+    type: заказник
+    status: республиканский
+    area_size: 9283.0
+    founded_on: 27.02.1997
 images:
     -
         file: 3c4e9b1820c522f84b85616fda82a5e8.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 8052082
+    -
+        type: point
+        coordinates:
+            lat: 52.349813
+            lon: 26.685698
+        source: gov
 osm:
     -
         type: relation

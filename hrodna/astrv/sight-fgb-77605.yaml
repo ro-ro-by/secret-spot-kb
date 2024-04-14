@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Заказник «Сарочанские озера»'
+    type: заказник
+    status: 'республиканский , 27.11.2013'
+    area_size: 14738.97
+    founded_on: 25.05.2008
 images:
     -
         file: 3f50bc0e3c77c05810975b2636a738f9.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 7893819
+    -
+        type: point
+        coordinates:
+            lat: 54.8772
+            lon: 26.1914
+        source: gov
 osm:
     -
         type: relation

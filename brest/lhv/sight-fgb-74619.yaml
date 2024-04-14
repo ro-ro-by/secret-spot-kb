@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник "Святицкая пуща"'
+    type: заказник
+    status: 'местный , 29.08.2008'
+    area_size: 4929.05
+    founded_on: 14.11.1988
 images:
     -
         file: cc52140aff0138167460db6341b708cb.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74619'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.806118
+            lon: 26.10828
+        source: gov
 meta:
     fgb:
         post_id: '74619'

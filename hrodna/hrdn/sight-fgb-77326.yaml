@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Парк в д. Белые Болота'
+    type: 'ботанический памятник природы'
+    status: 'местный , 12.02.2018'
+    area_size: 3.78
+    founded_on: 20.02.2001
 images:
     -
         file: 3c3123c8966add54b0d735a38484d73c.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.80308
             lon: 23.81106
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.803
+            lon: 23.809889
+        source: gov
 meta:
     fgb:
         post_id: '77326'

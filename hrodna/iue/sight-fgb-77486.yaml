@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Родник «Ивьевский»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.04
+    founded_on: 31.07.2006
 images:
     -
         file: 488710e818a034589b17d93cc7090f24.jpg
@@ -31,6 +37,12 @@ location:
             lat: '53.93159'
             lon: '25.77671'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.93159
+            lon: 25.77671
+        source: gov
 meta:
     fgb:
         post_id: '77486'

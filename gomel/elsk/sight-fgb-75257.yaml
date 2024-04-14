@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-elsk
+gov:
+    title: 'Сосна обыкновенная'
+    type: 'ботанический памятник природы'
+    status: 'местный , 19.12.2016'
+    area_size: 0.01
+    founded_on: 23.02.2007
 images:
     -
         file: 38e18498f6d26ca7a2e312ad4a9ca88d.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.756
             lon: 29.03447
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.757105
+            lon: 29.037052
+        source: gov
 meta:
     fgb:
         post_id: '75257'

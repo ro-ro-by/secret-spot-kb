@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: Куельский
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.79
+    founded_on: 05.06.2015
 images:
     -
         file: c5918fff438cb356ba9b3b600596d111.jpg
@@ -36,6 +42,12 @@ location:
             lat: '54.95669'
             lon: '26.43749'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.95669
+            lon: 26.43749
+        source: gov
 meta:
     fgb:
         post_id: '75950'

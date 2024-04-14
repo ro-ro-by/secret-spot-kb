@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Валун «Заболотский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000352
+    founded_on: 31.07.2006
 images:
     -
         file: 1b2eb56d1fd967f6d4b5067848a552a2.jpg
@@ -39,6 +45,12 @@ location:
             lat: 54.00162
             lon: 25.49624
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.001899
+            lon: 25.497268
+        source: gov
 meta:
     fgb:
         post_id: '77480'

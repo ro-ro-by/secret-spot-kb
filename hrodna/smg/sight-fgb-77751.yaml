@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Хведевичский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.00045
+    founded_on: 23.03.1995
 images:
     -
         file: 2626d0dc9145f16c906fd5f1130ffd43.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.797263'
             lon: '26.446647'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.797263
+            lon: 26.446647
+        source: gov
 meta:
     fgb:
         post_id: '77751'

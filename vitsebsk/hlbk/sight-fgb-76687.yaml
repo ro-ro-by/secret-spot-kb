@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун «Большой камень» стариновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0007
+    founded_on: 18.03.2008
 images:
     -
         file: b56483cffb7a9fa986058a7e5cfc98f3.jpg
@@ -29,6 +35,12 @@ location:
             lat: 55.2386
             lon: 28.0364
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.237279
+            lon: 28.05952
+        source: gov
 meta:
     fgb:
         post_id: '76687'

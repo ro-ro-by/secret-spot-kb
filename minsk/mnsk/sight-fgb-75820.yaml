@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Парк камней'
+    type: 'геологический памятник природы'
+    status: 'республиканский , 08.10.2008'
+    area_size: 7.226
+    founded_on: 31.07.2006
 images:
     -
         file: ba2fa2825acdff70dc7ee00feb79c78f.jpg
@@ -217,6 +223,12 @@ location:
             osm:
                 type: way
                 id: 689138683
+    -
+        type: point
+        coordinates:
+            lat: 53.93211
+            lon: 27.69107
+        source: gov
 osm:
     -
         type: way

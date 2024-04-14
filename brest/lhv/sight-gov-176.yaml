@@ -3,8 +3,21 @@ title: 'Цыганский альпинарий'
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Цыганский альпинарий'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 1.01
+    founded_on: 28.08.2020
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.878128
+            lon: 26.182235
+        source: gov
 meta:
     source:
         -

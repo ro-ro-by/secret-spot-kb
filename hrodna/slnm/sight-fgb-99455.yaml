@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Двухсотлетний дуб в окрестности деревни Ходевичи'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.03
+    founded_on: 25.08.2017
 images:
     -
         file: c60875a0cd957cc6ef8e741cc3e34d3a.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.112639
             lon: 25.197167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.112639
+            lon: 25.197167
+        source: gov
 meta:
     fgb:
         post_id: '99455'

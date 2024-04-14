@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» бутевский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00089
+    founded_on: 19.03.2007
 images:
     -
         file: 9b7e5e463e276815492df8766b1d3a0d.jpg
@@ -37,6 +43,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76154'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.625603
+            lon: 27.188767
+        source: gov
 meta:
     fgb:
         post_id: '76154'

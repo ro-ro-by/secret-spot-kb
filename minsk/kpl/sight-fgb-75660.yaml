@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Заказник «Ракитник»'
+    type: заказник
+    status: 'местный , 07.05.2018'
+    area_size: 114.6
+    founded_on: 24.08.2006
 images:
     -
         file: 19080a7f23e2ab8604dc5f1f0e534e1c.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75660'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.34
+            lon: 27.086944
+        source: gov
 meta:
     fgb:
         post_id: '75660'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-bksh
+gov:
+    title: 'Дуб черешчатый «Буда-Кошелевский-1»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02
+    founded_on: 26.04.2007
 images:
     -
         file: 272aaa5f3b824fe4a0376e9ba75a71c5.png
@@ -42,6 +48,12 @@ location:
             lat: '52.764888'
             lon: '30.496207'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.764888
+            lon: 30.496207
+        source: gov
 meta:
     fgb:
         post_id: '75231'

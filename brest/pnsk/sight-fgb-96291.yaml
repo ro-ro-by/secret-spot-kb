@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Городищенская терраса'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 1.08
+    founded_on: 31.12.2019
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.172344
+            lon: 26.252769
+        source: gov
 meta:
     fgb:
         post_id: '96291'

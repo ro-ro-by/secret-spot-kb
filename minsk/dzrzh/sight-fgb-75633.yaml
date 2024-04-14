@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Два дуба в д. Ляховичи'
+    type: 'ботанический памятник природы'
+    status: 'местный , 28.10.2008'
+    area_size: 0.058
+    founded_on: 10.12.2007
 images:
     -
         file: afc1450c1795060a2795a25aca3496c0.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.618222
             lon: 27.190083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.618222
+            lon: 27.190083
+        source: gov
 meta:
     fgb:
         post_id: '75633'

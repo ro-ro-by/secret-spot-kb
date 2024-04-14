@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Обнажение «Княжеводцы»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 2.0
+    founded_on: 31.07.2006
 images:
     -
         file: 9d0d7a4c3789a976d7056a32b0d6a7f2.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77540'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.455671
+            lon: 24.292653
+        source: gov
 meta:
     fgb:
         post_id: '77540'

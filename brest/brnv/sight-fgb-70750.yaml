@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Дубы-близнецы «Тугановичские»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.04.2007'
+    area_size: 0.023
+    founded_on: 27.12.1963
 images:
     -
         file: a86b3c6805e57c855781f3e19565f3e0.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.378
             lon: 26.134889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.361
+            lon: 26.134889
+        source: gov
 meta:
     fgb:
         post_id: '70750'

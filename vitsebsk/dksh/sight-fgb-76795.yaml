@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Заказник «Заборье»'
+    type: заказник
+    status: 'местный , 29.01.2016'
+    area_size: 905.38
+    founded_on: 27.11.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.724124
+            lon: 27.926276
+        source: gov
 meta:
     fgb:
         post_id: '76795'

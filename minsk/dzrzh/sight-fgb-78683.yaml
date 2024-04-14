@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Парк «Станьково»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 28.10.2008'
+    area_size: 13.33
+    founded_on: 29.09.2006
 images:
     -
         file: e91a8d2ac3ff1f7def2db43e2b7388f6.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.61259'
             lon: '27.22108'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.634333
+            lon: 27.222167
+        source: gov
 meta:
     fgb:
         post_id: '78683'

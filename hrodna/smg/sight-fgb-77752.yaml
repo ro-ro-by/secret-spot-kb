@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Катериновский камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 13.11.2018'
+    founded_on: 23.03.1995
 images:
     -
         file: 213af7395d082c421d14d10e998c69d5.jpg
@@ -30,6 +35,12 @@ location:
             lat: '54.562012'
             lon: '26.576954'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.562012
+            lon: 26.576954
+        source: gov
 meta:
     fgb:
         post_id: '77752'

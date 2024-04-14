@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Валун «Большой камень» кутишкинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00204
+    founded_on: 18.01.2008
 images:
     -
         file: 38979717a5484c4d01e7aabd52dfc9af.jpg
@@ -43,6 +49,12 @@ location:
             lat: '54.880683'
             lon: '25.949738'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.880683
+            lon: 25.949738
+        source: gov
 meta:
     fgb:
         post_id: '77607'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-chrv
+gov:
+    title: 'Родник Галковского'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 13.02.2020'
+    area_size: 1.0
+    founded_on: 23.10.2008
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: '53.73998'
             lon: '28.70499'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.739675
+            lon: 28.708658
+        source: gov
 meta:
     fgb:
         post_id: '76054'

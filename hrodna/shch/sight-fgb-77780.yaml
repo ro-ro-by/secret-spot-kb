@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Мартин камень» кузьмичский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001073
+    founded_on: 18.01.2008
 images:
     -
         file: 6ecc559fe868b19421335fc6898f32af.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.654221'
             lon: '24.567385'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.654221
+            lon: 24.567385
+        source: gov
 meta:
     fgb:
         post_id: '77780'

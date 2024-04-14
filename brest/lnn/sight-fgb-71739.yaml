@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-lnn
+gov:
+    title: 'Вековые дубы «Кожангородокские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.065
+    founded_on: 26.04.2007
 images:
     -
         file: aa85cbfc75608016da285e42bf064037.jpg
@@ -47,6 +53,12 @@ location:
             osm:
                 type: relation
                 id: 9212114
+    -
+        type: point
+        coordinates:
+            lat: 52.200294
+            lon: 27.014704
+        source: gov
 osm:
     -
         type: relation

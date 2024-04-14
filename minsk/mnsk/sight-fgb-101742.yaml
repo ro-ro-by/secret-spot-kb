@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Вековые ясени в д. Новое Поле'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.39
+    founded_on: 17.12.2020
 tree:
     type: ash
 location:
@@ -13,6 +19,12 @@ location:
             lat: 53.975972
             lon: 27.130333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.975972
+            lon: 27.130333
+        source: gov
 meta:
     fgb:
         post_id: '101742'

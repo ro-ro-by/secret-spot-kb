@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Песочненская гряда'
+    type: 'геологический памятник природы'
+    status: 'местный , 30.09.2008'
+    area_size: 40.0
+    founded_on: 27.08.1997
 images:
     -
         file: f2f968650e223112bacb59952385cad3.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77515'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.473281
+            lon: 26.427247
+        source: gov
 meta:
     fgb:
         post_id: '77515'

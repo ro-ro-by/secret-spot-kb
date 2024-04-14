@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Заказник «Раздоры»'
+    type: заказник
+    status: 'местный , 03.02.2020'
+    area_size: 255.0
+    founded_on: 20.05.1996
 images:
     -
         file: 96b31f56cb79c98ed0f58ea319ea1b5a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77488'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.841082
+            lon: 25.627811
+        source: gov
 meta:
     fgb:
         post_id: '77488'

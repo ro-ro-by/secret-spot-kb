@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Заказник "Борецкий"'
+    type: заказник
+    status: местный
+    area_size: 2211.0
+    founded_on: 11.05.2009
 images:
     -
         file: bbc6825cc62202506dc95a01d249d068.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '95508'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.813015
+            lon: 25.312631
+        source: gov
 meta:
     fgb:
         post_id: '95508'

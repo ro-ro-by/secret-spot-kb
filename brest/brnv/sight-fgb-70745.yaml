@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Ястрембельский»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 21.12.2010'
+    area_size: 4.5
+    founded_on: 28.03.1994
 images:
     -
         file: 207b5236e88ddc5b2275187b532e9e3d.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 12281493
+    -
+        type: point
+        coordinates:
+            lat: 53.029167
+            lon: 25.958333
+        source: gov
 osm:
     -
         type: relation

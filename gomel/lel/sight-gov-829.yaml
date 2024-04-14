@@ -3,8 +3,21 @@ title: 'Заказник «Речица»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Речица»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 317.94
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.604274
+            lon: 28.028052
+        source: gov
 meta:
     source:
         -

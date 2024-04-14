@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-hrk
+gov:
+    title: 'Дендрологический парк в г.Горки'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 14.5
+    founded_on: 08.05.2007
 images:
     -
         file: 00f6926f52625216eb46b68293d50bd5.jpg
@@ -29,6 +35,12 @@ location:
             lat: 54.290583
             lon: 30.98975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.292618
+            lon: 30.996822
+        source: gov
 meta:
     fgb:
         post_id: '74782'

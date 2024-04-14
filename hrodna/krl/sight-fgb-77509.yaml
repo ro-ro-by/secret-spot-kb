@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Конгломераты «Смольчицкие»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.49
+    founded_on: 18.01.2008
 images:
     -
         file: 838ef0e6b50c4db1a64bbc0883e9fbcf.jpg
@@ -49,6 +55,12 @@ location:
             osm:
                 type: node
                 id: 9392994778
+    -
+        type: point
+        coordinates:
+            lat: 53.529122
+            lon: 26.032097
+        source: gov
 osm:
     -
         type: node

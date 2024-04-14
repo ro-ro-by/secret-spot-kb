@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Ражневский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 0.00042
+    founded_on: 23.09.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.586633
+            lon: 27.368367
+        source: gov
 meta:
     fgb:
         post_id: '76952'

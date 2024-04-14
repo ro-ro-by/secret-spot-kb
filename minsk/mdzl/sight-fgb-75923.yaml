@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Парк «Старый Мядель»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 3.38
+    founded_on: 28.10.2008
 images:
     -
         file: 10e8cbaa89cee4b272b1f8c27bef02b2.jpg
@@ -20,6 +26,12 @@ location:
             lat: 54.881917
             lon: 26.924028
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.881917
+            lon: 26.924028
+        source: gov
 meta:
     fgb:
         post_id: '75923'

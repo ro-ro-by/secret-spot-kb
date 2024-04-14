@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Валун «Довнарский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000345
+    founded_on: 31.07.2006
 images:
     -
         file: c30d57061810e4e5664eb72df1d1429a.jpg
@@ -31,6 +37,12 @@ location:
             lat: '53.969677'
             lon: '26.079730'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.969677
+            lon: 26.07973
+        source: gov
 meta:
     fgb:
         post_id: '77483'

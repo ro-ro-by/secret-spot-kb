@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Бытенский родник'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.56
+    founded_on: 12.10.2021
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: '52.91681'
             lon: '25.49488'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.91681
+            lon: 25.49488
+        source: gov
 meta:
     fgb:
         post_id: '74570'

@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Вепринская дубрава'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 15.0
+    founded_on: 05.05.2007
 images:
     -
         file: 5c1847dc58c8c994a432836c834ad250.jpg
@@ -33,6 +39,12 @@ location:
             lat: 53.591556
             lon: 31.550417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.591556
+            lon: 31.550417
+        source: gov
 meta:
     fgb:
         post_id: '75188'

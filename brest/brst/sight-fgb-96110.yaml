@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Берестейские платаны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.016
+    founded_on: 30.12.2019
 tree:
     type: plane_tree
 location:
@@ -13,6 +19,12 @@ location:
             lat: 52.093111
             lon: 23.675361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.093111
+            lon: 23.675361
+        source: gov
 meta:
     fgb:
         post_id: '96110'

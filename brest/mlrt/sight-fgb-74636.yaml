@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Буки лесные «Великоритские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.022
+    founded_on: 26.04.2007
 images:
     -
         file: 0396abdc2af51fa8ce038bd906dfbbd1.jpg
@@ -38,6 +44,12 @@ location:
             lat: 51.936194
             lon: 24.067806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: gov
 meta:
     fgb:
         post_id: '74636'

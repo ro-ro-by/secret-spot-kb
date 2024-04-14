@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Памятник природы «Сарья»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 1.5
+    founded_on: 01.03.2016
 images:
     -
         file: ff569927ccd73567f06e3b5ff5d16dbf.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: way
                 id: 1213255580
+    -
+        type: point
+        coordinates:
+            lat: 55.910247
+            lon: 27.887094
+        source: gov
 osm:
     -
         type: way

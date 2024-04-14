@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Памятник природы «Речные»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.7
+    founded_on: 26.01.2016
 images:
     -
         file: d7a4f3da5932e6e58afe8ce7467fba73.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 7094754
+    -
+        type: point
+        coordinates:
+            lat: 54.97999
+            lon: 27.9813
+        source: gov
 osm:
     -
         type: relation

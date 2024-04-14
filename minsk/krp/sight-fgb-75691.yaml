@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Родник в д. Старый Сокол'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 31.05.2022'
+    area_size: 0.00027
+    founded_on: 28.10.2008
 images:
     -
         file: 377bb863a27e0e6b6bd3f770dbd90da2.jpg
@@ -20,6 +26,12 @@ location:
             lat: '54.14159'
             lon: '29.22022'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.14154
+            lon: 29.2204
+        source: gov
 meta:
     fgb:
         post_id: '75691'

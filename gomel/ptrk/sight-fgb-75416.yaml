@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Обнажение «Дорошевичи»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.27
+    founded_on: 31.07.2006
 images:
     -
         file: dd4af3d4b63bf98064a81e39a9c02331.jpg
@@ -15,6 +21,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75416'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.117197
+            lon: 28.206005
+        source: gov
 meta:
     fgb:
         post_id: '75416'

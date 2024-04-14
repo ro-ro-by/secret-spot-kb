@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: Дубатовское
+    type: заказник
+    status: 'республиканский , 27.12.2007'
+    area_size: 839.5
+    founded_on: 22.08.1978
 images:
     -
         file: ffa7c5fbf98bc6553cf2cbef086f8d7b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77724'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.582313
+            lon: 26.530557
+        source: gov
 meta:
     fgb:
         post_id: '77724'

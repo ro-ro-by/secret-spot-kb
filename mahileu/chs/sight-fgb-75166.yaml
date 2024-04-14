@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: 'Заказник «Бордиловское-Кременец»'
+    type: заказник
+    status: 'местный , 19.02.2012'
+    area_size: 626.0
+    founded_on: 22.02.2006
 images:
     -
         file: 369976c2224cdeb383566a93911a12d4.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75166'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.932473
+            lon: 30.810281
+        source: gov
 meta:
     fgb:
         post_id: '75166'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-lel
 forest:
     dominated_type: oak
+gov:
+    title: 'Уникальные участки леса (дубравы)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 20.11.2017'
+    area_size: 238.73
+    founded_on: 28.05.1999
 images:
     -
         file: 4857189afabc0e25960ef3541ad91ba7.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.79292
             lon: 28.20053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.792917
+            lon: 28.200528
+        source: gov
 meta:
     fgb:
         post_id: '75291'

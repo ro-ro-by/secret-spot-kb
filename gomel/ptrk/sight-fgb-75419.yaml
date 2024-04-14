@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Заказник «Воронецкий Мох»'
+    type: заказник
+    status: 'местный , 25.01.2013'
+    area_size: 131.0
+    founded_on: 28.10.2004
 images:
     -
         file: b4f0d39b2cf33c8eb1a2c2841719b46e.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75419'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.292709
+            lon: 28.5241
+        source: gov
 meta:
     fgb:
         post_id: '75419'

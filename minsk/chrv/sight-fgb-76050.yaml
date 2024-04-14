@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-chrv
+gov:
+    title: 'Сосны черные «Смиловичские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02865
+    founded_on: 26.04.2007
 images:
     -
         file: ad3dd3e398d774ab354f72dbb89026f5.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.752028
             lon: 28.006611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.75255
+            lon: 28.01692
+        source: gov
 meta:
     fgb:
         post_id: '76050'

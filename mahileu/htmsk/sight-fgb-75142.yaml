@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-htmsk
 forest:
     dominated_type: birch
+gov:
+    title: 'Ивановская роща'
+    type: 'ботанический памятник природы'
+    status: 'местный , 12.08.2011'
+    area_size: 15.0
+    founded_on: 21.06.1990
 images:
     -
         file: 75dccefbc8bc11f5534a974007d67481.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.426306
             lon: 32.567889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.426306
+            lon: 32.567889
+        source: gov
 meta:
     fgb:
         post_id: '75142'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Гора Гороватка'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 2.0
+    founded_on: 29.03.2019
 images:
     -
         file: cf6d3f6d01f85932da2097af711ed5fb.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77057'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.027316
+            lon: 27.174131
+        source: gov
 meta:
     fgb:
         post_id: '77057'

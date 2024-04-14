@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Чернецкий пригорок'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 13.8
+    founded_on: 29.03.2019
 images:
     -
         file: 92817dfb060471a20336a8e48f1d71de.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77069'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.087776
+            lon: 26.619065
+        source: gov
 meta:
     fgb:
         post_id: '77069'

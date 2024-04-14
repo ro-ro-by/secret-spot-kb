@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Парк «Шкляревского»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 9.5
+    founded_on: 28.10.2004
 images:
     -
         file: 784d40daf587040c15920a745148ac28.jpg
@@ -36,6 +42,12 @@ location:
             lat: 52.09972
             lon: 28.40253
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.09926
+            lon: 28.398263
+        source: gov
 meta:
     fgb:
         post_id: '75422'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Карасинский родник'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 04.09.2020'
+    area_size: 1.15
+    founded_on: 15.01.2007
 images:
     -
         file: 3a538e350980fc00179aaf211b86790b.jpg
@@ -20,6 +26,12 @@ location:
             lat: '55.67309'
             lon: '26.69331'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.67309
+            lon: 26.69331
+        source: gov
 meta:
     fgb:
         post_id: '76173'

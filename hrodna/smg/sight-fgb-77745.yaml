@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Войневицкий чертов камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.00035
+    founded_on: 23.03.1995
 images:
     -
         file: 94daa90b5f1262b6f636e87d2213630f.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77745'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.337458
+            lon: 26.249097
+        source: gov
 meta:
     fgb:
         post_id: '77745'

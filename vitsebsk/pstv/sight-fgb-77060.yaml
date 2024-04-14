@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Холм «Гора Лысая»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 4.0
+    founded_on: 19.03.2007
 images:
     -
         file: 4974e691fabb0e8c6fa0b175879f5efa.jpg
@@ -53,6 +59,12 @@ location:
             lat: 55.08267
             lon: 26.79783
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.082585
+            lon: 26.798077
+        source: gov
 meta:
     fgb:
         post_id: '77060'

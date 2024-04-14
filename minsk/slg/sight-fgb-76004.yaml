@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Красное озеро»'
+    type: заказник
+    status: 'местный , 30.12.2015'
+    area_size: 141.73
+    founded_on: 27.07.2006
 images:
     -
         file: 4079a49089d15bd9d90b73a227fde48b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76004'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.462202
+            lon: 27.874285
+        source: gov
 meta:
     fgb:
         post_id: '76004'

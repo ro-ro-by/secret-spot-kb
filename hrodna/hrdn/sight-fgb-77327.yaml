@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Лесопарк "Румлево"'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.04.2019'
+    area_size: 92.69
+    founded_on: 17.11.1993
 images:
     -
         file: 49108fcdbe07fc26564af1f8dc5f0f8e.jpg
@@ -45,6 +51,12 @@ location:
             osm:
                 type: relation
                 id: 116670
+    -
+        type: point
+        coordinates:
+            lat: 53.657028
+            lon: 23.862417
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гора "Пеликан"'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 138.63
+    founded_on: 16.02.1995
 images:
     -
         file: a9187eed8f885cac0a69638d42542715.jpg
@@ -28,6 +34,12 @@ location:
             lat: '54.469940'
             lon: '26.105944'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.46994
+            lon: 26.105944
+        source: gov
 meta:
     fgb:
         post_id: '77646'

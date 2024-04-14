@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Валун «Чертов камень» хмелевский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000525
+    founded_on: 18.03.2008
 images:
     -
         file: 2a7ca9a85b75355c27e5ae12963d53c9.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74634'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.761726
+            lon: 23.839733
+        source: gov
 meta:
     fgb:
         post_id: '74634'

@@ -3,8 +3,21 @@ title: 'Заказник «Бреньковский»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Заказник «Бреньковский»'
+    type: заказник
+    status: 'местный , 29.12.2020'
+    area_size: 284.4
+    founded_on: 28.11.2007
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.90616
+            lon: 29.732117
+        source: gov
 meta:
     source:
         -

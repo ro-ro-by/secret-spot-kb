@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: 'Лиственница вековая'
+    type: 'ботанический памятник природы'
+    status: 'местный , 28.12.2023'
+    area_size: 0.59
+    founded_on: 27.12.2002
 images:
     -
         file: 7ef8eed763e06a975070f22f27a762b8.jpg
@@ -42,6 +48,12 @@ location:
             lat: 53.56275
             lon: 30.958139
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.562781
+            lon: 30.957897
+        source: gov
 meta:
     fgb:
         post_id: '75102'

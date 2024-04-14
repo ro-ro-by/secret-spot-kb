@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Сосна Веймутова'
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.09.2020'
+    area_size: 0.1
+    founded_on: 27.03.1995
 images:
     -
         file: c8633eb2fe41e18da04ce41cca947aa6.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 14244595
+    -
+        type: point
+        coordinates:
+            lat: 52.75975
+            lon: 26.696417
+        source: gov
 osm:
     -
         type: relation

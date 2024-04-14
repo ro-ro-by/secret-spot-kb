@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Валун «Студенецкий»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00091
+    founded_on: 18.01.2008
 images:
     -
         file: d174f67d935d74d60f0399b322ee7e87.jpg
@@ -39,6 +45,12 @@ location:
             lat: '54.249261'
             lon: '26.139909'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.249262
+            lon: 26.139902
+        source: gov
 meta:
     fgb:
         post_id: '77645'

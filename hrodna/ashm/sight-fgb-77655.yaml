@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гудовщинский валун -1'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.0089
+    founded_on: 16.02.1995
 images:
     -
         file: e80345d2e9822115cfb7eaf112d89992.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.226159'
             lon: '26.176314'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.226159
+            lon: 26.176314
+        source: gov
 meta:
     fgb:
         post_id: '77655'

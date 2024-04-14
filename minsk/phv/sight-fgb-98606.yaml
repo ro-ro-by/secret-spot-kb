@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Вороничский остров»'
+    type: заказник
+    status: республиканский
+    area_size: 828.44
+    founded_on: 04.02.2015
 images:
     -
         file: 33135147ddb3a6e93e5c80b8cd775265.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1139289836
+    -
+        type: point
+        coordinates:
+            lat: 53.3208
+            lon: 27.8058
+        source: gov
 osm:
     -
         type: way

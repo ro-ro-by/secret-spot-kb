@@ -3,8 +3,21 @@ title: 'Старинный парк в н.п. Липово'
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: 'Старинный парк в н.п. Липово'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 5.0
+    founded_on: 03.09.2004
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.359372
+            lon: 29.563028
+        source: gov
 meta:
     source:
         -

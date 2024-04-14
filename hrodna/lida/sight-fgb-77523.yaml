@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: Докудовский
+    type: заказник
+    status: 'республиканский , 23.07.2014'
+    area_size: 630.34
+    founded_on: 05.03.1990
 images:
     -
         file: bc3a9b21cafbd262ae58eea9db358b49.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9248143
+    -
+        type: point
+        coordinates:
+            lat: 53.7894
+            lon: 25.4581
+        source: gov
 osm:
     -
         type: relation

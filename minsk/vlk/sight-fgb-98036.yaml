@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Суражинский»'
+    type: заказник
+    status: 'местный , 27.02.2015'
+    area_size: 1161.07
+    founded_on: 24.05.2013
 images:
     -
         file: 6b1f4fe1a41f190957e3a08909a23faf.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '98036'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.731857
+            lon: 27.554238
+        source: gov
 meta:
     fgb:
         post_id: '98036'

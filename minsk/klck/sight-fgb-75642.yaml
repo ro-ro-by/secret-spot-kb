@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Заказник «Колковский»'
+    type: заказник
+    status: 'местный , 05.03.2018'
+    area_size: 452.0
+    founded_on: 12.12.2005
 images:
     -
         file: a5b063675f8afc9c9dece4137fd0093e.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 538518441
+    -
+        type: point
+        coordinates:
+            lat: 52.759736
+            lon: 26.936317
+        source: gov
 osm:
     -
         type: way

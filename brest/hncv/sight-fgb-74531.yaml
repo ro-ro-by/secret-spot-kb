@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Подвеликий мох'
+    type: заказник
+    status: республиканский
+    area_size: 10647.0
+    founded_on: 13.12.2005
 images:
     -
         file: 1263d9b821b1639595f6031d0c73b24c.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 538798780
+    -
+        type: point
+        coordinates:
+            lat: 52.745335
+            lon: 26.260994
+        source: gov
 osm:
     -
         type: way

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Глебковка»'
+    type: заказник
+    status: республиканский
+    area_size: 964.0
+    founded_on: 29.12.2001
 images:
     -
         file: ad4a62ee098a4ff500e9229802a1ae8d.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 5651429
+    -
+        type: point
+        coordinates:
+            lat: 53.9228
+            lon: 27.80692
+        source: gov
 osm:
     -
         type: relation

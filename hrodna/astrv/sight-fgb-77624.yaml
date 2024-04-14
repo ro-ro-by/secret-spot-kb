@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Безданишкинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 14.03.2016'
+    area_size: 0.00077
+    founded_on: 17.02.1995
 images:
     -
         file: 6899176b3e467eb13a6fc48588d05e9f.jpg
@@ -38,6 +44,12 @@ location:
             lat: '54.639167'
             lon: '26.144581'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.639139
+            lon: 26.144717
+        source: gov
 meta:
     fgb:
         post_id: '77624'

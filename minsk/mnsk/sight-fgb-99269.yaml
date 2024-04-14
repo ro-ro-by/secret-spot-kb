@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Тресковщина»'
+    type: заказник
+    status: республиканский
+    area_size: 745.39
+    founded_on: 04.02.2015
 images:
     -
         file: 974763e1b447b2f85c742424f567ca69.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.91063'
             lon: '27.09753'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.91034
+            lon: 27.09885
+        source: gov
 meta:
     fgb:
         post_id: '99269'

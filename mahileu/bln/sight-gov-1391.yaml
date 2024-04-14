@@ -3,8 +3,21 @@ title: 'Заказник «Ясень»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Заказник «Ясень»'
+    type: заказник
+    status: 'местный , 02.11.2018'
+    area_size: 696.8
+    founded_on: 22.11.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.941433
+            lon: 29.553785
+        source: gov
 meta:
     source:
         -

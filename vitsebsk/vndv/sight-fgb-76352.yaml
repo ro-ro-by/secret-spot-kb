@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Освейская возвышенность'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.39
+    founded_on: 10.06.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 56.121568
+            lon: 28.183129
+        source: gov
 meta:
     fgb:
         post_id: '76352'

@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: 'Заказник «Мохи»'
+    type: заказник
+    status: местный
+    area_size: 112.0
+    founded_on: 09.03.1993
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.224771
+            lon: 32.070091
+        source: gov
 meta:
     fgb:
         post_id: '101788'

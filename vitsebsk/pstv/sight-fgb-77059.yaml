@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Холм «Гора Бояровщина»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 8.0
+    founded_on: 19.03.2007
 images:
     -
         file: ea851bf67c66a367d37970955dc07237.jpg
@@ -53,6 +59,12 @@ location:
             lat: 55.08194
             lon: 26.86389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.080394
+            lon: 26.864117
+        source: gov
 meta:
     fgb:
         post_id: '77059'

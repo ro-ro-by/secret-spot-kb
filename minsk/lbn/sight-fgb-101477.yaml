@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Вековой дуб в д. Шипиловичи'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.05
+    founded_on: 02.11.2020
 images:
     -
         file: a6f7d4a9b666b1bc44599b93edd8d0b6.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.723194
             lon: 28.010472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.723194
+            lon: 28.010472
+        source: gov
 meta:
     fgb:
         post_id: '101477'

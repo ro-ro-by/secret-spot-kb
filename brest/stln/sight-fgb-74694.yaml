@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Заказник республиканского значения «Ольманские болота»'
+    type: заказник
+    status: республиканский
+    area_size: 94219.0
+    founded_on: 12.11.1998
 images:
     -
         file: fe434e58f38e2bda9daf1045b9998131.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 7825522
+    -
+        type: point
+        coordinates:
+            lat: 51.896179
+            lon: 26.86755
+        source: gov
 osm:
     -
         type: relation

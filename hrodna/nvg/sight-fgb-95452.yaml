@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Графская пуща'
+    type: заказник
+    status: 'местный , 30.09.2008'
+    area_size: 9465.0
+    founded_on: 11.12.2007
 images:
     -
         file: 0758e21ef5100125bfdc0428707cdc21.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '95452'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.631389
+            lon: 26.352778
+        source: gov
 meta:
     fgb:
         post_id: '95452'

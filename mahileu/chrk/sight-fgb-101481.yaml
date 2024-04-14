@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Вековые дубы Чериковского района'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.25
+    founded_on: 14.05.2020
 images:
     -
         file: aab64833643e663a30a092f19e19d07b.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.473667
             lon: 31.202444
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.473667
+            lon: 31.202444
+        source: gov
 meta:
     fgb:
         post_id: '101481'

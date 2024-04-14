@@ -3,8 +3,21 @@ title: 'Заказник «Чабусы»'
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Заказник «Чабусы»'
+    type: заказник
+    status: местный
+    area_size: 1.6
+    founded_on: 24.12.2020
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.841674
+            lon: 28.156841
+        source: gov
 meta:
     source:
         -

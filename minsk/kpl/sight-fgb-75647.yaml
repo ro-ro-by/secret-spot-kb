@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Парк «Тимковичи»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 4.4
+    founded_on: 30.11.2021
 images:
     -
         file: 3597b0462b94e6ba37940fb4ee78c661.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 1215511174
+    -
+        type: point
+        coordinates:
+            lat: 53.058694
+            lon: 26.980972
+        source: gov
 osm:
     -
         type: relation

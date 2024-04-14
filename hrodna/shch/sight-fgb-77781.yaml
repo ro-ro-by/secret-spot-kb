@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Староподдубенский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000551
+    founded_on: 18.01.2008
 images:
     -
         file: b0f9d45747ef936dc2832d682cfd9cef.jpg
@@ -41,6 +47,12 @@ location:
             lat: '53.882248'
             lon: '24.699092'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.882248
+            lon: 24.699092
+        source: gov
 meta:
     fgb:
         post_id: '77781'

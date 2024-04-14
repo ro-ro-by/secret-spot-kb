@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Чернушкинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00074
+    founded_on: 16.02.1995
 images:
     -
         file: 61bc5bea75b5c32f628e8b9418716ca3.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.346236'
             lon: '26.084532'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.346236
+            lon: 26.084532
+        source: gov
 meta:
     fgb:
         post_id: '77670'

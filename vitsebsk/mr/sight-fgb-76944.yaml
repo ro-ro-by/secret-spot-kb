@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Бертовщинский большой камень'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.00158
+    founded_on: 09.04.2020
 images:
     -
         file: 978588840db6c0fc93e0abb40b4688b2.jpg
@@ -16,6 +22,13 @@ images:
         meta:
             author: 'В. Ф. Вінакураў'
             version: 1999
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.545603
+            lon: 27.451211
+        source: gov
 meta:
     fgb:
         post_id: '76944'

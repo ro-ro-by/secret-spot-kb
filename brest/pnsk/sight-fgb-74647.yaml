@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Гнедецкое заполье'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.12.2019'
+    area_size: 103.7
+    founded_on: 24.03.2005
 images:
     -
         file: 885874b1402c37747a93bd38e5e703ca.jpg
@@ -20,6 +26,12 @@ location:
             lat: 51.926361
             lon: 25.745667
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.926361
+            lon: 25.745667
+        source: gov
 meta:
     fgb:
         post_id: '74647'

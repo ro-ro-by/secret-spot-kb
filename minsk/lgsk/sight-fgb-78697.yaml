@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Родник «Добренево»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 13.06.2023
 images:
     -
         file: c1ef7070429ef73c259b38a1f6efad99.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.25139'
             lon: '27.82709'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.25139
+            lon: 27.82709
+        source: gov
 meta:
     fgb:
         post_id: '78697'

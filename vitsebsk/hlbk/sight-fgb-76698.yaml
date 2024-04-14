@@ -4,6 +4,19 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Зябковский пригорок'
+    type: 'геологический памятник природы'
+    status: 'местный , 04.01.2018'
+    area_size: 19.85
+    founded_on: 23.02.2012
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.265663
+            lon: 28.151957
+        source: gov
 meta:
     fgb:
         post_id: '76698'

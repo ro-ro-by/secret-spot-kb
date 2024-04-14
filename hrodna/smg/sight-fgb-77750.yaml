@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Будилкинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.0004
+    founded_on: 23.03.1995
 images:
     -
         file: 852fb95c1b0561c0247d2b162a340f28.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.701912'
             lon: '26.376267'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.701912
+            lon: 26.376267
+        source: gov
 meta:
     fgb:
         post_id: '77750'

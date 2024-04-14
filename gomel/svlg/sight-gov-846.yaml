@@ -3,8 +3,21 @@ title: 'Заказник «Кучинский Мох»'
 belongsTo:
     region: region-gomel
     subregion: subregion-svlg
+gov:
+    title: 'Заказник «Кучинский Мох»'
+    type: заказник
+    status: 'местный , 25.10.2013'
+    area_size: 325.0
+    founded_on: 25.02.1994
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.624642
+            lon: 29.639371
+        source: gov
 meta:
     source:
         -

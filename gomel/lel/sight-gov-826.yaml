@@ -3,8 +3,21 @@ title: 'Заказник «Урочище Берин»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Урочище Берин»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 116.8
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.009415
+            lon: 28.521332
+        source: gov
 meta:
     source:
         -

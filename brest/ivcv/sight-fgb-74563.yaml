@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Бобровичский дуб'
+    type: 'ботанический памятник природы'
+    status: 'местный , 10.12.2021'
+    area_size: 0.0724
+    founded_on: 14.12.2007
 images:
     -
         file: 760abff695a2d1c981266f31fbf3d26d.jpg
@@ -38,6 +44,12 @@ location:
             lat: 52.615417
             lon: 25.777417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.615417
+            lon: 25.777417
+        source: gov
 meta:
     fgb:
         post_id: '74563'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Дуб-тройник
+    type: 'ботанический памятник природы'
+    status: 'местный , 23.09.2008'
+    area_size: 0.049
+    founded_on: 14.08.1995
 images:
     -
         file: 3e923cfef71f177dacd14cbcc78fb3cd.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.12055
             lon: 24.99619
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.120539
+            lon: 24.996269
+        source: gov
 meta:
     fgb:
         post_id: '77372'

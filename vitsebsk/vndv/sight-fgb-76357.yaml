@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Дуб черешчатый «Юстияновский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.07
+    founded_on: 26.04.2007
 images:
     -
         file: 9df630eddf52d7534205f0508011b466.jpg
@@ -22,6 +28,12 @@ location:
             lat: 55.740194
             lon: 27.929417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.740194
+            lon: 27.929417
+        source: gov
 meta:
     fgb:
         post_id: '76357'

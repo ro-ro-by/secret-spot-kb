@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Заказник «Коревин луг»'
+    type: заказник
+    status: 'местный , 21.06.2010'
+    area_size: 44.5
+    founded_on: 22.10.2002
 images:
     -
         file: 8ee9117d948e2a5d4f16fbe95f16c894.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 552292849
+    -
+        type: point
+        coordinates:
+            lat: 53.03839
+            lon: 24.84727
+        source: gov
 osm:
     -
         type: way

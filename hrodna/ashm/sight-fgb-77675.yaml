@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гиневский валун-2'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.0004
+    founded_on: 16.02.1995
 images:
     -
         file: b53778a262bfe436182c331468553ee8.jpg
@@ -46,6 +52,12 @@ location:
             lat: '54.353914'
             lon: '26.061592'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.353914
+            lon: 26.061592
+        source: gov
 meta:
     fgb:
         post_id: '77675'

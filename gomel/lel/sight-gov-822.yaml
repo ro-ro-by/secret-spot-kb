@@ -3,8 +3,21 @@ title: 'Заказник «Лельчицкое-Свидовец»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Лельчицкое-Свидовец»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 3044.88
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.669382
+            lon: 28.096074
+        source: gov
 meta:
     source:
         -

@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Бресское насаждение карельской березы'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 1.8
+    founded_on: 05.05.2007
 images:
     -
         file: 5dec8888e3e5f9f2691a44c2373f8afd.jpg
@@ -29,6 +35,12 @@ location:
             lat: 54.936722
             lon: 26.691361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.92403
+            lon: 26.77447
+        source: gov
 meta:
     fgb:
         post_id: '75894'

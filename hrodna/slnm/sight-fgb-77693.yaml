@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Дуб зимний «Сеньковщинский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.03671
+    founded_on: 26.04.2007
 images:
     -
         file: 9aac6a49ce8e7a36af1a07170c4ea5d5.jpg
@@ -22,6 +28,12 @@ location:
             lat: 53.22883
             lon: 25.17342
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.228833
+            lon: 25.173417
+        source: gov
 meta:
     fgb:
         post_id: '77693'

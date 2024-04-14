@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Заказник «Ерашовщина»'
+    type: заказник
+    status: 'местный , 24.08.2011'
+    area_size: 1560.0
+    founded_on: 05.04.1996
 images:
     -
         file: 96c27f2d413733fcd325e7507a48765b.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75148'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.48271
+            lon: 32.351678
+        source: gov
 meta:
     fgb:
         post_id: '75148'

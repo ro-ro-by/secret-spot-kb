@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Родник «Святая вода»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 02.12.2008'
+    area_size: 2.39
+    founded_on: 25.10.2001
 images:
     -
         file: f90a9c61570afd380de45832d3a7a36f.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.61805'
             lon: '27.00879'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.61805
+            lon: 27.00879
+        source: gov
 meta:
     fgb:
         post_id: '75575'

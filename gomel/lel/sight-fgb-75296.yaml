@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: Липа
+    type: 'ботанический памятник природы'
+    status: 'местный , 20.11.2017'
+    area_size: 0.005
+    founded_on: 04.11.2008
 images:
     -
         file: c0ba94e8249511bfc5a0383d51df40bf.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.56389
             lon: 27.78556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.563889
+            lon: 27.785556
+        source: gov
 meta:
     fgb:
         post_id: '75296'

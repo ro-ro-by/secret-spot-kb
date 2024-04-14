@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Дуб № 3'
+    type: 'ботанический памятник природы'
+    status: 'местный , 14.03.2016'
+    area_size: 0.02
+    founded_on: 28.09.1999
 images:
     -
         file: 70ac5f5474e88e5d9f2c6f6db25aaecb.jpg
@@ -22,6 +28,12 @@ location:
             lat: 54.61158
             lon: 25.97242
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.610289
+            lon: 25.975572
+        source: gov
 meta:
     fgb:
         post_id: '77614'

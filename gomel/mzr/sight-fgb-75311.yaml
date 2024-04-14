@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава "Лешнянская" (три дуба)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.05.2020'
+    area_size: 6.98
+    founded_on: 22.02.2008
 images:
     -
         file: 5da18f18aa28de24a45eb40ccf2aeb25.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.06897
             lon: 28.77914
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.068972
+            lon: 28.779139
+        source: gov
 meta:
     fgb:
         post_id: '75311'

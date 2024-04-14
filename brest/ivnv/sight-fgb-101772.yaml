@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-ivnv
 forest:
     dominated_type: firs_douglas
+gov:
+    title: 'Завышанский дугласник'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 3.51
+    founded_on: 10.09.2021
 images:
     -
         file: 39405e1b275df88c9432a077d978076c.jpg
@@ -30,6 +36,12 @@ location:
             lat: 52.01115
             lon: 25.6918
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.011153
+            lon: 25.691803
+        source: gov
 meta:
     fgb:
         post_id: '101772'

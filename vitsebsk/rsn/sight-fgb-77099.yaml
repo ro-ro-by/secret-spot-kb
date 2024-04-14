@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Кедровский камень Крестовский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00074
+    founded_on: 31.12.2009
 images:
     -
         file: 698c2ce23fc3f35efd14f6d330b0e228.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77099'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.815611
+            lon: 29.143722
+        source: gov
 meta:
     fgb:
         post_id: '77099'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Здитовский сквер'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 5.973
+    founded_on: 30.12.2019
 images:
     -
         file: b944c711fb8554d6d22b59c805f9f35b.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.19632
             lon: 24.05934
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.196667
+            lon: 23.997222
+        source: gov
 meta:
     fgb:
         post_id: '96597'

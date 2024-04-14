@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Обнажение «Пески»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 1.5
+    founded_on: 31.07.2006
 images:
     -
         file: b4b5114fa76a97610d230cf310a1fe21.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.01383'
             lon: '31.18673'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.361683
+            lon: 24.627409
+        source: gov
 meta:
     fgb:
         post_id: '99002'

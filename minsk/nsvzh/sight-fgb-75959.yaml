@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Родник «Истоки Лани»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 26.07.2021'
+    area_size: 1.0
+    founded_on: 28.10.2008
 images:
     -
         file: eb431adbe54f4b55336b33a23efafdd1.jpg
@@ -28,6 +34,12 @@ location:
             lat: '53.14879'
             lon: '26.69869'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.14879
+            lon: 26.69869
+        source: gov
 meta:
     fgb:
         post_id: '75959'

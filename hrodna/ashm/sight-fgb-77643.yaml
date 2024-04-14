@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Валун «Жвирблишкинский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001107
+    founded_on: 18.01.2008
 images:
     -
         file: 93f79b65d3c97546769fa82e859189b7.jpg
@@ -39,6 +45,12 @@ location:
             lat: '54.497073'
             lon: '25.924227'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.497073
+            lon: 25.924227
+        source: gov
 meta:
     fgb:
         post_id: '77643'

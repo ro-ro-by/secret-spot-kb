@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Юшковичский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0011
+    founded_on: 18.03.2008
 images:
     -
         file: 2a17e2330bc7e5891b9bce8a8e2cb8d1.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75910'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93941
+            lon: 26.9382
+        source: gov
 meta:
     fgb:
         post_id: '75910'

@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: 'Уникальные участки леса «Насаждения дуба, ясеня»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 14.2
+    founded_on: 03.09.2004
 images:
     -
         file: 65a97ca48bb78c18497c711201afa625.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.22886
             lon: 29.14431
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.228881
+            lon: 29.144292
+        source: gov
 meta:
     fgb:
         post_id: '75278'

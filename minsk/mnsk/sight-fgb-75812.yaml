@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Стиклево»'
+    type: заказник
+    status: 'республиканский , 04.02.2015'
+    area_size: 428.0
+    founded_on: 29.12.2001
 images:
     -
         file: 59e772d69232d3309f13ca22763276d6.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 5637029
+    -
+        type: point
+        coordinates:
+            lat: 53.89106
+            lon: 27.72153
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Братство»'
+    type: заказник
+    status: 'местный , 28.10.2008'
+    area_size: 78.1
+    founded_on: 27.02.2004
 images:
     -
         file: 4ecc57f110538c57478ef25ee7b24c0a.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74805'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.093659
+            lon: 31.081175
+        source: gov
 meta:
     fgb:
         post_id: '74805'

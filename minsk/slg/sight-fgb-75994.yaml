@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Гричино-Старобинский»'
+    type: заказник
+    status: 'местный , 30.12.2015'
+    area_size: 705.56
+    founded_on: 27.07.2006
 images:
     -
         file: 2d846ce29147c9dce8b5bc52c3de55ed.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75994'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.688056
+            lon: 27.303333
+        source: gov
 meta:
     fgb:
         post_id: '75994'

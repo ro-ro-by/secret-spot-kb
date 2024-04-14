@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Заказник "Гусак"'
+    type: заказник
+    status: 'местный , 29.05.2008'
+    area_size: 5682.0
+    founded_on: 16.05.1989
 images:
     -
         file: 22555eb8dce87aa5c14488fbfac6eaf4.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74640'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.922764
+            lon: 24.030719
+        source: gov
 meta:
     fgb:
         post_id: '74640'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-hrk
+gov:
+    title: 'Заказник «Кукшинский мох»'
+    type: заказник
+    status: 'местный , 05.04.2021'
+    area_size: 175.78
+    founded_on: 19.11.2003
 images:
     -
         file: 75175390e8ce416218f4b8529e792837.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74784'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.186729
+            lon: 30.910375
+        source: gov
 meta:
     fgb:
         post_id: '74784'

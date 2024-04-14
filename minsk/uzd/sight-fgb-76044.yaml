@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-uzd
+gov:
+    title: 'Заказник «Синицкая гребля»'
+    type: заказник
+    status: местный
+    area_size: 793.17
+    founded_on: 29.12.2015
 images:
     -
         file: c7cde1cd0d1d915527c76283de44b30f.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 1132767634
+    -
+        type: point
+        coordinates:
+            lat: 53.509191
+            lon: 26.977133
+        source: gov
 osm:
     -
         type: relation

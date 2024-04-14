@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Полыковичская криница'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 1.42
+    founded_on: 31.07.2006
 images:
     -
         file: aaf36afa9de51d4dd3ef0df9ff4ea987.jpg
@@ -20,6 +26,12 @@ location:
             lat: '53.96312'
             lon: '30.38293'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.96312
+            lon: 30.38293
+        source: gov
 meta:
     fgb:
         post_id: '75045'

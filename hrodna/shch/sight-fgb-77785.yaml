@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Холм «Костеневский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.7
+    founded_on: 18.01.2008
 images:
     -
         file: 257a9be91dfa78999c987004763ccaf2.jpg
@@ -33,6 +39,12 @@ location:
             osm:
                 type: relation
                 id: 14962278
+    -
+        type: point
+        coordinates:
+            lat: 53.710338
+            lon: 24.821569
+        source: gov
 osm:
     -
         type: relation

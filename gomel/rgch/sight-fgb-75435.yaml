@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-rgch
 forest:
     dominated_type: oak
+gov:
+    title: 'Произрастание дуба'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 13.86
+    founded_on: 12.12.2005
 images:
     -
         file: 32c1717e1d96b3bf8e2793eef7a0777f.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.32519
             lon: 29.83433
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.325194
+            lon: 29.834333
+        source: gov
 meta:
     fgb:
         post_id: '75435'

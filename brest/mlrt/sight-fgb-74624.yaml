@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Орлянская дюна'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 181.04
+    founded_on: 28.03.1997
 images:
     -
         file: 80fe7e41604852c9cdd2018eb39ec70f.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 17289163
+    -
+        type: point
+        coordinates:
+            lat: 51.874621
+            lon: 23.943211
+        source: gov
 osm:
     -
         type: relation

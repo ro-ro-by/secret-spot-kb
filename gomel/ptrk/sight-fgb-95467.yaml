@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Национальный парк «Припятский»'
+    type: 'национальный парк'
+    status: 'республиканский , 09.02.2012'
+    founded_on: 02.10.1996
 images:
     -
         file: 2b2ae36a6e47147d9e0c2b073e88baff.jpg
@@ -26,6 +31,12 @@ location:
             osm:
                 type: relation
                 id: 3875969
+    -
+        type: point
+        coordinates:
+            lat: 52.116184
+            lon: 28.159166
+        source: gov
 osm:
     -
         type: relation

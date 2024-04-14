@@ -3,8 +3,21 @@ title: Дубрава
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: Дубрава
+    type: 'ботанический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 17.76
+    founded_on: 16.10.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.300081
+            lon: 29.054486
+        source: gov
 meta:
     source:
         -

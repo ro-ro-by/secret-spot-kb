@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Каштан восьмитычинковый «Райцевский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.02148
+    founded_on: 26.04.2007
 images:
     -
         file: d9f3a546975b3b9d54555d99ee06736f.jpg
@@ -31,6 +37,12 @@ location:
             lat: 53.47355
             lon: 26.02353
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.131861
+            lon: 25.764833
+        source: gov
 meta:
     fgb:
         post_id: '77504'

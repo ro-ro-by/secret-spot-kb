@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Гора Федотова'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 180.0
+    founded_on: 06.12.2011
 images:
     -
         file: aa6f864629fce5bc51c80e02d5edbd1f.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77186'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.520352
+            lon: 27.3954
+        source: gov
 meta:
     fgb:
         post_id: '77186'

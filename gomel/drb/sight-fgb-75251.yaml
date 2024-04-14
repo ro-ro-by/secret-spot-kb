@@ -8,6 +8,12 @@ forest:
     dominated_type: spruce
     types:
         - spruce
+gov:
+    title: 'Островные ельники «Добрушские»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 10.12.2014'
+    area_size: 6.9
+    founded_on: 27.12.1963
 images:
     -
         file: ec1ed47c6077747e7f09cf3faaf0db26.jpg
@@ -41,6 +47,12 @@ location:
             lat: 52.47419
             lon: 31.23694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.471901
+            lon: 31.238102
+        source: gov
 meta:
     fgb:
         post_id: '75251'

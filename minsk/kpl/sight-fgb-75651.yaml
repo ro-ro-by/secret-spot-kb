@@ -4,6 +4,12 @@ type: alley
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Аллея лиственницы европейской'
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.11.2021'
+    area_size: 0.33
+    founded_on: 02.10.2006
 images:
     -
         file: 7f528e8901fa0a01cf2fd866cea2dbbb.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.930194
             lon: 26.91625
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.930194
+            lon: 26.91625
+        source: gov
 meta:
     fgb:
         post_id: '75651'

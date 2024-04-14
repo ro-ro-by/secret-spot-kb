@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Заказник «Вечелье»'
+    type: заказник
+    status: местный
+    area_size: 1280.9
+    founded_on: 17.12.2020
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.134242
+            lon: 28.617931
+        source: gov
 meta:
     fgb:
         post_id: '97970'

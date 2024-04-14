@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-akt
+gov:
+    title: 'Заказник «Октябрьский»'
+    type: заказник
+    status: республиканский
+    area_size: 4070.2
+    founded_on: 27.06.2003
 images:
     -
         file: 9291236a061ad59f88e350b9c38ddd40.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 4764745
+    -
+        type: point
+        coordinates:
+            lat: 52.66868
+            lon: 28.77349
+        source: gov
 osm:
     -
         type: relation

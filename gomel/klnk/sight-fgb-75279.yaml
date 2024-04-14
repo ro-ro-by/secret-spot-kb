@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: 'Насаждения сосны'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 10.3
+    founded_on: 03.09.2004
 images:
     -
         file: 000b6cc958e05c1633bc523df4156061.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.17006
             lon: 29.41692
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.170056
+            lon: 29.416903
+        source: gov
 meta:
     fgb:
         post_id: '75279'

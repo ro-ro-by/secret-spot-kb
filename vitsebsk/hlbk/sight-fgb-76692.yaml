@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Холм “Голубинский”'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 60.0
+    founded_on: 18.03.2008
 images:
     -
         file: 5f92f99256625d5e7a3d9f73aa8f8b14.jpg
@@ -29,6 +35,12 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.234397
+            lon: 27.546534
+        source: gov
 meta:
     fgb:
         post_id: '76692'

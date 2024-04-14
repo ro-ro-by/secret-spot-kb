@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Родник «Добринский грот»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 5.7
+    founded_on: 10.01.2020
 images:
     -
         file: 11a23cef63a399f8663b0ffaf363d504.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.79786'
             lon: '30.30548'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.797722
+            lon: 30.305278
+        source: gov
 meta:
     fgb:
         post_id: '77121'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Валун «Невестин камень»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001271
+    founded_on: 18.01.2008
 images:
     -
         file: d24ae4dcf22d629c7a642b05975a9f40.jpg
@@ -23,6 +29,12 @@ location:
             lat: '54.412996'
             lon: '26.037631'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.412996
+            lon: 26.037631
+        source: gov
 meta:
     fgb:
         post_id: '77644'

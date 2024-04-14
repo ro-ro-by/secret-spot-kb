@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Прилукский»'
+    type: заказник
+    status: республиканский
+    area_size: 523.06
+    founded_on: 27.12.2007
 images:
     -
         file: aec8633e148742344135e0751f11e5f6.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 8485606
+    -
+        type: point
+        coordinates:
+            lat: 53.79098
+            lon: 27.37068
+        source: gov
 osm:
     -
         type: relation

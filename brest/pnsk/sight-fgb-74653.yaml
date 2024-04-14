@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Заказник "Ермаки"'
+    type: заказник
+    status: 'местный , 27.12.2017'
+    area_size: 78.96
+    founded_on: 25.11.1988
 images:
     -
         file: 1ba89e797667209a1409ce290f4a54cc.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74653'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.208319
+            lon: 26.321116
+        source: gov
 meta:
     fgb:
         post_id: '74653'

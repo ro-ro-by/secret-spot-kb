@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Дуб-тройник «Свитязянский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.03732
+    founded_on: 26.04.2007
 images:
     -
         file: 546c56104163928a2afe46293525c21b.jpg
@@ -40,6 +46,12 @@ location:
             lat: 53.438861
             lon: 25.909417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.444139
+            lon: 25.915028
+        source: gov
 meta:
     fgb:
         post_id: '77578'

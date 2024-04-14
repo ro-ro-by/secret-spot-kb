@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Заказник "Зельвянка"'
+    type: заказник
+    status: 'местный , 01.10.2007'
+    area_size: 1140.0
+    founded_on: 24.12.1990
 images:
     -
         file: 66d99e234d59fe5bf085e307d530b369.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74674'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.947175
+            lon: 24.928684
+        source: gov
 meta:
     fgb:
         post_id: '74674'

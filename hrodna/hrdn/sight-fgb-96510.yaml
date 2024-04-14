@@ -8,6 +8,11 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Двухсотлетняя дубрава в окрестности агрогородка Озеры'
+    type: 'ботанический памятник природы'
+    status: местный
+    founded_on: 12.02.2018
 images:
     -
         file: 270c82139eb4a57fb7d17d303446e475.jpg
@@ -24,6 +29,12 @@ location:
             lat: 53.791278
             lon: 24.175306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.791278
+            lon: 24.175306
+        source: gov
 meta:
     fgb:
         post_id: '96510'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Большой камень ясловичский'
+    type: 'геологический памятник природы'
+    status: 'местный , 30.03.2020'
+    area_size: 0.00056
+    founded_on: 26.02.1998
 images:
     -
         file: 591c38560f3b4a7e6d86778fca6f1e4c.jpg
@@ -42,6 +48,12 @@ location:
             lat: '53.869380'
             lon: '25.844490'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.86938
+            lon: 25.84449
+        source: gov
 meta:
     fgb:
         post_id: '77495'

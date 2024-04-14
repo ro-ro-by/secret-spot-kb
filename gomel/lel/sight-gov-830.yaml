@@ -3,8 +3,21 @@ title: 'Заказник «Топиловское»'
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Топиловское»'
+    type: заказник
+    status: 'местный , 23.10.2017'
+    area_size: 11322.2
+    founded_on: 28.01.1998
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.729634
+            lon: 27.797701
+        source: gov
 meta:
     source:
         -

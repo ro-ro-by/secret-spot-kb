@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: Миранка
+    type: заказник
+    status: 'республиканский , 15.07.2014'
+    area_size: 3548.74
+    founded_on: 25.09.1996
 images:
     -
         file: c34b386eca226574229c10bb664cbecb.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77517'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.56791
+            lon: 26.441307
+        source: gov
 meta:
     fgb:
         post_id: '77517'

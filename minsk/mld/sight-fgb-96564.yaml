@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Заказник «Сосна веймутова»'
+    type: заказник
+    status: 'местный , 28.10.2008'
+    area_size: 54.0
+    founded_on: 26.08.2004
 images:
     -
         file: 5147d87c15092cd6d23a8393d5cb444c.jpg
@@ -32,6 +38,13 @@ images:
                 post_id: '96564'
 tree:
     type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.351116
+            lon: 26.995423
+        source: gov
 meta:
     fgb:
         post_id: '96564'

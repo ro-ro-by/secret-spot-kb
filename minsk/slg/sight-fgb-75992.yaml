@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Парк «Листопадовичи»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.12.2015'
+    area_size: 0.8
+    founded_on: 27.07.2006
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 52.722694
             lon: 27.52025
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.722694
+            lon: 27.52025
+        source: gov
 meta:
     fgb:
         post_id: '75992'

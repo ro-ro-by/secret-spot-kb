@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+gov:
+    title: 'Бочейковский усадебно-парковый ансамбль'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 4.8
+    founded_on: 03.12.2019
 images:
     -
         file: 8a8cbd2c2127baa77d5249cd971f4800.jpg
@@ -30,6 +36,12 @@ location:
             lat: 55.01725
             lon: 29.152167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.01725
+            lon: 29.152167
+        source: gov
 meta:
     fgb:
         post_id: '76133'

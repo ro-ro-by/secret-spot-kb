@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: Новогрудский
+    type: заказник
+    status: 'республиканский , 21.05.2014'
+    area_size: 1827.07
+    founded_on: 28.10.1994
 images:
     -
         file: eb17d976d569938f66aa7b657b097f35.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77576'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.650166
+            lon: 25.816902
+        source: gov
 meta:
     fgb:
         post_id: '77576'

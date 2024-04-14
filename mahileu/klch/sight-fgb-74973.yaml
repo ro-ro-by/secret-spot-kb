@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: '«Биордовское лесонасождение»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 5.41
+    founded_on: 05.05.2007
 images:
     -
         file: 26438c2654ffbcae7adecac3abcc1ec6.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.503722
             lon: 29.28475
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.503722
+            lon: 29.28475
+        source: gov
 meta:
     fgb:
         post_id: '74973'

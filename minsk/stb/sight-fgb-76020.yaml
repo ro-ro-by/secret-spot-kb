@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Усадьба Ф.Э.Дзержинского с прилегающим участком леса'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 108.9
+    founded_on: 05.05.2007
 images:
     -
         file: d0cb043de3c116c692a8da6adc436ed3.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.835806
             lon: 26.541972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.83437
+            lon: 26.54702
+        source: gov
 meta:
     fgb:
         post_id: '76020'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Коровий камень» чернишковский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00095
+    founded_on: 19.03.2007
 images:
     -
         file: d1817c480c0b10600a118710b052b696.jpg
@@ -32,6 +38,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76147'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.714613
+            lon: 27.031299
+        source: gov
 meta:
     fgb:
         post_id: '76147'

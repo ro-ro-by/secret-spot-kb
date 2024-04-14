@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Луковая гора'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 27.36
+    founded_on: 05.05.2023
 images:
     -
         file: b5e013321f1173cbe19740be6a3658fb.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 6068870
+    -
+        type: point
+        coordinates:
+            lat: 53.208611
+            lon: 29.226111
+        source: gov
 osm:
     -
         type: relation

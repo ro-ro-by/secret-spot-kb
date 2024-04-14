@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: 'Заказник «Солон-Солянка»'
+    type: заказник
+    status: 'местный , 17.05.2016'
+    area_size: 1920.6
+    founded_on: 26.08.2008
 images:
     -
         file: d8104215503c23bb6d2ad61041dd5f82.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '97309'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.040939
+            lon: 28.140908
+        source: gov
 meta:
     fgb:
         post_id: '97309'

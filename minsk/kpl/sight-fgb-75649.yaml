@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Черная береза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0018
+    founded_on: 30.11.2021
 images:
     -
         file: 787c8baf0b2b493c45b8b4f21f6d6373.jpg
@@ -38,6 +44,12 @@ location:
             lat: 53.148722
             lon: 27.014611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.14873
+            lon: 27.0146
+        source: gov
 meta:
     fgb:
         post_id: '75649'

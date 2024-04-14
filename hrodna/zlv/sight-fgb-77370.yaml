@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Заказник «Вишневка»'
+    type: заказник
+    status: 'местный , 21.06.2010'
+    area_size: 141.6
+    founded_on: 22.10.2002
 images:
     -
         file: 850e555a3ae85e2faff76bbfe002e692.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 552292839
+    -
+        type: point
+        coordinates:
+            lat: 53.137604
+            lon: 24.651052
+        source: gov
 osm:
     -
         type: way

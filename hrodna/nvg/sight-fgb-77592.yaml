@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Большой камень Гирдовский'
+    type: 'геологический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 18.03.1997
 images:
     -
         file: f13c96a1cb3eb08322e9afc8168eafe5.jpg
@@ -31,6 +36,12 @@ location:
             lat: '53.718377'
             lon: '25.800541'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.718377
+            lon: 25.800541
+        source: gov
 meta:
     fgb:
         post_id: '77592'

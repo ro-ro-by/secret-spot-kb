@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Парк «Кокоричи»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 5.2
+    founded_on: 30.11.2021
 images:
     -
         file: 4136860311fb961cb05115f6ba386238.jpg
@@ -37,6 +43,12 @@ location:
             osm:
                 type: way
                 id: 1215550361
+    -
+        type: point
+        coordinates:
+            lat: 53.152194
+            lon: 27.000806
+        source: gov
 osm:
     -
         type: way

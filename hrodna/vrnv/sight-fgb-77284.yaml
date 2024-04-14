@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Чеслав камень» вороновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001073
+    founded_on: 31.07.2006
 images:
     -
         file: 5c41e985ad3e11fc8bdeccb88b87bc97.jpg
@@ -59,6 +65,12 @@ location:
             lat: '54.161461'
             lon: '25.167047'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.161461
+            lon: 25.167047
+        source: gov
 meta:
     fgb:
         post_id: '77284'

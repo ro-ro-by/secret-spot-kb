@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Заказник «Святое Озеро»'
+    type: заказник
+    status: 'местный , 05.12.2023'
+    area_size: 95.45
+    founded_on: 30.06.1993
 images:
     -
         file: f88934272c447c52db6d2ed3fd3b7c51.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 25194275
+    -
+        type: point
+        coordinates:
+            lat: 53.022878
+            lon: 30.120331
+        source: gov
 osm:
     -
         type: way

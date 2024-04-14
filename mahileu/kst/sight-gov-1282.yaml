@@ -3,8 +3,21 @@ title: 'Жабыковский старожил'
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: 'Жабыковский старожил'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0227
+    founded_on: 29.04.2023
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.313867
+            lon: 32.105722
+        source: gov
 meta:
     source:
         -

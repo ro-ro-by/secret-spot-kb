@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» пашевичский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00014
+    founded_on: 19.03.2007
 images:
     -
         file: bb7d11ba159898a0a17b1d40017ee76e.jpg
@@ -39,6 +45,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76162'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.61905
+            lon: 26.642612
+        source: gov
 meta:
     fgb:
         post_id: '76162'

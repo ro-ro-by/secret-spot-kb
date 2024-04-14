@@ -6,6 +6,12 @@ alley:
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Дубовые аллеи усадьбы Чарноцких'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.83
+    founded_on: 02.04.2018
 images:
     -
         file: 416bf1c59e56a70dacd20d64c86928b1.jpg
@@ -46,6 +52,12 @@ location:
             lat: 53.05261
             lon: 26.79314
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.052611
+            lon: 26.793139
+        source: gov
 meta:
     fgb:
         post_id: '96468'

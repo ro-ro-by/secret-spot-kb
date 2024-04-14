@@ -3,8 +3,21 @@ title: 'Заказник «Эсьмонский мох»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Заказник «Эсьмонский мох»'
+    type: заказник
+    status: 'местный , 02.11.2018'
+    area_size: 2857.28
+    founded_on: 22.11.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.011119
+            lon: 29.382794
+        source: gov
 meta:
     source:
         -

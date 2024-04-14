@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Валун янцевичский'
+    type: 'геологический памятник природы'
+    status: 'местный , 30.03.2020'
+    area_size: 0.00054
+    founded_on: 26.02.1998
 images:
     -
         file: 80feaff8cbe5e0217620cb63f27ccdd9.jpg
@@ -31,6 +37,12 @@ location:
             lat: '53.972831'
             lon: '26.058745'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.972831
+            lon: 26.058745
+        source: gov
 meta:
     fgb:
         post_id: '77497'

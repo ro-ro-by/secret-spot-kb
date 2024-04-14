@@ -4,6 +4,18 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Валун «Глыбочанский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.262886
+            lon: 28.954308
+        source: gov
 meta:
     fgb:
         post_id: '77153'

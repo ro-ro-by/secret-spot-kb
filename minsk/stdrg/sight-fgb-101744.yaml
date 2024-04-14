@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: 'Широколиственное насаждение Стародорожского лесхоза'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 6.66
+    founded_on: 27.10.2020
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 53.119861
             lon: 28.380667
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.119861
+            lon: 28.380667
+        source: gov
 meta:
     fgb:
         post_id: '101744'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Валун «Большой камень» мягунский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00086
+    founded_on: 25.04.2011
 images:
     -
         file: 56975269a8d13e68ff591465b0e7d40d.jpg
@@ -45,6 +51,12 @@ location:
             lat: 55.06719
             lon: 26.50208
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.066875
+            lon: 26.494892
+        source: gov
 meta:
     fgb:
         post_id: '77064'

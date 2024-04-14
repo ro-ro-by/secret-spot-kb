@@ -3,8 +3,21 @@ title: 'Заказник «Ивановский»'
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Заказник «Ивановский»'
+    type: заказник
+    status: 'местный , 18.01.2018'
+    area_size: 657.55
+    founded_on: 09.03.2006
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.781066
+            lon: 28.136109
+        source: gov
 meta:
     source:
         -

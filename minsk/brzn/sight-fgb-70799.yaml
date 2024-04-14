@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Обнажение «Мурова»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 3.8
+    founded_on: 19.03.2007
 images:
     -
         file: 5e93de790a50b4f9c96b075593892e96.jpg
@@ -47,6 +53,12 @@ location:
             osm:
                 type: relation
                 id: 12010633
+    -
+        type: point
+        coordinates:
+            lat: 54.05121
+            lon: 28.83039
+        source: gov
 osm:
     -
         type: relation

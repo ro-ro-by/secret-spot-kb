@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валуны «Макасичские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000716
+    founded_on: 19.03.2007
 images:
     -
         file: e2fb2e0d523cbc0cd64d7e85f2b52b73.jpg
@@ -62,6 +68,12 @@ location:
             lat: '53.910164'
             lon: '26.855914'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.91016
+            lon: 26.85591
+        source: gov
 meta:
     fgb:
         post_id: '75596'

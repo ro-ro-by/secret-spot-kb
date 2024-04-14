@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Лугопарк Площево'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 22.23
+    founded_on: 26.07.2016
 images:
     -
         file: 96e1e4fbed642ca6e7d064e424d4b51d.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.113278
             lon: 26.423
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.113278
+            lon: 26.423
+        source: gov
 meta:
     fgb:
         post_id: '96289'

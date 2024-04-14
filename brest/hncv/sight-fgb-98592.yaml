@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Круговичский валун'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.0004
+    founded_on: 30.09.2020
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 52.77798
             lon: 26.6276
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.777981
+            lon: 26.6276
+        source: gov
 meta:
     fgb:
         post_id: '98592'

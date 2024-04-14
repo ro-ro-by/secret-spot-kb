@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Домановский»'
+    type: заказник
+    status: 'местный , 28.10.2008'
+    area_size: 1364.0
+    founded_on: 28.01.2004
 images:
     -
         file: 5eccd43afc77905917c89896fff53ead.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74800'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.061752
+            lon: 30.574146
+        source: gov
 meta:
     fgb:
         post_id: '74800'

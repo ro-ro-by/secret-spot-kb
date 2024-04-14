@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Отдельно стоящая лиственница'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.0004
+    founded_on: 30.07.1996
 images:
     -
         file: 103107872055204880d6e1c226bbcd04.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.427667
             lon: 32.619889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.427667
+            lon: 32.619889
+        source: gov
 meta:
     fgb:
         post_id: '75153'

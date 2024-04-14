@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-zhlb
 forest:
     dominated_type: pine
+gov:
+    title: 'Лесной массив в урочище Чашевка'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 14.0
+    founded_on: 28.01.1999
 images:
     -
         file: 9a30d310939bbf9e4f0245a4de738b10.jpg
@@ -30,6 +36,12 @@ location:
             lat: 52.8438
             lon: 30.2165
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.843796
+            lon: 30.216504
+        source: gov
 meta:
     fgb:
         post_id: '75274'

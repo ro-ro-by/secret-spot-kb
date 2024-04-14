@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Заказник «Прибережье»'
+    type: заказник
+    status: 'местный , 09.06.2020'
+    area_size: 123.0
+    founded_on: 24.02.2006
 images:
     -
         file: d239ea0d3c01f7345a02a890ddd97352.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75052'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.653481
+            lon: 30.384922
+        source: gov
 meta:
     fgb:
         post_id: '75052'

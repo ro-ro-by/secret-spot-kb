@@ -3,8 +3,21 @@ title: 'Заказник «Виржи»'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Заказник «Виржи»'
+    type: заказник
+    status: 'местный , 30.12.2015'
+    area_size: 731.22
+    founded_on: 27.11.2008
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.743056
+            lon: 28.169167
+        source: gov
 meta:
     source:
         -

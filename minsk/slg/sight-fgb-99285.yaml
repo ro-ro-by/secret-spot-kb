@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Старобинский»'
+    type: заказник
+    status: местный
+    area_size: 5300.89
+    founded_on: 29.06.2022
 images:
     -
         file: 043c6fcc317de24200ff4ebaef0559f3.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '99285'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.701968
+            lon: 27.505548
+        source: gov
 meta:
     fgb:
         post_id: '99285'

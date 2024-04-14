@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Заказник «Еленка»'
+    type: заказник
+    status: 'местный , 29.12.2018'
+    area_size: 5939.74
+    founded_on: 24.12.2014
 images:
     -
         file: 38e7e528c55abc9e3078068cf3ca7f75.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 6525167
+    -
+        type: point
+        coordinates:
+            lat: 54.239717
+            lon: 29.12336
+        source: gov
 osm:
     -
         type: relation

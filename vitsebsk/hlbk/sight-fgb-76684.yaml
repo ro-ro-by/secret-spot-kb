@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун «Большой камень» бортникский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00176
+    founded_on: 18.03.2008
 images:
     -
         file: 188fa6fb85e7dad174bb593c8f9981f1.jpg
@@ -52,6 +58,12 @@ location:
             lat: '55.282066'
             lon: '28.058234'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.285722
+            lon: 28.058811
+        source: gov
 meta:
     fgb:
         post_id: '76684'

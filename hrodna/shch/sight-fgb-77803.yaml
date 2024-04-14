@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Раковичская криница'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.008
+    founded_on: 28.12.2022
 images:
     -
         file: 737329b04b592ad9df0492e244d3848c.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.50982'
             lon: '24.83499'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.50982
+            lon: 24.83499
+        source: gov
 meta:
     fgb:
         post_id: '77803'

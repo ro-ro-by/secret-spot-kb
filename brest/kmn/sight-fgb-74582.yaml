@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Дуб пирамидальный «Высоковский»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 26.04.2007'
+    area_size: 0.002
+    founded_on: 27.12.1963
 images:
     -
         file: 6674b737eb5438bc0d3252773933d948.jpg
@@ -38,6 +44,12 @@ location:
             lat: 52.365556
             lon: 23.37
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.365556
+            lon: 23.37
+        source: gov
 meta:
     fgb:
         post_id: '74582'

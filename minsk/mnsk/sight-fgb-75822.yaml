@@ -4,6 +4,12 @@ type: TODO
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Сросшиеся дуб и сосна'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.002
+    founded_on: 13.01.2009
 images:
     -
         file: 3df7c3dcc837c66c92abfb418ee41251.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.965778
             lon: 27.427028
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.965778
+            lon: 27.427028
+        source: gov
 meta:
     fgb:
         post_id: '75822'

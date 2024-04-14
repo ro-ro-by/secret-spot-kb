@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Бытеньский»'
+    type: заказник
+    status: 'местный , 30.10.2020'
+    area_size: 2223.11
+    founded_on: 28.09.2006
 images:
     -
         file: ed3f120b026935a80aeb2b65901eb4b4.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 570416820
+    -
+        type: point
+        coordinates:
+            lat: 53.322174
+            lon: 28.071773
+        source: gov
 osm:
     -
         type: way

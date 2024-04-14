@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsnp
+gov:
+    title: 'Заказник «Костел»'
+    type: заказник
+    status: 'местный , 14.09.2009'
+    area_size: 4.29
+    founded_on: 28.06.1996
 images:
     -
         file: 57a175fe9e1508d7de7d4fb2ff28cb36.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: way
                 id: 662170502
+    -
+        type: point
+        coordinates:
+            lat: 53.212209
+            lon: 31.544642
+        source: gov
 osm:
     -
         type: way

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Родник «Бобр»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 31.05.2022'
+    area_size: 0.0015
+    founded_on: 28.10.2008
 images:
     -
         file: 5a5d2e8d25e9eb53b2686277f012dd58.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.33274'
             lon: '29.25105'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.33274
+            lon: 29.25105
+        source: gov
 meta:
     fgb:
         post_id: '75687'

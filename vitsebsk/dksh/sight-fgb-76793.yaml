@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Заказник «Отрубок»'
+    type: заказник
+    status: 'местный , 29.01.2016'
+    area_size: 95.78
+    founded_on: 27.11.2008
 images:
     -
         file: 52cbc5a132c79cb25f933df7e8739421.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76793'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.813501
+            lon: 27.673059
+        source: gov
 meta:
     fgb:
         post_id: '76793'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-akt
 forest:
     dominated_type: pine
+gov:
+    title: 'Сосновая роща'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 13.8
+    founded_on: 17.12.2004
 images:
     -
         file: 513a7eacf46569c3c53e9c265254a1ba.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.55728
             lon: 28.62869
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.557278
+            lon: 28.628694
+        source: gov
 meta:
     fgb:
         post_id: '75413'

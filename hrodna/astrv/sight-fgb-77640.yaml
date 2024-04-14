@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Холодный ручей'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 12.6
+    founded_on: 05.06.2015
 images:
     -
         file: b93df444bdfa4632653c44072ab74d3f.jpg
@@ -55,6 +61,12 @@ location:
             osm:
                 type: relation
                 id: 13512710
+    -
+        type: point
+        coordinates:
+            lat: 54.8204
+            lon: 25.833309
+        source: gov
 osm:
     -
         type: relation

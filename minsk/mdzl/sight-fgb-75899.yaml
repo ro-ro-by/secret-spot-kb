@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» высочкинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001
+    founded_on: 18.03.2008
 images:
     -
         file: 55792e9d69dd6d69dfd18057c9c021ec.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75899'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.90544
+            lon: 26.90495
+        source: gov
 meta:
     fgb:
         post_id: '75899'

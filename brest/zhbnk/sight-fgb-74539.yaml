@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Парк «Атечизна»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 14.11.2017'
+    area_size: 5.973
+    founded_on: 13.09.1976
 images:
     -
         file: 217182421de9cd22dd33ae3f21e4c8fb.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.168361
             lon: 24.108
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.168361
+            lon: 24.108
+        source: gov
 meta:
     fgb:
         post_id: '74539'

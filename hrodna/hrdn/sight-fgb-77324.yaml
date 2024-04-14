@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Гродненские форты'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 12.6
+    founded_on: 12.02.2018
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: '53.619733'
             lon: '23.670977'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.733926
+            lon: 23.711731
+        source: gov
 meta:
     fgb:
         post_id: '77324'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: Клен
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.12.2015'
+    area_size: 0.03
+    founded_on: 27.07.2006
 tree:
     type: maple
 location:
@@ -13,6 +19,12 @@ location:
             lat: 52.833472
             lon: 27.338083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.833472
+            lon: 27.338083
+        source: gov
 meta:
     fgb:
         post_id: '75991'

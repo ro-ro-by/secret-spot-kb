@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Толстогорский родник'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 04.09.2020'
+    area_size: 1.51
+    founded_on: 15.01.2007
 images:
     -
         file: b0cd1f2a34de6156da248af717e97f95.jpg
@@ -22,6 +28,12 @@ location:
             lat: '55.76273'
             lon: '27.29846'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.762725
+            lon: 27.298461
+        source: gov
 meta:
     fgb:
         post_id: '76171'

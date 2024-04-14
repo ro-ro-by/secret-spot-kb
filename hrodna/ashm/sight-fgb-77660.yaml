@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гологурский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00037
+    founded_on: 16.02.1995
 images:
     -
         file: 04dec798c0bb8eba35f4873db4a9322f.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.531135'
             lon: '25.945640'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.531135
+            lon: 25.94564
+        source: gov
 meta:
     fgb:
         post_id: '77660'

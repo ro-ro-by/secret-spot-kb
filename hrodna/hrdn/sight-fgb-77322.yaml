@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Заказник «Чертово болото»'
+    type: заказник
+    status: местный
+    area_size: 2561.03
+    founded_on: 24.12.2015
 images:
     -
         file: a4720eb26ca5bc2d645f2865ecd0989d.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77322'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.901695
+            lon: 24.289329
+        source: gov
 meta:
     fgb:
         post_id: '77322'

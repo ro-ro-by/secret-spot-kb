@@ -3,8 +3,21 @@ title: 'Заказник «Калиновский»'
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Заказник «Калиновский»'
+    type: заказник
+    status: 'местный , 22.11.2006'
+    area_size: 149.1
+    founded_on: 22.01.1993
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.904107
+            lon: 29.715603
+        source: gov
 meta:
     source:
         -

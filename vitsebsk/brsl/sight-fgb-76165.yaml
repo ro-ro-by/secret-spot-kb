@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валуны «Красногорские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00097
+    founded_on: 19.03.2007
 images:
     -
         file: 996d7a3ad068f215d204cd6203549867.jpg
@@ -37,6 +43,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76165'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.764803
+            lon: 27.055365
+        source: gov
 meta:
     fgb:
         post_id: '76165'

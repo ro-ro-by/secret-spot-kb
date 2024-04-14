@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Гора «Копланщина»'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 25.0
+    founded_on: 28.10.2008
 images:
     -
         file: 40d5541e5c053ef9e685f6c8be1c6544.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75874'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.073611
+            lon: 27.093333
+        source: gov
 meta:
     fgb:
         post_id: '75874'

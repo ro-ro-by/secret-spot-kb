@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: '"Пеница" Рождества Богородицы'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.785
+    founded_on: 11.12.2017
 images:
     -
         file: 1af07343bf83ac27b4c9287a363e98a6.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 8419316
+    -
+        type: point
+        coordinates:
+            lat: 52.031383
+            lon: 29.395606
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Заказник «Лобня»'
+    type: заказник
+    status: 'местный , 24.08.2011'
+    area_size: 200.0
+    founded_on: 28.12.1995
 images:
     -
         file: 67832edf9f914eb8cd6a7f4d43ed1105.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 14866172
+    -
+        type: point
+        coordinates:
+            lat: 53.277982
+            lon: 32.409141
+        source: gov
 osm:
     -
         type: relation

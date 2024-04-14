@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Бук лесной'
+    type: 'ботанический памятник природы'
+    status: 'местный , 18.11.2014'
+    area_size: 0.01
+    founded_on: 16.12.1999
 images:
     -
         file: 146d6140c50b5405edad6e428b945c6f.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.096028
             lon: 23.686694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.096028
+            lon: 23.686694
+        source: gov
 meta:
     fgb:
         post_id: '74509'

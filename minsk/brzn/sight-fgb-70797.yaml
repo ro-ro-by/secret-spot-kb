@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Дуб черешчатый «Любушанский-1»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 0.0177
+    founded_on: 26.04.2007
 images:
     -
         file: b7539265b800ee00ad5255f9a8a09d63.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.786917
             lon: 29.25675
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.786917
+            lon: 29.25675
+        source: gov
 meta:
     fgb:
         post_id: '70797'

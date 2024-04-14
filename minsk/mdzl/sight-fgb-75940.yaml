@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Памятник природы «Купа»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.79
+    founded_on: 05.06.2015
 images:
     -
         file: 5f54f9939b73edb29a9d7727597cb8de.jpg
@@ -48,6 +54,12 @@ location:
             lat: '54.90671'
             lon: '26.71258'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.90671
+            lon: 26.71258
+        source: gov
 meta:
     fgb:
         post_id: '75940'

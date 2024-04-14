@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Парк «Мир»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 5.0
+    founded_on: 08.05.2007
 images:
     -
         file: 83b31eac0deb098da0756a4d15d3a02a.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.45297
             lon: 26.47469
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.451125
+            lon: 26.47534
+        source: gov
 meta:
     fgb:
         post_id: '77505'

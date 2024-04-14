@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Республиканский заказник «Прибужское Полесье»'
+    type: заказник
+    status: 'республиканский , 15.03.2018'
+    area_size: 17230.6
+    founded_on: 30.05.2003
 images:
     -
         file: e1e200e06ef690715efe3696967f039f.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 8504548
+    -
+        type: point
+        coordinates:
+            lat: 51.76333
+            lon: 23.654004
+        source: gov
 osm:
     -
         type: relation

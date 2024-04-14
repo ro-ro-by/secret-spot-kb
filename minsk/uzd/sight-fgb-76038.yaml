@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-uzd
+gov:
+    title: 'Валуны «Каменские»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0043
+    founded_on: 19.03.2007
 images:
     -
         file: a253c5d455847d8e435d4c4b42fa7ba3.jpg
@@ -35,6 +41,13 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1987
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.37095
+            lon: 27.17236
+        source: gov
 meta:
     fgb:
         post_id: '76038'

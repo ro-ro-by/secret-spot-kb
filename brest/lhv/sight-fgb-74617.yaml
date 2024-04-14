@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник "Лагоня"'
+    type: заказник
+    status: 'местный , 14.12.2021'
+    area_size: 327.57
+    founded_on: 01.09.2008
 images:
     -
         file: 61535db61e47221695a2b3c8bac4aac3.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74617'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.911166
+            lon: 25.979571
+        source: gov
 meta:
     fgb:
         post_id: '74617'

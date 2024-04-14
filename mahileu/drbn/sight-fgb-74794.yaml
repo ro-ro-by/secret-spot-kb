@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-drbn
 forest:
     dominated_type: pine
+gov:
+    title: 'Каменский Бор'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 12.1
+    founded_on: 27.02.2003
 images:
     -
         file: cc32411ab5e39d03c5045594dd726b13.jpg
@@ -39,6 +45,12 @@ location:
             osm:
                 type: way
                 id: 662179279
+    -
+        type: point
+        coordinates:
+            lat: 53.948972
+            lon: 31.160056
+        source: gov
 osm:
     -
         type: way

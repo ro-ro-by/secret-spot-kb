@@ -4,6 +4,19 @@ type: sacral_hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Полуостров «Дубовая гора»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 30.0
+    founded_on: 18.03.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.94693
+            lon: 26.85738
+        source: gov
 meta:
     fgb:
         post_id: '103702'

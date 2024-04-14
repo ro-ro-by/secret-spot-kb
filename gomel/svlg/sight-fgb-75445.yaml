@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-svlg
+gov:
+    title: 'Заказник «Чирковичский»'
+    type: заказник
+    status: республиканский
+    area_size: 461.63
+    founded_on: 16.08.1979
 images:
     -
         file: 62be0a1974dd74fdda40ea7569ab210b.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 4701245
+    -
+        type: point
+        coordinates:
+            lat: 52.60354
+            lon: 29.53994
+        source: gov
 osm:
     -
         type: relation

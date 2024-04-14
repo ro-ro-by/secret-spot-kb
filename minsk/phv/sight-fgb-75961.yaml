@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Копыш»'
+    type: заказник
+    status: республиканский
+    area_size: 1222.34
+    founded_on: 27.12.2007
 images:
     -
         file: fc139b1edffde235fa14f755d88ef058.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 1131624065
+    -
+        type: point
+        coordinates:
+            lat: 53.42138
+            lon: 28.19083
+        source: gov
 osm:
     -
         type: way

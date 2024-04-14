@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Родниково-ручьевой природный комплекс «Святого Яна»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.785
+    founded_on: 29.12.2014
 images:
     -
         file: ec6cb2ef121fbe4cc4b1333e51d84230.jpg
@@ -22,6 +28,12 @@ location:
             lat: '52.31208'
             lon: '25.56315'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.171569
+            lon: 28.087408
+        source: gov
 meta:
     fgb:
         post_id: '74556'

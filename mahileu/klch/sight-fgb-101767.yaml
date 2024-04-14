@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Криница «Альховская»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 0.008
+    founded_on: 16.10.2006
 images:
     -
         file: 00249208aec301dde6f90db9804811da.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.58285'
             lon: '29.44173'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.58405
+            lon: 29.44236
+        source: gov
 meta:
     fgb:
         post_id: '101767'

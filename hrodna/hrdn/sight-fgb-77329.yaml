@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Гора чертовая Поречская'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.02.2018'
+    area_size: 161.4
+    founded_on: 20.12.2002
 images:
     -
         file: dfe057a31aab291e061093e7beb8fd80.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77329'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.789
+            lon: 24.012194
+        source: gov
 meta:
     fgb:
         post_id: '77329'

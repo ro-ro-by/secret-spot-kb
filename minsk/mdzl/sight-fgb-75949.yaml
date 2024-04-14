@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Памятник природы «Млын»'
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 0.2
+    founded_on: 05.06.2015
 images:
     -
         file: 894bd48cb2978777f3832acb5cd16516.jpg
@@ -28,6 +34,12 @@ location:
             lat: '54.95247'
             lon: '26.44151'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.95247
+            lon: 26.44151
+        source: gov
 meta:
     fgb:
         post_id: '75949'

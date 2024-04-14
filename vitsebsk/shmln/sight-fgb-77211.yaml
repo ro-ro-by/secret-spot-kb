@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Сосна обыкновенная'
+    type: 'ботанический памятник природы'
+    status: 'местный , 05.03.2018'
+    area_size: 0.0002
+    founded_on: 03.12.2012
 images:
     -
         file: a372cd1092b4a93c69d1703549843103.jpg
@@ -41,6 +47,12 @@ location:
             lat: 55.529111
             lon: 29.572222
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.529111
+            lon: 29.572222
+        source: gov
 meta:
     fgb:
         post_id: '77211'

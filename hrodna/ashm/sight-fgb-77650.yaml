@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Тюпишкинская гора'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 15.92
+    founded_on: 16.02.1995
 images:
     -
         file: 5b25c901a40be9aba80cd5a343b2ed64.jpg
@@ -20,6 +26,12 @@ location:
             lat: '54.291830'
             lon: '26.043524'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.29183
+            lon: 26.043524
+        source: gov
 meta:
     fgb:
         post_id: '77650'

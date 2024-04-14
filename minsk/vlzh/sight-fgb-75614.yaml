@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: Дуб-великан
+    type: 'ботанический памятник природы'
+    status: 'местный , 11.04.2023'
+    area_size: 0.126
+    founded_on: 16.10.2008
 images:
     -
         file: 736d9e1bc585b0c2cc65ac48130962c2.jpg
@@ -23,6 +29,13 @@ images:
                 post_id: '75614'
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.01279
+            lon: 26.63427
+        source: gov
 meta:
     fgb:
         post_id: '75614'

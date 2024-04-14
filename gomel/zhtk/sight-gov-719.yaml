@@ -3,8 +3,21 @@ title: 'Насаждения дуба'
 belongsTo:
     region: region-gomel
     subregion: subregion-zhtk
+gov:
+    title: 'Насаждения дуба'
+    type: 'ботанический памятник природы'
+    status: 'местный , 17.09.2018'
+    area_size: 26.6
+    founded_on: 24.03.2009
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.342583
+            lon: 27.503722
+        source: gov
 meta:
     source:
         -

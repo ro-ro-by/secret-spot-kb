@@ -3,8 +3,21 @@ title: 'Березовский большой камень'
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Березовский большой камень'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.00084
+    founded_on: 09.04.2020
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.588042
+            lon: 28.137719
+        source: gov
 meta:
     source:
         -

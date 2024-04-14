@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Сосна
+    type: 'ботанический памятник природы'
+    status: 'местный , 23.09.2008'
+    founded_on: 14.08.1995
 images:
     -
         file: d9d9001668b469cf6a3338f6b5640124.jpg
@@ -22,6 +27,12 @@ location:
             lat: 53.12103
             lon: 24.99539
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.121069
+            lon: 24.995356
+        source: gov
 meta:
     fgb:
         post_id: '77374'

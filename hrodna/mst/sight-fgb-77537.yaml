@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Овраг «Ров Яна и Цецилии»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 7.0
+    founded_on: 31.07.2006
 images:
     -
         file: bb29ca6f5db4a16b697e077f36dfaee3.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77537'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.512
+            lon: 24.1544
+        source: gov
 meta:
     fgb:
         post_id: '77537'

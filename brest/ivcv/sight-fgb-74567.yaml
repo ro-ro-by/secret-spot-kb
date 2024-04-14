@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Чистая дубрава «Борецкая»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 3.6
+    founded_on: 05.05.2007
 images:
     -
         file: 33ef294a4e502702ddff47da55eff1cc.jpg
@@ -32,6 +38,12 @@ location:
             lat: 52.765278
             lon: 25.2975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.765278
+            lon: 25.2975
+        source: gov
 meta:
     fgb:
         post_id: '74567'

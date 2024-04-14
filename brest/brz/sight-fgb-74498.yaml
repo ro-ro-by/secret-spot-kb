@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Старинный парк «Сигневичи-2»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 08.02.2008'
+    area_size: 6.87
+    founded_on: 19.04.1983
 images:
     -
         file: 0f6d75cfb91bc4081be9a0a99204ef1e.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.433889
             lon: 24.897778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.433889
+            lon: 24.897778
+        source: gov
 meta:
     fgb:
         post_id: '74498'

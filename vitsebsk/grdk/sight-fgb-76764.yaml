@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Валун “Залученский”'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00072
+    founded_on: 18.03.2008
 images:
     -
         file: b42ca82952f1272a906012efbf6bc9f5.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76764'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.405263
+            lon: 30.056102
+        source: gov
 meta:
     fgb:
         post_id: '76764'

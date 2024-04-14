@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: Высокое
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 5.61
+    founded_on: 21.08.2009
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 51.90425
             lon: 24.204722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.90425
+            lon: 24.204722
+        source: gov
 meta:
     fgb:
         post_id: '74629'

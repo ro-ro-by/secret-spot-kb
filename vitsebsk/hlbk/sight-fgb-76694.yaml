@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Парк «Залесье»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 12.01
+    founded_on: 04.01.2018
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 55.254139
             lon: 27.685778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.254393
+            lon: 27.686632
+        source: gov
 meta:
     fgb:
         post_id: '76694'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Войстомский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.0007
+    founded_on: 23.03.1995
 images:
     -
         file: 47a691c5b1f15b868c191d36b081804e.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.571581'
             lon: '26.602094'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.571581
+            lon: 26.602094
+        source: gov
 meta:
     fgb:
         post_id: '77753'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: Луково
+    type: заказник
+    status: 'республиканский , 16.07.2010'
+    area_size: 1594.07
+    founded_on: 08.09.1968
 images:
     -
         file: 5fd823d7a509394bcb82d2b127b9717b.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: relation
                 id: 9238743
+    -
+        type: point
+        coordinates:
+            lat: 51.930156
+            lon: 24.24735
+        source: gov
 osm:
     -
         type: relation

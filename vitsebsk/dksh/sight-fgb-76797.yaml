@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Заказник «Чечуки»'
+    type: заказник
+    status: 'местный , 29.01.2016'
+    area_size: 334.68
+    founded_on: 27.11.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.988857
+            lon: 27.624655
+        source: gov
 meta:
     fgb:
         post_id: '76797'

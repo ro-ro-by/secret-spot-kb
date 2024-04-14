@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Селецкий источник'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.01
+    founded_on: 01.12.2014
 images:
     -
         file: 698ddc71d09a21f0724c3b2e101a9fd6.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 8351655
+    -
+        type: point
+        coordinates:
+            lat: 52.57902
+            lon: 24.83602
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Родник «Кузьмы Чорного»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 30.11.2021'
+    area_size: 0.001
+    founded_on: 02.10.2006
 images:
     -
         file: 55ea12346fa81dfd0652abc10e30e0bd.jpg
@@ -29,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 11010344
+    -
+        type: point
+        coordinates:
+            lat: 53.09322
+            lon: 26.99812
+        source: gov
 osm:
     -
         type: relation

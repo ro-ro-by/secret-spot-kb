@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Заказник "Большой Яминец"'
+    type: заказник
+    status: 'местный , 07.04.2008'
+    area_size: 81.64
+    founded_on: 23.05.1989
 images:
     -
         file: 8c0592d1ca9eb099b0b70e8b3c3409f1.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74568'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.482933
+            lon: 25.667301
+        source: gov
 meta:
     fgb:
         post_id: '74568'

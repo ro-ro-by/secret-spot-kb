@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник "Устье Мышанки"'
+    type: заказник
+    status: местный
+    area_size: 2076.17
+    founded_on: 02.12.2014
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.832989
+            lon: 25.900358
+        source: gov
 meta:
     fgb:
         post_id: '74620'

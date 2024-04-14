@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Сенканка
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 12.9
+    founded_on: 05.06.2015
 images:
     -
         file: ad53b3c9575dae6e928c8b23324ce473.jpg
@@ -55,6 +61,12 @@ location:
             osm:
                 type: relation
                 id: 13512788
+    -
+        type: point
+        coordinates:
+            lat: 54.790132
+            lon: 25.946371
+        source: gov
 osm:
     -
         type: relation

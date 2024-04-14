@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Большой камень рудавковский'
+    type: 'геологический памятник природы'
+    status: 'местный , 15.04.2010'
+    founded_on: 30.12.1997
 images:
     -
         file: 1fab2ec2a3643fef813f3ce713d5ce4e.jpg
@@ -38,6 +43,12 @@ location:
             lat: '53.038134'
             lon: '24.981018'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.038134
+            lon: 24.981018
+        source: gov
 meta:
     fgb:
         post_id: '77707'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Сквер Рекутя (Школьный дендрарий в г.п. Ружаны)'
+    type: 'ботанический памятник природы'
+    status: 'местный , 13.11.2018'
+    area_size: 0.87
+    founded_on: 16.01.1988
 images:
     -
         file: 4c1274db28c69f10a05d0932f65e9301.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.861694
             lon: 24.892167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.861694
+            lon: 24.892167
+        source: gov
 meta:
     fgb:
         post_id: '74669'

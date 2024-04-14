@@ -4,6 +4,19 @@ type: sacral_hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Гора «Ходчиха»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 31.9
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.17533
+            lon: 26.40746
+        source: gov
 meta:
     fgb:
         post_id: '103729'

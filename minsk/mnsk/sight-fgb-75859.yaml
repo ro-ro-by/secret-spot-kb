@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Ясень Александровского сквера'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 0.022
+    founded_on: 12.10.2017
 images:
     -
         file: 4fd60e1ccf2a1f7895a0ea656be7ddeb.jpg
@@ -30,6 +36,12 @@ location:
             lat: 53.90175
             lon: 27.562944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.90175
+            lon: 27.562944
+        source: gov
 meta:
     fgb:
         post_id: '75859'

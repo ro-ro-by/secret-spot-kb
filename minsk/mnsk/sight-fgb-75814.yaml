@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава «Щомыслицкая»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 30.12.2022'
+    area_size: 25.4
+    founded_on: 05.05.2007
 images:
     -
         file: 8055f013b9ab0fc0bcfa2e8fb80d1e17.jpg
@@ -41,6 +47,12 @@ location:
             osm:
                 type: way
                 id: 348906014
+    -
+        type: point
+        coordinates:
+            lat: 53.83388
+            lon: 27.47305
+        source: gov
 osm:
     -
         type: way

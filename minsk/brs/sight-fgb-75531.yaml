@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Староборисовский лес'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 24.6
+    founded_on: 05.05.2007
 images:
     -
         file: ce0f9ba3f247a80e917e55363a4241a3.jpg
@@ -29,6 +35,12 @@ location:
             lat: 54.2805
             lon: 28.478889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.28373
+            lon: 28.45848
+        source: gov
 meta:
     fgb:
         post_id: '75531'

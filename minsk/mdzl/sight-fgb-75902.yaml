@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» лещинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0011
+    founded_on: 18.03.2008
 images:
     -
         file: a1a508e4551cd1487ad6c73b19b989bb.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75902'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93995
+            lon: 26.76786
+        source: gov
 meta:
     fgb:
         post_id: '75902'

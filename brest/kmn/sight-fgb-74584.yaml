@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Заказник "Долбнево"'
+    type: заказник
+    status: 'местный , 13.10.2008'
+    area_size: 30.0
+    founded_on: 23.12.1982
 images:
     -
         file: 338bc17ba836cbf54ad45259166574a8.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74584'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.346796
+            lon: 23.421352
+        source: gov
 meta:
     fgb:
         post_id: '74584'

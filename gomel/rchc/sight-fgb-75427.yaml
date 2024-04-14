@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Насаждения дуба'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.8
+    founded_on: 27.05.2009
 images:
     -
         file: 7b4964053fabed99f96ebe3ebf23fa57.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.31931
             lon: 30.68397
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.319306
+            lon: 30.683972
+        source: gov
 meta:
     fgb:
         post_id: '75427'

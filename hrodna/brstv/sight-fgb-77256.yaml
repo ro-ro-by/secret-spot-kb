@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Старинная парковая усадьба «Массоляны»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.06.2016'
+    area_size: 3.55
+    founded_on: 24.10.2003
 images:
     -
         file: cedb432fbba8a2342beb2a9570ce63da.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: way
                 id: 637832924
+    -
+        type: point
+        coordinates:
+            lat: 53.356583
+            lon: 24.00975
+        source: gov
 osm:
     -
         type: way

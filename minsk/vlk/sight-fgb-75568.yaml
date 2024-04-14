@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Большой камень ивашиновичский'
+    type: 'геологический памятник природы'
+    status: 'местный , 02.12.2008'
+    area_size: 0.002
+    founded_on: 27.02.1998
 images:
     -
         file: af37a49b0a7488d5677665fe3092b593.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.558181'
             lon: '27.130126'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.558253
+            lon: 27.130033
+        source: gov
 meta:
     fgb:
         post_id: '75568'

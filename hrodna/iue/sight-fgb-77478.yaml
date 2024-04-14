@@ -4,6 +4,10 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Ясень пенсильванский аукуболистный «Жемыславский»'
+    type: 'ботанический памятник природы'
+    status: республиканский
 images:
     -
         file: 2da19d54eb478b83a78fa511ff12078c.jpg
@@ -22,6 +26,12 @@ location:
             lat: 54.13186
             lon: 25.76483
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.131861
+            lon: 25.764833
+        source: gov
 meta:
     fgb:
         post_id: '77478'

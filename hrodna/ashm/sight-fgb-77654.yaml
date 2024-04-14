@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Бородовщинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00066
+    founded_on: 16.02.1995
 images:
     -
         file: 81d26587b4c90de36ebc701c59c710ca.jpg
@@ -48,6 +54,12 @@ location:
             lat: '54.253720'
             lon: '26.133616'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.25372
+            lon: 26.133616
+        source: gov
 meta:
     fgb:
         post_id: '77654'

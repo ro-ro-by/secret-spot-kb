@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Чистая дубрава “Язненская”'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 22.0
+    founded_on: 05.05.2007
 images:
     -
         file: 5bbc8c45ee52fdbccbe4c2894f9fed6d.jpg
@@ -24,6 +30,12 @@ location:
             lat: 55.395694
             lon: 28.05575
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.395694
+            lon: 28.05575
+        source: gov
 meta:
     fgb:
         post_id: '76933'

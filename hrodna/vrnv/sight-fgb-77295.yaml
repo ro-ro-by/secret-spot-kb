@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Большой камень толочкинский'
+    type: 'геологический памятник природы'
+    status: 'местный , 28.10.2002'
+    founded_on: 31.10.1997
 images:
     -
         file: 8a90ebf741dc172a82e3d8b899206535.jpg
@@ -38,6 +43,12 @@ location:
             lat: '53.912572'
             lon: '24.825966'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.912556
+            lon: 24.825972
+        source: gov
 meta:
     fgb:
         post_id: '77295'

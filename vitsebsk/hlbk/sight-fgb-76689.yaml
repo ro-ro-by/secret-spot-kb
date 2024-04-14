@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун “Камень с рыбками”'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0003
+    founded_on: 18.03.2008
 images:
     -
         file: 0e6010d8933725f690f7ee5da6827e50.jpg
@@ -52,6 +58,12 @@ location:
             lat: '55.274528'
             lon: '28.058952'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.293019
+            lon: 28.068203
+        source: gov
 meta:
     fgb:
         post_id: '76689'

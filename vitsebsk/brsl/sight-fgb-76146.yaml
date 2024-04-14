@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Камень в придатках» сиповичский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00105
+    founded_on: 19.03.2007
 images:
     -
         file: 794cb865f496afe4ac77717fda6a7958.jpg
@@ -24,6 +30,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76146'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.428291
+            lon: 26.747151
+        source: gov
 meta:
     fgb:
         post_id: '76146'

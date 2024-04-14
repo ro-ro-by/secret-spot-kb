@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Гомельский родник'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 20.08.2021'
+    area_size: 1.0
+    founded_on: 23.05.2001
 images:
     -
         file: ac4046429ea6ccf9938864889d6e4a86.jpg
@@ -22,6 +28,12 @@ location:
             lat: '55.29331'
             lon: '28.75347'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.29331
+            lon: 28.75347
+        source: gov
 meta:
     fgb:
         post_id: '77017'

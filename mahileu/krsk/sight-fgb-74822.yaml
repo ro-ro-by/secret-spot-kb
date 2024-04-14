@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+gov:
+    title: 'Заказник «Любин бор»'
+    type: заказник
+    status: 'местный , 02.11.2011'
+    area_size: 392.0
+    founded_on: 18.12.2006
 images:
     -
         file: 956d140bc04fde5147a4dc2b4b5efdf7.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74822'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.264319
+            lon: 29.183084
+        source: gov
 meta:
     fgb:
         post_id: '74822'

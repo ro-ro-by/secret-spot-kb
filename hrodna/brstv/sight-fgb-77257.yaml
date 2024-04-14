@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Старинная парковая усадьба «Старый Дворец»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 24.06.2016'
+    area_size: 7.69
+    founded_on: 24.10.2003
 images:
     -
         file: 6785d6274abd2209ae55d90aa2a51f33.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.25944
             lon: 24.11889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.258396
+            lon: 24.119448
+        source: gov
 meta:
     fgb:
         post_id: '77257'

@@ -3,8 +3,21 @@ title: 'Гичицкие березы'
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Гичицкие березы'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 1.41
+    founded_on: 12.10.2021
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.662749
+            lon: 25.410768
+        source: gov
 meta:
     source:
         -

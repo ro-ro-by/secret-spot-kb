@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Приреченская дюна'
+    type: 'геологический памятник природы'
+    status: 'местный , 15.04.2010'
+    area_size: 40.01
+    founded_on: 30.12.1997
 images:
     -
         file: e52d932d7c530ace8bf2068db53b0ce1.jpg
@@ -28,6 +34,12 @@ location:
             lat: '53.22396'
             lon: '25.27875'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 53.223775
+            lon: 25.259792
+        source: gov
 meta:
     fgb:
         post_id: '77703'

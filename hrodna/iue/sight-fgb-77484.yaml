@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Валун «Большой камень» гудишкинский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.001782
+    founded_on: 31.07.2006
 images:
     -
         file: c551b1d882c3696a25f8d5790d92f07f.jpg
@@ -31,6 +37,12 @@ location:
             lat: '53.979028'
             lon: '26.118420'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.979028
+            lon: 26.11842
+        source: gov
 meta:
     fgb:
         post_id: '77484'

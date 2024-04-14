@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: '«Природная криница д.Тупичино»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 27.01.2023'
+    area_size: 0.003
+    founded_on: 04.12.2002
 images:
     -
         file: 98e1457ff3c38e0449043199fc2ca69a.jpg
@@ -20,6 +26,12 @@ location:
             lat: '53.39027'
             lon: '32.23773'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.39027
+            lon: 32.23773
+        source: gov
 meta:
     fgb:
         post_id: '74993'

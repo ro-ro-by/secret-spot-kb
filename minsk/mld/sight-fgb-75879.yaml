@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Криница «Лешно»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.2
+    founded_on: 28.10.2008
 images:
     -
         file: 720e36a45f3efa1dd566c932643ae2cd.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.30322'
             lon: '26.73713'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.30322
+            lon: 26.73713
+        source: gov
 meta:
     fgb:
         post_id: '75879'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Заказник "Дивин-Великий лес"'
+    type: заказник
+    status: 'местный , 21.04.2009'
+    area_size: 6769.94
+    founded_on: 17.12.1997
 images:
     -
         file: 1f29af0a160502bf2cb70e8018f6a90c.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74609'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.989664
+            lon: 24.634353
+        source: gov
 meta:
     fgb:
         post_id: '74609'

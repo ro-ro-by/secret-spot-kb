@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-drb
+gov:
+    title: 'Обнажение «Добруш»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.6
+    founded_on: 31.07.2006
 images:
     -
         file: 47d0bc51ff2c2e8b79d5d8e6ded7a8a4.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75253'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.429227
+            lon: 31.32532
+        source: gov
 meta:
     fgb:
         post_id: '75253'

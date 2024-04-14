@@ -4,6 +4,19 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гора «Пустовины»'
+    type: 'геологический памятник природы'
+    status: 'местный , 05.12.2023'
+    area_size: 33.51
+    founded_on: 28.10.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93186
+            lon: 27.296934
+        source: gov
 meta:
     fgb:
         post_id: '75930'

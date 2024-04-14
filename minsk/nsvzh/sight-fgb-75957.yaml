@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Лесопарк «Альба»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 409.0
+    founded_on: 08.05.2007
 images:
     -
         file: 65eafce309c365e7b2d3cc4275dbadc9.jpg
@@ -20,6 +26,12 @@ location:
             lat: 53.197611
             lon: 26.645833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.19761
+            lon: 26.64583
+        source: gov
 meta:
     fgb:
         post_id: '75957'

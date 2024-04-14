@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Мочиловский валун - 1'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.0005
+    founded_on: 16.02.1995
 images:
     -
         file: 62296689e13671e8d0c914137b5dc528.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.357278'
             lon: '26.034512'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.357278
+            lon: 26.034512
+        source: gov
 meta:
     fgb:
         post_id: '77668'

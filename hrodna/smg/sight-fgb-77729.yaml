@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: «Валун-богатырь»
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000918
+    founded_on: 31.07.2006
 images:
     -
         file: 283c259174cec57b70cf45219baf1fe5.jpg
@@ -48,6 +54,12 @@ location:
             lat: '54.456646'
             lon: '26.494099'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.456646
+            lon: 26.494099
+        source: gov
 meta:
     fgb:
         post_id: '77729'

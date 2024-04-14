@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Заказник «Александрийские пригорки»'
+    type: заказник
+    status: 'местный , 28.10.2002'
+    area_size: 1800.0
+    founded_on: 31.10.1997
 images:
     -
         file: 53535221b8533fee647f54ade2573900.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77286'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.198729
+            lon: 25.474887
+        source: gov
 meta:
     fgb:
         post_id: '77286'

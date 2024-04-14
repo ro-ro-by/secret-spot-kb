@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Логойский парк'
+    type: 'ботанический памятник природы'
+    status: 'местный , 13.09.2022'
+    area_size: 13.39
+    founded_on: 27.10.2008
 images:
     -
         file: f3ce02b6b6d3b430cbef6d893847c94d.jpg
@@ -36,6 +42,12 @@ location:
             lat: 54.2055
             lon: 27.847611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.2055
+            lon: 27.847611
+        source: gov
 meta:
     fgb:
         post_id: '75741'

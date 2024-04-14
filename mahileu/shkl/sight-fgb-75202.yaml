@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-shkl
+gov:
+    title: 'Городской парк'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 20.0
+    founded_on: 28.11.2002
 images:
     -
         file: d338969e3c25ba49c2deb7fc62b4ae3f.jpg
@@ -37,6 +43,12 @@ location:
             osm:
                 type: way
                 id: 635431778
+    -
+        type: point
+        coordinates:
+            lat: 54.21281
+            lon: 30.290199
+        source: gov
 osm:
     -
         type: way

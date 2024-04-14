@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Криница «Горки»'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.01
+    founded_on: 09.12.2003
 images:
     -
         file: 50639beeaea2216c1839a29a5ee04074.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.54170'
             lon: '31.3295'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.5417
+            lon: 31.3295
+        source: gov
 meta:
     fgb:
         post_id: '75194'

@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Камень Припернянский'
+    type: 'геологический памятник природы'
+    status: 'местный , 04.01.2018'
+    area_size: 0.0028
+    founded_on: 23.02.2012
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.079028
+            lon: 27.642889
+        source: gov
 meta:
     fgb:
         post_id: '76703'

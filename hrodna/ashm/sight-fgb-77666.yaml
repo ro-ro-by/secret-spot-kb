@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Новодворский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 12.03.2018'
+    area_size: 0.00071
+    founded_on: 16.02.1995
 images:
     -
         file: 9cade9befeecf64d8c282621f9ae3c93.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.359320'
             lon: '26.002324'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.35932
+            lon: 26.002324
+        source: gov
 meta:
     fgb:
         post_id: '77666'

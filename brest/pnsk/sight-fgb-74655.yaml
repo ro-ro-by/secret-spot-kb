@@ -4,6 +4,19 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Приозерье Мшачье'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 11.1
+    founded_on: 31.12.2019
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.934532
+            lon: 25.726071
+        source: gov
 meta:
     fgb:
         post_id: '74655'

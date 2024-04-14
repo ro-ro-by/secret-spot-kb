@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Мартишкинский валун'
+    type: 'геологический памятник природы'
+    status: 'местный , 10.04.2018'
+    area_size: 0.0005
+    founded_on: 23.03.1995
 images:
     -
         file: c083e8550a9bb36cdb23508b1a67f8e5.jpg
@@ -28,6 +34,12 @@ location:
             lat: '54.546992'
             lon: '26.518381'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.546992
+            lon: 26.518381
+        source: gov
 meta:
     fgb:
         post_id: '77755'

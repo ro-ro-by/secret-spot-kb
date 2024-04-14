@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Чертов камень» богдановский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00105
+    founded_on: 19.03.2007
 images:
     -
         file: a5f5f3b271fe1210c39b1251f3d2812e.jpg
@@ -45,6 +51,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76166'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.482025
+            lon: 27.022216
+        source: gov
 meta:
     fgb:
         post_id: '76166'

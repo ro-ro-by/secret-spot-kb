@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Бородинский пригорок'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 20.0
+    founded_on: 29.03.2019
 images:
     -
         file: e8acfa9d14344a6c5ceb8bdc78dd6191.jpg
@@ -30,6 +36,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77068'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.031988
+            lon: 26.745163
+        source: gov
 meta:
     fgb:
         post_id: '77068'

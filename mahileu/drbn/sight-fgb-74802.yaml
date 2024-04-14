@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Голомукское»'
+    type: заказник
+    status: 'местный , 28.10.2008'
+    area_size: 153.0
+    founded_on: 27.02.2004
 images:
     -
         file: ed8c4767d3edaf9aaced5d557b1aeb12.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74802'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.050073
+            lon: 31.058796
+        source: gov
 meta:
     fgb:
         post_id: '74802'

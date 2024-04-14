@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник "Купаловский"'
+    type: заказник
+    status: республиканский
+    area_size: 3797.14
+    founded_on: 06.04.2000
 images:
     -
         file: bdebf2c05afdae8356c9dd56c117ed36.jpg
@@ -25,6 +31,12 @@ location:
             osm:
                 type: relation
                 id: 13218430
+    -
+        type: point
+        coordinates:
+            lat: 54.17427
+            lon: 27.53469
+        source: gov
 osm:
     -
         type: relation

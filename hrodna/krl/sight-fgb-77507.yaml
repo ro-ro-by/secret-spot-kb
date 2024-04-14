@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Валун «Большой камень» чижиновский'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.000928
+    founded_on: 18.01.2008
 images:
     -
         file: b61bf0c811f26bb0b9fb50ec19bd1db5.jpg
@@ -24,6 +30,13 @@ images:
                 post_id: '77507'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.526317
+            lon: 26.354855
+        source: gov
 meta:
     fgb:
         post_id: '77507'

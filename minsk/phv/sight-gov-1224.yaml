@@ -3,8 +3,21 @@ title: 'Заказник «Клетное»'
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Клетное»'
+    type: заказник
+    status: местный
+    area_size: 798.0
+    founded_on: 14.01.2013
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.340095
+            lon: 28.10864
+        source: gov
 meta:
     source:
         -

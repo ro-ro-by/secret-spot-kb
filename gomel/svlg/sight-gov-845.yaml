@@ -3,8 +3,21 @@ title: 'Заказник «Великий Мох»'
 belongsTo:
     region: region-gomel
     subregion: subregion-svlg
+gov:
+    title: 'Заказник «Великий Мох»'
+    type: заказник
+    status: 'местный , 25.10.2013'
+    area_size: 417.0
+    founded_on: 25.02.1994
 system:
     review-gov-duplicate: true
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.921703
+            lon: 29.174553
+        source: gov
 meta:
     source:
         -

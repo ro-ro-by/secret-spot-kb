@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Заказник "Ель"'
+    type: заказник
+    status: местный
+    area_size: 950.0
+    founded_on: 21.04.2009
 images:
     -
         file: df3215359b7463fdcf954747b32d04e1.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '74608'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.278678
+            lon: 24.635971
+        source: gov
 meta:
     fgb:
         post_id: '74608'

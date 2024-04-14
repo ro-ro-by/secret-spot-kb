@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Урочище Красное'
+    type: заказник
+    status: 'местный , 02.11.2021'
+    area_size: 345.8
+    founded_on: 14.07.1997
 images:
     -
         file: e8495f78c3f4db1f27a5a5545c7b81f4.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77487'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.905951
+            lon: 25.692458
+        source: gov
 meta:
     fgb:
         post_id: '77487'

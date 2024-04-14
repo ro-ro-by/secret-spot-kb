@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Торфяник Дубровка'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 11.07
+    founded_on: 30.11.2016
 images:
     -
         file: 122fec7daf1262d336da4cb66fe21723.png
@@ -33,6 +39,12 @@ location:
             osm:
                 type: relation
                 id: 97803876
+    -
+        type: point
+        coordinates:
+            lat: 52.130276
+            lon: 23.637852
+        source: gov
 osm:
     -
         type: relation

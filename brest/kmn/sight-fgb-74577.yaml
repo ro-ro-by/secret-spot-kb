@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Родник «Ставы»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 26.05.2016'
+    area_size: 0.2217
+    founded_on: 26.01.2006
 images:
     -
         file: e80352b26007219956453751e4582c57.jpg
@@ -20,6 +26,12 @@ location:
             lat: '52.22754'
             lon: '23.31889'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.22754
+            lon: 23.31889
+        source: gov
 meta:
     fgb:
         post_id: '74577'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Дубово-липовый массив «Белая дача»'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 2.0
+    founded_on: 12.10.2017
 images:
     -
         file: 5c43d164837c3fcdfb79264dc953edf7.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.852111
             lon: 27.508694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.852129
+            lon: 27.508648
+        source: gov
 meta:
     fgb:
         post_id: '75849'

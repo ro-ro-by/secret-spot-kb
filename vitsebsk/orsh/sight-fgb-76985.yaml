@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Холм «Ключниковский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 90.0
+    founded_on: 18.03.2008
 images:
     -
         file: d0caa3441360caaee425d10c7ad111b9.jpg
@@ -28,6 +34,12 @@ location:
             lat: 54.44791
             lon: 30.26712
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.4491
+            lon: 30.2625
+        source: gov
 meta:
     fgb:
         post_id: '76985'

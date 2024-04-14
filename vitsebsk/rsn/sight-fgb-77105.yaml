@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Валун Гречушинский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00061
+    founded_on: 31.12.2009
 images:
     -
         file: 477e81f1076a386d48d81dfbc698b863.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77105'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.868583
+            lon: 28.867667
+        source: gov
 meta:
     fgb:
         post_id: '77105'

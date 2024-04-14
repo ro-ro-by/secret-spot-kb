@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Республиканский ландшафтный заказник «Званец»'
+    type: заказник
+    status: 'республиканский , 01.02.2010'
+    area_size: 16227.0
+    founded_on: 11.04.1996
 images:
     -
         file: 611c1e9a32378c830421b55204a3bd3a.jpg
@@ -25,6 +31,12 @@ location:
             osm:
                 type: relation
                 id: 15748629
+    -
+        type: point
+        coordinates:
+            lat: 51.966939
+            lon: 24.992838
+        source: gov
 osm:
     -
         type: relation

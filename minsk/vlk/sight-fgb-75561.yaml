@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Образование «Синюха»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 5.6
+    founded_on: 19.03.2007
 images:
     -
         file: 3ed3edfea445d0b8ae90cc38a2178426.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75561'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.75453
+            lon: 27.49931
+        source: gov
 meta:
     fgb:
         post_id: '75561'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: 'Парк "Горни"'
+    type: 'ботанический памятник природы'
+    status: 'местный , 26.12.2016'
+    area_size: 6.73
+    founded_on: 24.12.1964
 images:
     -
         file: 0230efb46d111fb010dc9e0ef88fd552.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.851944
             lon: 25.275583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.852046
+            lon: 25.273875
+        source: gov
 meta:
     fgb:
         post_id: '77525'

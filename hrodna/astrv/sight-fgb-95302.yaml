@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Клеватишки
+    type: 'гидрологический памятник природы'
+    status: республиканский
+    area_size: 9.36
+    founded_on: 05.06.2015
 images:
     -
         file: 2002b301a6c85c487a9a5bd368842063.jpg
@@ -47,6 +53,12 @@ location:
             osm:
                 type: relation
                 id: 13513011
+    -
+        type: point
+        coordinates:
+            lat: 54.827891
+            lon: 25.83499
+        source: gov
 osm:
     -
         type: relation

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Зайцев угол'
+    type: 'ботанический памятник природы'
+    status: 'местный , 30.10.2002'
+    area_size: 93.8
+    founded_on: 20.06.1990
 images:
     -
         file: 4b01b5b90fa05ccc9051bfae06a2b8c0.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.381056
             lon: 32.683389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.381056
+            lon: 32.683389
+        source: gov
 meta:
     fgb:
         post_id: '75141'

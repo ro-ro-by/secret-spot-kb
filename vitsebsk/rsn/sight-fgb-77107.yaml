@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Сырный камень Россонский'
+    type: 'геологический памятник природы'
+    status: 'местный , 21.01.2019'
+    area_size: 0.00036
+    founded_on: 31.12.2009
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 55.77686
             lon: 29.22461
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.776861
+            lon: 29.224611
+        source: gov
 meta:
     fgb:
         post_id: '77107'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Заказник «Заозерье»'
+    type: заказник
+    status: 'республиканский , 20.12.2023'
+    area_size: 4172.01
+    founded_on: 27.12.2007
 images:
     -
         file: 3dcddd6fdb43f73294c088b3232003b9.jpg
@@ -23,6 +29,12 @@ location:
             osm:
                 type: way
                 id: 368945693
+    -
+        type: point
+        coordinates:
+            lat: 53.914928
+            lon: 29.453357
+        source: gov
 osm:
     -
         type: way

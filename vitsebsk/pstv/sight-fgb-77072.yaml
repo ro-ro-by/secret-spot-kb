@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Большой камень Чашковщинский'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.001
+    founded_on: 29.03.2019
 images:
     -
         file: 20aafdb729bbdc9b86f8588c958aa303.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77072'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.159289
+            lon: 27.087462
+        source: gov
 meta:
     fgb:
         post_id: '77072'

@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Саранчанские гряды»'
+    type: заказник
+    status: местный
+    area_size: 350.0
+    founded_on: 29.03.2019
 images:
     -
         file: 316a619db52f23bd316691be6ab9d624.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77054'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.017509
+            lon: 26.474801
+        source: gov
 meta:
     fgb:
         post_id: '77054'

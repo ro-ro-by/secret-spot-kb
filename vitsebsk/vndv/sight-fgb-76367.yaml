@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Сарьянский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 24.12.2020'
+    area_size: 0.006
+    founded_on: 29.12.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.873333
+            lon: 27.900556
+        source: gov
 meta:
     fgb:
         post_id: '76367'

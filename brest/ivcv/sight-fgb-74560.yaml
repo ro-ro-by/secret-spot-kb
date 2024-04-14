@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Надливская гряда'
+    type: 'ботанический памятник природы'
+    status: 'местный , 10.12.2021'
+    area_size: 173.79
+    founded_on: 14.12.2007
 images:
     -
         file: 45f7d073c82db81f88f38aaa020a0a33.jpg
@@ -20,6 +26,12 @@ location:
             lat: 52.615306
             lon: 25.812472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.615306
+            lon: 25.812472
+        source: gov
 meta:
     fgb:
         post_id: '74560'

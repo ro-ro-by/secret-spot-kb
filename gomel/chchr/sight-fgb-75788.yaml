@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-chchr
+gov:
+    title: 'Заказник «Пойма реки Сож»'
+    type: заказник
+    status: республиканский
+    area_size: 8563.72
+    founded_on: 04.02.2015
 images:
     -
         file: 5302059ebad3486b2c799c33ac095754.jpg
@@ -26,6 +32,12 @@ location:
             osm:
                 type: relation
                 id: 9256291
+    -
+        type: point
+        coordinates:
+            lat: 52.74239
+            lon: 30.9787
+        source: gov
 osm:
     -
         type: relation

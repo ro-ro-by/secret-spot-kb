@@ -4,6 +4,11 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Крошинский»'
+    type: 'ботанический памятник природы'
+    status: 'местный , 21.12.2010'
+    founded_on: 28.03.1994
 images:
     -
         file: b2f5fd0f3bd47546cf6e0e44caee1424.jpg
@@ -28,6 +33,12 @@ location:
             lat: 53.196389
             lon: 26.153056
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.196389
+            lon: 26.153056
+        source: gov
 meta:
     fgb:
         post_id: '70744'
