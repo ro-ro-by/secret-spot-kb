@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krg
+gov:
+    title: Криница
+    type: 'гидрологический памятник природы'
+    status: 'местный , 07.08.2020'
+    area_size: 0.001
+    founded_on: 28.10.2003
 images:
     -
         file: f3ee0945a31769b85f19db87f7cccfb3.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.16468'
             lon: '29.77858'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.16468
+            lon: 29.77858
+        source: gov
 meta:
     fgb:
         post_id: '75026'
@@ -41,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75026#75026'
                 version: '05 Oct 2021, Tue, 20:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1328'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-mlrt
 forest:
     dominated_type: spruce
+gov:
+    title: 'Островные ельники «Пожежинские»'
+    type: 'ботанический памятник природы'
+    status: республиканский
+    area_size: 68.0
+    founded_on: 05.05.2007
 images:
     -
         file: 959deac8e6da1bee6c4a7dc3d53298ae.jpg
@@ -30,6 +36,12 @@ location:
             lat: 51.876667
             lon: 23.981667
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.876667
+            lon: 23.981667
+        source: gov
 meta:
     fgb:
         post_id: '74632'
@@ -41,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74632#74632'
                 version: '22 Sep 2022, Thu, 22:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/86'

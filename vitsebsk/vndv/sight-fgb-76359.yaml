@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Дубовые насаждения'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 32.0
+    founded_on: 10.06.2011
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 55.973667
             lon: 28.066167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.973667
+            lon: 28.066167
+        source: gov
 meta:
     fgb:
         post_id: '76359'
@@ -22,3 +34,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76359#76359'
                 version: '23 Sep 2022, Fri, 0:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/942'

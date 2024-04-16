@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Криница «Бацевичская»'
+    type: 'гидрологический памятник природы'
+    status: 'местный , 23.05.2023'
+    area_size: 0.008
+    founded_on: 16.10.2006
 images:
     -
         file: 772d4ede440b7d5faa42f3ea8d66b3ab.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.39283'
             lon: '29.22382'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.39283
+            lon: 29.22382
+        source: gov
 meta:
     fgb:
         post_id: '74953'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74953#74953'
                 version: '17 Sep 2021, Fri, 23:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1275'

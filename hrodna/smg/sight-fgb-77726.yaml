@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: «Валун»
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.0009
+    founded_on: 31.07.2006
 images:
     -
         file: 94c96ee78753ccace55968c00c2450f9.jpg
@@ -22,6 +28,12 @@ location:
             lat: '54.301893'
             lon: '26.337267'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.301893
+            lon: 26.337267
+        source: gov
 meta:
     fgb:
         post_id: '77726'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77726#77726'
                 version: '08 Nov 2021, Mon, 12:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/594'

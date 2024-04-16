@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: Дубрава
+    type: 'ботанический памятник природы'
+    status: 'местный , 22.07.2008'
+    area_size: 8.1
+    founded_on: 17.12.2001
 images:
     -
         file: c08f62e03481888650095e6f0f1a20aa.jpg
@@ -24,6 +30,12 @@ location:
             lat: 52.20961
             lon: 30.97108
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.209611
+            lon: 30.971083
+        source: gov
 meta:
     fgb:
         post_id: '75244'
@@ -35,3 +47,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75244#75244'
                 version: '03 Nov 2022, Thu, 12:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/701'

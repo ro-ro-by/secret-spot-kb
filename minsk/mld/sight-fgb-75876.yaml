@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Гора «Курган»'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.6
+    founded_on: 28.10.2008
 images:
     -
         file: 8ea8e27c2019f847b5d73adb390acc7f.jpg
@@ -29,6 +35,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75876'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.252588
+            lon: 26.551079
+        source: gov
 meta:
     fgb:
         post_id: '75876'
@@ -40,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75876#75876'
                 version: '28 Sep 2021, Tue, 15:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1207'

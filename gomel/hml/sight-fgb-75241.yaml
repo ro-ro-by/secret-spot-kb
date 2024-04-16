@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-hml
+gov:
+    title: 'Насаждения сосны'
+    type: 'ботанический памятник природы'
+    status: 'местный , 22.07.2008'
+    area_size: 3.5
+    founded_on: 31.08.2004
 images:
     -
         file: 1553a2ca7a8eae13394813e6a324b014.jpg
@@ -28,6 +34,12 @@ location:
             lat: 52.32183
             lon: 30.79125
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.321833
+            lon: 30.79125
+        source: gov
 meta:
     fgb:
         post_id: '75241'
@@ -39,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75241#75241'
                 version: '03 Nov 2022, Thu, 12:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/703'

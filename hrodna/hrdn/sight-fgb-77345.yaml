@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник 100 криниц'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 0.205
+    founded_on: 25.08.2023
 images:
     -
         file: 23c01af47f0572f250f93c4154e7bfb9.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.83827'
             lon: '23.89327'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.838269
+            lon: 23.893269
+        source: gov
 meta:
     fgb:
         post_id: '77345'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77345#77345'
                 version: '27 Jul 2021, Tue, 20:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/794'

@@ -4,6 +4,19 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Янопольский большой камень'
+    type: 'геологический памятник природы'
+    status: 'местный , 09.04.2020'
+    area_size: 0.00087
+    founded_on: 23.09.2011
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.662258
+            lon: 27.570686
+        source: gov
 meta:
     fgb:
         post_id: '76949'
@@ -15,3 +28,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76949#76949'
                 version: '18 Aug 2022, Thu, 20:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/997'

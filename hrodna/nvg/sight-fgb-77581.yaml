@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Валун «Запольский»'
+    type: 'геологический памятник природы'
+    status: республиканский
+    area_size: 0.00027
+    founded_on: 18.01.2008
 images:
     -
         file: 1b50e7f4381c2729190465ca5a8447ff.jpg
@@ -39,6 +45,12 @@ location:
             lat: '53.428841'
             lon: '25.732445'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.428841
+            lon: 25.732445
+        source: gov
 meta:
     fgb:
         post_id: '77581'
@@ -50,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77581#77581'
                 version: '30 Oct 2021, Sat, 22:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/506'

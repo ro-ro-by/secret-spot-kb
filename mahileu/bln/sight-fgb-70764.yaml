@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+gov:
+    title: 'Клевский дуб 1'
+    type: 'ботанический памятник природы'
+    status: 'местный , 02.12.2018'
+    area_size: 0.0254
+    founded_on: 22.11.2006
 images:
     -
         file: fbd1584f0f4dedb06f6d6c20994d2fb9.jpg
@@ -62,6 +68,12 @@ location:
             lat: 54.034306
             lon: 29.437694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.034306
+            lon: 29.437694
+        source: gov
 meta:
     fgb:
         post_id: '70764'
@@ -73,3 +85,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70764#70764'
                 version: '11 Nov 2022, Fri, 0:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1320'

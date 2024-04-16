@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Насаждение дуба черешчатого'
+    type: 'ботанический памятник природы'
+    status: 'местный , 18.05.2016'
+    area_size: 9.3
+    founded_on: 24.10.2008
 images:
     -
         file: 443327e66e34c1b5f23737d66dd02191.jpg
@@ -22,6 +28,12 @@ location:
             lat: 52.756417
             lon: 28.132583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.756417
+            lon: 28.132583
+        source: gov
 meta:
     fgb:
         post_id: '75769'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75769#75769'
                 version: '10 Nov 2022, Thu, 22:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1212'

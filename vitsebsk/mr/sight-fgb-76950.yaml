@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Гирьятский большой камень'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.00104
+    founded_on: 09.04.2020
 images:
     -
         file: b4d1969e79a014619a1d9009942cc2f9.jpg
@@ -15,6 +21,13 @@ images:
                 post_id: '76950'
         meta:
             author: 'Леонид Мателенок'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.65955
+            lon: 27.661025
+        source: gov
 meta:
     fgb:
         post_id: '76950'
@@ -26,3 +39,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76950#76950'
                 version: '30 Apr 2021, Fri, 18:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/876'

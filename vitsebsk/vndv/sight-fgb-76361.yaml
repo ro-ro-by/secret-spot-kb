@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубовые насаждения'
+    type: 'ботанический памятник природы'
+    status: местный
+    area_size: 62.0
+    founded_on: 10.06.2011
 images:
     -
         file: f17cde2962661dc10134b7ffff81444a.jpg
@@ -24,6 +30,12 @@ location:
             lat: 55.7495
             lon: 28.095694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.7495
+            lon: 28.095694
+        source: gov
 meta:
     fgb:
         post_id: '76361'
@@ -35,3 +47,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76361#76361'
                 version: '15 Nov 2022, Tue, 16:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/943'

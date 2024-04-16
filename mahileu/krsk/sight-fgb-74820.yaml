@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-krsk
 forest:
     dominated_type: oak
+gov:
+    title: 'Дубовая роща'
+    type: 'ботанический памятник природы'
+    status: 'местный , 18.01.2012'
+    area_size: 19.3
+    founded_on: 18.12.2006
 location:
     -
         type: point
@@ -13,6 +19,12 @@ location:
             lat: 53.201917
             lon: 29.278694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.201917
+            lon: 29.278694
+        source: gov
 meta:
     fgb:
         post_id: '74820'
@@ -24,3 +36,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74820#74820'
                 version: '11 Nov 2022, Fri, 1:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1317'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Заказник «Озеры»'
+    type: заказник
+    status: 'республиканский , 19.02.2016'
+    area_size: 23364.05
+    founded_on: 05.03.1990
 images:
     -
         file: 8c2774f4a4f8769367bcfa69100771fd.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 7921072
+    -
+        type: point
+        coordinates:
+            lat: 53.721583
+            lon: 24.174212
+        source: gov
 osm:
     -
         type: relation
@@ -53,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77796#77796'
                 version: '30 Oct 2021, Sat, 13:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/115'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Гора «Маяк»'
+    type: 'геологический памятник природы'
+    status: местный
+    area_size: 0.4
+    founded_on: 28.10.2008
 images:
     -
         file: 4fe599f5d60a0e5de546bb42a33bbc3f.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75877'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.27597
+            lon: 26.53227
+        source: gov
 meta:
     fgb:
         post_id: '75877'
@@ -32,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75877#75877'
                 version: '28 Sep 2021, Tue, 15:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1208'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Родник Чапских'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 3.14
+    founded_on: 17.12.2020
 images:
     -
         file: 3941993a73c8250fcd4d0d203c98550b.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.78906'
             lon: '27.45358'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.788917
+            lon: 27.453556
+        source: gov
 meta:
     fgb:
         post_id: '90050'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=90050#90050'
                 version: '26 Jan 2021, Tue, 14:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1194'

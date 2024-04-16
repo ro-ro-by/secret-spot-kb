@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Прилукский родник'
+    type: 'гидрологический памятник природы'
+    status: местный
+    area_size: 3.14
+    founded_on: 17.12.2020
 images:
     -
         file: 5b668aea0e784488f34320b139476026.jpg
@@ -22,6 +28,12 @@ location:
             lat: '53.79049'
             lon: '27.44767'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.790472
+            lon: 27.447722
+        source: gov
 meta:
     fgb:
         post_id: '90051'
@@ -33,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=90051#90051'
                 version: '04 Apr 2022, Mon, 13:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1193'

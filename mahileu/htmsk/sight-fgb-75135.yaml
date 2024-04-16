@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Эталонное насаждение сосны'
+    type: 'ботанический памятник природы'
+    status: 'местный , 12.08.2011'
+    area_size: 15.0
+    founded_on: 29.10.2003
 images:
     -
         file: 1219577524ee6f378ff4f8532a2cc767.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.338
             lon: 32.532611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.338
+            lon: 32.532611
+        source: gov
 meta:
     fgb:
         post_id: '75135'
@@ -39,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75135#75135'
                 version: '10 Nov 2022, Thu, 23:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1352'

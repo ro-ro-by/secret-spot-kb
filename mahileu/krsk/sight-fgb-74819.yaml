@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+gov:
+    title: 'Парк «Булгаков»'
+    type: 'ботанический памятник природы'
+    status: 'республиканский , 05.09.2022'
+    area_size: 8.6227
+    founded_on: 08.05.2007
 images:
     -
         file: 3fc2a7e264e11b159dc8fb94d26c0475.jpg
@@ -28,6 +34,12 @@ location:
             lat: 53.156333
             lon: 29.690111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.155792
+            lon: 29.689097
+        source: gov
 meta:
     fgb:
         post_id: '74819'
@@ -39,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74819#74819'
                 version: '10 Nov 2022, Thu, 23:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/469'

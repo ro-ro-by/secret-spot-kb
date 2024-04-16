@@ -9,10 +9,10 @@ forest:
     types:
         - oak
 gov:
-    title: Дубрава-5
+    title: Дубрава-1
     type: 'ботанический памятник природы'
     status: 'местный , 26.10.2021'
-    area_size: 25.0
+    area_size: 19.4
     founded_on: 11.12.2006
 location:
     -
@@ -26,6 +26,12 @@ location:
         coordinates:
             lat: 52.736083
             lon: 28.405472
+        source: gov
+    -
+        type: point
+        coordinates:
+            lat: 52.742222
+            lon: 28.376611
         source: gov
 meta:
     fgb:
@@ -42,3 +48,7 @@ meta:
             type: web
             web:
                 url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1289'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1285'
