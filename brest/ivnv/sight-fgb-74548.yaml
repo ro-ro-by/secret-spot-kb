@@ -7,11 +7,11 @@ belongsTo:
 forest:
     dominated_type: pine
 gov:
-    title: 'Веймутовы сосны'
+    title: 'Дружиловичский бор'
     type: 'ботанический памятник природы'
-    status: 'местный , 16.05.2016'
-    area_size: 0.2195
-    founded_on: 27.03.1995
+    status: местный
+    area_size: 0.4
+    founded_on: 10.09.2021
 images:
     -
         file: b0a1b549fef7b7c8bbd44b3bfc1e449f.jpg
@@ -47,8 +47,8 @@ location:
     -
         type: point
         coordinates:
-            lat: 52.216667
-            lon: 25.555833
+            lat: 52.234444
+            lon: 25.573611
         source: gov
 meta:
     fgb:
@@ -65,7 +65,3 @@ meta:
             type: web
             web:
                 url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/139'
-        -
-            type: web
-            web:
-                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/138'

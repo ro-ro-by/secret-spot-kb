@@ -1,0 +1,27 @@
+id: sight-gov-138
+title: 'Веймутовы сосны'
+type: forest
+belongsTo:
+    region: region-brest
+    subregion: subregion-ivnv
+forest:
+    dominated_type: pine
+gov:
+    title: 'Веймутовы сосны'
+    type: 'ботанический памятник природы'
+    status: 'местный , 16.05.2016'
+    area_size: 0.2195
+    founded_on: 27.03.1995
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.216667
+            lon: 25.555833
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/138'
