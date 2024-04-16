@@ -7,7 +7,7 @@ belongsTo:
 gov:
     title: 'Клевский дуб 3'
     type: 'ботанический памятник природы'
-    status: 'местный , 02.12.2018'
+    status: местный
     founded_on: 22.11.2006
 system:
     review-gov-duplicate: true
