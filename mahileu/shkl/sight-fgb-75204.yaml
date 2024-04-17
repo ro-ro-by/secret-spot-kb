@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-shkl
+gov:
+    title: 'Родник «Серебрянка»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 28.11.2002
 images:
     -
         file: 830aecbda926891f4eca5bb3d360148e.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '75204'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.199623
+            lon: 30.286341
+        source: gov
 meta:
     fgb:
         post_id: '75204'
@@ -24,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75204#75204'
                 version: '15 Nov 2021, Mon, 13:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1344'

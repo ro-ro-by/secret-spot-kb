@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Памятник природы «Стайки»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 1.4
+    founded_on: 26.01.2016
 images:
     -
         file: d0c3a8e2df9bff100064a8ca103e4d4b.jpg
@@ -20,6 +26,12 @@ location:
             lat: '55.78412'
             lon: '27.53601'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.78412
+            lon: 27.53601
+        source: gov
 meta:
     fgb:
         post_id: '86901'
@@ -31,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=86901#86901'
                 version: '30 Apr 2021, Fri, 18:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/444'

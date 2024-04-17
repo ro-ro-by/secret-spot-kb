@@ -4,12 +4,6 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
-gov:
-    title: 'Родниково-ручьевой природный комплекс «Святого Яна»'
-    type: gov_type-monument_hydrological
-    status: gov_status-local
-    area_size: 0.785
-    founded_on: 29.12.2014
 images:
     -
         file: ec6cb2ef121fbe4cc4b1333e51d84230.jpg
@@ -28,12 +22,6 @@ location:
             lat: '52.31208'
             lon: '25.56315'
         source: fgb
-    -
-        type: point
-        coordinates:
-            lat: 55.171569
-            lon: 28.087408
-        source: gov
 meta:
     fgb:
         post_id: '74556'
@@ -45,7 +33,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74556#74556'
                 version: '06 Oct 2021, Wed, 20:19'
-        -
-            type: web
-            web:
-                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/915'

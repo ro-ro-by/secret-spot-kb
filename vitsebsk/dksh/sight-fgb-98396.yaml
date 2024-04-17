@@ -4,19 +4,6 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
-gov:
-    title: 'Парк Великорита'
-    type: gov_type-monument_botanical
-    status: gov_status-local
-    area_size: 3.74
-    founded_on: 31.12.2021
-location:
-    -
-        type: point
-        coordinates:
-            lat: 51.936194
-            lon: 24.067806
-        source: gov
 meta:
     fgb:
         post_id: '98396'
@@ -28,7 +15,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98396#98396'
                 version: '04 Aug 2021, Wed, 22:58'
-        -
-            type: web
-            web:
-                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/177'

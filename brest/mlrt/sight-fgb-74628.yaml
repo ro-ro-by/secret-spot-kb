@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Парк Великорита'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.74
+    founded_on: 31.12.2021
 location:
     -
         type: point
@@ -11,6 +17,12 @@ location:
             lat: 51.936194
             lon: 24.067806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: gov
 meta:
     fgb:
         post_id: '74628'
@@ -22,3 +34,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74628#74628'
                 version: '22 Sep 2022, Thu, 22:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/177'

@@ -4,12 +4,6 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
-gov:
-    title: 'Памятник природы «Стайки»'
-    type: gov_type-monument_hydrological
-    status: gov_status-country
-    area_size: 1.4
-    founded_on: 26.01.2016
 images:
     -
         file: c9087090d8590cb0fecdbd064400f067.jpg
@@ -28,12 +22,6 @@ location:
             lat: '53.80288'
             lon: '27.73176'
         source: fgb
-    -
-        type: point
-        coordinates:
-            lat: 55.78412
-            lon: 27.53601
-        source: gov
 meta:
     fgb:
         post_id: '78720'
@@ -45,7 +33,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78720#78720'
                 version: '26 Jan 2021, Tue, 11:58'
-        -
-            type: web
-            web:
-                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/444'
