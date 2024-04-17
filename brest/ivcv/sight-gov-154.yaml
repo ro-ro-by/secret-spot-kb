@@ -1,17 +1,17 @@
 id: sight-gov-154
 title: 'Ивацевичское криволесье'
-type: TODO
+type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+forest:
+    dominated_type: pine
 gov:
     title: 'Ивацевичское криволесье'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 1.28
     founded_on: 12.10.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

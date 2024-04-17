@@ -1,17 +1,17 @@
 id: sight-gov-149
 title: 'Телеханский плющевник'
-type: TODO
+type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+forest:
+    dominated_type: ivy
 gov:
     title: 'Телеханский плющевник'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 3.2
     founded_on: 12.10.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

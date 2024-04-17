@@ -1,6 +1,6 @@
 id: sight-gov-986
 title: 'Заказник «Суражский»'
-type: TODO
+type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 11025.92
     founded_on: 30.12.2022
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

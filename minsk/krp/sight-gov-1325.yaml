@@ -1,6 +1,6 @@
 id: sight-gov-1325
 title: 'Клевский дуб 3'
-type: TODO
+type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
@@ -9,8 +9,8 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-local
     founded_on: 22.11.2006
-system:
-    review-gov-duplicate: true
+tree:
+    type: oak
 location:
     -
         type: point

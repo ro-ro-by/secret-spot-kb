@@ -1,6 +1,6 @@
 id: sight-gov-813
 title: 'Заказник «Галло»'
-type: TODO
+type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-elsk
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 1150.96
     founded_on: 29.12.2014
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

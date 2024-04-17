@@ -1,17 +1,17 @@
 id: sight-gov-941
 title: 'Дубовые насаждения'
-type: TODO
+type: forest
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+forest:
+    dominated_type: oak
 gov:
     title: 'Дубовые насаждения'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 56.0
     founded_on: 10.06.2011
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

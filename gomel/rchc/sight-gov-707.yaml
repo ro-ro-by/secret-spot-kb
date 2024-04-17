@@ -1,17 +1,17 @@
 id: sight-gov-707
 title: 'Насаждения сосны'
-type: TODO
+type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+forest:
+    dominated_type: pine
 gov:
     title: 'Насаждения сосны'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 3.3
     founded_on: 23.01.1990
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

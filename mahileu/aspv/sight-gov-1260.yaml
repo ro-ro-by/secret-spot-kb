@@ -1,17 +1,17 @@
 id: sight-gov-1260
 title: Дубрава
-type: TODO
+type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+forest:
+    dominated_type: oak
 gov:
     title: Дубрава
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 17.76
     founded_on: 16.10.2006
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

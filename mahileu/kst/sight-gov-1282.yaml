@@ -1,6 +1,6 @@
 id: sight-gov-1282
 title: 'Жабыковский старожил'
-type: TODO
+type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
@@ -10,8 +10,8 @@ gov:
     status: gov_status-local
     area_size: 0.0227
     founded_on: 29.04.2023
-system:
-    review-gov-duplicate: true
+tree:
+    type: oak
 location:
     -
         type: point

@@ -1,17 +1,17 @@
 id: sight-gov-1371
 title: 'Эталонное насаждение сосны'
-type: TODO
+type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+forest:
+    dominated_type: pine
 gov:
     title: 'Эталонное насаждение сосны'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 30.0
     founded_on: 29.10.2003
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

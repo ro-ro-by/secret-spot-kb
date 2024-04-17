@@ -1,6 +1,6 @@
 id: sight-gov-851
 title: 'Заказник «В пойме реки Дитва»'
-type: TODO
+type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 898.58
     founded_on: 17.04.1998
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

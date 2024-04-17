@@ -1,6 +1,6 @@
 id: sight-gov-133
 title: 'Белинский дуб'
-type: TODO
+type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-drh
@@ -10,8 +10,8 @@ gov:
     status: gov_status-local
     area_size: 0.01
     founded_on: 26.01.2021
-system:
-    review-gov-duplicate: true
+tree:
+    type: oak
 location:
     -
         type: point

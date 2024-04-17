@@ -1,6 +1,6 @@
 id: sight-gov-155
 title: Затишье
-type: TODO
+type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 2.76
     founded_on: 12.10.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

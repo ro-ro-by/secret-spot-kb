@@ -1,17 +1,17 @@
 id: sight-gov-1288
 title: Дубрава-4
-type: TODO
+type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+forest:
+    dominated_type: oak
 gov:
     title: Дубрава-4
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 9.0
     founded_on: 11.12.2006
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

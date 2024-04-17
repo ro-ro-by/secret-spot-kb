@@ -1,6 +1,6 @@
 id: sight-gov-151
 title: 'Святовольский ольс'
-type: TODO
+type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 4.1
     founded_on: 12.10.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

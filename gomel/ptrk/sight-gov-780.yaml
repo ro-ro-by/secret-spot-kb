@@ -1,17 +1,17 @@
 id: sight-gov-780
 title: Дубрава
-type: TODO
+type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+forest:
+    dominated_type: oak
 gov:
     title: Дубрава
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 20.2
     founded_on: 28.10.2004
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

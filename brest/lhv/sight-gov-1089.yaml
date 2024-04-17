@@ -1,6 +1,6 @@
 id: sight-gov-1089
 title: 'Заказник "Цыгане"'
-type: TODO
+type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 2181.75
     founded_on: 20.08.1990
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

@@ -1,9 +1,11 @@
 id: sight-fgb-75417
 title: Дубравы
-type: TODO
+type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+forest:
+    dominated_type: oak
 images:
     -
         file: 546e3d5cd7bb4d6b92bcc56c18fdb4f3.jpg

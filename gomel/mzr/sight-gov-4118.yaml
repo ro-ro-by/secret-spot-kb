@@ -1,17 +1,17 @@
 id: sight-gov-4118
 title: 'Дубрава «Любинская»'
-type: TODO
+type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+forest:
+    dominated_type: oak
 gov:
     title: 'Дубрава «Любинская»'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 3.68
     founded_on: 22.02.2008
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

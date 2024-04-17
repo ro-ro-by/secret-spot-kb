@@ -1,6 +1,6 @@
 id: sight-gov-166
 title: 'Видомлянская озерная котловина'
-type: TODO
+type: basin
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 1.48
     founded_on: 17.12.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

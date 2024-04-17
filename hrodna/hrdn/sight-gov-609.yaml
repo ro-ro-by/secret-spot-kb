@@ -1,6 +1,6 @@
 id: sight-gov-609
 title: 'Заказник «Друскеники»'
-type: TODO
+type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 5662.15
     founded_on: 12.12.2016
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

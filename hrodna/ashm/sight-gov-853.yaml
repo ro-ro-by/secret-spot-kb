@@ -1,6 +1,6 @@
 id: sight-gov-853
 title: 'Заказник «Микулишки»'
-type: TODO
+type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 1711.79
     founded_on: 21.02.2023
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

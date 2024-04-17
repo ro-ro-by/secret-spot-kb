@@ -1,6 +1,6 @@
 id: sight-gov-831
 title: 'Заказник «Урочище Заручевье»'
-type: TODO
+type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
@@ -10,8 +10,6 @@ gov:
     status: gov_status-local
     area_size: 460.92
     founded_on: 28.01.1998
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

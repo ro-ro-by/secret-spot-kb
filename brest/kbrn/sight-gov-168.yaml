@@ -1,17 +1,17 @@
 id: sight-gov-168
 title: 'Запрудский плющевник'
-type: TODO
+type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+forest:
+    dominated_type: ivy
 gov:
     title: 'Запрудский плющевник'
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 1.19
     founded_on: 06.12.2021
-system:
-    review-gov-duplicate: true
 location:
     -
         type: point

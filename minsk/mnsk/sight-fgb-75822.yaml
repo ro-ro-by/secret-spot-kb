@@ -1,6 +1,6 @@
 id: sight-fgb-75822
 title: 'Сросшиеся дуб и сосна'
-type: TODO
+type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
@@ -19,6 +19,8 @@ images:
             type: fgb
             fgb:
                 post_id: '75822'
+tree:
+    type: oak
 location:
     -
         type: point
