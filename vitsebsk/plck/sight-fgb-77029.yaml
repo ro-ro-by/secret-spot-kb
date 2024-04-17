@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: "Святой источник Угловской\_"
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 2.0
     founded_on: 23.05.2001
 location:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klch
 gov:
     title: 'Заказник «Лютино»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 182.97
     founded_on: 16.09.2008
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bshn
 gov:
     title: 'Заказник «Кораневский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 704.0
     founded_on: 09.04.2018
 system:

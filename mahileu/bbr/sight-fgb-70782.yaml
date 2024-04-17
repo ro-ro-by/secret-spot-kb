@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bbr
 gov:
     title: 'Заказник «Дубовский каскад озер»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1028.26
     founded_on: 19.12.2007
 images:

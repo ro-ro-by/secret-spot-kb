@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brnv
 gov:
     title: 'Дубы пирамидальные «Барановичские»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 0.0125
     founded_on: 22.12.1967
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ivnv
 gov:
     title: 'Заказник "Оброво"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 394.0
     founded_on: 20.02.1997
 images:

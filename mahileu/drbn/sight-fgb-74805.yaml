@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-drbn
 gov:
     title: 'Заказник «Братство»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 78.1
     founded_on: 27.02.2004
 images:

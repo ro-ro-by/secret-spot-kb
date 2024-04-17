@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klch
 gov:
     title: 'Криница на реке Несета'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.015
     founded_on: 16.10.2006
 images:

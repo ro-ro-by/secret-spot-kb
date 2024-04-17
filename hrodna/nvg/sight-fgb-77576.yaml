@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-nvg
 gov:
     title: Новогрудский
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1827.07
     founded_on: 28.10.1994
 images:

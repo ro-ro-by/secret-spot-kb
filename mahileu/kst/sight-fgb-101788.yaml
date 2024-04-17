@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kst
 gov:
     title: 'Заказник «Мохи»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 112.0
     founded_on: 09.03.1993
 location:

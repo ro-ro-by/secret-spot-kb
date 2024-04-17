@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ushch
 gov:
     title: 'Заказник «Черствятский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 66.36
     founded_on: 31.01.1996
 images:

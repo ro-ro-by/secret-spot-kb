@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlk
 gov:
     title: 'Родник «Святая вода»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 2.39
     founded_on: 25.10.2001
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smlv
 gov:
     title: 'Родник в урочище Тумель'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.01
     founded_on: 08.12.2008
 images:

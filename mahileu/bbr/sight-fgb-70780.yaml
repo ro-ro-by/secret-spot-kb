@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bbr
 gov:
     title: 'Луковая гора'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 27.36
     founded_on: 05.05.2023
 images:

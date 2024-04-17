@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hrdn
 gov:
     title: 'Гора чертовая Поречская'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 161.4
     founded_on: 20.12.2002
 images:

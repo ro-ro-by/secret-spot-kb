@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klch
 gov:
     title: 'Заказник «Мокрое-2»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 62.86
     founded_on: 30.03.2011
 images:

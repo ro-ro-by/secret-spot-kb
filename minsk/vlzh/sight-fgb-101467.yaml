@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlzh
 gov:
     title: 'Старинный дуб в окрестности деревни Боровиковщина'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.05
     founded_on: 16.10.2008
 images:

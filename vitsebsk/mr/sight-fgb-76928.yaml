@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mr
 gov:
     title: 'Заказник республиканского значения «Болото Мох»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 4602.03
     founded_on: 01.04.1981
 images:

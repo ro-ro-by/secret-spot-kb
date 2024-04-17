@@ -8,8 +8,8 @@ forest:
     dominated_type: oak
 gov:
     title: 'Отдельно стоящие деревья дуба'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 2.95
     founded_on: 17.12.2004
 images:

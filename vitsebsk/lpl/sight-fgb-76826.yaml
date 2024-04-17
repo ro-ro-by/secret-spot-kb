@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lpl
 gov:
     title: 'Заказник «Пышногоры»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 778.77
     founded_on: 26.04.1994
 images:

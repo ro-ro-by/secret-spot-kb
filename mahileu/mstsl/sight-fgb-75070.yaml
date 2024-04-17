@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mstsl
 gov:
     title: 'Заказник «Ширина и Подречье»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 236.06
     founded_on: 27.09.2006
 images:

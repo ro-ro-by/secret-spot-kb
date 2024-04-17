@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rchc
 gov:
     title: 'Два дуба'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.2
     founded_on: 03.12.2008
 images:

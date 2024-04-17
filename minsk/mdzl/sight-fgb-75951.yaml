@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mdzl
 gov:
     title: 'Памятник природы «Большой Болцикский»'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 0.2
     founded_on: 05.06.2015
 images:

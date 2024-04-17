@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chshn
 gov:
     title: 'Валун «Змеев камень»'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.02
     founded_on: 04.01.2012
 images:

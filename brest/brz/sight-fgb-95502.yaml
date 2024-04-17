@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brz
 gov:
     title: Бусловка
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 8099.16
     founded_on: 12.08.1997
 images:

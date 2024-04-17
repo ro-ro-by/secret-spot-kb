@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mr
 gov:
     title: 'Перебродский валун Следовик'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00041
     founded_on: 23.09.2011
 location:

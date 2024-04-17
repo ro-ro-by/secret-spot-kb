@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-svlg
 gov:
     title: 'Заказник «Чирковичский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 461.63
     founded_on: 16.08.1979
 images:

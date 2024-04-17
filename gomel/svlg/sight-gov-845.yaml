@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-svlg
 gov:
     title: 'Заказник «Великий Мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 417.0
     founded_on: 25.02.1994
 system:

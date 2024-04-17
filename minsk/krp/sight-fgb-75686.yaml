@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krp
 gov:
     title: 'Заказник «Денисовичский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 3050.59
     founded_on: 27.12.2007
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlbk
 gov:
     title: 'Заказник «Гурбы»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 475.48
     founded_on: 16.05.1996
 images:

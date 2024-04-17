@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chshn
 gov:
     title: 'Заказник «Липники»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1.3
     founded_on: 08.11.1999
 images:

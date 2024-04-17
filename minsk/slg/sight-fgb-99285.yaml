@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slg
 gov:
     title: 'Заказник «Старобинский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 5300.89
     founded_on: 29.06.2022
 images:

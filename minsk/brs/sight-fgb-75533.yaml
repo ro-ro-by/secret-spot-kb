@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brs
 gov:
     title: 'Валун «Быки»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.00096
     founded_on: 19.03.2007
 images:

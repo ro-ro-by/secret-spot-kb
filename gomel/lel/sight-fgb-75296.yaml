@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lel
 gov:
     title: Липа
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.005
     founded_on: 04.11.2008
 images:

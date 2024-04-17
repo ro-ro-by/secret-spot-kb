@@ -8,8 +8,8 @@ forest:
     dominated_type: oak
 gov:
     title: 'Участок дубово-ясеневого леса'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 76.12
     founded_on: 16.10.2006
 images:

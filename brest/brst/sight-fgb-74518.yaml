@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brst
 gov:
     title: 'Заказник "Бугский"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3285.06
     founded_on: 20.12.1999
 images:

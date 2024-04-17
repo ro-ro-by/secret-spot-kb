@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: 'Заказник «Гряда Замок Глинский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 580.0
     founded_on: 23.05.2001
 images:

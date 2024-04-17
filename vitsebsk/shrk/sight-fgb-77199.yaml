@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shrk
 gov:
     title: 'Заказник «Янка»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 5848.0
     founded_on: 04.02.2015
 images:

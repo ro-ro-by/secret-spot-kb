@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mld
 gov:
     title: 'Гора «Копланщина»'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 25.0
     founded_on: 28.10.2008
 images:

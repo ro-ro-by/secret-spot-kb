@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brzn
 gov:
     title: 'Заказник «Святое озеро»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 118.24
     founded_on: 13.01.2009
 location:

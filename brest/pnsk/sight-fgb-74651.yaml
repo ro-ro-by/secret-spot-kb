@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pnsk
 gov:
     title: 'Заказник "Ступское"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 879.0
     founded_on: 24.11.1992
 images:

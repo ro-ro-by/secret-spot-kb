@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlk
 gov:
     title: 'Парк «Луковец»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.26
     founded_on: 27.05.1987
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ushch
 gov:
     title: Тартак
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 34.5
     founded_on: 05.06.2015
 location:

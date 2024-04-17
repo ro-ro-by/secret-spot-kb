@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mzr
 gov:
     title: 'Заказник «Мозырские овраги»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1019.77
     founded_on: 21.02.1986
 images:

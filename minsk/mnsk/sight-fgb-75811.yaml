@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mnsk
 gov:
     title: 'Заказник «Прилукский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 523.06
     founded_on: 27.12.2007
 images:

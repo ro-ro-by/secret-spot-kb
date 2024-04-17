@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brsl
 gov:
     title: 'Карасинский родник'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 1.15
     founded_on: 15.01.2007
 images:

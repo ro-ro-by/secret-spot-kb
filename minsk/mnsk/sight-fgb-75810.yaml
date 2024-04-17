@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mnsk
 gov:
     title: 'Заказник «Подсады»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1038.84
     founded_on: 03.11.2022
 images:

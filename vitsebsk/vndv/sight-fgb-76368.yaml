@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vndv
 gov:
     title: 'Заказник «Красный Бор»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 35023.3
     founded_on: 29.07.1997
 images:

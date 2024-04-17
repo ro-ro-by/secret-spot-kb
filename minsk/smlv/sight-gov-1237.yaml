@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smlv
 gov:
     title: 'Заказник «Ивановский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 657.55
     founded_on: 09.03.2006
 system:

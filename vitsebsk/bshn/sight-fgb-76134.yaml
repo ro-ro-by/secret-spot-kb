@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bshn
 gov:
     title: 'Парк "Соломинка" в населенном пункте Добригоры'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 9.22
     founded_on: 20.07.2005
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-astrv
 gov:
     title: 'Дуб № 1'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.025
     founded_on: 28.09.1999
 images:

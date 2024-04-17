@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klck
 gov:
     title: 'Заказник «Колковский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 452.0
     founded_on: 12.12.2005
 images:

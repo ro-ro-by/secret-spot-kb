@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hncv
 gov:
     title: Еловский
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 959.2
     founded_on: 16.08.1979
 images:

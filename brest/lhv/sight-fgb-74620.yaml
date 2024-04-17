@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lhv
 gov:
     title: 'Заказник "Устье Мышанки"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2076.17
     founded_on: 02.12.2014
 location:

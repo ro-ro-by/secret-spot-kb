@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smg
 gov:
     title: 'Валун «Камень-горка»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.001295
     founded_on: 31.07.2006
 images:

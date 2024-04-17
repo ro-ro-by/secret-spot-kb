@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mld
 gov:
     title: 'Парк «Малиновщина»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 1.09
     founded_on: 28.10.2008
 images:

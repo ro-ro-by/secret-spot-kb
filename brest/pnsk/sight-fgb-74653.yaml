@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pnsk
 gov:
     title: 'Заказник "Ермаки"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 78.96
     founded_on: 25.11.1988
 images:

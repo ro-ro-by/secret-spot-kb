@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hml
 gov:
     title: 'Насаждения сосны'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.5
     founded_on: 31.08.2004
 images:

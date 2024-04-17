@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-orsh
 gov:
     title: 'Адровские овраги'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 33.0
     founded_on: 18.03.2011
 images:

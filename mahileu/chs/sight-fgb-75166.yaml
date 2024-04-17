@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chs
 gov:
     title: 'Заказник «Бордиловское-Кременец»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 626.0
     founded_on: 22.02.2006
 images:

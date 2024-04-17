@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zlv
 gov:
     title: 'Калининский камень'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     founded_on: 21.06.2010
 images:
     -

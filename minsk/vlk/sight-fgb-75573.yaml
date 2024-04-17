@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlk
 gov:
     title: 'Гора Мироткова'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 4.5
     founded_on: 27.02.1998
 images:

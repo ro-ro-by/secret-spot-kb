@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slnm
 gov:
     title: 'Дуб зимний «Сеньковщинский»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 0.03671
     founded_on: 26.04.2007
 images:

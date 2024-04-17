@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-snn
 gov:
     title: 'Заказник «Капланский Мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1248.03
     founded_on: 29.02.1996
 images:

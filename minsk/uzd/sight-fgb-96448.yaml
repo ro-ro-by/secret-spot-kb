@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-uzd
 gov:
     title: 'Заказник «Ленчино»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 362.22
     founded_on: 13.06.2008
 images:

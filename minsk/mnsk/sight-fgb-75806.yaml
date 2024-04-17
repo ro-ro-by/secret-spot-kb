@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mnsk
 gov:
     title: 'Заказник «Прилепский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 3242.0
     founded_on: 20.09.2000
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dksh
 gov:
     title: 'Заказник "Верхневилейский"'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 815.02
     founded_on: 21.03.1996
 images:

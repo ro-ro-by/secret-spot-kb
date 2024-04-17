@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlbk
 gov:
     title: 'Родниково-ручьевой природный комплекс «Рутковский»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.1962
     founded_on: 29.12.2014
 images:

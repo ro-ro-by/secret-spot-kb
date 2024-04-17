@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mld
 gov:
     title: 'Заказник «Сосна веймутова»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 54.0
     founded_on: 26.08.2004
 images:

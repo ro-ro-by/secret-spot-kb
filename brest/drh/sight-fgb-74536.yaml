@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-drh
 gov:
     title: Радостовский
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 6685.17
     founded_on: 22.08.1978
 images:

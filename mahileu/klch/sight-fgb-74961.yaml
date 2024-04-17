@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klch
 gov:
     title: 'Заказник «Большой мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 183.87
     founded_on: 16.10.2006
 images:

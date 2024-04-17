@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zlv
 gov:
     title: 'Заказник «Коревин луг»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 44.5
     founded_on: 22.10.2002
 images:

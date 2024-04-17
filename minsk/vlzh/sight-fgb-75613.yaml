@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlzh
 gov:
     title: 'Парк в д. Новый Двор'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.9
     founded_on: 16.10.2008
 location:

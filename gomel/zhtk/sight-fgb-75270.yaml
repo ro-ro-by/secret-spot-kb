@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhtk
 gov:
     title: 'Насаждения дуба'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 26.6
     founded_on: 24.03.2009
 images:

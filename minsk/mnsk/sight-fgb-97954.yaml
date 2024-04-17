@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mnsk
 gov:
     title: 'Заказник «Соколиный»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 20.9
     founded_on: 29.08.2011
 location:

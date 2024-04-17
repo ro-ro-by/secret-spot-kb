@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shrk
 gov:
     title: 'Торфяной заказник "Лесное"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4088.0
     founded_on: 24.08.1994
 location:

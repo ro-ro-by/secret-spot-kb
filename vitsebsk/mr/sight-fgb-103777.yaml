@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mr
 gov:
     title: 'Новолоцкие погурки'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 46.73
     founded_on: 23.09.2011
 images:

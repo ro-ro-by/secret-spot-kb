@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dzrzh
 gov:
     title: 'Два дуба в д. Ляховичи'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.058
     founded_on: 10.12.2007
 images:

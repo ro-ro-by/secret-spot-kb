@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-tlch
 gov:
     title: 'Заказник «Скрипутево»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 34.04
     founded_on: 24.06.2008
 images:

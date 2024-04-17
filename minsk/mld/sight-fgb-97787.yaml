@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mld
 gov:
     title: 'Заказник «Река Вязынка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 95.0
     founded_on: 27.05.2004
 images:

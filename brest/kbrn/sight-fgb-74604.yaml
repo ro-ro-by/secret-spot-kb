@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kbrn
 gov:
     title: Клища
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 18.1
     founded_on: 21.04.2009
 images:

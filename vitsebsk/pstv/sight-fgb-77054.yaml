@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pstv
 gov:
     title: 'Заказник «Саранчанские гряды»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 350.0
     founded_on: 29.03.2019
 images:

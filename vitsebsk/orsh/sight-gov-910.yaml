@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-orsh
 gov:
     title: 'Насаждение сосны обыкновенной «Сосновый парк»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 11.41
     founded_on: 02.08.2021
 system:

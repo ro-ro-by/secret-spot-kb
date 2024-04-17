@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ivcv
 gov:
     title: 'Заказник "Гривда"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 196.11
     founded_on: 19.06.1990
 images:

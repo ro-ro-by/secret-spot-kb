@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlzh
 gov:
     title: 'Казинская гора'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 12.05
     founded_on: 16.10.2008
 images:

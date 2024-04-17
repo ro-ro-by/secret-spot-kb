@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slg
 gov:
     title: 'Заказник «Гричино-Старобинский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 705.56
     founded_on: 27.07.2006
 images:

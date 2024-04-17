@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-nvg
 gov:
     title: Вселюбский
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3010.0
     founded_on: 23.12.1997
 images:

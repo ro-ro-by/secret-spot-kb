@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krp
 gov:
     title: 'Родник «Бобр»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.0015
     founded_on: 28.10.2008
 images:

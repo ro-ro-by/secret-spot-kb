@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bln
 gov:
     title: 'Заказник «Заболотье»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 516.4
     founded_on: 22.11.2006
 system:

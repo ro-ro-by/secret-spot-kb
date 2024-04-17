@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krl
 gov:
     title: 'Заказник «Свитязянский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1193.79
     founded_on: 18.06.1970
 images:

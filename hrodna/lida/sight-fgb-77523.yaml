@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lida
 gov:
     title: Докудовский
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 630.34
     founded_on: 05.03.1990
 images:

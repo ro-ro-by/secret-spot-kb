@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slg
 gov:
     title: 'Дуб черешчатый'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.003
     founded_on: 24.10.2008
 tree:

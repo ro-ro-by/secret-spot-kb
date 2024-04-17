@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-nvg
 gov:
     title: 'Графская пуща'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 9465.0
     founded_on: 11.12.2007
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhbnk
 gov:
     title: 'Здитовский сквер'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 5.973
     founded_on: 30.12.2019
 images:

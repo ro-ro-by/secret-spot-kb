@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-iue
 gov:
     title: 'Ясень пенсильванский аукуболистный «Жемыславский»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
 images:
     -
         file: 2da19d54eb478b83a78fa511ff12078c.jpg

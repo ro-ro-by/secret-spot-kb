@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chs
 gov:
     title: 'Родники «Байково»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.25
     founded_on: 22.02.2006
 images:

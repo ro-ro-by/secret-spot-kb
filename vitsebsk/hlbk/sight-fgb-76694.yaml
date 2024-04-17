@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlbk
 gov:
     title: 'Парк «Залесье»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 12.01
     founded_on: 04.01.2018
 location:

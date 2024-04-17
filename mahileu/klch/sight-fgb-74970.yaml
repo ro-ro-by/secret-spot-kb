@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klch
 gov:
     title: 'Заказник «Лозовица»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 368.29
     founded_on: 18.05.2021
 images:

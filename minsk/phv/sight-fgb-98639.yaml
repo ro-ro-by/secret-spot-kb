@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-phv
 gov:
     title: 'Заказник «Бытеньский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2223.11
     founded_on: 28.09.2006
 images:

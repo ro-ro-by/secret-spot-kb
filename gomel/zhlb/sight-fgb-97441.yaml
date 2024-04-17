@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhlb
 gov:
     title: 'Заказник «Калиновка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 8843.1
     founded_on: 15.12.2014
 images:

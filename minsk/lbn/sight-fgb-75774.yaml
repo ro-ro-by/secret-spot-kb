@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lbn
 gov:
     title: 'Родник Мало-Городятичского лесничества'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 3.3
     founded_on: 24.10.2008
 images:

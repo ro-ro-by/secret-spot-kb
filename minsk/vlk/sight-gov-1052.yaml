@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlk
 gov:
     title: 'Заказник «Бонда»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 356.0
     founded_on: 24.05.2013
 system:

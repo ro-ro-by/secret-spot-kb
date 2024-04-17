@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mlrt
 gov:
     title: Луково
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1594.07
     founded_on: 08.09.1968
 images:

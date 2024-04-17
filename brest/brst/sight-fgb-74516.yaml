@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brst
 gov:
     title: 'Заказник "Брестский"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 66.71
     founded_on: 29.08.1995
 images:

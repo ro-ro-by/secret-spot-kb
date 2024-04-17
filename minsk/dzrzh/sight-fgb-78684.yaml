@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dzrzh
 gov:
     title: 'Родник «Исток реки Птичи»'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 1.5
     founded_on: 12.08.2010
 images:

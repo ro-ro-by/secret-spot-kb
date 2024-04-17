@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-przh
 gov:
     title: 'Сквер Рекутя (Школьный дендрарий в г.п. Ружаны)'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.87
     founded_on: 16.01.1988
 images:

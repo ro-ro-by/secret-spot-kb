@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-tlch
 gov:
     title: 'Рацевский парк'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 10.98
     founded_on: 15.05.2020
 images:

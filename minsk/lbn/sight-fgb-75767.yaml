@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lbn
 gov:
     title: 'Дерево липы мелколистной в д. Юшковичи'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.002
     founded_on: 24.10.2008
 tree:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kmn
 gov:
     title: 'Парк культуры и отдыха в г. Высокое'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 20.48
     founded_on: 25.02.1964
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: 'Большой камень Бикульничский'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00115
     founded_on: 23.05.2001
 location:

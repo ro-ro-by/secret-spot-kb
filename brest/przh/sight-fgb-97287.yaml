@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-przh
 gov:
     title: 'Парк "Близная"'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 6.35
     founded_on: 13.11.2018
 images:

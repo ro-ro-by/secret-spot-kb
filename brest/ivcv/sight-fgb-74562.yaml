@@ -8,8 +8,8 @@ forest:
     dominated_type: birch_black
 gov:
     title: 'Турнянские чёрные берёзы'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 11.57
     founded_on: 18.12.2002
 images:

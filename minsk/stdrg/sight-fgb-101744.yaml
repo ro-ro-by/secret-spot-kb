@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-stdrg
 gov:
     title: 'Широколиственное насаждение Стародорожского лесхоза'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 6.66
     founded_on: 27.10.2020
 location:

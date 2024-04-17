@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-htmsk
 gov:
     title: 'Отдельно стоящая лиственница'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.0004
     founded_on: 30.07.1996
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lpl
 gov:
     title: 'Заказник «Какисино»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 132.26
     founded_on: 19.12.2008
 images:

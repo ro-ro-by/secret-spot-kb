@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krg
 gov:
     title: 'Заказник «Пойма реки Друть»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 314.0
     founded_on: 15.12.2003
 images:

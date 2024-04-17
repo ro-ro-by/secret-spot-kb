@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kpl
 gov:
     title: 'Парк «Бобовня»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 7.23
     founded_on: 30.11.2021
 images:

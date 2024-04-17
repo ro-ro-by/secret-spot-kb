@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-akt
 gov:
     title: 'Заказник «Бабинец»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 830.7
     founded_on: 16.08.1979
 images:

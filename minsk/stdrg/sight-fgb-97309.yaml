@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-stdrg
 gov:
     title: 'Заказник «Солон-Солянка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1920.6
     founded_on: 26.08.2008
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlsk
 gov:
     title: Дубрава-2
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 19.3
     founded_on: 11.12.2006
 system:

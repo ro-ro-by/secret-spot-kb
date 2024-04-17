@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chshn
 gov:
     title: 'Заказник «Селява»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 19364.83
     founded_on: 25.02.1993
 images:

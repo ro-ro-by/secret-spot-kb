@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kbrn
 gov:
     title: 'Заказник "Бобровина"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3655.9
     founded_on: 04.07.2016
 images:

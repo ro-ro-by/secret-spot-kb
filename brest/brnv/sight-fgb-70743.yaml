@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brnv
 gov:
     title: 'Родник «Ясенец»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.0009
     founded_on: 28.11.2000
 images:

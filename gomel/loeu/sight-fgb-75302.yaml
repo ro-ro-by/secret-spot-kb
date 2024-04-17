@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-loeu
 gov:
     title: 'Заказник «Днепро-Сожский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 14556.0
     founded_on: 05.08.1999
 images:

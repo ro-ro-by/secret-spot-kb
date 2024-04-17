@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brstv
 gov:
     title: 'Гродненская Свислочь'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4881.17
     founded_on: 24.05.2002
 images:

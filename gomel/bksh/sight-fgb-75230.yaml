@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bksh
 gov:
     title: 'Заказник «Буда-Кошелевский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 6720.63
     founded_on: 13.04.1988
 images:

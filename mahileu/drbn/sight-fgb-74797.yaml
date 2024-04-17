@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-drbn
 gov:
     title: Гонтовля
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.2
     founded_on: 26.02.2003
 images:

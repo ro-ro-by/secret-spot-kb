@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vrnv
 gov:
     title: 'Заказник «Мешкалы»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 72.0
     founded_on: 24.12.1992
 images:

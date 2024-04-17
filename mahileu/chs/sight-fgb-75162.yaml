@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chs
 gov:
     title: 'Заказник «Озерище»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 93.0
     founded_on: 19.02.2012
 images:

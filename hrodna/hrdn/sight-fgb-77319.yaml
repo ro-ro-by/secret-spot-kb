@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hrdn
 gov:
     title: 'Парк «Святск»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 6.1478
     founded_on: '08.05.2007 (18.10.2021)'
 images:

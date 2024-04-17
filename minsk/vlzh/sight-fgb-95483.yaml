@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlzh
 gov:
     title: 'Заказник «Налибокский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 86892.0
     founded_on: 27.05.2005
 images:

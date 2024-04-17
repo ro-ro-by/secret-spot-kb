@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slnm
 gov:
     title: 'Двухсотлетний дуб в окрестности деревни Ходевичи'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.03
     founded_on: 25.08.2017
 images:

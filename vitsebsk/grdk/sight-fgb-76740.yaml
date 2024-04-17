@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-grdk
 gov:
     title: 'Заказник «Верховье Ловати»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 8045.56
     founded_on: 30.11.1995
 images:

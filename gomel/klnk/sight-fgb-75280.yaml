@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klnk
 gov:
     title: 'Старинный парк в н.п. Липово'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 5.0
     founded_on: 03.09.2004
 images:

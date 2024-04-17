@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krsnp
 gov:
     title: 'Заказник «Костел»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4.29
     founded_on: 28.06.1996
 images:

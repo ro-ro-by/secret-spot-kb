@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mlrt
 gov:
     title: 'Заказник "Хотиславский"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 85.4
     founded_on: 30.10.2017
 system:

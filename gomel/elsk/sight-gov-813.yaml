@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-elsk
 gov:
     title: 'Заказник «Галло»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1150.96
     founded_on: 29.12.2014
 system:

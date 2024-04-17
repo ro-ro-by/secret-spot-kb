@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smg
 gov:
     title: 'Войстомский валун'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.0007
     founded_on: 23.03.1995
 images:

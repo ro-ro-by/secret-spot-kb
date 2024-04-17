@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhlb
 gov:
     title: 'Заказник «Смычок»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 2635.0
     founded_on: 27.09.2000
 images:

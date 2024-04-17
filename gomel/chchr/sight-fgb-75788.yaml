@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chchr
 gov:
     title: 'Заказник «Пойма реки Сож»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 8563.72
     founded_on: 04.02.2015
 images:

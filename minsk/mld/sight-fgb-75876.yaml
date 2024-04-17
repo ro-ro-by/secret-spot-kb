@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mld
 gov:
     title: 'Гора «Курган»'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.6
     founded_on: 28.10.2008
 images:

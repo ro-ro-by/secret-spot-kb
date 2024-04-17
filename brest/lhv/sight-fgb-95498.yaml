@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lhv
 gov:
     title: 'Заказник республиканского значения «Выгонощанское»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 55047.4
     founded_on: 18.11.1968
 images:

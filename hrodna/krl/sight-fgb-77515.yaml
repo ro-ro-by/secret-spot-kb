@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krl
 gov:
     title: 'Песочненская гряда'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 40.0
     founded_on: 27.08.1997
 images:

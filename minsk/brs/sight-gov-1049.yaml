@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brs
 gov:
     title: 'Заказник «Зембинский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 5495.81
     founded_on: 13.11.2023
 system:

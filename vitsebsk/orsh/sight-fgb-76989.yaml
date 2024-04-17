@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-orsh
 gov:
     title: Дендросад
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 6.0
     founded_on: 15.09.1992
 images:

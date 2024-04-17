@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dksh
 gov:
     title: 'Памятник природы «Млынок»'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 0.5
     founded_on: 26.01.2016
 images:

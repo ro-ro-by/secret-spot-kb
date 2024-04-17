@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mhl
 gov:
     title: 'Заказник «Прибережье»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 123.0
     founded_on: 24.02.2006
 images:

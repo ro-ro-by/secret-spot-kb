@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krg
 gov:
     title: 'Озеро Хотомле'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 8.89
     founded_on: 28.10.2003
 images:

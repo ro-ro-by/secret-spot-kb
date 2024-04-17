@@ -10,8 +10,8 @@ forest:
         - oak
 gov:
     title: Дубрава
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 8.1
     founded_on: 17.12.2001
 images:

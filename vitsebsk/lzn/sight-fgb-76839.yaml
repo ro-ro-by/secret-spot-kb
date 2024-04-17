@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lzn
 gov:
     title: 'Заказник «Бабиновичский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 11514.72
     founded_on: 17.09.1998
 images:

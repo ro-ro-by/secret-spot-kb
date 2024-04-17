@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shrk
 gov:
     title: 'Быстрицкая долина'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 60.0
     founded_on: 06.12.2011
 images:

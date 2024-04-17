@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lpl
 gov:
     title: 'Заказник «Клетище»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 746.69
     founded_on: 23.07.1990
 images:

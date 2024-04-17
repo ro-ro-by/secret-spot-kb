@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-iue
 gov:
     title: 'Валун янцевичский'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00054
     founded_on: 26.02.1998
 images:

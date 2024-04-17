@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-iue
 gov:
     title: 'Урочище Красное'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 345.8
     founded_on: 14.07.1997
 images:

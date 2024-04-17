@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mlrt
 gov:
     title: 'Заказник "Гусак"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 5682.0
     founded_on: 16.05.1989
 images:

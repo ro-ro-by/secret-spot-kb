@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chs
 gov:
     title: 'Городской Парк'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.06
     founded_on: 22.02.2006
 location:

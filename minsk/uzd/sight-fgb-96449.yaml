@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-uzd
 gov:
     title: 'Заказник «Истоки реки Неман»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 905.42
     founded_on: 15.10.2008
 images:

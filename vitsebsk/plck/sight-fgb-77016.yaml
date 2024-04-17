@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: 'Холм «Волотовка»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.19
     founded_on: 19.03.2007
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krm
 gov:
     title: 'Заказник «Струменский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 8683.67
     founded_on: 28.12.2012
 system:

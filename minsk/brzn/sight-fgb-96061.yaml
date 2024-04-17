@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brzn
 gov:
     title: 'Заказник «Дубровка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3735.06
     founded_on: 23.12.2015
 images:

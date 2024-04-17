@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rchc
 gov:
     title: 'Место поселения древнего человека (бронзовый век)'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 2.7
     founded_on: 03.12.2008
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mr
 gov:
     title: 'Буяновский погорок'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 28.0
     founded_on: 09.04.2020
 location:

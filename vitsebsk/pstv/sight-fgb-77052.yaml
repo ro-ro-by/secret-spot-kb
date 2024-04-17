@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pstv
 gov:
     title: 'Заказник «Споры»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1170.59
     founded_on: 08.10.2015
 images:

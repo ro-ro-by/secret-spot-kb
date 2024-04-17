@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pstv
 gov:
     title: 'Национальный парк «Нарочанский»'
-    type: 'национальный парк'
-    status: республиканский
+    type: gov_type-national_park
+    status: gov_status-country
     area_size: 87134.66
     founded_on: 09.02.2012
 images:

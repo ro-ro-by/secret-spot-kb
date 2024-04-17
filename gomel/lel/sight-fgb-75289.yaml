@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lel
 gov:
     title: 'Заказник «Букчанский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 4990.31
     founded_on: 16.08.1979
 images:

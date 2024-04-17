@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-astrv
 gov:
     title: 'Мацкевичев камень'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00079
     founded_on: 17.02.1995
 images:

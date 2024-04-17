@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-stb
 gov:
     title: 'Усадьба Ф.Э.Дзержинского с прилегающим участком леса'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 108.9
     founded_on: 05.05.2007
 images:

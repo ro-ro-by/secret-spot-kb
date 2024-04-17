@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-drbn
 gov:
     title: 'Лесные богатыри'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 20.0
     founded_on: 26.02.2003
 images:

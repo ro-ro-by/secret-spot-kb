@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krl
 gov:
     title: 'Серватская гряда'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 70.0
     founded_on: 27.08.1997
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ashm
 gov:
     title: 'Гологурский большой камень'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00053
     founded_on: 16.02.1995
 images:

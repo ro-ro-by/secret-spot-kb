@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brnv
 gov:
     title: 'Парк «Крошинский»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     founded_on: 28.03.1994
 images:
     -

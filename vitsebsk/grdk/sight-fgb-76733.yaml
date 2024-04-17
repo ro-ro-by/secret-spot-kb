@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-grdk
 gov:
     title: 'Заказник «Корытенский мох»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1388.9
     founded_on: 01.04.1981
 images:

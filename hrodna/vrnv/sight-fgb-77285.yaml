@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vrnv
 gov:
     title: Вороновский
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 5200.0
     founded_on: 17.02.1986
 images:

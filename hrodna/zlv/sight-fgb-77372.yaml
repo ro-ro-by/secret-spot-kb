@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zlv
 gov:
     title: Дуб-тройник
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.049
     founded_on: 14.08.1995
 images:

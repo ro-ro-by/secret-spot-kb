@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mr
 gov:
     title: 'Родник «Святая вода Дехтяревская»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 4.14
     founded_on: 23.09.2011
 images:

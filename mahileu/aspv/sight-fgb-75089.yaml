@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-aspv
 gov:
     title: 'Заказник «Сетище»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 524.0
     founded_on: 19.12.2007
 images:

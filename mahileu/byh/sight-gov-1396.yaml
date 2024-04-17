@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-byh
 gov:
     title: 'Заказник «Дунайковский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 914.85
     founded_on: 01.08.2022
 system:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-phv
 gov:
     title: 'Заказник «Омельнянский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 2011.57
     founded_on: 16.08.1979
 images:

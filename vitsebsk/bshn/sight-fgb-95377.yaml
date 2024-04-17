@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bshn
 gov:
     title: 'Заказник «Лаппы»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 116.7
     founded_on: 10.09.2010
 images:

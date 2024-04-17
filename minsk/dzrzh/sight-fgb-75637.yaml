@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dzrzh
 gov:
     title: 'Родник около д. Радима'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 4.66
     founded_on: 10.12.2007
 images:

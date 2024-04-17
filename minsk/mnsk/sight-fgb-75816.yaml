@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mnsk
 gov:
     title: 'Центральный ботанический сад Национальной академии наук Беларуси'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 93.0
     founded_on: 29.09.1999
 images:

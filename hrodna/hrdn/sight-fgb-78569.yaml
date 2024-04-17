@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hrdn
 gov:
     title: 'Заказник «Озеры»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 23364.05
     founded_on: 05.03.1990
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kbrn
 gov:
     title: 'Республиканский ландшафтный заказник «Званец»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 16227.0
     founded_on: 11.04.1996
 images:

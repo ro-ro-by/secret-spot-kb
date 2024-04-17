@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kmn
 gov:
     title: 'Видомлянская озерная котловина'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 1.48
     founded_on: 17.12.2021
 system:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krl
 gov:
     title: 'Заказник "Ярута"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 735.0
     founded_on: 04.12.2018
 images:

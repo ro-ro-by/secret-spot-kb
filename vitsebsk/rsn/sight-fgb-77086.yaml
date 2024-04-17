@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rsn
 gov:
     title: 'Заказник «Нещердо»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 6692.28
     founded_on: 25.05.2018
 images:

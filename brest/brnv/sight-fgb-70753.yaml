@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brnv
 gov:
     title: Стронга
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 12015.0
     founded_on: 26.10.1998
 images:

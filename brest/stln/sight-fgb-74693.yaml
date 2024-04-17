@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-stln
 gov:
     title: 'Парк «Маньковичский»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 24.0
     founded_on: 16.07.2007
 images:

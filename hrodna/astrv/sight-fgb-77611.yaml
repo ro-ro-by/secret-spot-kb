@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-astrv
 gov:
     title: 'Озеро Бык'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 119.96
     founded_on: 28.09.1999
 images:

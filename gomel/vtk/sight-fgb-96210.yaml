@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vtk
 gov:
     title: 'Заказник «Ветковский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4839.29
     founded_on: 29.11.2012
 images:

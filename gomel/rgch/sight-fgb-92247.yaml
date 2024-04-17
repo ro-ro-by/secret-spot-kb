@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rgch
 gov:
     title: 'Родник «Серебрянка»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.01
     founded_on: 28.11.2002
 images:

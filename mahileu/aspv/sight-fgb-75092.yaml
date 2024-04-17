@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-aspv
 gov:
     title: Притерпа
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 1.4
     founded_on: 26.03.2003
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dtl
 gov:
     title: 'Заказник «Липичанская пуща»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 15153.0
     founded_on: 08.10.2002
 images:

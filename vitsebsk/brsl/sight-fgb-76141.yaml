@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brsl
 gov:
     title: 'Национальный парк «Браславские озера»'
-    type: 'национальный парк'
-    status: республиканский
+    type: gov_type-national_park
+    status: gov_status-country
     area_size: 71500.0
     founded_on: 10.08.1995
 images:

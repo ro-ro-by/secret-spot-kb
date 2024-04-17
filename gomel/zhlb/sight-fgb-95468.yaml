@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhlb
 gov:
     title: 'Заказник «Выдрица»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 17403.38
     founded_on: 14.10.1999
 images:

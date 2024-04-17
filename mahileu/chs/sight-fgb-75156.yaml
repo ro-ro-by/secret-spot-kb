@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chs
 gov:
     title: Дуб-великан
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.02
     founded_on: 14.11.2007
 tree:

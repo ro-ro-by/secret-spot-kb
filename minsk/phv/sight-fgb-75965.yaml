@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-phv
 gov:
     title: 'Заказник «Сергеевичский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2905.4
     founded_on: 22.11.2001
 location:

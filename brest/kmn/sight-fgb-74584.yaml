@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kmn
 gov:
     title: 'Заказник "Долбнево"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 30.0
     founded_on: 23.12.1982
 images:

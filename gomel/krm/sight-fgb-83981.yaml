@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krm
 gov:
     title: 'Родник Добричский'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.0314
     founded_on: 07.09.2023
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zlv
 gov:
     title: 'Родник "Зеньковский"'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     founded_on: 22.10.2002
 images:
     -

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ashm
 gov:
     title: 'Заказник «Микулишки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1711.79
     founded_on: 21.02.2023
 system:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brnv
 gov:
     title: 'Дубы-близнецы «Тугановичские»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 0.023
     founded_on: 27.12.1963
 images:

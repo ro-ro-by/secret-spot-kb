@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lel
 gov:
     title: 'Заказник «Старый Жаден»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 17048.39
     founded_on: 04.02.2015
 images:

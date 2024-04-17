@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klnk
 gov:
     title: '"Пеница" Рождества Богородицы'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.785
     founded_on: 11.12.2017
 images:

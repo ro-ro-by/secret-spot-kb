@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pnsk
 gov:
     title: Тырвовичи
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1443.0
     founded_on: 26.09.1994
 images:

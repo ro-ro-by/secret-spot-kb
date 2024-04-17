@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rgch
 gov:
     title: 'Урочище Бритская грива'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 85.53
     founded_on: 05.12.2023
 images:

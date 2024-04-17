@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mlrt
 gov:
     title: 'Заказник "Хмелевка"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 613.9
     founded_on: 26.12.1995
 images:

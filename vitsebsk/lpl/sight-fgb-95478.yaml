@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lpl
 gov:
     title: 'Березинский биосферный заповедник'
-    type: заповедник
-    status: республиканский
+    type: gov_type-reservation
+    status: gov_status-country
     area_size: 85200.0
     founded_on: 30.01.1925
 images:

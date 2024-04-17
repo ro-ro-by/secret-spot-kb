@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kbrn
 gov:
     title: 'Парк Шемета'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.07
     founded_on: 06.12.2021
 location:

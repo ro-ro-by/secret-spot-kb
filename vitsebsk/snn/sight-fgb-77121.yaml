@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-snn
 gov:
     title: 'Родник «Добринский грот»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 5.7
     founded_on: 10.01.2020
 images:

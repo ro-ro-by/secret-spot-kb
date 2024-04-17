@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vndv
 gov:
     title: 'Памятник природы «Генина гора»'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 0.5
     founded_on: 01.03.2016
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mzr
 gov:
     title: 'Насаждение дуба черешчатого Слободское'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 103.3
     founded_on: 22.02.2008
 images:

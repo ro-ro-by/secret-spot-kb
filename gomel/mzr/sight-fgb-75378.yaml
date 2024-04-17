@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mzr
 gov:
     title: 'Родник Добрица'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.008
     founded_on: 29.09.2023
 images:

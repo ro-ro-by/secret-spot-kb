@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pnsk
 gov:
     title: 'Парк «Поречье»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 60.0
     founded_on: 27.12.1963
 location:

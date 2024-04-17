@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-zhbnk
 gov:
     title: 'Парк «Малые Сехновичи»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 1.74
     founded_on: 16.03.1995
 images:

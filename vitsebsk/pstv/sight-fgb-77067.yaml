@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pstv
 gov:
     title: 'Жуперская гряда'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 10.0
     founded_on: 29.03.2019
 images:

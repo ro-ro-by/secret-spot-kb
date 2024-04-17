@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lhv
 gov:
     title: 'Заказник "Святицкая пуща"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4929.05
     founded_on: 14.11.1988
 images:

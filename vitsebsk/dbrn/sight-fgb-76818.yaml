@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dbrn
 gov:
     title: 'Бассейн реки Чижовка'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 5.0
     founded_on: 18.04.1995
 images:

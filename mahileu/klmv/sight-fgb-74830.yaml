@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klmv
 gov:
     title: 'Заказник «Долина реки Остер»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3011.34
     founded_on: 27.12.2016
 images:

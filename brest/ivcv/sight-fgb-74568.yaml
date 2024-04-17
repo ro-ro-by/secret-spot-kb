@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ivcv
 gov:
     title: 'Заказник "Большой Яминец"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 81.64
     founded_on: 23.05.1989
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shch
 gov:
     title: 'Холм «Костеневский»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.7
     founded_on: 18.01.2008
 images:

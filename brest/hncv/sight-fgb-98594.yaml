@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hncv
 gov:
     title: 'Раздяловичские острова Черемушно'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 4.5748
     founded_on: 30.09.2020
 location:

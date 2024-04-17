@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lbn
 gov:
     title: 'Вековой дуб в д. Шипиловичи'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.05
     founded_on: 02.11.2020
 images:

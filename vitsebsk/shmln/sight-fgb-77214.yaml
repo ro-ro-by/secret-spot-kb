@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shmln
 gov:
     title: 'Липа мелколистная'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.0002
     founded_on: 03.12.2012
 images:

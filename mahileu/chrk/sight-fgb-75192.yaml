@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chrk
 gov:
     title: 'Криница «Езерская»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.02
     founded_on: 09.12.2003
 images:

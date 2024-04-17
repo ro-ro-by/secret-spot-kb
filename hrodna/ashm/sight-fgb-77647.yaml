@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ashm
 gov:
     title: 'Заказник «Клева»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 3500.0
     founded_on: 16.02.1995
 images:

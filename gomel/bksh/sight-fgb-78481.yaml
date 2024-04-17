@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bksh
 gov:
     title: 'Заказник «Белуга»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 264.0
     founded_on: 14.05.2007
 images:

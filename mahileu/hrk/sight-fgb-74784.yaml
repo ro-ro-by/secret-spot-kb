@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hrk
 gov:
     title: 'Заказник «Кукшинский мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 175.78
     founded_on: 19.11.2003
 images:

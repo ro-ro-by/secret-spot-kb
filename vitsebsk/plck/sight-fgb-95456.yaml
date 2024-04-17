@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: 'Заказник «Козьянский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 28469.05
     founded_on: 10.03.1960
 images:

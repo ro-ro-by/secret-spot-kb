@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lnn
 gov:
     title: 'Заказник "Велута"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2119.38
     founded_on: 05.07.2016
 images:

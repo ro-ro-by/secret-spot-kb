@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hrdn
 gov:
     title: 'Заказник «Друскеники»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 5662.15
     founded_on: 12.12.2016
 system:

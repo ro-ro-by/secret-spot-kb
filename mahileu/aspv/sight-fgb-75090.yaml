@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-aspv
 gov:
     title: 'Заказник «Ляжанка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 398.0
     founded_on: 23.08.2006
 images:

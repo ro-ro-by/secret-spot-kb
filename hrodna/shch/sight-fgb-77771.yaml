@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shch
 gov:
     title: 'Заказник «Котра»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 10463.5
     founded_on: 19.06.2003
 images:

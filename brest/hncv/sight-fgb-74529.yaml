@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hncv
 gov:
     title: 'Сосна Веймутова'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.1
     founded_on: 27.03.1995
 images:

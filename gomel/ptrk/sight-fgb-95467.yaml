@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ptrk
 gov:
     title: 'Национальный парк «Припятский»'
-    type: 'национальный парк'
-    status: республиканский
+    type: gov_type-national_park
+    status: gov_status-country
     founded_on: 02.10.1996
 images:
     -

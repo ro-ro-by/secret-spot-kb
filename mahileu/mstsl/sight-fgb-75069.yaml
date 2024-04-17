@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mstsl
 gov:
     title: 'Заказник «Закружье»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 136.48
     founded_on: 27.09.2006
 images:

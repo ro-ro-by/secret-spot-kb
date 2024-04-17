@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ivcv
 gov:
     title: 'Бобровичский дуб'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.0724
     founded_on: 14.12.2007
 images:

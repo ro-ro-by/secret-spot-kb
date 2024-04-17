@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krp
 gov:
     title: 'Заказник «Белый остров»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2953.53
     founded_on: 24.12.2014
 images:

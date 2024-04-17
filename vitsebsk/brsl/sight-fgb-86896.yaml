@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brsl
 gov:
     title: 'Памятник природы «Друйский»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 1.6
     founded_on: 26.01.2016
 images:

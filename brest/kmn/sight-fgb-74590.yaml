@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kmn
 gov:
     title: 'Национальный парк «Беловежская пуща»'
-    type: 'национальный парк'
-    status: республиканский
+    type: gov_type-national_park
+    status: gov_status-country
     area_size: 150083.0
     founded_on: 27.09.2004
 images:

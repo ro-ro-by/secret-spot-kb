@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ptrk
 gov:
     title: 'Заказник «Воронецкий Мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 131.0
     founded_on: 28.10.2004
 images:

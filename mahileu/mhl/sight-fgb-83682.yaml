@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mhl
 gov:
     title: 'Заказник «Печерский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 251.93
     founded_on: 02.09.2021
 location:

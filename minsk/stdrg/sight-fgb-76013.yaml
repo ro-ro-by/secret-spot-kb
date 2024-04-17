@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-stdrg
 gov:
     title: 'Заказник «Фаличский Мох»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 3176.41
     founded_on: 01.02.2020
 images:

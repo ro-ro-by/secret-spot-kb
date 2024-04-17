@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krl
 gov:
     title: 'Заказник «Горно-Рутковские яры»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 140.0
     founded_on: 27.08.1997
 images:

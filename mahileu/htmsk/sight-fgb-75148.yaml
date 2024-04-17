@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-htmsk
 gov:
     title: 'Заказник «Ерашовщина»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1560.0
     founded_on: 05.04.1996
 images:

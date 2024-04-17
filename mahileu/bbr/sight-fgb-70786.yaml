@@ -10,8 +10,8 @@ forest:
         - oak
 gov:
     title: 'Пойменная дубрава'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 629.0
     founded_on: 16.04.2003
 images:

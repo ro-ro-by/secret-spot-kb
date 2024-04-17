@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-astrv
 gov:
     title: 'Валун «Мурованный камень»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.001824
     founded_on: 18.01.2008
 images:

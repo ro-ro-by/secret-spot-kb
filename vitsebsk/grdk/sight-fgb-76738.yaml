@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-grdk
 gov:
     title: 'Заказник «Езерище»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1810.87
     founded_on: 19.12.2007
 images:

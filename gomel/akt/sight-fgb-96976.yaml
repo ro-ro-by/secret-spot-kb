@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-akt
 gov:
     title: 'Заказник «Ратмировичский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 374.09
     founded_on: 12.07.1977
 images:

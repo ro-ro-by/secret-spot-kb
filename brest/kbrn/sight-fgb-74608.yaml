@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kbrn
 gov:
     title: 'Заказник "Ель"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 950.0
     founded_on: 21.04.2009
 images:

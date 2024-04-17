@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vndv
 gov:
     title: 'Заказник республиканского значения «Освейский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 30567.38
     founded_on: 13.06.1977
 images:

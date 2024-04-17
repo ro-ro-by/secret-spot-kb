@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brst
 gov:
     title: 'Берестейские платаны'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.016
     founded_on: 30.12.2019
 tree:

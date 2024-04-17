@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lgsk
 gov:
     title: 'Заказник «Белая Русь»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 4515.34
     founded_on: 31.01.2023
 images:

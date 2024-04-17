@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-byh
 gov:
     title: 'Сосны-гиганты «Новобоярские»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 3.3
     founded_on: 26.04.2007
 images:

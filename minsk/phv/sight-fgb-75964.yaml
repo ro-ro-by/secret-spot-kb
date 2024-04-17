@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-phv
 gov:
     title: 'Родник «Кипячка»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 3.14
     founded_on: 30.10.2020
 images:

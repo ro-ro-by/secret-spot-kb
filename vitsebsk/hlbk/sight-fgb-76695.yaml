@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlbk
 gov:
     title: 'Памятник природы «Мосар»'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 0.07
     founded_on: 26.01.2016
 location:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pnsk
 gov:
     title: 'Лугопарк Площево'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 22.23
     founded_on: 26.07.2016
 images:

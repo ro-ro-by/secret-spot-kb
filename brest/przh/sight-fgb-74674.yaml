@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-przh
 gov:
     title: 'Заказник "Зельвянка"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1140.0
     founded_on: 24.12.1990
 images:

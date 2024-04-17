@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-grdk
 gov:
     title: 'Заказник «Суражский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 11025.92
     founded_on: 30.12.2022
 system:

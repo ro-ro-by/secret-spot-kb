@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brst
 gov:
     title: 'Руднянские вязы'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.1787
     founded_on: 23.12.2016
 images:

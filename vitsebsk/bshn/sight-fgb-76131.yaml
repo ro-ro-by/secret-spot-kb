@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bshn
 gov:
     title: 'Заказник «Соржицкий Мох»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 853.5
     founded_on: 31.08.1992
 images:

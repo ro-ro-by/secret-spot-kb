@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brst
 gov:
     title: 'Торфяник Дубровка'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 11.07
     founded_on: 30.11.2016
 images:

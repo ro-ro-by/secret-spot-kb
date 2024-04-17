@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlbk
 gov:
     title: 'Зябковский пригорок'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 19.85
     founded_on: 23.02.2012
 location:

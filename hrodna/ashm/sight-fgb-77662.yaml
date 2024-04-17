@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ashm
 gov:
     title: 'Войтеховский большой камень'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00049
     founded_on: 16.02.1995
 images:

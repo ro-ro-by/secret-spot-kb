@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ushch
 gov:
     title: 'Заказник «Кривое»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1063.72
     founded_on: 16.08.1979
 images:

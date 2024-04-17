@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-htmsk
 gov:
     title: 'Эталонное насаждение сосны'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 15.0
     founded_on: 29.10.2003
 images:

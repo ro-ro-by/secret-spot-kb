@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mlrt
 gov:
     title: 'Заказник "Ореховский"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1807.0
     founded_on: 22.02.2011
 images:

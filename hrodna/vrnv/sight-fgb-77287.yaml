@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vrnv
 gov:
     title: 'Заказник «Пелясские гряды-увалы»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1050.0
     founded_on: 31.10.1997
 images:

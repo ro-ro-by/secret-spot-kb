@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rchc
 gov:
     title: 'Насаждения дуба'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 2.8
     founded_on: 27.05.2009
 images:

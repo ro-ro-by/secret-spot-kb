@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krsk
 gov:
     title: 'Заказник «Белые речки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 113.0
     founded_on: 18.12.2006
 images:

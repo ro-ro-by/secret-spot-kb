@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-astrv
 gov:
     title: 'Германишкинский валун-1'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.00033
     founded_on: 17.02.1995
 images:

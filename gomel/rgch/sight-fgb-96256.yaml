@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rgch
 gov:
     title: 'Заказник «Святое Озеро»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 95.45
     founded_on: 30.06.1993
 images:

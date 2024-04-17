@@ -8,8 +8,8 @@ forest:
     dominated_type: firs_douglas
 gov:
     title: 'Завышанский дугласник'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.51
     founded_on: 10.09.2021
 images:

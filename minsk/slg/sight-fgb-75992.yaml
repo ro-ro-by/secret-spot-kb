@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slg
 gov:
     title: 'Парк «Листопадовичи»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.8
     founded_on: 27.07.2006
 location:

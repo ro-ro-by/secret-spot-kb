@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lida
 gov:
     title: 'Заказник «В пойме реки Дитва»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 898.58
     founded_on: 17.04.1998
 system:

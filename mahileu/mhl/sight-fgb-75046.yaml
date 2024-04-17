@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mhl
 gov:
     title: 'Вековое дерево дуб 1'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.042
     founded_on: 18.02.2004
 images:

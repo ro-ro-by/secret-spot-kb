@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rsn
 gov:
     title: 'Озовая гряда Рыли'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 48.0
     founded_on: 31.12.2009
 images:

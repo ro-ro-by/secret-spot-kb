@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krsk
 gov:
     title: 'Насаждение сосны веймутовой «Чигиринский»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 3.9
 images:
     -

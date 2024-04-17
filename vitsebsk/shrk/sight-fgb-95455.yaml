@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shrk
 gov:
     title: 'Заказник республиканского значения «Ельня»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 25301.0
     founded_on: 18.11.1968
 images:

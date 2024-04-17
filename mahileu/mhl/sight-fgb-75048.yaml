@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mhl
 gov:
     title: 'Дашковский парк'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 3.4
     founded_on: 24.02.2006
 images:

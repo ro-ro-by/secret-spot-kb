@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krp
 gov:
     title: 'Родник в урочище Высокие горы'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 8.0E-5
     founded_on: 28.10.2008
 images:

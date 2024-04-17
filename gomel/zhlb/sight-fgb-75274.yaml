@@ -8,8 +8,8 @@ forest:
     dominated_type: pine
 gov:
     title: 'Лесной массив в урочище Чашевка'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 14.0
     founded_on: 28.01.1999
 images:

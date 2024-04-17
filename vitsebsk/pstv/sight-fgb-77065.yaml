@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-pstv
 gov:
     title: 'Валун «Дырявый камень» каптарунский'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.00045
     founded_on: 25.04.2011
 images:

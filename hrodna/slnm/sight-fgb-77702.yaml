@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slnm
 gov:
     title: 'Гора Стражиная'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 95.13
     founded_on: 30.12.1997
 images:

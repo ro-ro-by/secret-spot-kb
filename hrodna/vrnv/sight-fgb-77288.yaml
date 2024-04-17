@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vrnv
 gov:
     title: 'Заказник «Стефанецкие пригорки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1000.0
     founded_on: 31.10.1997
 images:

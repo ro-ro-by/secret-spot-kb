@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krp
 gov:
     title: 'Заказник «Липки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 414.96
     founded_on: 21.12.2015
 images:

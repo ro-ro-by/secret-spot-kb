@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vndv
 gov:
     title: 'Освейская долина прорыва'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.13
     founded_on: 10.06.2011
 location:

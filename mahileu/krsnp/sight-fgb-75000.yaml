@@ -11,8 +11,8 @@ forest:
         - aspen
 gov:
     title: Селище
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 1.39
     founded_on: 22.05.2002
 location:

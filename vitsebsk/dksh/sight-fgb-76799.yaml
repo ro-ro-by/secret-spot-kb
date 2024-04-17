@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dksh
 gov:
     title: 'Заказник «Зуйка»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 22.96
     founded_on: 27.01.1998
 images:

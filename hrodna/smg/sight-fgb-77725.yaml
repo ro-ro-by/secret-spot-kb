@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smg
 gov:
     title: 'Парк в деревне Залесье'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 35.0
     founded_on: 08.05.2007
 images:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dksh
 gov:
     title: 'Заказник «Чечуки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 334.68
     founded_on: 27.11.2008
 location:

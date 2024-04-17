@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brs
 gov:
     title: 'Парк в д. им. Воровского'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 4.86
     founded_on: 24.02.1988
 images:

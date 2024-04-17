@@ -8,8 +8,8 @@ forest:
     dominated_type: pine
 gov:
     title: 'Веймутовы сосны'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.2195
     founded_on: 27.03.1995
 location:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chrk
 gov:
     title: 'Вековые дубы Чериковского района'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.25
     founded_on: 14.05.2020
 images:

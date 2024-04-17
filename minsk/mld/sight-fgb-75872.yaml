@@ -8,8 +8,8 @@ forest:
     dominated_type: larch
 gov:
     title: 'Польские культуры лиственницы европейской'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 1.53
     founded_on: 12.10.2012
 location:

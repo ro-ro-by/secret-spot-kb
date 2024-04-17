@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rsn
 gov:
     title: 'Заказник «Межевская озовая гряда»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 112.4
     founded_on: 10.09.2009
 images:

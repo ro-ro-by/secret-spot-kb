@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mhl
 gov:
     title: 'Полыковичская криница'
-    type: 'гидрологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_hydrological
+    status: gov_status-country
     area_size: 1.42
     founded_on: 31.07.2006
 images:

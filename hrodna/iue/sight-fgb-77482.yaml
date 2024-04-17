@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-iue
 gov:
     title: 'Валун «Баранишкинский»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 0.002014
     founded_on: 31.07.2006
 images:

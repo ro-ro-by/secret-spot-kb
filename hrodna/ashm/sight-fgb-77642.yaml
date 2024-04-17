@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ashm
 gov:
     title: 'Валун «Большой камень» смолянковский'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
 images:
     -
         file: 3ba0cf473215bc1e067d1b7606e0f82c.jpg

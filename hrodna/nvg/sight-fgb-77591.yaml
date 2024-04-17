@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-nvg
 gov:
     title: 'Два валуна лукинские'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     founded_on: 18.03.1997
 images:
     -

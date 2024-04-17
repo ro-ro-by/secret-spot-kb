@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-kst
 gov:
     title: '«Природная криница д.Тупичино»'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 0.003
     founded_on: 04.12.2002
 images:

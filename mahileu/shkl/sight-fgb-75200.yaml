@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shkl
 gov:
     title: '«Нижнинский ров»'
-    type: 'геологический памятник природы'
-    status: республиканский
+    type: gov_type-monument_geological
+    status: gov_status-country
     area_size: 7.7
     founded_on: 31.07.2006
 images:

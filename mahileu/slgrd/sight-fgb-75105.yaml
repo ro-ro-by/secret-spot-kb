@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-slgrd
 gov:
     title: 'Заказник «Славгородский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 14779.33
     founded_on: 04.11.2017
 images:

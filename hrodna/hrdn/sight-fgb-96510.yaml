@@ -10,8 +10,8 @@ forest:
         - oak
 gov:
     title: 'Двухсотлетняя дубрава в окрестности агрогородка Озеры'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     founded_on: 12.02.2018
 images:
     -

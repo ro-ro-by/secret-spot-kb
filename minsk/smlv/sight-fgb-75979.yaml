@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-smlv
 gov:
     title: 'Заказник «Волмянский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 614.5
     founded_on: 29.12.2001
 images:

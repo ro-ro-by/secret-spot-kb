@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-klck
 gov:
     title: 'Парк «Радзивиллимонты»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 9.3
     founded_on: 08.05.2007
 images:

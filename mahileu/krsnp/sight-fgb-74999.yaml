@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-krsnp
 gov:
     title: 'Дендрологический сад имени И.И.Зотова'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 2.71
     founded_on: 22.05.2002
 images:

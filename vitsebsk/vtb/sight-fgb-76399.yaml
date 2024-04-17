@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vtb
 gov:
     title: 'Заказник «Чертова Борода»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 58.3
     founded_on: 29.01.2011
 images:

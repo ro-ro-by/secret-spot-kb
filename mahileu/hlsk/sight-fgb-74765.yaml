@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-hlsk
 gov:
     title: 'Заказник «Болото бассейна реки Доколька»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 799.44
     founded_on: 16.09.2011
 location:

@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-htmsk
 gov:
     title: 'Святое озеро'
-    type: 'гидрологический памятник природы'
-    status: местный
+    type: gov_type-monument_hydrological
+    status: gov_status-local
     area_size: 10.0
     founded_on: 21.06.1990
 images:

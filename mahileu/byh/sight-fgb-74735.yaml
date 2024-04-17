@@ -8,8 +8,8 @@ forest:
     dominated_type: oak
 gov:
     title: 'Дубовая роща в урочище «Дубки»'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 7.22
     founded_on: 26.09.2007
 images:

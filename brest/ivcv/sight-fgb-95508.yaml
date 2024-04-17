@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ivcv
 gov:
     title: 'Заказник "Борецкий"'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 2211.0
     founded_on: 11.05.2009
 images:

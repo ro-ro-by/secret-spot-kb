@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-shkl
 gov:
     title: 'Городской парк'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 20.0
     founded_on: 28.11.2002
 images:

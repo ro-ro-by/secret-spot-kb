@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-dbrn
 gov:
     title: 'Заказник «Осиноторфский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 4017.3
     founded_on: 22.10.1993
 images:

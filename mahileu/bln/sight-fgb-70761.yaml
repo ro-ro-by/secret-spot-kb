@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bln
 gov:
     title: 'Заказник «Заозерье»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 4172.01
     founded_on: 27.12.2007
 images:

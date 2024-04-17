@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-chchr
 gov:
     title: 'Заказник «Чечерский»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 13436.68
     founded_on: 25.01.2013
 images:

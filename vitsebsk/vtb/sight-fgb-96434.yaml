@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vtb
 gov:
     title: 'Заказник «Большая Лука»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 481.76
     founded_on: 30.05.2012
 location:

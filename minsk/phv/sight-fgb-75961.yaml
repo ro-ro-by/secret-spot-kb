@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-phv
 gov:
     title: 'Заказник «Копыш»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1222.34
     founded_on: 27.12.2007
 images:

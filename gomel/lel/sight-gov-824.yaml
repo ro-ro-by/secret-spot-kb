@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lel
 gov:
     title: 'Заказник «Луговое»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 311.36
     founded_on: 28.01.1998
 system:

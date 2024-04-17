@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-ushch
 gov:
     title: 'Заказник «Вечелье»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 1280.9
     founded_on: 17.12.2020
 location:

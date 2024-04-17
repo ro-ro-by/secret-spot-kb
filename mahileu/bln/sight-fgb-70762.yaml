@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bln
 gov:
     title: 'Заказник «Острова Дулебы»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 26600.0
     founded_on: 17.06.1998
 images:

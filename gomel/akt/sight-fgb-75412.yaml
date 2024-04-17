@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-akt
 gov:
     title: 'Заказник «Октябрьский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 4070.2
     founded_on: 27.06.2003
 images:

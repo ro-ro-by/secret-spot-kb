@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-mst
 gov:
     title: Черлена
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 500.0
     founded_on: 18.10.2000
 images:

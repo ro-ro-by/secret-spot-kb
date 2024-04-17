@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-lbn
 gov:
     title: 'Обнажение Костеши'
-    type: 'геологический памятник природы'
-    status: местный
+    type: gov_type-monument_geological
+    status: gov_status-local
     area_size: 0.008
     founded_on: 02.11.2020
 system:

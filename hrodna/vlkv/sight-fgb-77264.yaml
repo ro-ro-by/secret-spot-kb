@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlkv
 gov:
     title: 'Замковый лес'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 3659.52
     founded_on: 25.05.1998
 images:

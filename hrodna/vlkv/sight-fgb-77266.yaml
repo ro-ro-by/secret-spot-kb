@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vlkv
 gov:
     title: '«Старинное дерево-дуб» (Царь-дуб)'
-    type: 'ботанический памятник природы'
-    status: местный
+    type: gov_type-monument_botanical
+    status: gov_status-local
     area_size: 0.026
     founded_on: 17.07.1992
 images:

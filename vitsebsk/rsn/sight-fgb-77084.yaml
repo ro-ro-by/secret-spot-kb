@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rsn
 gov:
     title: 'Заказник «Синьша»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 12877.42
     founded_on: 21.03.1996
 images:

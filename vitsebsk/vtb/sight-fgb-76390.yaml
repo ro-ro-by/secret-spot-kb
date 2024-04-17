@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vtb
 gov:
     title: 'Заказник “Чистик”'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 299.98
     founded_on: 16.08.1979
 images:

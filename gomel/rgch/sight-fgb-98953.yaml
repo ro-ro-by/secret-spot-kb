@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-rgch
 gov:
     title: 'Заказник «Зазерье – Бадеево»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 262.98
     founded_on: 30.06.1993
 images:

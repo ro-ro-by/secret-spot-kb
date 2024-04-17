@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-plck
 gov:
     title: 'Заказник «Глубокое-Большое Островито»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 1353.38
     founded_on: 16.08.1979
 images:

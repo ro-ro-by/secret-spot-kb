@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vrnv
 gov:
     title: 'Парк сельскохозяйственного производственного кооператива «Элит-Агро» и прилегающее урочище «Гаик»'
-    type: 'ботанический памятник природы'
-    status: республиканский
+    type: gov_type-monument_botanical
+    status: gov_status-country
     area_size: 8.65
     founded_on: 08.05.2007
 images:

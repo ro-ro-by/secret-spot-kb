@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bbr
 gov:
     title: 'Заказник «Липняки»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 392.81
     founded_on: 19.12.2007
 system:

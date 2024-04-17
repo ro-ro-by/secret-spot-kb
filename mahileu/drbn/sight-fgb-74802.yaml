@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-drbn
 gov:
     title: 'Заказник «Голомукское»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 153.0
     founded_on: 27.02.2004
 images:

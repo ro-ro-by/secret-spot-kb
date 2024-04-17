@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-vtb
 gov:
     title: 'Заказник «Дымовщина»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 157.83
     founded_on: 22.05.1979
 images:

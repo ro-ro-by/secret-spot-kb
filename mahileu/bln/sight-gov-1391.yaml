@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-bln
 gov:
     title: 'Заказник «Ясень»'
-    type: заказник
-    status: местный
+    type: gov_type-reserve
+    status: gov_status-local
     area_size: 696.8
     founded_on: 22.11.2006
 system:

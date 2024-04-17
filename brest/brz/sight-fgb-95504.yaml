@@ -6,8 +6,8 @@ belongsTo:
     subregion: subregion-brz
 gov:
     title: 'Республиканский биологический заказник «Споровский»'
-    type: заказник
-    status: республиканский
+    type: gov_type-reserve
+    status: gov_status-country
     area_size: 19384.0
     founded_on: 15.08.1991
 images:
