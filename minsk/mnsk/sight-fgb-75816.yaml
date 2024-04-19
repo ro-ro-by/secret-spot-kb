@@ -35,6 +35,30 @@ images:
             type: fgb
             fgb:
                 post_id: '75816'
+    -
+        file: gov/88121fbeb3d6984df85f0c85ec0dde45.jpg
+        source:
+            type: gov
+    -
+        file: gov/cc68cdeee5e52495000b28c27ce2d5bd.jpg
+        source:
+            type: gov
+    -
+        file: gov/a57874a6013087171f2a26c2b54cfcf3.jpg
+        source:
+            type: gov
+    -
+        file: gov/cb9658686e020963bb9836bf291dd657.jpg
+        source:
+            type: gov
+    -
+        file: gov/84303d69701501dd80e48b42e29ab58e.jpg
+        source:
+            type: gov
+    -
+        file: gov/759d8b66bf5d0cb1092952ea30d9d916.jpg
+        source:
+            type: gov
 location:
     -
         type: point

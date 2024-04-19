@@ -8,6 +8,7 @@ gov:
     title: 'Ясень пенсильванский аукуболистный «Жемыславский»'
     type: gov_type-monument_botanical
     status: gov_status-country
+    founded_on: ''
 images:
     -
         file: 2da19d54eb478b83a78fa511ff12078c.jpg
@@ -17,6 +18,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77478'
+    -
+        file: gov/d46e8513a17d005c93329656e9310752.jpg
+        source:
+            type: gov
 tree:
     type: ash
 location:

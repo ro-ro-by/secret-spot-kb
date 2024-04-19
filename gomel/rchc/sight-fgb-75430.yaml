@@ -27,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75430'
+    -
+        file: gov/28e132d76200cfac877fb101031e953b.jpg
+        source:
+            type: gov
+    -
+        file: gov/92481721c93619ef4e4a75a2d9606aa0.jpg
+        source:
+            type: gov
+    -
+        file: gov/f9df7283bb60eb2984cab4d20d86fdd3.jpg
+        source:
+            type: gov
 meta:
     fgb:
         post_id: '75430'

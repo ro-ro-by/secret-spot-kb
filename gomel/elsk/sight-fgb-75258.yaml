@@ -27,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75258'
+    -
+        file: gov/3469bbad4eea374a8d20ce9301aa6c7d.jpg
+        source:
+            type: gov
+    -
+        file: gov/d249bca4d355b252828887340945e095.jpg
+        source:
+            type: gov
+    -
+        file: gov/a21bdd84bdcd5371053b7c41abed017e.jpg
+        source:
+            type: gov
+    -
+        file: gov/9d890d8d46caece54bd1a1779bb6637e.jpg
+        source:
+            type: gov
 tree:
     type: birch_black
 location:

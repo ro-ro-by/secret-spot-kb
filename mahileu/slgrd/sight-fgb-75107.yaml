@@ -19,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75107'
+    -
+        file: gov/0276524159540b91c344f85baf104897.jpg
+        source:
+            type: gov
+    -
+        file: gov/23f85e9694d8d7dee5491a62a8e5eaea.jpg
+        source:
+            type: gov
+    -
+        file: gov/c7c018a51a6c53b862950563ef0f0a6e.jpg
+        source:
+            type: gov
+    -
+        file: gov/524e36ca677c4407521848c2058d8fab.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

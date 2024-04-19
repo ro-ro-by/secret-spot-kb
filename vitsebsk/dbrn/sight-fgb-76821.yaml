@@ -19,6 +19,42 @@ images:
             type: fgb
             fgb:
                 post_id: '76821'
+    -
+        file: gov/41cee859048020b1e9f78dcb9d043177.jpg
+        source:
+            type: gov
+    -
+        file: gov/9e5523f30a5f3ed3d7975b3dc079d60d.jpg
+        source:
+            type: gov
+    -
+        file: gov/77def0d397b9325d1683322f6fb53f24.jpg
+        source:
+            type: gov
+    -
+        file: gov/49f5e4370935cea399532b6a526a758d.jpg
+        source:
+            type: gov
+    -
+        file: gov/32d256e773fb57a7890a6678d97028b0.jpg
+        source:
+            type: gov
+    -
+        file: gov/a88992c51eda9e15d061464a225f0924.jpg
+        source:
+            type: gov
+    -
+        file: gov/7a0405330f57aa1007951a48496c4ca4.jpg
+        source:
+            type: gov
+    -
+        file: gov/f5b32cf0085773ea5d8f54cc9e3fa42b.jpg
+        source:
+            type: gov
+    -
+        file: gov/04d54298171d9c53dbb3162f48779af7.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

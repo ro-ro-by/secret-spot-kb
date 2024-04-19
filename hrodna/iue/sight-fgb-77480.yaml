@@ -38,6 +38,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77480'
+    -
+        file: gov/4620a0d2fcd27833aece5dec1cc9e88b.jpg
+        source:
+            type: gov
 location:
     -
         type: point

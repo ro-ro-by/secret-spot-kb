@@ -11,6 +11,7 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 21.3
+    founded_on: ''
 images:
     -
         file: 2a77495359c4268479edc23a4b50c837.jpg
@@ -68,6 +69,10 @@ images:
                 post_id: '75087'
         meta:
             author: Victoryor
+    -
+        file: gov/a4bfcc5c41031abcecc3bae5708e3d43.jpg
+        source:
+            type: gov
 location:
     -
         type: point

@@ -9,6 +9,16 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-local
     area_size: 0.21
+    founded_on: ''
+images:
+    -
+        file: gov/126d3c01c9d77d9b4f99a9eaeca6e646.jpg
+        source:
+            type: gov
+    -
+        file: gov/4ecaa11ef36bb6e106e22dbc94442509.jpg
+        source:
+            type: gov
 location:
     -
         type: point

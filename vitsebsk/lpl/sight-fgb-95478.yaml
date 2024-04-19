@@ -22,6 +22,34 @@ images:
                     - '95478'
                     - '95477'
                     - '76666'
+    -
+        file: gov/34b8a874a3706a38a2a75ad7c2c973aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/59db883d994964d28f996098d3e11082.jpg
+        source:
+            type: gov
+    -
+        file: gov/b4c7537a88f37a8dc8e71681a9d8e6e4.jpg
+        source:
+            type: gov
+    -
+        file: gov/fcbbd05ed12e93370bbec1d055753665.jpg
+        source:
+            type: gov
+    -
+        file: gov/4228946d5224cda8ed3bcc46cd9c45a9.jpg
+        source:
+            type: gov
+    -
+        file: gov/390c6f3c6b86aaeede63293128c421c4.jpg
+        source:
+            type: gov
+    -
+        file: gov/db131b6ef8f2cd71e36d733903590b2a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

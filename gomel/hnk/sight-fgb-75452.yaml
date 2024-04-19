@@ -27,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75452'
+    -
+        file: gov/edc042afcaa8be9e78cc8bcdd0c96c50.jpg
+        source:
+            type: gov
+    -
+        file: gov/67ef5e60027c9e1e99356aec6e325289.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:

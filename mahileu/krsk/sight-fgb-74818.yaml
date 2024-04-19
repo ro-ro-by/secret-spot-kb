@@ -9,6 +9,7 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-country
     area_size: 3.9
+    founded_on: ''
 images:
     -
         file: a6426ba3a3c505ba264f3c18e70bafc0.jpg
@@ -27,6 +28,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74818'
+    -
+        file: gov/cb4cc9f81cb8c2b7d9d5ffdc1f3b0d0f.jpg
+        source:
+            type: gov
+    -
+        file: gov/c77231213c88b2c000078fe3c5a5eead.jpg
+        source:
+            type: gov
+    -
+        file: gov/b235d903bef86079ab0ed80b725f8420.jpg
+        source:
+            type: gov
 location:
     -
         type: point

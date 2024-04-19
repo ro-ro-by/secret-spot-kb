@@ -28,6 +28,34 @@ images:
             type: fgb
             fgb:
                 post_id: '77053'
+    -
+        file: gov/d44bf45fa434fb72d84e0e2b67459ac2.jpg
+        source:
+            type: gov
+    -
+        file: gov/2eb637217425a6417a522f17137a21c9.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4d740d72fceaa98cd18d451390b61e6.jpg
+        source:
+            type: gov
+    -
+        file: gov/fe8a7597c3af738706a1d43664b90816.jpg
+        source:
+            type: gov
+    -
+        file: gov/3f0004be23cd661b437e66107668296d.jpg
+        source:
+            type: gov
+    -
+        file: gov/43144d79b2b08edf3f3a6dcddd89f39e.jpg
+        source:
+            type: gov
+    -
+        file: gov/2e145cd4c782134ca812190ab1f88fec.jpg
+        source:
+            type: gov
 location:
     -
         type: point

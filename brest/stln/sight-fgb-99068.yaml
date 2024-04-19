@@ -10,6 +10,15 @@ gov:
     status: gov_status-local
     area_size: 0.049
     founded_on: 31.05.2021
+images:
+    -
+        file: gov/fceef7e4bf979f275c5742091c925889.jpg
+        source:
+            type: gov
+    -
+        file: gov/99cc2b07bb2df1a911efa1f4d73dd249.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:

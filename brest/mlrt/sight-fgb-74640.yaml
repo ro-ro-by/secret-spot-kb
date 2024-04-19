@@ -19,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74640'
+    -
+        file: gov/a7c872521cdedcee5896d89a69a73cb1.jpg
+        source:
+            type: gov
+    -
+        file: gov/c846d782ab9336b3ccc9045f81bd57c0.jpg
+        source:
+            type: gov
+    -
+        file: gov/1875a59303787f886ba93dfe27e530fe.jpg
+        source:
+            type: gov
+    -
+        file: gov/058658db6c2eb975496ae648c9adf8a8.jpg
+        source:
+            type: gov
 location:
     -
         type: point

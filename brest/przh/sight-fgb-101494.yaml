@@ -19,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '101494'
+    -
+        file: gov/5f115fd70dbd6904a88affc6cb71f2c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/11cfa4a714ede99f95132d1c0b32d468.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:

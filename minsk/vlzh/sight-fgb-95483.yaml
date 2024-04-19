@@ -35,6 +35,22 @@ images:
                     - '95485'
                     - '95487'
                     - '95486'
+    -
+        file: gov/987e9cfc4dc78a2118987fd39fa9363d.jpg
+        source:
+            type: gov
+    -
+        file: gov/7f53bb7da9dea0c4db847130a4487b97.jpg
+        source:
+            type: gov
+    -
+        file: gov/da15f6f8a30de43a0d8fa0d88647f3ad.jpg
+        source:
+            type: gov
+    -
+        file: gov/2ae3c9e4fd43434c62d1fd0fab4fc2e1.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

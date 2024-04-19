@@ -10,6 +10,11 @@ gov:
     status: gov_status-local
     area_size: 33.51
     founded_on: 28.10.2008
+images:
+    -
+        file: gov/778dd2e04439d98ce454c08b81f019fd.jpg
+        source:
+            type: gov
 location:
     -
         type: point

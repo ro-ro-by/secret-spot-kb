@@ -19,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74529'
+    -
+        file: gov/fe499f41ddfde271b5d9d6654ec2f179.jpg
+        source:
+            type: gov
+    -
+        file: gov/54bd806b2e5b2cb893bf588234226bf0.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:

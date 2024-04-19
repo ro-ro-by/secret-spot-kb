@@ -27,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '70750'
+    -
+        file: gov/9a708e4d5f3926be661698c706298aa2.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d66d2a221eaecdfcf20c2acf055bda0.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d5a245f70cd3f1bdeaad0f97f5f9af8.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:

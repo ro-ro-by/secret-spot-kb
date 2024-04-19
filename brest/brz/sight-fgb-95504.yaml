@@ -35,6 +35,10 @@ images:
                     - '95506'
                     - '95507'
                     - '95505'
+    -
+        file: gov/7202024b701bc3decbd185339104d78d.png
+        source:
+            type: gov
 location:
     -
         type: geojson

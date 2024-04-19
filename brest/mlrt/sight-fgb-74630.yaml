@@ -19,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74630'
+    -
+        file: gov/9013e3fedc5d24d0280c340574bc6b10.jpg
+        source:
+            type: gov
+    -
+        file: gov/cb1be0fa2a29431fec659de70d499732.jpg
+        source:
+            type: gov
+    -
+        file: gov/ea984a315a785ffe4dc964fe94212989.jpg
+        source:
+            type: gov
+    -
+        file: gov/696521e3fbce1145a7b33c1184709a88.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:

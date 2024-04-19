@@ -21,6 +21,18 @@ images:
                 post_id:
                     - '95463'
                     - '95462'
+    -
+        file: gov/2912ef31ccefdcbfa23f629d6c86ef67.jpg
+        source:
+            type: gov
+    -
+        file: gov/84874a06a8d8e436dc1718be57ea3a00.jpg
+        source:
+            type: gov
+    -
+        file: gov/583dc005ee975d4fc5f80bb915f4bbba.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

@@ -19,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75411'
+    -
+        file: gov/cf723c69108b5554fd604e82548f3124.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

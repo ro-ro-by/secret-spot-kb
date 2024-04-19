@@ -9,6 +9,7 @@ gov:
     type: gov_type-reserve
     status: gov_status-country
     area_size: 6727.3
+    founded_on: ''
 images:
     -
         file: f678e441b8eb3e0dc2a6f6557d6a8609.jpg
@@ -18,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '97972'
+    -
+        file: gov/898a038a1bd48eb064fee549d9a3e822.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

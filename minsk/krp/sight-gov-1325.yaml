@@ -9,6 +9,11 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-local
     founded_on: 22.11.2006
+images:
+    -
+        file: gov/67328b6c9a3888ca040d042fc383c8fd.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:

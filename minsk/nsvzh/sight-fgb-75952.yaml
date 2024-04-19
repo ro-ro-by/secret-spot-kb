@@ -19,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75952'
+    -
+        file: gov/a70e1ae6d78bded609a56504094b3898.jpg
+        source:
+            type: gov
+    -
+        file: gov/41239b4568d21d2cdc28e003955e5d8f.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:

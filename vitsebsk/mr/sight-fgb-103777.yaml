@@ -22,6 +22,22 @@ images:
         meta:
             author: 'В. Ф. Вінакураў'
             version: 1999
+    -
+        file: gov/4394d800799feee135ee7488985a4153.jpg
+        source:
+            type: gov
+    -
+        file: gov/7313c2906802972a10045a262f40b2e2.jpg
+        source:
+            type: gov
+    -
+        file: gov/101e086d20a79e7ca43809db370a7ec3.jpg
+        source:
+            type: gov
+    -
+        file: gov/38901de217832bc5ad7acd52b025651a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

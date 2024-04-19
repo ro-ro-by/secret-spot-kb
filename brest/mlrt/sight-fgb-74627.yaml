@@ -19,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74627'
+    -
+        file: gov/7376db677b2737ad6d24c0416549434a.jpg
+        source:
+            type: gov
+    -
+        file: gov/56e130b211773dddac06727496dd4e7b.jpg
+        source:
+            type: gov
+    -
+        file: gov/413ffd4791d718830ff9d274f5744810.jpg
+        source:
+            type: gov
 location:
     -
         type: point

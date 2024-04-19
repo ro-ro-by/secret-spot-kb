@@ -38,6 +38,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77211'
+    -
+        file: gov/fb69fbf80a5f159ffc7709e83a4f4d9f.jpg
+        source:
+            type: gov
+    -
+        file: gov/c1caf852450ffd5f9bb19f568ae9d4ad.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:

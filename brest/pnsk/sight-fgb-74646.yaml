@@ -19,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74646'
+    -
+        file: gov/26cf4e7935e36c4dee59637062666246.jpg
+        source:
+            type: gov
+    -
+        file: gov/d6e6e2b4870de22a46268fb60a206244.jpg
+        source:
+            type: gov
+    -
+        file: gov/c1531384be30d536f10be643f92637bd.jpg
+        source:
+            type: gov
 tree:
     type: elm
 location:

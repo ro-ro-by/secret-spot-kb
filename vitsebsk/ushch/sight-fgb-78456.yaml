@@ -10,6 +10,15 @@ gov:
     status: gov_status-country
     area_size: 34.5
     founded_on: 05.06.2015
+images:
+    -
+        file: gov/c524fb81aa5220bedda067ea512dee37.jpg
+        source:
+            type: gov
+    -
+        file: gov/7224b793233479d7683b5a18d226d7e8.jpg
+        source:
+            type: gov
 location:
     -
         type: point

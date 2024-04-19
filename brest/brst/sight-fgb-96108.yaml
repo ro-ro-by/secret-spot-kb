@@ -19,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '96108'
+    -
+        file: gov/66c75a5591541513bdf21dd61d734a58.jpg
+        source:
+            type: gov
+    -
+        file: gov/6161eb147e52023f4475ab8d83e33e16.jpg
+        source:
+            type: gov
 tree:
     type: honey_locust
 location:

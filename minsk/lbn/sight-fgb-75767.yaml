@@ -10,6 +10,11 @@ gov:
     status: gov_status-local
     area_size: 0.002
     founded_on: 24.10.2008
+images:
+    -
+        file: gov/fed22ce223559f33d03994a50ec027c7.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:

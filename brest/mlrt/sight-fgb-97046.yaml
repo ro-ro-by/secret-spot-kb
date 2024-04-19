@@ -19,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '97046'
+    -
+        file: gov/3bc0c93730230eba4957aa0bf2d758e3.jpg
+        source:
+            type: gov
+    -
+        file: gov/9620e0823f78d5255109a81df8ed3e9f.jpg
+        source:
+            type: gov
 tree:
     type: birch_black
 location:

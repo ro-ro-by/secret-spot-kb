@@ -9,6 +9,7 @@ gov:
     type: gov_type-monument_botanical
     status: gov_status-country
     area_size: 0.0085
+    founded_on: ''
 images:
     -
         file: 6b42858750a62b6760a41c65c33d1166.jpg
@@ -26,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74534'
+    -
+        file: gov/5fe1fd90199a2f7171ed2aeaa947805b.jpg
+        source:
+            type: gov
+    -
+        file: gov/9a7eab3a3ff04dd52447f66528cbc4b6.jpg
+        source:
+            type: gov
 tree:
     type: carya
 location:

@@ -27,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76060'
+    -
+        file: gov/eb12422cfd87823871f659cbff83c465.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:

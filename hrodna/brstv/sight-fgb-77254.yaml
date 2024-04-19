@@ -21,6 +21,14 @@ images:
                 post_id:
                     - '77254'
                     - '79462'
+    -
+        file: gov/3bff5241fb93990cc5f39d995f05e611.jpg
+        source:
+            type: gov
+    -
+        file: gov/ee8deb59d9d65d2a74addca05b319f81.jpg
+        source:
+            type: gov
 location:
     -
         type: point

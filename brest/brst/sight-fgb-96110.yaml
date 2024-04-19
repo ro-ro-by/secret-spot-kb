@@ -10,6 +10,19 @@ gov:
     status: gov_status-local
     area_size: 0.016
     founded_on: 30.12.2019
+images:
+    -
+        file: gov/d8da82c46492074e27a4165fee392558.jpg
+        source:
+            type: gov
+    -
+        file: gov/737b214834fd29b6d1f120746d4871e4.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d37664ab07128a361974f5955d2ad18.jpg
+        source:
+            type: gov
 tree:
     type: plane_tree
 location:

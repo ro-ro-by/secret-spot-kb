@@ -10,6 +10,11 @@ gov:
     status: gov_status-country
     area_size: 0.022
     founded_on: '1972'
+images:
+    -
+        file: gov/c47eb5b5ebe1233c4e9e82f09a47a815.jpg
+        source:
+            type: gov
 tree:
     type: beech
 location:

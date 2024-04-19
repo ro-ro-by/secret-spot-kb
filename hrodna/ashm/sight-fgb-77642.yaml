@@ -8,6 +8,7 @@ gov:
     title: 'Валун «Большой камень» смолянковский'
     type: gov_type-monument_geological
     status: gov_status-country
+    founded_on: ''
 images:
     -
         file: 3ba0cf473215bc1e067d1b7606e0f82c.jpg
@@ -36,6 +37,14 @@ images:
                 post_id: '77642'
         meta:
             author: ВалероС
+    -
+        file: gov/f3fa99e38e9903491987f627de88d824.jpg
+        source:
+            type: gov
+    -
+        file: gov/e0ff2d1ee23d6ea77a8ae1fdd77f5423.jpg
+        source:
+            type: gov
 location:
     -
         type: point

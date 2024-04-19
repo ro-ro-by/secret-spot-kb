@@ -22,6 +22,10 @@ images:
                     - '74823'
                     - '75088'
                     - '74965'
+    -
+        file: gov/8563d47dacaa244ecafa5a815339950a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson

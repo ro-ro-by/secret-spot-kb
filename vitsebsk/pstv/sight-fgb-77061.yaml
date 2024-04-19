@@ -9,6 +9,7 @@ gov:
     type: gov_type-monument_geological
     status: gov_status-country
     area_size: 0.0017
+    founded_on: ''
 images:
     -
         file: e9f3cea97d829fe4cd5f264c51bf61e8.jpg
@@ -51,6 +52,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77061'
+    -
+        file: gov/4272f3065dbef0b373329beca477f4bb.jpg
+        source:
+            type: gov
 location:
     -
         type: point
