@@ -1,0 +1,20 @@
+id: sight-oopt-26313
+title: 'Удебненская гряда'
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-grdk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26313.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26313'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26313'

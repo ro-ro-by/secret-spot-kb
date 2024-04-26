@@ -1,0 +1,20 @@
+id: sight-oopt-26628
+title: 'Загальский массив'
+belongsTo:
+    region: region-minsk
+    subregion: subregion-lbn
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26628.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26628'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26628'

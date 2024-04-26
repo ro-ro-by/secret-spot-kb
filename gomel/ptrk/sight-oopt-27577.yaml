@@ -1,0 +1,20 @@
+id: sight-oopt-27577
+title: 'Дубрава в кв.86'
+belongsTo:
+    region: region-gomel
+    subregion: subregion-ptrk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27577.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27577'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27577'

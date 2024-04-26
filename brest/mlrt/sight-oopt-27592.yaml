@@ -1,0 +1,20 @@
+id: sight-oopt-27592
+title: Дуб
+belongsTo:
+    region: region-brest
+    subregion: subregion-mlrt
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27592.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27592'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27592'

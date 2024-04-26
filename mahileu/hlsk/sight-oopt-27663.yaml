@@ -1,0 +1,20 @@
+id: sight-oopt-27663
+title: Жалвинец-2
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27663.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27663'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27663'

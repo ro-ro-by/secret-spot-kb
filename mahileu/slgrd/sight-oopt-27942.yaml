@@ -1,0 +1,20 @@
+id: sight-oopt-27942
+title: 'Торфяное месторождение "Смотрово"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27942.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27942'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27942'

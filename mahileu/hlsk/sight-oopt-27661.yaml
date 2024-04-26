@@ -1,0 +1,20 @@
+id: sight-oopt-27661
+title: Згоды
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27661.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27661'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27661'

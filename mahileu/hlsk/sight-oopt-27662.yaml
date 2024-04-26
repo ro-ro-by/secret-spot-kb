@@ -1,0 +1,20 @@
+id: sight-oopt-27662
+title: Придорожный
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27662.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27662'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27662'

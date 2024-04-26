@@ -1,0 +1,20 @@
+id: sight-oopt-26874
+title: Дубрава
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26874.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26874'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26874'

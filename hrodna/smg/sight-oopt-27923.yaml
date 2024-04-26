@@ -1,0 +1,20 @@
+id: sight-oopt-27923
+title: Валун
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-smg
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27923.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27923'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27923'

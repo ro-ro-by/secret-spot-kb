@@ -1,0 +1,20 @@
+id: sight-oopt-26792
+title: Журало
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-byh
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26792.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26792'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26792'

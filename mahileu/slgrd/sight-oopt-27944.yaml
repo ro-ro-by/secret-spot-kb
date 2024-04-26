@@ -1,0 +1,20 @@
+id: sight-oopt-27944
+title: 'Торфяное месторождение "Хвощи"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27944.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27944'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27944'

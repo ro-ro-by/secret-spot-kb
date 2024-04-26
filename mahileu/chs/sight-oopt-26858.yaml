@@ -1,0 +1,20 @@
+id: sight-oopt-26858
+title: Березовое
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-chs
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26858.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26858'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26858'

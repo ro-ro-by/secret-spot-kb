@@ -1,0 +1,20 @@
+id: sight-oopt-26430
+title: Воротень
+belongsTo:
+    region: region-gomel
+    subregion: subregion-svlg
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26430.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26430'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26430'

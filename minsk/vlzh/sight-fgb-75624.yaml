@@ -4,6 +4,15 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26562.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26562'
 meta:
     fgb:
         post_id: '75624'
@@ -15,3 +24,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75624#75624'
                 version: '27 Oct 2021, Wed, 15:50'
+        -
+            type: oopt
+            oopt:
+                id: '26562'

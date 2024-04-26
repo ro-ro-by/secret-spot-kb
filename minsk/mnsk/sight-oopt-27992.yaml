@@ -1,0 +1,20 @@
+id: sight-oopt-27992
+title: 'Урочище "Зайцев луг"'
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27992.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27992'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27992'

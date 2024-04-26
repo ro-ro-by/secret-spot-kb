@@ -1,0 +1,20 @@
+id: sight-oopt-27939
+title: 'Торфяное месторождение "Заброже"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27939.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27939'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27939'

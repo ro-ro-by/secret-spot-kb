@@ -28,6 +28,14 @@ location:
             lat: 52.918354
             lon: 26.410002
         source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26923.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26923'
 meta:
     fgb:
         post_id: '74616'
@@ -43,3 +51,7 @@ meta:
             type: web
             web:
                 url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/81'
+        -
+            type: oopt
+            oopt:
+                id: '26923'

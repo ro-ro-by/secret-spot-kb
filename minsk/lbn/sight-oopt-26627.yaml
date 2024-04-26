@@ -1,0 +1,20 @@
+id: sight-oopt-26627
+title: Вежань
+belongsTo:
+    region: region-minsk
+    subregion: subregion-lbn
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26627.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26627'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26627'

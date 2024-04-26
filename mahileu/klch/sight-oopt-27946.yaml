@@ -1,0 +1,20 @@
+id: sight-oopt-27946
+title: 'Глубокий Лог'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-klch
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27946.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27946'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27946'

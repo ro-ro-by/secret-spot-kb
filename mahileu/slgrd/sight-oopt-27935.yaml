@@ -1,0 +1,20 @@
+id: sight-oopt-27935
+title: 'Торфяное месторождение "Выгар"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27935.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27935'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27935'

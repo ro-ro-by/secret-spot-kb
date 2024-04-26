@@ -1,0 +1,20 @@
+id: sight-oopt-27542
+title: Пограничный
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-ashm
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27542.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27542'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27542'

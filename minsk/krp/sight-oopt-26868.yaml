@@ -1,0 +1,20 @@
+id: sight-oopt-26868
+title: Дубрава
+belongsTo:
+    region: region-minsk
+    subregion: subregion-krp
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26868.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26868'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26868'

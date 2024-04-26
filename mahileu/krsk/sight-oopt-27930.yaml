@@ -1,0 +1,20 @@
+id: sight-oopt-27930
+title: Ткачево
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-krsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27930.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27930'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27930'

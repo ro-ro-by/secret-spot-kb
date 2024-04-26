@@ -1,0 +1,20 @@
+id: sight-oopt-27681
+title: Извенский
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-nvg
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27681.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27681'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27681'

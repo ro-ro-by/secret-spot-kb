@@ -4,28 +4,6 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
-gov:
-    title: 'Заказник «Студенка»'
-    type: gov_type-reserve
-    status: gov_status-local
-    area_size: 753.87
-    founded_on: 08.12.2008
-images:
-    -
-        file: gov/647b492c9338327d9c3028c2297af014.jpg
-        source:
-            type: gov
-    -
-        file: gov/aae86a63f586fa0072d361d98cdf3002.jpg
-        source:
-            type: gov
-location:
-    -
-        type: point
-        coordinates:
-            lat: 54.001951
-            lon: 28.244314
-        source: gov
 meta:
     fgb:
         post_id: '74755'
@@ -37,7 +15,3 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74755#74755'
                 version: '23 Jun 2020, Tue, 0:02'
-        -
-            type: web
-            web:
-                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1230'

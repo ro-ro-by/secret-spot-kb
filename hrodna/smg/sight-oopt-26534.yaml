@@ -1,0 +1,20 @@
+id: sight-oopt-26534
+title: 'Мартишки (Березы)'
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-smg
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26534.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26534'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26534'

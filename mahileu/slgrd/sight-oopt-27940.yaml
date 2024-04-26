@@ -1,0 +1,20 @@
+id: sight-oopt-27940
+title: 'Торфяное месторождение "Петроченков угол"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27940.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27940'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27940'

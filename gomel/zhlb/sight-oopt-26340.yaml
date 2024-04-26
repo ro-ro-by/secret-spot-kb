@@ -1,0 +1,20 @@
+id: sight-oopt-26340
+title: Дубовка
+belongsTo:
+    region: region-gomel
+    subregion: subregion-zhlb
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26340.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26340'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26340'

@@ -1,0 +1,20 @@
+id: sight-oopt-26391
+title: Снопище
+belongsTo:
+    region: region-gomel
+    subregion: subregion-ptrk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26391.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26391'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26391'

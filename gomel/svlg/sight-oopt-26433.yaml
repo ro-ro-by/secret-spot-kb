@@ -1,0 +1,20 @@
+id: sight-oopt-26433
+title: Светлогорский
+belongsTo:
+    region: region-gomel
+    subregion: subregion-svlg
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26433.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26433'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26433'

@@ -1,0 +1,20 @@
+id: sight-oopt-26630
+title: 'Пасецкий Бор'
+belongsTo:
+    region: region-minsk
+    subregion: subregion-lbn
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26630.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26630'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26630'

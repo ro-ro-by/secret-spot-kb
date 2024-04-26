@@ -4,6 +4,15 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-elsk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26438.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26438'
 meta:
     fgb:
         post_id: '75260'
@@ -15,3 +24,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75260#75260'
                 version: '22 Jan 2021, Fri, 12:54'
+        -
+            type: oopt
+            oopt:
+                id: '26438'

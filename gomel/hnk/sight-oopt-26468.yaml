@@ -1,0 +1,20 @@
+id: sight-oopt-26468
+title: 'Парк "Хойники"'
+belongsTo:
+    region: region-gomel
+    subregion: subregion-hnk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26468.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26468'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26468'

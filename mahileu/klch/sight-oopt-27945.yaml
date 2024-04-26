@@ -1,0 +1,20 @@
+id: sight-oopt-27945
+title: Барсуки
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-klch
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27945.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27945'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27945'

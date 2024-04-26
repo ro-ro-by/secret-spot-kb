@@ -1,0 +1,20 @@
+id: sight-oopt-27937
+title: 'Торфяное месторождение "Дубровское"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27937.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27937'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27937'

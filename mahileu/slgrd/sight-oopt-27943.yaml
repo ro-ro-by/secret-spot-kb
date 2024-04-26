@@ -1,0 +1,20 @@
+id: sight-oopt-27943
+title: 'Торфяное месторождение "Узмутное"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27943.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27943'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27943'

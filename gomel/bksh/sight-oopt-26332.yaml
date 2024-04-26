@@ -1,0 +1,20 @@
+id: sight-oopt-26332
+title: Острова
+belongsTo:
+    region: region-gomel
+    subregion: subregion-bksh
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26332.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26332'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26332'

@@ -1,0 +1,20 @@
+id: sight-oopt-27951
+title: Засушка
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-klch
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27951.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27951'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27951'

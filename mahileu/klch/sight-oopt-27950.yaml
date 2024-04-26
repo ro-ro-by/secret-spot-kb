@@ -1,0 +1,20 @@
+id: sight-oopt-27950
+title: Заямныш
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-klch
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27950.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27950'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27950'

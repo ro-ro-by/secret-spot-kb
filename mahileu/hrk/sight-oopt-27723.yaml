@@ -1,0 +1,20 @@
+id: sight-oopt-27723
+title: Горелое
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hrk
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27723.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27723'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27723'

@@ -1,0 +1,20 @@
+id: sight-oopt-27941
+title: 'Торфяное месторождение "Свенцино"'
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27941.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27941'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27941'

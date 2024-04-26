@@ -1,0 +1,20 @@
+id: sight-oopt-26339
+title: 'Александровский Мох'
+belongsTo:
+    region: region-gomel
+    subregion: subregion-zhlb
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26339.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26339'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26339'

@@ -1,0 +1,20 @@
+id: sight-oopt-26429
+title: Улицы
+belongsTo:
+    region: region-gomel
+    subregion: subregion-rgch
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26429.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26429'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26429'

@@ -1,0 +1,20 @@
+id: sight-oopt-26335
+title: Чистолужье
+belongsTo:
+    region: region-gomel
+    subregion: subregion-bksh
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26335.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26335'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26335'

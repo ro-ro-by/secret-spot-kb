@@ -1,0 +1,20 @@
+id: sight-oopt-27604
+title: 'Пойма реки "Щара"'
+belongsTo:
+    region: region-brest
+    subregion: subregion-lhv
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27604.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27604'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27604'

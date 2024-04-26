@@ -1,0 +1,20 @@
+id: sight-oopt-26482
+title: Лусковицы
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-dtl
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26482.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26482'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '26482'
