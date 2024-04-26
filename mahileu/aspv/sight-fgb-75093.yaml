@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Эталонное насаждение'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 5.7
+    founded_on: 26.03.2003
 images:
     -
         file: 37297a3c085a69cc617fb5a85cb3d23c.jpg
@@ -58,6 +64,20 @@ location:
             lat: '53.359580'
             lon: '28.848233'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.35958
+            lon: 28.848233
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27871.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27871'
 meta:
     fgb:
         post_id: '75093'
@@ -69,3 +89,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75093#75093'
                 version: '20 Jun 2023, Tue, 21:19'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1372'
+        -
+            type: oopt
+            oopt:
+                id: '27871'

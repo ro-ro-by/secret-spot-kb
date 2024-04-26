@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Гряда «Свайгинская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 70.0
+    founded_on: 18.01.2008
 images:
     -
         file: 90e3adfddcf4730bc7bffa776a4812be.jpg
@@ -14,6 +20,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77737'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.754922
+            lon: 26.470477
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26957.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26957'
 meta:
     fgb:
         post_id: '77737'
@@ -25,3 +46,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77737#77737'
                 version: '08 Nov 2021, Mon, 15:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/543'
+        -
+            type: oopt
+            oopt:
+                id: '26957'

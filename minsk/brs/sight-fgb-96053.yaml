@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Заказник «Черневский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 1026.53
+    founded_on: 27.12.2007
 images:
     -
         file: 936a119f64747968b19093416ad1b937.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '96053'
+    -
+        file: gov/89a0fae7465991c7037b7879188d7cfd.jpg
+        source:
+            type: gov
+    -
+        file: gov/d998a03a3a2dc811318a5ad4f9fd097d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.01082
+            lon: 28.96313
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27476.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27476'
 meta:
     fgb:
         post_id: '96053'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96053#96053'
                 version: '10 Jun 2020, Wed, 12:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/334'
+        -
+            type: oopt
+            oopt:
+                id: '27476'

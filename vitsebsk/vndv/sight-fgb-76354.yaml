@@ -4,6 +4,32 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Стрешницкий массив возвышенностей'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.24
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/36e6e58b889bf91b2bd83b546c9eae12.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.956616
+            lon: 28.419142
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27545.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27545'
 meta:
     fgb:
         post_id: '76354'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76354#76354'
                 version: '01 Jul 2020, Wed, 23:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1248'
+        -
+            type: oopt
+            oopt:
+                id: '27545'

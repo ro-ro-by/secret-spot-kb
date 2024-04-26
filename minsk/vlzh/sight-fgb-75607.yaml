@@ -4,6 +4,12 @@ type: conglomerate
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Ледниковый конгломерат «Раковский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00325
+    founded_on: 19.03.2007
 images:
     -
         file: 635e293f7798a908d5efa17b6d1b5909.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75607'
+    -
+        file: gov/ee05b16b163d2882bf6457a31ef49363.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +46,12 @@ location:
             lat: '53.972347'
             lon: '27.078334'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.97234
+            lon: 27.07833
+        source: gov
 meta:
     fgb:
         post_id: '75607'
@@ -47,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75607#75607'
                 version: '27 Oct 2021, Wed, 22:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/276'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Валун «Дырявый камень» каптарунский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00045
+    founded_on: 25.04.2011
 images:
     -
         file: 7ac8bdf0d8c94df6de5fdbf0d2538b47.jpg
@@ -41,6 +47,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77065'
+    -
+        file: gov/afbe2c9a997e0a4e7d703f5375f0aadb.png
+        source:
+            type: gov
 location:
     -
         type: point
@@ -54,6 +64,12 @@ location:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=106007#106007'
                 version: '08 Apr 2024, Mon, 12:43'
+    -
+        type: point
+        coordinates:
+            lat: 55.063
+            lon: 26.224
+        source: gov
 meta:
     fgb:
         post_id: '77065'
@@ -65,3 +81,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77065#77065'
                 version: '11 May 2022, Wed, 6:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/384'

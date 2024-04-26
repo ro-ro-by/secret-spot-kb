@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Ваньковщина»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 764.43
+    founded_on: 16.10.2006
 images:
     -
         file: ee585122caf930d7808fc8d355db6600.jpg
@@ -13,6 +19,17 @@ images:
             type: fgb
             fgb:
                 post_id: '74960'
+    -
+        file: gov/6e55fd8df95a38ee4f5ef43e725ba859.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.611851
+            lon: 29.241654
+        source: gov
 meta:
     fgb:
         post_id: '74960'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74960#74960'
                 version: '17 Sep 2021, Fri, 9:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1393'

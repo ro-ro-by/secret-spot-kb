@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Тарелочный камень Язненский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00255
+    founded_on: 23.09.2011
 images:
     -
         file: e3bd3991525b6b209db35892d0e600a8.jpg
@@ -16,6 +22,41 @@ images:
         meta:
             author: 'В. Ф. Вінакураў'
             version: 1999
+    -
+        file: gov/2e571368a19fb466caa1afe82da6162b.jpg
+        source:
+            type: gov
+    -
+        file: gov/a462d8a2f1b273aa751b9f164f45d94a.jpg
+        source:
+            type: gov
+    -
+        file: gov/2129c2bc98d6eb3060ddf14505e16723.jpg
+        source:
+            type: gov
+    -
+        file: gov/a7bf500f71cd57701e9f4eab1d4656b8.jpg
+        source:
+            type: gov
+    -
+        file: gov/75fb7a21b8f77ee4732b7e03ef5d3e2f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.417111
+            lon: 28.160206
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27847.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27847'
 meta:
     fgb:
         post_id: '76943'
@@ -27,3 +68,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76943#76943'
                 version: '17 Aug 2022, Wed, 13:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/992'
+        -
+            type: oopt
+            oopt:
+                id: '27847'

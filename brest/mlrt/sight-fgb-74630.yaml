@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Хотиславские липы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.04
+    founded_on: 24.08.2012
 images:
     -
         file: c07b990824a66e9aa8b02a70d692564e.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74630'
+    -
+        file: gov/9013e3fedc5d24d0280c340574bc6b10.jpg
+        source:
+            type: gov
+    -
+        file: gov/cb1be0fa2a29431fec659de70d499732.jpg
+        source:
+            type: gov
+    -
+        file: gov/ea984a315a785ffe4dc964fe94212989.jpg
+        source:
+            type: gov
+    -
+        file: gov/696521e3fbce1145a7b33c1184709a88.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:
@@ -22,6 +44,12 @@ location:
             lat: 51.7075
             lon: 24.091944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.7075
+            lon: 24.091944
+        source: gov
 meta:
     fgb:
         post_id: '74630'
@@ -33,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74630#74630'
                 version: '22 Sep 2022, Thu, 22:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/179'

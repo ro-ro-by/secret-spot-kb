@@ -4,6 +4,17 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Межновский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00119
+    founded_on: 31.12.2009
+images:
+    -
+        file: gov/a250844bdcf7be4f6246b8a654b77ee6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,20 @@ location:
             lat: 55.79225
             lon: 29.03019
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.79225
+            lon: 29.030194
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27774.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27774'
 meta:
     fgb:
         post_id: '77096'
@@ -22,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77096#77096'
                 version: '10 Aug 2021, Tue, 13:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1001'
+        -
+            type: oopt
+            oopt:
+                id: '27774'

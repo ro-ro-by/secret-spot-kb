@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Сосна
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    founded_on: 14.08.1995
 images:
     -
         file: d9d9001668b469cf6a3338f6b5640124.jpg
@@ -13,6 +18,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77374'
+    -
+        file: gov/c379462aa108d3a339f1b41d719b1c09.jpg
+        source:
+            type: gov
+    -
+        file: gov/2c6d664388e3d2efe25799ed7646a217.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -22,6 +35,20 @@ location:
             lat: 53.12103
             lon: 24.99539
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.121069
+            lon: 24.995356
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27679.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27679'
 meta:
     fgb:
         post_id: '77374'
@@ -33,3 +60,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77374#77374'
                 version: '08 Nov 2022, Tue, 20:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/644'
+        -
+            type: oopt
+            oopt:
+                id: '27679'

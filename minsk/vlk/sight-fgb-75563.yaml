@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Парк «Луковец»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.26
+    founded_on: 27.05.1987
 images:
     -
         file: 2f8a5a5e4630e4d824ca9cfe54156185.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75563'
+    -
+        file: gov/ac20c2626ff2349b6cd2d00e11cf30f9.jpg
+        source:
+            type: gov
+    -
+        file: gov/90d1cd9a8d021b3b331ddec6ca11e2ef.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,20 @@ location:
             lat: 54.326917
             lon: 27.454306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.326664
+            lon: 27.454578
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27700.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27700'
 meta:
     fgb:
         post_id: '75563'
@@ -31,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75563#75563'
                 version: '09 Nov 2022, Wed, 0:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1100'
+        -
+            type: oopt
+            oopt:
+                id: '27700'

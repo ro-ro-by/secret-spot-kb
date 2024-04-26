@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» юшковичский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0007
+    founded_on: 18.03.2008
 images:
     -
         file: 6dd59894ddde3929d5dba50a504ed7a7.jpg
@@ -41,6 +47,21 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1995
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.9379
+            lon: 26.92991
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27727.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27727'
 meta:
     fgb:
         post_id: '75905'
@@ -52,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75905#75905'
                 version: '19 May 2022, Thu, 12:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/308'
+        -
+            type: oopt
+            oopt:
+                id: '27727'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Гора Стражиная'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 95.13
+    founded_on: 30.12.1997
 images:
     -
         file: 6fdf1dd9d2f16c0eb0d2c0fbfac35c84.jpg
@@ -21,6 +27,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77702'
+    -
+        file: gov/2f0ad88248ef3582cbae81f3130f6409.jpg
+        source:
+            type: gov
+    -
+        file: gov/6eed6a17941a2e75ee1bc0dd1d1cac35.jpg
+        source:
+            type: gov
+    -
+        file: gov/621b93003c857d8cb450e9a1970a7bb2.jpg
+        source:
+            type: gov
+    -
+        file: gov/2b00a9820e64145cb2eeded9d4cce1e4.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.209478
+            lon: 25.478872
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26557.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26557'
 meta:
     fgb:
         post_id: '77702'
@@ -32,3 +69,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77702#77702'
                 version: '29 Oct 2021, Fri, 15:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/694'
+        -
+            type: oopt
+            oopt:
+                id: '26557'

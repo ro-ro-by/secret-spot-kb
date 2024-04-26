@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Старинная парковая усадьба «Массоляны»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.55
+    founded_on: 24.10.2003
 images:
     -
         file: cedb432fbba8a2342beb2a9570ce63da.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77256'
+    -
+        file: gov/6603a447f12ab8818e198b589a352973.jpg
+        source:
+            type: gov
+    -
+        file: gov/656a4726000faf358dbfe9abbef64c7d.jpg
+        source:
+            type: gov
+    -
+        file: gov/eddb44396e416607e1c184f1eb04f6c9.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -31,6 +49,20 @@ location:
             osm:
                 type: way
                 id: 637832924
+    -
+        type: point
+        coordinates:
+            lat: 53.356583
+            lon: 24.00975
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27672.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27672'
 osm:
     -
         type: way
@@ -46,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77256#77256'
                 version: '08 Nov 2022, Tue, 20:37'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/621'
+        -
+            type: oopt
+            oopt:
+                id: '27672'

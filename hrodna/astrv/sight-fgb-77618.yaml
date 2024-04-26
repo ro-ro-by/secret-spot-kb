@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Захаришкинский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00079
+    founded_on: 17.02.1995
 images:
     -
         file: 3dacacfd69aa735e2974babb5f51901c.jpg
@@ -34,6 +40,14 @@ images:
                 post_id: '77618'
         meta:
             author: ВалероС
+    -
+        file: gov/ac894f1e243ac8e8700c5e79b8290a9a.jpg
+        source:
+            type: gov
+    -
+        file: gov/4832190fb22248e8bc642c89db3d3426.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -41,6 +55,12 @@ location:
             lat: '54.703525'
             lon: '25.821406'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.703525
+            lon: 25.821406
+        source: gov
 meta:
     fgb:
         post_id: '77618'
@@ -52,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77618#77618'
                 version: '26 Nov 2021, Fri, 9:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/745'

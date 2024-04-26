@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Заказник "Изин"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1250.44
+    founded_on: 25.11.1988
 images:
     -
         file: de54732b95f3cbd6b6ff543e5de81eb9.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '74652'
+    -
+        file: gov/fc276b7f8d36d8f91a729037f64cd46f.jpg
+        source:
+            type: gov
+    -
+        file: gov/d758e0cec569ea984817ffc4f35b25cf.jpg
+        source:
+            type: gov
+    -
+        file: gov/3a24d01f56dd9cb56daf045840f26f8f.jpg
+        source:
+            type: gov
+    -
+        file: gov/f8b72844672b30a5c0025eb0b4f33cf1.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.029046
+            lon: 25.937458
+        source: gov
 meta:
     fgb:
         post_id: '74652'
@@ -24,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74652#74652'
                 version: '09 Apr 2021, Fri, 10:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1080'

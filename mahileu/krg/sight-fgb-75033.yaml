@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-krg
+gov:
+    title: 'Заказник «Пойма реки Друть»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 314.0
+    founded_on: 15.12.2003
 images:
     -
         file: 1adfdfb704ccfe4126099ed9a20b8c31.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '75033'
+    -
+        file: gov/2a5cd8f2659dc0e66c93c9e7fc74a029.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.158144
+            lon: 29.768534
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26832.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26832'
 meta:
     fgb:
         post_id: '75033'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75033#75033'
                 version: '18 Sep 2021, Sat, 13:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1376'
+        -
+            type: oopt
+            oopt:
+                id: '26832'

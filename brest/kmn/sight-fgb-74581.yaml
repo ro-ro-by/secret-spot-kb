@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-kmn
 forest:
     dominated_type: ivy
+gov:
+    title: 'Верховичский плющевник'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0028
+    founded_on: 25.10.2001
 images:
     -
         file: 9bd84fad76f0ca24cf2dbdbd792ccac1.jpg
@@ -25,6 +31,14 @@ images:
                 post_id: '74581'
         meta:
             author: ЗУК
+    -
+        file: gov/cd008701fe46b66669a12e50a634d36c.jpg
+        source:
+            type: gov
+    -
+        file: gov/51d00d74e0a31f7a00ec0527e02e12e1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -32,6 +46,20 @@ location:
             lat: 52.478917
             lon: 23.519389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.478917
+            lon: 23.519389
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27757.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27757'
 meta:
     fgb:
         post_id: '74581'
@@ -43,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74581#74581'
                 version: '22 Sep 2022, Thu, 21:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/159'
+        -
+            type: oopt
+            oopt:
+                id: '27757'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Чертов камень» шкленниковский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0014
+    founded_on: 18.03.2008
 images:
     -
         file: 7985883507248825730b3af085f3ab5e.jpg
@@ -16,6 +22,29 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1995
+    -
+        file: gov/2b11944dd829605269ee2601ee67bd1d.jpg
+        source:
+            type: gov
+    -
+        file: gov/13424a8180e159ec34a34b92490d5543.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.78011
+            lon: 27.05945
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27738.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27738'
 meta:
     fgb:
         post_id: '75909'
@@ -27,3 +56,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75909#75909'
                 version: '26 Apr 2021, Mon, 22:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/307'
+        -
+            type: oopt
+            oopt:
+                id: '27738'

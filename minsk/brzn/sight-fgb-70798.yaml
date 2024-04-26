@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Дуб черешчатый «Любушанский-2»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.0165
+    founded_on: 26.04.2007
 images:
     -
         file: 80f49e31a3752538fdd5bb378b79011a.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '70798'
+    -
+        file: gov/24fc25fe65b56d277c4b55a236292750.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +32,20 @@ location:
             lat: 53.788944
             lon: 29.257889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.788944
+            lon: 29.257889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27694.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27694'
 meta:
     fgb:
         post_id: '70798'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70798#70798'
                 version: '21 Sep 2022, Wed, 11:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/482'
+        -
+            type: oopt
+            oopt:
+                id: '27694'

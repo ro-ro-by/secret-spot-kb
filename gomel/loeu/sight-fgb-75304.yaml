@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-loeu
+gov:
+    title: 'Старинный парк «Сутково»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 10.77
+    founded_on: 22.12.1998
 images:
     -
         file: d52386414d7a109e60cecd7e5cc2ca41.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75304'
+    -
+        file: gov/7ce89ecbd75283b6422c49c88b91488b.jpg
+        source:
+            type: gov
+    -
+        file: gov/7c5e73cadbc4d07e03e988cf67398361.jpg
+        source:
+            type: gov
+    -
+        file: gov/9c224e2a4a53e4bccde05f1e33debda4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,12 @@ location:
             lat: 52.03067
             lon: 30.73173
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.043361
+            lon: 30.721111
+        source: gov
 meta:
     fgb:
         post_id: '75304'
@@ -31,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75304#75304'
                 version: '03 Nov 2022, Thu, 13:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/751'

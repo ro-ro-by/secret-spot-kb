@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Погребищенские родники'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 11.88
+    founded_on: 27.10.2008
 images:
     -
         file: 389acda609b91e132b85b8009be21c70.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75742'
         meta:
             author: 'Сергей Глиндзич'
+    -
+        file: gov/9e888ba78769787ab442758664c7b1aa.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,12 @@ location:
             lat: '54.25861'
             lon: '28.01539'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.25861
+            lon: 28.01539
+        source: gov
 meta:
     fgb:
         post_id: '75742'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75742#75742'
                 version: '30 Sep 2021, Thu, 12:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1140'

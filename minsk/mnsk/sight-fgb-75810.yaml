@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Подсады»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 1038.84
+    founded_on: 03.11.2022
 images:
     -
         file: 8d9198a19d0560d78bbd4ecf9dbdb7cf.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75810'
+    -
+        file: gov/8c6dddb0ff2a331d578d5f2c20337794.jpg
+        source:
+            type: gov
+    -
+        file: gov/84604bcbb469c2f1b741dbe2c16c1776.jpg
+        source:
+            type: gov
+    -
+        file: gov/84646578fb8a910da7d3fba36c53b364.jpg
+        source:
+            type: gov
+    -
+        file: gov/6322187e03c5e61d40311ac84b20d5f0.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 8235715
+    -
+        type: point
+        coordinates:
+            lat: 53.94666
+            lon: 27.15
+        source: gov
 osm:
     -
         type: relation
@@ -38,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75810#75810'
                 version: '25 Jan 2021, Mon, 22:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/338'

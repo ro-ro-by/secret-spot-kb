@@ -4,6 +4,36 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Большой камень Лапуновский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.001551
+    founded_on: 06.12.2011
+images:
+    -
+        file: gov/e1a45c39a464c191167ddcae6af472d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/87a045647bc3a5b2f1184546e4a20906.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.375
+            lon: 27.85
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27832.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27832'
 meta:
     fgb:
         post_id: '77191'
@@ -15,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77191#77191'
                 version: '08 May 2021, Sat, 12:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/921'
+        -
+            type: oopt
+            oopt:
+                id: '27832'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: Дубатовское
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 839.5
+    founded_on: 22.08.1978
 images:
     -
         file: ffa7c5fbf98bc6553cf2cbef086f8d7b.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77724'
+    -
+        file: gov/4f6def6072a5fd56b034516a64608411.jpg
+        source:
+            type: gov
+    -
+        file: gov/6c26855f98f679c7548fcc1a58781dc7.jpg
+        source:
+            type: gov
+    -
+        file: gov/c3dbae357af6431a1fd36eb9ca38144b.jpg
+        source:
+            type: gov
+    -
+        file: gov/3891deac9c4d62879a8651aef24ad581.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.582313
+            lon: 26.530557
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26199.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26199'
 meta:
     fgb:
         post_id: '77724'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77724#77724'
                 version: '08 Nov 2021, Mon, 12:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/501'
+        -
+            type: oopt
+            oopt:
+                id: '26199'

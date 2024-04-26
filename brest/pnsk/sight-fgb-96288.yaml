@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Парк "Дубое"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 19.6892
+    founded_on: 26.07.2016
 images:
     -
         file: d2350ffe8d01f39c0607de95a524785e.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '96288'
+    -
+        file: gov/219948fbcc7028205ecf9d82985afe5d.jpg
+        source:
+            type: gov
+    -
+        file: gov/992781b6ba566a1d2e4430deb39c4d21.jpg
+        source:
+            type: gov
+    -
+        file: gov/2c0f5f0fbf11cdb7bb6c3163a6cad75d.jpg
+        source:
+            type: gov
+    -
+        file: gov/13e05163e4513c49b10405ac5169ac60.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,12 @@ location:
             lat: 52.089444
             lon: 25.770556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.089444
+            lon: 25.770556
+        source: gov
 meta:
     fgb:
         post_id: '96288'
@@ -31,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96288#96288'
                 version: '22 Sep 2022, Thu, 23:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/192'

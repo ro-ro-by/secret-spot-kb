@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» кучкунский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0007
+    founded_on: 19.03.2007
 images:
     -
         file: 14aa1c751adb177e84273412cf40da7e.jpg
@@ -32,6 +38,10 @@ images:
                 post_id: '75595'
         meta:
             author: ВалероС
+    -
+        file: gov/740466a0375f3f590d433ec7f96d33a5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +49,12 @@ location:
             lat: '54.011841'
             lon: '27.106147'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.01184
+            lon: 27.10614
+        source: gov
 meta:
     fgb:
         post_id: '75595'
@@ -50,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75595#75595'
                 version: '27 Oct 2021, Wed, 22:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/289'

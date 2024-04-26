@@ -4,6 +4,29 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Дендропарк Верхнедвинского лесхоза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 18.7
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/341d8c63aad9022bef81807549119e1b.jpg
+        source:
+            type: gov
+    -
+        file: gov/03064c5885ffa390a1dec0802cd3ae72.jpg
+        source:
+            type: gov
+    -
+        file: gov/07c91d1ee423dbcad9e9ef2aa8e8eadf.jpg
+        source:
+            type: gov
+    -
+        file: gov/c83a3b41751a11960319e7ce76648476.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +34,20 @@ location:
             lat: 55.743417
             lon: 27.969889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.743948
+            lon: 27.968577
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26273.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26273'
 meta:
     fgb:
         post_id: '76348'
@@ -22,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76348#76348'
                 version: '23 Sep 2022, Fri, 0:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/945'
+        -
+            type: oopt
+            oopt:
+                id: '26273'

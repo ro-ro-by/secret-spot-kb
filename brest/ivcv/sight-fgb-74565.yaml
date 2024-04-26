@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Новинская хвоя'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0488
+    founded_on: 14.12.2007
 images:
     -
         file: 2eb63026723d002b358a2b8e216d2f44.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74565'
+    -
+        file: gov/c65ed5a378ab535d93920c14ad58080c.jpg
+        source:
+            type: gov
+    -
+        file: gov/9ce878c3e29f1e15c63e300e415630b3.jpg
+        source:
+            type: gov
+    -
+        file: gov/53c381541a5127082687839aefc865c9.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -30,6 +48,12 @@ location:
             lat: 52.566806
             lon: 25.907583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.566806
+            lon: 25.907583
+        source: gov
 meta:
     fgb:
         post_id: '74565'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74565#74565'
                 version: '22 Sep 2022, Thu, 21:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/146'

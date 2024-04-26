@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Родник «Кипячка»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 3.14
+    founded_on: 30.10.2020
 images:
     -
         file: 2dba079704f6fc911b68b91abad02065.jpg
@@ -23,6 +29,10 @@ images:
                 post_id: '75964'
         meta:
             author: Victoryor
+    -
+        file: gov/781fdc6a7c9cdf674399bb6342b942d6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +40,12 @@ location:
             lat: '53.39776'
             lon: '28.39142'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.397778
+            lon: 28.391417
+        source: gov
 meta:
     fgb:
         post_id: '75964'
@@ -41,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75964#75964'
                 version: '10 Sep 2021, Fri, 12:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1196'

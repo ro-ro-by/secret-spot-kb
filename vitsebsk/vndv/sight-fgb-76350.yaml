@@ -4,6 +4,25 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Старинный парк «Сарьянский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 20.0
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/d9e43f98a7bad57f4f1b901f030c9f87.jpg
+        source:
+            type: gov
+    -
+        file: gov/3f8360162220622263f587ac1099cd9c.jpg
+        source:
+            type: gov
+    -
+        file: gov/6e6d4c70d6cdc62c3cdf799fb10cfe96.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +30,20 @@ location:
             lat: 55.911889
             lon: 27.894472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.911889
+            lon: 27.894472
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26277.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26277'
 meta:
     fgb:
         post_id: '76350'
@@ -22,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76350#76350'
                 version: '23 Sep 2022, Fri, 0:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/863'
+        -
+            type: oopt
+            oopt:
+                id: '26277'

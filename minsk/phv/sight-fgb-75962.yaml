@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Матеевичский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 1802.19
+    founded_on: 27.12.2007
 images:
     -
         file: 2c17db7c28b61c0f618f01a01f5e579a.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75962'
+    -
+        file: gov/5676e1fa472b058aaffc1a9bbca1160f.jpg
+        source:
+            type: gov
+    -
+        file: gov/6b7f3590ab260b909cbbec1a81e8ca27.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,20 @@ location:
             osm:
                 type: way
                 id: 444422175
+    -
+        type: point
+        coordinates:
+            lat: 53.40239
+            lon: 28.26236
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27617.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27617'
 osm:
     -
         type: way
@@ -38,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75962#75962'
                 version: '03 Sep 2021, Fri, 21:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/344'
+        -
+            type: oopt
+            oopt:
+                id: '27617'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Колодки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1927.57
+    founded_on: 29.12.2014
 images:
     -
         file: c5c05434d24865808c19ab467acf7a4a.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '96304'
+    -
+        file: gov/e05b091b4d0b1696b84bb8eaeaa68b5f.jpg
+        source:
+            type: gov
+    -
+        file: gov/2a124725ae9ec10bcc0162e153c7141c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.620349
+            lon: 26.714649
+        source: gov
 meta:
     fgb:
         post_id: '96304'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96304#96304'
                 version: '14 Nov 2020, Sat, 21:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1055'

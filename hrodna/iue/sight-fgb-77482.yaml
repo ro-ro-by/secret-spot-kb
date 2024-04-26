@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Валун «Баранишкинский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.002014
+    founded_on: 31.07.2006
 images:
     -
         file: 2c7f6317f67cb5b9e2588b281fe6ac23.jpg
@@ -24,6 +30,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77482'
+    -
+        file: gov/17400ef5c208d08c5ed2c25ddd6c90e0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +41,12 @@ location:
             lat: '53.966479'
             lon: '26.034034'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.966479
+            lon: 26.034034
+        source: gov
 meta:
     fgb:
         post_id: '77482'
@@ -42,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77482#77482'
                 version: '17 Aug 2022, Wed, 23:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/562'

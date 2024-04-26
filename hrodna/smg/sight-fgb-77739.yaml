@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: Мицкевичский
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 4228.6
+    founded_on: 13.04.2004
 images:
     -
         file: d16c81f5d2e6fa8c47a338d1ca8fd265.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77739'
+    -
+        file: gov/601b56f7044f1f72005d67c8881fd530.jpg
+        source:
+            type: gov
+    -
+        file: gov/48c87190ca42317e835c1ff6de9d3b05.jpg
+        source:
+            type: gov
+    -
+        file: gov/19f5a7b8a89cb61eb769d2d5293b3667.jpg
+        source:
+            type: gov
+    -
+        file: gov/ff6a0bcd2716b9d80d97e7945a39acd7.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.490284
+            lon: 26.522318
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27548.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27548'
 meta:
     fgb:
         post_id: '77739'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77739#77739'
                 version: '09 Nov 2021, Tue, 8:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/604'
+        -
+            type: oopt
+            oopt:
+                id: '27548'

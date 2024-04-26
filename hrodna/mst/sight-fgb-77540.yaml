@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Обнажение «Княжеводцы»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 2.0
+    founded_on: 31.07.2006
 images:
     -
         file: 9d0d7a4c3789a976d7056a32b0d6a7f2.jpg
@@ -23,6 +29,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77540'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.455671
+            lon: 24.292653
+        source: gov
 meta:
     fgb:
         post_id: '77540'
@@ -34,3 +47,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77540#77540'
                 version: '16 Feb 2021, Tue, 0:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/561'

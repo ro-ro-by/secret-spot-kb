@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-shkl
 forest:
     dominated_type: oak
+gov:
+    title: 'Отдельно стоящие дубы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 107.4
+    founded_on: 26.07.2006
 images:
     -
         file: fb2ed47c89b473bdc73a9c513475c8ca.jpg
@@ -15,6 +21,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75203'
+    -
+        file: gov/a2e07119bec414a0d8dee508bb62ebd5.jpg
+        source:
+            type: gov
+    -
+        file: gov/9e606e341600eae7760ca2fd6c2fefac.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +45,20 @@ location:
             osm:
                 type: way
                 id: 662182190
+    -
+        type: point
+        coordinates:
+            lat: 54.270639
+            lon: 30.106472
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27811.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27811'
 osm:
     -
         type: way
@@ -46,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75203#75203'
                 version: '11 Nov 2022, Fri, 0:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1333'
+        -
+            type: oopt
+            oopt:
+                id: '27811'

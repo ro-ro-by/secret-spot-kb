@@ -4,6 +4,32 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Шведская гора'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/ab665f32672753be36183e6685fc4cdf.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.163674
+            lon: 27.246279
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27872.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27872'
 meta:
     fgb:
         post_id: '75878'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75878#75878'
                 version: '28 Sep 2021, Tue, 15:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1209'
+        -
+            type: oopt
+            oopt:
+                id: '27872'

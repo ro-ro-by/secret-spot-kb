@@ -1,0 +1,44 @@
+id: sight-gov-782
+title: Дубрава
+type: forest
+belongsTo:
+    region: region-gomel
+    subregion: subregion-ptrk
+forest:
+    dominated_type: oak
+gov:
+    title: Дубрава
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.2
+    founded_on: 28.10.2004
+images:
+    -
+        file: gov/70e2c0f601faf6395a5003fba94fa444.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.387979
+            lon: 28.687949
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26458.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26458'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/782'
+        -
+            type: oopt
+            oopt:
+                id: '26458'

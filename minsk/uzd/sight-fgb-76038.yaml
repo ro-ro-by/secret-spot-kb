@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-uzd
+gov:
+    title: 'Валуны «Каменские»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0043
+    founded_on: 19.03.2007
 images:
     -
         file: a253c5d455847d8e435d4c4b42fa7ba3.jpg
@@ -35,6 +41,37 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1987
+    -
+        file: gov/f24d6d69af730bb4e2e645911f055049.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d3bb0bef9624ab6d3328081c43fd478.jpg
+        source:
+            type: gov
+    -
+        file: gov/852f85183483d38be876eb520e5d20fb.jpg
+        source:
+            type: gov
+    -
+        file: gov/276681685ffabb83c3e9e4869559b6b1.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.37095
+            lon: 27.17236
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27978.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27978'
 meta:
     fgb:
         post_id: '76038'
@@ -46,3 +83,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76038#76038'
                 version: '05 May 2022, Thu, 14:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/315'
+        -
+            type: oopt
+            oopt:
+                id: '27978'

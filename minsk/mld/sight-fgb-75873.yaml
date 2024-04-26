@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Вередовский дендропарк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.38
+    founded_on: 12.10.2012
+images:
+    -
+        file: gov/1e3913feabdde123256b421063c3a1e2.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,12 @@ location:
             lat: 54.327139
             lon: 27.013917
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.327139
+            lon: 27.013917
+        source: gov
 meta:
     fgb:
         post_id: '75873'
@@ -22,3 +39,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75873#75873'
                 version: '09 Nov 2022, Wed, 0:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1184'

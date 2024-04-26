@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-bksh
+gov:
+    title: 'Дуб черешчатый «Буда-Кошелевский-2»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.02
+    founded_on: 26.04.2007
 images:
     -
         file: bcf8d413baecd04a2ff2364f637a48e9.png
@@ -33,6 +39,14 @@ images:
                 post_id: '75232'
         meta:
             author: Victoryor
+    -
+        file: gov/888f7b2ba1179c7a93ad0477a26dc58c.jpg
+        source:
+            type: gov
+    -
+        file: gov/2667f56da8f4974023de78892b6ff66b.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -42,6 +56,20 @@ location:
             lat: '52.726727'
             lon: '30.490691'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.726727
+            lon: 30.490691
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27824.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27824'
 meta:
     fgb:
         post_id: '75232'
@@ -53,3 +81,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75232#75232'
                 version: '27 Aug 2022, Sat, 0:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/351'
+        -
+            type: oopt
+            oopt:
+                id: '27824'

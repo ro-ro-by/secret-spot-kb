@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - pine
+gov:
+    title: 'Участки широколиственно-сосновых лесов'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 96.9
+    founded_on: 03.12.2008
 images:
     -
         file: 6a97364ed09d8191bc45289c1b41e218.jpg
@@ -17,6 +23,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75428'
+    -
+        file: gov/aff18ac3d4d1a965bd3aaa2096b5c02a.jpg
+        source:
+            type: gov
+    -
+        file: gov/9235bc3794edf7d8208388914908e638.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -24,6 +38,20 @@ location:
             lat: 52.47603
             lon: 29.95322
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.476028
+            lon: 29.953222
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27822.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27822'
 meta:
     fgb:
         post_id: '75428'
@@ -35,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75428#75428'
                 version: '03 Nov 2022, Thu, 13:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/797'
+        -
+            type: oopt
+            oopt:
+                id: '27822'

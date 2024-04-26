@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Хомичский дуб-гигант'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.066
+    founded_on: 26.09.2007
 images:
     -
         file: eaae40de202318d9476759e836a67ee3.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74738'
+    -
+        file: gov/fa839a2d2a95a2e37f3dabfbaf068fee.jpg
+        source:
+            type: gov
+    -
+        file: gov/da016dc99c94a7c9bcb9c914698d8947.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -30,6 +44,12 @@ location:
             lat: 53.34058
             lon: 30.00269
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.340583
+            lon: 30.002694
+        source: gov
 meta:
     fgb:
         post_id: '74738'
@@ -41,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74738#74738'
                 version: '21 Sep 2022, Wed, 23:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1292'

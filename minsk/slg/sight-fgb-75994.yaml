@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Гричино-Старобинский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 705.56
+    founded_on: 27.07.2006
 images:
     -
         file: 2d846ce29147c9dce8b5bc52c3de55ed.jpg
@@ -13,6 +19,33 @@ images:
             type: fgb
             fgb:
                 post_id: '75994'
+    -
+        file: gov/3d331ecce0124d822179e37ab2c8a078.jpg
+        source:
+            type: gov
+    -
+        file: gov/1ac0c24b56e8db0071c2c9ae832684e8.jpg
+        source:
+            type: gov
+    -
+        file: gov/c163c9d7ed369682a67dc839d292acc5.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.688056
+            lon: 27.303333
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26668.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26668'
 meta:
     fgb:
         post_id: '75994'
@@ -24,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75994#75994'
                 version: '09 Sep 2021, Thu, 14:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1234'
+        -
+            type: oopt
+            oopt:
+                id: '26668'

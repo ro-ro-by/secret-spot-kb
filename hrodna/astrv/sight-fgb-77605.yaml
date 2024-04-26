@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Заказник «Сарочанские озера»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 14738.97
+    founded_on: 25.05.2008
 images:
     -
         file: 3f50bc0e3c77c05810975b2636a738f9.jpg
@@ -13,6 +19,38 @@ images:
             type: fgb
             fgb:
                 post_id: '77605'
+    -
+        file: gov/107330de033ec7ffbe4fca9f5223a267.jpg
+        source:
+            type: gov
+    -
+        file: gov/7db96784ebb97ce12f61ff5d0cf14461.jpg
+        source:
+            type: gov
+    -
+        file: gov/6693f965b74fd56de5e55bd7763fba31.jpg
+        source:
+            type: gov
+    -
+        file: gov/bc0e2bd2b9e6096cacde7ce864170c00.jpg
+        source:
+            type: gov
+    -
+        file: gov/86cc9463fe153ec19ef0af72e0d79f02.jpg
+        source:
+            type: gov
+    -
+        file: gov/2f413b466f60b7d1b62683490e36d80b.jpg
+        source:
+            type: gov
+    -
+        file: gov/25ef0fc9f53cbe844e26eee4cb91cdbb.jpg
+        source:
+            type: gov
+    -
+        file: gov/dc723621680ccfe60d1caaadd4a61bf3.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +61,20 @@ location:
             osm:
                 type: relation
                 id: 7893819
+    -
+        type: point
+        coordinates:
+            lat: 54.8772
+            lon: 26.1914
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26197.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26197'
 osm:
     -
         type: relation
@@ -38,3 +90,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77605#77605'
                 version: '06 Nov 2021, Sat, 8:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/119'
+        -
+            type: oopt
+            oopt:
+                id: '26197'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» гулийский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0009
+    founded_on: 18.03.2008
 images:
     -
         file: 0e5821eb2beb660e4e11d4313e81c780.jpg
@@ -47,6 +53,20 @@ location:
             lat: '54.921927'
             lon: '27.201117'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.92185
+            lon: 27.19393
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27731.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27731'
 meta:
     fgb:
         post_id: '75900'
@@ -58,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75900#75900'
                 version: '30 Oct 2021, Sat, 20:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/299'
+        -
+            type: oopt
+            oopt:
+                id: '27731'

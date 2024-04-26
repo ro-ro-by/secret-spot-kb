@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Дуб «Суворовский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.022
+    founded_on: ''
 images:
     -
         file: d62a23191882f249bc76fe9cef431574.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74607'
+    -
+        file: gov/634a96bcda28e7b5c8683b59d1019d9a.jpg
+        source:
+            type: gov
+    -
+        file: gov/e0d006f01b9d1436cf768f80df7c6e14.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,20 @@ location:
             lat: 51.986056
             lon: 24.539528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.986056
+            lon: 24.539528
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27521.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27521'
 meta:
     fgb:
         post_id: '74607'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74607#74607'
                 version: '22 Sep 2022, Thu, 22:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/78'
+        -
+            type: oopt
+            oopt:
+                id: '27521'

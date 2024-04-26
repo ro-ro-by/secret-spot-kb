@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Обнажение «Полочаны»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 4.5
+    founded_on: 19.03.2007
 images:
     -
         file: 195e5fca3fd7f5063ea375884d1b34f9.jpg
@@ -24,6 +30,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75605'
+    -
+        file: gov/cb024c2c9ac7dcdd45451e17ce7c71d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/19a95b9e69f4c9b25d6137564976f6d9.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -34,6 +48,20 @@ location:
             osm:
                 type: relation
                 id: 12009851
+    -
+        type: point
+        coordinates:
+            lat: 54.00292
+            lon: 26.98267
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27433.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27433'
 osm:
     -
         type: relation
@@ -49,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75605#75605'
                 version: '27 Oct 2021, Wed, 16:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/284'
+        -
+            type: oopt
+            oopt:
+                id: '27433'

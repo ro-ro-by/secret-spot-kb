@@ -4,6 +4,24 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Гора городище Званская'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 18.9
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/058ad529c79f7abc7923c25db1fb721b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.620461
+            lon: 28.586584
+        source: gov
 meta:
     fgb:
         post_id: '77020'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77020#77020'
                 version: '14 May 2021, Fri, 15:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1251'

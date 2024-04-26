@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» высочкинский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001
+    founded_on: 18.03.2008
 images:
     -
         file: 55792e9d69dd6d69dfd18057c9c021ec.jpg
@@ -30,6 +36,29 @@ images:
             type: fgb
             fgb:
                 post_id: '75899'
+    -
+        file: gov/ca793db4726e90b1783fe80ce1190ee2.jpg
+        source:
+            type: gov
+    -
+        file: gov/b5c9e522e05e96392e0714a8a600a01c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.90544
+            lon: 26.90495
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27732.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27732'
 meta:
     fgb:
         post_id: '75899'
@@ -41,3 +70,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75899#75899'
                 version: '26 Apr 2021, Mon, 20:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/298'
+        -
+            type: oopt
+            oopt:
+                id: '27732'

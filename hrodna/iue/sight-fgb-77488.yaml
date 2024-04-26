@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Заказник «Раздоры»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 255.0
+    founded_on: 20.05.1996
 images:
     -
         file: 96b31f56cb79c98ed0f58ea319ea1b5a.jpg
@@ -13,6 +19,41 @@ images:
             type: fgb
             fgb:
                 post_id: '77488'
+    -
+        file: gov/a6b3ee386588c4f5bb2db8df5e084c02.jpg
+        source:
+            type: gov
+    -
+        file: gov/1f516498881762f8e708f16d2fefba0e.jpg
+        source:
+            type: gov
+    -
+        file: gov/28cf7cb0a5252942b3c9641f829808bc.jpg
+        source:
+            type: gov
+    -
+        file: gov/a80cb68a3cb1e6cd605dc825f1fd2206.jpg
+        source:
+            type: gov
+    -
+        file: gov/b18f37b4c3c2bcf300a09b98993fadff.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.841082
+            lon: 25.627811
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27543.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27543'
 meta:
     fgb:
         post_id: '77488'
@@ -24,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77488#77488'
                 version: '27 Jul 2020, Mon, 22:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/608'
+        -
+            type: oopt
+            oopt:
+                id: '27543'

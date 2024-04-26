@@ -20,6 +20,14 @@ location:
             lat: 54.877778
             lon: 26.814444
         source: fgb
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26766.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26766'
 meta:
     fgb:
         post_id: '75921'
@@ -31,3 +39,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75921#75921'
                 version: '08 Nov 2022, Tue, 23:36'
+        -
+            type: oopt
+            oopt:
+                id: '26766'

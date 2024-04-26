@@ -1,0 +1,30 @@
+id: sight-gov-1310
+title: 'Заказник «Бреньковский»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+gov:
+    title: 'Заказник «Бреньковский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 284.4
+    founded_on: 28.11.2007
+images:
+    -
+        file: gov/fbf939dbf05d519f5537ce572f152a83.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.90616
+            lon: 29.732117
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1310'

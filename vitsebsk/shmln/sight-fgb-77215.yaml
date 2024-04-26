@@ -4,6 +4,12 @@ type: alley
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Дубовая аллея'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.133
+    founded_on: 03.12.2012
 images:
     -
         file: bc76c8c5c0dbba54226a700ed2f3babf.jpg
@@ -29,6 +35,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77215'
+    -
+        file: gov/fb70ddc74730a072d4a3ebdfc8d62afc.jpg
+        source:
+            type: gov
+    -
+        file: gov/f5c77de1f4502eaf671b3aae09027f6a.jpg
+        source:
+            type: gov
+    -
+        file: gov/b84f4d43920b1c92f5de9315ce6d317a.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +54,12 @@ location:
             lat: 55.522389
             lon: 29.514111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.522389
+            lon: 29.514111
+        source: gov
 meta:
     fgb:
         post_id: '77215'
@@ -47,3 +71,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77215#77215'
                 version: '17 Oct 2022, Mon, 21:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/969'

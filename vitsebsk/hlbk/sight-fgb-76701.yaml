@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Камень Прошковский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0028
+    founded_on: 23.02.2012
 images:
     -
         file: e1a1d1309a945f939c9f84c9fc849fa8.jpg
@@ -13,6 +19,17 @@ images:
             type: fgb
             fgb:
                 post_id: '76701'
+    -
+        file: gov/9acd08555cc2c97c6c1623565911638b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.222833
+            lon: 28.064083
+        source: gov
 meta:
     fgb:
         post_id: '76701'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76701#76701'
                 version: '24 Jan 2021, Sun, 11:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/898'

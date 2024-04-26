@@ -1,0 +1,42 @@
+id: sight-gov-831
+title: 'Заказник «Урочище Заручевье»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+gov:
+    title: 'Заказник «Урочище Заручевье»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 460.92
+    founded_on: 28.01.1998
+images:
+    -
+        file: gov/88487605ee2165f22a7db67a163b17b5.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.604274
+            lon: 28.028052
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26357.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26357'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/831'
+        -
+            type: oopt
+            oopt:
+                id: '26357'

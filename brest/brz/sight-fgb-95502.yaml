@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: Бусловка
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 8099.16
+    founded_on: 12.08.1997
 images:
     -
         file: 3890bf500c1d7ebcfcd0bacfae02f2ef.jpg
@@ -15,6 +21,10 @@ images:
                 post_id:
                     - '95502'
                     - '95503'
+    -
+        file: gov/641c6ff2d97e6cd3517fe9f0296511f8.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -25,6 +35,12 @@ location:
             osm:
                 type: relation
                 id: 9235436
+    -
+        type: point
+        coordinates:
+            lat: 52.657028
+            lon: 24.789666
+        source: gov
 osm:
     -
         type: relation
@@ -47,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95503#95503'
                 version: '21 Jan 2021, Thu, 14:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/484'

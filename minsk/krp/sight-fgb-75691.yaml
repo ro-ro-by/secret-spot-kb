@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Родник в д. Старый Сокол'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.00027
+    founded_on: 28.10.2008
 images:
     -
         file: 377bb863a27e0e6b6bd3f770dbd90da2.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75691'
+    -
+        file: gov/6517ecbdc5b90e867a38f6fc7b5f1def.jpg
+        source:
+            type: gov
+    -
+        file: gov/8fdf724b6cfc951484295901ea081637.jpg
+        source:
+            type: gov
+    -
+        file: gov/2e37be395c55de0de72912c8aa5a01ad.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: '54.14159'
             lon: '29.22022'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.14154
+            lon: 29.2204
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27842.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27842'
 meta:
     fgb:
         post_id: '75691'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75691#75691'
                 version: '23 Jan 2022, Sun, 0:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1138'
+        -
+            type: oopt
+            oopt:
+                id: '27842'

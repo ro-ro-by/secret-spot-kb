@@ -1,0 +1,32 @@
+id: sight-gov-1287
+title: Дубрава-3
+type: forest
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+forest:
+    dominated_type: oak
+gov:
+    title: Дубрава-3
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.8
+    founded_on: 11.12.2006
+images:
+    -
+        file: gov/fe061f830a54abce5d1e23f02b14ac2c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.739428
+            lon: 28.403824
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1287'

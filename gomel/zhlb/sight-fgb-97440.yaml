@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-zhlb
+gov:
+    title: 'Заказник «Жлобинский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 8843.1
+    founded_on: 15.12.2014
 images:
     -
         file: 54e947336b1f8f7aaa2f5b68c8c80b96.jpg
@@ -13,6 +19,17 @@ images:
             type: fgb
             fgb:
                 post_id: '97440'
+    -
+        file: gov/75c46de89c34af39aefa8383070c9aa6.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.850694
+            lon: 29.858848
+        source: gov
 meta:
     fgb:
         post_id: '97440'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97440#97440'
                 version: '06 Feb 2021, Sat, 21:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/818'

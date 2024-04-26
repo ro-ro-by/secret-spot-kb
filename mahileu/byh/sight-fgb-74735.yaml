@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-byh
 forest:
     dominated_type: oak
+gov:
+    title: 'Дубовая роща в урочище «Дубки»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 7.22
+    founded_on: 26.09.2007
 images:
     -
         file: b16d6d249136cb6e540104a44278698c.jpg
@@ -15,6 +21,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74735'
+    -
+        file: gov/6452bfddff0281a550c07d7af2bc2f46.jpg
+        source:
+            type: gov
+    -
+        file: gov/7bddd66e1bd2c352f6470df38bdfd52f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: 53.484361
             lon: 30.288639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.484361
+            lon: 30.288639
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26872.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26872'
 meta:
     fgb:
         post_id: '74735'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74735#74735'
                 version: '10 Nov 2022, Thu, 23:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1284'
+        -
+            type: oopt
+            oopt:
+                id: '26872'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Родник «Красный»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 3.6
+    founded_on: 24.10.2008
 images:
     -
         file: f90f23b0d9b206fcab9ad82143af4bb1.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '76024'
+    -
+        file: gov/6b7ce8560295450cd0a0d5a97c7d0c62.jpg
+        source:
+            type: gov
+    -
+        file: gov/7a623e48e3604fd5e228965387540454.jpg
+        source:
+            type: gov
+    -
+        file: gov/93d2e437fbc4006f8f248e11f2e00842.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,20 @@ location:
             lat: '53.77175'
             lon: '26.64375'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.77175
+            lon: 26.64375
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27589.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27589'
 meta:
     fgb:
         post_id: '76024'
@@ -41,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76024#76024'
                 version: '11 Sep 2021, Sat, 11:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1199'
+        -
+            type: oopt
+            oopt:
+                id: '27589'

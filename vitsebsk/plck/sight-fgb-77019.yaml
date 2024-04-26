@@ -4,6 +4,24 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Гора Подлозенка Гомельская'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 43.9
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/426378f2ff0afa292d291aaea88ed797.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.2875
+            lon: 28.744444
+        source: gov
 meta:
     fgb:
         post_id: '77019'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77019#77019'
                 version: '14 May 2021, Fri, 15:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1242'

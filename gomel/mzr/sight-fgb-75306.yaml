@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Заказник «Мозырские овраги»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 1019.77
+    founded_on: 21.02.1986
 images:
     -
         file: a5b875eb381c66c5431679a97845292d.jpg
@@ -21,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75306'
+    -
+        file: gov/2771e68db648dfba7352f0373ca05911.jpg
+        source:
+            type: gov
+    -
+        file: gov/7c64ff3ea53a326f4887115ff08c3872.jpg
+        source:
+            type: gov
+    -
+        file: gov/fba0d62a1bc9cd9039b652e17d568ebc.jpg
+        source:
+            type: gov
+    -
+        file: gov/bdba3b4cd3d5fa8c2f41b1c5145bec42.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -31,6 +53,20 @@ location:
             osm:
                 type: relation
                 id: 6648668
+    -
+        type: point
+        coordinates:
+            lat: 52.01784
+            lon: 29.29789
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26182.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26182'
 osm:
     -
         type: relation
@@ -46,3 +82,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75306#75306'
                 version: '23 Aug 2020, Sun, 22:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/327'
+        -
+            type: oopt
+            oopt:
+                id: '26182'

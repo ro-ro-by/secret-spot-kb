@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Центральный ботанический сад Национальной академии наук Беларуси'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 93.0
+    founded_on: 29.09.1999
 images:
     -
         file: 028307e5e21f3520034fc278ebb6dab9.jpg
@@ -29,6 +35,30 @@ images:
             type: fgb
             fgb:
                 post_id: '75816'
+    -
+        file: gov/88121fbeb3d6984df85f0c85ec0dde45.jpg
+        source:
+            type: gov
+    -
+        file: gov/cc68cdeee5e52495000b28c27ce2d5bd.jpg
+        source:
+            type: gov
+    -
+        file: gov/a57874a6013087171f2a26c2b54cfcf3.jpg
+        source:
+            type: gov
+    -
+        file: gov/cb9658686e020963bb9836bf291dd657.jpg
+        source:
+            type: gov
+    -
+        file: gov/84303d69701501dd80e48b42e29ab58e.jpg
+        source:
+            type: gov
+    -
+        file: gov/759d8b66bf5d0cb1092952ea30d9d916.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -45,6 +75,20 @@ location:
             osm:
                 type: relation
                 id: 222265
+    -
+        type: point
+        coordinates:
+            lat: 53.92155
+            lon: 27.60946
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26915.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26915'
 osm:
     -
         type: relation
@@ -60,3 +104,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75816#75816'
                 version: '21 Sep 2022, Wed, 19:39'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/317'
+        -
+            type: oopt
+            oopt:
+                id: '26915'

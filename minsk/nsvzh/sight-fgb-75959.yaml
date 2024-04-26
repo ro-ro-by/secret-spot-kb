@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Родник «Истоки Лани»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 1.0
+    founded_on: 28.10.2008
 images:
     -
         file: eb431adbe54f4b55336b33a23efafdd1.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75959'
+    -
+        file: gov/fbb2861e0b3bcf92e420795e77839eee.jpg
+        source:
+            type: gov
+    -
+        file: gov/032cc7f5238e5d6e90ea2c38b6bd8b52.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: '53.14879'
             lon: '26.69869'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.14879
+            lon: 26.69869
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27585.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27585'
 meta:
     fgb:
         post_id: '75959'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75959#75959'
                 version: '11 Jul 2022, Mon, 22:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1195'
+        -
+            type: oopt
+            oopt:
+                id: '27585'

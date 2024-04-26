@@ -1,0 +1,40 @@
+id: sight-gov-1286
+title: Дубрава-2
+type: forest
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-hlsk
+forest:
+    dominated_type: oak
+gov:
+    title: Дубрава-2
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 19.3
+    founded_on: 11.12.2006
+images:
+    -
+        file: gov/12b514d0378d33363c4641f04e3df58e.jpg
+        source:
+            type: gov
+    -
+        file: gov/9bf6ad3df2d7a126fe475164c28adf5b.jpg
+        source:
+            type: gov
+    -
+        file: gov/8106d5c8857ed218146b7878fd015c80.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.732056
+            lon: 28.403183
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1286'

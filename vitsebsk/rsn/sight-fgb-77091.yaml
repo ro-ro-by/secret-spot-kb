@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Гора Гвоздиха'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 22.8
+    founded_on: 31.12.2009
 images:
     -
         file: bbbf7102c75b1edb81ce3bfd1851d3b9.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77091'
+    -
+        file: gov/bf9a168f4089f8ab02a23cf2ee6a6188.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: 55.92739
             lon: 29.27294
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.925968
+            lon: 29.275131
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27012.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27012'
 meta:
     fgb:
         post_id: '77091'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77091#77091'
                 version: '10 Aug 2021, Tue, 13:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/933'
+        -
+            type: oopt
+            oopt:
+                id: '27012'

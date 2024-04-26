@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Вековое дерево дуб 2'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.02
+    founded_on: 18.02.2004
 images:
     -
         file: 32c8245abab9564d09926ee738e2fa01.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75047'
+    -
+        file: gov/33afb3751dea7eba33167887d6c162c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/79502e4c1edc9ec5b8421a20eefaca95.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,20 @@ location:
             lat: 53.897139
             lon: 30.319944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.897062
+            lon: 30.319958
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27581.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27581'
 meta:
     fgb:
         post_id: '75047'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75047#75047'
                 version: '11 Nov 2022, Fri, 1:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1375'
+        -
+            type: oopt
+            oopt:
+                id: '27581'

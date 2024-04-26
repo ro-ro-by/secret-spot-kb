@@ -1,0 +1,25 @@
+id: sight-gov-1300
+title: 'Заказник «Липняки»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bbr
+gov:
+    title: 'Заказник «Липняки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 392.81
+    founded_on: 19.12.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.093333
+            lon: 28.750278
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1300'

@@ -1,0 +1,34 @@
+id: sight-gov-185
+title: 'Великоритские грабы'
+type: tree
+belongsTo:
+    region: region-brest
+    subregion: subregion-mlrt
+gov:
+    title: 'Великоритские грабы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0703
+    founded_on: 31.12.2021
+images:
+    -
+        file: gov/8a805bcaee623fa178408b14d88dcbed.jpg
+        source:
+            type: gov
+    -
+        file: gov/86b744d0e53025a525bbc7fcc611b47f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/185'

@@ -4,6 +4,32 @@ type: sacral_hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Ковалевская гора'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 184.16
+    founded_on: 23.02.2012
+images:
+    -
+        file: gov/4e4862401319749859be7f01fa1f2c39.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.122595
+            lon: 27.844523
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26309.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26309'
 meta:
     fgb:
         post_id: '103749'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=103749#103749'
                 version: '03 Jun 2023, Sat, 8:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/900'
+        -
+            type: oopt
+            oopt:
+                id: '26309'

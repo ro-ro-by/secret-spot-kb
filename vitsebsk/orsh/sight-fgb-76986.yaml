@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Холм «Медведевский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 100.0
+    founded_on: 18.03.2008
 images:
     -
         file: 9d3cd3ad57c9d9a7e6ae58b882d23ab6.jpg
@@ -28,6 +34,20 @@ location:
             lat: 54.68124
             lon: 30.50817
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.6814
+            lon: 30.509
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26941.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26941'
 meta:
     fgb:
         post_id: '76986'
@@ -39,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76986#76986'
                 version: '24 May 2021, Mon, 11:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/453'
+        -
+            type: oopt
+            oopt:
+                id: '26941'

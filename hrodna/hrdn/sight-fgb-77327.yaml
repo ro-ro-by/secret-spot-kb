@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Лесопарк "Румлево"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 92.69
+    founded_on: 17.11.1993
 images:
     -
         file: 49108fcdbe07fc26564af1f8dc5f0f8e.jpg
@@ -29,6 +35,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77327'
+    -
+        file: gov/4c7ad670d2b397f4ad7df492273ee8de.jpg
+        source:
+            type: gov
+    -
+        file: gov/ec4c9ba490c054dc595fe478d41fc8e2.jpg
+        source:
+            type: gov
+    -
+        file: gov/018644d653b34c6c5a77965ae37728ad.jpg
+        source:
+            type: gov
+    -
+        file: gov/6974c9db3944994ba979a7f7a831cd3c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -45,6 +67,20 @@ location:
             osm:
                 type: relation
                 id: 116670
+    -
+        type: point
+        coordinates:
+            lat: 53.657028
+            lon: 23.862417
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26542.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26542'
 osm:
     -
         type: relation
@@ -60,3 +96,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77327#77327'
                 version: '03 Nov 2022, Thu, 14:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/635'
+        -
+            type: oopt
+            oopt:
+                id: '26542'

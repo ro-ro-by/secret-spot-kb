@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Парк «Вселюб»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 11.0
+    founded_on: 08.05.2007
 images:
     -
         file: 47ee04c4b1c2c7e13bb25ecb443d4036.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77577'
+    -
+        file: gov/469bccfdf3416c02952f59cca620729a.jpg
+        source:
+            type: gov
+    -
+        file: gov/1cdba1b5cb339d734ccdfe46fae09037.jpg
+        source:
+            type: gov
+    -
+        file: gov/7b3c2c90bcae38cc931a00dbb529afc1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: 53.71953
             lon: 25.80239
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.719991
+            lon: 25.802979
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26954.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26954'
 meta:
     fgb:
         post_id: '77577'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77577#77577'
                 version: '08 Nov 2022, Tue, 20:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/524'
+        -
+            type: oopt
+            oopt:
+                id: '26954'

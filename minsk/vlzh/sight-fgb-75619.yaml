@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Воложинский родник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.158
+    founded_on: 16.10.2008
 images:
     -
         file: 1486d673284ab3fb35ad25b234242655.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75619'
+    -
+        file: gov/86aa5d3bf68b93ec5cf0d66f1f125c59.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: '54.10003'
             lon: '26.53039'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.09987
+            lon: 26.53041
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27739.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27739'
 meta:
     fgb:
         post_id: '75619'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75619#75619'
                 version: '19 Nov 2021, Fri, 9:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1118'
+        -
+            type: oopt
+            oopt:
+                id: '27739'

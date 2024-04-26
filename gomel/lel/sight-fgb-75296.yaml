@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: Липа
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.005
+    founded_on: 04.11.2008
 images:
     -
         file: c0ba94e8249511bfc5a0383d51df40bf.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75296'
+    -
+        file: gov/4a0f8fa8c8f231bdba9744578997613f.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:
@@ -30,6 +40,20 @@ location:
             lat: 51.56389
             lon: 27.78556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.563889
+            lon: 27.785556
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27721.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27721'
 meta:
     fgb:
         post_id: '75296'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75296#75296'
                 version: '03 Nov 2022, Thu, 13:12'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/736'
+        -
+            type: oopt
+            oopt:
+                id: '27721'

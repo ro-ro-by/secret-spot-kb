@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Заказник "Бобровина"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 3655.9
+    founded_on: 04.07.2016
 images:
     -
         file: 94e35e95d7d6adb9d137961391ffa027.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '97032'
+    -
+        file: gov/cb94600c0a2c860c0b32c1923b60193f.jpg
+        source:
+            type: gov
+    -
+        file: gov/e4ec5717b3c78382907cfcdd98a56be6.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d2b056051276b5bb31118acf5ec99cf.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.352323
+            lon: 24.370265
+        source: gov
 meta:
     fgb:
         post_id: '97032'
@@ -24,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97032#97032'
                 version: '15 Nov 2020, Sun, 0:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1092'

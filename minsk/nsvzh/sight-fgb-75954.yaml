@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Парк «Несвиж»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 117.63
+    founded_on: 08.05.2007
+images:
+    -
+        file: gov/61731eb82c86b270f84412dc1f6a0af3.jpg
+        source:
+            type: gov
+    -
+        file: gov/842affcd67810d2d4fe8ed8b8e8c97b5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,20 @@ location:
             lat: 53.225944
             lon: 26.693833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.22594
+            lon: 26.69383
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26976.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26976'
 meta:
     fgb:
         post_id: '75954'
@@ -22,3 +51,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75954#75954'
                 version: '08 Nov 2022, Tue, 23:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/245'
+        -
+            type: oopt
+            oopt:
+                id: '26976'

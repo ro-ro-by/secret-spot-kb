@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-htmsk
 forest:
     dominated_type: birch
+gov:
+    title: 'Боханская березовая роща'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 7.5
+    founded_on: 21.08.1994
 images:
     -
         file: 9e15db783f901c5671d791647a55bdb3.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75140'
+    -
+        file: gov/1529ee3d6e51b469a1f427cb53507399.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d1e55068e98a5f48bb5b783f812ab8e.jpg
+        source:
+            type: gov
+    -
+        file: gov/e6b7d601923ea4328146726fccb48782.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,20 @@ location:
             lat: 53.390111
             lon: 32.489694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.390111
+            lon: 32.489694
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26892.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26892'
 meta:
     fgb:
         post_id: '75140'
@@ -41,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75140#75140'
                 version: '10 Nov 2022, Thu, 23:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1259'
+        -
+            type: oopt
+            oopt:
+                id: '26892'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Родник «Ясенец»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0009
+    founded_on: 28.11.2000
 images:
     -
         file: 10893847b6ab89d22891fd0531e46dbc.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '70743'
+    -
+        file: gov/a972535560ea632c967729993a243bb3.jpg
+        source:
+            type: gov
+    -
+        file: gov/f5ac484fddbf0f348da489351f6db28c.jpg
+        source:
+            type: gov
+    -
+        file: gov/a458447fde63b69c3e30515786c7ce78.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +46,20 @@ location:
             lat: '53.35469'
             lon: '26.05344'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.34469
+            lon: 26.05344
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27828.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27828'
 meta:
     fgb:
         post_id: '70743'
@@ -39,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70743#70743'
                 version: '04 Apr 2022, Mon, 14:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/101'
+        -
+            type: oopt
+            oopt:
+                id: '27828'

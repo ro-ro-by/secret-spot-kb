@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: 'Заказник «Фаличский Мох»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 3176.41
+    founded_on: 01.02.2020
 images:
     -
         file: 25e1cef393ddafcf3ea6ecb89d3b89b4.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76013'
+    -
+        file: gov/32b915250d42daca55c6dc37cd6bbf87.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +33,20 @@ location:
             osm:
                 type: way
                 id: 656557891
+    -
+        type: point
+        coordinates:
+            lat: 53.1124
+            lon: 28.31415
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26214.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26214'
 osm:
     -
         type: way
@@ -38,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76013#76013'
                 version: '22 Jan 2021, Fri, 13:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/349'
+        -
+            type: oopt
+            oopt:
+                id: '26214'

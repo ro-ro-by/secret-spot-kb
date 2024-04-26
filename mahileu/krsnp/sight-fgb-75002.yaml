@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsnp
+gov:
+    title: 'Заказник «Костел»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 4.29
+    founded_on: 28.06.1996
 images:
     -
         file: 57a175fe9e1508d7de7d4fb2ff28cb36.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '75002'
         meta:
             author: 'Александр 6'
+    -
+        file: gov/e98d5cd593d3f25b5e0b5b5ef8039420.jpg
+        source:
+            type: gov
+    -
+        file: gov/2ac7829bd0fb1a15911fca8be9b04651.jpg
+        source:
+            type: gov
+    -
+        file: gov/9126bc3dd21bd5fad557ab2e68e1b6d4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +49,20 @@ location:
             osm:
                 type: way
                 id: 662170502
+    -
+        type: point
+        coordinates:
+            lat: 53.212209
+            lon: 31.544642
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26829.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26829'
 osm:
     -
         type: way
@@ -46,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75002#75002'
                 version: '05 Oct 2021, Tue, 20:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1365'
+        -
+            type: oopt
+            oopt:
+                id: '26829'

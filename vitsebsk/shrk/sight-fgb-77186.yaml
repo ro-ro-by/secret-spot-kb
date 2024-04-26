@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Гора Федотова'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 180.0
+    founded_on: 06.12.2011
 images:
     -
         file: aa6f864629fce5bc51c80e02d5edbd1f.jpg
@@ -13,6 +19,41 @@ images:
             type: fgb
             fgb:
                 post_id: '77186'
+    -
+        file: gov/86b123821a2b8291773f8d06d679003a.jpg
+        source:
+            type: gov
+    -
+        file: gov/d2ad1da73930ff4f437535583589df35.jpg
+        source:
+            type: gov
+    -
+        file: gov/69d35ef13ec1536e6f2ccf8036fc5d71.jpg
+        source:
+            type: gov
+    -
+        file: gov/a7b1b05259d8d3a8ebf5dccf05dde59f.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4275c6995b300729bc9936b95ed211b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.520352
+            lon: 27.3954
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26325.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26325'
 meta:
     fgb:
         post_id: '77186'
@@ -24,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77186#77186'
                 version: '08 May 2021, Sat, 11:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/937'
+        -
+            type: oopt
+            oopt:
+                id: '26325'

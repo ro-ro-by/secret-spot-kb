@@ -1,0 +1,48 @@
+id: sight-gov-1288
+title: Дубрава-4
+type: forest
+belongsTo:
+    region: region-minsk
+    subregion: subregion-lbn
+forest:
+    dominated_type: oak
+gov:
+    title: Дубрава-4
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.0
+    founded_on: 11.12.2006
+images:
+    -
+        file: gov/8f19128c0b0f5cfd131e7d943d4863a1.jpg
+        source:
+            type: gov
+    -
+        file: gov/3455e454123c9167f9e60c465c7956e6.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.742833
+            lon: 28.38225
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27601.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27601'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1288'
+        -
+            type: oopt
+            oopt:
+                id: '27601'

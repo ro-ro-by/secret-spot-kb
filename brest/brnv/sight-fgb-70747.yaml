@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Вольновский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.0
+    founded_on: 28.03.1994
 images:
     -
         file: 7c0683419cb1c516eea0cea77d9dd580.jpg
@@ -23,6 +29,22 @@ images:
                 post_id: '70747'
         meta:
             author: 'Виктор Максимов'
+    -
+        file: gov/64aa3a36ffed8fcad8fdca2487ee45aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/4687b284efc236e3a4359e75a773c788.jpg
+        source:
+            type: gov
+    -
+        file: gov/0f90130d0484b5c5791305192f8ed0c8.jpg
+        source:
+            type: gov
+    -
+        file: gov/a65778e100c05f9d193b28167081198f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +61,20 @@ location:
             osm:
                 type: relation
                 id: 12281415
+    -
+        type: point
+        coordinates:
+            lat: 53.294722
+            lon: 26.235833
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26250.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26250'
 osm:
     -
         type: relation
@@ -54,3 +90,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70747#70747'
                 version: '21 Sep 2022, Wed, 23:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/96'
+        -
+            type: oopt
+            oopt:
+                id: '26250'

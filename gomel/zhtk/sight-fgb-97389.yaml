@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-zhtk
+gov:
+    title: 'Заказник «Булев Мох»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 20037.5
+    founded_on: 02.11.2009
 images:
     -
         file: 6359f57f42a29e15b6a1fc0f0d21b932.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '97389'
+    -
+        file: gov/907d4531d0f57cad7a5bd23e5aa06f89.jpg
+        source:
+            type: gov
+    -
+        file: gov/0c0c6d3ed9b00441ce758153f62276a8.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.426422
+            lon: 27.866241
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26338.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26338'
 meta:
     fgb:
         post_id: '97389'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97389#97389'
                 version: '28 Jan 2021, Thu, 18:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/817'
+        -
+            type: oopt
+            oopt:
+                id: '26338'

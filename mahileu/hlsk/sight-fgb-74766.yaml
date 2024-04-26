@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-hlsk
+gov:
+    title: 'Заказник «Великий мох»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 2865.33
+    founded_on: 22.01.1993
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.78596
+            lon: 28.59816
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26798.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26798'
 meta:
     fgb:
         post_id: '74766'
@@ -15,3 +36,15 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74766#74766'
                 version: '19 Aug 2020, Wed, 23:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/845'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1311'
+        -
+            type: oopt
+            oopt:
+                id: '26798'

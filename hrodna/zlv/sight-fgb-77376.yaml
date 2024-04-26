@@ -4,6 +4,11 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Выход марены "Королинский"'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 22.10.2002
 images:
     -
         file: ce4c7bd554552c157054e21b0769747e.jpg
@@ -23,6 +28,22 @@ images:
                 post_id: '77376'
         meta:
             author: Tegenaria
+    -
+        file: gov/4790f33c583ba7e23b8f305b78008da0.jpg
+        source:
+            type: gov
+    -
+        file: gov/161b23ebad2623918b290baee910df3c.jpg
+        source:
+            type: gov
+    -
+        file: gov/9210c15e16225fc9b337f8dd47f29cfc.jpg
+        source:
+            type: gov
+    -
+        file: gov/91d0abbe137a2a218e26407bfb98b666.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -33,6 +54,12 @@ location:
             osm:
                 type: way
                 id: 502075353
+    -
+        type: point
+        coordinates:
+            lat: 53.088119
+            lon: 24.863506
+        source: gov
 osm:
     -
         type: way
@@ -48,3 +75,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77376#77376'
                 version: '30 Oct 2021, Sat, 19:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/640'

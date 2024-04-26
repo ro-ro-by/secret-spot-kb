@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Валун вблизи д. Переток'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00012
+    founded_on: 24.10.2008
 images:
     -
         file: 74067d8dbf9e0bcac7f4bf2bafdba36c.jpg
@@ -31,6 +37,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75772'
+    -
+        file: gov/ee58f45ed5179062501b336c1d049834.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -41,6 +51,12 @@ location:
             osm:
                 type: relation
                 id: 7065896
+    -
+        type: point
+        coordinates:
+            lat: 52.832139
+            lon: 27.931361
+        source: gov
 osm:
     -
         type: relation
@@ -56,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75772#75772'
                 version: '29 Apr 2023, Sat, 13:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1155'

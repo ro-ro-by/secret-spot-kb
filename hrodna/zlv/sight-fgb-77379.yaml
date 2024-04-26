@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Камень Климовичский с ямками'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 22.10.2002
 images:
     -
         file: c55a2f45a6ca83c0c6d944d25cd3131f.jpg
@@ -44,6 +49,22 @@ images:
                 post_id: '77379'
         meta:
             author: ВалероС
+    -
+        file: gov/b62e2e89c5ec33a13096353a5ce785b2.jpg
+        source:
+            type: gov
+    -
+        file: gov/4fe0a8f0104028d7c81c2e1376357721.jpg
+        source:
+            type: gov
+    -
+        file: gov/ddf5c6bcba565d6f85199b1cd8cc2bc1.jpg
+        source:
+            type: gov
+    -
+        file: gov/3bf33c95761d5cbe87b2287078fbf675.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -51,6 +72,12 @@ location:
             lat: '53.224316'
             lon: '25.044444'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.224322
+            lon: 25.044472
+        source: gov
 meta:
     fgb:
         post_id: '77379'
@@ -62,3 +89,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77379#77379'
                 version: '12 Jun 2023, Mon, 22:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/629'

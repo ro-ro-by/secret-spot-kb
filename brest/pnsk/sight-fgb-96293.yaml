@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Парк "Выжловичи"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 8.57
+    founded_on: 31.12.2019
+images:
+    -
+        file: gov/972881d3f0eee978606a6fb10556c800.jpg
+        source:
+            type: gov
+    -
+        file: gov/93f3e9dc47137b7f117dd310dcc9171c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,12 @@ location:
             lat: 52.176111
             lon: 25.856944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.176111
+            lon: 25.856944
+        source: gov
 meta:
     fgb:
         post_id: '96293'
@@ -22,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96293#96293'
                 version: '22 Sep 2022, Thu, 23:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/196'

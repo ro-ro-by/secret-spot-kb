@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень малиновщинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: 597ffd633995b30b9f6261d326b191db.jpg
@@ -31,6 +36,14 @@ images:
                 post_id: '77297'
         meta:
             author: ВалероС
+    -
+        file: gov/04097a74ae8c4fa2ab5c816cdd1b8519.jpg
+        source:
+            type: gov
+    -
+        file: gov/0de7addee8dfbfab0a864dbddb294090.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +51,12 @@ location:
             lat: '54.122417'
             lon: '25.326888'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.122417
+            lon: 25.326888
+        source: gov
 meta:
     fgb:
         post_id: '77297'
@@ -49,3 +68,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77297#77297'
                 version: '22 Nov 2021, Mon, 22:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/636'

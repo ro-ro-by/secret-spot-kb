@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гора "Пеликан"'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 138.63
+    founded_on: 16.02.1995
 images:
     -
         file: a9187eed8f885cac0a69638d42542715.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77646'
+    -
+        file: gov/5e91d7042fd9366982b0618f32fbc16c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: '54.469940'
             lon: '26.105944'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.46994
+            lon: 26.105944
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26554.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26554'
 meta:
     fgb:
         post_id: '77646'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77646#77646'
                 version: '04 Nov 2021, Thu, 8:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/754'
+        -
+            type: oopt
+            oopt:
+                id: '26554'

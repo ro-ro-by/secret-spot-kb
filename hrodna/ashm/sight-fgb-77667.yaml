@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Войневичский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00056
+    founded_on: 16.02.1995
 images:
     -
         file: 86584c87391a513016684911ff362575.jpg
@@ -23,6 +29,22 @@ images:
                 post_id: '77667'
         meta:
             author: ВалероС
+    -
+        file: gov/3edbf88d159f043377420783e2292334.jpg
+        source:
+            type: gov
+    -
+        file: gov/f785e3ac073e4f66baa69b9e4a815f23.jpg
+        source:
+            type: gov
+    -
+        file: gov/7858213777f71a495c8dd099a03b9c5b.jpg
+        source:
+            type: gov
+    -
+        file: gov/7bb8eb7fe7f5e8e3a045630c746b080e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +52,12 @@ location:
             lat: '54.367905'
             lon: '26.048453'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.367905
+            lon: 26.048453
+        source: gov
 meta:
     fgb:
         post_id: '77667'
@@ -41,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77667#77667'
                 version: '22 Nov 2021, Mon, 23:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/710'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Парк в д. Скуплино'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.91
+    founded_on: 24.02.1988
 images:
     -
         file: c18719459517303a406d4368fe317669.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75539'
         meta:
             author: 'Юрий Шамкалович'
+    -
+        file: gov/bb7c664bc18c3645024b3c45f83a4539.png
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: 54.433889
             lon: 28.287806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.432003
+            lon: 28.289444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27684.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27684'
 meta:
     fgb:
         post_id: '75539'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75539#75539'
                 version: '08 Nov 2022, Tue, 21:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1099'
+        -
+            type: oopt
+            oopt:
+                id: '27684'

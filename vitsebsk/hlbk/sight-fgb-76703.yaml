@@ -4,6 +4,24 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Камень Припернянский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0028
+    founded_on: 23.02.2012
+images:
+    -
+        file: gov/a5fd312efdbe628fd84d158c1886cad8.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.079028
+            lon: 27.642889
+        source: gov
 meta:
     fgb:
         post_id: '76703'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76703#76703'
                 version: '24 Jan 2021, Sun, 11:12'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/897'

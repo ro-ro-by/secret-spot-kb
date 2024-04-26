@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Родник в урочище Тумель'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 08.12.2008
 images:
     -
         file: 0697d680917a0fb115402d66089eec8e.jpg
@@ -31,6 +37,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75982'
+    -
+        file: gov/944829b4d18236291229487c8f94e65e.jpg
+        source:
+            type: gov
+    -
+        file: gov/0c4794b0e65719d29c38e184e210ba94.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,12 @@ location:
             lat: '53.91553'
             lon: '28.24383'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.91553
+            lon: 28.24383
+        source: gov
 meta:
     fgb:
         post_id: '75982'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75982#75982'
                 version: '22 Jan 2022, Sat, 10:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1197'

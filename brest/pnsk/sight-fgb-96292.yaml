@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Лесопарк "Кудричи"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.15
+    founded_on: 31.12.2019
+images:
+    -
+        file: gov/276bce5831bdeb216758a9ca9e8ba04c.jpg
+        source:
+            type: gov
+    -
+        file: gov/42c767696c9e287cc5c910c06b58d62e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,12 @@ location:
             lat: 52.137861
             lon: 26.394306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.137861
+            lon: 26.394306
+        source: gov
 meta:
     fgb:
         post_id: '96292'
@@ -22,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96292#96292'
                 version: '22 Sep 2022, Thu, 23:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/195'

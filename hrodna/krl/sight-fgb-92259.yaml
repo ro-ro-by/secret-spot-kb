@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Заказник "Ярута"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 735.0
+    founded_on: 04.12.2018
 images:
     -
         file: 909cd108b9adc16e6dfaac112c5a6e09.jpg
@@ -15,6 +21,22 @@ images:
                 post_id: '92259'
         meta:
             author: ВалероС
+    -
+        file: gov/8147ab4b200d49d4c9175e045c9f9e3e.jpg
+        source:
+            type: gov
+    -
+        file: gov/ed198b7feb618e699dd3ead2a1da2080.jpg
+        source:
+            type: gov
+    -
+        file: gov/033a93ef8020a0b0078127ade348cf73.jpg
+        source:
+            type: gov
+    -
+        file: gov/ca396add39a4cb5567e6527e4b739f85.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +44,12 @@ location:
             lat: '53.5346'
             lon: '25.97659'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.353609
+            lon: 25.810417
+        source: gov
 meta:
     fgb:
         post_id: '92259'
@@ -33,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=92259#92259'
                 version: '25 Aug 2021, Wed, 12:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1083'

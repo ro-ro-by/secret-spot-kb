@@ -1,0 +1,42 @@
+id: sight-gov-1369
+title: 'Заказник «Мокровичский»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+gov:
+    title: 'Заказник «Мокровичский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 208.7
+    founded_on: 22.11.2006
+images:
+    -
+        file: gov/95fe46165a1d13bb96edc4ed71e568b7.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.987059
+            lon: 29.657688
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26784.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26784'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1369'
+        -
+            type: oopt
+            oopt:
+                id: '26784'

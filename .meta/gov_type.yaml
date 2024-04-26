@@ -1,0 +1,19 @@
+items:
+    -
+        id: gov_type-reservation
+        title: заповедник
+    -
+        id: gov_type-national_park
+        title: 'национальный парк'
+    -
+        id: gov_type-reserve
+        title: заказник
+    -
+        id: gov_type-monument_geological
+        title: 'геологический памятник природы'
+    -
+        id: gov_type-monument_hydrological
+        title: 'гидрологический памятник природы'
+    -
+        id: gov_type-monument_botanical
+        title: 'ботанический памятник природы'

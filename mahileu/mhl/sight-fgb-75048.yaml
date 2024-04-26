@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Дашковский парк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.4
+    founded_on: 24.02.2006
 images:
     -
         file: 556cad46734513291c86ac5501b43a3a.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75048'
+    -
+        file: gov/2ca433d4dbff31a3be00fa14d2182b16.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: 53.736472
             lon: 30.268306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.736472
+            lon: 30.268306
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26890.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26890'
 meta:
     fgb:
         post_id: '75048'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75048#75048'
                 version: '11 Nov 2022, Fri, 1:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1281'
+        -
+            type: oopt
+            oopt:
+                id: '26890'

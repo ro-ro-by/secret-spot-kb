@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Ястрембельский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.5
+    founded_on: 28.03.1994
 images:
     -
         file: 207b5236e88ddc5b2275187b532e9e3d.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '70745'
+    -
+        file: gov/4417ec005fcdc8322eea24a8baf09fed.jpg
+        source:
+            type: gov
+    -
+        file: gov/e4931e1c20a3b44a10271af3b41ba731.jpg
+        source:
+            type: gov
+    -
+        file: gov/de8f14e07cd626e2094b0e2f37ab01ff.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +47,20 @@ location:
             osm:
                 type: relation
                 id: 12281493
+    -
+        type: point
+        coordinates:
+            lat: 53.029167
+            lon: 25.958333
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26252.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26252'
 osm:
     -
         type: relation
@@ -44,3 +76,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70745#70745'
                 version: '21 Sep 2022, Wed, 23:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/99'
+        -
+            type: oopt
+            oopt:
+                id: '26252'

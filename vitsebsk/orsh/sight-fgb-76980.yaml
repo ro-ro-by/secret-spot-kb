@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Обнажение «Адров»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.005
+    founded_on: 18.03.2008
 images:
     -
         file: 512535679207a699e63f82d32f320ac3.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76980'
+    -
+        file: gov/48daad18b31ed5816902c797e896fcb8.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,12 @@ location:
             lat: 54.46507
             lon: 30.38712
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.4649
+            lon: 30.3872
+        source: gov
 meta:
     fgb:
         post_id: '76980'
@@ -39,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76980#76980'
                 version: '24 May 2021, Mon, 10:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/416'

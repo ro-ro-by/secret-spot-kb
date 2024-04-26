@@ -4,6 +4,44 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Ражневский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00042
+    founded_on: 23.09.2011
+images:
+    -
+        file: gov/81b6314c3b836bd749f8d2006399d008.jpg
+        source:
+            type: gov
+    -
+        file: gov/52468d38da9f1a8400970e84e8f63f44.jpg
+        source:
+            type: gov
+    -
+        file: gov/ce4b184d28ea24f44bde9c4c04ec3f2f.jpg
+        source:
+            type: gov
+    -
+        file: gov/29e79c23703507941595329ad765f5d8.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.586633
+            lon: 27.368367
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27854.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27854'
 meta:
     fgb:
         post_id: '76952'
@@ -15,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76952#76952'
                 version: '30 Apr 2021, Fri, 18:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/979'
+        -
+            type: oopt
+            oopt:
+                id: '27854'

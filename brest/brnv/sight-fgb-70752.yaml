@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Насаждение лиственницы европейской «Молчадское»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 1.6
+    founded_on: 27.12.1963
 images:
     -
         file: 891c548e5b54abf7483ae7a3d496d43e.jpg
@@ -31,6 +37,14 @@ images:
                 post_id: '70752'
         meta:
             author: 'Михаил Шубич'
+    -
+        file: gov/8a26ada76265ab7fa6c3fbbc4cb51430.jpg
+        source:
+            type: gov
+    -
+        file: gov/d3aa63525f09e32c6cc8c911f90bea10.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,20 @@ location:
             lat: 53.358444
             lon: 25.734611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.35844
+            lon: 25.73461
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27516.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27516'
 meta:
     fgb:
         post_id: '70752'
@@ -49,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70752#70752'
                 version: '21 Sep 2022, Wed, 23:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/68'
+        -
+            type: oopt
+            oopt:
+                id: '27516'

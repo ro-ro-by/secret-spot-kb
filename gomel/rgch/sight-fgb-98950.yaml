@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Заказник «Пенный Мох»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 186.36
+    founded_on: 30.06.1993
 images:
     -
         file: 94fb87c673e1b99ba3eb2076b681ff97.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '98950'
+    -
+        file: gov/77b12e11fee2ea0a60ed6e75909a9d2b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.302454
+            lon: 29.837024
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26418.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26418'
 meta:
     fgb:
         post_id: '98950'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98950#98950'
                 version: '09 Oct 2021, Sat, 13:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/840'
+        -
+            type: oopt
+            oopt:
+                id: '26418'

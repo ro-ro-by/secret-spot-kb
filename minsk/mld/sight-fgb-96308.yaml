@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Заказник «Чисть»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1455.79
+    founded_on: 30.12.2014
 images:
     -
         file: 5dc8c8670ebfef86f1bd8e4cb21d6d89.jpg
@@ -13,6 +19,17 @@ images:
             type: fgb
             fgb:
                 post_id: '96308'
+    -
+        file: gov/44a8c77fe1ae4c87701db1ca17280a8e.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.287792
+            lon: 27.182775
+        source: gov
 meta:
     fgb:
         post_id: '96308'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96308#96308'
                 version: '28 Sep 2021, Tue, 15:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1072'

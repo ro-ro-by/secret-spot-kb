@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Пихты кавказские «Маньковичские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.006
+    founded_on: 26.04.2007
 images:
     -
         file: 5175164721c8f5b689274c70881319ee.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74692'
+    -
+        file: gov/97c1da575f9874545ff7b2f42d3bd0ca.jpg
+        source:
+            type: gov
 tree:
     type: fir
 location:
@@ -30,6 +40,20 @@ location:
             lat: 51.896389
             lon: 26.874722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.89627
+            lon: 26.87404
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27530.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27530'
 meta:
     fgb:
         post_id: '74692'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74692#74692'
                 version: '22 Sep 2022, Thu, 23:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/89'
+        -
+            type: oopt
+            oopt:
+                id: '27530'

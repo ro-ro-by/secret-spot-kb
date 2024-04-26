@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-tlch
+gov:
+    title: 'Заказник «Скрипутево»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 34.04
+    founded_on: 24.06.2008
 images:
     -
         file: 0aa60b34a358597367bb83aa0579b91d.jpg
@@ -15,6 +21,34 @@ images:
                 post_id: '77138'
         meta:
             author: 'Дмитрий Ивченко'
+    -
+        file: gov/7a347a0451b6a70d704af9a4c5313441.jpg
+        source:
+            type: gov
+    -
+        file: gov/fe7648a67c44d99454420ea224d98643.jpg
+        source:
+            type: gov
+    -
+        file: gov/16d7474f11b5e24d80db0eeb6f65f0eb.jpg
+        source:
+            type: gov
+    -
+        file: gov/417a0c5e50aab20a506c53832b29c46e.jpg
+        source:
+            type: gov
+    -
+        file: gov/0dce692a6c2c36851870387db47bf07d.jpg
+        source:
+            type: gov
+    -
+        file: gov/9ff48d5e4fce05c63c527b5b9f11378c.jpg
+        source:
+            type: gov
+    -
+        file: gov/c3acaa603678f443802b993df29ac96d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +56,20 @@ location:
             lat: '54.37148'
             lon: '29.80824'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.37148
+            lon: 29.80824
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26293.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26293'
 meta:
     fgb:
         post_id: '77138'
@@ -33,3 +81,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77138#77138'
                 version: '22 Jan 2021, Fri, 10:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1033'
+        -
+            type: oopt
+            oopt:
+                id: '26293'

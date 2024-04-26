@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-ivcv
 forest:
     dominated_type: birch_black
+gov:
+    title: 'Турнянские чёрные берёзы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 11.57
+    founded_on: 18.12.2002
 images:
     -
         file: bf18036b6c54a4c55925b5fb6dec4da1.jpg
@@ -15,6 +21,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74562'
+    -
+        file: gov/30d2392b6fe525f9755cc45fb0ad5a20.jpg
+        source:
+            type: gov
+    -
+        file: gov/05441e4cda54e03145bf9a658c32a750.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: 52.500361
             lon: 25.745972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.500361
+            lon: 25.745972
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27746.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27746'
 meta:
     fgb:
         post_id: '74562'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74562#74562'
                 version: '22 Sep 2022, Thu, 21:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/148'
+        -
+            type: oopt
+            oopt:
+                id: '27746'

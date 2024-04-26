@@ -8,6 +8,12 @@ forest:
     dominated_type: spruce
     types:
         - spruce
+gov:
+    title: 'Островные ельники «Калинковичские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 171.5
+    founded_on: 05.05.2007
 images:
     -
         file: e77477b4981462414bf886deae42055e.jpg
@@ -17,6 +23,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75277'
+    -
+        file: gov/44a4e619405754c22ccbca2c6c65a2aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/f05a385f0ec3d2a6d412bfb43c72f7e2.jpg
+        source:
+            type: gov
+    -
+        file: gov/a9e099f859ed7aab6c0044af52ec3068.jpg
+        source:
+            type: gov
+    -
+        file: gov/304897ed507aaf0ab90c404d77dca391.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -24,6 +46,12 @@ location:
             lat: 52.21586
             lon: 29.11092
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.215861
+            lon: 29.110917
+        source: gov
 meta:
     fgb:
         post_id: '75277'
@@ -35,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75277#75277'
                 version: '03 Nov 2022, Thu, 12:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/355'

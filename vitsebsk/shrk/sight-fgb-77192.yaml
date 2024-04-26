@@ -4,6 +4,40 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Большой камень Пашковский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.001408
+    founded_on: 06.12.2011
+images:
+    -
+        file: gov/b26368d969e44fe7b585d698772f0d70.jpg
+        source:
+            type: gov
+    -
+        file: gov/66966b9ecdf189d29d2f68951002a498.jpg
+        source:
+            type: gov
+    -
+        file: gov/1c95dca2b5b9ed6ace5024bc9c940857.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.474444
+            lon: 27.410556
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27833.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27833'
 meta:
     fgb:
         post_id: '77192'
@@ -15,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77192#77192'
                 version: '08 May 2021, Sat, 12:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/924'
+        -
+            type: oopt
+            oopt:
+                id: '27833'

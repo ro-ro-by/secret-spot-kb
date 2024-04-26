@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Заказник "Оброво"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 394.0
+    founded_on: 20.02.1997
 images:
     -
         file: b2bcc3230c4089852acfb2a2be089eca.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '74551'
+    -
+        file: gov/c47856338aaa4ffb2af98fe0e1c2a21e.jpg
+        source:
+            type: gov
+    -
+        file: gov/6068b0aa292ee7297aab96973caa6c0f.jpg
+        source:
+            type: gov
+    -
+        file: gov/2bd826b338925bfc0db3d51860b5187c.jpg
+        source:
+            type: gov
+    -
+        file: gov/479971b5f86682a16be45459689ab339.jpg
+        source:
+            type: gov
+    -
+        file: gov/3256b0ac3240c70eea4b9d3ec1275c10.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +49,20 @@ location:
             osm:
                 type: way
                 id: 552189427
+    -
+        type: point
+        coordinates:
+            lat: 52.180725
+            lon: 25.69038
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26224.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26224'
 osm:
     -
         type: way
@@ -38,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74551#74551'
                 version: '24 Aug 2020, Mon, 23:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/473'
+        -
+            type: oopt
+            oopt:
+                id: '26224'

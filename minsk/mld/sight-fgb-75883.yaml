@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Криница Богдановича'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.13
+    founded_on: 28.10.2008
 images:
     -
         file: c210314cede90d77f36f705d55c013d6.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '75883'
+    -
+        file: gov/83cec3f9e786aaa729b13f239762b24e.jpg
+        source:
+            type: gov
+    -
+        file: gov/042a4f562ab05afedc44be045fc57b31.jpg
+        source:
+            type: gov
+    -
+        file: gov/b8675950699bf875aaf0a7c911171531.jpg
+        source:
+            type: gov
+    -
+        file: gov/f4249028c94d29da3ddc6f9bcea6ed53.jpg
+        source:
+            type: gov
+    -
+        file: gov/df1ccd471b6e223def8111449394afc9.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +46,12 @@ location:
             lat: '54.25285'
             lon: '27.09455'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.252727
+            lon: 27.094519
+        source: gov
 meta:
     fgb:
         post_id: '75883'
@@ -31,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75883#75883'
                 version: '06 Oct 2021, Wed, 14:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1201'

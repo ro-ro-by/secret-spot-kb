@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Прилепский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 3242.0
+    founded_on: 20.09.2000
 images:
     -
         file: e5b32648b66b6907521bcd81c64f2fca.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75806'
+    -
+        file: gov/83a228d6e5cdadff5640f66b2a9b9ab0.jpg
+        source:
+            type: gov
+    -
+        file: gov/5457d2516f68d4f048416c7987776198.jpg
+        source:
+            type: gov
+    -
+        file: gov/5fe2bb68ed30c3ad7ccf4bbf3624ddc2.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +41,12 @@ location:
             osm:
                 type: way
                 id: 619794136
+    -
+        type: point
+        coordinates:
+            lat: 54.03286
+            lon: 27.77232
+        source: gov
 osm:
     -
         type: way
@@ -38,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75806#75806'
                 version: '25 Jan 2021, Mon, 20:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/337'

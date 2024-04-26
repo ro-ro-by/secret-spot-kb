@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Большой камень довнарский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00066
+    founded_on: 26.02.1998
 images:
     -
         file: dc29222e6af87e76237786932ff41ef6.jpg
@@ -24,6 +30,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77492'
+    -
+        file: gov/2bc8ace029e0b6747c53a019ae2ac44f.jpg
+        source:
+            type: gov
+    -
+        file: gov/31f1a6281d7b32c1ece15e04ee16e84b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +45,12 @@ location:
             lat: '53.970305'
             lon: '26.080966'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.970305
+            lon: 26.080966
+        source: gov
 meta:
     fgb:
         post_id: '77492'
@@ -42,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77492#77492'
                 version: '30 Oct 2021, Sat, 20:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/660'

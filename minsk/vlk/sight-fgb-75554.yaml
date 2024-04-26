@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Воротищин крест»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001295
+    founded_on: 19.03.2007
 images:
     -
         file: 2ce1b1c6433022ace1515f29532b9567.jpg
@@ -56,6 +62,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75554'
+    -
+        file: gov/d86285d6ba571ea6fe775ad9d68e27a9.jpg
+        source:
+            type: gov
+    -
+        file: gov/e4e09ad7be2663d7a77143f2a896ddee.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -63,6 +77,12 @@ location:
             lat: '54.582156'
             lon: '27.470698'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.58215
+            lon: 27.47069
+        source: gov
 meta:
     fgb:
         post_id: '75554'
@@ -74,3 +94,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75554#75554'
                 version: '03 Jul 2020, Fri, 11:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/271'

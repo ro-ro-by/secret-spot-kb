@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Заказник «Ляжанка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 398.0
+    founded_on: 23.08.2006
 images:
     -
         file: 4530fbddf68641d1369eb5c0c5ccca8a.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '75090'
+    -
+        file: gov/aaef207affd7cd3d901ef3b57a662d27.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.55824
+            lon: 28.707415
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27546.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27546'
 meta:
     fgb:
         post_id: '75090'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75090#75090'
                 version: '28 Oct 2021, Thu, 10:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1337'
+        -
+            type: oopt
+            oopt:
+                id: '27546'

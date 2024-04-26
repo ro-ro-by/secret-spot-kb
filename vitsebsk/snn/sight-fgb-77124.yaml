@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Заказник «Капланский Мох»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1248.03
+    founded_on: 29.02.1996
 images:
     -
         file: 456a1b8b64d4268435783221b24e5b42.jpg
@@ -13,6 +19,41 @@ images:
             type: fgb
             fgb:
                 post_id: '77124'
+    -
+        file: gov/378b77178ab55d8b44965ab958d5f6de.jpg
+        source:
+            type: gov
+    -
+        file: gov/27745623c5654270512b056e7c8d2889.jpg
+        source:
+            type: gov
+    -
+        file: gov/b9bf70907efefd90a6fc45800e7511a9.jpg
+        source:
+            type: gov
+    -
+        file: gov/71071a283e3a54210783354b09f46ab3.jpg
+        source:
+            type: gov
+    -
+        file: gov/7622929480d3e241bbcfc9a6190dd574.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.900999
+            lon: 29.661682
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27708.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27708'
 meta:
     fgb:
         post_id: '77124'
@@ -24,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77124#77124'
                 version: '08 Jun 2021, Tue, 13:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1031'
+        -
+            type: oopt
+            oopt:
+                id: '27708'

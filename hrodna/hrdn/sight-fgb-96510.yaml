@@ -8,6 +8,11 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Двухсотлетняя дубрава в окрестности агрогородка Озеры'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    founded_on: 12.02.2018
 images:
     -
         file: 270c82139eb4a57fb7d17d303446e475.jpg
@@ -17,6 +22,22 @@ images:
             type: fgb
             fgb:
                 post_id: '96510'
+    -
+        file: gov/dbc911be6829bd62b1f4581b4b6f0667.jpg
+        source:
+            type: gov
+    -
+        file: gov/bde5149669e41361854e252375b26992.jpg
+        source:
+            type: gov
+    -
+        file: gov/bc05b6c067318804c99cef4ed662a02a.jpg
+        source:
+            type: gov
+    -
+        file: gov/2dd2291fb9bfa1706e0965d19f858c39.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -24,6 +45,12 @@ location:
             lat: 53.791278
             lon: 24.175306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.791278
+            lon: 24.175306
+        source: gov
 meta:
     fgb:
         post_id: '96510'
@@ -35,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96510#96510'
                 version: '15 Nov 2022, Tue, 17:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/786'

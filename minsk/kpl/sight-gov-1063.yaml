@@ -1,0 +1,46 @@
+id: sight-gov-1063
+title: 'Заказник «Волка»'
+type: area
+belongsTo:
+    region: region-minsk
+    subregion: subregion-kpl
+gov:
+    title: 'Заказник «Волка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 40.4
+    founded_on: 02.10.2008
+images:
+    -
+        file: gov/9303cfb1caa9c327587d6d2bf49d8b29.jpg
+        source:
+            type: gov
+    -
+        file: gov/8d47429383517c32d2dc526d2c3b75ae.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.894585
+            lon: 27.047328
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26569.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26569'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1063'
+        -
+            type: oopt
+            oopt:
+                id: '26569'

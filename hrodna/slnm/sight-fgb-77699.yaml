@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Гора «Колпак»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.24
+    founded_on: 31.07.2006
 images:
     -
         file: d1a91ff5844f723f7218113074f458f1.jpg
@@ -22,6 +28,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77699'
+    -
+        file: gov/b46fe14d3e7553f62bb5def88a09b670.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.158648
+            lon: 25.261966
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27021.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27021'
 meta:
     fgb:
         post_id: '77699'
@@ -33,3 +58,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77699#77699'
                 version: '29 Oct 2021, Fri, 8:39'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/574'
+        -
+            type: oopt
+            oopt:
+                id: '27021'

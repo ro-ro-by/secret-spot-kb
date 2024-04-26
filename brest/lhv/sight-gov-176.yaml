@@ -1,0 +1,34 @@
+id: sight-gov-176
+title: 'Цыганский альпинарий'
+type: boulder
+belongsTo:
+    region: region-brest
+    subregion: subregion-lhv
+gov:
+    title: 'Цыганский альпинарий'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 1.01
+    founded_on: 28.08.2020
+images:
+    -
+        file: gov/c944c4d3c6396f6310fec1b899290ee1.jpg
+        source:
+            type: gov
+    -
+        file: gov/5d3fb5134555e764aa6cd98f6fe3e697.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.878128
+            lon: 26.182235
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/176'

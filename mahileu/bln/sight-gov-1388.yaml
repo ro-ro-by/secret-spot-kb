@@ -1,0 +1,42 @@
+id: sight-gov-1388
+title: 'Заказник «Ушловский»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+gov:
+    title: 'Заказник «Ушловский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 880.1
+    founded_on: 22.11.2006
+images:
+    -
+        file: gov/9b934d3c6334a049aa74ef743304564c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.913997
+            lon: 29.393245
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26786.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26786'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1388'
+        -
+            type: oopt
+            oopt:
+                id: '26786'

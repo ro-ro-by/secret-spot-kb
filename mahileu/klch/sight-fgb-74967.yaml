@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Лютино»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 182.97
+    founded_on: 16.09.2008
 images:
     -
         file: 60c2e2839383660c5a8af5cf7eafa207.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '74967'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.386441
+            lon: 29.108396
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26818.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26818'
 meta:
     fgb:
         post_id: '74967'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74967#74967'
                 version: '17 Sep 2021, Fri, 10:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1394'
+        -
+            type: oopt
+            oopt:
+                id: '26818'

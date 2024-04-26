@@ -1,0 +1,25 @@
+id: sight-gov-853
+title: 'Заказник «Микулишки»'
+type: area
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-ashm
+gov:
+    title: 'Заказник «Микулишки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1711.79
+    founded_on: 21.02.2023
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.371543
+            lon: 25.655437
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/853'

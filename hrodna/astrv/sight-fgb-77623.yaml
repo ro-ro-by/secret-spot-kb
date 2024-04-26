@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Видинишский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00066
+    founded_on: 17.02.1995
 images:
     -
         file: 5d1383f40236d237773708c42b3d550c.jpg
@@ -31,6 +37,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77623'
+    -
+        file: gov/a01003fddd167f421ef83d7cc02516f7.jpg
+        source:
+            type: gov
+    -
+        file: gov/6064be91cdce10c674707dd26c8b36d1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,12 @@ location:
             lat: '54.795092'
             lon: '25.925766'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.7951
+            lon: 25.925697
+        source: gov
 meta:
     fgb:
         post_id: '77623'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77623#77623'
                 version: '26 Nov 2021, Fri, 9:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/755'

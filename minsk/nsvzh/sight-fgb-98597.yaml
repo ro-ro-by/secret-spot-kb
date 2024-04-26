@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Заказник «Малевский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 153.5
+    founded_on: 22.10.2008
 images:
     -
         file: 0427083e040910433b4582702fc322c9.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '98597'
+    -
+        file: gov/c02e6c0894455b7227391c44afe46967.jpg
+        source:
+            type: gov
+    -
+        file: gov/688a999277a13ec1c0b06f51d20cba4d.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -31,6 +45,20 @@ location:
             osm:
                 type: relation
                 id: 6581704
+    -
+        type: point
+        coordinates:
+            lat: 53.201638
+            lon: 26.577917
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27820.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27820'
 osm:
     -
         type: relation
@@ -46,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98597#98597'
                 version: '12 Jul 2022, Tue, 10:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1223'
+        -
+            type: oopt
+            oopt:
+                id: '27820'

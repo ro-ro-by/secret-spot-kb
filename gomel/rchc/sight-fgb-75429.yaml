@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Два дуба'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.2
+    founded_on: 03.12.2008
 images:
     -
         file: 4b76261bc05f269e6632186892692f10.jpg
@@ -37,6 +43,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75429'
+    -
+        file: gov/190cd38845fbce37991c86da6e4a575d.jpg
+        source:
+            type: gov
+    -
+        file: gov/4cf4c99f9b80f1e20cb0bd921a1900e1.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -46,6 +60,12 @@ location:
             lat: 52.20397
             lon: 29.86972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.193626
+            lon: 29.874714
+        source: gov
 meta:
     fgb:
         post_id: '75429'
@@ -57,3 +77,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75429#75429'
                 version: '15 Nov 2022, Tue, 17:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/784'

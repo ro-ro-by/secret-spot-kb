@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гиневский валун-2'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0004
+    founded_on: 16.02.1995
 images:
     -
         file: b53778a262bfe436182c331468553ee8.jpg
@@ -39,6 +45,18 @@ images:
                 post_id: '77675'
         meta:
             author: ВалероС
+    -
+        file: gov/e21d3db9a40d54831193aa0e544c1b36.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4a5e29f06c152328f4eba3fa811bd23.jpg
+        source:
+            type: gov
+    -
+        file: gov/feff22f6273fe18f71d8c26a791da97b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -46,6 +64,12 @@ location:
             lat: '54.353914'
             lon: '26.061592'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.353914
+            lon: 26.061592
+        source: gov
 meta:
     fgb:
         post_id: '77675'
@@ -57,3 +81,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77675#77675'
                 version: '22 Nov 2021, Mon, 23:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/738'

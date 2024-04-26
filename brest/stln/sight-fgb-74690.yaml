@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Парк Нижне-Теребежовский'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 11.47
+    founded_on: 27.02.1998
 images:
     -
         file: fb6135f0f9f768a536b6713824d8301b.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74690'
+    -
+        file: gov/1648f2a2616f878b5968024dd963a6e8.jpg
+        source:
+            type: gov
+    -
+        file: gov/9e6b34f831c18376c838d9baf51b332b.jpg
+        source:
+            type: gov
+    -
+        file: gov/0f5b9d3d43045448a0a3a92596336cd5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: 51.823611
             lon: 26.723889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.824413
+            lon: 26.719089
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26267.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26267'
 meta:
     fgb:
         post_id: '74690'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74690#74690'
                 version: '22 Sep 2022, Thu, 23:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/209'
+        -
+            type: oopt
+            oopt:
+                id: '26267'

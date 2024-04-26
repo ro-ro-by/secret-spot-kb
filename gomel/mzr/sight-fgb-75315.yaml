@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Каменные валы'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 22.02.2008
 images:
     -
         file: fdd6a28ebd7e54ddc8a1f3c43dcb5135.jpg
@@ -35,6 +40,17 @@ images:
             type: fgb
             fgb:
                 post_id: '75315'
+    -
+        file: gov/85ed8ca9a085f0a33327e679bfaf7e1f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.998747
+            lon: 29.302366
+        source: gov
 meta:
     fgb:
         post_id: '75315'
@@ -46,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75315#75315'
                 version: '05 May 2022, Thu, 14:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/769'

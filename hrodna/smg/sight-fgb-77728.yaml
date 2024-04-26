@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Камень-горка»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001295
+    founded_on: 31.07.2006
 images:
     -
         file: 65fa0715b58dde1d0811fbb823fb22c6.jpg
@@ -30,6 +36,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77728'
+    -
+        file: gov/c743fdd8798bdca9f4f70c1bdc05d0f7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -37,6 +47,12 @@ location:
             lat: '54.507264'
             lon: '26.473939'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.507264
+            lon: 26.473939
+        source: gov
 meta:
     fgb:
         post_id: '77728'
@@ -48,3 +64,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77728#77728'
                 version: '18 May 2022, Wed, 16:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/596'

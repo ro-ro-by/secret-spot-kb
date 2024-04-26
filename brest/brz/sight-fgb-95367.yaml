@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Березовский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00085
+    founded_on: 28.12.2017
 images:
     -
         file: 6426ea7f5cdc05752f661e56023c624d.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '95367'
+    -
+        file: gov/b3f6f016962efc8966488589026787b4.jpg
+        source:
+            type: gov
+    -
+        file: gov/eeec8eba72781503ac9d65135b9e36ec.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.538878
+            lon: 24.983161
+        source: gov
 meta:
     fgb:
         post_id: '95367'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95367#95367'
                 version: '20 Feb 2020, Thu, 0:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/106'

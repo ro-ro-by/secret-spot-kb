@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-mstsl
+gov:
+    title: 'Криница «Белково»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 29.01.2003
 images:
     -
         file: 766fb985e649f41fef50957a075ae665.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '75073'
         meta:
             author: 'Александр 6'
+    -
+        file: gov/2a4581e621b3855a55f7af680cb79c84.jpg
+        source:
+            type: gov
+    -
+        file: gov/5bc1fa255190b05760679424f0398f93.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: '54.05407'
             lon: '31.70847'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.05407
+            lon: 31.70847
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27765.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27765'
 meta:
     fgb:
         post_id: '75073'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75073#75073'
                 version: '06 Oct 2021, Wed, 11:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1340'
+        -
+            type: oopt
+            oopt:
+                id: '27765'

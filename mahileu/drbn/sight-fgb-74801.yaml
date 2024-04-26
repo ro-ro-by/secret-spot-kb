@@ -4,6 +4,36 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Ряснянский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 2650.0
+    founded_on: 28.01.2004
+images:
+    -
+        file: gov/132652f8c834c621210a43e8f4e65562.jpg
+        source:
+            type: gov
+    -
+        file: gov/bde80bc10e90ce1a5dd91b43766267ab.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.030774
+            lon: 31.119032
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26806.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26806'
 meta:
     fgb:
         post_id: '74801'
@@ -15,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74801#74801'
                 version: '07 Jan 2016, Thu, 22:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1386'
+        -
+            type: oopt
+            oopt:
+                id: '26806'

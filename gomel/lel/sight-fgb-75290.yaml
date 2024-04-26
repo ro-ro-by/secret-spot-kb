@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Дуб черешчатый «Данилевичский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.02
+    founded_on: 26.04.2007
 images:
     -
         file: edaef3e5f0c2dab51c7377dcd8400e3e.jpg
@@ -29,6 +35,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75290'
+    -
+        file: gov/7e90b5da7ab721d6702d683860af7e0f.jpg
+        source:
+            type: gov
+    -
+        file: gov/06c46c9c1e3798db1a3821b9e41b6277.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -38,6 +52,20 @@ location:
             lat: 51.79569
             lon: 28.01053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.77736
+            lon: 27.947431
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27810.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27810'
 meta:
     fgb:
         post_id: '75290'
@@ -49,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75290#75290'
                 version: '11 Nov 2022, Fri, 10:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/356'
+        -
+            type: oopt
+            oopt:
+                id: '27810'

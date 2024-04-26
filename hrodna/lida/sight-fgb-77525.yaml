@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: 'Парк "Горни"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.73
+    founded_on: 24.12.1964
 images:
     -
         file: 0230efb46d111fb010dc9e0ef88fd552.jpg
@@ -21,6 +27,34 @@ images:
             type: fgb
             fgb:
                 post_id: '77525'
+    -
+        file: gov/52ac211cf3923406afe3c2a554b971a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/b07a71cb5ed5a07cab6d49c9c942208e.jpg
+        source:
+            type: gov
+    -
+        file: gov/fe8353ae647bd758afb3e39e2ea4ed2f.jpg
+        source:
+            type: gov
+    -
+        file: gov/4c2110f2f1bd72b5211651e2e0430c55.jpg
+        source:
+            type: gov
+    -
+        file: gov/6e07e5845cde1f9bf1505a67f5f47a26.jpg
+        source:
+            type: gov
+    -
+        file: gov/023c2882b5768ec1e561be239e28c374.jpg
+        source:
+            type: gov
+    -
+        file: gov/b08fdd262fa030b3c0f366b9a2fb6342.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +62,20 @@ location:
             lat: 53.851944
             lon: 25.275583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.852046
+            lon: 25.273875
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26551.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26551'
 meta:
     fgb:
         post_id: '77525'
@@ -39,3 +87,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77525#77525'
                 version: '11 Nov 2022, Fri, 11:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/637'
+        -
+            type: oopt
+            oopt:
+                id: '26551'

@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Межевская озовая гряда»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 112.4
+    founded_on: 10.09.2009
 images:
     -
         file: a5b1841f4dce52f8bec601b1253eb98f.jpg
@@ -13,6 +19,45 @@ images:
             type: fgb
             fgb:
                 post_id: '77085'
+    -
+        file: gov/52d82a4abe04b4069070aabddaee73ad.jpg
+        source:
+            type: gov
+    -
+        file: gov/28233da7c76f1d82ce5466f9444a543e.jpg
+        source:
+            type: gov
+    -
+        file: gov/1be4bf736c373bd373ecc7168c09abf4.jpg
+        source:
+            type: gov
+    -
+        file: gov/b861704f279b70566249de48dd7c6051.jpg
+        source:
+            type: gov
+    -
+        file: gov/c2fbce2d1985d61c817604f09777ebe9.jpg
+        source:
+            type: gov
+    -
+        file: gov/1cbbded364ecb1e248e51e830bf7af32.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.949292
+            lon: 28.891824
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27010.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27010'
 meta:
     fgb:
         post_id: '77085'
@@ -24,3 +69,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77085#77085'
                 version: '08 Jun 2021, Tue, 14:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1026'
+        -
+            type: oopt
+            oopt:
+                id: '27010'

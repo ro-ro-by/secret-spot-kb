@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Липичненский родник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.008
+    founded_on: 28.12.2022
 images:
     -
         file: 2e330f0103e10f1586bc27b11a1f9690.jpg
@@ -31,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 15466141
+    -
+        type: point
+        coordinates:
+            lat: 53.54052
+            lon: 24.91382
+        source: gov
 osm:
     -
         type: relation
@@ -46,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=104028#104028'
                 version: '20 Jun 2023, Tue, 20:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/791'

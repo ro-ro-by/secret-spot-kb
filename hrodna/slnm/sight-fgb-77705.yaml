@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Глыба Кракотская'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 30.12.1997
 images:
     -
         file: d9f62f0b33462de15be32dbf353d0c43.jpg
@@ -29,6 +34,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77705'
+    -
+        file: gov/304438b067b4319697642c8e3037530f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +45,12 @@ location:
             lat: '53.016273'
             lon: '24.980547'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.016273
+            lon: 24.980547
+        source: gov
 meta:
     fgb:
         post_id: '77705'
@@ -47,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77705#77705'
                 version: '29 Oct 2021, Fri, 16:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/697'

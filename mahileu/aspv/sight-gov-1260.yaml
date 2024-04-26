@@ -1,0 +1,39 @@
+id: sight-gov-1260
+title: Дубрава
+type: forest
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-aspv
+forest:
+    dominated_type: oak
+gov:
+    title: Дубрава
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 17.76
+    founded_on: 16.10.2006
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.300081
+            lon: 29.054486
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26886.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26886'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1260'
+        -
+            type: oopt
+            oopt:
+                id: '26886'

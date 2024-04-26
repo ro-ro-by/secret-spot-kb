@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Парк "Стошаны"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 14.15
+    founded_on: 31.12.2019
+images:
+    -
+        file: gov/1bb9d81c0c336d2e264b38a4db80601b.jpg
+        source:
+            type: gov
+    -
+        file: gov/04d2e0d88dd2b01e9282cae9aa5d968d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,12 @@ location:
             lat: 52.313333
             lon: 26.144722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.313333
+            lon: 26.144722
+        source: gov
 meta:
     fgb:
         post_id: '96294'
@@ -22,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96294#96294'
                 version: '22 Sep 2022, Thu, 23:19'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/197'

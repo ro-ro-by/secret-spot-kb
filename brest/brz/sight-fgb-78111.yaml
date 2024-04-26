@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Селецкий источник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 01.12.2014
 images:
     -
         file: 698ddc71d09a21f0724c3b2e101a9fd6.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '78111'
         meta:
             author: Александр6
+    -
+        file: gov/2d384dcf382c2547f79c413cffb24758.jpg
+        source:
+            type: gov
+    -
+        file: gov/d4afc4281e1ef01e9bf78781d34b4194.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 8351655
+    -
+        type: point
+        coordinates:
+            lat: 52.57902
+            lon: 24.83602
+        source: gov
 osm:
     -
         type: relation
@@ -46,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78111#78111'
                 version: '04 Apr 2022, Mon, 15:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/105'

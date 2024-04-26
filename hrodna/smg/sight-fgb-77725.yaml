@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Парк в деревне Залесье'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 35.0
+    founded_on: 08.05.2007
 images:
     -
         file: 24276905ed5624cb0b68b17e2dd6b052.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77725'
+    -
+        file: gov/05ecbc75ae13c4350130911301de1e0c.jpg
+        source:
+            type: gov
+    -
+        file: gov/793e4b216a972fb25d987022e7996e87.jpg
+        source:
+            type: gov
+    -
+        file: gov/14333b2aacb63b9e59f791c7a550ed36.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: 54.42106
             lon: 26.52053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.421014
+            lon: 26.520854
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26958.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26958'
 meta:
     fgb:
         post_id: '77725'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77725#77725'
                 version: '08 Nov 2022, Tue, 20:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/523'
+        -
+            type: oopt
+            oopt:
+                id: '26958'

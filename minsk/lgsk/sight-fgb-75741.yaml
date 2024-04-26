@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Логойский парк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 13.39
+    founded_on: 27.10.2008
 images:
     -
         file: f3ce02b6b6d3b430cbef6d893847c94d.jpg
@@ -29,6 +35,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75741'
+    -
+        file: gov/a451f23ccd445eff636816e966f7ca89.jpg
+        source:
+            type: gov
+    -
+        file: gov/bad94a9dcb1a2310bfbe5ceb0940e509.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +50,12 @@ location:
             lat: 54.2055
             lon: 27.847611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.2055
+            lon: 27.847611
+        source: gov
 meta:
     fgb:
         post_id: '75741'
@@ -47,3 +67,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75741#75741'
                 version: '09 Nov 2022, Wed, 1:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1143'

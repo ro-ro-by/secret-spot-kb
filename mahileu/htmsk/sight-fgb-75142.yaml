@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-htmsk
 forest:
     dominated_type: birch
+gov:
+    title: 'Ивановская роща'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 15.0
+    founded_on: 21.06.1990
 images:
     -
         file: 75dccefbc8bc11f5534a974007d67481.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75142'
+    -
+        file: gov/77413a0ab83874c3233e728840c53b59.jpg
+        source:
+            type: gov
+    -
+        file: gov/fe6339c1a8819224ba06ddaf4829c8b8.jpg
+        source:
+            type: gov
+    -
+        file: gov/efcbf953547874e03f5750fcbb9a2919.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,20 @@ location:
             lat: 53.426306
             lon: 32.567889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.426306
+            lon: 32.567889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27990.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27990'
 meta:
     fgb:
         post_id: '75142'
@@ -41,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75142#75142'
                 version: '10 Nov 2022, Thu, 23:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1268'
+        -
+            type: oopt
+            oopt:
+                id: '27990'

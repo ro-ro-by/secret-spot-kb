@@ -4,6 +4,29 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Парк «Погост»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.8
+    founded_on: 27.07.2006
+images:
+    -
+        file: gov/c2744e67386a1aed8fabcbbd68b57661.jpg
+        source:
+            type: gov
+    -
+        file: gov/779b661da37fea5b4614076cb025d9e3.jpg
+        source:
+            type: gov
+    -
+        file: gov/92485a3489e2f19de7ef2be99a106388.jpg
+        source:
+            type: gov
+    -
+        file: gov/664fed3727fd23cff9784b503106c212.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +34,20 @@ location:
             lat: 52.845917
             lon: 27.645972
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.845917
+            lon: 27.645972
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26841.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26841'
 meta:
     fgb:
         post_id: '75993'
@@ -22,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75993#75993'
                 version: '10 Nov 2022, Thu, 22:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1145'
+        -
+            type: oopt
+            oopt:
+                id: '26841'

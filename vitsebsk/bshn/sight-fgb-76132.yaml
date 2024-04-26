@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+gov:
+    title: 'Бешенковичский дворцово-парковый ансамбль'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.22
+    founded_on: 03.12.2019
 images:
     -
         file: 72ae2d826ba51b118f18ff01c3ca7bb9.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '76132'
+    -
+        file: gov/49a4c79062c0e694059e23cb1008b46b.jpg
+        source:
+            type: gov
+    -
+        file: gov/e1613af46b844a93247da3e93b5b197f.jpg
+        source:
+            type: gov
+    -
+        file: gov/bc5a002185a0f436badc19d1dca6358a.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: 55.044556
             lon: 29.461556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.044544
+            lon: 29.461542
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26299.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26299'
 meta:
     fgb:
         post_id: '76132'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76132#76132'
                 version: '22 Sep 2022, Thu, 23:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/856'
+        -
+            type: oopt
+            oopt:
+                id: '26299'

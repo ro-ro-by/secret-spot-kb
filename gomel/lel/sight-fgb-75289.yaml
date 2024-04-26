@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-lel
+gov:
+    title: 'Заказник «Букчанский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 4990.31
+    founded_on: 16.08.1979
 images:
     -
         file: b31b559f750568ba4ba030d252240b20.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75289'
+    -
+        file: gov/f30b09b1c70f788b0a3e1d02fe42dbea.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +33,20 @@ location:
             osm:
                 type: relation
                 id: 4767653
+    -
+        type: point
+        coordinates:
+            lat: 51.74395
+            lon: 27.98863
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26181.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26181'
 osm:
     -
         type: relation
@@ -38,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75289#75289'
                 version: '13 Oct 2021, Wed, 14:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/321'
+        -
+            type: oopt
+            oopt:
+                id: '26181'

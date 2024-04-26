@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-mahileu
     subregion: subregion-shkl
+gov:
+    title: '«Нижнинский ров»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 7.7
+    founded_on: 31.07.2006
 images:
     -
         file: 935221113a5181760b2a0dbdb9c56017.jpg
@@ -23,6 +29,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75200'
+    -
+        file: gov/0e67c8f1728c10c332caacfca7876562.jpg
+        source:
+            type: gov
+    -
+        file: gov/f52a357ac5f47a15d8c3387aca8d7f5f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.225972
+            lon: 30.302183
+        source: gov
 meta:
     fgb:
         post_id: '75200'
@@ -34,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75200#75200'
                 version: '15 Nov 2021, Mon, 13:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/467'

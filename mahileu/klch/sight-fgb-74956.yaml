@@ -13,6 +13,15 @@ images:
             type: fgb
             fgb:
                 post_id: '74956'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26812.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26812'
 meta:
     fgb:
         post_id: '74956'
@@ -24,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74956#74956'
                 version: '17 Sep 2021, Fri, 9:22'
+        -
+            type: oopt
+            oopt:
+                id: '26812'

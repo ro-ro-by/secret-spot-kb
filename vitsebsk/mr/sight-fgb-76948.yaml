@@ -4,6 +4,44 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Мозолевский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00079
+    founded_on: 23.09.2011
+images:
+    -
+        file: gov/17c6282f064e7a9b10d8ea2b1d0cc4ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/779f1cc8647252d0bf8a9c0d0edf5adc.jpg
+        source:
+            type: gov
+    -
+        file: gov/52088a0c10c526b529044de2325b5817.jpg
+        source:
+            type: gov
+    -
+        file: gov/5c9d02bf3b845250279828f4f11e8207.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.547472
+            lon: 27.587261
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27856.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27856'
 meta:
     fgb:
         post_id: '76948'
@@ -15,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76948#76948'
                 version: '30 Apr 2021, Fri, 18:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/925'
+        -
+            type: oopt
+            oopt:
+                id: '27856'

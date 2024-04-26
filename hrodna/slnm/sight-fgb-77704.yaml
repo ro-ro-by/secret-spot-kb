@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Гора Перовка'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 3.5
+    founded_on: 30.12.1997
 images:
     -
         file: 3daa4953f28f49a1d6baab2c07da67a6.jpg
@@ -21,6 +27,17 @@ images:
             type: fgb
             fgb:
                 post_id: '77704'
+    -
+        file: gov/52aec0278eaded6721c09beade3e985f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.133747
+            lon: 25.260428
+        source: gov
 meta:
     fgb:
         post_id: '77704'
@@ -32,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77704#77704'
                 version: '29 Oct 2021, Fri, 15:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/696'

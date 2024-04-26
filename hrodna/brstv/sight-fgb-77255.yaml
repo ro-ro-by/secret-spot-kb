@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Старинная парковая усадьба «Лишки»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.36
+    founded_on: 24.10.2003
 images:
     -
         file: efd43aeaf0fc9a69ddc896e1942e714b.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77255'
+    -
+        file: gov/ca3fc3de53374dbb971133a73de5e2e4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: 53.29744
             lon: 23.83875
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.297444
+            lon: 23.83875
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27673.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27673'
 meta:
     fgb:
         post_id: '77255'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77255#77255'
                 version: '08 Nov 2022, Tue, 20:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/625'
+        -
+            type: oopt
+            oopt:
+                id: '27673'

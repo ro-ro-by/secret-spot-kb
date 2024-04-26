@@ -4,6 +4,36 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Городищенская терраса'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 1.08
+    founded_on: 31.12.2019
+images:
+    -
+        file: gov/1b9ca4fdaf9c1a4e2187092d6c5240d2.jpg
+        source:
+            type: gov
+    -
+        file: gov/7449ccb751e85eb161a09410879162c2.jpg
+        source:
+            type: gov
+    -
+        file: gov/3c5d1f0ba8383f234803020aeb524365.jpg
+        source:
+            type: gov
+    -
+        file: gov/16ea9e569f470cd85d70633c7a713975.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.172344
+            lon: 26.252769
+        source: gov
 meta:
     fgb:
         post_id: '96291'
@@ -15,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96291#96291'
                 version: '09 Apr 2021, Fri, 13:37'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/194'

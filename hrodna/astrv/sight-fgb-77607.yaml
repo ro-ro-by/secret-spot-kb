@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Валун «Большой камень» кутишкинский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00204
+    founded_on: 18.01.2008
 images:
     -
         file: 38979717a5484c4d01e7aabd52dfc9af.jpg
@@ -36,6 +42,10 @@ images:
                 post_id: '77607'
         meta:
             author: ВалероС
+    -
+        file: gov/99e8cfc1d4112b245c6bc0645e786ec5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -43,6 +53,20 @@ location:
             lat: '54.880683'
             lon: '25.949738'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.880683
+            lon: 25.949738
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27919.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27919'
 meta:
     fgb:
         post_id: '77607'
@@ -54,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77607#77607'
                 version: '26 Nov 2021, Fri, 9:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/504'
+        -
+            type: oopt
+            oopt:
+                id: '27919'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Заказник "Зельвянка"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1140.0
+    founded_on: 24.12.1990
 images:
     -
         file: 66d99e234d59fe5bf085e307d530b369.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '74674'
+    -
+        file: gov/0f1715dec06ea0cbf02260230c1777fa.jpg
+        source:
+            type: gov
+    -
+        file: gov/d5e78748ca8e2eb6d16897327f23832f.jpg
+        source:
+            type: gov
+    -
+        file: gov/99e1a5140e236bd9cb976c90dfcd4bcf.jpg
+        source:
+            type: gov
+    -
+        file: gov/d1fb686260bf9b4ce1c0d4856bbff2e0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.947175
+            lon: 24.928684
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26244.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26244'
 meta:
     fgb:
         post_id: '74674'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74674#74674'
                 version: '21 Jan 2021, Thu, 14:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1071'
+        -
+            type: oopt
+            oopt:
+                id: '26244'

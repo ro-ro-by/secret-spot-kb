@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Чудодейственный камень» сташелишский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00029
+    founded_on: 19.03.2007
 images:
     -
         file: db68840f7314a69c44757196d0081861.jpg
@@ -43,6 +49,21 @@ images:
             type: fgb
             fgb:
                 post_id: '76151'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.467339
+            lon: 26.999449
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27795.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27795'
 meta:
     fgb:
         post_id: '76151'
@@ -54,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76151#76151'
                 version: '13 Jun 2020, Sat, 0:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/698'
+        -
+            type: oopt
+            oopt:
+                id: '27795'

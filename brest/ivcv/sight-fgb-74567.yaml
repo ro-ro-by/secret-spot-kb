@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Чистая дубрава «Борецкая»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 3.6
+    founded_on: 05.05.2007
 images:
     -
         file: 33ef294a4e502702ddff47da55eff1cc.jpg
@@ -25,6 +31,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74567'
+    -
+        file: gov/c5ab37482c0237c78a550f1c5aaca209.jpg
+        source:
+            type: gov
+    -
+        file: gov/6b844fc92c3a4749bca5f121cb7f074c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -32,6 +46,20 @@ location:
             lat: 52.765278
             lon: 25.2975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.765278
+            lon: 25.2975
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26920.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26920'
 meta:
     fgb:
         post_id: '74567'
@@ -43,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74567#74567'
                 version: '22 Sep 2022, Thu, 21:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/76'
+        -
+            type: oopt
+            oopt:
+                id: '26920'

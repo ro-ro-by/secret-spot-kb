@@ -1,0 +1,34 @@
+id: sight-gov-844
+title: 'Заказник «Мох Озерский»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-svlg
+gov:
+    title: 'Заказник «Мох Озерский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 2692.5
+    founded_on: 16.12.2014
+images:
+    -
+        file: gov/35854f9a0968897320d6a6197137f445.jpg
+        source:
+            type: gov
+    -
+        file: gov/258325743979540234aee2dc4399e99d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.688494
+            lon: 29.457705
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/844'

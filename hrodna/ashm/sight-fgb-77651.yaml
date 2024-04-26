@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Огородникский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00072
+    founded_on: 16.02.1995
 images:
     -
         file: 3d64dc5df08288464a13ef4fc1a6266d.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77651'
         meta:
             author: ВалероС
+    -
+        file: gov/5e4fcd6fa26bc3ca342e71e57a022d83.jpg
+        source:
+            type: gov
+    -
+        file: gov/138d10a853ffbc1f4be469fdf4a6f854.jpg
+        source:
+            type: gov
+    -
+        file: gov/8fa5e3e8b10ed60a0570cdaa034135f4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.412357'
             lon: '26.051339'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.412357
+            lon: 26.051339
+        source: gov
 meta:
     fgb:
         post_id: '77651'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77651#77651'
                 version: '22 Nov 2021, Mon, 23:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/671'

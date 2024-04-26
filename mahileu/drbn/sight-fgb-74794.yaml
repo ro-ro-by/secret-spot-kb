@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-drbn
 forest:
     dominated_type: pine
+gov:
+    title: 'Каменский Бор'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 12.1
+    founded_on: 27.02.2003
 images:
     -
         file: cc32411ab5e39d03c5045594dd726b13.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74794'
+    -
+        file: gov/7f8901af5a1d1de5da26657afb7ec0e5.jpg
+        source:
+            type: gov
+    -
+        file: gov/685ebbbc4795210fa367f1634b958e55.jpg
+        source:
+            type: gov
+    -
+        file: gov/537848a4f9f63b44be7d931b4bf8f278.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +57,20 @@ location:
             osm:
                 type: way
                 id: 662179279
+    -
+        type: point
+        coordinates:
+            lat: 53.948972
+            lon: 31.160056
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27890.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27890'
 osm:
     -
         type: way
@@ -54,3 +86,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74794#74794'
                 version: '11 Nov 2022, Fri, 1:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1271'
+        -
+            type: oopt
+            oopt:
+                id: '27890'

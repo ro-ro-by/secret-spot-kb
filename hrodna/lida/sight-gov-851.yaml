@@ -1,0 +1,34 @@
+id: sight-gov-851
+title: 'Заказник «В пойме реки Дитва»'
+type: area
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-lida
+gov:
+    title: 'Заказник «В пойме реки Дитва»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 898.58
+    founded_on: 17.04.1998
+images:
+    -
+        file: gov/7706584a8deb391093c8133c27f6c0da.jpg
+        source:
+            type: gov
+    -
+        file: gov/778022a875c1eb1edca9da33fa98049e.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.894148
+            lon: 25.043745
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/851'

@@ -1,0 +1,34 @@
+id: sight-gov-166
+title: 'Видомлянская озерная котловина'
+type: basin
+belongsTo:
+    region: region-brest
+    subregion: subregion-kmn
+gov:
+    title: 'Видомлянская озерная котловина'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 1.48
+    founded_on: 17.12.2021
+images:
+    -
+        file: gov/c64ba87cb7fb256e72dd05c1d1a81fa7.jpg
+        source:
+            type: gov
+    -
+        file: gov/b632b070b4d78c98b444b36d17b4455a.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.344266
+            lon: 23.82526
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/166'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Кублищинский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00318
+    founded_on: 23.09.2011
 images:
     -
         file: dc77b92ac59add2946b5b3c3de2af034.jpg
@@ -21,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '76938'
+    -
+        file: gov/85f9aa5c13f473affbfa01c1fd5bfaca.jpg
+        source:
+            type: gov
+    -
+        file: gov/05fbee775299423f33b534fcef4b5f11.jpg
+        source:
+            type: gov
+    -
+        file: gov/d768af650117e4ecda873ab76f3d69c8.jpg
+        source:
+            type: gov
+    -
+        file: gov/106eeae165729a57437f119e38a1d122.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +50,20 @@ location:
             lat: '55.541806'
             lon: '27.523149'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.541739
+            lon: 27.525953
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27845.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27845'
 meta:
     fgb:
         post_id: '76938'
@@ -39,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76938#76938'
                 version: '30 Apr 2021, Fri, 18:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/919'
+        -
+            type: oopt
+            oopt:
+                id: '27845'

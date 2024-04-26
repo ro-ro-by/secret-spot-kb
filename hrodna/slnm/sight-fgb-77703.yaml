@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Приреченская дюна'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 40.01
+    founded_on: 30.12.1997
 images:
     -
         file: e52d932d7c530ace8bf2068db53b0ce1.jpg
@@ -21,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77703'
+    -
+        file: gov/0e66c8e33b7230abce068119a985f894.jpg
+        source:
+            type: gov
+    -
+        file: gov/a9236f793d34f63e48213f01d1bb22a8.jpg
+        source:
+            type: gov
+    -
+        file: gov/55463bcc51c2e1c8294afc5101252ec1.jpg
+        source:
+            type: gov
+    -
+        file: gov/dbba6bae5822773d07d14e43f9068403.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +50,20 @@ location:
             lat: '53.22396'
             lon: '25.27875'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 53.223775
+            lon: 25.259792
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26558.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26558'
 meta:
     fgb:
         post_id: '77703'
@@ -39,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77703#77703'
                 version: '29 Oct 2021, Fri, 15:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/695'
+        -
+            type: oopt
+            oopt:
+                id: '26558'

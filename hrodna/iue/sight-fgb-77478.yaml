@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Ясень пенсильванский аукуболистный «Жемыславский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    founded_on: ''
 images:
     -
         file: 2da19d54eb478b83a78fa511ff12078c.jpg
@@ -13,6 +18,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77478'
+    -
+        file: gov/d46e8513a17d005c93329656e9310752.jpg
+        source:
+            type: gov
 tree:
     type: ash
 location:
@@ -22,6 +31,20 @@ location:
             lat: 54.13186
             lon: 25.76483
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.131861
+            lon: 25.764833
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27667.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27667'
 meta:
     fgb:
         post_id: '77478'
@@ -33,3 +56,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77478#77478'
                 version: '08 Nov 2022, Tue, 19:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/567'
+        -
+            type: oopt
+            oopt:
+                id: '27667'

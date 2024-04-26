@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Городечненские сосны'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0113
+    founded_on: 05.09.2018
 images:
     -
         file: 932f927e177fb09e8ae3fecb0d92df06.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '101494'
+    -
+        file: gov/5f115fd70dbd6904a88affc6cb71f2c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/11cfa4a714ede99f95132d1c0b32d468.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -31,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 14435094
+    -
+        type: point
+        coordinates:
+            lat: 52.421389
+            lon: 24.308611
+        source: gov
 osm:
     -
         type: relation
@@ -46,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=101494#101494'
                 version: '22 Sep 2022, Thu, 23:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/205'

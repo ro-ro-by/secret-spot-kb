@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-akt
+gov:
+    title: 'Заказник «Ратмировичский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 374.09
+    founded_on: 12.07.1977
 images:
     -
         file: 4be0dea3ea8e7bae9306669ca8848c7e.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '96976'
+    -
+        file: gov/015e0a55b1302cec05d64d3fc3310310.jpg
+        source:
+            type: gov
+    -
+        file: gov/588c3d230e52b20b0fb9e4e5b2a5b7d0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.766203
+            lon: 29.01541
+        source: gov
 meta:
     fgb:
         post_id: '96976'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96976#96976'
                 version: '08 Nov 2020, Sun, 11:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/833'

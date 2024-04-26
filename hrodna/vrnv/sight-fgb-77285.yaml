@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: Вороновский
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 5200.0
+    founded_on: 17.02.1986
 images:
     -
         file: d539017f7a76c1f33c31e77342116854.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77285'
+    -
+        file: gov/69367ae8faa8522f8abfc689d15e30f8.jpg
+        source:
+            type: gov
+    -
+        file: gov/38c735c7e12ca333dfdcd69c929649f1.jpg
+        source:
+            type: gov
+    -
+        file: gov/0035ce24731326dd2631ef527b1c7bf0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.102739
+            lon: 25.311095
+        source: gov
 meta:
     fgb:
         post_id: '77285'
@@ -24,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77285#77285'
                 version: '09 Nov 2021, Tue, 13:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/600'

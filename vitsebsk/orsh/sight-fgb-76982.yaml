@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Обнажение «Орша»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.025
+    founded_on: 18.03.2008
 images:
     -
         file: 757f47da1f10ddcd6e8111d5e25e7588.jpg
@@ -38,6 +44,12 @@ location:
             lat: 54.50596
             lon: 30.4297
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.506
+            lon: 30.4298
+        source: gov
 meta:
     fgb:
         post_id: '76982'
@@ -49,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76982#76982'
                 version: '24 May 2021, Mon, 10:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/451'

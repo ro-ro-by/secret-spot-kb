@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Обнажение «Пашино»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 20.0
+    founded_on: 18.03.2008
 images:
     -
         file: fed160466539289d9db17e0027d927cb.jpg
@@ -22,6 +28,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76983'
+    -
+        file: gov/ca98177010d1c489ac7b64bc93c7295b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,20 @@ location:
             lat: 54.55745
             lon: 30.48681
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.5585
+            lon: 30.4943
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26938.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26938'
 meta:
     fgb:
         post_id: '76983'
@@ -40,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76983#76983'
                 version: '22 May 2021, Sat, 13:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/417'
+        -
+            type: oopt
+            oopt:
+                id: '26938'

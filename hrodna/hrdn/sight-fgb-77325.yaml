@@ -4,6 +4,33 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Парк в г. Скидель'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.36
+    founded_on: 20.02.2001
+images:
+    -
+        file: gov/10d50e5d80fad43cbcaf5813dd490ecb.jpg
+        source:
+            type: gov
+    -
+        file: gov/338eb828ef87fe55fda34d2abe53aaea.jpg
+        source:
+            type: gov
+    -
+        file: gov/470861f6dd5b5e75fb3aa479492e13c9.jpg
+        source:
+            type: gov
+    -
+        file: gov/e6a767ab0158e5638cda20a46462be41.jpg
+        source:
+            type: gov
+    -
+        file: gov/c9fbb49c41142e3e333e9c3be8584ef7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +38,12 @@ location:
             lat: 53.58342
             lon: 24.26236
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.596417
+            lon: 24.25975
+        source: gov
 meta:
     fgb:
         post_id: '77325'
@@ -22,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77325#77325'
                 version: '03 Nov 2022, Thu, 14:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/628'

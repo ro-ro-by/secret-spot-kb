@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Лойтевщинский валун -1'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00031
+    founded_on: 16.02.1995
 images:
     -
         file: 1e01806860d4f3a287249cffb84879d5.jpg
@@ -23,6 +29,14 @@ images:
                 post_id: '77672'
         meta:
             author: ВалероС
+    -
+        file: gov/8058d643ac4517255e2663ae2580c7d4.jpg
+        source:
+            type: gov
+    -
+        file: gov/7cfca589b6e2c0ed8a3b60a0f1ee926f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +44,12 @@ location:
             lat: '54.309151'
             lon: '25.932829'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.309151
+            lon: 25.932829
+        source: gov
 meta:
     fgb:
         post_id: '77672'
@@ -41,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77672#77672'
                 version: '23 Nov 2021, Tue, 0:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/739'

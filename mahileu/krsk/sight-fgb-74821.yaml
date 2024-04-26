@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+gov:
+    title: 'Заказник «Белые речки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 113.0
+    founded_on: 18.12.2006
 images:
     -
         file: 7bcb17a99f8e827854fc11d487ef4ef5.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '74821'
+    -
+        file: gov/7eb3de0d39928e84032278eb2d2951bc.jpg
+        source:
+            type: gov
+    -
+        file: gov/2b9a5f486783df7fa53deb6eb1ae9bc0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.283664
+            lon: 29.70858
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27932.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27932'
 meta:
     fgb:
         post_id: '74821'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74821#74821'
                 version: '17 Sep 2021, Fri, 13:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1366'
+        -
+            type: oopt
+            oopt:
+                id: '27932'

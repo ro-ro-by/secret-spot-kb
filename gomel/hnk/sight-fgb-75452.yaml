@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-hnk
+gov:
+    title: 'Сосна «Королева»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.39
+    founded_on: 27.09.2004
 images:
     -
         file: 349fdef2200f051317b7df984fdeece6.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75452'
+    -
+        file: gov/edc042afcaa8be9e78cc8bcdd0c96c50.jpg
+        source:
+            type: gov
+    -
+        file: gov/67ef5e60027c9e1e99356aec6e325289.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -30,6 +44,12 @@ location:
             lat: 51.93833
             lon: 30.03225
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.938333
+            lon: 30.03225
+        source: gov
 meta:
     fgb:
         post_id: '75452'
@@ -41,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75452#75452'
                 version: '03 Nov 2022, Thu, 14:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/806'

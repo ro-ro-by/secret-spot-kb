@@ -1,0 +1,36 @@
+id: sight-gov-1282
+title: 'Жабыковский старожил'
+type: tree
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-kst
+gov:
+    title: 'Жабыковский старожил'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0227
+    founded_on: 29.04.2023
+images:
+    -
+        file: gov/beeaa330e465f300519d2c490efce985.jpg
+        source:
+            type: gov
+    -
+        file: gov/4dc6c3beb2824c6c9ca1f49d35e1906e.jpg
+        source:
+            type: gov
+tree:
+    type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.313867
+            lon: 32.105722
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1282'

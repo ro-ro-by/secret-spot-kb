@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун дайновский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: fcdd3477f99147725af00082dd559d9c.jpg
@@ -33,6 +38,18 @@ images:
                 post_id: '77298'
         meta:
             author: ВалероС
+    -
+        file: gov/57670a1990d815d103197982de1a523a.jpg
+        source:
+            type: gov
+    -
+        file: gov/4f3866d187f51288e4ef827ec6d9d2b0.jpg
+        source:
+            type: gov
+    -
+        file: gov/d0924622d250fccd90c1193c5da46f41.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -40,6 +57,12 @@ location:
             lat: '54.074631'
             lon: '25.396445'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.074528
+            lon: 25.396417
+        source: gov
 meta:
     fgb:
         post_id: '77298'
@@ -51,3 +74,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77298#77298'
                 version: '22 Nov 2021, Mon, 22:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/651'

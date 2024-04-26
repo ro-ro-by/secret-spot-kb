@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Заколонский валун с ямками'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 22.10.2002
 images:
     -
         file: ecf7cfc9bfeb2a5f8996e6f2e591e5cc.jpg
@@ -26,6 +31,18 @@ images:
                 post_id: '77380'
         meta:
             author: ВалероС
+    -
+        file: gov/55ce8519ab45b90f22e40f8c4c739a2a.jpg
+        source:
+            type: gov
+    -
+        file: gov/7c2cbc34f575d568fa5dfa1a2fd88e9c.jpg
+        source:
+            type: gov
+    -
+        file: gov/45b8c08e2d754e8261c237ad380cb3f6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -33,6 +50,12 @@ location:
             lat: '53.247173'
             lon: '25.006729'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.247173
+            lon: 25.006729
+        source: gov
 meta:
     fgb:
         post_id: '77380'
@@ -44,3 +67,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77380#77380'
                 version: '19 May 2022, Thu, 11:37'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/624'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Валун «Чертов камень» соболковский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0017
+    founded_on: 25.04.2011
 images:
     -
         file: f7c2b293d345a550f38a792b25da018f.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77062'
+    -
+        file: gov/fcf47ff6a049ead3959d341a75076d48.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -42,6 +52,12 @@ location:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=106007#106007'
                 version: '08 Apr 2024, Mon, 12:43'
+    -
+        type: point
+        coordinates:
+            lat: 55.069711
+            lon: 26.249991
+        source: gov
 meta:
     fgb:
         post_id: '77062'
@@ -53,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77062#77062'
                 version: '05 May 2022, Thu, 10:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/382'

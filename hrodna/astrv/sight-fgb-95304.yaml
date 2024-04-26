@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Омут
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 5.5
+    founded_on: 05.06.2015
 images:
     -
         file: 17773fec666dd41850f535fb79dfa009.jpg
@@ -37,6 +43,14 @@ images:
             type: fgb
             fgb:
                 post_id: '95304'
+    -
+        file: gov/f740d8108e4b83c8a81cf42282b788b5.jpg
+        source:
+            type: gov
+    -
+        file: gov/2f9f8e0c45d54467cd3f85e6fa9c38ad.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -47,6 +61,12 @@ location:
             osm:
                 type: relation
                 id: 13512659
+    -
+        type: point
+        coordinates:
+            lat: 54.821344
+            lon: 25.834979
+        source: gov
 osm:
     -
         type: relation
@@ -62,3 +82,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95304#95304'
                 version: '06 Nov 2021, Sat, 10:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/557'

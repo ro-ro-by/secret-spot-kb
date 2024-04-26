@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Родник «Тумин»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.1148
+    founded_on: 26.01.2006
 images:
     -
         file: 8952dadedcc9482e93bc4a553965e9e2.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '74572'
         meta:
             author: ВалероС
+    -
+        file: gov/5484870f9ac5e7d00074a62e174aa26d.jpg
+        source:
+            type: gov
+    -
+        file: gov/298af11cd6624faecef8c080c81817ba.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: '52.41811'
             lon: '23.34836'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.41811
+            lon: 23.34836
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27759.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27759'
 meta:
     fgb:
         post_id: '74572'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74572#74572'
                 version: '14 Nov 2022, Mon, 23:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/161'
+        -
+            type: oopt
+            oopt:
+                id: '27759'

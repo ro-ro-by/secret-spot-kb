@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Фрагмент стариного парка в деревне Замшаны'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.07
+    founded_on: 16.07.2018
 images:
     -
         file: b80ce794df49e0532a4962a50c1bc01e.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '97045'
+    -
+        file: gov/ee100a45caf0b9118b7fe0d15072fbe5.jpg
+        source:
+            type: gov
+    -
+        file: gov/9bd8477def47a7bd76046467be5070de.jpg
+        source:
+            type: gov
+    -
+        file: gov/471acd33c8941f60c410e9b2ea346003.jpg
+        source:
+            type: gov
+    -
+        file: gov/9a5b18cb3fea5b992d73fe7aad57e3c8.jpg
+        source:
+            type: gov
+    -
+        file: gov/8bf918183028fcb30ea6839248dbb2c2.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +46,12 @@ location:
             lat: 51.831944
             lon: 24.086944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.831944
+            lon: 24.086944
+        source: gov
 meta:
     fgb:
         post_id: '97045'
@@ -31,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97045#97045'
                 version: '22 Sep 2022, Thu, 22:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/187'

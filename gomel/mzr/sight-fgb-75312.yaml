@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Клюквенник Махновичи'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 15.0
+    founded_on: 14.12.2004
 images:
     -
         file: 1a0f857c74a12644f532b6ce78f101ca.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75312'
+    -
+        file: gov/d5fafc1d1eddc2f95c732a9728f26d27.jpg
+        source:
+            type: gov
+    -
+        file: gov/0724271e6c7a31b8f66e9f15996fb997.jpg
+        source:
+            type: gov
+    -
+        file: gov/6c07cee2c419eff5f97b5cc354db6155.jpg
+        source:
+            type: gov
+    -
+        file: gov/18f77747fa7ba45544088b3c9a6dc469.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,12 @@ location:
             lat: 51.92133
             lon: 28.79183
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.921333
+            lon: 28.791833
+        source: gov
 meta:
     fgb:
         post_id: '75312'
@@ -31,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75312#75312'
                 version: '03 Nov 2022, Thu, 14:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/758'

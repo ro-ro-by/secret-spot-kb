@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Бук лесной'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 16.12.1999
 images:
     -
         file: 146d6140c50b5405edad6e428b945c6f.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '74509'
         meta:
             author: 'Денис Тищук'
+    -
+        file: gov/9e0198a8cc9740e649122035dc5fba9b.jpg
+        source:
+            type: gov
 tree:
     type: beech
 location:
@@ -24,6 +34,12 @@ location:
             lat: 52.096028
             lon: 23.686694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.096028
+            lon: 23.686694
+        source: gov
 meta:
     fgb:
         post_id: '74509'
@@ -35,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74509#74509'
                 version: '22 Sep 2022, Thu, 20:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/107'

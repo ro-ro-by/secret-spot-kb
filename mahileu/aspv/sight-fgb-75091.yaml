@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+gov:
+    title: 'Жорновский дендросад'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.4
+    founded_on: 25.08.2009
 images:
     -
         file: 6c835065cb9d2aac64ddc5e1874b168a.jpg
@@ -43,6 +49,18 @@ images:
                 post_id: '75091'
         meta:
             author: Victoryor
+    -
+        file: gov/e79d80090650c6204b0f1ccf04e1382e.jpg
+        source:
+            type: gov
+    -
+        file: gov/1c76670ccdaa712ac50d35405d375b56.jpg
+        source:
+            type: gov
+    -
+        file: gov/1fec51a94bbbb37927c88e20d53c7751.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -59,6 +77,20 @@ location:
             osm:
                 type: way
                 id: 1107945735
+    -
+        type: point
+        coordinates:
+            lat: 53.457748
+            lon: 28.617488
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27870.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27870'
 osm:
     -
         type: way
@@ -74,3 +106,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75091#75091'
                 version: '20 Jun 2023, Tue, 22:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1264'
+        -
+            type: oopt
+            oopt:
+                id: '27870'

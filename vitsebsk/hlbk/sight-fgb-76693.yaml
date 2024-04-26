@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Холм “Мосарский”'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 40.0
+    founded_on: 18.03.2008
 images:
     -
         file: 7c8e9a7bb64aa2aa62a2bc0c3f063e38.jpg
@@ -22,6 +28,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76693'
+    -
+        file: gov/44c2cc2d08bac8eeef4f1de9d73981e6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,20 @@ location:
             lat: 55.22207
             lon: 27.48408
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.222027
+            lon: 27.484062
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26933.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26933'
 meta:
     fgb:
         post_id: '76693'
@@ -40,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76693#76693'
                 version: '23 Jan 2021, Sat, 9:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/227'
+        -
+            type: oopt
+            oopt:
+                id: '26933'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Скопление глыб валунно-галечного конгломерата «Принеманское»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.008894
+    founded_on: 31.07.2006
 images:
     -
         file: 30205727409d485b8ce22f4940910cb0.jpg
@@ -40,6 +46,21 @@ images:
                 post_id: '77321'
         meta:
             author: ВалероС
+    -
+        file: gov/fdf18f3a3042f70d0957076189a857e4.jpg
+        source:
+            type: gov
+    -
+        file: gov/f1647ff50c2e9e216a806e776d71a7d9.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.654373
+            lon: 23.90168
+        source: gov
 meta:
     fgb:
         post_id: '77321'
@@ -51,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77321#77321'
                 version: '30 Oct 2021, Sat, 19:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/518'

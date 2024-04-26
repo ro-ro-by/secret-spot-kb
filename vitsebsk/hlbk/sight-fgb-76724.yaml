@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Родниково-ручьевой природный комплекс «Рутковский»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.1962
+    founded_on: 29.12.2014
 images:
     -
         file: cfc7a52a4b0ca74827e4704ee4bc49e0.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '76724'
+    -
+        file: gov/90ad25da23d5f464e10dbbbc0f98f10c.jpg
+        source:
+            type: gov
+    -
+        file: gov/0ef47eb5c68bbe63b6b42ba03731e4e2.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -37,6 +51,12 @@ location:
             osm:
                 type: relation
                 id: 9963216
+    -
+        type: point
+        coordinates:
+            lat: 55.179067
+            lon: 28.305414
+        source: gov
 osm:
     -
         type: relation
@@ -52,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76724#76724'
                 version: '20 Jun 2023, Tue, 18:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/914'

@@ -1,0 +1,42 @@
+id: sight-gov-947
+title: 'Заказник «Кораневский»'
+type: area
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-bshn
+gov:
+    title: 'Заказник «Кораневский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 704.0
+    founded_on: 09.04.2018
+images:
+    -
+        file: gov/29b45212605607695e0e54003544139d.jpg
+        source:
+            type: gov
+    -
+        file: gov/cccf3210dcd2dfb9709198e4bbc6879a.jpg
+        source:
+            type: gov
+    -
+        file: gov/90928466c51ce213cff1fe19e5bc1451.jpg
+        source:
+            type: gov
+    -
+        file: gov/c11a33dc7363ca0e139ee0e443329b1b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.240496
+            lon: 29.170612
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/947'

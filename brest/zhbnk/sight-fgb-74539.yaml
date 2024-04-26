@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Парк «Атечизна»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 5.973
+    founded_on: 13.09.1976
 images:
     -
         file: 217182421de9cd22dd33ae3f21e4c8fb.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74539'
+    -
+        file: gov/b8af167604a507a2829bcf61bb8a9f93.jpg
+        source:
+            type: gov
+    -
+        file: gov/7646b46845642d0c091d0752e3dcdcbc.jpg
+        source:
+            type: gov
+    -
+        file: gov/ab032ba806ca9cc991c8115a59823108.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +46,20 @@ location:
             lat: 52.168361
             lon: 24.108
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.168361
+            lon: 24.108
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26257.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26257'
 meta:
     fgb:
         post_id: '74539'
@@ -39,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74539#74539'
                 version: '22 Sep 2022, Thu, 20:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/134'
+        -
+            type: oopt
+            oopt:
+                id: '26257'

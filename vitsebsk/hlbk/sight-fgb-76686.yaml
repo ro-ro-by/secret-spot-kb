@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун «Большой камень» плисский 2'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00075
+    founded_on: 18.03.2008
 images:
     -
         file: 75e088235446ef489abbf54ab7614e24.jpg
@@ -32,6 +38,10 @@ images:
                 post_id: '76686'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/1b497a4b77f768483e1b53fb636d0945.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +49,12 @@ location:
             lat: '55.221528'
             lon: '27.930328'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.220352
+            lon: 27.924908
+        source: gov
 meta:
     fgb:
         post_id: '76686'
@@ -50,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76686#76686'
                 version: '22 Jan 2021, Fri, 21:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/393'

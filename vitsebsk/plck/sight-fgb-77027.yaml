@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Борисов камень Полоцкий'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00091
+    founded_on: 23.05.2001
 images:
     -
         file: c2bca444c523bcdbf91d86638a3cc813.jpg
@@ -32,6 +38,17 @@ images:
             type: fgb
             fgb:
                 post_id: '77027'
+    -
+        file: gov/86c561c52a587e247d12fc120d15c51d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.485744
+            lon: 28.75808
+        source: gov
 meta:
     fgb:
         post_id: '77027'
@@ -43,3 +60,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77027#77027'
                 version: '05 Apr 2021, Mon, 20:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/868'

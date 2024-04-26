@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: 'Городской Парк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 3.06
+    founded_on: 22.02.2006
+images:
+    -
+        file: gov/4276fc6505b070e2ba1ec71aef5d0bf6.jpg
+        source:
+            type: gov
+    -
+        file: gov/322b1682503223309262dbc2c3f40873.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,12 @@ location:
             lat: 53.800167
             lon: 30.956
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.800167
+            lon: 30.956
+        source: gov
 meta:
     fgb:
         post_id: '75158'
@@ -22,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75158#75158'
                 version: '11 Nov 2022, Fri, 0:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1274'

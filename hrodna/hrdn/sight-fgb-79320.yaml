@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Каменка-2'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0314
+    founded_on: 25.08.2023
 images:
     -
         file: 8f48e9c49ad239f222afc8eceb1d5989.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '79320'
         meta:
             author: ВалероС
+    -
+        file: gov/b383b6cd08064d9dac439fa3a0fbc662.jpg
+        source:
+            type: gov
+    -
+        file: gov/0fbc560778d937893f920e74aa5d50d2.jpg
+        source:
+            type: gov
+    -
+        file: gov/def6adc1834e4a976ec9c54bc5e50679.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,12 @@ location:
             lat: '53.5874'
             lon: '23.77691'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.587389
+            lon: 23.776944
+        source: gov
 meta:
     fgb:
         post_id: '79320'
@@ -33,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=79320#79320'
                 version: '03 Dec 2021, Fri, 9:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/804'

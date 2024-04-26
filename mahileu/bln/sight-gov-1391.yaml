@@ -1,0 +1,42 @@
+id: sight-gov-1391
+title: 'Заказник «Ясень»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+gov:
+    title: 'Заказник «Ясень»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 696.8
+    founded_on: 22.11.2006
+images:
+    -
+        file: gov/e7fa05fa82d3b7301df09f8ca4f70363.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.941433
+            lon: 29.553785
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26788.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26788'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1391'
+        -
+            type: oopt
+            oopt:
+                id: '26788'

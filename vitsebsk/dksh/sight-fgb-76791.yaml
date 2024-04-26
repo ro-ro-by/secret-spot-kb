@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Дуб-великан “Ситцевский”'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    founded_on: 26.04.2007
 images:
     -
         file: 0fb1f626a2e0cfa29dce57af18844e79.jpg
@@ -13,6 +18,14 @@ images:
             type: fgb
             fgb:
                 post_id: '76791'
+    -
+        file: gov/75f0eaf0b8a1e5c457bf2f0d877cb964.jpg
+        source:
+            type: gov
+    -
+        file: gov/11e564adf0f9f07cc6dc86df1983c09e.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +35,20 @@ location:
             lat: 54.91323
             lon: 27.53761
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.913
+            lon: 27.5374
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27654.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27654'
 meta:
     fgb:
         post_id: '76791'
@@ -33,3 +60,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76791#76791'
                 version: '11 Nov 2022, Fri, 10:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/220'
+        -
+            type: oopt
+            oopt:
+                id: '27654'

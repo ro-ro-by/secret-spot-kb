@@ -4,6 +4,32 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Родник «Лесной»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.002
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/fae96ea0b0ace509eff857452cb51c63.jpg
+        source:
+            type: gov
+    -
+        file: gov/35877f3067f287cc3fa23f51a9896564.jpg
+        source:
+            type: gov
+    -
+        file: gov/61e075b6dc5cd30e7d0c862921f85ed4.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.5077
+            lon: 29.15051
+        source: gov
 meta:
     fgb:
         post_id: '78710'
@@ -15,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78710#78710'
                 version: '30 Sep 2021, Thu, 15:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1137'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Валун «Чертов камень» («Кравец»)'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0062
+    founded_on: 19.03.2007
 images:
     -
         file: 8e5358c4338ba57a0d141ad3336763e3.jpg
@@ -51,6 +57,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77126'
+    -
+        file: gov/97abfec1cc6b0a2fabe3627ad4f839a8.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.658418
+            lon: 29.873245
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27896.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27896'
 meta:
     fgb:
         post_id: '77126'
@@ -62,3 +87,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77126#77126'
                 version: '05 Apr 2022, Tue, 8:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/426'
+        -
+            type: oopt
+            oopt:
+                id: '27896'

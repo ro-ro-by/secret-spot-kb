@@ -4,6 +4,11 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: Дуб
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    founded_on: 14.08.1995
 images:
     -
         file: 572c4f2bc4d104f931e613eff6d9f8d3.jpg
@@ -13,6 +18,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77373'
+    -
+        file: gov/472f958350f677bcf93a27b4da9e5a37.jpg
+        source:
+            type: gov
+    -
+        file: gov/3f3aee3f24693436e58265d308a1e99f.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +35,20 @@ location:
             lat: 53.12272
             lon: 24.9925
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.122722
+            lon: 24.9925
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27678.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27678'
 meta:
     fgb:
         post_id: '77373'
@@ -33,3 +60,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77373#77373'
                 version: '08 Nov 2022, Tue, 20:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/643'
+        -
+            type: oopt
+            oopt:
+                id: '27678'

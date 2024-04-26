@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Заказник «Пелясские гряды-увалы»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1050.0
+    founded_on: 31.10.1997
 images:
     -
         file: dc4bdd3d0bcd151d65e0797330f986ef.jpg
@@ -21,6 +27,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77287'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.92522
+            lon: 24.998098
+        source: gov
 meta:
     fgb:
         post_id: '77287'
@@ -32,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77287#77287'
                 version: '10 Nov 2021, Wed, 8:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/612'

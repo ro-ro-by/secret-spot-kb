@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Холм «Ключниковский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 90.0
+    founded_on: 18.03.2008
 images:
     -
         file: d0caa3441360caaee425d10c7ad111b9.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '76985'
+    -
+        file: gov/eabaa1ca5be99ea75c6f7f3e9d48c5b0.jpg
+        source:
+            type: gov
+    -
+        file: gov/054286a6514874a28a3360fc6bb9cb51.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: 54.44791
             lon: 30.26712
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.4491
+            lon: 30.2625
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26940.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26940'
 meta:
     fgb:
         post_id: '76985'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76985#76985'
                 version: '24 May 2021, Mon, 11:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/424'
+        -
+            type: oopt
+            oopt:
+                id: '26940'

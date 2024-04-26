@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Заказник «Белое»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 226.6
+    founded_on: 30.06.1993
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.265141
+            lon: 29.774569
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26403.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26403'
 meta:
     fgb:
         post_id: '98951'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98951#98951'
                 version: '09 Oct 2021, Sat, 13:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/837'
+        -
+            type: oopt
+            oopt:
+                id: '26403'

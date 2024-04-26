@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Валун «Камень любви»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001564
+    founded_on: 19.03.2007
 images:
     -
         file: 564a22b78b5bcb7125b6acf126c61112.jpg
@@ -21,6 +27,25 @@ images:
             type: fgb
             fgb:
                 post_id: '75818'
+    -
+        file: gov/7752ee530be5e8ec24e037a41fd65745.jpg
+        source:
+            type: gov
+    -
+        file: gov/61d9503269bfac5a538c4261929eb8a1.jpg
+        source:
+            type: gov
+    -
+        file: gov/45ce2ef54be71e636cd38b0a643d1866.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.95322
+            lon: 27.26572
+        source: gov
 meta:
     fgb:
         post_id: '75818'
@@ -32,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75818#75818'
                 version: '25 Jan 2021, Mon, 23:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/277'

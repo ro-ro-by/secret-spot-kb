@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Памятник природы «Большой Болцикский»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 0.2
+    founded_on: 05.06.2015
 images:
     -
         file: 9ab4972ec89fd6b09d6de4b85de45506.jpg
@@ -31,6 +37,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75951'
+    -
+        file: gov/dd6cd83ba8fc976ad78a43be2ad9428e.jpg
+        source:
+            type: gov
+    -
+        file: gov/dfaa8a8c2d6974f91d7f261da82b5dd1.jpg
+        source:
+            type: gov
+    -
+        file: gov/db33723d3a7dd21d95a37987ffd93b63.jpg
+        source:
+            type: gov
+    -
+        file: gov/2b6125f89ecfac5a5526fa49c44c9692.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +60,12 @@ location:
             lat: '54.95084'
             lon: '26.46530'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.95084
+            lon: 26.4653
+        source: gov
 meta:
     fgb:
         post_id: '75951'
@@ -49,3 +77,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75951#75951'
                 version: '28 Apr 2021, Wed, 23:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/256'

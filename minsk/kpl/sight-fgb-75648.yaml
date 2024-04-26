@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Парк «Бобовня»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 7.23
+    founded_on: 30.11.2021
 images:
     -
         file: 376aec126268f5ccd5698c7b136180d9.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75648'
+    -
+        file: gov/d54463c838f25a878b69530a034d7872.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: 53.260083
             lon: 26.948722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.260083
+            lon: 26.948722
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26754.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26754'
 meta:
     fgb:
         post_id: '75648'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75648#75648'
                 version: '08 Nov 2022, Tue, 22:37'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1129'
+        -
+            type: oopt
+            oopt:
+                id: '26754'

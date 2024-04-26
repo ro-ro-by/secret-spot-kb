@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Валун «Камень Филаретов»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001
+    founded_on: 31.07.2006
 images:
     -
         file: bba7f797cc317071f80d1233170188a4.jpg
@@ -24,6 +30,10 @@ images:
             type: fgb
             fgb:
                 post_id: '70751'
+    -
+        file: gov/41b7963a2dddad10f5cc9a74f02e7ac0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +41,20 @@ location:
             lat: '53.37377'
             lon: '26.11168'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.37377
+            lon: 26.11168
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27517.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27517'
 meta:
     fgb:
         post_id: '70751'
@@ -42,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70751#70751'
                 version: '02 Jun 2020, Tue, 23:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/91'
+        -
+            type: oopt
+            oopt:
+                id: '27517'

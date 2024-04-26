@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-mstsl
+gov:
+    title: 'Заказник «Ширина и Подречье»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 236.06
+    founded_on: 27.09.2006
 images:
     -
         file: 4cfb5f145b9af1e47d9c7703f1fa8104.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75070'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.95713
+            lon: 31.63334
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26844.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26844'
 meta:
     fgb:
         post_id: '75070'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75070#75070'
                 version: '20 Sep 2021, Mon, 13:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1332'
+        -
+            type: oopt
+            oopt:
+                id: '26844'

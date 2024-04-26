@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsnp
+gov:
+    title: 'Дендрологический сад имени И.И.Зотова'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.71
+    founded_on: 22.05.2002
 images:
     -
         file: 86860d52e9c74db82537bae24e970dd9.jpg
@@ -29,6 +35,26 @@ images:
             type: fgb
             fgb:
                 post_id: '74999'
+    -
+        file: gov/beb2d1b5e2102630702ba3d9dbfa88eb.jpg
+        source:
+            type: gov
+    -
+        file: gov/629aaecd973917217226598136ead1d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/b974fab42fe9e1af25b00b9f6e9932c9.jpg
+        source:
+            type: gov
+    -
+        file: gov/c15009f7e483c520237af0d0242211d0.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4fca127288734b8e974da3f9454019b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -45,6 +71,20 @@ location:
             osm:
                 type: way
                 id: 662171110
+    -
+        type: point
+        coordinates:
+            lat: 53.317083
+            lon: 31.5175
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26887.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26887'
 osm:
     -
         type: way
@@ -60,3 +100,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74999#74999'
                 version: '11 Nov 2022, Fri, 11:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1347'
+        -
+            type: oopt
+            oopt:
+                id: '26887'

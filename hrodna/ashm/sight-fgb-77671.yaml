@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Ровский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00066
+    founded_on: 16.02.1995
 images:
     -
         file: b77ab93d0c502a0689fd718e1fafa537.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77671'
         meta:
             author: ВалероС
+    -
+        file: gov/bb8afdebeaa7c378305554c12702bffb.jpg
+        source:
+            type: gov
+    -
+        file: gov/ce6f191b480d0f4a1c64e8f5f64edfe4.jpg
+        source:
+            type: gov
+    -
+        file: gov/0453d7cb8ec7636e1709adce6aaf96cd.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.242696'
             lon: '26.174879'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.242696
+            lon: 26.174879
+        source: gov
 meta:
     fgb:
         post_id: '77671'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77671#77671'
                 version: '22 Nov 2021, Mon, 23:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/740'

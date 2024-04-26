@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Большой камень подсосенский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 02.12.2008
 images:
     -
         file: 842d02fcdcf2fc2bb7a8dbfcd8563606.jpg
@@ -38,6 +44,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75570'
+    -
+        file: gov/ad913f46286c74ca671adfb8e73ad133.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -45,6 +55,12 @@ location:
             lat: '54.714351'
             lon: '26.664317'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.714351
+            lon: 26.664317
+        source: gov
 meta:
     fgb:
         post_id: '75570'
@@ -56,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75570#75570'
                 version: '01 Oct 2020, Thu, 22:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1211'

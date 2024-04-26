@@ -4,6 +4,32 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Заборовский мох»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 2460.1
+    founded_on: 22.04.2020
+images:
+    -
+        file: gov/c69cc1a3d874516c7265febdfdf28ea9.jpg
+        source:
+            type: gov
+    -
+        file: gov/639e472e01b2e02e0aeec61a251e9e88.jpg
+        source:
+            type: gov
+    -
+        file: gov/59a68a64a3dcce6b86df087bdcbca0b2.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.800749
+            lon: 28.683959
+        source: gov
 meta:
     fgb:
         post_id: '77087'
@@ -15,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77087#77087'
                 version: '08 Jun 2021, Tue, 15:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1029'

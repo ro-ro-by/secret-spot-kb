@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Валун «Большой камень» побоевский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000408
+    founded_on: 31.07.2006
 images:
     -
         file: a9deb950dc04a2e9401fc424b44a7948.jpg
@@ -33,6 +39,10 @@ images:
                 post_id: '77535'
         meta:
             author: ВалероС
+    -
+        file: gov/7e8f5f1f82c3825ffacaac3d9c892015.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -40,6 +50,12 @@ location:
             lat: '53.284198'
             lon: '24.855981'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.283986
+            lon: 24.856442
+        source: gov
 meta:
     fgb:
         post_id: '77535'
@@ -51,3 +67,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77535#77535'
                 version: '30 Oct 2021, Sat, 20:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/555'

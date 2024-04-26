@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Заказник «Еленка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 5939.74
+    founded_on: 24.12.2014
 images:
     -
         file: 38e7e528c55abc9e3078068cf3ca7f75.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '75700'
         meta:
             author: 'Сергей Глиндзич'
+    -
+        file: gov/e257b476c3c0232944665405771bd1ec.jpg
+        source:
+            type: gov
+    -
+        file: gov/f6c166438cd01fa3499a8426496f5116.jpg
+        source:
+            type: gov
+    -
+        file: gov/1519ee5404032cc87b8272245dbd49fa.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +49,12 @@ location:
             osm:
                 type: relation
                 id: 6525167
+    -
+        type: point
+        coordinates:
+            lat: 54.239717
+            lon: 29.12336
+        source: gov
 osm:
     -
         type: relation
@@ -46,3 +70,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75700#75700'
                 version: '06 May 2021, Thu, 8:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1065'

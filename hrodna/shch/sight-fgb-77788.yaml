@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Костенево'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 21.06.1993
 images:
     -
         file: d50f29b92573a5f76f57daf7636bc631.jpg
@@ -23,6 +28,18 @@ images:
                 post_id: '77788'
         meta:
             author: ВалероС
+    -
+        file: gov/21d72368a3ac1357aae5bc232ad7d0c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/816ab8059194871f975f79b019c4e025.jpg
+        source:
+            type: gov
+    -
+        file: gov/21891484ea54d31e30ebffe3de4bb128.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +47,12 @@ location:
             lat: '53.709269'
             lon: '24.823156'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.70925
+            lon: 24.823194
+        source: gov
 meta:
     fgb:
         post_id: '77788'
@@ -41,3 +64,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77788#77788'
                 version: '30 Oct 2021, Sat, 14:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/762'

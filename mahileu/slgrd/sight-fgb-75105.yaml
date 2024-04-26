@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: 'Заказник «Славгородский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 14779.33
+    founded_on: 04.11.2017
 images:
     -
         file: ba5e018a30825f090cd115abc7f252fd.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75105'
+    -
+        file: gov/feb2b5e18f0327e0ff0f511bea88f16f.jpg
+        source:
+            type: gov
+    -
+        file: gov/752fed1045555ec51f9bac5243e1b1e9.jpg
+        source:
+            type: gov
+    -
+        file: gov/2ebfa5ed63e0f9c9d64cfbd083277641.jpg
+        source:
+            type: gov
+    -
+        file: gov/6dec870446c988f83616dceda3602753.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +45,12 @@ location:
             osm:
                 type: relation
                 id: 9201117
+    -
+        type: point
+        coordinates:
+            lat: 53.321561
+            lon: 31.053753
+        source: gov
 osm:
     -
         type: relation
@@ -38,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75105#75105'
                 version: '06 Feb 2021, Sat, 19:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/215'

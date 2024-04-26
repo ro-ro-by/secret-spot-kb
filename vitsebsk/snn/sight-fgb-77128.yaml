@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Валун «Перун»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0016
+    founded_on: 19.03.2007
 images:
     -
         file: 1947b05498250f69c47a0639953edbec.jpg
@@ -42,6 +48,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77128'
+    -
+        file: gov/54da967fe50a27e9cd8e246804776cea.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -49,6 +59,20 @@ location:
             lat: '54.7078791'
             lon: '29.7282095'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.707903
+            lon: 29.728792
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27898.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27898'
 meta:
     fgb:
         post_id: '77128'
@@ -60,3 +84,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77128#77128'
                 version: '08 Jun 2021, Tue, 13:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/404'
+        -
+            type: oopt
+            oopt:
+                id: '27898'

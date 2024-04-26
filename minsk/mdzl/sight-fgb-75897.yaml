@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» бояровский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0008
+    founded_on: 18.03.2008
 images:
     -
         file: c9557a76ff81f6bee9326ad4faabc376.jpg
@@ -30,6 +36,25 @@ images:
             type: fgb
             fgb:
                 post_id: '75897'
+    -
+        file: gov/76cad377ec11a209b07347c2c8ef08ff.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.92577
+            lon: 27.28452
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27728.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27728'
 meta:
     fgb:
         post_id: '75897'
@@ -41,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75897#75897'
                 version: '26 Apr 2021, Mon, 20:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/296'
+        -
+            type: oopt
+            oopt:
+                id: '27728'

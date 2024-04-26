@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Валун «Клин»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0012
+    founded_on: 19.03.2007
 images:
     -
         file: 026c5e817bb46328ef8aceaed8b719b9.jpg
@@ -29,6 +35,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77129'
+    -
+        file: gov/9a42b254c8cb7a48f3818123100f1334.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.895004
+            lon: 29.78681
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27897.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27897'
 meta:
     fgb:
         post_id: '77129'
@@ -40,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77129#77129'
                 version: '08 Jun 2021, Tue, 14:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/402'
+        -
+            type: oopt
+            oopt:
+                id: '27897'

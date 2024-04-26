@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень полужский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: f642fe33479b171fcbf1e44f2743267a.jpg
@@ -31,6 +36,18 @@ images:
                 post_id: '77303'
         meta:
             author: ВалероС
+    -
+        file: gov/6110874f07e9c024813aa857d18bdb8b.jpg
+        source:
+            type: gov
+    -
+        file: gov/fcb2647513de04cefa9bcf46c9ac0bbd.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae4b196352477b77e39e7cdf58029129.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +55,12 @@ location:
             lat: '54.144475'
             lon: '25.105461'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.144475
+            lon: 25.105461
+        source: gov
 meta:
     fgb:
         post_id: '77303'
@@ -49,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77303#77303'
                 version: '22 Nov 2021, Mon, 22:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/656'

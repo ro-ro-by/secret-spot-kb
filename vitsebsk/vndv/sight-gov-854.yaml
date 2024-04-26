@@ -1,0 +1,54 @@
+id: sight-gov-854
+title: 'Березовский большой камень'
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vndv
+gov:
+    title: 'Березовский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00084
+    founded_on: 09.04.2020
+images:
+    -
+        file: gov/035965cdca6acec654ba004268c1db08.jpg
+        source:
+            type: gov
+    -
+        file: gov/c7c968b202682e1d920786f7e42be08b.jpg
+        source:
+            type: gov
+    -
+        file: gov/910fa8c25e085f2ff84a45bbc7dc4e78.jpg
+        source:
+            type: gov
+    -
+        file: gov/05dd2b6d26bc2aab85d121eb723e4ccf.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.588042
+            lon: 28.137719
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27849.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27849'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/854'
+        -
+            type: oopt
+            oopt:
+                id: '27849'

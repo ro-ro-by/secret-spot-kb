@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Заказник «Соколиный»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 20.9
+    founded_on: 29.08.2011
+images:
+    -
+        file: gov/0a80761259a8124df87242e33d0da263.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -14,6 +25,12 @@ location:
             osm:
                 type: way
                 id: 37593729
+    -
+        type: point
+        coordinates:
+            lat: 53.782917
+            lon: 27.603676
+        source: gov
 osm:
     -
         type: way
@@ -29,3 +46,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97954#97954'
                 version: '04 May 2021, Tue, 15:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1068'

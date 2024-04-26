@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Городище Валькевичское'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 60.0
+    founded_on: 22.10.2002
 images:
     -
         file: fec5bc1c9344266553ed8ad2d9caf9a5.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77378'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.183944
+            lon: 24.874611
+        source: gov
 meta:
     fgb:
         post_id: '77378'
@@ -24,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77378#77378'
                 version: '21 Jan 2021, Thu, 23:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/632'

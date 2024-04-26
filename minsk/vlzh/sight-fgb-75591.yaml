@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Камень»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00124
+    founded_on: 19.03.2007
 images:
     -
         file: 1877952b47f098720083c20f70216ba6.jpg
@@ -40,6 +46,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75591'
+    -
+        file: gov/614050c3a9560b1f6397dff2f1c3f127.jpg
+        source:
+            type: gov
+    -
+        file: gov/59d70f689e75efb17c934c611e9977d8.jpg
+        source:
+            type: gov
+    -
+        file: gov/ffad0f11b2114bbba46b5f4a6c1bcc3c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -47,6 +65,12 @@ location:
             lat: '53.860319'
             lon: '26.651311'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.86031
+            lon: 26.65131
+        source: gov
 meta:
     fgb:
         post_id: '75591'
@@ -58,3 +82,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75591#75591'
                 version: '27 Oct 2021, Wed, 22:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/266'

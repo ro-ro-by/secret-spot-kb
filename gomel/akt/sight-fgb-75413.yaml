@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-akt
 forest:
     dominated_type: pine
+gov:
+    title: 'Сосновая роща'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 13.8
+    founded_on: 17.12.2004
 images:
     -
         file: 513a7eacf46569c3c53e9c265254a1ba.jpg
@@ -15,6 +21,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75413'
+    -
+        file: gov/f8cd1c7813cc21a48e0a960073d7a020.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: 52.55728
             lon: 28.62869
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.557278
+            lon: 28.628694
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26456.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26456'
 meta:
     fgb:
         post_id: '75413'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75413#75413'
                 version: '03 Nov 2022, Thu, 14:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/777'
+        -
+            type: oopt
+            oopt:
+                id: '26456'

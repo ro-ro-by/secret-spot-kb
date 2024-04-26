@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Большой камень тусуманский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: 79ad2f29839b2407e57cc85bd7d4bb03.jpg
@@ -31,6 +36,18 @@ images:
                 post_id: '77301'
         meta:
             author: ВалероС
+    -
+        file: gov/cd9bc4f547843c515cf5f04209b4f48b.jpg
+        source:
+            type: gov
+    -
+        file: gov/6e4cc74eb8d9091b276c7ec588dfbceb.jpg
+        source:
+            type: gov
+    -
+        file: gov/8ea971a6ac519095d6c5a8331823ebf3.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +55,12 @@ location:
             lat: '54.175611'
             lon: '25.413446'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.175611
+            lon: 25.413446
+        source: gov
 meta:
     fgb:
         post_id: '77301'
@@ -49,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77301#77301'
                 version: '22 Nov 2021, Mon, 22:20'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/654'

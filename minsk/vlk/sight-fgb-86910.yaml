@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Обнажение «Винцентово»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 5.4
+    founded_on: 19.03.2007
 images:
     -
         file: f77244e0890dc8454f65a2e7d22b9eab.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '86910'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/a0f8c6230aac54f0b1ee0e19118e4c78.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: '54.36494'
             lon: '27.25463'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.36494
+            lon: 27.25462
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27024.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27024'
 meta:
     fgb:
         post_id: '86910'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=86910#86910'
                 version: '09 Jul 2020, Thu, 16:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/275'
+        -
+            type: oopt
+            oopt:
+                id: '27024'

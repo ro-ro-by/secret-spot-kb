@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Родник «Криница Святого Яна»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 7.61
+    founded_on: 31.03.2000
 images:
     -
         file: f0a07204ac7f645cabd5646bf21a29c9.jpg
@@ -23,6 +29,10 @@ images:
                 post_id: '76930'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/e936865442a547a0d9458392261bf2f8.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +40,20 @@ location:
             lat: '55.35811'
             lon: '28.09250'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.358019
+            lon: 28.09345
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27013.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27013'
 meta:
     fgb:
         post_id: '76930'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76930#76930'
                 version: '30 Apr 2021, Fri, 17:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/999'
+        -
+            type: oopt
+            oopt:
+                id: '27013'

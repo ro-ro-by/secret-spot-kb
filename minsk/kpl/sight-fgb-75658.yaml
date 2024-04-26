@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Заказник «Морочанский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 133.87
+    founded_on: 24.08.2006
 images:
     -
         file: 66f1eaa4294a22ef461f02775bee53df.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '75658'
+    -
+        file: gov/f23935c14f8f868f539265d33c48ffc6.jpg
+        source:
+            type: gov
+    -
+        file: gov/3c47a7c62f9ec115ba095113723dabf0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.884167
+            lon: 26.969444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26572.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26572'
 meta:
     fgb:
         post_id: '75658'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75658#75658'
                 version: '08 Apr 2021, Thu, 22:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1062'
+        -
+            type: oopt
+            oopt:
+                id: '26572'

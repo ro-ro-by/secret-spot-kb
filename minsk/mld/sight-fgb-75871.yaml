@@ -7,6 +7,17 @@ belongsTo:
 forest:
     types:
         - fir
+gov:
+    title: 'Лесные культуры с участием пихты белой'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.95
+    founded_on: 12.10.2012
+images:
+    -
+        file: gov/4369f875bbe56d597064ded05cf8e1a5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -14,6 +25,12 @@ location:
             lat: 54.344944
             lon: 26.803722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.345514
+            lon: 26.804919
+        source: gov
 meta:
     fgb:
         post_id: '75871'
@@ -25,3 +42,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75871#75871'
                 version: '09 Nov 2022, Wed, 0:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1185'

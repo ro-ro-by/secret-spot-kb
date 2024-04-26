@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+gov:
+    title: 'Гродненская Свислочь'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 4881.17
+    founded_on: 24.05.2002
 images:
     -
         file: 865c37580aee858c0fdbdcb829266a3d.jpg
@@ -15,6 +21,14 @@ images:
                 post_id:
                     - '77254'
                     - '79462'
+    -
+        file: gov/3bff5241fb93990cc5f39d995f05e611.jpg
+        source:
+            type: gov
+    -
+        file: gov/ee8deb59d9d65d2a74addca05b319f81.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -26,6 +40,12 @@ location:
             osm:
                 type: node
                 id: 8394796377
+    -
+        type: point
+        coordinates:
+            lat: 53.392071
+            lon: 23.929494
+        source: gov
 osm:
     -
         type: node
@@ -48,3 +68,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=79462#79462'
                 version: '26 Jul 2020, Sun, 21:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/602'

@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень провожской'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: 39e1edb4c4c47431f4fabceee2b1370b.jpg
@@ -41,6 +46,18 @@ images:
                 post_id: '77300'
         meta:
             author: ВалероС
+    -
+        file: gov/a11f24ab826dfc752a6d34d4f36b9618.jpg
+        source:
+            type: gov
+    -
+        file: gov/93014e116ab69c62bdb05eb4753b6434.jpg
+        source:
+            type: gov
+    -
+        file: gov/06da56bbaeccce969c5f39b0dd83a2a4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -48,6 +65,12 @@ location:
             lat: '53.917898'
             lon: '24.854344'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.917889
+            lon: 24.85425
+        source: gov
 meta:
     fgb:
         post_id: '77300'
@@ -59,3 +82,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77300#77300'
                 version: '19 Jul 2022, Tue, 12:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/653'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-chrv
+gov:
+    title: 'Сосны черные «Смиловичские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.02865
+    founded_on: 26.04.2007
 images:
     -
         file: ad3dd3e398d774ab354f72dbb89026f5.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '76050'
+    -
+        file: gov/ece6975f55b24b451e081a176f9eb487.jpg
+        source:
+            type: gov
+    -
+        file: gov/dcac9cd08465dc5093c855bb6abb8460.jpg
+        source:
+            type: gov
+    -
+        file: gov/78b08001d4fcbcce130e59dc1ecb0bd8.jpg
+        source:
+            type: gov
 tree:
     type: pine_black
 location:
@@ -22,6 +40,20 @@ location:
             lat: 53.752028
             lon: 28.006611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.75255
+            lon: 28.01692
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27660.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27660'
 meta:
     fgb:
         post_id: '76050'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76050#76050'
                 version: '09 Nov 2022, Wed, 0:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/253'
+        -
+            type: oopt
+            oopt:
+                id: '27660'

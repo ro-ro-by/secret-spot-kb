@@ -13,6 +13,15 @@ images:
             type: fgb
             fgb:
                 post_id: '74499'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26253.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26253'
 meta:
     fgb:
         post_id: '74499'
@@ -24,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74499#74499'
                 version: '19 Feb 2020, Wed, 22:52'
+        -
+            type: oopt
+            oopt:
+                id: '26253'

@@ -8,6 +8,24 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Пойменная дубрава'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 5.0
+    founded_on: 11.12.2006
+images:
+    -
+        file: gov/fbd5748e31f23b02505f5bcaed1d57ec.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.098278
+            lon: 28.584194
+        source: gov
 meta:
     fgb:
         post_id: '74763'
@@ -19,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74763#74763'
                 version: '19 Aug 2020, Wed, 22:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1342'

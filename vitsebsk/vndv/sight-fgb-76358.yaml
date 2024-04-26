@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Дуб черешчатый «Сахоновский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.035
+    founded_on: 26.04.2007
 images:
     -
         file: a5a978a1e1db428043934840e8241739.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76358'
+    -
+        file: gov/e22c6d5f8559783a8440eaaedcef6736.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +32,20 @@ location:
             lat: 55.91397
             lon: 28.09578
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.914
+            lon: 28.0958
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27648.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27648'
 meta:
     fgb:
         post_id: '76358'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76358#76358'
                 version: '11 Nov 2022, Fri, 10:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/413'
+        -
+            type: oopt
+            oopt:
+                id: '27648'

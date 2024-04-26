@@ -4,6 +4,24 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: "Холмы Туржецкие\_"
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 103.0
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/efbc09a27b339920f15cea753a300b11.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.283889
+            lon: 28.806944
+        source: gov
 meta:
     fgb:
         post_id: '77018'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77018#77018'
                 version: '14 May 2021, Fri, 15:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1249'

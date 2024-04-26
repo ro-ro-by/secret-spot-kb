@@ -1,0 +1,34 @@
+id: sight-gov-173
+title: 'Шеметовские березы'
+type: tree
+belongsTo:
+    region: region-brest
+    subregion: subregion-kbrn
+gov:
+    title: 'Шеметовские березы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.53
+    founded_on: 06.12.2021
+images:
+    -
+        file: gov/2ae333ad4a5551ddb6e61b72de71b8b5.jpg
+        source:
+            type: gov
+    -
+        file: gov/26aab5fa22f0e2864a0ffec4b9417f80.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.321722
+            lon: 24.680691
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/173'

@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Обнажение «Мурова»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 3.8
+    founded_on: 19.03.2007
 images:
     -
         file: 5e93de790a50b4f9c96b075593892e96.jpg
@@ -37,6 +43,14 @@ images:
             type: fgb
             fgb:
                 post_id: '70799'
+    -
+        file: gov/5c562735888d471256c5e2250afc2503.jpg
+        source:
+            type: gov
+    -
+        file: gov/12cbfbc17af351d13cb76929cc4ecf29.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -47,6 +61,20 @@ location:
             osm:
                 type: relation
                 id: 12010633
+    -
+        type: point
+        coordinates:
+            lat: 54.05121
+            lon: 28.83039
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27764.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27764'
 osm:
     -
         type: relation
@@ -62,3 +90,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70799#70799'
                 version: '17 Feb 2020, Mon, 23:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/261'
+        -
+            type: oopt
+            oopt:
+                id: '27764'

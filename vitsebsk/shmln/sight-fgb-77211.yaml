@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Сосна обыкновенная'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0002
+    founded_on: 03.12.2012
 images:
     -
         file: a372cd1092b4a93c69d1703549843103.jpg
@@ -32,6 +38,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77211'
+    -
+        file: gov/fb69fbf80a5f159ffc7709e83a4f4d9f.jpg
+        source:
+            type: gov
+    -
+        file: gov/c1caf852450ffd5f9bb19f568ae9d4ad.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -41,6 +55,12 @@ location:
             lat: 55.529111
             lon: 29.572222
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.529111
+            lon: 29.572222
+        source: gov
 meta:
     fgb:
         post_id: '77211'
@@ -52,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77211#77211'
                 version: '17 Oct 2022, Mon, 21:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/966'

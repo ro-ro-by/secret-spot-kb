@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Старинный парк «Освейский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 23.0
+    founded_on: 10.06.2011
 images:
     -
         file: eb5059b3c0d37bdace2b3d1d563026f0.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76349'
+    -
+        file: gov/5cceb934dd380e8e55a38070c187b69b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: '56.013590'
             lon: '28.120963'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 56.01359
+            lon: 28.120963
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26274.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26274'
 meta:
     fgb:
         post_id: '76349'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76349#76349'
                 version: '23 Sep 2022, Fri, 0:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/929'
+        -
+            type: oopt
+            oopt:
+                id: '26274'

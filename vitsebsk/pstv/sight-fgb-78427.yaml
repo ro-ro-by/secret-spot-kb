@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Памятник природы «Грамяки»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 0.28
+    founded_on: 26.01.2016
 images:
     -
         file: 5cf82d47622ae17a63e10d58c3350b33.jpg
@@ -30,6 +36,14 @@ images:
             type: fgb
             fgb:
                 post_id: '78427'
+    -
+        file: gov/36444eb67983d581c2420af2309ed7e0.jpg
+        source:
+            type: gov
+    -
+        file: gov/04426ac00df9f09e21e3e5ca012cf3e9.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -46,6 +60,12 @@ location:
             osm:
                 type: relation
                 id: 13514098
+    -
+        type: point
+        coordinates:
+            lat: 55.109386
+            lon: 27.355213
+        source: gov
 osm:
     -
         type: relation
@@ -61,3 +81,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78427#78427'
                 version: '11 May 2022, Wed, 6:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/379'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Родник в урочище «Первый Переток»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 3.7
+    founded_on: 24.10.2008
 images:
     -
         file: 14055fd6f5a2a5fc1d17a6b65b872fe8.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '75773'
         meta:
             author: 'Антон Комаров'
+    -
+        file: gov/bdffcac38a10c4ffacf619ce063521d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/642e9975af2203ecc9cd98b0afcae8a6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,12 @@ location:
             lat: '52.92314'
             lon: '27.93464'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.92314
+            lon: 27.93464
+        source: gov
 meta:
     fgb:
         post_id: '75773'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75773#75773'
                 version: '30 Sep 2021, Thu, 12:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1174'

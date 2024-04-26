@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Валуны «Березовские»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    founded_on: 19.03.2007
 images:
     -
         file: bed705b86a53b2304cbe6dbb35aeeb60.jpg
@@ -32,6 +37,10 @@ images:
                 post_id: '77156'
         meta:
             author: N-35
+    -
+        file: gov/e9ee29370e99ef2b6ade4b954571410f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +48,20 @@ location:
             lat: '55.23144'
             lon: '28.979195'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.23144
+            lon: 28.979195
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27910.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27910'
 meta:
     fgb:
         post_id: '77156'
@@ -50,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77156#77156'
                 version: '30 Oct 2021, Sat, 20:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/411'
+        -
+            type: oopt
+            oopt:
+                id: '27910'

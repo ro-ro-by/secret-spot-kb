@@ -6,6 +6,21 @@ belongsTo:
     subregion: subregion-chs
 forest:
     dominated_type: pine
+gov:
+    title: 'Роща в урочище «Елово»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 54.0
+    founded_on: 27.11.2002
+images:
+    -
+        file: gov/1c835ba047424847c5f1bdfcc08bbba6.jpg
+        source:
+            type: gov
+    -
+        file: gov/fb18adb52f2758899396be04cd5eeeff.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +37,20 @@ location:
             osm:
                 type: relation
                 id: 662178536
+    -
+        type: point
+        coordinates:
+            lat: 53.828667
+            lon: 30.982056
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26897.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26897'
 osm:
     -
         type: relation
@@ -37,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75157#75157'
                 version: '11 Nov 2022, Fri, 0:49'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1346'
+        -
+            type: oopt
+            oopt:
+                id: '26897'

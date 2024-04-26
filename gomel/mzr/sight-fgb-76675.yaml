@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Заказник «Алес»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 4812.51
+    founded_on: 17.11.2014
 images:
     -
         file: 251ffea2453e1ed06426e31ec5f3503f.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '76675'
+    -
+        file: gov/55af364687c73ddca755092f21cd31f5.jpg
+        source:
+            type: gov
+    -
+        file: gov/42d9e56cfbb16336a3396af1aa356daa.jpg
+        source:
+            type: gov
+    -
+        file: gov/ff01969e836ff1b01118ee6923c2b195.jpg
+        source:
+            type: gov
+    -
+        file: gov/9e1cec541ccdc69e0ebb16d88c30e50b.jpg
+        source:
+            type: gov
+    -
+        file: gov/b2ff72a009997d2ad50e152c334038c7.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +49,20 @@ location:
             osm:
                 type: relation
                 id: 5478283
+    -
+        type: point
+        coordinates:
+            lat: 52.090472
+            lon: 28.95688
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26370.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26370'
 osm:
     -
         type: relation
@@ -38,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76675#76675'
                 version: '23 Aug 2020, Sun, 23:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/832'
+        -
+            type: oopt
+            oopt:
+                id: '26370'

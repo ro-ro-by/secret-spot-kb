@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Старинный парк «Сигневичи-2»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.87
+    founded_on: 19.04.1983
 images:
     -
         file: 0f6d75cfb91bc4081be9a0a99204ef1e.jpg
@@ -15,6 +21,22 @@ images:
                 post_id: '74498'
         meta:
             author: 'Николай Кузич'
+    -
+        file: gov/96991a0967b699da9955d619801ad0af.jpg
+        source:
+            type: gov
+    -
+        file: gov/61ec0151b72a5274083fca4daf6bf533.jpg
+        source:
+            type: gov
+    -
+        file: gov/a87b20ae97c9317654af05d6d9a573ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/c29f663d92d7d1403317f52024989150.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +44,12 @@ location:
             lat: 52.433889
             lon: 24.897778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.433889
+            lon: 24.897778
+        source: gov
 meta:
     fgb:
         post_id: '74498'
@@ -33,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74498#74498'
                 version: '22 Sep 2022, Thu, 20:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/103'

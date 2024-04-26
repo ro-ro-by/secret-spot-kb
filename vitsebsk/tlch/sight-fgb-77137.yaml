@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-tlch
+gov:
+    title: 'Заказник «Медвежий лук»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 32.32
+    founded_on: 24.06.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.567588
+            lon: 29.660857
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27747.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27747'
 meta:
     fgb:
         post_id: '77137'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77137#77137'
                 version: '22 Jan 2021, Fri, 11:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1032'
+        -
+            type: oopt
+            oopt:
+                id: '27747'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Заказник «Малиновщинские возвышенности»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 353.24
+    founded_on: 16.05.1996
 images:
     -
         file: 444fd17c8a87145b2a75a26858a8db56.jpg
@@ -13,6 +19,41 @@ images:
             type: fgb
             fgb:
                 post_id: '76682'
+    -
+        file: gov/48558860bab338c851c5c00071c6038c.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4bc135a1010e71129b2bbf7737eb7ab.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d1a1eb55870d4720e2c7d8a22ea7f7b.jpg
+        source:
+            type: gov
+    -
+        file: gov/2bfd6a7fd6480107b302eab5bf4ee83c.jpg
+        source:
+            type: gov
+    -
+        file: gov/f7b76db7a910bd2b786447de5f8be06c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.095027
+            lon: 27.640825
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27641.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27641'
 meta:
     fgb:
         post_id: '76682'
@@ -24,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76682#76682'
                 version: '22 Jan 2021, Fri, 21:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1015'
+        -
+            type: oopt
+            oopt:
+                id: '27641'

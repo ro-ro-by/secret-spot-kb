@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-hml
+gov:
+    title: 'Парк Гомельского дворцово-паркового ансамбля'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 17.5425
+    founded_on: 08.05.2007
 images:
     -
         file: c946a0fa61215ad9dbc4802b32a34f25.jpg
@@ -31,6 +37,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75239'
+    -
+        file: gov/f4ac1e28a1b89965129635329c3a7508.jpg
+        source:
+            type: gov
+    -
+        file: gov/b0566c85c87d6c1786b13424bee9cc82.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,20 @@ location:
             lat: 52.421833
             lon: 30.014722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.423198
+            lon: 31.015087
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26942.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26942'
 meta:
     fgb:
         post_id: '75239'
@@ -49,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75239#75239'
                 version: '27 Aug 2022, Sat, 0:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/352'
+        -
+            type: oopt
+            oopt:
+                id: '26942'

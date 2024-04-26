@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klmv
+gov:
+    title: 'Заказник «Долина реки Остер»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 3011.34
+    founded_on: 27.12.2016
 images:
     -
         file: 752bc5d02ef8cd5d1bbef73894256b30.jpg
@@ -13,6 +19,17 @@ images:
             type: fgb
             fgb:
                 post_id: '74830'
+    -
+        file: gov/d20d3da36eeed4e8caa6453f7dbf8dac.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.753374
+            lon: 32.066844
+        source: gov
 meta:
     fgb:
         post_id: '74830'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74830#74830'
                 version: '17 Sep 2021, Fri, 12:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1316'

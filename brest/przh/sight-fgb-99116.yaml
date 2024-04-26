@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Высоковозрастные лиственничные насаждения "Зеленевичские"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.31
+    founded_on: 28.06.2018
 images:
     -
         file: 2979471192419ac89bd141f30c186c5f.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '99116'
+    -
+        file: gov/b9a9a76114f94b544a42627da1fea7fa.jpg
+        source:
+            type: gov
+    -
+        file: gov/0b64702f98ef0d9ef04a0c841acac5eb.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,12 @@ location:
             lat: 52.953389
             lon: 24.832694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.953389
+            lon: 24.832694
+        source: gov
 meta:
     fgb:
         post_id: '99116'
@@ -31,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99116#99116'
                 version: '11 Nov 2022, Fri, 21:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/203'

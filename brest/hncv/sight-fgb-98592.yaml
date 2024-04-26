@@ -4,6 +4,29 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Круговичский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0004
+    founded_on: 30.09.2020
+images:
+    -
+        file: gov/190f4bc5ce78eb516b3fb087cc115111.jpg
+        source:
+            type: gov
+    -
+        file: gov/8db9f6c859bdb781315fb8a7defcf278.jpg
+        source:
+            type: gov
+    -
+        file: gov/7984ac9140fb9ae4bb6ceb60f3b18847.jpg
+        source:
+            type: gov
+    -
+        file: gov/71fe0d7133628612be30a4b52e6543fb.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +34,12 @@ location:
             lat: 52.77798
             lon: 26.6276
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.777981
+            lon: 26.6276
+        source: gov
 meta:
     fgb:
         post_id: '98592'
@@ -22,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98592#98592'
                 version: '02 Sep 2021, Thu, 21:39'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/129'

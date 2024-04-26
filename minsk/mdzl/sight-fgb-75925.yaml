@@ -4,6 +4,36 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Большой камень кочергинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0013
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/63d8cf8a52d68122b116e19eb7d7b396.jpg
+        source:
+            type: gov
+    -
+        file: gov/175ed7b04d0b1f7b53dbb1d88e219d6c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.84873
+            lon: 26.909278
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27717.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27717'
 meta:
     fgb:
         post_id: '75925'
@@ -15,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75925#75925'
                 version: '27 Apr 2021, Tue, 20:20'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1160'
+        -
+            type: oopt
+            oopt:
+                id: '27717'

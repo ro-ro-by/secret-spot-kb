@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Невельские вязы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.075
+    founded_on: 23.06.2005
 images:
     -
         file: 9250159b280e44bc9b4d5eef538f1024.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74646'
+    -
+        file: gov/26cf4e7935e36c4dee59637062666246.jpg
+        source:
+            type: gov
+    -
+        file: gov/d6e6e2b4870de22a46268fb60a206244.jpg
+        source:
+            type: gov
+    -
+        file: gov/c1531384be30d536f10be643f92637bd.jpg
+        source:
+            type: gov
 tree:
     type: elm
 location:
@@ -22,6 +40,20 @@ location:
             lat: 52.368
             lon: 23.37625
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.930046
+            lon: 25.848214
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27633.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27633'
 meta:
     fgb:
         post_id: '74646'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74646#74646'
                 version: '22 Sep 2022, Thu, 22:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/189'
+        -
+            type: oopt
+            oopt:
+                id: '27633'

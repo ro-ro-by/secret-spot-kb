@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Якубовичи'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 21.06.1993
 images:
     -
         file: e9f347073cdbdf8bef2d0378df3bcabc.jpg
@@ -51,6 +56,14 @@ images:
                 post_id: '77793'
         meta:
             author: ВалероС
+    -
+        file: gov/c1ea5019b844d44f9a369c163d3c5801.jpg
+        source:
+            type: gov
+    -
+        file: gov/edeceae867b27296c845ba2d2ee11990.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -58,6 +71,12 @@ location:
             lat: '53.852932'
             lon: '24.494604'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.852917
+            lon: 24.494639
+        source: gov
 meta:
     fgb:
         post_id: '77793'
@@ -69,3 +88,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77793#77793'
                 version: '30 May 2023, Tue, 12:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/772'

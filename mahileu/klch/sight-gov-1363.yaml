@@ -1,0 +1,25 @@
+id: sight-gov-1363
+title: 'Заказник «Мокрое-1»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-klch
+gov:
+    title: 'Заказник «Мокрое-1»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 81.47
+    founded_on: 18.11.2009
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.561658
+            lon: 29.384644
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1363'

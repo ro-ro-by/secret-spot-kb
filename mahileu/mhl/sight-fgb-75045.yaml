@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Полыковичская криница'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 1.42
+    founded_on: 31.07.2006
 images:
     -
         file: aaf36afa9de51d4dd3ef0df9ff4ea987.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75045'
+    -
+        file: gov/c4f3e0690542f71f3689e8b7ecb288aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/af5faae95114d3f7778f23cbfc3a8e80.jpg
+        source:
+            type: gov
+    -
+        file: gov/04cb6cfe054e54899ba617e197fe1dd9.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,12 @@ location:
             lat: '53.96312'
             lon: '30.38293'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.96312
+            lon: 30.38293
+        source: gov
 meta:
     fgb:
         post_id: '75045'
@@ -31,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75045#75045'
                 version: '06 Oct 2021, Wed, 14:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/471'

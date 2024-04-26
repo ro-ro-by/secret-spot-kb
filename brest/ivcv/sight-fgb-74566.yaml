@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Насаждение карельской березы «Калининское»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 10.9
+    founded_on: 05.05.2007
 images:
     -
         file: 209d39c42e199cf19f319ea9281b20df.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74566'
+    -
+        file: gov/deeaad897aa8d123690bc65575fefa45.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: 52.564222
             lon: 25.678444
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.563429
+            lon: 25.664432
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27745.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27745'
 meta:
     fgb:
         post_id: '74566'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74566#74566'
                 version: '22 Sep 2022, Thu, 21:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/75'
+        -
+            type: oopt
+            oopt:
+                id: '27745'

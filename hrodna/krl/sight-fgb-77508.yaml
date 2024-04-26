@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Валун «Чертов камень» осташинский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000756
+    founded_on: 18.01.2008
 images:
     -
         file: a836baa4823b7cbc837f06e662254937.jpg
@@ -43,6 +49,21 @@ images:
                 post_id: '77508'
         meta:
             author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.463251
+            lon: 26.170176
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27885.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27885'
 meta:
     fgb:
         post_id: '77508'
@@ -54,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77508#77508'
                 version: '30 Oct 2021, Sat, 20:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/512'
+        -
+            type: oopt
+            oopt:
+                id: '27885'

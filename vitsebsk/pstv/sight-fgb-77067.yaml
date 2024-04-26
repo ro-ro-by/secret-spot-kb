@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Жуперская гряда'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 10.0
+    founded_on: 29.03.2019
 images:
     -
         file: 95bb003390668e6f8365da9dd72dc64c.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77067'
+    -
+        file: gov/dbf05a8b46a45a2622da81daeed373c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/5baf3e475b646bf0ea2351977b0829de.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4562524469039176b811991197a813a.jpg
+        source:
+            type: gov
+    -
+        file: gov/afadb723f727372c93808eff358f591a.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.141004
+            lon: 27.221393
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26321.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26321'
 meta:
     fgb:
         post_id: '77067'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77067#77067'
                 version: '20 Aug 2021, Fri, 11:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/889'
+        -
+            type: oopt
+            oopt:
+                id: '26321'

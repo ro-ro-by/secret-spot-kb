@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: Клен
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.03
+    founded_on: 27.07.2006
+images:
+    -
+        file: gov/5e508de7becfcfe3cd5a2486e03c2018.jpg
+        source:
+            type: gov
 tree:
     type: maple
 location:
@@ -13,6 +24,12 @@ location:
             lat: 52.833472
             lon: 27.338083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.833472
+            lon: 27.338083
+        source: gov
 meta:
     fgb:
         post_id: '75991'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75991#75991'
                 version: '10 Nov 2022, Thu, 22:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1172'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун Прусогорский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.005
+    founded_on: 16.10.2008
 images:
     -
         file: 016710f67a4718edd058830c510a482f.jpg
@@ -31,6 +37,17 @@ images:
                 post_id: '75617'
         meta:
             author: ВалероС
+    -
+        file: gov/1da7ae915f2a7a2aa816f890a8f5572d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.116031
+            lon: 26.081757
+        source: gov
 meta:
     fgb:
         post_id: '75617'
@@ -42,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75617#75617'
                 version: '27 Oct 2021, Wed, 22:12'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1113'

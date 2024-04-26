@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Вишня птичья'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.007
+    founded_on: 16.12.1999
 images:
     -
         file: fc31be7d98772179ae223f105642de19.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '74511'
         meta:
             author: 'Денис Тищук'
+    -
+        file: gov/1a3ea75ebcc478c36a5c97af2e57e7d9.jpg
+        source:
+            type: gov
 tree:
     type: cherry_sweet
 location:
@@ -24,6 +34,12 @@ location:
             lat: 52.096139
             lon: 23.686722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.096139
+            lon: 23.7166722
+        source: gov
 meta:
     fgb:
         post_id: '74511'
@@ -35,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74511#74511'
                 version: '22 Sep 2022, Thu, 20:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/108'

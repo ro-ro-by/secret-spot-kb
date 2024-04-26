@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lnn
+gov:
+    title: Борский
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 2818.4
+    founded_on: 16.08.1979
 images:
     -
         file: 2c35bbb74f13b18e1dbe767de54382b9.jpg
@@ -25,6 +31,20 @@ location:
             osm:
                 type: way
                 id: 538516532
+    -
+        type: point
+        coordinates:
+            lat: 52.700857
+            lon: 26.926457
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26126.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26126'
 osm:
     -
         type: way
@@ -47,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=82949#82949'
                 version: '20 Aug 2020, Thu, 0:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/486'
+        -
+            type: oopt
+            oopt:
+                id: '26126'

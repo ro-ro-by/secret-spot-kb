@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Парк «Тимковичи»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.4
+    founded_on: 30.11.2021
 images:
     -
         file: 3597b0462b94e6ba37940fb4ee78c661.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75647'
+    -
+        file: gov/2638bd5d96bc4248c6249275622e6d6f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,20 @@ location:
             osm:
                 type: relation
                 id: 1215511174
+    -
+        type: point
+        coordinates:
+            lat: 53.058694
+            lon: 26.980972
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26756.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26756'
 osm:
     -
         type: relation
@@ -44,3 +68,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75647#75647'
                 version: '08 Nov 2022, Tue, 22:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1131'
+        -
+            type: oopt
+            oopt:
+                id: '26756'

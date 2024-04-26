@@ -4,6 +4,32 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Камень дягилевский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0007
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/65d0e3f3f2c979bb80744c5ef3757e10.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.920914
+            lon: 27.061436
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27716.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27716'
 meta:
     fgb:
         post_id: '75928'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75928#75928'
                 version: '27 Apr 2021, Tue, 20:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1166'
+        -
+            type: oopt
+            oopt:
+                id: '27716'

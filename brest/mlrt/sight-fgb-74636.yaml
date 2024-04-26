@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Буки лесные «Великоритские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.022
+    founded_on: 26.04.2007
 images:
     -
         file: 0396abdc2af51fa8ce038bd906dfbbd1.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74636'
+    -
+        file: gov/9732e69ea9c554767fd865690e03117e.jpg
+        source:
+            type: gov
 tree:
     type: beech
 location:
@@ -38,6 +48,20 @@ location:
             lat: 51.936194
             lon: 24.067806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27523.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27523'
 meta:
     fgb:
         post_id: '74636'
@@ -49,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74636#74636'
                 version: '11 Nov 2022, Fri, 6:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/82'
+        -
+            type: oopt
+            oopt:
+                id: '27523'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: '"Пеница" Рождества Богородицы'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.785
+    founded_on: 11.12.2017
 images:
     -
         file: 1af07343bf83ac27b4c9287a363e98a6.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75284'
         meta:
             author: Александр6
+    -
+        file: gov/64960fda443cc19b3ec3df8f25125930.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +41,12 @@ location:
             osm:
                 type: relation
                 id: 8419316
+    -
+        type: point
+        coordinates:
+            lat: 52.031383
+            lon: 29.395606
+        source: gov
 osm:
     -
         type: relation
@@ -46,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75284#75284'
                 version: '02 Feb 2021, Tue, 21:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/732'

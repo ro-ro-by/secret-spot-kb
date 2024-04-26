@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» дудальский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00065
+    founded_on: 19.03.2007
 images:
     -
         file: 48edcc976cdf26a22ca0a78aaae1584f.jpg
@@ -37,6 +43,25 @@ images:
             type: fgb
             fgb:
                 post_id: '76157'
+    -
+        file: gov/136c377e418d94acad8491c7b5de894e.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.718887
+            lon: 27.034472
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27796.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27796'
 meta:
     fgb:
         post_id: '76157'
@@ -48,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76157#76157'
                 version: '18 Jun 2020, Thu, 21:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/398'
+        -
+            type: oopt
+            oopt:
+                id: '27796'

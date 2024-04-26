@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Большой камень рудавковский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 30.12.1997
 images:
     -
         file: 1fab2ec2a3643fef813f3ce713d5ce4e.jpg
@@ -31,6 +36,18 @@ images:
                 post_id: '77707'
         meta:
             author: ВалероС
+    -
+        file: gov/5873ffbb90aab3efb83b0c1e62f6555f.jpg
+        source:
+            type: gov
+    -
+        file: gov/0abc4700f1eda92ea53693db0f403f38.jpg
+        source:
+            type: gov
+    -
+        file: gov/c15fa8623ecdb0ebcab2dcbac0230a07.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +55,12 @@ location:
             lat: '53.038134'
             lon: '24.981018'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.038134
+            lon: 24.981018
+        source: gov
 meta:
     fgb:
         post_id: '77707'
@@ -49,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77707#77707'
                 version: '29 Oct 2021, Fri, 16:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/679'

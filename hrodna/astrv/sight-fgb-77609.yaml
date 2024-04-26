@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Валун «Яросишкинский-1»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001118
+    founded_on: 18.01.2008
 images:
     -
         file: f02d1302de22b99d51a18fd721065b17.jpg
@@ -22,6 +28,20 @@ location:
             lat: '54.713236'
             lon: '25.826370'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.713236
+            lon: 25.82637
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27917.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27917'
 meta:
     fgb:
         post_id: '77609'
@@ -33,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77609#77609'
                 version: '26 Nov 2021, Fri, 7:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/533'
+        -
+            type: oopt
+            oopt:
+                id: '27917'

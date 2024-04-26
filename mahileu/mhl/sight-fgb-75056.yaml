@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-mhl
+gov:
+    title: 'Заказник «Воротей»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 556.8
+    founded_on: 24.02.2006
 images:
     -
         file: a6d8988c597b3a28a79b9f46a91c1226.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75056'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.752487
+            lon: 30.106435
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26834.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26834'
 meta:
     fgb:
         post_id: '75056'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75056#75056'
                 version: '20 Sep 2021, Mon, 11:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1312'
+        -
+            type: oopt
+            oopt:
+                id: '26834'

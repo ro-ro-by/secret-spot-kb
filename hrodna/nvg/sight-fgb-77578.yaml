@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Дуб-тройник «Свитязянский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.03732
+    founded_on: 26.04.2007
 images:
     -
         file: 546c56104163928a2afe46293525c21b.jpg
@@ -31,6 +37,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77578'
+    -
+        file: gov/0e3c333fecf03a82258abb00d6263db8.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -40,6 +50,20 @@ location:
             lat: 53.438861
             lon: 25.909417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.444139
+            lon: 25.915028
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27668.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27668'
 meta:
     fgb:
         post_id: '77578'
@@ -51,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77578#77578'
                 version: '15 Nov 2022, Tue, 17:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/573'
+        -
+            type: oopt
+            oopt:
+                id: '27668'

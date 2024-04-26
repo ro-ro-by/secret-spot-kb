@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Заказник «Борковский концовоморенный массив»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 574.0
+    founded_on: 30.12.1997
 images:
     -
         file: d066bf51cf403dd1fb9f3b08d946975f.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77701'
+    -
+        file: gov/da62dcc9390420908ae456aadaf881c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/0020de3f93ad82e45a17aa8fa99b4fee.jpg
+        source:
+            type: gov
+    -
+        file: gov/d1f84a602c75948521465505881bc832.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.229893
+            lon: 25.591866
+        source: gov
 meta:
     fgb:
         post_id: '77701'
@@ -24,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77701#77701'
                 version: '29 Oct 2021, Fri, 8:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/610'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Парк культуры и отдыха в г. Высокое'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 20.48
+    founded_on: 25.02.1964
 images:
     -
         file: 2ec9b4a87ac74a839fad52d57804cb97.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74580'
+    -
+        file: gov/6eadbf1cd91a165a0837939ece5d9647.jpg
+        source:
+            type: gov
+    -
+        file: gov/8314cb260f00a211d7905fd9df484b7d.jpg
+        source:
+            type: gov
+    -
+        file: gov/81e427c0024e470ab6cabce0473fc8c1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +46,12 @@ location:
             lat: 52.364083
             lon: 23.370694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.364083
+            lon: 23.370694
+        source: gov
 meta:
     fgb:
         post_id: '74580'
@@ -39,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74580#74580'
                 version: '22 Sep 2022, Thu, 21:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/160'

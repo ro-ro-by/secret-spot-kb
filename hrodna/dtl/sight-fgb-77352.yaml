@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-dtl
+gov:
+    title: 'Заказник «Тростянка – Моргаль»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 557.6
+    founded_on: 20.07.1995
 images:
     -
         file: 67488e380fc75ef4ab4502aa552966ae.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77352'
+    -
+        file: gov/1aa8877bb7341333c9de6f20fe785e2d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.414267
+            lon: 25.169143
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26485.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26485'
 meta:
     fgb:
         post_id: '77352'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77352#77352'
                 version: '20 Aug 2021, Fri, 16:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/852'
+        -
+            type: oopt
+            oopt:
+                id: '26485'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Дубы-близнецы «Тугановичские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.023
+    founded_on: 27.12.1963
 images:
     -
         file: a86b3c6805e57c855781f3e19565f3e0.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '70750'
+    -
+        file: gov/9a708e4d5f3926be661698c706298aa2.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d66d2a221eaecdfcf20c2acf055bda0.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d5a245f70cd3f1bdeaad0f97f5f9af8.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -30,6 +48,20 @@ location:
             lat: 53.378
             lon: 26.134889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.361
+            lon: 26.134889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27630.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27630'
 meta:
     fgb:
         post_id: '70750'
@@ -41,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70750#70750'
                 version: '21 Sep 2022, Wed, 23:39'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/67'
+        -
+            type: oopt
+            oopt:
+                id: '27630'

@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Обнажение «Принеманское-1»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 6.0
+    founded_on: 31.07.2006
 images:
     -
         file: 04e84cd70ab589c8c24eb2e9c59978f6.jpg
@@ -30,6 +36,17 @@ images:
             type: fgb
             fgb:
                 post_id: '77320'
+    -
+        file: gov/0880974b05884e5949fb1df978a3f9a2.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.654856
+            lon: 23.902358
+        source: gov
 meta:
     fgb:
         post_id: '77320'
@@ -41,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77320#77320'
                 version: '03 Aug 2020, Mon, 21:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/570'

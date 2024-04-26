@@ -4,6 +4,21 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Бухличкий дуб'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.049
+    founded_on: 31.05.2021
+images:
+    -
+        file: gov/fceef7e4bf979f275c5742091c925889.jpg
+        source:
+            type: gov
+    -
+        file: gov/99cc2b07bb2df1a911efa1f4d73dd249.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -13,6 +28,12 @@ location:
             lat: 51.80404
             lon: 26.80053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.804036
+            lon: 26.800531
+        source: gov
 meta:
     fgb:
         post_id: '99068'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99068#99068'
                 version: '25 Oct 2021, Mon, 21:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/211'

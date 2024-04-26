@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-loeu
+gov:
+    title: 'Обнажение «Лоев»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.01
+    founded_on: 31.07.2006
 images:
     -
         file: cf91fe9be9cb01db994b795cdc969984.jpg
@@ -21,6 +27,33 @@ images:
             type: fgb
             fgb:
                 post_id: '75303'
+    -
+        file: gov/d38e5044f85ac07eb82e53df16c96e01.jpg
+        source:
+            type: gov
+    -
+        file: gov/a311fec6599ca3e61e27a494f81acac8.jpg
+        source:
+            type: gov
+    -
+        file: gov/60f0d755960e5b4644937a1376507e5a.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae09f83bb9b6473d733994e3a98b5215.jpg
+        source:
+            type: gov
+    -
+        file: gov/67f54e6a673ba076c79f2a41de331d0f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.9428
+            lon: 30.8061
+        source: gov
 meta:
     fgb:
         post_id: '75303'
@@ -32,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75303#75303'
                 version: '28 Jul 2020, Tue, 23:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/360'

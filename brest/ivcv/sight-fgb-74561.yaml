@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Парк «Грудополь»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 8.39
+    founded_on: 22.03.1994
 images:
     -
         file: f975e9e2c5d3b7ca943586772e2a8711.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74561'
+    -
+        file: gov/f8a56896e4ba9a8e22ada6f15efd28b8.jpg
+        source:
+            type: gov
+    -
+        file: gov/2a954d89d317d28a7938be0572537523.jpg
+        source:
+            type: gov
+    -
+        file: gov/90b68ea355cfd78925a1ad5e30f145e4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -37,6 +55,20 @@ location:
             osm:
                 type: relation
                 id: 11069591
+    -
+        type: point
+        coordinates:
+            lat: 52.866639
+            lon: 25.683611
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26258.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26258'
 osm:
     -
         type: relation
@@ -52,3 +84,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74561#74561'
                 version: '22 Sep 2022, Thu, 21:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/147'
+        -
+            type: oopt
+            oopt:
+                id: '26258'

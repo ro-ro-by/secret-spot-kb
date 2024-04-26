@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+gov:
+    title: 'Родник «Бобр»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0015
+    founded_on: 28.10.2008
 images:
     -
         file: 5a5d2e8d25e9eb53b2686277f012dd58.jpg
@@ -23,6 +29,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75687'
+    -
+        file: gov/5775955ef3fa4a32b5825bed0f1fcfeb.jpg
+        source:
+            type: gov
+    -
+        file: gov/b8baff4ba346c98a8d709e17fd5fbc3f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +44,20 @@ location:
             lat: '54.33274'
             lon: '29.25105'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.33274
+            lon: 29.25105
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27839.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27839'
 meta:
     fgb:
         post_id: '75687'
@@ -41,3 +69,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75687#75687'
                 version: '06 May 2021, Thu, 8:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1135'
+        -
+            type: oopt
+            oopt:
+                id: '27839'

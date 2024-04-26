@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Валун Дубовковский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0005445
+    founded_on: 28.12.2020
 images:
     -
         file: fbad825668726ab5d9e18cf21053231f.jpg
@@ -16,6 +22,25 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1997
+    -
+        file: gov/e8b8817cc350c1a28b877670b068ec3e.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.361111
+            lon: 27.930556
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27837.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27837'
 meta:
     fgb:
         post_id: '77194'
@@ -27,3 +52,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77194#77194'
                 version: '18 May 2022, Wed, 13:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/873'
+        -
+            type: oopt
+            oopt:
+                id: '27837'

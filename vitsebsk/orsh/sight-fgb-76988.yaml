@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Старинный парк «Высокое»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.7
+    founded_on: 11.12.2009
 images:
     -
         file: 1e24faa5f4c992c931a1e54cb87c632d.jpg
@@ -13,6 +19,34 @@ images:
             type: fgb
             fgb:
                 post_id: '76988'
+    -
+        file: gov/258bd9074119921b6eae9019535c229c.jpg
+        source:
+            type: gov
+    -
+        file: gov/a7f728b208d45372ea4f481717cc840a.jpg
+        source:
+            type: gov
+    -
+        file: gov/45c320f9976d25f6a521683d3a542cfe.jpg
+        source:
+            type: gov
+    -
+        file: gov/80ce7915965c8d9ee992b511f893f2d1.jpg
+        source:
+            type: gov
+    -
+        file: gov/c2eb794d1ee8b6935ba9f3552d090cc2.jpg
+        source:
+            type: gov
+    -
+        file: gov/a8d08fcd64a63156d0542c7801705ac7.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d6d29beefc556dca851c0b0aef620e2.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +54,20 @@ location:
             lat: 54.64478
             lon: 30.43131
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.6447
+            lon: 30.4327
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26259.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26259'
 meta:
     fgb:
         post_id: '76988'
@@ -31,3 +79,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76988#76988'
                 version: '17 Oct 2022, Mon, 21:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/902'
+        -
+            type: oopt
+            oopt:
+                id: '26259'

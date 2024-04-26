@@ -1,0 +1,34 @@
+id: sight-gov-151
+title: 'Святовольский ольс'
+type: forest
+belongsTo:
+    region: region-brest
+    subregion: subregion-ivcv
+gov:
+    title: 'Святовольский ольс'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.1
+    founded_on: 12.10.2021
+images:
+    -
+        file: gov/34ae53b8efdac42987f33e059909af2e.jpg
+        source:
+            type: gov
+    -
+        file: gov/504be066bc52624b947f1f8278c59ed4.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.531276
+            lon: 25.723577
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/151'

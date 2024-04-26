@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Алантьевская гряда'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 89.6
+    founded_on: 18.03.2011
 images:
     -
         file: 676099c15c1a13d8ee97ef30176cbe2f.jpg
@@ -21,6 +27,42 @@ images:
             type: fgb
             fgb:
                 post_id: '76973'
+    -
+        file: gov/8097db23be267a89b0d25d0d6a051aea.jpg
+        source:
+            type: gov
+    -
+        file: gov/8b6acb7155e8c8da0967723980c462ea.jpg
+        source:
+            type: gov
+    -
+        file: gov/372235b1a6c33c9be0aa3b91cb130d0a.jpg
+        source:
+            type: gov
+    -
+        file: gov/779fb4752f4058fe83ab1765952d96f5.jpg
+        source:
+            type: gov
+    -
+        file: gov/eae4d1edc4f70c1fffd9e1337baef7ba.jpg
+        source:
+            type: gov
+    -
+        file: gov/ac6f5aaef20cbd055cec64a8658fd7ae.jpg
+        source:
+            type: gov
+    -
+        file: gov/2258515fcc693e7f424ab382452da9c6.jpg
+        source:
+            type: gov
+    -
+        file: gov/06b6428cb1a36861cbbb7f7b823a1c14.jpg
+        source:
+            type: gov
+    -
+        file: gov/d3d02920f0956a3034d1ccbe8bd61428.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +70,20 @@ location:
             lat: 54.69712
             lon: 30.23674
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.6971
+            lon: 30.2367
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27511.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27511'
 meta:
     fgb:
         post_id: '76973'
@@ -39,3 +95,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76973#76973'
                 version: '22 May 2021, Sat, 12:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/905'
+        -
+            type: oopt
+            oopt:
+                id: '27511'

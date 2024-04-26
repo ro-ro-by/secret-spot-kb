@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Родник «Ставы»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.2217
+    founded_on: 26.01.2006
 images:
     -
         file: e80352b26007219956453751e4582c57.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74577'
+    -
+        file: gov/cc0fee6d5cc32dcdfb457d587cebf3a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/6e658247650e3ba5357eaafd5797e658.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,20 @@ location:
             lat: '52.22754'
             lon: '23.31889'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.22754
+            lon: 23.31889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27762.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27762'
 meta:
     fgb:
         post_id: '74577'
@@ -31,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74577#74577'
                 version: '09 Apr 2021, Fri, 13:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/163'
+        -
+            type: oopt
+            oopt:
+                id: '27762'

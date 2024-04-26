@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Валун «Большой камень» питемский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000299
+    founded_on: 18.03.2008
 images:
     -
         file: 6b4d58f52943d92245cfe059f41a4389.jpg
@@ -21,6 +27,33 @@ images:
             type: fgb
             fgb:
                 post_id: '74633'
+    -
+        file: gov/61b30942fa1995e7e011f84f97c161ec.jpg
+        source:
+            type: gov
+    -
+        file: gov/b8f0059dcb69596ae7d980b7905d6649.jpg
+        source:
+            type: gov
+    -
+        file: gov/2473c7e8de63ec343d71b40ad6eda38b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.7705
+            lon: 23.82586
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27825.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27825'
 meta:
     fgb:
         post_id: '74633'
@@ -32,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74633#74633'
                 version: '17 Nov 2020, Tue, 21:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/92'
+        -
+            type: oopt
+            oopt:
+                id: '27825'

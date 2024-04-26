@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Збуражская гряда'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 194.68
+    founded_on: 28.03.1997
 images:
     -
         file: d8668272e13f6d215b293996b5706715.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '74625'
+    -
+        file: gov/c537e37c858c458c2f7259770dc30dd7.jpg
+        source:
+            type: gov
+    -
+        file: gov/e3b07ed69030720c04b06d335bc9c961.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.777823
+            lon: 23.970657
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26263.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26263'
 meta:
     fgb:
         post_id: '74625'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74625#74625'
                 version: '17 Nov 2020, Tue, 22:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/181'
+        -
+            type: oopt
+            oopt:
+                id: '26263'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Родник «Исток реки Птичи»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 1.5
+    founded_on: 12.08.2010
 images:
     -
         file: aa4e6117b5264f7700daf8f0d807a241.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '78684'
+    -
+        file: gov/c26f2fd33e0d12c80e9806c6898ae989.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,12 @@ location:
             lat: '53.85886'
             lon: '27.10104'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.8588
+            lon: 27.101
+        source: gov
 meta:
     fgb:
         post_id: '78684'
@@ -39,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78684#78684'
                 version: '27 Jan 2021, Wed, 14:46'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/316'

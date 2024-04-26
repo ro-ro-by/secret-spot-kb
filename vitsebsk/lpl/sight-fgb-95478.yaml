@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-lpl
+gov:
+    title: 'Березинский биосферный заповедник'
+    type: gov_type-reservation
+    status: gov_status-country
+    area_size: 85200.0
+    founded_on: 30.01.1925
 images:
     -
         file: 8608180a259f500982b2eae756326f3e.jpg
@@ -16,6 +22,34 @@ images:
                     - '95478'
                     - '95477'
                     - '76666'
+    -
+        file: gov/34b8a874a3706a38a2a75ad7c2c973aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/59db883d994964d28f996098d3e11082.jpg
+        source:
+            type: gov
+    -
+        file: gov/b4c7537a88f37a8dc8e71681a9d8e6e4.jpg
+        source:
+            type: gov
+    -
+        file: gov/fcbbd05ed12e93370bbec1d055753665.jpg
+        source:
+            type: gov
+    -
+        file: gov/4228946d5224cda8ed3bcc46cd9c45a9.jpg
+        source:
+            type: gov
+    -
+        file: gov/390c6f3c6b86aaeede63293128c421c4.jpg
+        source:
+            type: gov
+    -
+        file: gov/db131b6ef8f2cd71e36d733903590b2a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -26,6 +60,20 @@ location:
             osm:
                 type: relation
                 id: 3400208
+    -
+        type: point
+        coordinates:
+            lat: 54.74773
+            lon: 28.31276
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26117.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26117'
 osm:
     -
         type: relation
@@ -54,3 +102,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76666#76666'
                 version: '06 Mar 2020, Fri, 11:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/231'
+        -
+            type: oopt
+            oopt:
+                id: '26117'

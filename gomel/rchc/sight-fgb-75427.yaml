@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Насаждения дуба'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.8
+    founded_on: 27.05.2009
 images:
     -
         file: 7b4964053fabed99f96ebe3ebf23fa57.jpg
@@ -21,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75427'
+    -
+        file: gov/b05cfbac4ef8e25c4f5eb01945b2d6d4.jpg
+        source:
+            type: gov
+    -
+        file: gov/6041c967189a9654f37418e696e95d9f.jpg
+        source:
+            type: gov
+    -
+        file: gov/b162a782c5312ad94d31e29a186f6220.jpg
+        source:
+            type: gov
+    -
+        file: gov/66e5f178d9780109ae6ae4e3a9b42d5f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +50,20 @@ location:
             lat: 52.31931
             lon: 30.68397
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.319306
+            lon: 30.683972
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27578.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27578'
 meta:
     fgb:
         post_id: '75427'
@@ -39,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75427#75427'
                 version: '03 Nov 2022, Thu, 13:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/796'
+        -
+            type: oopt
+            oopt:
+                id: '27578'

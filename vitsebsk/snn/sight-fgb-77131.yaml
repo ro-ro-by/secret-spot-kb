@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Родник «Песчанка»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.002826
+    founded_on: 19.11.1992
 images:
     -
         file: 2a114b17fa154e723a428cd2085af854.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77131'
+    -
+        file: gov/1f51a030f8a528ba50fb62f6e8092aa6.jpg
+        source:
+            type: gov
+    -
+        file: gov/cfff609a4e04a98e9470101bb664070f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: '54.80562'
             lon: '29.70625'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.805631
+            lon: 29.70605
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27895.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27895'
 meta:
     fgb:
         post_id: '77131'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77131#77131'
                 version: '02 Oct 2021, Sat, 11:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/958'
+        -
+            type: oopt
+            oopt:
+                id: '27895'

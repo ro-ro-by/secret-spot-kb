@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Вощиникинский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00054
+    founded_on: 16.02.1995
 images:
     -
         file: cb322c2aabeef89d8777e170ffcacbe8.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77664'
         meta:
             author: ВалероС
+    -
+        file: gov/22bd1d0c864630e74a3106f0a9207f27.jpg
+        source:
+            type: gov
+    -
+        file: gov/02a9e5eed9e2de64d3647082f2341a4d.jpg
+        source:
+            type: gov
+    -
+        file: gov/5071a97182c5305fcb768279213000dd.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.339124'
             lon: '26.111516'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.339124
+            lon: 26.111516
+        source: gov
 meta:
     fgb:
         post_id: '77664'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77664#77664'
                 version: '22 Nov 2021, Mon, 23:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/712'

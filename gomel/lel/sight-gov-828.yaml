@@ -1,0 +1,37 @@
+id: sight-gov-828
+title: 'Заказник «Невица»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+gov:
+    title: 'Заказник «Невица»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 413.66
+    founded_on: 28.01.1998
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.681656
+            lon: 27.580273
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26363.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26363'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/828'
+        -
+            type: oopt
+            oopt:
+                id: '26363'

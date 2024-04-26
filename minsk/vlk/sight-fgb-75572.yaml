@@ -4,6 +4,12 @@ type: basin
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Кавеневская котловина'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 16.77
+    founded_on: 27.02.1998
 images:
     -
         file: 7515d70208145103ce133479b7b8adfe.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75572'
+    -
+        file: gov/09ea1ad41937e56d035af9480fe7e866.jpg
+        source:
+            type: gov
+    -
+        file: gov/5dd857a69a9fdf68a761b9a9c7d3c920.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: '54.62054'
             lon: '27.16759'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.620533
+            lon: 27.167522
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26745.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26745'
 meta:
     fgb:
         post_id: '75572'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75572#75572'
                 version: '03 Jul 2020, Fri, 15:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1111'
+        -
+            type: oopt
+            oopt:
+                id: '26745'

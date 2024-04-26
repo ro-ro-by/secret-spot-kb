@@ -1,0 +1,21 @@
+id: sight-oopt-27692
+title: 'Каролиновские холмы'
+type: TODO
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-orsh
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27692.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27692'
+meta:
+    source:
+        -
+            type: oopt
+            oopt:
+                id: '27692'

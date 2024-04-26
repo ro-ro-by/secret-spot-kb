@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+gov:
+    title: 'Сосна Веймутова'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.1
+    founded_on: 27.03.1995
 images:
     -
         file: c8633eb2fe41e18da04ce41cca947aa6.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74529'
+    -
+        file: gov/fe499f41ddfde271b5d9d6654ec2f179.jpg
+        source:
+            type: gov
+    -
+        file: gov/54bd806b2e5b2cb893bf588234226bf0.jpg
+        source:
+            type: gov
 tree:
     type: pine
 location:
@@ -31,6 +45,20 @@ location:
             osm:
                 type: relation
                 id: 14244595
+    -
+        type: point
+        coordinates:
+            lat: 52.75975
+            lon: 26.696417
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27653.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27653'
 osm:
     -
         type: relation
@@ -46,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74529#74529'
                 version: '22 Sep 2022, Thu, 20:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/127'
+        -
+            type: oopt
+            oopt:
+                id: '27653'

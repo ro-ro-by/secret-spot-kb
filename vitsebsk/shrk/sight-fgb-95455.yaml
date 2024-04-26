@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Заказник республиканского значения «Ельня»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 25301.0
+    founded_on: 18.11.1968
 images:
     -
         file: 3e0758186338bcb0d25d2dc4ea6af4e4.jpg
@@ -25,6 +31,46 @@ images:
                 post_id:
                     - '95455'
                     - '95454'
+    -
+        file: gov/94ff4fb8097dda68a3fe45a9156e6498.jpg
+        source:
+            type: gov
+    -
+        file: gov/3ee9abbcedb030d1d95da0b07248b5ae.jpg
+        source:
+            type: gov
+    -
+        file: gov/5de9e709b26acf460b39594e91f968ac.jpg
+        source:
+            type: gov
+    -
+        file: gov/9182511eaf268782f464d83e7ddb56b4.jpg
+        source:
+            type: gov
+    -
+        file: gov/8fc9520b66ab5da9dbea85cbda7d64b2.jpg
+        source:
+            type: gov
+    -
+        file: gov/cfbcafb655e26ac5bbee8616c2cf086e.jpg
+        source:
+            type: gov
+    -
+        file: gov/1b0f164458f1be9ac3e0ff3259e8741e.jpg
+        source:
+            type: gov
+    -
+        file: gov/12ee97ddf6bc950067ac9aa92bc824d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/46eb0e0380b4e94ef17999e629400466.jpg
+        source:
+            type: gov
+    -
+        file: gov/c4a89efae827cc4732061ae9549a8df0.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -35,6 +81,20 @@ location:
             osm:
                 type: relation
                 id: 7827086
+    -
+        type: point
+        coordinates:
+            lat: 55.616925
+            lon: 27.643443
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26163.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26163'
 osm:
     -
         type: relation
@@ -57,3 +117,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95454#95454'
                 version: '30 Apr 2021, Fri, 19:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/42'
+        -
+            type: oopt
+            oopt:
+                id: '26163'

@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень товкинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: 472a9105eac87164d6158fb7667c494c.jpg
@@ -23,6 +28,18 @@ images:
                 post_id: '77296'
         meta:
             author: ВалероС
+    -
+        file: gov/381425f815419305c6c3aeae5a67ce1c.jpg
+        source:
+            type: gov
+    -
+        file: gov/d03fa4721928d39a5321f500aee1cf24.jpg
+        source:
+            type: gov
+    -
+        file: gov/750194babb9f0a55d5a8f03e1e7defc1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +47,12 @@ location:
             lat: '54.019171'
             lon: '25.190949'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.019167
+            lon: 25.190972
+        source: gov
 meta:
     fgb:
         post_id: '77296'
@@ -41,3 +64,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77296#77296'
                 version: '22 Nov 2021, Mon, 22:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/634'

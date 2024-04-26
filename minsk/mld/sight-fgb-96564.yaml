@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Заказник «Сосна веймутова»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 54.0
+    founded_on: 26.08.2004
 images:
     -
         file: 5147d87c15092cd6d23a8393d5cb444c.jpg
@@ -30,8 +36,23 @@ images:
             type: fgb
             fgb:
                 post_id: '96564'
+    -
+        file: gov/c177a9e4d8a842fc24fa070f3a3917fc.jpg
+        source:
+            type: gov
+    -
+        file: gov/03b094a5fcf0f19c839dbd1b2a31c23c.jpg
+        source:
+            type: gov
 tree:
     type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.351116
+            lon: 26.995423
+        source: gov
 meta:
     fgb:
         post_id: '96564'
@@ -43,3 +64,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96564#96564'
                 version: '22 Jan 2022, Sat, 11:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1069'

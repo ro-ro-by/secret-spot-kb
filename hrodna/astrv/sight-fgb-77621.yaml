@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Ваверанский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00068
+    founded_on: 17.02.1995
 images:
     -
         file: 64082d4d207f726499e5f02cf9773a3c.jpg
@@ -31,6 +37,10 @@ images:
                 post_id: '77621'
         meta:
             author: ВалероС
+    -
+        file: gov/0c38d303eaf778c4488a60e96c6113ee.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +48,12 @@ location:
             lat: '54.582773'
             lon: '25.889110'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.582773
+            lon: 25.88911
+        source: gov
 meta:
     fgb:
         post_id: '77621'
@@ -49,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77621#77621'
                 version: '26 Nov 2021, Fri, 9:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/753'

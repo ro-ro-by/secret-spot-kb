@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Валун «Большой камень» хартовский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    founded_on: 18.03.2008
 images:
     -
         file: fa2d4e403263be7f96d1c0f7011e07c0.jpg
@@ -15,6 +20,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76763'
+    -
+        file: gov/1c498d4cb874064fdd9d048a0cd108f6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +31,12 @@ location:
             lat: 55.42721
             lon: 30.09339
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.42921
+            lon: 30.082592
+        source: gov
 meta:
     fgb:
         post_id: '76763'
@@ -33,3 +48,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76763#76763'
                 version: '13 Nov 2022, Sun, 0:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/388'

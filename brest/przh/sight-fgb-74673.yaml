@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Ружанская пуща'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 2812.0
+    founded_on: 21.02.1986
 images:
     -
         file: be6750e64e61e81f59f9cefec9d9d401.jpg
@@ -23,6 +29,20 @@ location:
             osm:
                 type: relation
                 id: 9230620
+    -
+        type: point
+        coordinates:
+            lat: 52.90555
+            lon: 24.942028
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26146.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26146'
 osm:
     -
         type: relation
@@ -38,3 +58,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74673#74673'
                 version: '21 Jan 2021, Thu, 14:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/492'
+        -
+            type: oopt
+            oopt:
+                id: '26146'

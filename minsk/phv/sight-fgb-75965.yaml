@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Сергеевичский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 2905.4
+    founded_on: 22.11.2001
+images:
+    -
+        file: gov/c11cd3a9a1557fcdba8120a52a8a7d8c.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -14,6 +25,20 @@ location:
             osm:
                 type: relation
                 id: 16410658
+    -
+        type: point
+        coordinates:
+            lat: 53.51409
+            lon: 27.759649
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27659.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27659'
 osm:
     -
         type: relation
@@ -29,3 +54,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75965#75965'
                 version: '10 Sep 2021, Fri, 12:39'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/4110'
+        -
+            type: oopt
+            oopt:
+                id: '27659'

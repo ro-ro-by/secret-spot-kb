@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-stdrg
+gov:
+    title: Камень-валун
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00169
+    founded_on: 30.10.2009
 images:
     -
         file: a120c8edd6c13fc4f27858a7c51c9ca1.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '76014'
         meta:
             author: Victoryor
+    -
+        file: gov/1083ccedb5fd98adb0ad667516a0af7b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,12 @@ location:
             lat: '53.103836'
             lon: '28.420466'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.104365
+            lon: 28.420404
+        source: gov
 meta:
     fgb:
         post_id: '76014'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76014#76014'
                 version: '22 Jan 2021, Fri, 13:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1210'

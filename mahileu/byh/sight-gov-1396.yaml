@@ -1,0 +1,30 @@
+id: sight-gov-1396
+title: 'Заказник «Дунайковский»'
+type: area
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-byh
+gov:
+    title: 'Заказник «Дунайковский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 914.85
+    founded_on: 01.08.2022
+images:
+    -
+        file: gov/4dac1dbb65dad8e9a24136080eafd0ea.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.41616
+            lon: 29.914408
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1396'

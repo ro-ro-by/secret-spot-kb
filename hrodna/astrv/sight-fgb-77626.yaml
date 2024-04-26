@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Германишкинский валун-2'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00027
+    founded_on: 17.02.1995
 images:
     -
         file: 1f66359ee4f83c04065ea6a7ee21a41c.jpg
@@ -31,6 +37,10 @@ images:
                 post_id: '77626'
         meta:
             author: ВалероС
+    -
+        file: gov/722c7621eccbf83ffa538fbe3201e11d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +48,12 @@ location:
             lat: '54.573677'
             lon: '25.925840'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.573677
+            lon: 25.92584
+        source: gov
 meta:
     fgb:
         post_id: '77626'
@@ -49,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77626#77626'
                 version: '26 Nov 2021, Fri, 9:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/759'

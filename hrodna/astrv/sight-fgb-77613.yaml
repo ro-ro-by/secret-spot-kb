@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Дуб № 1'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.025
+    founded_on: 28.09.1999
 images:
     -
         file: 8f1425b3ffad462db5add23740b482fc.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77613'
+    -
+        file: gov/380dd8ddfd39d0992f5ec1282726d8eb.jpg
+        source:
+            type: gov
+    -
+        file: gov/82e8905a3b711cf83c6ed2eb134cf0ba.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,12 @@ location:
             lat: 54.61189
             lon: 25.97156
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.610525
+            lon: 25.976372
+        source: gov
 meta:
     fgb:
         post_id: '77613'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77613#77613'
                 version: '08 Nov 2022, Tue, 21:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/645'

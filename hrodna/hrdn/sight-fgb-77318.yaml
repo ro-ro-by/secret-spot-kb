@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Заказник «Гродненская пуща»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 20515.59
+    founded_on: 27.12.2007
 images:
     -
         file: 6cd0f21e799e9b46f8658c6b6be7b7ae.jpg
@@ -23,6 +29,20 @@ location:
             osm:
                 type: relation
                 id: 7924721
+    -
+        type: point
+        coordinates:
+            lat: 53.829644
+            lon: 23.656334
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27616.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27616'
 osm:
     -
         type: relation
@@ -38,3 +58,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77318#77318'
                 version: '03 Aug 2020, Mon, 20:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/116'
+        -
+            type: oopt
+            oopt:
+                id: '27616'

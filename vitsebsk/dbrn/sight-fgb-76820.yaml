@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dbrn
+gov:
+    title: 'Бородинцевская криница'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 29.09.1999
 images:
     -
         file: 4e97953534387c7359453015f2b4e99b.jpg
@@ -24,6 +30,18 @@ images:
                 post_id: '76820'
         meta:
             author: 'Сергей Глиндзич'
+    -
+        file: gov/bb59df52a360e53e8c010a1bf9f5f097.jpg
+        source:
+            type: gov
+    -
+        file: gov/dbd5b6896e9fac3c2bfefac62c89840b.jpg
+        source:
+            type: gov
+    -
+        file: gov/182251b53c9229be696474c0610c55dc.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +49,20 @@ location:
             lat: '54.63401'
             lon: '30.73779'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.633974
+            lon: 30.737825
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27625.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27625'
 meta:
     fgb:
         post_id: '76820'
@@ -42,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76820#76820'
                 version: '04 Aug 2021, Wed, 23:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/930'
+        -
+            type: oopt
+            oopt:
+                id: '27625'

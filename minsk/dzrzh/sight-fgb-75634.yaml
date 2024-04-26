@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-dzrzh
 forest:
     dominated_type: birch_curly
+gov:
+    title: 'Участок карельской березы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 38.57
+    founded_on: 29.09.2006
 images:
     -
         file: 80f48a3b60b55fb9c5618b86c59c0f9e.jpg
@@ -31,6 +37,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75634'
+    -
+        file: gov/4c8a3255c8031558108e52db29b5b363.jpg
+        source:
+            type: gov
+    -
+        file: gov/03232270542d57e4f1c51d70c1bcb0e7.jpg
+        source:
+            type: gov
+    -
+        file: gov/877cde9d9f1ce8b66633ab0f20178b94.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +56,20 @@ location:
             lat: 53.704917
             lon: 27.029278
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.704917
+            lon: 27.029278
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26751.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26751'
 meta:
     fgb:
         post_id: '75634'
@@ -49,3 +81,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75634#75634'
                 version: '10 Nov 2022, Thu, 22:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1123'
+        -
+            type: oopt
+            oopt:
+                id: '26751'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Элизы Ожешко'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.2826
+    founded_on: 25.08.2023
 images:
     -
         file: ebbbe69588693b5a6abc8b8f583a55f9.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '101761'
+    -
+        file: gov/d33c2aed55c7a715fd283daf3f59d9eb.jpg
+        source:
+            type: gov
+    -
+        file: gov/084f8bf308b35c9c25aff525858053bf.jpg
+        source:
+            type: gov
+    -
+        file: gov/0be0e519b99cbc614e1e45d1a40057dc.jpg
+        source:
+            type: gov
+    -
+        file: gov/1af24e6a150a5630f3f5ca200d9d0422.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,12 @@ location:
             lat: '53.55997'
             lon: '24.40291'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.867278
+            lon: 23.8685
+        source: gov
 meta:
     fgb:
         post_id: '101761'
@@ -31,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=101761#101761'
                 version: '12 Nov 2022, Sat, 21:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/795'

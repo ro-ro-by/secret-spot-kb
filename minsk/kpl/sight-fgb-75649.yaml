@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Черная береза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0018
+    founded_on: 30.11.2021
 images:
     -
         file: 787c8baf0b2b493c45b8b4f21f6d6373.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75649'
+    -
+        file: gov/a2680f67def8e6dc20c47e8aae1019f8.jpg
+        source:
+            type: gov
 tree:
     type: birch_black
 location:
@@ -38,6 +48,20 @@ location:
             lat: 53.148722
             lon: 27.014611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.14873
+            lon: 27.0146
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27696.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27696'
 meta:
     fgb:
         post_id: '75649'
@@ -49,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75649#75649'
                 version: '08 Nov 2022, Tue, 22:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1133'
+        -
+            type: oopt
+            oopt:
+                id: '27696'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Никульский родник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 2.78
+    founded_on: 15.01.2007
 images:
     -
         file: b04ce277eb5239ebf924f2c8d7fe69c5.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '76168'
         meta:
             author: 'Игорь Рудаковский'
+    -
+        file: gov/eaf9439f80fb347fc9a84fbe794ad2f2.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: '55.77421'
             lon: '27.28231'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.774214
+            lon: 27.282306
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27595.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27595'
 meta:
     fgb:
         post_id: '76168'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76168#76168'
                 version: '27 Jan 2021, Wed, 16:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/911'
+        -
+            type: oopt
+            oopt:
+                id: '27595'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Заказник «Вишневка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 141.6
+    founded_on: 22.10.2002
 images:
     -
         file: 850e555a3ae85e2faff76bbfe002e692.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77370'
+    -
+        file: gov/276cd21c44a7b205e78770fcc6314a3a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +33,20 @@ location:
             osm:
                 type: way
                 id: 552292839
+    -
+        type: point
+        coordinates:
+            lat: 53.137604
+            lon: 24.651052
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26543.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26543'
 osm:
     -
         type: way
@@ -38,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77370#77370'
                 version: '21 Jan 2021, Thu, 21:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/617'
+        -
+            type: oopt
+            oopt:
+                id: '26543'

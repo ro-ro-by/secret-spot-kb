@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Парк «Любань»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 5.03
+    founded_on: 27.05.1987
 images:
     -
         file: f8fc60c60a08eed89b4c5070488806c6.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '75562'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/a5cd95cab0bc91d271384e6580cef857.jpg
+        source:
+            type: gov
+    -
+        file: gov/9d6acd9965e0972a009f10f5cd81dade.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: 54.596694
             lon: 26.876639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.597222
+            lon: 26.876694
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26746.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26746'
 meta:
     fgb:
         post_id: '75562'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75562#75562'
                 version: '09 Nov 2022, Wed, 0:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1101'
+        -
+            type: oopt
+            oopt:
+                id: '26746'

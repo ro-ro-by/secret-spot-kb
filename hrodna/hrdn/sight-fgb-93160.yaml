@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Плебанишки'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.2826
+    founded_on: 25.08.2023
 images:
     -
         file: 4f117963db217df0313d9418f196cc7e.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '93160'
         meta:
             author: ВалероС
+    -
+        file: gov/3581cfa7c07921690d07fa51ebae34a6.jpg
+        source:
+            type: gov
+    -
+        file: gov/961b04b13834f045a1530afffcdd596a.jpg
+        source:
+            type: gov
+    -
+        file: gov/61b63af059aafa2db23d284f4df2afdd.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,12 @@ location:
             lat: '53.86731'
             lon: '23.86882'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.867278
+            lon: 23.8685
+        source: gov
 meta:
     fgb:
         post_id: '93160'
@@ -33,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=93160#93160'
                 version: '03 Dec 2021, Fri, 13:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/793'

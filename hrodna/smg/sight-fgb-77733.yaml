@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Большой камень» тупальщинский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00051
+    founded_on: 18.01.2008
 images:
     -
         file: f98a93ed3bbab075bf167bade62cefbd.jpg
@@ -33,6 +39,20 @@ location:
             lat: '54.665346'
             lon: '26.399803'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.665346
+            lon: 26.399803
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27916.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27916'
 meta:
     fgb:
         post_id: '77733'
@@ -44,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77733#77733'
                 version: '06 May 2022, Fri, 13:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/539'
+        -
+            type: oopt
+            oopt:
+                id: '27916'

@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гряда «Кочергинская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 20.0
+    founded_on: ''
 images:
     -
         file: 17a0ae2f857c3d0bca73fb488eb7ad5f.jpg
@@ -30,6 +36,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75912'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.85689
+            lon: 26.91349
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26967.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26967'
 meta:
     fgb:
         post_id: '75912'
@@ -41,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75912#75912'
                 version: '27 Apr 2021, Tue, 19:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/309'
+        -
+            type: oopt
+            oopt:
+                id: '26967'

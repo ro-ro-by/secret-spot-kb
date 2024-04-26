@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-mahileu
     subregion: subregion-hrk
+gov:
+    title: 'Дендрологический парк в г.Горки'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 14.5
+    founded_on: 08.05.2007
 images:
     -
         file: 00f6926f52625216eb46b68293d50bd5.jpg
@@ -22,6 +28,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74782'
+    -
+        file: gov/29ccf02ad17868ebee0e6c9cf0c14b3b.jpg
+        source:
+            type: gov
+    -
+        file: gov/c3a18fc1fc8e7e88cdb8df3630454ce3.jpg
+        source:
+            type: gov
+    -
+        file: gov/05aa5f4fb6c7e10006acfaccbbca4b0f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +47,20 @@ location:
             lat: 54.290583
             lon: 30.98975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.292618
+            lon: 30.996822
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26981.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26981'
 meta:
     fgb:
         post_id: '74782'
@@ -40,3 +72,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74782#74782'
                 version: '21 Sep 2022, Wed, 20:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/463'
+        -
+            type: oopt
+            oopt:
+                id: '26981'

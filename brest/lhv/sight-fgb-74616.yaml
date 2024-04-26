@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Парк «Совейки»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 11.88
+    founded_on: 16.07.2007
+images:
+    -
+        file: gov/7bf69fc7ff61dbb597e247322cd8e382.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,20 @@ location:
             lat: 52.917194
             lon: 26.407806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.918354
+            lon: 26.410002
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26923.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26923'
 meta:
     fgb:
         post_id: '74616'
@@ -22,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74616#74616'
                 version: '22 Sep 2022, Thu, 22:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/81'
+        -
+            type: oopt
+            oopt:
+                id: '26923'

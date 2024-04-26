@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-zhtk
+gov:
+    title: 'Насаждения дуба и березы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 8.7
+    founded_on: 24.03.2009
 images:
     -
         file: a094e7ab175d4d292e4b17bd058341af.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75269'
+    -
+        file: gov/1a50c82826d41da30893388b1cb37a13.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +46,12 @@ location:
             lat: 52.25417
             lon: 27.78247
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.254167
+            lon: 27.782472
+        source: gov
 meta:
     fgb:
         post_id: '75269'
@@ -47,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75269#75269'
                 version: '03 Nov 2022, Thu, 13:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/721'

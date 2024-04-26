@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Кошачий камень»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00108
+    founded_on: 18.01.2008
 images:
     -
         file: 74edbde40e9031595064757c2388470a.jpg
@@ -43,6 +49,20 @@ location:
             lat: '54.374278'
             lon: '26.426672'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.374278
+            lon: 26.426672
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27911.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27911'
 meta:
     fgb:
         post_id: '77736'
@@ -54,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77736#77736'
                 version: '24 Nov 2021, Wed, 16:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/542'
+        -
+            type: oopt
+            oopt:
+                id: '27911'

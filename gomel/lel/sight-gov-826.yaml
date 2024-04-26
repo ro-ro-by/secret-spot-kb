@@ -1,0 +1,50 @@
+id: sight-gov-826
+title: 'Заказник «Урочище Берин»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+gov:
+    title: 'Заказник «Урочище Берин»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 116.8
+    founded_on: 28.01.1998
+images:
+    -
+        file: gov/d4a08a6caa670edf1c8d71ca8e6d8650.jpg
+        source:
+            type: gov
+    -
+        file: gov/c7fd22e77193bc947edaeb72faaf9113.jpg
+        source:
+            type: gov
+    -
+        file: gov/8e2f414a56378604271a63685a8e45b7.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.009415
+            lon: 28.521332
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26368.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26368'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/826'
+        -
+            type: oopt
+            oopt:
+                id: '26368'

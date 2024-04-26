@@ -4,6 +4,29 @@ type: tree
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Вековой дуб в деревне Лесница'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.04
+    founded_on: 12.02.2018
+images:
+    -
+        file: gov/126cc0ff20bb37e23ebfc1e23a845dfa.jpg
+        source:
+            type: gov
+    -
+        file: gov/1c083bcda417ff785d80de3b14b9c854.jpg
+        source:
+            type: gov
+    -
+        file: gov/a007f156237bf73250e118d42043ed43.jpg
+        source:
+            type: gov
+    -
+        file: gov/3f0bee2acc9ab77f1b4b3e4af127c268.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -13,6 +36,12 @@ location:
             lat: 53.81836
             lon: 23.89547
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.818361
+            lon: 23.895472
+        source: gov
 meta:
     fgb:
         post_id: '96512'
@@ -24,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96512#96512'
                 version: '03 Nov 2022, Thu, 15:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/789'

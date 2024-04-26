@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: 'Перехрестенские бересты'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.07
+    founded_on: 23.06.2005
 images:
     -
         file: abad90581574d806b5bda707129e07f7.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '74645'
+    -
+        file: gov/35d7741fe5888f4ccebd4528d0a0038a.jpg
+        source:
+            type: gov
+    -
+        file: gov/24465437d5e2353bbfdbb35c6fe5d295.jpg
+        source:
+            type: gov
+    -
+        file: gov/e38f6ebccf04182e89895abe04206f01.jpg
+        source:
+            type: gov
+    -
+        file: gov/6adc195feaddc28d47d6e7f93990a41e.jpg
+        source:
+            type: gov
+    -
+        file: gov/fe106e43c2a33534e62f16bfe57b1be7.jpg
+        source:
+            type: gov
 tree:
     type: elm
 location:
@@ -22,6 +48,20 @@ location:
             lat: 51.998306
             lon: 25.824472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.998306
+            lon: 25.824472
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27632.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27632'
 meta:
     fgb:
         post_id: '74645'
@@ -33,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74645#74645'
                 version: '22 Sep 2022, Thu, 22:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/190'
+        -
+            type: oopt
+            oopt:
+                id: '27632'

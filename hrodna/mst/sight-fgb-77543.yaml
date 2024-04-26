@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Заказник «Гомшар»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 190.0
+    founded_on: 26.10.1994
 images:
     -
         file: 8c65b4e7f53be773fb288d5dd2c4b499.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77543'
+    -
+        file: gov/9c649ad6e63ae60eda0710a21b04e5d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/055d3b80ce07bec9c8f7b1f568443899.jpg
+        source:
+            type: gov
+    -
+        file: gov/185ef4a55c4e1d0cbc938dba382c41d8.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +41,12 @@ location:
             osm:
                 type: way
                 id: 903885542
+    -
+        type: point
+        coordinates:
+            lat: 53.45483
+            lon: 24.55591
+        source: gov
 osm:
     -
         type: way
@@ -38,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77543#77543'
                 version: '16 Feb 2021, Tue, 0:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/616'

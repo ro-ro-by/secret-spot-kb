@@ -4,6 +4,27 @@ type: sacral_hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Гора «Ходчиха»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 31.9
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.17533
+            lon: 26.40746
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27432.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27432'
 meta:
     fgb:
         post_id: '103729'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=103729#103729'
                 version: '02 Jun 2023, Fri, 14:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/285'
+        -
+            type: oopt
+            oopt:
+                id: '27432'

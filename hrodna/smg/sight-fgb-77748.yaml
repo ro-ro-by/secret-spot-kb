@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Поляновский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0006
+    founded_on: 23.03.1995
 images:
     -
         file: b87d1c5e7401afe397adf4f34f872d0c.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77748'
         meta:
             author: ВалероС
+    -
+        file: gov/6bb686b1bd12eea8e7eb804d0bc05aff.jpg
+        source:
+            type: gov
+    -
+        file: gov/2103e5f81affc7f4efc632232c8455c5.jpg
+        source:
+            type: gov
+    -
+        file: gov/9985481514cbf026a52d3275c21a3eb6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.723033'
             lon: '26.360084'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.723033
+            lon: 26.360084
+        source: gov
 meta:
     fgb:
         post_id: '77748'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77748#77748'
                 version: '25 Nov 2021, Thu, 15:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/688'

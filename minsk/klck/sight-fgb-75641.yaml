@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-klck
+gov:
+    title: 'Парк «Радзивиллимонты»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 9.3
+    founded_on: 08.05.2007
 images:
     -
         file: e97036270d3769a462c66769822e50e2.jpg
@@ -13,6 +19,46 @@ images:
             type: fgb
             fgb:
                 post_id: '75641'
+    -
+        file: gov/7fc51c4d4b944bfc42e6a880ed52b96c.jpg
+        source:
+            type: gov
+    -
+        file: gov/7cc9ead52ad6dcd8832053febd01241a.jpg
+        source:
+            type: gov
+    -
+        file: gov/eca34d7e14f10d1cde3304e11f6ad55f.jpg
+        source:
+            type: gov
+    -
+        file: gov/9fb6706d3e952389adb22f760eae1b58.jpg
+        source:
+            type: gov
+    -
+        file: gov/168ed11fa28b6829182140c424f27f63.jpg
+        source:
+            type: gov
+    -
+        file: gov/ad1784da6ba4b06727266848dc16afd3.jpg
+        source:
+            type: gov
+    -
+        file: gov/bb187a52bccc4d218a915ed931123580.jpg
+        source:
+            type: gov
+    -
+        file: gov/ffcda22c7ed4a4c1418729fd0a024897.jpg
+        source:
+            type: gov
+    -
+        file: gov/d796a081cf955a64532b1cfc7d3f9335.jpg
+        source:
+            type: gov
+    -
+        file: gov/b8ac126de504443ede8166279c697fb8.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +66,20 @@ location:
             lat: 53.009111
             lon: 26.674361
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.00902
+            lon: 26.67719
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26962.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26962'
 meta:
     fgb:
         post_id: '75641'
@@ -31,3 +91,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75641#75641'
                 version: '08 Nov 2022, Tue, 22:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/237'
+        -
+            type: oopt
+            oopt:
+                id: '26962'

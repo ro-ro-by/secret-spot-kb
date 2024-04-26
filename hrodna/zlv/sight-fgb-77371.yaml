@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Заказник «Коревин луг»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 44.5
+    founded_on: 22.10.2002
 images:
     -
         file: 8ee9117d948e2a5d4f16fbe95f16c894.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77371'
+    -
+        file: gov/9e571c744b799e4df43671ab6a4a587e.jpg
+        source:
+            type: gov
+    -
+        file: gov/1f52d15cd45a412101263708ee22a8e4.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,20 @@ location:
             osm:
                 type: way
                 id: 552292849
+    -
+        type: point
+        coordinates:
+            lat: 53.03839
+            lon: 24.84727
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26544.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26544'
 osm:
     -
         type: way
@@ -38,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77371#77371'
                 version: '21 Jan 2021, Thu, 22:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/619'
+        -
+            type: oopt
+            oopt:
+                id: '26544'

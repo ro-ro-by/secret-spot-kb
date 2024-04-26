@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Два валуна лукинские'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 18.03.1997
 images:
     -
         file: 81a7428bcc23fc3b70278b1b54ce4ea5.jpg
@@ -23,6 +28,18 @@ images:
                 post_id: '77591'
         meta:
             author: ВалероС
+    -
+        file: gov/529c0788d8bc0621414cb6bb2810be3d.jpg
+        source:
+            type: gov
+    -
+        file: gov/e0603a35237a5e6e2538f7145e386996.jpg
+        source:
+            type: gov
+    -
+        file: gov/e90f20f4bc85fa0e143e47043c46c7cb.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +47,12 @@ location:
             lat: '53.625898'
             lon: '25.749790'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.62575
+            lon: 25.749722
+        source: gov
 meta:
     fgb:
         post_id: '77591'
@@ -41,3 +64,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77591#77591'
                 version: '06 Dec 2022, Tue, 21:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/692'

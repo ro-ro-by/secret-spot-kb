@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Гремячая криница'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.19
+    founded_on: 26.02.2003
 images:
     -
         file: 0f36d005b6f6ec8df23e1bcc068e3684.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '74798'
         meta:
             author: Victoryor
+    -
+        file: gov/f032d99f29dbdee44e0b4a21ad32ff77.jpg
+        source:
+            type: gov
+    -
+        file: gov/024910f6df3beb60981f93d936f0e164.jpg
+        source:
+            type: gov
+    -
+        file: gov/312f631a2cfc414dbf28ccca1cb1773d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,20 @@ location:
             lat: '54.00398'
             lon: '31.18187'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.004485
+            lon: 31.181748
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27889.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27889'
 meta:
     fgb:
         post_id: '74798'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74798#74798'
                 version: '22 Jan 2022, Sat, 11:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1279'
+        -
+            type: oopt
+            oopt:
+                id: '27889'

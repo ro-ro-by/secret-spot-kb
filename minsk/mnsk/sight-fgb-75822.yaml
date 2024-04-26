@@ -1,9 +1,15 @@
 id: sight-fgb-75822
 title: 'Сросшиеся дуб и сосна'
-type: TODO
+type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Сросшиеся дуб и сосна'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.002
+    founded_on: 13.01.2009
 images:
     -
         file: 3df7c3dcc837c66c92abfb418ee41251.jpg
@@ -13,6 +19,12 @@ images:
             type: fgb
             fgb:
                 post_id: '75822'
+    -
+        file: gov/6c3c0b52066f8cc6983d1e54485fedf5.jpg
+        source:
+            type: gov
+tree:
+    type: oak
 location:
     -
         type: point
@@ -20,6 +32,12 @@ location:
             lat: 53.965778
             lon: 27.427028
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.965778
+            lon: 27.427028
+        source: gov
 meta:
     fgb:
         post_id: '75822'
@@ -31,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75822#75822'
                 version: '08 Nov 2022, Tue, 22:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1181'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Грушин камень Заозерский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00086
+    founded_on: 31.12.2009
 images:
     -
         file: e5a244b1a7474807f63eb024922804b4.jpg
@@ -23,6 +29,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77097'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.869667
+            lon: 28.891883
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27775.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27775'
 meta:
     fgb:
         post_id: '77097'
@@ -34,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77097#77097'
                 version: '10 Aug 2021, Tue, 14:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/855'
+        -
+            type: oopt
+            oopt:
+                id: '27775'

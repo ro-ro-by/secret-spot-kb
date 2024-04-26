@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Милидовский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0006
+    founded_on: 23.03.1995
 images:
     -
         file: e809c9cce1fb3d35ff351fb2168f47aa.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77744'
         meta:
             author: ВалероС
+    -
+        file: gov/53968d7003260387831f142a9d4a60d4.jpg
+        source:
+            type: gov
+    -
+        file: gov/896394b8ff1caf39898dedd4e882d271.jpg
+        source:
+            type: gov
+    -
+        file: gov/603e62229d10b6aa94387cc5655a8a86.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.336168'
             lon: '26.385170'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.336175
+            lon: 26.385147
+        source: gov
 meta:
     fgb:
         post_id: '77744'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77744#77744'
                 version: '25 Nov 2021, Thu, 15:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/683'

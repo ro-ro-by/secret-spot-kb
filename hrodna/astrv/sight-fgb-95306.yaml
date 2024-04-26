@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: Сенканка
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 12.9
+    founded_on: 05.06.2015
 images:
     -
         file: ad53b3c9575dae6e928c8b23324ce473.jpg
@@ -45,6 +51,10 @@ images:
             type: fgb
             fgb:
                 post_id: '95306'
+    -
+        file: gov/4ba31ab0617d88ce9f66b86908cfbf70.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -55,6 +65,12 @@ location:
             osm:
                 type: relation
                 id: 13512788
+    -
+        type: point
+        coordinates:
+            lat: 54.790132
+            lon: 25.946371
+        source: gov
 osm:
     -
         type: relation
@@ -70,3 +86,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95306#95306'
                 version: '06 Nov 2021, Sat, 10:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/578'

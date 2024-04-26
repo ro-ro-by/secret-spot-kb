@@ -4,6 +4,11 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-zlv
+gov:
+    title: 'Родник "Зеньковский"'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    founded_on: 22.10.2002
 images:
     -
         file: 8a0736eead9e64d255a16107c24f0827.jpg
@@ -15,6 +20,14 @@ images:
                 post_id: '77381'
         meta:
             author: 'Таня Славинская'
+    -
+        file: gov/ed3e25f16785c80b1d242a356fae314f.jpg
+        source:
+            type: gov
+    -
+        file: gov/86c806966a4852e8dc524400bd2a9fc7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +35,12 @@ location:
             lat: '52.97707'
             lon: '24.87522'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.97707
+            lon: 24.87522
+        source: gov
 meta:
     fgb:
         post_id: '77381'
@@ -33,3 +52,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77381#77381'
                 version: '06 Apr 2021, Tue, 13:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/776'

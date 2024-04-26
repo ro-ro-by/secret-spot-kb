@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Парк «Залесье»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 12.01
+    founded_on: 04.01.2018
+images:
+    -
+        file: gov/2b69d5ace157a62e408cb6608d539fbf.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,20 @@ location:
             lat: 55.254139
             lon: 27.685778
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.254393
+            lon: 27.686632
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26311.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26311'
 meta:
     fgb:
         post_id: '76694'
@@ -22,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76694#76694'
                 version: '17 Oct 2022, Mon, 20:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/913'
+        -
+            type: oopt
+            oopt:
+                id: '26311'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-kst
+gov:
+    title: 'Вековой дуб Костюковичского лесхоза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.05
+    founded_on: 17.12.2021
 images:
     -
         file: 105bcb8f3f117ffd681faa528c0239dc.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '98876'
+    -
+        file: gov/9975aa61661b258312c7e675dad40ce9.jpg
+        source:
+            type: gov
+    -
+        file: gov/76b21731c6127c0619274d0dd6b12d62.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,12 @@ location:
             lat: 53.184089
             lon: 32.044694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.184089
+            lon: 32.044694
+        source: gov
 meta:
     fgb:
         post_id: '98876'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98876#98876'
                 version: '21 Sep 2022, Wed, 22:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1266'

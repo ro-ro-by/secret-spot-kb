@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-slck
+gov:
+    title: 'Насаждение лиственницы, дуба и сосны «Уречское»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 8.2
+    founded_on: 05.05.2007
 images:
     -
         file: 5ceef776abe1ee4115f4a006a0d24358.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75968'
+    -
+        file: gov/f831046908826f8617d4de16dfaa9da1.jpg
+        source:
+            type: gov
+    -
+        file: gov/800d9d1782f30bfe800986fd5fa2d2a8.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: 52.992472
             lon: 27.634694
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.96227
+            lon: 27.72851
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26977.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26977'
 meta:
     fgb:
         post_id: '75968'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75968#75968'
                 version: '09 Nov 2022, Wed, 0:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/248'
+        -
+            type: oopt
+            oopt:
+                id: '26977'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Валун «Ромальдовский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00111
+    founded_on: 18.03.2008
 images:
     -
         file: 2425ed9b1e8214d2505ec098f9fcf69e.jpg
@@ -22,6 +28,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76978'
+    -
+        file: gov/713a6cb6e60d04c9c2deb8c2a91be191.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,12 @@ location:
             lat: 54.77221
             lon: 30.55556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.7694
+            lon: 30.5621
+        source: gov
 meta:
     fgb:
         post_id: '76978'
@@ -40,3 +56,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76978#76978'
                 version: '24 May 2021, Mon, 9:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/405'

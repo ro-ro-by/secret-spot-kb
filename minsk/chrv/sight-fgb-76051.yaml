@@ -4,6 +4,17 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-chrv
+gov:
+    title: 'Парк «Рованичи»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 8.3
+    founded_on: 08.05.2007
+images:
+    -
+        file: gov/23eaa380a418d5fdb56ccb5711b8f47e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,20 @@ location:
             lat: 53.884222
             lon: 28.616
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.8844
+            lon: 28.6154
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26979.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26979'
 meta:
     fgb:
         post_id: '76051'
@@ -22,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76051#76051'
                 version: '09 Nov 2022, Wed, 0:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/252'
+        -
+            type: oopt
+            oopt:
+                id: '26979'

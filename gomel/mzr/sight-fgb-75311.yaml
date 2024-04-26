@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава "Лешнянская" (три дуба)'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.98
+    founded_on: 22.02.2008
 images:
     -
         file: 5da18f18aa28de24a45eb40ccf2aeb25.jpg
@@ -17,6 +23,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75311'
+    -
+        file: gov/a14f809e5fdd87bd57c5deebdc333a71.jpg
+        source:
+            type: gov
+    -
+        file: gov/77f43a5f1fdd6f11b908a45293003b0c.jpg
+        source:
+            type: gov
+    -
+        file: gov/73d51c647e6de55337456bc48df9ff20.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -24,6 +42,20 @@ location:
             lat: 52.06897
             lon: 28.77914
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.068972
+            lon: 28.779139
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27584.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27584'
 meta:
     fgb:
         post_id: '75311'
@@ -35,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75311#75311'
                 version: '03 Nov 2022, Thu, 14:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/767'
+        -
+            type: oopt
+            oopt:
+                id: '27584'

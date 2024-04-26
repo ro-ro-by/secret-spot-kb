@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Линовский пихтарник'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 44.03
+    founded_on: 17.12.2018
 images:
     -
         file: bd5f47b9d59d860af2496bc17c473e07.jpg
@@ -29,6 +35,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74672'
+    -
+        file: gov/92c61880a7b62db6351b6be7605d901d.jpg
+        source:
+            type: gov
+    -
+        file: gov/c46e608031a4c97a950e06c0490314bc.jpg
+        source:
+            type: gov
 tree:
     type: fir
 location:
@@ -38,6 +52,12 @@ location:
             lat: 52.41056
             lon: 24.55639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.410556
+            lon: 24.556389
+        source: gov
 meta:
     fgb:
         post_id: '74672'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74672#74672'
                 version: '11 Nov 2022, Fri, 21:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/207'

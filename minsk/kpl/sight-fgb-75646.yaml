@@ -8,6 +8,29 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава кисличная'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 37.74
+    founded_on: 30.11.2021
+images:
+    -
+        file: gov/20cd19bd9006da13afa34d7410f2f357.jpg
+        source:
+            type: gov
+    -
+        file: gov/1b22106e412551b8194933dfe16d4284.jpg
+        source:
+            type: gov
+    -
+        file: gov/31a0538ff557413aa7e97daf834227cc.jpg
+        source:
+            type: gov
+    -
+        file: gov/7dcb1c4705af2c7edd0f7e19aecc60a0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -15,6 +38,20 @@ location:
             lat: 53.177556
             lon: 27.200889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.177556
+            lon: 27.200889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26753.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26753'
 meta:
     fgb:
         post_id: '75646'
@@ -26,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75646#75646'
                 version: '08 Nov 2022, Tue, 22:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1132'
+        -
+            type: oopt
+            oopt:
+                id: '26753'

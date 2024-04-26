@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Парк «Маньковичский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 24.0
+    founded_on: 16.07.2007
 images:
     -
         file: 307df462538012daa1b4f32e5d8d4d8d.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74693'
+    -
+        file: gov/f16ef31bc4157515dbf0f45df69086f4.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d29b5532981bda964c3c01ee7c0ea64.jpg
+        source:
+            type: gov
+    -
+        file: gov/969de9c9fb57c5a3d12c603820b7d734.jpg
+        source:
+            type: gov
+    -
+        file: gov/0402471349a37386fd2224bec13a44df.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,20 @@ location:
             lat: 51.896
             lon: 26.869194
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.895503
+            lon: 26.869063
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26929.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26929'
 meta:
     fgb:
         post_id: '74693'
@@ -31,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74693#74693'
                 version: '22 Sep 2022, Thu, 23:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/90'
+        -
+            type: oopt
+            oopt:
+                id: '26929'

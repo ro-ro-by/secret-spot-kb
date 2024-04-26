@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-vlkv
+gov:
+    title: 'Обнажение «Россь»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.9
+    founded_on: 31.07.2006
 images:
     -
         file: b9d2ade10ecb50111b90f754cdda25ac.jpg
@@ -15,6 +21,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77265'
+    -
+        file: gov/221c3fe9e8bc31df2d76b9565aa5e1b1.jpg
+        source:
+            type: gov
+    -
+        file: gov/fbf74d28cf6444c26e8da7526c5b81e4.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.295688
+            lon: 24.436085
+        source: gov
 meta:
     fgb:
         post_id: '77265'
@@ -26,3 +47,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77265#77265'
                 version: '26 Jul 2020, Sun, 10:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/572'

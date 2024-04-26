@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+gov:
+    title: 'Бобровичский дуб'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0724
+    founded_on: 14.12.2007
 images:
     -
         file: 760abff695a2d1c981266f31fbf3d26d.jpg
@@ -29,6 +35,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74563'
+    -
+        file: gov/b63c6bfe9ad83f646f328a1fba691c71.jpg
+        source:
+            type: gov
+    -
+        file: gov/2e5d01e73f5c25a17ca780896f247e3a.jpg
+        source:
+            type: gov
+    -
+        file: gov/61d1d6f1c3d30c48c0afea45ec1afa85.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -38,6 +56,20 @@ location:
             lat: 52.615417
             lon: 25.777417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.615417
+            lon: 25.777417
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27635.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27635'
 meta:
     fgb:
         post_id: '74563'
@@ -49,3 +81,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74563#74563'
                 version: '11 Nov 2022, Fri, 10:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/144'
+        -
+            type: oopt
+            oopt:
+                id: '27635'

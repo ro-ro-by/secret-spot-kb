@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Холм «Гора Пуцевичская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 85.0
+    founded_on: 18.01.2008
 images:
     -
         file: 86762d24db6085d6c0a5fde5938b40ab.jpg
@@ -22,6 +28,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77585'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.603118
+            lon: 25.785747
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26953.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26953'
 meta:
     fgb:
         post_id: '77585'
@@ -33,3 +54,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77585#77585'
                 version: '25 Aug 2021, Wed, 15:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/532'
+        -
+            type: oopt
+            oopt:
+                id: '26953'

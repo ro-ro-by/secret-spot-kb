@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Родник Мало-Городятичского лесничества'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 3.3
+    founded_on: 24.10.2008
 images:
     -
         file: 0ad062f674f3db28059d6bba2953eb3c.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75774'
         meta:
             author: 'Антон Комаров'
+    -
+        file: gov/d2b1b4d92485010e381c7aee2ee69a06.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,12 @@ location:
             lat: '52.53991'
             lon: '28.31288'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.53991
+            lon: 28.31288
+        source: gov
 meta:
     fgb:
         post_id: '75774'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75774#75774'
                 version: '30 Sep 2021, Thu, 11:41'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1175'

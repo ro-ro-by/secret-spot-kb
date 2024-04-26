@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Озеро Бык'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 119.96
+    founded_on: 28.09.1999
 images:
     -
         file: 39e716c6e12e68052b44bc5ad16a2c67.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '77611'
+    -
+        file: gov/f11760592cd5302a81b30c464f4cc979.jpg
+        source:
+            type: gov
+    -
+        file: gov/656f2f16b4b4e9b1c5b4235ddd2ecde1.jpg
+        source:
+            type: gov
+    -
+        file: gov/e006cf632831fc7a34910b61c785cc15.jpg
+        source:
+            type: gov
+    -
+        file: gov/01cdd9e121b4d2b9fdfef104ef37f8d3.jpg
+        source:
+            type: gov
+    -
+        file: gov/e9dd21ebc2c854d777d30e9bd66eb68f.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +49,20 @@ location:
             osm:
                 type: way
                 id: 879344709
+    -
+        type: point
+        coordinates:
+            lat: 54.692033
+            lon: 25.749122
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26504.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26504'
 osm:
     -
         type: way
@@ -38,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77611#77611'
                 version: '04 Nov 2021, Thu, 9:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/605'
+        -
+            type: oopt
+            oopt:
+                id: '26504'

@@ -4,6 +4,44 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Луповщинский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00104
+    founded_on: 23.09.2011
+images:
+    -
+        file: gov/a1996e2ac1499a1e817df0e5dca67b16.jpg
+        source:
+            type: gov
+    -
+        file: gov/1c906d36403b180f1eeee373e37d1bc4.jpg
+        source:
+            type: gov
+    -
+        file: gov/6800104f77604d123b9e6c317eaee68b.jpg
+        source:
+            type: gov
+    -
+        file: gov/0cc9fc1859b3b6e098194203d0d697ec.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.708333
+            lon: 27.666175
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27850.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27850'
 meta:
     fgb:
         post_id: '76947'
@@ -15,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76947#76947'
                 version: '13 May 2022, Fri, 14:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/922'
+        -
+            type: oopt
+            oopt:
+                id: '27850'

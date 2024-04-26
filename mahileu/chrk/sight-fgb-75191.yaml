@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Дуб великан'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.02
+    founded_on: 09.12.2003
 tree:
     type: oak
 location:
@@ -13,6 +19,20 @@ location:
             lat: 53.568306
             lon: 31.3815
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.569082
+            lon: 31.373051
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27816.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27816'
 meta:
     fgb:
         post_id: '75191'
@@ -24,3 +44,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75191#75191'
                 version: '11 Nov 2022, Fri, 0:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1315'
+        -
+            type: oopt
+            oopt:
+                id: '27816'

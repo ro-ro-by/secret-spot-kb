@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Здитовские дубы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.3529
+    founded_on: 27.07.2016
 images:
     -
         file: 45648b00db5d23edb5fe8e7f8300255a.jpg
@@ -21,6 +27,26 @@ images:
             type: fgb
             fgb:
                 post_id: '95165'
+    -
+        file: gov/6fba3dcab08451ebf620a0f06a27368d.jpg
+        source:
+            type: gov
+    -
+        file: gov/249922d3981c12aac6ca29a8d0a50717.jpg
+        source:
+            type: gov
+    -
+        file: gov/5af514dc7ecd9391e59a7ca7f285dca4.jpg
+        source:
+            type: gov
+    -
+        file: gov/5a2fb03a158cc1e1a6062acb5130350f.jpg
+        source:
+            type: gov
+    -
+        file: gov/9523f0e2fdd20940073a54e9c60fbf7d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +54,12 @@ location:
             lat: 52.19759
             lon: 24.0601
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.197594
+            lon: 24.060103
+        source: gov
 meta:
     fgb:
         post_id: '95165'
@@ -39,3 +71,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95165#95165'
                 version: '24 Aug 2020, Mon, 23:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/136'

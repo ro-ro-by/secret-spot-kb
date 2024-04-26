@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-drh
+gov:
+    title: 'Кария овальная «Брашевичская»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.0085
+    founded_on: ''
 images:
     -
         file: 6b42858750a62b6760a41c65c33d1166.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74534'
+    -
+        file: gov/5fe1fd90199a2f7171ed2aeaa947805b.jpg
+        source:
+            type: gov
+    -
+        file: gov/9a7eab3a3ff04dd52447f66528cbc4b6.jpg
+        source:
+            type: gov
 tree:
     type: carya
 location:
@@ -30,6 +44,20 @@ location:
             lat: 52.208056
             lon: 25.021111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.20805
+            lon: 25.021006
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27629.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27629'
 meta:
     fgb:
         post_id: '74534'
@@ -41,3 +69,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74534#74534'
                 version: '22 Sep 2022, Thu, 20:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/72'
+        -
+            type: oopt
+            oopt:
+                id: '27629'

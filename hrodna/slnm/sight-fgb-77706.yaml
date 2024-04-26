@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Большой камень сеньковщинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 30.12.1997
 images:
     -
         file: b6054f9a1fb1372e31b79432ac5e3aab.jpg
@@ -31,6 +36,18 @@ images:
                 post_id: '77706'
         meta:
             author: ВалероС
+    -
+        file: gov/de3dc2d5785fbb5a1f2f90beacded3f8.jpg
+        source:
+            type: gov
+    -
+        file: gov/586d5b0f86fe1af7078673c3dbfe7583.jpg
+        source:
+            type: gov
+    -
+        file: gov/b7944dc877274f77c1b5cc690c5d17ef.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +55,12 @@ location:
             lat: '53.188818'
             lon: '25.174178'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.188818
+            lon: 25.174178
+        source: gov
 meta:
     fgb:
         post_id: '77706'
@@ -49,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77706#77706'
                 version: '29 Oct 2021, Fri, 16:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/677'

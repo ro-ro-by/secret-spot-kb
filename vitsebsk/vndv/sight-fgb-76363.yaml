@@ -4,6 +4,29 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Родник в урочище Петровщина'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/52e97cf004416ec595b4a1fe84051b68.jpg
+        source:
+            type: gov
+    -
+        file: gov/171a43c64f24d6c586747ce56cd3df4e.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae2a1e5c6fa598027e975efe87c3d2a0.jpg
+        source:
+            type: gov
+    -
+        file: gov/c84adb5d1665abf51bea6b9918f68010.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +34,20 @@ location:
             lat: '55.99647'
             lon: '27.83810'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.99647
+            lon: 27.8381
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27751.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27751'
 meta:
     fgb:
         post_id: '76363'
@@ -22,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76363#76363'
                 version: '01 Jul 2020, Wed, 23:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/939'
+        -
+            type: oopt
+            oopt:
+                id: '27751'

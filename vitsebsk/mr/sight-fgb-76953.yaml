@@ -4,6 +4,44 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Перебродский валун Следовик'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00041
+    founded_on: 23.09.2011
+images:
+    -
+        file: gov/5d989eb46100c5227cc0b1afe51a68ce.jpg
+        source:
+            type: gov
+    -
+        file: gov/23f0b5283e7dbea1bc36e35e1607b206.jpg
+        source:
+            type: gov
+    -
+        file: gov/ad0caed68c20226a8cfc29179de1c1f2.jpg
+        source:
+            type: gov
+    -
+        file: gov/0770af6e00cf6265ea7bb712da83bd10.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.586633
+            lon: 27.368367
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27855.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27855'
 meta:
     fgb:
         post_id: '76953'
@@ -15,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76953#76953'
                 version: '30 Apr 2021, Fri, 18:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/977'
+        -
+            type: oopt
+            oopt:
+                id: '27855'

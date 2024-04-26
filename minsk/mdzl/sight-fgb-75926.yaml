@@ -4,6 +4,40 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Большой камень моргиновский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0013
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/56983257b15159f54c754e6781f40d67.jpg
+        source:
+            type: gov
+    -
+        file: gov/8306862b752a04bb82e8fe98407a5af1.jpg
+        source:
+            type: gov
+    -
+        file: gov/cb7b2f73370b424c4211de4aa17b85e5.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.932044
+            lon: 27.120478
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27714.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27714'
 meta:
     fgb:
         post_id: '75926'
@@ -15,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75926#75926'
                 version: '27 Apr 2021, Tue, 20:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1162'
+        -
+            type: oopt
+            oopt:
+                id: '27714'

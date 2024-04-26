@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: "Святой источник Угловской\_"
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 2.0
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/b63cca706878c260c9f4dc3bc2b14d52.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,12 @@ location:
             lat: '55.23191'
             lon: '28.44494'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.237778
+            lon: 28.444167
+        source: gov
 meta:
     fgb:
         post_id: '77029'
@@ -22,3 +39,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77029#77029'
                 version: '14 May 2021, Fri, 6:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1247'

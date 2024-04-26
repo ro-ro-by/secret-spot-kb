@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: «Валун-богатырь»
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000918
+    founded_on: 31.07.2006
 images:
     -
         file: 283c259174cec57b70cf45219baf1fe5.jpg
@@ -48,6 +54,20 @@ location:
             lat: '54.456646'
             lon: '26.494099'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.456646
+            lon: 26.494099
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27922.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27922'
 meta:
     fgb:
         post_id: '77729'
@@ -59,3 +79,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77729#77729'
                 version: '24 Nov 2021, Wed, 16:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/560'
+        -
+            type: oopt
+            oopt:
+                id: '27922'

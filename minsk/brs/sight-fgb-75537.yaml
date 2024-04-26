@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Парк в д. им. Воровского'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.86
+    founded_on: 24.02.1988
 images:
     -
         file: 8ba70b097ee442906275310897c6382d.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75537'
         meta:
             author: 'Андрей Дыбовский'
+    -
+        file: gov/5b1e8887859ae4cb6352a58eaf7c89db.png
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: 54.571278
             lon: 28.108333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.570919
+            lon: 28.109444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27686.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27686'
 meta:
     fgb:
         post_id: '75537'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75537#75537'
                 version: '08 Nov 2022, Tue, 21:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1096'
+        -
+            type: oopt
+            oopt:
+                id: '27686'

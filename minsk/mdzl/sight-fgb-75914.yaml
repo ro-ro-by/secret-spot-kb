@@ -4,6 +4,27 @@ type: esker
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гряда «Тюкшинская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 20.0
+    founded_on: 18.03.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.9736
+            lon: 26.60661
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26969.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26969'
 meta:
     fgb:
         post_id: '75914'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75914#75914'
                 version: '27 Apr 2021, Tue, 19:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/311'
+        -
+            type: oopt
+            oopt:
+                id: '26969'

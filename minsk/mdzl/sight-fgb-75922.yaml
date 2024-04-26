@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Парк «Будслав»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.3
+    founded_on: 28.10.2008
 location:
     -
         type: point
@@ -11,6 +17,20 @@ location:
             lat: 54.792583
             lon: 27.44425
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.792583
+            lon: 27.44425
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26767.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26767'
 meta:
     fgb:
         post_id: '75922'
@@ -22,3 +42,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75922#75922'
                 version: '08 Nov 2022, Tue, 23:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1158'
+        -
+            type: oopt
+            oopt:
+                id: '26767'

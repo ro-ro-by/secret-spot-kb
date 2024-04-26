@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Саранчанские гряды»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 350.0
+    founded_on: 29.03.2019
 images:
     -
         file: 316a619db52f23bd316691be6ab9d624.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77054'
+    -
+        file: gov/a611d46a363a6e1ed0c7b4f74e1e30a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/0a0fd6c69ca401507d47b4ea737831e5.jpg
+        source:
+            type: gov
+    -
+        file: gov/d59d50ad358d4494fa330c4fc936f32f.jpg
+        source:
+            type: gov
+    -
+        file: gov/c39b5fd9f110aca2f95b8256fabad3ab.jpg
+        source:
+            type: gov
+    -
+        file: gov/60ce009fddbe3b54c980665d6dfd9980.jpg
+        source:
+            type: gov
+    -
+        file: gov/1b028d3df458dbfe8dec6abdfd3e79f0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.017509
+            lon: 26.474801
+        source: gov
 meta:
     fgb:
         post_id: '77054'
@@ -24,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77054#77054'
                 version: '20 Aug 2021, Fri, 11:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1025'

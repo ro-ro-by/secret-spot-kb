@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+gov:
+    title: 'Заказник республиканского значения «Выгонощанское»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 55047.4
+    founded_on: 18.11.1968
 images:
     -
         file: 2bc6e9290eb4968af40809fc1a46895a.jpg
@@ -16,6 +22,46 @@ images:
                     - '95498'
                     - '95499'
                     - '95497'
+    -
+        file: gov/ca190d268e8ec90a4c824715b7037f7f.jpg
+        source:
+            type: gov
+    -
+        file: gov/9b8e0a5d1e8e994c20e0f51a9775614f.jpg
+        source:
+            type: gov
+    -
+        file: gov/ac5d70dd5bbe775f9408d1808784136a.jpg
+        source:
+            type: gov
+    -
+        file: gov/d616d359178822e62362afbb33fd4c35.jpg
+        source:
+            type: gov
+    -
+        file: gov/ee3346a552bec36201fed154801029a0.jpg
+        source:
+            type: gov
+    -
+        file: gov/c8a6910aa034c3d5c09504448ccd2333.jpg
+        source:
+            type: gov
+    -
+        file: gov/042ff436397160c609c3fd7a2f5d53af.jpg
+        source:
+            type: gov
+    -
+        file: gov/3de955813bf947f15f7a828bc1576bd4.jpg
+        source:
+            type: gov
+    -
+        file: gov/5ff014ecdb54e69068759b91562e0c2d.jpg
+        source:
+            type: gov
+    -
+        file: gov/c03b63ca1da55a9e01938259a0fdc851.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -26,6 +72,20 @@ location:
             osm:
                 type: relation
                 id: 7834249
+    -
+        type: point
+        coordinates:
+            lat: 52.518007
+            lon: 25.841054
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26127.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26127'
 osm:
     -
         type: relation
@@ -54,3 +114,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95497#95497'
                 version: '20 Aug 2020, Thu, 0:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/52'
+        -
+            type: oopt
+            oopt:
+                id: '26127'

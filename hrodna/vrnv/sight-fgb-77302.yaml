@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень на довгеньках якубовский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: 562ede80036a2d2d434e0acef1ad1d0d.jpg
@@ -31,6 +36,18 @@ images:
                 post_id: '77302'
         meta:
             author: ВалероС
+    -
+        file: gov/4c34361385bb53fcdeeee4f97b83e336.jpg
+        source:
+            type: gov
+    -
+        file: gov/07427880fb68a21c3ee3c9f3cdcfb2af.jpg
+        source:
+            type: gov
+    -
+        file: gov/f8109869637f8d4866d38d5d7efce735.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +55,12 @@ location:
             lat: '53.861685'
             lon: '24.826184'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.861685
+            lon: 24.826184
+        source: gov
 meta:
     fgb:
         post_id: '77302'
@@ -49,3 +72,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77302#77302'
                 version: '22 Nov 2021, Mon, 22:12'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/655'

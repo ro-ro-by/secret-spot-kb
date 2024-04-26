@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: '«Камень Богушевича»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000338
+    founded_on: 31.07.2006
 images:
     -
         file: 39652e7aac285d0544bc2b7b08fca8db.jpg
@@ -41,6 +47,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77727'
+    -
+        file: gov/67d5bc1b006996b8c020ba347db83f5b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.442357
+            lon: 26.169718
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27921.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27921'
 meta:
     fgb:
         post_id: '77727'
@@ -52,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77727#77727'
                 version: '08 Nov 2021, Mon, 13:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/595'
+        -
+            type: oopt
+            oopt:
+                id: '27921'

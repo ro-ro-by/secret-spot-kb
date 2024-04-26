@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Сарьянский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.006
+    founded_on: 29.12.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.873333
+            lon: 27.900556
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27754.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27754'
 meta:
     fgb:
         post_id: '76367'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76367#76367'
                 version: '01 Jul 2020, Wed, 23:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/955'
+        -
+            type: oopt
+            oopt:
+                id: '27754'

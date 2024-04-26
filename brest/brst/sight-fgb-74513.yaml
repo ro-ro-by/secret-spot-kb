@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Буки лесные пурпурные «Лютинские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.022
+    founded_on: '1972'
+images:
+    -
+        file: gov/c47eb5b5ebe1233c4e9e82f09a47a815.jpg
+        source:
+            type: gov
 tree:
     type: beech
 location:
@@ -13,6 +24,20 @@ location:
             lat: 52.304722
             lon: 23.474722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.304722
+            lon: 23.474722
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27528.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27528'
 meta:
     fgb:
         post_id: '74513'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74513#74513'
                 version: '22 Sep 2022, Thu, 20:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/70'
+        -
+            type: oopt
+            oopt:
+                id: '27528'

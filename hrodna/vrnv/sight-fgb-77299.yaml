@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Камень вороновский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 31.10.1997
 images:
     -
         file: cce5416aae97f740490cc6b1638916d2.jpg
@@ -31,6 +36,26 @@ images:
                 post_id: '77299'
         meta:
             author: ВалероС
+    -
+        file: gov/47026876c2249bbadd02e6ec560363c2.jpg
+        source:
+            type: gov
+    -
+        file: gov/38ffcfc48bad9848c355937a734475dd.jpg
+        source:
+            type: gov
+    -
+        file: gov/157702ae68b4c61cb2590602eb4ca32e.jpg
+        source:
+            type: gov
+    -
+        file: gov/6f4145b706261a9c7657496e5494629a.jpg
+        source:
+            type: gov
+    -
+        file: gov/14cfe6bad9d891af05897df5d99077e5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +63,12 @@ location:
             lat: '54.159026'
             lon: '25.338111'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.159026
+            lon: 25.338111
+        source: gov
 meta:
     fgb:
         post_id: '77299'
@@ -49,3 +80,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77299#77299'
                 version: '22 Nov 2021, Mon, 22:22'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/652'

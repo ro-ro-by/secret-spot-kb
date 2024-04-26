@@ -4,6 +4,24 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Большой камень Косаревский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00135
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/1339fa07784eedd8db7e48e447173c41.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.362444
+            lon: 28.673167
+        source: gov
 meta:
     fgb:
         post_id: '77023'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77023#77023'
                 version: '14 May 2021, Fri, 15:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1257'

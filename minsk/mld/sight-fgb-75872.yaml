@@ -6,6 +6,17 @@ belongsTo:
     subregion: subregion-mld
 forest:
     dominated_type: larch
+gov:
+    title: 'Польские культуры лиственницы европейской'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.53
+    founded_on: 12.10.2012
+images:
+    -
+        file: gov/6cc16654caaf57ef9b9c3897e0f48a76.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -13,6 +24,12 @@ location:
             lat: 54.280806
             lon: 26.459389
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.280956
+            lon: 26.461614
+        source: gov
 meta:
     fgb:
         post_id: '75872'
@@ -24,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75872#75872'
                 version: '09 Nov 2022, Wed, 0:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1190'

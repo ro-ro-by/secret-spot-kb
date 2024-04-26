@@ -1,0 +1,46 @@
+id: sight-gov-825
+title: 'Заказник «Манчицы»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+gov:
+    title: 'Заказник «Манчицы»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 570.96
+    founded_on: 28.01.1998
+images:
+    -
+        file: gov/8696aca7154305ba7c9f79170a899a1b.jpg
+        source:
+            type: gov
+    -
+        file: gov/a9c009a2cee01c82ccef02a627938a60.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.942745
+            lon: 28.466249
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26362.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26362'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/825'
+        -
+            type: oopt
+            oopt:
+                id: '26362'

@@ -4,6 +4,32 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» анисимовичский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00065
+    founded_on: 19.03.2007
+images:
+    -
+        file: gov/e5feb993c9b2cae6f8217760f3f76eef.png
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.694185
+            lon: 26.686028
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27798.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27798'
 meta:
     fgb:
         post_id: '76152'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76152#76152'
                 version: '11 Jan 2020, Sat, 18:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/399'
+        -
+            type: oopt
+            oopt:
+                id: '27798'

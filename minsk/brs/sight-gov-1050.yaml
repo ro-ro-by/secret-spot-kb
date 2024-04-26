@@ -1,0 +1,42 @@
+id: sight-gov-1050
+title: 'Заказник «Березина»'
+type: area
+belongsTo:
+    region: region-minsk
+    subregion: subregion-brs
+gov:
+    title: 'Заказник «Березина»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 3242.0
+    founded_on: 22.04.2013
+images:
+    -
+        file: gov/b55ee07d5aff4ee0665be3e22e4317d3.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.438034
+            lon: 28.34062
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27986.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27986'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1050'
+        -
+            type: oopt
+            oopt:
+                id: '27986'

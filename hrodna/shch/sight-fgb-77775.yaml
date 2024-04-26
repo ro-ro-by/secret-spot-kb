@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Большой камень» пугачевский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0056
+    founded_on: 18.01.2008
 images:
     -
         file: d7afefa39cacc47a8f651e026a31f041.jpg
@@ -42,6 +48,33 @@ images:
             type: fgb
             fgb:
                 post_id: '77775'
+    -
+        file: gov/1e813b8e84b7a155d0ca6b22010349b1.jpg
+        source:
+            type: gov
+    -
+        file: gov/a8b131f7dceff3491c7da152150d3a24.jpg
+        source:
+            type: gov
+    -
+        file: gov/4c33cede511ff6ca04e34c00659ebc47.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.803309
+            lon: 24.608078
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27860.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27860'
 meta:
     fgb:
         post_id: '77775'
@@ -53,3 +86,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77775#77775'
                 version: '30 Oct 2021, Sat, 10:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/515'
+        -
+            type: oopt
+            oopt:
+                id: '27860'

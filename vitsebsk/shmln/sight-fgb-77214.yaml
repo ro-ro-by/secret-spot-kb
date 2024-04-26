@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Липа мелколистная'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0002
+    founded_on: 03.12.2012
 images:
     -
         file: ea778b505224ab94c37d677cdf4afaad.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77214'
+    -
+        file: gov/6501138d10f25f42272e27f461251706.jpg
+        source:
+            type: gov
+    -
+        file: gov/24798aa427bfdddb0a238198e5bb8b41.jpg
+        source:
+            type: gov
+    -
+        file: gov/ec53909f7c038e5052998ceb9247e982.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:
@@ -32,6 +50,12 @@ location:
             lat: 55.523278
             lon: 29.517889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.523278
+            lon: 29.517889
+        source: gov
 meta:
     fgb:
         post_id: '77214'
@@ -43,3 +67,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77214#77214'
                 version: '17 Oct 2022, Mon, 21:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/968'

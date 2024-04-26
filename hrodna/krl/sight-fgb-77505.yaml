@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Парк «Мир»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 5.0
+    founded_on: 08.05.2007
 images:
     -
         file: 83b31eac0deb098da0756a4d15d3a02a.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77505'
+    -
+        file: gov/4a9b7edb440c98e689002ba04151c004.jpg
+        source:
+            type: gov
+    -
+        file: gov/2c6c6d34bf1b0da1f651777bc9727145.jpg
+        source:
+            type: gov
+    -
+        file: gov/a104dfb8b6859221efb069ddabcbd24a.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: 53.45297
             lon: 26.47469
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.451125
+            lon: 26.47534
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26952.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26952'
 meta:
     fgb:
         post_id: '77505'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77505#77505'
                 version: '08 Nov 2022, Tue, 20:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/522'
+        -
+            type: oopt
+            oopt:
+                id: '26952'

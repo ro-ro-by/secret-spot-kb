@@ -4,6 +4,17 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+gov:
+    title: Сошно
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 31.29
+    founded_on: 31.12.2019
+images:
+    -
+        file: gov/088de56171e0abd511c0dee1e6f28dd0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,12 @@ location:
             lat: 52.259444
             lon: 26.294167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.259444
+            lon: 26.294167
+        source: gov
 meta:
     fgb:
         post_id: '74656'
@@ -22,3 +39,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74656#74656'
                 version: '22 Sep 2022, Thu, 22:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/198'

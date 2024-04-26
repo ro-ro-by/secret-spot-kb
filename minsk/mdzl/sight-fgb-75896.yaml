@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Обнажение «Студенец»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 3.3
+    founded_on: 19.03.2007
 images:
     -
         file: eba399659fd67741e0344775fce92cea.jpg
@@ -22,6 +28,25 @@ images:
             type: fgb
             fgb:
                 post_id: '75896'
+    -
+        file: gov/ae15ba10764af14a965b1bb597f84f85.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.8082
+            lon: 26.7775
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26970.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26970'
 meta:
     fgb:
         post_id: '75896'
@@ -33,3 +58,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75896#75896'
                 version: '26 Apr 2021, Mon, 19:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/293'
+        -
+            type: oopt
+            oopt:
+                id: '26970'

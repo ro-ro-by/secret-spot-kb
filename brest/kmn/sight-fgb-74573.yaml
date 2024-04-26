@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Родник «Белево»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 26.01.2006
 images:
     -
         file: f2ea96e7b11d54bdb4969ca8c081754e.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '74573'
         meta:
             author: 'Александр Кавалевич'
+    -
+        file: gov/e6dbcf8d842b1e1ffb5f026bcc7406bf.jpg
+        source:
+            type: gov
+    -
+        file: gov/d10d148d2616af46888a14632e24c87f.jpg
+        source:
+            type: gov
+    -
+        file: gov/aea55d33d5ba2783461305c4c964ecd6.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,20 @@ location:
             lat: '52.43070'
             lon: '23.75005'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.4307
+            lon: 23.75005
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27760.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27760'
 meta:
     fgb:
         post_id: '74573'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74573#74573'
                 version: '12 Nov 2022, Sat, 21:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/162'
+        -
+            type: oopt
+            oopt:
+                id: '27760'

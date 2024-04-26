@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+gov:
+    title: 'Судницкие родники'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 2.7
+    founded_on: 24.10.2008
 images:
     -
         file: 0020d8d74efe1212987781653912b8b4.jpg
@@ -23,6 +29,14 @@ images:
             type: fgb
             fgb:
                 post_id: '76023'
+    -
+        file: gov/cad3ddc6cabbf947973305d3f7333ed5.jpg
+        source:
+            type: gov
+    -
+        file: gov/200c1f6a08aa608c3776ea7b38c86d9f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -39,6 +53,20 @@ location:
             osm:
                 type: relation
                 id: 13546652
+    -
+        type: point
+        coordinates:
+            lat: 53.50153
+            lon: 26.619
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27588.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27588'
 osm:
     -
         type: relation
@@ -54,3 +82,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76023#76023'
                 version: '22 Jan 2022, Sat, 10:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1198'
+        -
+            type: oopt
+            oopt:
+                id: '27588'

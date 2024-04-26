@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Синьша»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 12877.42
+    founded_on: 21.03.1996
 images:
     -
         file: c6f7478e3c8bbaf61883187e1f011218.jpg
@@ -13,6 +19,42 @@ images:
             type: fgb
             fgb:
                 post_id: '77084'
+    -
+        file: gov/5e153a9bec29762c92b06c41e7f58503.jpg
+        source:
+            type: gov
+    -
+        file: gov/af3fa19b11ed489e67a40543a31f836f.jpg
+        source:
+            type: gov
+    -
+        file: gov/33fe2da441d8d4de541dca526486b09d.jpg
+        source:
+            type: gov
+    -
+        file: gov/2ac180fd370f88a3af8ce15026252250.jpg
+        source:
+            type: gov
+    -
+        file: gov/681eba1af5da4a0ac8e8b6f5c1188313.jpg
+        source:
+            type: gov
+    -
+        file: gov/a845695bfdb9aafb88f6f42fb4d660a2.jpg
+        source:
+            type: gov
+    -
+        file: gov/90c9efdbf77fd134e86c8a99226ca37f.jpg
+        source:
+            type: gov
+    -
+        file: gov/660dea004eded28a87042f44986bffe9.jpg
+        source:
+            type: gov
+    -
+        file: gov/fb4118295f55935a98c2ff7841db2f5a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +65,20 @@ location:
             osm:
                 type: relation
                 id: 7837656
+    -
+        type: point
+        coordinates:
+            lat: 55.906971
+            lon: 29.322107
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26169.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26169'
 osm:
     -
         type: relation
@@ -38,3 +94,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77084#77084'
                 version: '22 Aug 2021, Sun, 16:38'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/47'
+        -
+            type: oopt
+            oopt:
+                id: '26169'

@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-hrodna
     subregion: subregion-mst
+gov:
+    title: 'Обнажение «Дубно»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 8.0
+    founded_on: 31.07.2006
 images:
     -
         file: 9448fc439a6b7c8250cf7009b6bea683.jpg
@@ -23,6 +29,33 @@ images:
             type: fgb
             fgb:
                 post_id: '77541'
+    -
+        file: gov/5214b70d912aba475376478efdcffcd1.jpg
+        source:
+            type: gov
+    -
+        file: gov/a1156e1c31d2f7a10dfe9fa5b68669b4.jpg
+        source:
+            type: gov
+    -
+        file: gov/03f1f26046829e8372960e6870eb776b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.439444
+            lon: 24.390278
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26987.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26987'
 meta:
     fgb:
         post_id: '77541'
@@ -34,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77541#77541'
                 version: '16 Feb 2021, Tue, 0:08'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/563'
+        -
+            type: oopt
+            oopt:
+                id: '26987'

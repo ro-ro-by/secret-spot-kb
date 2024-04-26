@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Раковский родник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.65
+    founded_on: 16.10.2008
 images:
     -
         file: 4648e10761b4e5225d74633c33baee7f.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75618'
+    -
+        file: gov/7b6d75ddc44e134059119e62c4f41f03.jpg
+        source:
+            type: gov
+    -
+        file: gov/8931a91f414a74a893a6a14e0d32cee5.jpg
+        source:
+            type: gov
+    -
+        file: gov/0b4d1f478f89039dad9cb88cb51c96d1.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,20 @@ location:
             lat: '53.96831'
             lon: '27.07960'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.96831
+            lon: 27.0796
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27740.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27740'
 meta:
     fgb:
         post_id: '75618'
@@ -31,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75618#75618'
                 version: '19 Nov 2021, Fri, 9:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1119'
+        -
+            type: oopt
+            oopt:
+                id: '27740'

@@ -4,6 +4,27 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-hlsk
+gov:
+    title: 'Заказник «Пойма реки Бежица»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 410.97
+    founded_on: 22.01.1993
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.92211
+            lon: 28.929817
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26801.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26801'
 meta:
     fgb:
         post_id: '74767'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74767#74767'
                 version: '19 Aug 2020, Wed, 23:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1377'
+        -
+            type: oopt
+            oopt:
+                id: '26801'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Дубы пирамидальные «Барановичские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.0125
+    founded_on: 22.12.1967
 images:
     -
         file: c8b8be8e86fd5282ff884b1ce6e89ac6.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '70749'
+    -
+        file: gov/2b68408a191288726e5079eb3343eeba.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -30,6 +40,12 @@ location:
             lat: 53.127778
             lon: 26.000556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.12777
+            lon: 26.00055
+        source: gov
 meta:
     fgb:
         post_id: '70749'
@@ -41,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70749#70749'
                 version: '21 Sep 2022, Wed, 23:37'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/66'

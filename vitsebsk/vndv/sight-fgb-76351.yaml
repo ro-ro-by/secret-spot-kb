@@ -4,6 +4,24 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Сарьянская низменность'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.8
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/fb8b2cfa8c62a1e6e0fd8022828f07dc.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.928714
+            lon: 27.887628
+        source: gov
 meta:
     fgb:
         post_id: '76351'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76351#76351'
                 version: '01 Jul 2020, Wed, 23:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1243'

@@ -4,6 +4,61 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Гродненские форты'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 12.6
+    founded_on: 12.02.2018
+images:
+    -
+        file: gov/449469946df1e2367cbdfa2481bff954.jpg
+        source:
+            type: gov
+    -
+        file: gov/b255d411be6121c83e5eb6efc98d91b2.jpg
+        source:
+            type: gov
+    -
+        file: gov/a66171b2f221cd5c41894e24b78884a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/836642e191be07f3d6be9b505b13d750.jpg
+        source:
+            type: gov
+    -
+        file: gov/67695141adbf511bf68b07ee2bb2aadc.jpg
+        source:
+            type: gov
+    -
+        file: gov/05c3763dd6a0ee69797ff0deadcd8f0e.jpg
+        source:
+            type: gov
+    -
+        file: gov/dbaedd204b742f0ce0c52222720a5cf1.jpg
+        source:
+            type: gov
+    -
+        file: gov/6610fef3df5e6ba1eb8bc4b80f6c3f77.jpg
+        source:
+            type: gov
+    -
+        file: gov/92e346b58ee9dbfb056c8cf4910b23ee.jpg
+        source:
+            type: gov
+    -
+        file: gov/9f42313b3c1cbdfadef8688ce8bad6af.jpg
+        source:
+            type: gov
+    -
+        file: gov/1cedbc14a17539fa3016e70e9d0072e9.jpg
+        source:
+            type: gov
+    -
+        file: gov/def7089efa911dc4a4732bde718eb668.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +66,12 @@ location:
             lat: '53.619733'
             lon: '23.670977'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.733926
+            lon: 23.711731
+        source: gov
 meta:
     fgb:
         post_id: '77324'
@@ -22,3 +83,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77324#77324'
                 version: '03 Aug 2020, Mon, 23:19'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/785'

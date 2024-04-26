@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Шаповаловский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00074
+    founded_on: 16.02.1995
 images:
     -
         file: 427ff059c799d0c1f909693b2cec5916.jpg
@@ -35,6 +41,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77657'
+    -
+        file: gov/cbb15863a6860c4dc59412d36fcda590.jpg
+        source:
+            type: gov
+    -
+        file: gov/4b698650494708a17e6450716598dc3a.jpg
+        source:
+            type: gov
+    -
+        file: gov/3c11a8084e9c986088448dc5e7f089e0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -42,6 +60,12 @@ location:
             lat: '54.321338'
             lon: '26.059080'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.321338
+            lon: 26.05908
+        source: gov
 meta:
     fgb:
         post_id: '77657'
@@ -53,3 +77,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77657#77657'
                 version: '23 Nov 2021, Tue, 0:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/726'

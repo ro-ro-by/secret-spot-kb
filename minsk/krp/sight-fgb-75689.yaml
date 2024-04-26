@@ -36,6 +36,14 @@ location:
             lat: '54.26952'
             lon: '28.97226'
         source: fgb
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27841.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27841'
 meta:
     fgb:
         post_id: '75689'
@@ -47,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75689#75689'
                 version: '05 May 2021, Wed, 7:00'
+        -
+            type: oopt
+            oopt:
+                id: '27841'

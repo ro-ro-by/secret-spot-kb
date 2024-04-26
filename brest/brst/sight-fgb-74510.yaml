@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Плющ обыкновенный'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0035
+    founded_on: 16.12.1999
 images:
     -
         file: ab3f6aaabe23963dce9688b7a999baf7.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '74510'
         meta:
             author: 'Денис Тищук'
+    -
+        file: gov/5147532ae20a21c27731340ce74755cc.jpg
+        source:
+            type: gov
 tree:
     type: ivy
 location:
@@ -24,6 +34,12 @@ location:
             lat: 52.091861
             lon: 23.725806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.091861
+            lon: 23.725806
+        source: gov
 meta:
     fgb:
         post_id: '74510'
@@ -35,3 +51,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74510#74510'
                 version: '22 Sep 2022, Thu, 20:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/110'

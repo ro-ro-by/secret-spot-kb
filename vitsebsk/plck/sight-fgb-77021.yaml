@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Гора замок Вороничская'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 13.5
+    founded_on: 23.05.2001
 images:
     -
         file: e672e5f4f86fabc098d6ca421364ec1e.jpg
@@ -16,6 +22,17 @@ images:
         meta:
             author: 'В. Ф. Вінакураў'
             version: 2000
+    -
+        file: gov/8e274f1addb02053ec80569df1ed5829.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.327883
+            lon: 28.631879
+        source: gov
 meta:
     fgb:
         post_id: '77021'
@@ -27,3 +44,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77021#77021'
                 version: '14 May 2021, Fri, 15:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1241'

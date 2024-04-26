@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-akt
 forest:
     dominated_type: oak
+gov:
+    title: 'Отдельно стоящие деревья дуба'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.95
+    founded_on: 17.12.2004
 images:
     -
         file: 07183981930f6b11973bb4e5ee4af433.jpg
@@ -15,6 +21,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75414'
+    -
+        file: gov/ae220d57e8236bc8c4d181aa683d980d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,12 @@ location:
             lat: 52.77978
             lon: 29.03128
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.779778
+            lon: 29.031278
+        source: gov
 meta:
     fgb:
         post_id: '75414'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75414#75414'
                 version: '03 Nov 2022, Thu, 14:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/775'

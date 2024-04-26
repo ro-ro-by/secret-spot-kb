@@ -4,6 +4,27 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Большой камень Перекский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.005
+    founded_on: 29.12.2008
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.7225
+            lon: 28.483611
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27753.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27753'
 meta:
     fgb:
         post_id: '76366'
@@ -15,3 +36,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76366#76366'
                 version: '01 Jul 2020, Wed, 23:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/954'
+        -
+            type: oopt
+            oopt:
+                id: '27753'

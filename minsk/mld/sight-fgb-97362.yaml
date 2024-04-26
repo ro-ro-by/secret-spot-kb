@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Вековой дуб Молодечненского лесхоза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.03
+    founded_on: 28.12.2018
 images:
     -
         file: 3cf88145684b0f575d5dd1751f52afd3.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '97362'
+    -
+        file: gov/b23334abcef7468725ed5ec4e301b20c.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +32,12 @@ location:
             lat: 54.360139
             lon: 26.725583
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.360139
+            lon: 26.725583
+        source: gov
 meta:
     fgb:
         post_id: '97362'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97362#97362'
                 version: '22 Jan 2022, Sat, 12:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1148'

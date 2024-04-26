@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Анкудский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00069
+    founded_on: 16.02.1995
 images:
     -
         file: 6dada894e4862a86584929d9305b26cf.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77658'
         meta:
             author: ВалероС
+    -
+        file: gov/f3cf9130c375c59519b08ee80487f455.jpg
+        source:
+            type: gov
+    -
+        file: gov/a572c999bb3a80769276a4af17c41235.jpg
+        source:
+            type: gov
+    -
+        file: gov/490bba6543406f8fda4fed29dc7eb642.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.504231'
             lon: '26.002515'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.50419
+            lon: 26.002724
+        source: gov
 meta:
     fgb:
         post_id: '77658'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77658#77658'
                 version: '22 Nov 2021, Mon, 23:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/725'

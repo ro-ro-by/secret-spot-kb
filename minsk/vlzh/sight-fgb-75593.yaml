@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Чертов камень»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.002538
+    founded_on: 19.03.2007
 images:
     -
         file: f2cd4c72541cadc4533fd324c3c5994b.jpg
@@ -53,6 +59,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75593'
+    -
+        file: gov/6932a0d6b7457203ed3b3679a19ee513.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -60,6 +70,12 @@ location:
             lat: '53.919125'
             lon: '26.962208'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.91912
+            lon: 26.9622
+        source: gov
 meta:
     fgb:
         post_id: '75593'
@@ -71,3 +87,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75593#75593'
                 version: '27 Oct 2021, Wed, 22:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/291'

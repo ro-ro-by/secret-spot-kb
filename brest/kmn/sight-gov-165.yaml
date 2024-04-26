@@ -1,0 +1,38 @@
+id: sight-gov-165
+title: 'Муравчицкие конгломераты'
+type: conglomerate
+belongsTo:
+    region: region-brest
+    subregion: subregion-kmn
+gov:
+    title: 'Муравчицкие конгломераты'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.002
+    founded_on: 17.12.2021
+images:
+    -
+        file: gov/a89eefa7ce29d85fcd1a7ffe450b941d.jpg
+        source:
+            type: gov
+    -
+        file: gov/95498be25c6f1e6d8d81872d0f864d6d.jpg
+        source:
+            type: gov
+    -
+        file: gov/dda624bb025814b7278124ca90e389f4.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.375952
+            lon: 23.506194
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/165'

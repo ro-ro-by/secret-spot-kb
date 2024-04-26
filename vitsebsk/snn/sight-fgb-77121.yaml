@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-snn
+gov:
+    title: 'Родник «Добринский грот»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 5.7
+    founded_on: 10.01.2020
 images:
     -
         file: 11a23cef63a399f8663b0ffaf363d504.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77121'
+    -
+        file: gov/3c7fffdb1ef244e1ddc699cf480104f6.jpg
+        source:
+            type: gov
+    -
+        file: gov/2a83d3ee7aa0e3e07e00e2e2e8b086a6.jpg
+        source:
+            type: gov
+    -
+        file: gov/4ed40c8fd31e00a6067b1036a7aa175b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.79786'
             lon: '30.30548'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.797722
+            lon: 30.305278
+        source: gov
 meta:
     fgb:
         post_id: '77121'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77121#77121'
                 version: '02 Oct 2021, Sat, 12:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/956'

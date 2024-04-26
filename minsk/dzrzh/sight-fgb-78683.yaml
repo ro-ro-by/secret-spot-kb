@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-dzrzh
+gov:
+    title: 'Парк «Станьково»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 13.33
+    founded_on: 29.09.2006
 images:
     -
         file: e91a8d2ac3ff1f7def2db43e2b7388f6.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '78683'
         meta:
             author: Strela
+    -
+        file: gov/e108c4a6474ab5932ce9a75d52ad4729.jpg
+        source:
+            type: gov
+    -
+        file: gov/78fe130bba1eb7ed0a626d65f599e3d9.jpg
+        source:
+            type: gov
+    -
+        file: gov/9ad4296c527728327ab098fcfafbaf97.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,20 @@ location:
             lat: '53.61259'
             lon: '27.22108'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.634333
+            lon: 27.222167
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26752.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26752'
 meta:
     fgb:
         post_id: '78683'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78683#78683'
                 version: '27 Jan 2021, Wed, 14:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1122'
+        -
+            type: oopt
+            oopt:
+                id: '26752'

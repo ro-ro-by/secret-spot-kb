@@ -4,6 +4,17 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+gov:
+    title: 'Дерево липы мелколистной в д. Юшковичи'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.002
+    founded_on: 24.10.2008
+images:
+    -
+        file: gov/fed22ce223559f33d03994a50ec027c7.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:
@@ -13,6 +24,20 @@ location:
             lat: 52.801944
             lon: 27.836306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.801944
+            lon: 27.836306
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27643.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27643'
 meta:
     fgb:
         post_id: '75767'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75767#75767'
                 version: '10 Nov 2022, Thu, 22:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1177'
+        -
+            type: oopt
+            oopt:
+                id: '27643'

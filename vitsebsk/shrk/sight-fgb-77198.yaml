@@ -4,6 +4,32 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Большой камень Дубовковский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0009
+    founded_on: 06.12.2011
+images:
+    -
+        file: gov/5793b74721f9a0a1309f79700efc18ee.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.3625
+            lon: 27.919444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27834.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27834'
 meta:
     fgb:
         post_id: '77198'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77198#77198'
                 version: '08 May 2021, Sat, 13:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1255'
+        -
+            type: oopt
+            oopt:
+                id: '27834'

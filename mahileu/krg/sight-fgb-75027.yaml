@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krg
+gov:
+    title: Криница-2
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.001
+    founded_on: 28.10.2003
 images:
     -
         file: 22735b879a53dc888b1c62c0f350d061.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75027'
+    -
+        file: gov/645458585189203a016774227963bd95.jpg
+        source:
+            type: gov
+    -
+        file: gov/104b102a694c4879ee38978c23fc4d03.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,20 @@ location:
             lat: '54.16281'
             lon: '29.76323'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.16281
+            lon: 29.76323
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27924.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27924'
 meta:
     fgb:
         post_id: '75027'
@@ -39,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75027#75027'
                 version: '20 Sep 2021, Mon, 6:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1334'
+        -
+            type: oopt
+            oopt:
+                id: '27924'

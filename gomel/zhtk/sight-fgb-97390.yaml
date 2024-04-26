@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-zhtk
+gov:
+    title: 'Заказник «Туровский луг»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 144.67
+    founded_on: 02.11.2009
 images:
     -
         file: 7afcbc2cc0557433af9b44065931fc25.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '97390'
+    -
+        file: gov/fc9eb6bd627ed912e9cc83f2a5d7bc42.jpg
+        source:
+            type: gov
+    -
+        file: gov/13fb0ea135be5fcc28b228e30e32ef8c.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 7811439
+    -
+        type: point
+        coordinates:
+            lat: 52.078895
+            lon: 27.739365
+        source: gov
 osm:
     -
         type: relation
@@ -38,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97390#97390'
                 version: '28 Jan 2021, Thu, 18:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/816'

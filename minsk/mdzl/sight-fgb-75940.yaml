@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Памятник природы «Купа»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 0.79
+    founded_on: 05.06.2015
 images:
     -
         file: 5f54f9939b73edb29a9d7727597cb8de.jpg
@@ -48,6 +54,12 @@ location:
             lat: '54.90671'
             lon: '26.71258'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.90671
+            lon: 26.71258
+        source: gov
 meta:
     fgb:
         post_id: '75940'
@@ -59,3 +71,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75940#75940'
                 version: '27 Jul 2021, Tue, 20:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/258'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Родник Райгород'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0314
+    founded_on: 25.08.2023
 images:
     -
         file: eb10005d00276db46a0d9eae51480d39.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '77347'
         meta:
             author: ВалероС
+    -
+        file: gov/11fc68834c4ffcd3399e84c9814c5eda.jpg
+        source:
+            type: gov
+    -
+        file: gov/f602f75f0a363cc9931c92c68e2964ed.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,12 @@ location:
             lat: '53.93047'
             lon: '23.93553'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.930469
+            lon: 23.935531
+        source: gov
 meta:
     fgb:
         post_id: '77347'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77347#77347'
                 version: '27 Jul 2021, Tue, 20:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/800'

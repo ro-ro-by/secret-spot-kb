@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Тугановичский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 12.0
+    founded_on: 28.03.1994
 images:
     -
         file: 5653a9267a6cb09d2d7546ef27bf1367.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '70746'
+    -
+        file: gov/27c820c135c5c9f7fb2c6b4cc52b5ee2.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d1808ec7547496b8b70c17fc0e49684.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4d13121a38cdd4145ac9c79355af4ea.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -37,6 +55,20 @@ location:
             osm:
                 type: relation
                 id: 12281492
+    -
+        type: point
+        coordinates:
+            lat: 53.358
+            lon: 26.134889
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26248.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26248'
 osm:
     -
         type: relation
@@ -52,3 +84,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70746#70746'
                 version: '23 Aug 2022, Tue, 22:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/95'
+        -
+            type: oopt
+            oopt:
+                id: '26248'

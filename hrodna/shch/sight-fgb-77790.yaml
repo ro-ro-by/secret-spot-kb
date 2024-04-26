@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Лятск Высокий'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 21.06.1993
 images:
     -
         file: e4090ff1d247a2354117d4bdb7f57197.jpg
@@ -23,6 +28,10 @@ images:
                 post_id: '77790'
         meta:
             author: ВалероС
+    -
+        file: gov/44c1f8160b2d7c7b7978014d8fe8d821.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +39,12 @@ location:
             lat: '53.634259'
             lon: '24.599287'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.634259
+            lon: 24.599287
+        source: gov
 meta:
     fgb:
         post_id: '77790'
@@ -41,3 +56,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77790#77790'
                 version: '30 Oct 2021, Sat, 13:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/768'

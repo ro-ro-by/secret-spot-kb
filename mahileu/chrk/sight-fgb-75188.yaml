@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Вепринская дубрава'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 15.0
+    founded_on: 05.05.2007
 images:
     -
         file: 5c1847dc58c8c994a432836c834ad250.jpg
@@ -33,6 +39,20 @@ location:
             lat: 53.591556
             lon: 31.550417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.591556
+            lon: 31.550417
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27579.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27579'
 meta:
     fgb:
         post_id: '75188'
@@ -44,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75188#75188'
                 version: '11 Nov 2022, Fri, 0:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/461'
+        -
+            type: oopt
+            oopt:
+                id: '27579'

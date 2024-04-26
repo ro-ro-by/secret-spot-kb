@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Лазарева криница'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0314
+    founded_on: 31.12.2009
 images:
     -
         file: b988e3a6db48877fe46c58511d39d32e.jpg
@@ -31,6 +37,10 @@ images:
                 post_id: '77089'
         meta:
             author: Партизаныч
+    -
+        file: gov/532a6b79bab1d4e386b6fd4f00c6e4d4.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +48,20 @@ location:
             lat: '55.82943'
             lon: '28.78091'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.829399
+            lon: 28.780845
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27627.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27627'
 meta:
     fgb:
         post_id: '77089'
@@ -49,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77089#77089'
                 version: '22 Aug 2021, Sun, 16:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/872'
+        -
+            type: oopt
+            oopt:
+                id: '27627'

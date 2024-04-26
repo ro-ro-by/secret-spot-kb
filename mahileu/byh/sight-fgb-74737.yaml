@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-byh
+gov:
+    title: 'Каскад криниц'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 1.18
+    founded_on: 26.09.2007
 images:
     -
         file: 16422a1c5b711aa80501528d003d6ddb.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '74737'
         meta:
             author: 'Александр 6 Гапеенко'
+    -
+        file: gov/631cdf8cd8b36d0aef27ed03374ec9cb.jpg
+        source:
+            type: gov
+    -
+        file: gov/7ea3d4c9e9a39930574c96519d225eb5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,12 @@ location:
             lat: '53.45985'
             lon: '30.02595'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.4599
+            lon: 30.02621
+        source: gov
 meta:
     fgb:
         post_id: '74737'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74737#74737'
                 version: '23 Jun 2020, Tue, 1:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1290'

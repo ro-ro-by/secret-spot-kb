@@ -1,0 +1,32 @@
+id: sight-gov-1321
+title: 'Клевский дуб 2'
+type: tree
+belongsTo:
+    region: region-minsk
+    subregion: subregion-krp
+gov:
+    title: 'Клевский дуб 2'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0254
+    founded_on: 22.11.2006
+images:
+    -
+        file: gov/a041fb1d5cd5a9a899948a7e1401150e.jpg
+        source:
+            type: gov
+tree:
+    type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.034278
+            lon: 29.409806
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1321'

@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Полесские пригорки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 148.3
+    founded_on: 14.09.2009
 images:
     -
         file: 95e9514af35a8fa8555e60eec6aba31e.jpg
@@ -13,6 +19,53 @@ images:
             type: fgb
             fgb:
                 post_id: '77055'
+    -
+        file: gov/b57a04ec852d76fb1d98ca4f9343785b.jpg
+        source:
+            type: gov
+    -
+        file: gov/41bc3d689eac488a87034857c1145e21.jpg
+        source:
+            type: gov
+    -
+        file: gov/2911a3e470f9c7f600a58a77f61de14f.jpg
+        source:
+            type: gov
+    -
+        file: gov/1815b818622f8c464201fd54944a7de4.jpg
+        source:
+            type: gov
+    -
+        file: gov/6d9a55225e61a780b5a413242387fb2d.jpg
+        source:
+            type: gov
+    -
+        file: gov/84b6789f0e74d7b8d644e971b16ad6aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/9bbc8524f96c295d9f1646aa7b2a8414.jpg
+        source:
+            type: gov
+    -
+        file: gov/ceb5b53b7711790dba7455d04ca4aa63.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.09514
+            lon: 26.376982
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26905.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26905'
 meta:
     fgb:
         post_id: '77055'
@@ -24,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77055#77055'
                 version: '20 Aug 2021, Fri, 11:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1016'
+        -
+            type: oopt
+            oopt:
+                id: '26905'

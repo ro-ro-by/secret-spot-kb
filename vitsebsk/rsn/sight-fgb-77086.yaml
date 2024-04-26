@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-rsn
+gov:
+    title: 'Заказник «Нещердо»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 6692.28
+    founded_on: 25.05.2018
 images:
     -
         file: 1eab600b9b5552d2f1689d38f1ef4bae.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77086'
+    -
+        file: gov/bdf8de07420dfead972d591258a6f6a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/93e20e255c97fb66a8262f255a419210.jpg
+        source:
+            type: gov
+    -
+        file: gov/716ebf155fb894eaa5965b29973823a2.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.896914
+            lon: 29.067548
+        source: gov
 meta:
     fgb:
         post_id: '77086'
@@ -24,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77086#77086'
                 version: '08 Jun 2021, Tue, 15:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1027'

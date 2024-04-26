@@ -4,6 +4,26 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-ushch
+gov:
+    title: 'Валун «Глыбочанский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    founded_on: 19.03.2007
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.262886
+            lon: 28.954308
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27909.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27909'
 meta:
     fgb:
         post_id: '77153'
@@ -15,3 +35,15 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77153#77153'
                 version: '06 May 2021, Thu, 15:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1043'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/438'
+        -
+            type: oopt
+            oopt:
+                id: '27909'

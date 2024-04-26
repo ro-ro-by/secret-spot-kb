@@ -1,0 +1,30 @@
+id: sight-gov-1237
+title: 'Заказник «Ивановский»'
+type: area
+belongsTo:
+    region: region-minsk
+    subregion: subregion-smlv
+gov:
+    title: 'Заказник «Ивановский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 657.55
+    founded_on: 09.03.2006
+images:
+    -
+        file: gov/615901ce9b7e9028a1d164060a1850fc.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.781066
+            lon: 28.136109
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1237'

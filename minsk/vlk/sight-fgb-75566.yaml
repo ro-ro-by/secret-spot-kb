@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: Реутка
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.2
+    founded_on: 02.12.2008
 images:
     -
         file: 139ebc313a8b73f6c417138b97554e87.jpg
@@ -20,6 +26,20 @@ location:
             lat: 54.5435
             lon: 26.726306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.5435
+            lon: 26.726306
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27702.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27702'
 meta:
     fgb:
         post_id: '75566'
@@ -31,3 +51,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75566#75566'
                 version: '09 Nov 2022, Wed, 0:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1213'
+        -
+            type: oopt
+            oopt:
+                id: '27702'

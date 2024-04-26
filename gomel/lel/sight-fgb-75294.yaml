@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Уникальный участок леса (дубрава)'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 4.42
+    founded_on: 04.11.2008
 images:
     -
         file: 13b42b3b125d09c73153439bb2b1fd9d.jpg
@@ -17,6 +23,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75294'
+    -
+        file: gov/5804156d5b8e3cc80006857594e23bce.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -24,6 +34,20 @@ location:
             lat: 51.53789
             lon: 27.74431
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.537889
+            lon: 27.744306
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26999.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26999'
 meta:
     fgb:
         post_id: '75294'
@@ -35,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75294#75294'
                 version: '03 Nov 2022, Thu, 13:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/743'
+        -
+            type: oopt
+            oopt:
+                id: '26999'

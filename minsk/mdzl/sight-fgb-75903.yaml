@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» мацкийский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0009
+    founded_on: 18.03.2008
 images:
     -
         file: 668539e6b9166eaa79bb992f03fc2b99.jpg
@@ -29,6 +35,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75903'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.78126
+            lon: 27.0813
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27734.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27734'
 meta:
     fgb:
         post_id: '75903'
@@ -40,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75903#75903'
                 version: '26 Apr 2021, Mon, 21:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/302'
+        -
+            type: oopt
+            oopt:
+                id: '27734'

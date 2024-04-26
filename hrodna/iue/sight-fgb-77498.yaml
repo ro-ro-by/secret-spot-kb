@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Большой камень стиганский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00014
+    founded_on: 26.02.1998
 images:
     -
         file: 37cf1f3bd3d0269ec0f41241c30def48.jpg
@@ -24,6 +30,18 @@ images:
             type: fgb
             fgb:
                 post_id: '77498'
+    -
+        file: gov/f5d5d607c1488a659ce8da62fac0b14d.jpg
+        source:
+            type: gov
+    -
+        file: gov/6146526a8d79ed653de5b79f783dbacc.jpg
+        source:
+            type: gov
+    -
+        file: gov/5d1d9d875f4c0212e14ff3c1acb6d59c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +49,12 @@ location:
             lat: '53.988486'
             lon: '25.568266'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.988486
+            lon: 25.568266
+        source: gov
 meta:
     fgb:
         post_id: '77498'
@@ -42,3 +66,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77498#77498'
                 version: '30 Oct 2021, Sat, 20:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/665'

@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Обнажение «Дорошевичи»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.27
+    founded_on: 31.07.2006
 images:
     -
         file: dd4af3d4b63bf98064a81e39a9c02331.jpg
@@ -15,6 +21,41 @@ images:
             type: fgb
             fgb:
                 post_id: '75416'
+    -
+        file: gov/b144328d8aecd55d354996aea103159e.jpg
+        source:
+            type: gov
+    -
+        file: gov/991024d9f8bf4169bb98081044c1de68.jpg
+        source:
+            type: gov
+    -
+        file: gov/2fd56608a96b3b3c19aacc66c4be5874.jpg
+        source:
+            type: gov
+    -
+        file: gov/db9b8e6ad979841e040d6ae617239806.jpg
+        source:
+            type: gov
+    -
+        file: gov/539f73b6107bbc314bcd7b5be9c56f9d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.117197
+            lon: 28.206005
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27970.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27970'
 meta:
     fgb:
         post_id: '75416'
@@ -26,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75416#75416'
                 version: '27 Jan 2021, Wed, 8:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/358'
+        -
+            type: oopt
+            oopt:
+                id: '27970'

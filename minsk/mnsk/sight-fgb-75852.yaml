@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Вековая дубрава парка «Курасовщина»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.1
+    founded_on: 12.10.2017
 images:
     -
         file: 88c991506fa61cb99fba8000009499a7.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75852'
+    -
+        file: gov/1d81816f69d7f08c25aa28d9c889433c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,12 @@ location:
             lat: 53.847167
             lon: 27.513306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.847167
+            lon: 27.513306
+        source: gov
 meta:
     fgb:
         post_id: '75852'
@@ -39,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75852#75852'
                 version: '21 Sep 2022, Wed, 20:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1215'

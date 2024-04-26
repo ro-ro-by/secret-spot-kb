@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Сновский парк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 11.81
+    founded_on: 28.10.2008
 images:
     -
         file: a3c99aa6d70fac62910aec9cf36abfd1.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75958'
+    -
+        file: gov/810492e51c832011423550700abe7cf7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: 53.224278
             lon: 26.414528
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.224278
+            lon: 26.414528
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26771.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26771'
 meta:
     fgb:
         post_id: '75958'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75958#75958'
                 version: '08 Nov 2022, Tue, 23:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1161'
+        -
+            type: oopt
+            oopt:
+                id: '26771'

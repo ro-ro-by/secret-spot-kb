@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Александрийский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0008
+    founded_on: 17.02.1995
 images:
     -
         file: 25bb222b3673120df81d6bcb7d7f267d.jpg
@@ -42,6 +48,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77620'
+    -
+        file: gov/d1fd17962032ae4e026ef57a77c92717.jpg
+        source:
+            type: gov
+    -
+        file: gov/478a5851fc93e67c9ddfe865044d1d3f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -49,6 +63,12 @@ location:
             lat: '54.911051'
             lon: '26.290134'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.911051
+            lon: 26.290134
+        source: gov
 meta:
     fgb:
         post_id: '77620'
@@ -60,3 +80,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77620#77620'
                 version: '26 Nov 2021, Fri, 10:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/748'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Голубые озера'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 830.9
+    founded_on: 24.05.1994
 images:
     -
         file: 69614018f2441343412f0f80c70f6ed7.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77741'
+    -
+        file: gov/a98a80d341479f951da5fb728ed7c58e.jpg
+        source:
+            type: gov
+    -
+        file: gov/5c6f5718df4a105bf7ef51bc1eabfbf2.jpg
+        source:
+            type: gov
+    -
+        file: gov/981c7bfcd87e089a9cc64a8ff2e01877.jpg
+        source:
+            type: gov
+    -
+        file: gov/296850a638cf13a3f985551d361bb74d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.580989
+            lon: 26.365311
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26532.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26532'
 meta:
     fgb:
         post_id: '77741'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77741#77741'
                 version: '09 Nov 2021, Tue, 9:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/606'
+        -
+            type: oopt
+            oopt:
+                id: '26532'

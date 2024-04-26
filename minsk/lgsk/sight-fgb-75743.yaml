@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-lgsk
+gov:
+    title: 'Заказник «Белая Русь»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 4515.34
+    founded_on: 31.01.2023
 images:
     -
         file: 7df90bc7f1bdf852d63881c4420df996.png
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75743'
+    -
+        file: gov/653826931fbc36afa3fc28766bc73c2f.jpg
+        source:
+            type: gov
+    -
+        file: gov/49d3d25f96a49b6e64b6310b65c5e8f2.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 7838544
+    -
+        type: point
+        coordinates:
+            lat: 54.2697
+            lon: 27.89772
+        source: gov
 osm:
     -
         type: relation
@@ -38,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75743#75743'
                 version: '29 Sep 2021, Wed, 14:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/336'

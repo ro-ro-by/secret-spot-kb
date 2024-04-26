@@ -1,9 +1,15 @@
 id: sight-fgb-77330
 title: 'Низшее место Беларуси'
-type: TODO
+type: other
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+gov:
+    title: 'Низшее место Беларуси'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 8.3
+    founded_on: 20.12.2002
 images:
     -
         file: 59d2093bc56a32160638e3d6921dca78.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77330'
+    -
+        file: gov/c1e2e3e3a8cb9772b928fc08d4a364a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/c5b211cfc8dc1b761463acfac0972f05.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.943167
+            lon: 23.913389
+        source: gov
 meta:
     fgb:
         post_id: '77330'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77330#77330'
                 version: '05 Aug 2020, Wed, 21:33'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/648'

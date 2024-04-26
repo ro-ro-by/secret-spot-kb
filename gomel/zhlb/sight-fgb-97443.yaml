@@ -13,6 +13,15 @@ images:
             type: fgb
             fgb:
                 post_id: '97443'
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26341.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26341'
 meta:
     fgb:
         post_id: '97443'
@@ -24,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97443#97443'
                 version: '06 Feb 2021, Sat, 22:07'
+        -
+            type: oopt
+            oopt:
+                id: '26341'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Турнянский грачевник'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 26.23
+    founded_on: 30.12.2016
 images:
     -
         file: c10a887b53b74dbd03efb2a9d6092a10.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '97017'
+    -
+        file: gov/ca7c05e6ad07e821a15e989aefe966d1.jpg
+        source:
+            type: gov
+    -
+        file: gov/6d9fb0fa446fdb4112b53f8ea8ad52bb.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,12 @@ location:
             osm:
                 type: relation
                 id: 13262337
+    -
+        type: point
+        coordinates:
+            lat: 52.270917
+            lon: 23.758472
+        source: gov
 osm:
     -
         type: relation
@@ -38,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97017#97017'
                 version: '22 Sep 2022, Thu, 21:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/164'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Дуб черешчатый «Петровичский»-2'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.05
+    founded_on: 26.04.2007
 images:
     -
         file: 85f01c48631dfb2cec1ed36ea82e845e.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74543'
+    -
+        file: gov/00ebaecb78a5c92050a98257f4fa5d30.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -30,6 +40,20 @@ location:
             lat: 52.149167
             lon: 24.000083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.149167
+            lon: 24.000083
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27525.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27525'
 meta:
     fgb:
         post_id: '74543'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74543#74543'
                 version: '25 Aug 2022, Thu, 15:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/73'
+        -
+            type: oopt
+            oopt:
+                id: '27525'

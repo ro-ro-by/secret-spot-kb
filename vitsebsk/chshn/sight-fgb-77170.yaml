@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-chshn
+gov:
+    title: 'Родник «Святая вода» (Иезус)'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.02
+    founded_on: 04.01.2012
 images:
     -
         file: 08e869ebcb10c30bf4940e1531e74bd1.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '77170'
+    -
+        file: gov/ce0cd39c0ca2f1302d12c6a1397e2720.jpg
+        source:
+            type: gov
+    -
+        file: gov/481f744bbb0ce846390f4df8220b45a2.jpg
+        source:
+            type: gov
+    -
+        file: gov/504a39ed64c5e24edd77995c62179571.jpg
+        source:
+            type: gov
+    -
+        file: gov/75ff7bc91e882193c6fd2e5bab37c2a9.jpg
+        source:
+            type: gov
+    -
+        file: gov/610e426ac3eadc6f0ed065d69e957fe5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +46,12 @@ location:
             lat: '54.85070'
             lon: '29.29009'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.8507
+            lon: 29.29009
+        source: gov
 meta:
     fgb:
         post_id: '77170'
@@ -31,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77170#77170'
                 version: '06 May 2021, Thu, 14:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/960'

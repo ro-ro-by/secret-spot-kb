@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Будревич камень» вороновский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00066
+    founded_on: 31.07.2006
 images:
     -
         file: 88574108e9145d6e41327cb10ceac6e6.jpg
@@ -34,6 +40,10 @@ images:
                 post_id: '77282'
         meta:
             author: ВалероС
+    -
+        file: gov/77c368440d2eea2152a99c4d540ac5ca.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -41,6 +51,20 @@ location:
             lat: '53.924118'
             lon: '24.718028'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.924118
+            lon: 24.718028
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27877.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27877'
 meta:
     fgb:
         post_id: '77282'
@@ -52,3 +76,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77282#77282'
                 version: '18 May 2022, Wed, 8:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/565'
+        -
+            type: oopt
+            oopt:
+                id: '27877'

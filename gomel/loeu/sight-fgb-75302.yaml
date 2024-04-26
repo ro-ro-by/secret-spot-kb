@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-loeu
+gov:
+    title: 'Заказник «Днепро-Сожский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 14556.0
+    founded_on: 05.08.1999
 images:
     -
         file: 6fe28af9a3a4bf66cb791460aaa07daf.jpg
@@ -13,6 +19,30 @@ images:
             type: fgb
             fgb:
                 post_id: '75302'
+    -
+        file: gov/e63794ae1e3daaf37936c27621896931.jpg
+        source:
+            type: gov
+    -
+        file: gov/c5dfd6c541bbbc6abd54b9be58a7ed41.jpg
+        source:
+            type: gov
+    -
+        file: gov/c01892ed9e50f3f22d886e9dedbca94e.jpg
+        source:
+            type: gov
+    -
+        file: gov/64f9163590d8dd23f57bfecb27881a3e.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d0ecb2f7369d25721515e2563c409e2.jpg
+        source:
+            type: gov
+    -
+        file: gov/ce0c4c356ada741d6b68f364f945a939.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +53,20 @@ location:
             osm:
                 type: relation
                 id: 10068745
+    -
+        type: point
+        coordinates:
+            lat: 52.029441
+            lon: 30.907499
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26902.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26902'
 osm:
     -
         type: relation
@@ -38,3 +82,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75302#75302'
                 version: '28 Jul 2020, Tue, 23:12'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/60'
+        -
+            type: oopt
+            oopt:
+                id: '26902'

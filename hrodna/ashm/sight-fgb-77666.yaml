@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Новодворский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00071
+    founded_on: 16.02.1995
 images:
     -
         file: 9cade9befeecf64d8c282621f9ae3c93.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77666'
         meta:
             author: ВалероС
+    -
+        file: gov/6c2ec400b976acdaa673dbf286c27606.jpg
+        source:
+            type: gov
+    -
+        file: gov/a195992efaf3f17b9f8c9dbed30e5b6c.jpg
+        source:
+            type: gov
+    -
+        file: gov/4c80264c4b770d996662efaa54775bd9.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.359320'
             lon: '26.002324'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.35932
+            lon: 26.002324
+        source: gov
 meta:
     fgb:
         post_id: '77666'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77666#77666'
                 version: '22 Nov 2021, Mon, 23:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/711'

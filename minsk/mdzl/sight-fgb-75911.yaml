@@ -4,6 +4,12 @@ type: cliff
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Береговой уступ «Степеневский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 40.0
+    founded_on: 18.03.2008
 images:
     -
         file: 727e8b8204c78b9f25834c9fd1ef2944.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75911'
+    -
+        file: gov/faa160a0db38f6564f7e93af1a1957fb.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -39,6 +49,20 @@ location:
             osm:
                 type: relation
                 id: 12889389
+    -
+        type: point
+        coordinates:
+            lat: 54.87808
+            lon: 26.67928
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26966.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26966'
 osm:
     -
         type: relation
@@ -54,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75911#75911'
                 version: '26 Apr 2021, Mon, 22:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/295'
+        -
+            type: oopt
+            oopt:
+                id: '26966'

@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Дюна «Мокранская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 160.0
+    founded_on: 18.03.2008
 images:
     -
         file: 89c9f4d8b9d4fd16e3f54289eaf80832.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74635'
+    -
+        file: gov/3bece9c4567b41267c0a418411a9bfcc.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: '51.82086'
             lon: '24.27667'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 51.821181
+            lon: 24.266541
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26924.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26924'
 meta:
     fgb:
         post_id: '74635'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74635#74635'
                 version: '18 Nov 2020, Wed, 0:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/94'
+        -
+            type: oopt
+            oopt:
+                id: '26924'

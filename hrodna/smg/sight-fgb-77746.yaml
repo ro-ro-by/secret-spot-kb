@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Сутьковский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0005
+    founded_on: 23.03.1995
 images:
     -
         file: 937de4d53c95e1ef19605184aa04e6e1.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77746'
         meta:
             author: ВалероС
+    -
+        file: gov/e417af3ae806ceb7a6a75b77d8442b57.jpg
+        source:
+            type: gov
+    -
+        file: gov/ddce151b9dd1d56588af54f1759063b2.jpg
+        source:
+            type: gov
+    -
+        file: gov/96c13d53d41a0269f9f994475c162954.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.391654'
             lon: '26.376483'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.391975
+            lon: 26.376825
+        source: gov
 meta:
     fgb:
         post_id: '77746'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77746#77746'
                 version: '25 Nov 2021, Thu, 15:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/685'

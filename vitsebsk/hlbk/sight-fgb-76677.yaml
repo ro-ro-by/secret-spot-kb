@@ -23,6 +23,14 @@ location:
             osm:
                 type: relation
                 id: 7850348
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26157.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26157'
 osm:
     -
         type: relation
@@ -38,3 +46,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76677#76677'
                 version: '22 Jan 2021, Fri, 23:07'
+        -
+            type: oopt
+            oopt:
+                id: '26157'

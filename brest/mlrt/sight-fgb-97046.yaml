@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Олтушская береза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 16.01.2017
 images:
     -
         file: 3f90135f796697134dde238bd66e4a86.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '97046'
+    -
+        file: gov/3bc0c93730230eba4957aa0bf2d758e3.jpg
+        source:
+            type: gov
+    -
+        file: gov/9620e0823f78d5255109a81df8ed3e9f.jpg
+        source:
+            type: gov
 tree:
     type: birch_black
 location:
@@ -22,6 +36,12 @@ location:
             lat: 51.68008
             lon: 23.95642
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.680083
+            lon: 23.956417
+        source: gov
 meta:
     fgb:
         post_id: '97046'
@@ -33,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97046#97046'
                 version: '22 Sep 2022, Thu, 22:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/184'

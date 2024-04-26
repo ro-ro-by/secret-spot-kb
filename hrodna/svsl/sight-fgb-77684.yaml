@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-svsl
+gov:
+    title: 'Парк совхоза «Вердомичи»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 12.0
+    founded_on: 08.05.2007
 images:
     -
         file: 7d243599daefd39264f1a3014ee115fe.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77684'
+    -
+        file: gov/235d8dbb8751a74268ee9ce6791ffea7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: 53.03181
             lon: 24.26797
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.034761
+            lon: 24.266954
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26955.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26955'
 meta:
     fgb:
         post_id: '77684'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77684#77684'
                 version: '08 Nov 2022, Tue, 20:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/525'
+        -
+            type: oopt
+            oopt:
+                id: '26955'

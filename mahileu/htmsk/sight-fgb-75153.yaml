@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Отдельно стоящая лиственница'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0004
+    founded_on: 30.07.1996
 images:
     -
         file: 103107872055204880d6e1c226bbcd04.jpg
@@ -21,6 +27,26 @@ images:
             type: fgb
             fgb:
                 post_id: '75153'
+    -
+        file: gov/4743436319943b2ac694751f9b6547a1.jpg
+        source:
+            type: gov
+    -
+        file: gov/1b231e2940e43f15a38f3d5f893040e8.jpg
+        source:
+            type: gov
+    -
+        file: gov/7d4ad1788c2afcc0e1e0190a5caea06f.jpg
+        source:
+            type: gov
+    -
+        file: gov/92b0db035d5a93f38809826c994945c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/4739b1d2deaf793faf395561d426a6c9.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +54,12 @@ location:
             lat: 53.427667
             lon: 32.619889
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.427667
+            lon: 32.619889
+        source: gov
 meta:
     fgb:
         post_id: '75153'
@@ -39,3 +71,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75153#75153'
                 version: '10 Nov 2022, Thu, 23:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1305'

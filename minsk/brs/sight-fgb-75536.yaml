@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Парк «Кричин сад»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.14
+    founded_on: 24.02.1988
 images:
     -
         file: 6e0d2fe867573ed9b608f89866a9fd53.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '75536'
         meta:
             author: Ростислав
+    -
+        file: gov/3d27439312b7c951ce34cfcb2e82c739.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: 54.361083
             lon: 28.338639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.382633
+            lon: 28.34365
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27688.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27688'
 meta:
     fgb:
         post_id: '75536'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75536#75536'
                 version: '08 Nov 2022, Tue, 21:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1097'
+        -
+            type: oopt
+            oopt:
+                id: '27688'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+gov:
+    title: 'Парк «Верхне-Черниховский»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.5
+    founded_on: 28.03.1994
 images:
     -
         file: 4266508618aa4d5ac24e9d624b973d79.jpg
@@ -25,6 +31,22 @@ images:
                 post_id: '70748'
         meta:
             author: 'Анастасия Грузинова'
+    -
+        file: gov/0d2050dc969409197f15be19b95aae57.jpg
+        source:
+            type: gov
+    -
+        file: gov/77d186cabbb6476bef0c3ce678ba6c62.jpg
+        source:
+            type: gov
+    -
+        file: gov/a9877cffd6c158be5bd17254500db835.jpg
+        source:
+            type: gov
+    -
+        file: gov/84f49acf526d2c4565f2d195374329f5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -32,6 +54,20 @@ location:
             lat: 53.246889
             lon: 26.233861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.246889
+            lon: 26.233861
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26249.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26249'
 meta:
     fgb:
         post_id: '70748'
@@ -43,3 +79,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70748#70748'
                 version: '21 Sep 2022, Wed, 23:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/98'
+        -
+            type: oopt
+            oopt:
+                id: '26249'

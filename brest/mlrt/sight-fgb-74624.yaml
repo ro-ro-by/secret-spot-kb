@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Орлянская дюна'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 181.04
+    founded_on: 28.03.1997
 images:
     -
         file: 80fe7e41604852c9cdd2018eb39ec70f.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74624'
+    -
+        file: gov/5c62f72bca331315b1dc2c1eac5f0215.jpg
+        source:
+            type: gov
+    -
+        file: gov/0e77a9ddd525a384a1169def43d06893.jpg
+        source:
+            type: gov
+    -
+        file: gov/f0ae93f2addd2d3360fbbff7d73ef8ae.jpg
+        source:
+            type: gov
+    -
+        file: gov/52c2cd7e9cd0c21d811d7854f10b5e66.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +45,20 @@ location:
             osm:
                 type: relation
                 id: 17289163
+    -
+        type: point
+        coordinates:
+            lat: 51.874621
+            lon: 23.943211
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26265.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26265'
 osm:
     -
         type: relation
@@ -38,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74624#74624'
                 version: '17 Nov 2020, Tue, 21:19'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/180'
+        -
+            type: oopt
+            oopt:
+                id: '26265'

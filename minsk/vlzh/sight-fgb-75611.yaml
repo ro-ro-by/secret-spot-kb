@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Насаждение старинной усадьбы Андривонж'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 35.15
+    founded_on: 16.10.2008
 images:
     -
         file: f2588d70c324905b844e9dea7baf10c6.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75611'
+    -
+        file: gov/0937c5b0943f52a7020215e0bfeefe87.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,12 @@ location:
             lat: '54.147102'
             lon: '26.176735'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.14711
+            lon: 26.17774
+        source: gov
 meta:
     fgb:
         post_id: '75611'
@@ -31,3 +47,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75611#75611'
                 version: '10 Nov 2022, Thu, 21:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1116'

@@ -1,9 +1,15 @@
 id: sight-fgb-74795
 title: 'Лесные богатыри'
-type: TODO
+type: forest
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Лесные богатыри'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 20.0
+    founded_on: 26.02.2003
 images:
     -
         file: eede30d70f49c96c0c0915e2018acc30.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '74795'
+    -
+        file: gov/f44fdf234247aa89480d1948405f825f.jpg
+        source:
+            type: gov
+    -
+        file: gov/de19c047854d4619ff334d11053f9c5f.jpg
+        source:
+            type: gov
+    -
+        file: gov/6e53cb7806be5875d5d3ffec12dfbfdf.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -37,6 +55,20 @@ location:
             osm:
                 type: relation
                 id: 662180214
+    -
+        type: point
+        coordinates:
+            lat: 54.129
+            lon: 30.915722
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27891.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27891'
 osm:
     -
         type: relation
@@ -52,3 +84,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74795#74795'
                 version: '11 Nov 2022, Fri, 1:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1336'
+        -
+            type: oopt
+            oopt:
+                id: '27891'

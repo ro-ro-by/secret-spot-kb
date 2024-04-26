@@ -4,6 +4,52 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+gov:
+    title: 'Заказник «Подомхи»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 253.3
+    founded_on: 27.11.2008
+images:
+    -
+        file: gov/d71ad9ef94b2ea99ddca1a85f5da03f1.jpg
+        source:
+            type: gov
+    -
+        file: gov/7f3ebe38dcb189097c0fb096853fedd9.jpg
+        source:
+            type: gov
+    -
+        file: gov/27b17897f75f4652189ad3af18724f1d.jpg
+        source:
+            type: gov
+    -
+        file: gov/3bd4861291db5d8c72320fa6616f3ce8.jpg
+        source:
+            type: gov
+    -
+        file: gov/4173f18cd033938a8e07795734e8b609.jpg
+        source:
+            type: gov
+    -
+        file: gov/602141e5777963760b9cbc96de15e6c5.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.89033
+            lon: 27.704652
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27500.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27500'
 meta:
     fgb:
         post_id: '76796'
@@ -15,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76796#76796'
                 version: '20 May 2021, Thu, 13:47'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/980'
+        -
+            type: oopt
+            oopt:
+                id: '27500'

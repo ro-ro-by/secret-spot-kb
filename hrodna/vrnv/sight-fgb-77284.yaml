@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Валун «Чеслав камень» вороновский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001073
+    founded_on: 31.07.2006
 images:
     -
         file: 5c41e985ad3e11fc8bdeccb88b87bc97.jpg
@@ -52,6 +58,10 @@ images:
                 post_id: '77284'
         meta:
             author: ВалероС
+    -
+        file: gov/e9a705e74b421a35742c2f4a3805a446.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -59,6 +69,20 @@ location:
             lat: '54.161461'
             lon: '25.167047'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.161461
+            lon: 25.167047
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27879.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27879'
 meta:
     fgb:
         post_id: '77284'
@@ -70,3 +94,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77284#77284'
                 version: '30 May 2023, Tue, 12:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/584'
+        -
+            type: oopt
+            oopt:
+                id: '27879'

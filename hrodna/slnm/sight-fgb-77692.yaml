@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: Слонимский
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 4812.73
+    founded_on: 22.08.1978
 images:
     -
         file: 5e642929a994746e1f9e1c4eccf7706a.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77692'
+    -
+        file: gov/a92f646fd90b0a3a1658b331bbbcf3a2.jpg
+        source:
+            type: gov
+    -
+        file: gov/a2ad7125e9732e0c5cdd82f7b1b4b49f.jpg
+        source:
+            type: gov
+    -
+        file: gov/79760d4cb3c60208f1648bd242f6d7ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/b03780a27bbc789c9c16ed8cbde9664c.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +45,20 @@ location:
             osm:
                 type: relation
                 id: 9248224
+    -
+        type: point
+        coordinates:
+            lat: 53.101264
+            lon: 25.493724
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26198.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26198'
 osm:
     -
         type: relation
@@ -38,3 +74,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77692#77692'
                 version: '29 Oct 2021, Fri, 8:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/500'
+        -
+            type: oopt
+            oopt:
+                id: '26198'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Дуб черешчатый "Козловский" ("Дуб-Якуб")'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.031
+    founded_on: 26.04.2007
 images:
     -
         file: 6a96b52e49b97fa61c6674f04464128e.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75952'
+    -
+        file: gov/a70e1ae6d78bded609a56504094b3898.jpg
+        source:
+            type: gov
+    -
+        file: gov/41239b4568d21d2cdc28e003955e5d8f.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,20 @@ location:
             lat: 53.160861
             lon: 26.526306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.16089
+            lon: 26.52662
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27656.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27656'
 meta:
     fgb:
         post_id: '75952'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75952#75952'
                 version: '21 Sep 2022, Wed, 19:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/234'
+        -
+            type: oopt
+            oopt:
+                id: '27656'

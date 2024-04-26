@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Парк «Большое Можейково»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 2.6
+    founded_on: 08.05.2007
 images:
     -
         file: 3e583206156ecfe471d0069316631a86.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77772'
+    -
+        file: gov/fd3caa08bbd5ea2494112e77d606df64.jpg
+        source:
+            type: gov
+    -
+        file: gov/56e8a7293047d7502ae0cfdc478a94ef.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,20 @@ location:
             lat: 53.68415
             lon: 24.93682
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.684005
+            lon: 24.936981
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26959.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26959'
 meta:
     fgb:
         post_id: '77772'
@@ -31,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77772#77772'
                 version: '08 Nov 2022, Tue, 20:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/526'
+        -
+            type: oopt
+            oopt:
+                id: '26959'

@@ -4,6 +4,56 @@ type: esker
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+gov:
+    title: 'Горянская гряда'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 58.77
+    founded_on: 09.04.2020
+images:
+    -
+        file: gov/70844a64a8c60a304347b12f43d22911.jpg
+        source:
+            type: gov
+    -
+        file: gov/f77682cec2020cfc98e19b23e25fe481.jpg
+        source:
+            type: gov
+    -
+        file: gov/9687d05b06699d5326efb6b9599a697d.jpg
+        source:
+            type: gov
+    -
+        file: gov/12a18faa3c9b81554bd47e8f76215263.jpg
+        source:
+            type: gov
+    -
+        file: gov/0db778c66f27783267c37d3c3bf65790.jpg
+        source:
+            type: gov
+    -
+        file: gov/b370fb5dbe0359aba214a7de564b46cd.jpg
+        source:
+            type: gov
+    -
+        file: gov/a0b689856464b0837e0273befeb70685.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.575706
+            lon: 27.582739
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27016.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27016'
 meta:
     fgb:
         post_id: '76940'
@@ -15,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76940#76940'
                 version: '30 Apr 2021, Fri, 18:15'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/878'
+        -
+            type: oopt
+            oopt:
+                id: '27016'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-klch
 forest:
     dominated_type: oak
+gov:
+    title: 'Участок дубово-ясеневого леса'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 76.12
+    founded_on: 16.10.2006
 images:
     -
         file: 639decc7163cc39c84465d2804110202.jpg
@@ -39,6 +45,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74951'
+    -
+        file: gov/24e4eb3b488063d4c88d4605b1b7cbea.jpg
+        source:
+            type: gov
+    -
+        file: gov/9cda6dad14d163e4634ab95c30a22b97.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -46,6 +60,20 @@ location:
             lat: 53.371111
             lon: 29.026722
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.371111
+            lon: 29.026722
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27959.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27959'
 meta:
     fgb:
         post_id: '74951'
@@ -57,3 +85,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74951#74951'
                 version: '10 Nov 2022, Thu, 23:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1293'
+        -
+            type: oopt
+            oopt:
+                id: '27959'

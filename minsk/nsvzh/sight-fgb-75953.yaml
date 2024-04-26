@@ -4,6 +4,21 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Дуб пирамидальный «Заозерский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.018
+    founded_on: 26.04.2007
+images:
+    -
+        file: gov/23e679dc73a6cfaf52418ba69513c47d.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4de4d67fe8b4cfc73e299904bdf1191.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -13,6 +28,20 @@ location:
             lat: 53.229444
             lon: 26.691
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.22972
+            lon: 26.69108
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27657.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27657'
 meta:
     fgb:
         post_id: '75953'
@@ -24,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75953#75953'
                 version: '08 Nov 2022, Tue, 23:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/246'
+        -
+            type: oopt
+            oopt:
+                id: '27657'

@@ -1,0 +1,36 @@
+id: sight-gov-168
+title: 'Запрудский плющевник'
+type: forest
+belongsTo:
+    region: region-brest
+    subregion: subregion-kbrn
+forest:
+    dominated_type: ivy
+gov:
+    title: 'Запрудский плющевник'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.19
+    founded_on: 06.12.2021
+images:
+    -
+        file: gov/2aa49c17608c2f741c1796b9d33d91d4.jpg
+        source:
+            type: gov
+    -
+        file: gov/756893590bbb532cfc9afb59cc877eb9.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.383838
+            lon: 24.586192
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/168'

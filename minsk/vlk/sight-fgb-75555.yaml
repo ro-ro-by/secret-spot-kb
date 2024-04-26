@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Каменный вол» кузьмичевский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00081
+    founded_on: 19.03.2007
 images:
     -
         file: 8cf07cf8bad5eb24c79570c4e21b9475.jpg
@@ -30,6 +36,12 @@ location:
             lat: '54.607027'
             lon: '26.946888'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.60702
+            lon: 26.94688
+        source: gov
 meta:
     fgb:
         post_id: '75555'
@@ -41,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75555#75555'
                 version: '03 Jul 2020, Fri, 11:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/270'

@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Криница «Горки»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 09.12.2003
 images:
     -
         file: 50639beeaea2216c1839a29a5ee04074.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '75194'
         meta:
             author: 'Александр 6'
+    -
+        file: gov/ed54cc882be1a937fd03bed99b6b5c00.jpg
+        source:
+            type: gov
+    -
+        file: gov/687e04ceb364c63bde6012cccfd582f3.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: '53.54170'
             lon: '31.3295'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.5417
+            lon: 31.3295
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27815.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27815'
 meta:
     fgb:
         post_id: '75194'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75194#75194'
                 version: '15 Nov 2021, Mon, 14:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1314'
+        -
+            type: oopt
+            oopt:
+                id: '27815'

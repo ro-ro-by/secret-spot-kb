@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Большой камень Чашковщинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.001
+    founded_on: 29.03.2019
 images:
     -
         file: 20aafdb729bbdc9b86f8588c958aa303.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '77072'
+    -
+        file: gov/750478ed5940268f2a2c67c440f4437a.jpg
+        source:
+            type: gov
+    -
+        file: gov/0131859352b4615ad0d80c33cbac3eb6.jpg
+        source:
+            type: gov
+    -
+        file: gov/caa45d976b5722f4e5dc54292d90ebbc.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.159289
+            lon: 27.087462
+        source: gov
 meta:
     fgb:
         post_id: '77072'
@@ -24,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77072#77072'
                 version: '20 Aug 2021, Fri, 12:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/885'

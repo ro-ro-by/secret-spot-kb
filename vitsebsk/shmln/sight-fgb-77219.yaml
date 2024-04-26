@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Родник «Свято-Успенский колодец»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.0025
+    founded_on: 03.12.2012
 images:
     -
         file: 7e4ef9819eaa35e23a736dc671433e40.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77219'
+    -
+        file: gov/62b791198f5f520c811b007ad8623d69.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -36,6 +46,12 @@ location:
             lat: '55.30075'
             lon: '29.47800'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.300678
+            lon: 29.477736
+        source: gov
 meta:
     fgb:
         post_id: '77219'
@@ -47,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77219#77219'
                 version: '13 May 2021, Thu, 22:48'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/963'

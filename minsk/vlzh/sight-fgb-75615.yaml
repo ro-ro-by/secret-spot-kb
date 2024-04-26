@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Амилина гора'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 2.02
+    founded_on: 16.10.2008
 images:
     -
         file: 552d98c44e9a002ed99575d081f7cbfd.jpg
@@ -24,6 +30,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75615'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.220417
+            lon: 26.497715
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26747.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26747'
 meta:
     fgb:
         post_id: '75615'
@@ -35,3 +56,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75615#75615'
                 version: '16 Apr 2020, Thu, 23:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1112'
+        -
+            type: oopt
+            oopt:
+                id: '26747'

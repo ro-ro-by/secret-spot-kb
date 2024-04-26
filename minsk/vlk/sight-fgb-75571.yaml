@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Большой камень русскосельский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.01
+    founded_on: 27.02.1998
 images:
     -
         file: 0455a92016e245acdf47530d848012be.jpg
@@ -41,6 +47,10 @@ images:
                 post_id: '75571'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/42c12f7a627f133d42054de0cb8ab4a5.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -48,6 +58,12 @@ location:
             lat: '54.526076'
             lon: '26.667076'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.526076
+            lon: 26.667076
+        source: gov
 meta:
     fgb:
         post_id: '75571'
@@ -59,3 +75,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75571#75571'
                 version: '03 Jul 2020, Fri, 17:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1108'

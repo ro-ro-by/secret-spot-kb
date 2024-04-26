@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+gov:
+    title: 'Заказник «Березина»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 876.31
+    founded_on: 28.01.1997
 images:
     -
         file: 4b5937a590eb138ea7b080b8f09e0820.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77524'
+    -
+        file: gov/a951fced9c5692c42c3777528306c0fe.jpg
+        source:
+            type: gov
+    -
+        file: gov/f7d3bd59235661f59ffcac877f9bee83.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +37,12 @@ location:
             osm:
                 type: way
                 id: 1107120359
+    -
+        type: point
+        coordinates:
+            lat: 53.92338
+            lon: 25.103704
+        source: gov
 osm:
     -
         type: way
@@ -38,3 +58,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77524#77524'
                 version: '18 Jan 2020, Sat, 14:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/613'

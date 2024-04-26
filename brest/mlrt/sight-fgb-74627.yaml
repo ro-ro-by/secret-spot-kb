@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Меловая гора'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 171.29
+    founded_on: 28.03.1997
 images:
     -
         file: f91d9847df6aa6cd698245cf3aa5a926.jpg
@@ -13,6 +19,33 @@ images:
             type: fgb
             fgb:
                 post_id: '74627'
+    -
+        file: gov/7376db677b2737ad6d24c0416549434a.jpg
+        source:
+            type: gov
+    -
+        file: gov/56e130b211773dddac06727496dd4e7b.jpg
+        source:
+            type: gov
+    -
+        file: gov/413ffd4791d718830ff9d274f5744810.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.750895
+            lon: 24.007656
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26262.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26262'
 meta:
     fgb:
         post_id: '74627'
@@ -24,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74627#74627'
                 version: '17 Nov 2020, Tue, 22:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/183'
+        -
+            type: oopt
+            oopt:
+                id: '26262'

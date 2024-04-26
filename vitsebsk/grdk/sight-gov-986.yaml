@@ -1,0 +1,30 @@
+id: sight-gov-986
+title: 'Заказник «Суражский»'
+type: area
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-grdk
+gov:
+    title: 'Заказник «Суражский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 11025.92
+    founded_on: 30.12.2022
+images:
+    -
+        file: gov/c66239cd4c2f9aea608877646d8a2edf.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.558327
+            lon: 30.535712
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/986'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Дуб-великан «Волат»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 2.4
+    founded_on: 07.07.1993
 images:
     -
         file: 47e70e6af9465b54b495cca3c6fde608.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '76765'
+    -
+        file: gov/e7c7ccfa07384c25681e81d91e208953.jpg
+        source:
+            type: gov
+    -
+        file: gov/e274c3cd0540ab65ee52b214507fa31c.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +36,20 @@ location:
             lat: 55.408111
             lon: 29.987333
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.408073
+            lon: 29.987577
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27644.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27644'
 meta:
     fgb:
         post_id: '76765'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76765#76765'
                 version: '27 Aug 2022, Sat, 0:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/881'
+        -
+            type: oopt
+            oopt:
+                id: '27644'

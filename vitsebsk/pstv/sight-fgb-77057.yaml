@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Гора Гороватка'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 2.0
+    founded_on: 29.03.2019
 images:
     -
         file: cf6d3f6d01f85932da2097af711ed5fb.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77057'
+    -
+        file: gov/04384bf15dc13b40efaa15ec5eb7afcd.jpg
+        source:
+            type: gov
+    -
+        file: gov/e7bbfdba674cee0b858b00eded521552.jpg
+        source:
+            type: gov
+    -
+        file: gov/55d08d3c150cca04dcca87066b87b822.jpg
+        source:
+            type: gov
+    -
+        file: gov/a30af21c251332f6d436454ff743f0f2.jpg
+        source:
+            type: gov
+    -
+        file: gov/d443e57fa3048d99810e3899e1d0e6bb.jpg
+        source:
+            type: gov
+    -
+        file: gov/a29c38894ba0ace3c38754f6992f7e36.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.027316
+            lon: 27.174131
+        source: gov
 meta:
     fgb:
         post_id: '77057'
@@ -24,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77057#77057'
                 version: '20 Aug 2021, Fri, 11:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/888'

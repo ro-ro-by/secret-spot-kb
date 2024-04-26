@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Дубинцовский пригорок'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 460.0
+    founded_on: 31.10.1997
 images:
     -
         file: d61ea011b06e205723d5f5ace68d0d12.jpg
@@ -21,6 +27,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77291'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.98344
+            lon: 24.966621
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26539.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26539'
 meta:
     fgb:
         post_id: '77291'
@@ -32,3 +53,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77291#77291'
                 version: '10 Nov 2021, Wed, 11:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/622'
+        -
+            type: oopt
+            oopt:
+                id: '26539'

@@ -9,6 +9,21 @@ forest:
     types:
         - pine
         - aspen
+gov:
+    title: Селище
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.39
+    founded_on: 22.05.2002
+images:
+    -
+        file: gov/f6dfcc308cf46076a2ed8ffd24d81e71.jpg
+        source:
+            type: gov
+    -
+        file: gov/9198bef8da15260ff73c7a8287b8ee0b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -16,6 +31,12 @@ location:
             lat: 53.4305
             lon: 31.42247
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.4305
+            lon: 31.422472
+        source: gov
 meta:
     fgb:
         post_id: '75000'
@@ -27,3 +48,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75000#75000'
                 version: '11 Nov 2022, Fri, 1:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1350'

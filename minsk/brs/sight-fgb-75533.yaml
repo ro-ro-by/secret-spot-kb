@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Валун «Быки»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00096
+    founded_on: 19.03.2007
 images:
     -
         file: 875fc356d68eb972e42928a75cc741f1.jpg
@@ -35,6 +41,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75533'
+    -
+        file: gov/9bab0ef073214f7773ad896d45862f12.png
+        source:
+            type: gov
 location:
     -
         type: point
@@ -42,6 +52,20 @@ location:
             lat: '54.52544'
             lon: '28.18937'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.52544
+            lon: 28.18937
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27818.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27818'
 meta:
     fgb:
         post_id: '75533'
@@ -53,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75533#75533'
                 version: '04 Mar 2020, Wed, 11:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/263'
+        -
+            type: oopt
+            oopt:
+                id: '27818'

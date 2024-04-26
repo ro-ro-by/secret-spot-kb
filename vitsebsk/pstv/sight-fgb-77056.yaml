@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Заказник «Сергеевичские холмы»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 140.0
+    founded_on: 11.03.1998
 images:
     -
         file: 2b224c5fe09ce1e7a132f21b2ec4ed3f.jpg
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '77056'
+    -
+        file: gov/4384cbba43e813c6dcc2967632b4a0de.jpg
+        source:
+            type: gov
+    -
+        file: gov/59d3ca1ec38eaa85adde2490c589d529.jpg
+        source:
+            type: gov
+    -
+        file: gov/e0debcf26c82b2625f82d54418c11c21.jpg
+        source:
+            type: gov
+    -
+        file: gov/dfceba44608cc2b05c2e76dbb964ba1d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.020783
+            lon: 27.235586
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26906.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26906'
 meta:
     fgb:
         post_id: '77056'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77056#77056'
                 version: '20 Aug 2021, Fri, 11:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1018'
+        -
+            type: oopt
+            oopt:
+                id: '26906'

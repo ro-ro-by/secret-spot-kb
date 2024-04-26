@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Гостилово»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 998.35
+    founded_on: 29.12.2015
 images:
     -
         file: d02cf653a2a82fe77215f14a3e80155b.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '96297'
+    -
+        file: gov/3d097bc81f651adf4b83041f7489c650.jpg
+        source:
+            type: gov
+    -
+        file: gov/a833e2e10ab53244d6732d26cde8c00b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.439394
+            lon: 26.775513
+        source: gov
 meta:
     fgb:
         post_id: '96297'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96297#96297'
                 version: '14 Nov 2020, Sat, 21:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1054'

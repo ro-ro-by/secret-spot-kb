@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Клюквенник Романовка'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 40.0
+    founded_on: 22.02.2008
 images:
     -
         file: f41cd76a5b98543a2ec3c62407456322.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75313'
+    -
+        file: gov/e1d2b1a1d7638dd210969ce59c5a7752.jpg
+        source:
+            type: gov
+    -
+        file: gov/5fe54b00c66dd26c38cd8bd4ea85c936.jpg
+        source:
+            type: gov
+    -
+        file: gov/737a687c6fc9e4a34287a16f98b737fc.jpg
+        source:
+            type: gov
+    -
+        file: gov/6fe8cacfb727996e3a33ef2a0bfa1939.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,20 @@ location:
             lat: 51.94561
             lon: 28.85014
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.945614
+            lon: 28.850139
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26450.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26450'
 meta:
     fgb:
         post_id: '75313'
@@ -31,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75313#75313'
                 version: '03 Nov 2022, Thu, 14:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/752'
+        -
+            type: oopt
+            oopt:
+                id: '26450'

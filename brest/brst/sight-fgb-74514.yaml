@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-brst
 forest:
     dominated_type: spruce
+gov:
+    title: 'Островные ельники «Меднянские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 32.0
+    founded_on: '1966'
 images:
     -
         file: 7a304eb6b7ac96fd1a04d19ead818eb1.jpg
@@ -31,6 +37,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74514'
+    -
+        file: gov/a7d6893c8c13db9685c2e6753f14325b.jpg
+        source:
+            type: gov
+    -
+        file: gov/079063aaa83f5092eeb1c9a36242f75f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,12 @@ location:
             lat: 51.843611
             lon: 23.769167
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.838991
+            lon: 23.767961
+        source: gov
 meta:
     fgb:
         post_id: '74514'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74514#74514'
                 version: '22 Sep 2022, Thu, 20:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/71'

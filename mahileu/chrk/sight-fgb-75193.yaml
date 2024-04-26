@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Криница «Брезгун»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.02
+    founded_on: 09.12.2003
 images:
     -
         file: f69b52c3f0bd4a6c9b32cda961e45ecd.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '75193'
         meta:
             author: 'Александр 6'
+    -
+        file: gov/86b4bd247558a4139ece4b5f2f5e7557.jpg
+        source:
+            type: gov
+    -
+        file: gov/e38765839231881066141d83f75ca4ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/dc870e147dd42535be112a5775f44b93.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,20 @@ location:
             lat: '53.67769'
             lon: '31.31352'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.67769
+            lon: 31.31352
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27814.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27814'
 meta:
     fgb:
         post_id: '75193'
@@ -33,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75193#75193'
                 version: '06 Dec 2022, Tue, 20:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1303'
+        -
+            type: oopt
+            oopt:
+                id: '27814'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Межледниковое отложение'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 1.5
+    founded_on: 31.07.2006
 images:
     -
         file: c3623c03347b8423007d6612c2b39e19.jpg
@@ -15,6 +21,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75190'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.560635
+            lon: 31.396491
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27769.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27769'
 meta:
     fgb:
         post_id: '75190'
@@ -26,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75190#75190'
                 version: '18 Oct 2021, Mon, 13:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/4111'
+        -
+            type: oopt
+            oopt:
+                id: '27769'

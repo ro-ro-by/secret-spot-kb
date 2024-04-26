@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-drh
+gov:
+    title: Радостовский
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 6685.17
+    founded_on: 22.08.1978
 images:
     -
         file: 6e61e7dbfe078a2c2f342bc7641ea421.jpg
@@ -43,6 +49,20 @@ location:
             osm:
                 type: relation
                 id: 9235653
+    -
+        type: point
+        coordinates:
+            lat: 51.9334
+            lon: 24.8874
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26130.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26130'
 osm:
     -
         type: relation
@@ -58,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74536#74536'
                 version: '07 Jun 2023, Wed, 6:40'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/488'
+        -
+            type: oopt
+            oopt:
+                id: '26130'

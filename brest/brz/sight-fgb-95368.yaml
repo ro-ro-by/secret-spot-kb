@@ -4,6 +4,32 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Заказник "Хованщина"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 10002.77
+    founded_on: 19.12.2018
+images:
+    -
+        file: gov/c16eecc46865fae9fb359ca8124fdd06.jpg
+        source:
+            type: gov
+    -
+        file: gov/e0a40076afff8aa81fd8f78b6d442e1b.jpg
+        source:
+            type: gov
+    -
+        file: gov/906271a628fd1e6e18e117551b6058a9.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.590832
+            lon: 25.318271
+        source: gov
 meta:
     fgb:
         post_id: '95368'
@@ -15,3 +41,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95368#95368'
                 version: '20 Feb 2020, Thu, 0:02'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/479'

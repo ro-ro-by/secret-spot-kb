@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+gov:
+    title: 'Криница «Езерская»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.02
+    founded_on: 09.12.2003
 images:
     -
         file: fa243c888c177c3203ed9074148197ae.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75192'
+    -
+        file: gov/ef5b1191d2efaf06a7e81a299aed62bc.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +30,20 @@ location:
             lat: '53.56645'
             lon: '31.19836'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.56645
+            lon: 31.19836
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27813.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27813'
 meta:
     fgb:
         post_id: '75192'
@@ -31,3 +55,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75192#75192'
                 version: '15 Nov 2021, Mon, 14:13'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1301'
+        -
+            type: oopt
+            oopt:
+                id: '27813'

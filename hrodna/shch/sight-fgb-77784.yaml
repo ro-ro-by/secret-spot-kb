@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Барташицкий»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00084
+    founded_on: 18.01.2008
 images:
     -
         file: 3a4b4bea21c6b5b0661730b5b5b9717a.jpg
@@ -23,6 +29,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77784'
+    -
+        file: gov/3907de4d627aba9a32877e82e8dad472.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +40,20 @@ location:
             lat: '53.597428'
             lon: '24.612381'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.597428
+            lon: 24.612381
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27867.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27867'
 meta:
     fgb:
         post_id: '77784'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77784#77784'
                 version: '30 Oct 2021, Sat, 14:06'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/553'
+        -
+            type: oopt
+            oopt:
+                id: '27867'

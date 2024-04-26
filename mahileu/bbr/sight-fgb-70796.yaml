@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+gov:
+    title: 'Заказник «Волчья гора»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 163.77
+    founded_on: 31.03.2000
 images:
     -
         file: b0221fcc6cdb630d6932218e33de3c23.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '70796'
         meta:
             author: Victoryor
+    -
+        file: gov/3c2b145731036f78787723e4d7edef48.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,20 @@ location:
             lat: '53.12887'
             lon: '29.50658'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.683444
+            lon: 27.374222
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27015.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27015'
 meta:
     fgb:
         post_id: '70796'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70796#70796'
                 version: '10 Jun 2020, Wed, 12:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1008'
+        -
+            type: oopt
+            oopt:
+                id: '27015'

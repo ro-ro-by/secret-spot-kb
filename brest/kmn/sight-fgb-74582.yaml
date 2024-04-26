@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Дуб пирамидальный «Высоковский»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.002
+    founded_on: 27.12.1963
 images:
     -
         file: 6674b737eb5438bc0d3252773933d948.jpg
@@ -29,6 +35,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74582'
+    -
+        file: gov/c841e5395f526a3b3f61d7a0f6806266.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -38,6 +48,20 @@ location:
             lat: 52.365556
             lon: 23.37
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.365556
+            lon: 23.37
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27628.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27628'
 meta:
     fgb:
         post_id: '74582'
@@ -49,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74582#74582'
                 version: '22 Sep 2022, Thu, 21:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/77'
+        -
+            type: oopt
+            oopt:
+                id: '27628'

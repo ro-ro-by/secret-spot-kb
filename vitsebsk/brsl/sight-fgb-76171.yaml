@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Толстогорский родник'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 1.51
+    founded_on: 15.01.2007
 images:
     -
         file: b0cd1f2a34de6156da248af717e97f95.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '76171'
         meta:
             author: 'Игорь Рудаковский'
+    -
+        file: gov/a62f5204cebb9bac6b5cf6576fa60b19.jpg
+        source:
+            type: gov
+    -
+        file: gov/c29ad993f0c8b44b9a3373e8b8624c8c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +36,20 @@ location:
             lat: '55.76273'
             lon: '27.29846'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.762725
+            lon: 27.298461
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27600.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27600'
 meta:
     fgb:
         post_id: '76171'
@@ -33,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76171#76171'
                 version: '19 Jun 2020, Fri, 13:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/916'
+        -
+            type: oopt
+            oopt:
+                id: '27600'

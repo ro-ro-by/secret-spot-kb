@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Большой камень туланский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00047
+    founded_on: 26.02.1998
 images:
     -
         file: cb462a66a3faa0e18e3cf077d5460337.jpg
@@ -24,6 +30,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77494'
+    -
+        file: gov/7d22a241c8b98c9e5afaf8e4f7a57755.jpg
+        source:
+            type: gov
+    -
+        file: gov/3030c31b0cd22ed41c9aed2add0b0f37.jpg
+        source:
+            type: gov
+    -
+        file: gov/251b005d0e9941ba2985fb442d403f43.jpg
+        source:
+            type: gov
+    -
+        file: gov/824c4bdd54358fc86844b2dca5f5e2d3.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +53,12 @@ location:
             lat: '54.114166'
             lon: '25.551599'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.114222
+            lon: 25.551583
+        source: gov
 meta:
     fgb:
         post_id: '77494'
@@ -42,3 +70,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77494#77494'
                 version: '30 Oct 2021, Sat, 20:16'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/662'

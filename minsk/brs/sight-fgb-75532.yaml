@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Валун «Князь-камень»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000429
+    founded_on: 19.03.2007
 images:
     -
         file: 35bda3a4f754cb78a381b99c6a8e032a.jpg
@@ -24,6 +30,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75532'
+    -
+        file: gov/b0166dbf20a1ff470ccc39d892c2be8b.png
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +41,20 @@ location:
             lat: '54.52498'
             lon: '28.21049'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.52498
+            lon: 28.21049
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27817.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27817'
 meta:
     fgb:
         post_id: '75532'
@@ -42,3 +66,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75532#75532'
                 version: '04 Mar 2020, Wed, 9:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/262'
+        -
+            type: oopt
+            oopt:
+                id: '27817'

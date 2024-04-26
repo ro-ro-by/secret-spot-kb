@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-mzr
+gov:
+    title: 'Насаждение дуба черешчатого Михайловское'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 62.18
+    founded_on: 22.02.2008
 images:
     -
         file: bb773ebfb63fa9e98e0412d8bce1898b.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75309'
+    -
+        file: gov/bddb2108f01b6d8f4d538121f656f33c.jpg
+        source:
+            type: gov
+    -
+        file: gov/b12cfa580f4113cf97a8f0cf57265bcc.jpg
+        source:
+            type: gov
+    -
+        file: gov/19aff3e5d87101c4d1befa59e3f075bc.jpg
+        source:
+            type: gov
+    -
+        file: gov/ba88444f24c5369b7a9fc1e553e3b509.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,12 @@ location:
             lat: 51.87856
             lon: 29.26053
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.878556
+            lon: 29.260528
+        source: gov
 meta:
     fgb:
         post_id: '75309'
@@ -31,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75309#75309'
                 version: '03 Nov 2022, Thu, 14:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/764'

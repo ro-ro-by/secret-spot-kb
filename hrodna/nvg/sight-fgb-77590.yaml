@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-nvg
+gov:
+    title: 'Рутковский пригорок'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 80.0
+    founded_on: 18.03.1997
 images:
     -
         file: cb844d7766c50850c2fbb06126492484.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77590'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.573833
+            lon: 25.877111
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26553.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26553'
 meta:
     fgb:
         post_id: '77590'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77590#77590'
                 version: '25 Aug 2021, Wed, 15:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/691'
+        -
+            type: oopt
+            oopt:
+                id: '26553'

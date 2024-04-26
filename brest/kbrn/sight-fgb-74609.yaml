@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Заказник "Дивин-Великий лес"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 6769.94
+    founded_on: 17.12.1997
 images:
     -
         file: 1f29af0a160502bf2cb70e8018f6a90c.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '74609'
+    -
+        file: gov/f0a90fd9bbfe70ae7ed55207ffaff6e4.jpg
+        source:
+            type: gov
+    -
+        file: gov/849b7853f151d78c370e509955e739e1.jpg
+        source:
+            type: gov
+    -
+        file: gov/ba62e0ce39ff8f3cdf9c924458930ba8.jpg
+        source:
+            type: gov
+    -
+        file: gov/7ed319a7cb7b221953f75146bdb906fa.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.989664
+            lon: 24.634353
+        source: gov
 meta:
     fgb:
         post_id: '74609'
@@ -24,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74609#74609'
                 version: '15 Nov 2020, Sun, 0:00'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1093'

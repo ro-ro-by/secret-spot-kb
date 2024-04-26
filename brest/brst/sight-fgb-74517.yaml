@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Заказник "Барбастелла"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 6.61
+    founded_on: 07.08.2000
 images:
     -
         file: 030c5acbd7605fb5ec3cf58bf74a3075.gif
@@ -13,6 +19,37 @@ images:
             type: fgb
             fgb:
                 post_id: '74517'
+    -
+        file: gov/751ba4438af75cc93d9747413821fce5.jpg
+        source:
+            type: gov
+    -
+        file: gov/fa7304a1652aabcebc83abd722ff5892.jpg
+        source:
+            type: gov
+    -
+        file: gov/3f6acbd416111efda9dd1a400fcc07dd.jpg
+        source:
+            type: gov
+    -
+        file: gov/9877a7585b5b36d91e65aae4d1a8cebb.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.122538
+            lon: 23.613668
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27482.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27482'
 meta:
     fgb:
         post_id: '74517'
@@ -24,3 +61,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74517#74517'
                 version: '20 Jun 2020, Sat, 0:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/456'
+        -
+            type: oopt
+            oopt:
+                id: '27482'

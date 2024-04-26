@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: 'Лиственница вековая'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.59
+    founded_on: 27.12.2002
 images:
     -
         file: 7ef8eed763e06a975070f22f27a762b8.jpg
@@ -33,6 +39,18 @@ images:
                 post_id: '75102'
         meta:
             author: Victoryor
+    -
+        file: gov/79a9b4bc79037da132a172375ce042b9.jpg
+        source:
+            type: gov
+    -
+        file: gov/12cd34a95a808f192c3ff0a8c6a82669.jpg
+        source:
+            type: gov
+    -
+        file: gov/ad03d1b27d0d0dc3bb2218aad8e00eb6.jpg
+        source:
+            type: gov
 tree:
     type: larch
 location:
@@ -42,6 +60,20 @@ location:
             lat: 53.56275
             lon: 30.958139
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.562781
+            lon: 30.957897
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27934.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27934'
 meta:
     fgb:
         post_id: '75102'
@@ -53,3 +85,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75102#75102'
                 version: '11 Nov 2022, Fri, 0:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1291'
+        -
+            type: oopt
+            oopt:
+                id: '27934'

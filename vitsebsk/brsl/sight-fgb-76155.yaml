@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валун «Большой камень» струстовский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00189
+    founded_on: 19.03.2007
 images:
     -
         file: 99159ba6d2f0ee04edbfc317aa522d6e.jpg
@@ -37,6 +43,21 @@ images:
             type: fgb
             fgb:
                 post_id: '76155'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.699068
+            lon: 26.992954
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27790.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27790'
 meta:
     fgb:
         post_id: '76155'
@@ -48,3 +69,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76155#76155'
                 version: '18 Jun 2020, Thu, 21:27'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/433'
+        -
+            type: oopt
+            oopt:
+                id: '27790'

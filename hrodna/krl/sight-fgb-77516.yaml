@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Березовецкий пригорок'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 35.0
+    founded_on: 27.08.1997
 images:
     -
         file: 5c6c2fd0f3e2ffade4520ff44a49956e.jpg
@@ -13,6 +19,33 @@ images:
             type: fgb
             fgb:
                 post_id: '77516'
+    -
+        file: gov/7d579cc72015ea89ad565c39644a9622.jpg
+        source:
+            type: gov
+    -
+        file: gov/3271cfc5b94ba517af2bf970a0754cd7.jpg
+        source:
+            type: gov
+    -
+        file: gov/07c1e15eb09fec99723fc3cff6f6b288.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.525158
+            lon: 26.181519
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26547.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26547'
 meta:
     fgb:
         post_id: '77516'
@@ -24,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77516#77516'
                 version: '25 Aug 2021, Wed, 12:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/669'
+        -
+            type: oopt
+            oopt:
+                id: '26547'

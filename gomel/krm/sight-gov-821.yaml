@@ -1,0 +1,30 @@
+id: sight-gov-821
+title: 'Заказник «Струменский»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-krm
+gov:
+    title: 'Заказник «Струменский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 8683.67
+    founded_on: 28.12.2012
+images:
+    -
+        file: gov/b4c6ab1010a17ff924058f2454aa68c5.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.162216
+            lon: 30.986709
+        source: gov
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/821'

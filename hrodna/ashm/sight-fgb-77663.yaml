@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Войтеховский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0006
+    founded_on: 16.02.1995
 images:
     -
         file: d1cda918386792e6c1955a16e41ad1d3.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77663'
         meta:
             author: ВалероС
+    -
+        file: gov/353c4dfd10c9bce3957b98ef6cca970a.jpg
+        source:
+            type: gov
+    -
+        file: gov/5cd267ecdfbbaaf91dc836a4d931f343.jpg
+        source:
+            type: gov
+    -
+        file: gov/c033e17383c212558718cf329a56777c.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.340494'
             lon: '26.100219'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.340494
+            lon: 26.100219
+        source: gov
 meta:
     fgb:
         post_id: '77663'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77663#77663'
                 version: '22 Nov 2021, Mon, 23:51'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/713'

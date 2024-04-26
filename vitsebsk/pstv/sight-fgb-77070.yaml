@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+gov:
+    title: 'Большой камень Трапшевицкий'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.001
+    founded_on: 29.03.2019
 images:
     -
         file: 343a4eabb7edf22ba8f9387b7c80ce0e.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77070'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.061564
+            lon: 26.543591
+        source: gov
 meta:
     fgb:
         post_id: '77070'
@@ -24,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77070#77070'
                 version: '20 Aug 2021, Fri, 12:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/884'

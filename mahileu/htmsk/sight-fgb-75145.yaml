@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Святая криница'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 4.0E-5
+    founded_on: 28.09.1994
 images:
     -
         file: 21a45c73edb5d8126925cd7b42b18ad5.jpg
@@ -15,6 +21,22 @@ images:
                 post_id: '75145'
         meta:
             author: 'Александр 6'
+    -
+        file: gov/26a24e5e36280c00cbfbfe4382f1220c.jpg
+        source:
+            type: gov
+    -
+        file: gov/20d7ec98a80bb55b14b76697f07c685b.jpg
+        source:
+            type: gov
+    -
+        file: gov/2db93a2e442921b54131789b92406587.jpg
+        source:
+            type: gov
+    -
+        file: gov/331b0328dc0d53b1a7d68ff876495d1b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +53,20 @@ location:
             osm:
                 type: relation
                 id: 10772063
+    -
+        type: point
+        coordinates:
+            lat: 53.31319
+            lon: 32.33844
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27989.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27989'
 osm:
     -
         type: relation
@@ -46,3 +82,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75145#75145'
                 version: '14 Nov 2022, Mon, 22:21'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1348'
+        -
+            type: oopt
+            oopt:
+                id: '27989'

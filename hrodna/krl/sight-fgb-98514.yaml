@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Холм «Гора Замок»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 2.5
+    founded_on: 18.01.2008
 images:
     -
         file: ee89fbaccc9a02801027a511e4c2e5d1.jpg
@@ -30,6 +36,21 @@ images:
             type: fgb
             fgb:
                 post_id: '98514'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.523506
+            lon: 26.157627
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26951.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26951'
 meta:
     fgb:
         post_id: '98514'
@@ -41,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98514#98514'
                 version: '25 Aug 2021, Wed, 12:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/513'
+        -
+            type: oopt
+            oopt:
+                id: '26951'

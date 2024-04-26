@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Гряда “Горкинская”'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 40.0
+    founded_on: 18.03.2008
 images:
     -
         file: 1fe2a1aa1bbf6f652d6e7db223d73d7e.jpg
@@ -22,6 +28,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76691'
+    -
+        file: gov/ef2684d2d5795f4bdb0c9344c863cd5f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,20 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.083614
+            lon: 27.467973
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26930.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26930'
 meta:
     fgb:
         post_id: '76691'
@@ -40,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76691#76691'
                 version: '23 Jan 2021, Sat, 9:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/225'
+        -
+            type: oopt
+            oopt:
+                id: '26930'

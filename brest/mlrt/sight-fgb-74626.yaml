@@ -4,6 +4,12 @@ type: dune
 belongsTo:
     region: region-brest
     subregion: subregion-mlrt
+gov:
+    title: 'Хотиславская дюна'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 229.9
+    founded_on: 28.03.1997
 images:
     -
         file: 47553a75dbb0c47d9b7d5ce187c3ce20.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '74626'
+    -
+        file: gov/fbc780913862d80d6e916eef00dbeb23.jpg
+        source:
+            type: gov
+    -
+        file: gov/0e9d00854792d22dec7d2e6bd879f929.jpg
+        source:
+            type: gov
+    -
+        file: gov/ed43c764caf2f1246de1f929b35dfed8.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d5ab31e753c3252e1108493e1947f6f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,20 @@ location:
             lat: '51.69187'
             lon: '24.12829'
         source: schema
+    -
+        type: point
+        coordinates:
+            lat: 51.694859
+            lon: 24.133397
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26268.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26268'
 meta:
     fgb:
         post_id: '74626'
@@ -31,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74626#74626'
                 version: '17 Nov 2020, Tue, 21:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/182'
+        -
+            type: oopt
+            oopt:
+                id: '26268'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Гологурский большой камень'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00053
+    founded_on: 16.02.1995
 images:
     -
         file: 33f2a143a68fb0a305e8bc8981835448.jpg
@@ -23,6 +29,14 @@ images:
                 post_id: '77659'
         meta:
             author: ВалероС
+    -
+        file: gov/44599b5ffae190c99b943cb695bf8d5d.jpg
+        source:
+            type: gov
+    -
+        file: gov/307a00a8a3f8402687c2ab359cfc9eec.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +44,12 @@ location:
             lat: '54.530976'
             lon: '25.943070'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.530976
+            lon: 25.94307
+        source: gov
 meta:
     fgb:
         post_id: '77659'
@@ -41,3 +61,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77659#77659'
                 version: '22 Nov 2021, Mon, 23:17'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/720'

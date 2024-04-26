@@ -1,0 +1,46 @@
+id: sight-fov-1230
+title: 'Заказник «Студенка»'
+type: area
+belongsTo:
+    region: region-minsk
+    subregion: subregion-smlv
+gov:
+    title: 'Заказник «Студенка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 753.87
+    founded_on: 08.12.2008
+images:
+    -
+        file: gov/647b492c9338327d9c3028c2297af014.jpg
+        source:
+            type: gov
+    -
+        file: gov/aae86a63f586fa0072d361d98cdf3002.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.001951
+            lon: 28.244314
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27690.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27690'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1230'
+        -
+            type: oopt
+            oopt:
+                id: '27690'

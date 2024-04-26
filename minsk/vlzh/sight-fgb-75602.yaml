@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» прусогорский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00132
+    founded_on: 19.03.2007
 images:
     -
         file: 1ce417ee36d034116daccb130ebd811f.jpg
@@ -32,6 +38,17 @@ images:
                 post_id: '75602'
         meta:
             author: ВалероС
+    -
+        file: gov/34960f955f0e0a82f8a33a7aa7817ec9.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.11637
+            lon: 26.08164
+        source: gov
 meta:
     fgb:
         post_id: '75602'
@@ -43,3 +60,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75602#75602'
                 version: '27 Oct 2021, Wed, 22:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/280'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Зареченский»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000726
+    founded_on: 18.01.2008
 images:
     -
         file: c191af80709a43291247824a65a5a8b2.jpg
@@ -33,6 +39,10 @@ images:
                 post_id: '77777'
         meta:
             author: ВалероС
+    -
+        file: gov/3cf0b11c6cad57b2078835346a6ed738.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -40,6 +50,20 @@ location:
             lat: '53.577125'
             lon: '24.641832'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.577125
+            lon: 24.641832
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27861.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27861'
 meta:
     fgb:
         post_id: '77777'
@@ -51,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77777#77777'
                 version: '18 May 2022, Wed, 8:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/547'
+        -
+            type: oopt
+            oopt:
+                id: '27861'

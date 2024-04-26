@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Застарье»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 456.25
+    founded_on: 16.10.2006
 images:
     -
         file: f60315224595d4324468cb1bcd3d49a3.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '74975'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.653832
+            lon: 29.344244
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26813.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26813'
 meta:
     fgb:
         post_id: '74975'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74975#74975'
                 version: '17 Sep 2021, Fri, 9:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1383'
+        -
+            type: oopt
+            oopt:
+                id: '26813'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Ореховка»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 569.16
+    founded_on: 16.10.2006
 images:
     -
         file: 1a5cbb04f234331b4a5aa3dbdb0069e1.jpg
@@ -13,6 +19,25 @@ images:
             type: fgb
             fgb:
                 post_id: '74971'
+    -
+        file: gov/49cf58a7b745db9a58d056a5a6dd2b84.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.626909
+            lon: 29.593015
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26821.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26821'
 meta:
     fgb:
         post_id: '74971'
@@ -24,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74971#74971'
                 version: '17 Sep 2021, Fri, 8:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1357'
+        -
+            type: oopt
+            oopt:
+                id: '26821'

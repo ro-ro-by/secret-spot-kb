@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+gov:
+    title: 'Валун «Большой камень» смовжитский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.001537
+    founded_on: 31.07.2006
 images:
     -
         file: 90b3ce832f8b2f7f4a6e677ff4f0b9eb.jpg
@@ -15,6 +21,10 @@ images:
                 post_id: '77697'
         meta:
             author: ВалероС
+    -
+        file: gov/c8e7f9206a61551a027aec204a0095fc.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +41,20 @@ location:
             osm:
                 type: relation
                 id: 605773853
+    -
+        type: point
+        coordinates:
+            lat: 52.964704
+            lon: 24.961738
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27881.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27881'
 osm:
     -
         type: relation
@@ -46,3 +70,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77697#77697'
                 version: '29 Oct 2021, Fri, 15:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/590'
+        -
+            type: oopt
+            oopt:
+                id: '27881'

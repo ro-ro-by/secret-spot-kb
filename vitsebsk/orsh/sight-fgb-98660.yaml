@@ -4,6 +4,41 @@ type: alley
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-orsh
+gov:
+    title: 'Вековая липовая аллея у деревни Левки'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.33
+    founded_on: 22.11.2022
+images:
+    -
+        file: gov/a3ab71492e9db0c013d28418a875c378.jpg
+        source:
+            type: gov
+    -
+        file: gov/2c627b7fc5a7a0a038b140d4a9213453.jpg
+        source:
+            type: gov
+    -
+        file: gov/07235e6b2299865295454f8805f464bd.jpg
+        source:
+            type: gov
+    -
+        file: gov/51323bbf9104438963f263c335825fa1.jpg
+        source:
+            type: gov
+    -
+        file: gov/9ad87877c8a3fdc99050699f63c8ecab.jpg
+        source:
+            type: gov
+    -
+        file: gov/0e41a1bed7c1316a9819baf1d1b674b2.jpg
+        source:
+            type: gov
+    -
+        file: gov/378096b55948c9679ce10e88c950da7e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +46,12 @@ location:
             lat: 54.354333
             lon: 30.332194
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.3543
+            lon: 30.3322
+        source: gov
 meta:
     fgb:
         post_id: '98660'
@@ -22,3 +63,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98660#98660'
                 version: '17 Oct 2022, Mon, 21:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/906'

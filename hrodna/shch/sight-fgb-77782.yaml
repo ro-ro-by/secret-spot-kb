@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун «Фарноконецкий»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.000975
+    founded_on: 18.01.2008
 images:
     -
         file: d02ab11d3d24cdcf0f18df78b9fd274f.jpg
@@ -23,6 +29,33 @@ images:
                 post_id: '77782'
         meta:
             author: ВалероС
+    -
+        file: gov/8b263c18093bc8eea5a65e800ffec4ae.jpg
+        source:
+            type: gov
+    -
+        file: gov/56e0125c3c4f33137f3d819bad988841.jpg
+        source:
+            type: gov
+    -
+        file: gov/dead8a5af30d27010bec34fef4c95346.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.607896
+            lon: 24.958785
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27866.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27866'
 meta:
     fgb:
         post_id: '77782'
@@ -34,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77782#77782'
                 version: '01 Aug 2022, Mon, 13:11'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/516'
+        -
+            type: oopt
+            oopt:
+                id: '27866'

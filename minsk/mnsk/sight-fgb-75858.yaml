@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Клены Александровского сквера'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.058
+    founded_on: 12.10.2017
 images:
     -
         file: 968b7d28d8356c717ed0777be023a242.jpg
@@ -29,6 +35,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75858'
+    -
+        file: gov/c57875b5e7c29831482e0cbb4483249a.jpg
+        source:
+            type: gov
+    -
+        file: gov/a7085723e69edb3c55d416d2367da8a7.jpg
+        source:
+            type: gov
 tree:
     type: maple
 location:
@@ -38,6 +52,12 @@ location:
             lat: 53.901806
             lon: 27.562861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.901917
+            lon: 27.563222
+        source: gov
 meta:
     fgb:
         post_id: '75858'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75858#75858'
                 version: '08 Nov 2022, Tue, 22:56'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1219'

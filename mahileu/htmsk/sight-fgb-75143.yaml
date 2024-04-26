@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-mahileu
     subregion: subregion-htmsk
+gov:
+    title: 'Два отдельно стоящих дуба'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0006
+    founded_on: 28.09.1994
 images:
     -
         file: 1df11a861afe6121015befa5e7ab2f6a.jpg
@@ -29,6 +35,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75143'
+    -
+        file: gov/29431e67a530aeec90261f4a6170e22f.jpg
+        source:
+            type: gov
+    -
+        file: gov/2f806f61608acdd01c31ae5d643ad97f.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae0e512bcf6232e507bbc932338d2243.jpg
+        source:
+            type: gov
+    -
+        file: gov/559cb6eafdbbf573435875aece7f03f4.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -38,6 +60,12 @@ location:
             lat: 53.286639
             lon: 32.512111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.286639
+            lon: 32.512111
+        source: gov
 meta:
     fgb:
         post_id: '75143'
@@ -49,3 +77,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75143#75143'
                 version: '19 Nov 2022, Sat, 10:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1272'

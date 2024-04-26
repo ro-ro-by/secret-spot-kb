@@ -8,6 +8,12 @@ forest:
     dominated_type: oak
     types:
         - oak
+gov:
+    title: 'Дубрава «Щомыслицкая»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 25.4
+    founded_on: 05.05.2007
 images:
     -
         file: 8055f013b9ab0fc0bcfa2e8fb80d1e17.jpg
@@ -25,6 +31,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75814'
+    -
+        file: gov/26bc10b8d9eaf5a730f3eeb50ab10e8a.jpg
+        source:
+            type: gov
+    -
+        file: gov/25eb82c2ee2317b3c84b6a4dc10b34be.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -41,6 +55,12 @@ location:
             osm:
                 type: way
                 id: 348906014
+    -
+        type: point
+        coordinates:
+            lat: 53.83388
+            lon: 27.47305
+        source: gov
 osm:
     -
         type: way
@@ -56,3 +76,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75814#75814'
                 version: '21 Sep 2022, Wed, 10:50'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/236'

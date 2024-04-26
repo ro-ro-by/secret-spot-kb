@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Вековой вяз'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0284
+    founded_on: 30.10.2020
 images:
     -
         file: 7935b9c958774e2e44eaaad568df46fe.jpg
@@ -13,8 +19,19 @@ images:
             type: fgb
             fgb:
                 post_id: '90052'
+    -
+        file: gov/6da963061ddf95b80a9b5552657cb0a8.jpg
+        source:
+            type: gov
 tree:
     type: elm
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.5242
+            lon: 28.138083
+        source: gov
 meta:
     fgb:
         post_id: '90052'
@@ -26,3 +43,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=90052#90052'
                 version: '03 Sep 2021, Fri, 23:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1163'

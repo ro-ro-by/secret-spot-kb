@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Парк «Ольшево»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 14.8
+    founded_on: 28.10.2008
 location:
     -
         type: point
@@ -11,6 +17,20 @@ location:
             lat: 54.949306
             lon: 26.367861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.949306
+            lon: 26.367861
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27975.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27975'
 meta:
     fgb:
         post_id: '75919'
@@ -22,3 +42,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75919#75919'
                 version: '08 Nov 2022, Tue, 23:31'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1152'
+        -
+            type: oopt
+            oopt:
+                id: '27975'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Сосна Веймутова «Жабинковская»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.3
+    founded_on: 26.04.2007
 images:
     -
         file: dce4d0d5f0c68528f41f1b48c9a9be50.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '74544'
+    -
+        file: gov/7cb9191379a3625c5b17fb10be93f2e2.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -22,6 +32,20 @@ location:
             lat: 52.21278
             lon: 24.05833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.212778
+            lon: 24.058333
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27527.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27527'
 meta:
     fgb:
         post_id: '74544'
@@ -33,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74544#74544'
                 version: '22 Sep 2022, Thu, 20:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/74'
+        -
+            type: oopt
+            oopt:
+                id: '27527'

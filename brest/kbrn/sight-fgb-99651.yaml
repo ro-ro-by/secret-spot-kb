@@ -4,6 +4,28 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-kbrn
+gov:
+    title: 'Парк Полятичи'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.94
+    founded_on: 06.12.2021
+images:
+    -
+        file: gov/9711c56e2a3dfcb562d0493531b4eacd.jpg
+        source:
+            type: gov
+    -
+        file: gov/6489ea749b1338d344b6b99003c9907c.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.22616
+            lon: 24.270898
+        source: gov
 meta:
     fgb:
         post_id: '99651'
@@ -15,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99651#99651'
                 version: '15 Feb 2022, Tue, 23:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/171'

@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Валун «Козий камень»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00106
+    founded_on: 18.01.2008
 images:
     -
         file: 9963caa58080984122cb42a36ff9f0d3.jpg
@@ -25,6 +31,10 @@ images:
                 post_id: '77735'
         meta:
             author: ВалероС
+    -
+        file: gov/b4973ea1ee3a7f17bc0308c5e8c04189.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -32,6 +42,20 @@ location:
             lat: '54.307631'
             lon: '26.199096'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.309141
+            lon: 26.228345
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27912.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27912'
 meta:
     fgb:
         post_id: '77735'
@@ -43,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77735#77735'
                 version: '17 Aug 2022, Wed, 23:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/541'
+        -
+            type: oopt
+            oopt:
+                id: '27912'

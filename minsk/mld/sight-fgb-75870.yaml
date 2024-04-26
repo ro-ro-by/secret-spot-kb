@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mld
+gov:
+    title: 'Лиственница в Лебедевском лесничестве'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.83
+    founded_on: 28.10.2008
 images:
     -
         file: 82febc44f219517bda2ee1d715253ff9.jpg
@@ -14,6 +20,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75870'
+    -
+        file: gov/ae8fbb64093e1302b7fd22a941e6861b.jpg
+        source:
+            type: gov
 tree:
     type: larch
 location:
@@ -23,6 +33,12 @@ location:
             lat: 54.288278
             lon: 26.635556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.287969
+            lon: 26.635314
+        source: gov
 meta:
     fgb:
         post_id: '75870'
@@ -34,3 +50,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75870#75870'
                 version: '09 Nov 2022, Wed, 0:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1186'

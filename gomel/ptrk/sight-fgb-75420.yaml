@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-gomel
     subregion: subregion-ptrk
+gov:
+    title: 'Заказник «Комаровичский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 821.0
+    founded_on: 27.12.2006
 images:
     -
         file: 806899a8ff373c32209c1ee991771c6e.jpg
@@ -13,6 +19,29 @@ images:
             type: fgb
             fgb:
                 post_id: '75420'
+    -
+        file: gov/030f13ada0d8c391752fe41685c11b1e.jpg
+        source:
+            type: gov
+    -
+        file: gov/48646108cc707a61c2769d41d889c57b.jpg
+        source:
+            type: gov
+    -
+        file: gov/4d03a9249cf5ac03a36e0bfbfdd3f975.jpg
+        source:
+            type: gov
+    -
+        file: gov/850648b1b1a45abf6880d0647e4eb43d.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.418029
+            lon: 28.302709
+        source: gov
 meta:
     fgb:
         post_id: '75420'
@@ -24,3 +53,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75420#75420'
                 version: '27 Jan 2021, Wed, 12:29'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/836'

@@ -4,6 +4,15 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vtb
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26280.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26280'
 meta:
     fgb:
         post_id: '76394'
@@ -15,3 +24,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76394#76394'
                 version: '25 Jul 2020, Sat, 11:59'
+        -
+            type: oopt
+            oopt:
+                id: '26280'

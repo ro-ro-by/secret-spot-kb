@@ -1,0 +1,46 @@
+id: sight-gov-830
+title: 'Заказник «Топиловское»'
+type: area
+belongsTo:
+    region: region-gomel
+    subregion: subregion-lel
+gov:
+    title: 'Заказник «Топиловское»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 11322.2
+    founded_on: 28.01.1998
+images:
+    -
+        file: gov/d12499dc0bce4b7f628c62a088b433a1.jpg
+        source:
+            type: gov
+    -
+        file: gov/839a4e4fddd13113f9fea7eb5469ed6f.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.729634
+            lon: 27.797701
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26367.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26367'
+meta:
+    source:
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/830'
+        -
+            type: oopt
+            oopt:
+                id: '26367'

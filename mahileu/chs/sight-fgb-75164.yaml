@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+gov:
+    title: 'Заказник «Королевщина»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 466.0
+    founded_on: 22.02.2006
 images:
     -
         file: e219c1c689eef9da8ca0623636089720.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75164'
+    -
+        file: gov/91e88a528faed7fcd7ae32bb6ddfbe0a.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -31,6 +41,20 @@ location:
             osm:
                 type: relation
                 id: 13412452
+    -
+        type: point
+        coordinates:
+            lat: 53.966524
+            lon: 30.944225
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26861.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26861'
 osm:
     -
         type: relation
@@ -46,3 +70,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75164#75164'
                 version: '18 Oct 2021, Mon, 12:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1364'
+        -
+            type: oopt
+            oopt:
+                id: '26861'

@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+gov:
+    title: 'Гудинишкинская гряда'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 60.0
+    founded_on: 31.10.1997
 images:
     -
         file: fdee8d5fa09deb27320d258aa5e50f4f.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77293'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.954167
+            lon: 24.794444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26538.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26538'
 meta:
     fgb:
         post_id: '77293'
@@ -24,3 +45,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77293#77293'
                 version: '09 Nov 2021, Tue, 12:24'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/627'
+        -
+            type: oopt
+            oopt:
+                id: '26538'

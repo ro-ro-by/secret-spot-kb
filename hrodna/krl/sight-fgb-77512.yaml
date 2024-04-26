@@ -1,9 +1,15 @@
 id: sight-fgb-77512
 title: 'Горно-Рутовские овраги (Горно-Рутовские яры)'
-type: TODO
+type: area
 belongsTo:
     region: region-hrodna
     subregion: subregion-krl
+gov:
+    title: 'Заказник «Горно-Рутковские яры»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 140.0
+    founded_on: 27.08.1997
 images:
     -
         file: 063b1d0c077ec1307e43e9c3df6cfeb2.jpg
@@ -13,6 +19,13 @@ images:
             type: fgb
             fgb:
                 post_id: '77512'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.582108
+            lon: 26.019499
+        source: gov
 meta:
     fgb:
         post_id: '77512'
@@ -24,3 +37,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77512#77512'
                 version: '25 Aug 2021, Wed, 11:20'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/611'

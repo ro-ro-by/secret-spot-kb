@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник «Поддубье»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 315.87
+    founded_on: 16.10.2006
 images:
     -
         file: 911a791b5ced864e995603d4d98dd12e.jpg
@@ -23,6 +29,20 @@ location:
             osm:
                 type: relation
                 id: 11126238
+    -
+        type: point
+        coordinates:
+            lat: 53.650922
+            lon: 29.75956
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26823.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26823'
 osm:
     -
         type: relation
@@ -38,3 +58,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74972#74972'
                 version: '17 Sep 2021, Fri, 12:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1358'
+        -
+            type: oopt
+            oopt:
+                id: '26823'

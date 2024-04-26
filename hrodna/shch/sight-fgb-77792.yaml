@@ -4,6 +4,11 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-shch
+gov:
+    title: 'Валун в д. Микулишкинский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    founded_on: 21.06.1993
 images:
     -
         file: 8f689921126e6fa8ce434eba7c581043.jpg
@@ -31,6 +36,22 @@ images:
                 post_id: '77792'
         meta:
             author: ВалероС
+    -
+        file: gov/84039e1fecb1ffbeb26ac78b67c6fdd0.jpg
+        source:
+            type: gov
+    -
+        file: gov/ff2391e8387d4219c02bd028f918ccb7.jpg
+        source:
+            type: gov
+    -
+        file: gov/398dbf5ba7c01327664c9e84101fd74d.jpg
+        source:
+            type: gov
+    -
+        file: gov/a8a2b7a8b70dfae850bdfbd5aeb11256.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +59,12 @@ location:
             lat: '53.872654'
             lon: '24.572783'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.872654
+            lon: 24.572783
+        source: gov
 meta:
     fgb:
         post_id: '77792'
@@ -49,3 +76,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77792#77792'
                 version: '17 Nov 2022, Thu, 0:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/766'

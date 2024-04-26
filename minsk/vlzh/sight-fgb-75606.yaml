@@ -4,6 +4,12 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Синяя гора'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 71.4
+    founded_on: 19.03.2007
 images:
     -
         file: 1252d169f15cf11d6e9ddfcbea15aef5.jpg
@@ -32,6 +38,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75606'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.19257
+            lon: 26.28456
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27430.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27430'
 meta:
     fgb:
         post_id: '75606'
@@ -43,3 +64,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75606#75606'
                 version: '27 Oct 2021, Wed, 16:03'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/287'
+        -
+            type: oopt
+            oopt:
+                id: '27430'

@@ -4,6 +4,32 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Камень брилевский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0007
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/2d961da845fe200f21761ea964ede4a7.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.911656
+            lon: 26.794275
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27715.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27715'
 meta:
     fgb:
         post_id: '75927'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75927#75927'
                 version: '27 Apr 2021, Tue, 20:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1164'
+        -
+            type: oopt
+            oopt:
+                id: '27715'

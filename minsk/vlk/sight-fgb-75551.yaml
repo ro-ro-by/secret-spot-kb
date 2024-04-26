@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Валун «Большой камень» мишутский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00141
+    founded_on: 19.03.2007
 images:
     -
         file: e7ef45475b5decbb6f390ba8d1b9408d.jpg
@@ -66,6 +72,14 @@ images:
                 post_id: '75551'
         meta:
             author: 'Александр Dehty'
+    -
+        file: gov/b1092f39dbf4cb2d7fe8e94609f787b4.jpg
+        source:
+            type: gov
+    -
+        file: gov/f1e67fb5a77e4b695c0ce5d1146ceb63.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -73,6 +87,12 @@ location:
             lat: '54.538236'
             lon: '26.624110'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.53823
+            lon: 26.62411
+        source: gov
 meta:
     fgb:
         post_id: '75551'
@@ -84,3 +104,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75551#75551'
                 version: '18 May 2022, Wed, 12:45'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/272'

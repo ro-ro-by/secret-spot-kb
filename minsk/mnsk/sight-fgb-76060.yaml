@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Липа Губернаторского сада'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.3
+    founded_on: 12.10.2017
 images:
     -
         file: f9a8122d9b8268a4e6458348739283a4.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76060'
+    -
+        file: gov/eb12422cfd87823871f659cbff83c465.jpg
+        source:
+            type: gov
 tree:
     type: tilia
 location:
@@ -30,6 +40,12 @@ location:
             lat: 53.904194
             lon: 27.573111
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.904194
+            lon: 27.573111
+        source: gov
 meta:
     fgb:
         post_id: '76060'
@@ -41,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76060#76060'
                 version: '08 Nov 2022, Tue, 22:58'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1220'

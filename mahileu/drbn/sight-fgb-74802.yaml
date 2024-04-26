@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-drbn
+gov:
+    title: 'Заказник «Голомукское»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 153.0
+    founded_on: 27.02.2004
 images:
     -
         file: ed8c4767d3edaf9aaced5d557b1aeb12.jpg
@@ -13,6 +19,33 @@ images:
             type: fgb
             fgb:
                 post_id: '74802'
+    -
+        file: gov/0429e516ac9f55f691ba55b50ba37b43.jpg
+        source:
+            type: gov
+    -
+        file: gov/e4455ef593ee3e3b3c1c4aa3c304fe60.jpg
+        source:
+            type: gov
+    -
+        file: gov/acc07c24d8d4bf8aa45fdeb1c6872269.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.050073
+            lon: 31.058796
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26804.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26804'
 meta:
     fgb:
         post_id: '74802'
@@ -24,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74802#74802'
                 version: '16 Oct 2021, Sat, 13:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1313'
+        -
+            type: oopt
+            oopt:
+                id: '26804'

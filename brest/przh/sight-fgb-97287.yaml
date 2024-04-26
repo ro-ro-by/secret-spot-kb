@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Парк "Близная"'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.35
+    founded_on: 13.11.2018
 images:
     -
         file: a797bee724ea5ca8b8b27f343f9fb444.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '97287'
+    -
+        file: gov/abd9c556450f09eb4cd3f02d2e40fd0a.jpg
+        source:
+            type: gov
+    -
+        file: gov/7a5e99a93c57c086b008f25c35d8a17a.jpg
+        source:
+            type: gov
+    -
+        file: gov/6a80995d35a859f9e491382df023566e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,12 @@ location:
             lat: 52.943944
             lon: 24.9395
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.943944
+            lon: 24.9395
+        source: gov
 meta:
     fgb:
         post_id: '97287'
@@ -31,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97287#97287'
                 version: '22 Sep 2022, Thu, 23:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/206'

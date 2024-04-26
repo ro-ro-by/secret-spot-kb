@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-iue
+gov:
+    title: 'Родник «Ивьевский»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 0.04
+    founded_on: 31.07.2006
 images:
     -
         file: 488710e818a034589b17d93cc7090f24.jpg
@@ -24,6 +30,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77486'
+    -
+        file: gov/7cb39f0c41566de594c6e20afde24451.jpg
+        source:
+            type: gov
+    -
+        file: gov/9ef9f0184ba9ee81b6f3e4c3d278d984.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -31,6 +45,12 @@ location:
             lat: '53.93159'
             lon: '25.77671'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.93159
+            lon: 25.77671
+        source: gov
 meta:
     fgb:
         post_id: '77486'
@@ -42,3 +62,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77486#77486'
                 version: '27 Jul 2020, Mon, 23:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/519'

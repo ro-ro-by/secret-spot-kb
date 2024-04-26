@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-slg
+gov:
+    title: 'Заказник «Красное озеро»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 141.73
+    founded_on: 27.07.2006
 images:
     -
         file: 4079a49089d15bd9d90b73a227fde48b.jpg
@@ -13,6 +19,49 @@ images:
             type: fgb
             fgb:
                 post_id: '76004'
+    -
+        file: gov/ce7fec42e30bad0441f7fece02ed8468.jpg
+        source:
+            type: gov
+    -
+        file: gov/acda44cf14b6be2af594c0a83718fe2c.jpg
+        source:
+            type: gov
+    -
+        file: gov/f6e324ad0ca58fe7169da72bdfb6c0dd.jpg
+        source:
+            type: gov
+    -
+        file: gov/5ca57a435c5cd886ca45194d6061583f.jpg
+        source:
+            type: gov
+    -
+        file: gov/bd1fa92312403316e08df9e122ca7c82.jpg
+        source:
+            type: gov
+    -
+        file: gov/8034894dd23952d17e3d5bcd2ebc01d8.jpg
+        source:
+            type: gov
+    -
+        file: gov/f0b302b3732df1f7df6a3bd1fa1bbd72.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.462202
+            lon: 27.874285
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26670.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26670'
 meta:
     fgb:
         post_id: '76004'
@@ -24,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76004#76004'
                 version: '10 Sep 2021, Fri, 15:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1235'
+        -
+            type: oopt
+            oopt:
+                id: '26670'

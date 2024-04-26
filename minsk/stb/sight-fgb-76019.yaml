@@ -6,6 +6,25 @@ belongsTo:
     subregion: subregion-stb
 forest:
     dominated_type: tilia
+gov:
+    title: 'Липы мелколистные «Миколаевщинские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.034
+    founded_on: 26.04.2007
+images:
+    -
+        file: gov/292f8e73fd11b0379df113631ff152fc.jpg
+        source:
+            type: gov
+    -
+        file: gov/354a35b864ae21b7fa9ac334218bced8.jpg
+        source:
+            type: gov
+    -
+        file: gov/edecdd05679c7393d0253f87adfb8c26.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -13,6 +32,20 @@ location:
             lat: 53.419167
             lon: 26.819556
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.42234
+            lon: 26.8192
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27676.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27676'
 meta:
     fgb:
         post_id: '76019'
@@ -24,3 +57,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76019#76019'
                 version: '09 Nov 2022, Wed, 0:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/250'
+        -
+            type: oopt
+            oopt:
+                id: '27676'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-ivnv
 forest:
     dominated_type: pine
+gov:
+    title: 'Дружиловичский бор'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.4
+    founded_on: 10.09.2021
 images:
     -
         file: b0a1b549fef7b7c8bbd44b3bfc1e449f.jpg
@@ -31,6 +37,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74548'
+    -
+        file: gov/567aebd9b675c1e3f3521699377dc645.jpg
+        source:
+            type: gov
+    -
+        file: gov/6de095221e615ea5deb95b4fb631d7da.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -38,6 +52,12 @@ location:
             lat: 52.234444
             lon: 25.573611
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.234444
+            lon: 25.573611
+        source: gov
 meta:
     fgb:
         post_id: '74548'
@@ -49,3 +69,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74548#74548'
                 version: '12 Nov 2022, Sat, 23:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/139'

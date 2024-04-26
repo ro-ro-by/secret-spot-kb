@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+gov:
+    title: 'Старинный парк'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 5.2
+    founded_on: 12.12.2005
 images:
     -
         file: ecc74a0dac170a31219940298beb9ddf.jpg
@@ -13,6 +19,22 @@ images:
             type: fgb
             fgb:
                 post_id: '75437'
+    -
+        file: gov/b1dc4c3858260cabbff8d72fe5b010bd.jpg
+        source:
+            type: gov
+    -
+        file: gov/234b05f901e756bc1e1503733fe8b5a8.jpg
+        source:
+            type: gov
+    -
+        file: gov/3db365875c9aac3167f8ab609772fa20.jpg
+        source:
+            type: gov
+    -
+        file: gov/34248e209b14559601cd9e645fc93be0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +42,20 @@ location:
             lat: 53.17794
             lon: 30.25164
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.173441
+            lon: 30.254703
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26466.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26466'
 meta:
     fgb:
         post_id: '75437'
@@ -31,3 +67,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75437#75437'
                 version: '03 Nov 2022, Thu, 14:43'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/801'
+        -
+            type: oopt
+            oopt:
+                id: '26466'

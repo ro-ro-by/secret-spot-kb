@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Бородовщинский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00066
+    founded_on: 16.02.1995
 images:
     -
         file: 81d26587b4c90de36ebc701c59c710ca.jpg
@@ -41,6 +47,18 @@ images:
                 post_id: '77654'
         meta:
             author: ВалероС
+    -
+        file: gov/21c5678089640ff2f891a17fbc12e767.jpg
+        source:
+            type: gov
+    -
+        file: gov/80c26ea4906f048ce29ca3b4a3c37a0b.jpg
+        source:
+            type: gov
+    -
+        file: gov/2ef81cd7926121cd5f2bfbad743bc83e.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -48,6 +66,12 @@ location:
             lat: '54.253720'
             lon: '26.133616'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.25372
+            lon: 26.133616
+        source: gov
 meta:
     fgb:
         post_id: '77654'
@@ -59,3 +83,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77654#77654'
                 version: '23 Aug 2022, Tue, 9:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/730'

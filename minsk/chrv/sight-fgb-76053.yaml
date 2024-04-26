@@ -4,6 +4,15 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-chrv
+location:
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27974.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27974'
 meta:
     fgb:
         post_id: '76053'
@@ -15,3 +24,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76053#76053'
                 version: '27 Sep 2021, Mon, 20:28'
+        -
+            type: oopt
+            oopt:
+                id: '27974'

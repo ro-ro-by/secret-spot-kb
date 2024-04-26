@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Лесопарк «Альба»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 409.0
+    founded_on: 08.05.2007
 images:
     -
         file: 65eafce309c365e7b2d3cc4275dbadc9.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75957'
+    -
+        file: gov/05d98b6c079f7e1b54f0e537973ecc1d.jpg
+        source:
+            type: gov
+    -
+        file: gov/8f948d8d9a4c1c5b54d3c7f1e77f5064.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,20 @@ location:
             lat: 53.197611
             lon: 26.645833
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.19761
+            lon: 26.64583
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26975.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26975'
 meta:
     fgb:
         post_id: '75957'
@@ -31,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75957#75957'
                 version: '08 Nov 2022, Tue, 23:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/247'
+        -
+            type: oopt
+            oopt:
+                id: '26975'

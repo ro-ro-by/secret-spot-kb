@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-astrv
+gov:
+    title: 'Разрез «Комаришки»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.055
+    founded_on: 31.07.2006
 images:
     -
         file: d47c48c3b153a9ae538a148de113633f.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '97340'
         meta:
             author: 'Антон Комаров'
+    -
+        file: gov/25fbfb412651149bf9f445789ba70a0d.jpg
+        source:
+            type: gov
+    -
+        file: gov/9c28a72d483959f2f8eddb7d1f89a644.jpg
+        source:
+            type: gov
+    -
+        file: gov/c54774aaee20dd4ea4d7959767e5f55b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,12 @@ location:
             lat: '54.86278'
             lon: '26.32639'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.857246
+            lon: 26.322329
+        source: gov
 meta:
     fgb:
         post_id: '97340'
@@ -33,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97340#97340'
                 version: '04 Nov 2021, Thu, 14:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/520'

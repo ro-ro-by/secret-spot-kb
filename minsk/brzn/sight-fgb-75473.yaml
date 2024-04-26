@@ -4,6 +4,17 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+gov:
+    title: 'Заказник «Святое озеро»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 118.24
+    founded_on: 13.01.2009
+images:
+    -
+        file: gov/feaf3e8c819c384767fe4c80995a3647.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +22,20 @@ location:
             lat: '53.79665'
             lon: '29.08896'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.711932
+            lon: 27.595642
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26674.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26674'
 meta:
     fgb:
         post_id: '75473'
@@ -22,3 +47,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75473#75473'
                 version: '17 Feb 2020, Mon, 14:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1074'
+        -
+            type: oopt
+            oopt:
+                id: '26674'

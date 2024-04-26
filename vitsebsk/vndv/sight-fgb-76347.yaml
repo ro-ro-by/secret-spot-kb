@@ -4,6 +4,21 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+gov:
+    title: 'Городской парк города Верхнедвинска'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 14.2
+    founded_on: 10.06.2011
+images:
+    -
+        file: gov/2db9bab807b1b22ddf170ed565cb44e1.jpg
+        source:
+            type: gov
+    -
+        file: gov/c325578f93acb947a4c7833db70ae72d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -11,6 +26,20 @@ location:
             lat: 55.763361
             lon: 27.925444
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.755258
+            lon: 27.932249
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27485.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27485'
 meta:
     fgb:
         post_id: '76347'
@@ -22,3 +51,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76347#76347'
                 version: '23 Sep 2022, Fri, 0:05'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/940'
+        -
+            type: oopt
+            oopt:
+                id: '27485'

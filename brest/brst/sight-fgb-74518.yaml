@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Заказник "Бугский"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 3285.06
+    founded_on: 20.12.1999
 images:
     -
         file: 7193a38f4f4f83b421cb06e69a65aa98.jpg
@@ -13,6 +19,33 @@ images:
             type: fgb
             fgb:
                 post_id: '74518'
+    -
+        file: gov/66f0dfd93a9dd6a8c351b08aa87f4c84.jpg
+        source:
+            type: gov
+    -
+        file: gov/57acf27c7ebdd6e0cef5ce9e8e4c2157.jpg
+        source:
+            type: gov
+    -
+        file: gov/22108dc506ac65a7efc24a612476fce2.jpg
+        source:
+            type: gov
+    -
+        file: gov/39189176d9ded2c3ee67f8e65bc29ca1.jpg
+        source:
+            type: gov
+    -
+        file: gov/2312d8aa02bda2a36dcf1ae831f1f856.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.19008
+            lon: 23.482581
+        source: gov
 meta:
     fgb:
         post_id: '74518'
@@ -24,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74518#74518'
                 version: '20 Jun 2020, Sat, 0:30'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/454'

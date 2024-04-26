@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-ivnv
+gov:
+    title: 'Заказник "Завишье"'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1323.7
+    founded_on: 26.12.1995
 images:
     -
         file: 36164ddbab4b61e2bf96e784c80a98b3.jpg
@@ -13,6 +19,41 @@ images:
             type: fgb
             fgb:
                 post_id: '74549'
+    -
+        file: gov/b723a40b9ad73fb673429225668b3857.jpg
+        source:
+            type: gov
+    -
+        file: gov/9d666d57b12302d6ba52f15e14290bdc.jpg
+        source:
+            type: gov
+    -
+        file: gov/645ca7cb7d31754eee83818ba83a8c56.jpg
+        source:
+            type: gov
+    -
+        file: gov/aef0379c28435e27d6fd355291824623.jpg
+        source:
+            type: gov
+    -
+        file: gov/8d39616012bdae72a5e10dbb7a499a27.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.93487
+            lon: 25.656098
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26223.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26223'
 meta:
     fgb:
         post_id: '74549'
@@ -24,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74549#74549'
                 version: '24 Aug 2020, Mon, 23:44'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/474'
+        -
+            type: oopt
+            oopt:
+                id: '26223'

@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-kpl
+gov:
+    title: 'Клены ложноплатановые «Бобовнянские»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.048
+    founded_on: 26.04.2007
 images:
     -
         file: 4555fd7d1b5a5b962dac89d0f6073c8b.jpg
@@ -29,6 +35,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75644'
+    -
+        file: gov/02b42f7dc9b4f422b2a61cf6431a05c3.jpg
+        source:
+            type: gov
+    -
+        file: gov/afadd638b0301d3d611bb1de908736ea.jpg
+        source:
+            type: gov
 tree:
     type: maple
 location:
@@ -38,6 +52,20 @@ location:
             lat: 53.258944
             lon: 26.948806
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.25898
+            lon: 26.94934
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27698.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27698'
 meta:
     fgb:
         post_id: '75644'
@@ -49,3 +77,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75644#75644'
                 version: '08 Nov 2022, Tue, 22:28'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/239'
+        -
+            type: oopt
+            oopt:
+                id: '27698'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-phv
+gov:
+    title: 'Заказник «Ветеревичский»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 1574.61
+    founded_on: 24.12.1997
 images:
     -
         file: 046027a7847bd2957f2104a804ccf4ec.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '98640'
+    -
+        file: gov/c5e623e475d10ce72379251be98d045b.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +33,20 @@ location:
             osm:
                 type: relation
                 id: 13236309
+    -
+        type: point
+        coordinates:
+            lat: 53.385256
+            lon: 27.688153
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26657.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26657'
 osm:
     -
         type: relation
@@ -38,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98640#98640'
                 version: '08 Sep 2021, Wed, 8:14'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1076'
+        -
+            type: oopt
+            oopt:
+                id: '26657'

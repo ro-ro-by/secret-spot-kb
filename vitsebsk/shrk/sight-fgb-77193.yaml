@@ -4,6 +4,40 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shrk
+gov:
+    title: 'Большой камень Жукиложновский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00114
+    founded_on: 06.12.2011
+images:
+    -
+        file: gov/7bf16b88c5b2cc66801c5fe043796b30.jpg
+        source:
+            type: gov
+    -
+        file: gov/d6c01ebdd5c2ea4f1859a4fb647aa4ef.jpg
+        source:
+            type: gov
+    -
+        file: gov/9c5047377d6b6093ac13755f48f0ed7e.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.4
+            lon: 27.708333
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27836.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27836'
 meta:
     fgb:
         post_id: '77193'
@@ -15,3 +49,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77193#77193'
                 version: '08 May 2021, Sat, 12:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/917'
+        -
+            type: oopt
+            oopt:
+                id: '27836'

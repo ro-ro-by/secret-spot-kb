@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+gov:
+    title: 'Валуны «Камни Волосо»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0007
+    founded_on: 19.03.2007
 images:
     -
         file: b521ac9aabe002e71d0a2e676e032904.jpg
@@ -39,6 +45,25 @@ images:
             type: fgb
             fgb:
                 post_id: '76164'
+    -
+        file: gov/7543ba0d3a67b3b97b9cb8b8d65deeb5.png
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.762403
+            lon: 27.120964
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27809.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27809'
 meta:
     fgb:
         post_id: '76164'
@@ -50,3 +75,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76164#76164'
                 version: '14 May 2022, Sat, 14:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/412'
+        -
+            type: oopt
+            oopt:
+                id: '27809'

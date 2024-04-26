@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+gov:
+    title: 'Осина (тополь дрожащий)'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0002
+    founded_on: 03.12.2012
 images:
     -
         file: ab8c8ee41876a866babe841368b249aa.jpg
@@ -23,6 +29,10 @@ images:
             type: fgb
             fgb:
                 post_id: '77213'
+    -
+        file: gov/00a208084009960d3f6daecf315e30a6.jpg
+        source:
+            type: gov
 tree:
     type: aspen
 location:
@@ -32,6 +42,12 @@ location:
             lat: 55.523972
             lon: 29.567861
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.523972
+            lon: 29.567861
+        source: gov
 meta:
     fgb:
         post_id: '77213'
@@ -43,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77213#77213'
                 version: '17 Oct 2022, Mon, 21:42'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/967'

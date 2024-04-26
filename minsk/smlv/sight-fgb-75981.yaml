@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Парк «Шипяны»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.51
+    founded_on: 08.12.2008
 images:
     -
         file: 1dbfe94c43fa732c4c9d7e2c452b6847.jpg
@@ -13,6 +19,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75981'
+    -
+        file: gov/0cf0853acdf94bd1a2c9aa3e70229aeb.jpg
+        source:
+            type: gov
+    -
+        file: gov/74a5e79520ed1ad2c1066156745384f0.jpg
+        source:
+            type: gov
+    -
+        file: gov/3d012f6c8b6b09745ff25017e2ae256d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +38,12 @@ location:
             lat: 53.961306
             lon: 28.290306
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.961306
+            lon: 28.290306
+        source: gov
 meta:
     fgb:
         post_id: '75981'
@@ -31,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75981#75981'
                 version: '21 Sep 2022, Wed, 10:53'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1167'

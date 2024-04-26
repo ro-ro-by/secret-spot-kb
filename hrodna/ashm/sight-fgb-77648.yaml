@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-ashm
+gov:
+    title: 'Петровичский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00042
+    founded_on: 16.02.1995
 images:
     -
         file: 3b4a979250f7c47b1cac0162c5dac4cb.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77648'
         meta:
             author: ВалероС
+    -
+        file: gov/5699e169f145f63cd8caa058529c7a88.jpg
+        source:
+            type: gov
+    -
+        file: gov/927c2535e93a1afa92b4729f511d1bae.jpg
+        source:
+            type: gov
+    -
+        file: gov/89917a3d80e57e92a17438f7992ac85d.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.255703'
             lon: '26.162541'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.255703
+            lon: 26.162541
+        source: gov
 meta:
     fgb:
         post_id: '77648'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77648#77648'
                 version: '22 Nov 2021, Mon, 23:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/744'

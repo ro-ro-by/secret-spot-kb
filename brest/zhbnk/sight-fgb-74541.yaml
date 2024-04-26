@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-zhbnk
+gov:
+    title: 'Парк «Малые Сехновичи»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 1.74
+    founded_on: 16.03.1995
 images:
     -
         file: 6764418a686689086afa6683293f1047.jpg
@@ -21,6 +27,26 @@ images:
             type: fgb
             fgb:
                 post_id: '74541'
+    -
+        file: gov/e6d1dbb7566256d620a928ff2cde64ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/18fa5d33a9e6e9401ae0731d67b5844e.jpg
+        source:
+            type: gov
+    -
+        file: gov/03c632f055f72580d90032ec1d45e5aa.jpg
+        source:
+            type: gov
+    -
+        file: gov/f267e4cf875acae296dc672ab3baec5a.jpg
+        source:
+            type: gov
+    -
+        file: gov/b93328f7226069512a96c6c9d1a6d8b0.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +54,20 @@ location:
             lat: 52.234444
             lon: 24.006944
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.234444
+            lon: 24.006944
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26256.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26256'
 meta:
     fgb:
         post_id: '74541'
@@ -39,3 +79,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74541#74541'
                 version: '22 Sep 2022, Thu, 20:54'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/135'
+        -
+            type: oopt
+            oopt:
+                id: '26256'

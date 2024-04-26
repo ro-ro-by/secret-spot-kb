@@ -4,6 +4,21 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-stln
+gov:
+    title: 'Дубенецкий дуб'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.0382
+    founded_on: 31.05.2021
+images:
+    -
+        file: gov/b705ab128692631c2ae9ecdea5397a89.jpg
+        source:
+            type: gov
+    -
+        file: gov/36545bdce25f0c6ebf2a248d7a6422c1.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -13,6 +28,12 @@ location:
             lat: 52.03548
             lon: 26.97063
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.035478
+            lon: 26.970633
+        source: gov
 meta:
     fgb:
         post_id: '99069'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99069#99069'
                 version: '25 Oct 2021, Mon, 21:18'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/212'

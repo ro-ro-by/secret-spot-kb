@@ -4,6 +4,12 @@ type: esker
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гряда «Лукинская»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 20.0
+    founded_on: 18.03.2008
 images:
     -
         file: 7f499b4ebb015f29c233f316e1a21c4c.jpg
@@ -30,6 +36,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75913'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.92205
+            lon: 26.85826
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26968.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26968'
 meta:
     fgb:
         post_id: '75913'
@@ -41,3 +62,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75913#75913'
                 version: '27 Apr 2021, Tue, 19:10'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/310'
+        -
+            type: oopt
+            oopt:
+                id: '26968'

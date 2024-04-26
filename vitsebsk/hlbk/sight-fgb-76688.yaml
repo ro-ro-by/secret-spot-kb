@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун “Габрусев камень”'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00187
+    founded_on: 18.03.2008
 images:
     -
         file: e883f0721e7c6b621a30955357e9a145.jpg
@@ -22,6 +28,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76688'
+    -
+        file: gov/4becf18bfc85d7cc89b2406e00a2833f.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -29,6 +39,12 @@ location:
             lat: 55.7668
             lon: 28.78513
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.156091
+            lon: 27.620123
+        source: gov
 meta:
     fgb:
         post_id: '76688'
@@ -40,3 +56,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76688#76688'
                 version: '22 Jan 2021, Fri, 22:20'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/223'

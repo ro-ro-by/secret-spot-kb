@@ -4,6 +4,12 @@ type: tree
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+gov:
+    title: 'Дуб черешчатый'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.007
+    founded_on: 16.12.1999
 images:
     -
         file: 52b9fb5f8ab7c5d523123a5a595c09b8.jpg
@@ -15,6 +21,14 @@ images:
                 post_id: '74507'
         meta:
             author: 'Денис Тищук'
+    -
+        file: gov/c28c3b31f96dd1eab50b7ca8f12671a4.jpg
+        source:
+            type: gov
+    -
+        file: gov/b778741d8d91e98c758531c2ec800451.jpg
+        source:
+            type: gov
 tree:
     type: oak
 location:
@@ -24,6 +38,12 @@ location:
             lat: 52.093389
             lon: 23.682417
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.093389
+            lon: 23.722417
+        source: gov
 meta:
     fgb:
         post_id: '74507'
@@ -35,3 +55,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74507#74507'
                 version: '22 Sep 2022, Thu, 20:07'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/109'

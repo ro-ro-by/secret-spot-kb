@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+gov:
+    title: 'Национальный парк «Беловежская пуща»'
+    type: gov_type-national_park
+    status: gov_status-country
+    area_size: 150083.0
+    founded_on: 27.09.2004
 images:
     -
         file: b7d6272b6e1554bc6af8c4950c279c04.jpg
@@ -16,6 +22,50 @@ images:
                     - '74590'
                     - '95475'
                     - '95476'
+    -
+        file: gov/4333780441ac238bdea3fea06249289b.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae616bbfdcdcbd7231728b4d47d058ca.jpg
+        source:
+            type: gov
+    -
+        file: gov/9bdee274c7779b9d88d3a1e0ed10afac.jpg
+        source:
+            type: gov
+    -
+        file: gov/a4205f1bb4c0b469e8b05d5bac20de83.jpg
+        source:
+            type: gov
+    -
+        file: gov/cd15bdb3cc1313fc6d231026e84c6e6a.jpg
+        source:
+            type: gov
+    -
+        file: gov/ffec36b058ecc3e8b0030d9d6aff73ff.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d90d5d5baf9a2ac8a833cf07596e6bc.jpg
+        source:
+            type: gov
+    -
+        file: gov/b18518e1c9d074ccccc7cc1ffec2b955.jpg
+        source:
+            type: gov
+    -
+        file: gov/4f8c237e8f21204cdc5b40d06672f1d3.jpg
+        source:
+            type: gov
+    -
+        file: gov/cec7a519fc51be8dbc683a86c3b99df0.jpg
+        source:
+            type: gov
+    -
+        file: gov/70effde0353dd0aa02978375c7ea4fbc.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -26,6 +76,20 @@ location:
             osm:
                 type: relation
                 id: 4096466
+    -
+        type: point
+        coordinates:
+            lat: 52.569523
+            lon: 23.802953
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26118.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26118'
 osm:
     -
         type: relation
@@ -54,3 +118,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95476#95476'
                 version: '05 Mar 2020, Thu, 14:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/62'
+        -
+            type: oopt
+            oopt:
+                id: '26118'

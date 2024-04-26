@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-vlzh
+gov:
+    title: 'Валун «Большой камень» навиновский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00175
+    founded_on: 19.03.2007
 images:
     -
         file: 636bbed2a8d4388f8bddb58baf789543.jpg
@@ -43,6 +49,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75600'
+    -
+        file: gov/d451d4ca679a66dab0213ec44f2fa10f.jpg
+        source:
+            type: gov
+    -
+        file: gov/4679af1ed242ec817f4aa1e0c43bbd7b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -50,6 +64,12 @@ location:
             lat: '54.080990'
             lon: '27.053432'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.08099
+            lon: 27.05343
+        source: gov
 meta:
     fgb:
         post_id: '75600'
@@ -61,3 +81,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75600#75600'
                 version: '27 Oct 2021, Wed, 22:36'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/283'

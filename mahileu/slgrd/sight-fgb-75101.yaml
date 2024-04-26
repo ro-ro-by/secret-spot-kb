@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+gov:
+    title: '«Голубая криница»'
+    type: gov_type-monument_hydrological
+    status: gov_status-country
+    area_size: 0.0314
+    founded_on: 31.07.2006
 images:
     -
         file: 8ecc2942d4a93d1f1df185429a5e89c0.jpg
@@ -21,6 +27,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75101'
+    -
+        file: gov/396cbb283f8141c6ba1f19f1b4f3e958.jpg
+        source:
+            type: gov
+    -
+        file: gov/99c39d04448cd105d53a170e19fdc745.jpg
+        source:
+            type: gov
+    -
+        file: gov/5bccf0329643f7887922754e3ac4cd46.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +46,20 @@ location:
             lat: '53.37941'
             lon: '31.04446'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.379342
+            lon: 31.04444
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27956.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27956'
 meta:
     fgb:
         post_id: '75101'
@@ -39,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75101#75101'
                 version: '06 Dec 2022, Tue, 20:26'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/464'
+        -
+            type: oopt
+            oopt:
+                id: '27956'

@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+gov:
+    title: 'Парк "Соломинка" в населенном пункте Добригоры'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 9.22
+    founded_on: 20.07.2005
 images:
     -
         file: 7f1a86cb76a2b7a91913917b7e40830c.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '76134'
+    -
+        file: gov/edf491e08c7a8e4c6bbbbf97fff8ef7b.jpg
+        source:
+            type: gov
+    -
+        file: gov/8d88b9208e6e7a5cb7749ae3e46954df.jpg
+        source:
+            type: gov
+    -
+        file: gov/bd47c768806717a800c436e822d4e306.jpg
+        source:
+            type: gov
+    -
+        file: gov/42e0da3c62142256b4b3bc242e447c0e.jpg
+        source:
+            type: gov
+    -
+        file: gov/214051ad434665f0ccad68f8d9a492d3.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +46,20 @@ location:
             lat: 54.98075
             lon: 29.5245
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.980753
+            lon: 29.524508
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26301.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26301'
 meta:
     fgb:
         post_id: '76134'
@@ -31,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76134#76134'
                 version: '23 Sep 2022, Fri, 0:01'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/928'
+        -
+            type: oopt
+            oopt:
+                id: '26301'

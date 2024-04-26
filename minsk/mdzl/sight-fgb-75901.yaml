@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Валун «Большой камень» красницкий'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0012
+    founded_on: 18.03.2008
 images:
     -
         file: 5c10a43c4ac0016d69139d5db98fa229.jpg
@@ -47,6 +53,20 @@ location:
             lat: '54.853418'
             lon: '26.452720'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.8534
+            lon: 26.45276
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27730.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27730'
 meta:
     fgb:
         post_id: '75901'
@@ -58,3 +78,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75901#75901'
                 version: '27 Apr 2021, Tue, 20:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/300'
+        -
+            type: oopt
+            oopt:
+                id: '27730'

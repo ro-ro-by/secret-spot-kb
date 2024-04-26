@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+gov:
+    title: 'Парк города Пружаны'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 13.77
+    founded_on: 15.08.1977
 images:
     -
         file: 2554f406e8e647f30aa151dc4aa963b8.jpg
@@ -13,6 +19,26 @@ images:
             type: fgb
             fgb:
                 post_id: '74670'
+    -
+        file: gov/acfeed20b0ce495a9b6512b27c41a06c.jpg
+        source:
+            type: gov
+    -
+        file: gov/09e8e0953e1d4afd2e46176a4743db52.jpg
+        source:
+            type: gov
+    -
+        file: gov/40e3c49b38ed2621fdfb6ffdcb3f43a5.jpg
+        source:
+            type: gov
+    -
+        file: gov/ba4f5540d2da4eedc6e4d30e1ec1f67e.jpg
+        source:
+            type: gov
+    -
+        file: gov/96733fe3fc999cb8a9a61a6b8115b911.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +46,20 @@ location:
             lat: 52.565333
             lon: 24.457472
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.565333
+            lon: 24.457472
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26269.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26269'
 meta:
     fgb:
         post_id: '74670'
@@ -31,3 +71,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74670#74670'
                 version: '22 Sep 2022, Thu, 23:23'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/200'
+        -
+            type: oopt
+            oopt:
+                id: '26269'

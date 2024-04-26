@@ -4,6 +4,32 @@ type: hill
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+gov:
+    title: 'Гора «Пустовины»'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 33.51
+    founded_on: 28.10.2008
+images:
+    -
+        file: gov/778dd2e04439d98ce454c08b81f019fd.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93186
+            lon: 27.296934
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26765.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26765'
 meta:
     fgb:
         post_id: '75930'
@@ -15,3 +41,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75930#75930'
                 version: '27 Apr 2021, Tue, 20:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1173'
+        -
+            type: oopt
+            oopt:
+                id: '26765'

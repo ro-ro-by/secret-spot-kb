@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Мартишкинский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0005
+    founded_on: 23.03.1995
 images:
     -
         file: c083e8550a9bb36cdb23508b1a67f8e5.jpg
@@ -21,6 +27,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77755'
+    -
+        file: gov/07624fbd62fa4ff97775a18b09d292cc.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d9a977151b59a4e182046e94ad8404d.jpg
+        source:
+            type: gov
+    -
+        file: gov/e47d48602c3a98bd13414b5de7eb257b.jpg
+        source:
+            type: gov
+    -
+        file: gov/bcd6d0e89a203d950b64227c4e6d906a.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +50,12 @@ location:
             lat: '54.546992'
             lon: '26.518381'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.546992
+            lon: 26.518381
+        source: gov
 meta:
     fgb:
         post_id: '77755'
@@ -39,3 +67,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77755#77755'
                 version: '25 Nov 2021, Thu, 15:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/676'

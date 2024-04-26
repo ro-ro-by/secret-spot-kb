@@ -1,9 +1,15 @@
 id: sight-fgb-97451
 title: 'Вековые деревья Речицкого лесхоза (Группа деревьев)'
-type: TODO
+type: tree
 belongsTo:
     region: region-gomel
     subregion: subregion-rchc
+gov:
+    title: 'Вековые деревья Речицкого лесхоза'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 0.63
+    founded_on: 21.06.2021
 images:
     -
         file: 96d6a55a09754b875e8fc51e21c28c3f.jpg
@@ -21,6 +27,14 @@ images:
             type: fgb
             fgb:
                 post_id: '97451'
+    -
+        file: gov/954ef92cd9f15367cdf196964ae3ff98.jpg
+        source:
+            type: gov
+    -
+        file: gov/e41c1daee868befa46f3787aacd38161.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +42,12 @@ location:
             lat: 52.37894
             lon: 30.32292
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.378944
+            lon: 30.322917
+        source: gov
 meta:
     fgb:
         post_id: '97451'
@@ -39,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97451#97451'
                 version: '08 Dec 2022, Thu, 13:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/4119'

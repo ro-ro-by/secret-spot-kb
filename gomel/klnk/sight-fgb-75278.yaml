@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-gomel
     subregion: subregion-klnk
+gov:
+    title: 'Уникальные участки леса «Насаждения дуба, ясеня»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 14.2
+    founded_on: 03.09.2004
 images:
     -
         file: 65a97ca48bb78c18497c711201afa625.jpg
@@ -21,6 +27,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75278'
+    -
+        file: gov/901120c8478c3b8bde4ec03ddda938ec.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +38,20 @@ location:
             lat: 52.22886
             lon: 29.14431
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.228881
+            lon: 29.144292
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26945.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26945'
 meta:
     fgb:
         post_id: '75278'
@@ -39,3 +63,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75278#75278'
                 version: '03 Nov 2022, Thu, 12:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/728'
+        -
+            type: oopt
+            oopt:
+                id: '26945'

@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-lel
 forest:
     dominated_type: oak
+gov:
+    title: 'Уникальные участки леса (дубравы) Урочище Ямы'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 6.84
+    founded_on: 04.11.2008
 images:
     -
         file: 3187198698cd043efdb9d3aad73a4f96.jpg
@@ -23,6 +29,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75293'
+    -
+        file: gov/78b95de2aea84f51dfb73e1ca85b3cbb.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +40,20 @@ location:
             lat: 51.72533
             lon: 28.17319
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 51.725333
+            lon: 28.173194
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27001.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27001'
 meta:
     fgb:
         post_id: '75293'
@@ -41,3 +65,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75293#75293'
                 version: '03 Nov 2022, Thu, 13:09'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/741'
+        -
+            type: oopt
+            oopt:
+                id: '27001'

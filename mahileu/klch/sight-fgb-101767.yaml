@@ -4,6 +4,12 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Криница «Альховская»'
+    type: gov_type-monument_hydrological
+    status: gov_status-local
+    area_size: 0.008
+    founded_on: 16.10.2006
 images:
     -
         file: 00249208aec301dde6f90db9804811da.jpg
@@ -15,6 +21,18 @@ images:
                 post_id: '101767'
         meta:
             author: 'Александр6 Гапеенко'
+    -
+        file: gov/9d559b43cfe145523bd3e4584e2ade12.jpg
+        source:
+            type: gov
+    -
+        file: gov/d4565fbdaa300985653457721fe63c87.jpg
+        source:
+            type: gov
+    -
+        file: gov/f9e2845c1b10530e87872b940fde7bd7.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +40,12 @@ location:
             lat: '53.58285'
             lon: '29.44173'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.58405
+            lon: 29.44236
+        source: gov
 meta:
     fgb:
         post_id: '101767'
@@ -33,3 +57,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=101767#101767'
                 version: '12 Nov 2022, Sat, 22:57'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1273'

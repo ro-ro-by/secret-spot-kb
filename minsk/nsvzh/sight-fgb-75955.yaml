@@ -4,6 +4,12 @@ type: forest
 belongsTo:
     region: region-minsk
     subregion: subregion-nsvzh
+gov:
+    title: 'Насаждение с участием экзотов «Городейское»'
+    type: gov_type-monument_botanical
+    status: gov_status-country
+    area_size: 0.6
+    founded_on: 05.05.2007
 images:
     -
         file: 7951441c14838345f8a3476adf070752.jpg
@@ -21,6 +27,26 @@ images:
             type: fgb
             fgb:
                 post_id: '75955'
+    -
+        file: gov/2468fb9489dcb933842c7ca4fe0f5c36.jpg
+        source:
+            type: gov
+    -
+        file: gov/86a8d4baf82efff9e30e42b286cc6b45.jpg
+        source:
+            type: gov
+    -
+        file: gov/2c5b0ec43416fdd8bcfe602295c1b77b.jpg
+        source:
+            type: gov
+    -
+        file: gov/7d11a5ff33667f52e69e947a95890db1.jpg
+        source:
+            type: gov
+    -
+        file: gov/01b49421f4b12db68ea48afceb8eec1b.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -28,6 +54,20 @@ location:
             lat: 53.290222
             lon: 26.733083
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 53.29022
+            lon: 26.73308
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27658.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27658'
 meta:
     fgb:
         post_id: '75955'
@@ -39,3 +79,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75955#75955'
                 version: '08 Nov 2022, Tue, 23:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/244'
+        -
+            type: oopt
+            oopt:
+                id: '27658'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-mahileu
     subregion: subregion-klch
+gov:
+    title: 'Заказник республиканского значения «Долгое»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 644.45
+    founded_on: 16.08.1979
 images:
     -
         file: 7322218cab1c24528e6b8073312a051b.jpg
@@ -13,6 +19,57 @@ images:
             type: fgb
             fgb:
                 post_id: '74976'
+    -
+        file: gov/a1bf7b761a5fc7ef2ffbc5d8a2b08691.jpg
+        source:
+            type: gov
+    -
+        file: gov/89a2eaf9d7ebc433ee88cb5ff3840104.jpg
+        source:
+            type: gov
+    -
+        file: gov/ae6b8820436a3aff6e513656d144351b.jpg
+        source:
+            type: gov
+    -
+        file: gov/6eb9790069487793d9b55b8496547426.jpg
+        source:
+            type: gov
+    -
+        file: gov/6c9c2e83d5e93482af01ddaf797aa666.jpg
+        source:
+            type: gov
+    -
+        file: gov/dc73c4caa21490b7bf452e94919cf755.jpg
+        source:
+            type: gov
+    -
+        file: gov/cfc39c336ddfe82839874802f9ba0e94.jpg
+        source:
+            type: gov
+    -
+        file: gov/6237c94c9ec0f48731cbf375b68fd481.jpg
+        source:
+            type: gov
+    -
+        file: gov/fbd8b26b04e91bd60a196396c901120b.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.138274
+            lon: 27.682053
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-27948.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '27948'
 meta:
     fgb:
         post_id: '74976'
@@ -24,3 +81,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74976#74976'
                 version: '17 Sep 2021, Fri, 8:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/43'
+        -
+            type: oopt
+            oopt:
+                id: '27948'

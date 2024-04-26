@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-zhlb
 forest:
     dominated_type: pine
+gov:
+    title: 'Лесной массив в урочище Чашевка'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 14.0
+    founded_on: 28.01.1999
 images:
     -
         file: 9a30d310939bbf9e4f0245a4de738b10.jpg
@@ -23,6 +29,18 @@ images:
             type: fgb
             fgb:
                 post_id: '75274'
+    -
+        file: gov/00a578979ae6e62ac2e79d3c0118ec60.jpg
+        source:
+            type: gov
+    -
+        file: gov/35bb4e0f6acd2dfe588a92aea30991bc.jpg
+        source:
+            type: gov
+    -
+        file: gov/5eca2281eb97f3f74d4344fcf76d3256.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,20 @@ location:
             lat: 52.8438
             lon: 30.2165
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.843796
+            lon: 30.216504
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26439.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26439'
 meta:
     fgb:
         post_id: '75274'
@@ -41,3 +73,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75274#75274'
                 version: '03 Nov 2022, Thu, 12:55'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/722'
+        -
+            type: oopt
+            oopt:
+                id: '26439'

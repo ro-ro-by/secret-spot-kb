@@ -4,6 +4,12 @@ type: outcrop
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+gov:
+    title: 'Обнажение «Заславль»'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.75
+    founded_on: 18.03.2008
 images:
     -
         file: 4085da6efcf400f75a2d39e1e3b340ef.jpg
@@ -13,6 +19,10 @@ images:
             type: fgb
             fgb:
                 post_id: '75819'
+    -
+        file: gov/ea8f1afa14964999e249013f3ce6597e.jpg
+        source:
+            type: gov
 location:
     -
         type: geojson
@@ -23,6 +33,12 @@ location:
             osm:
                 type: way
                 id: 1084487694
+    -
+        type: point
+        coordinates:
+            lat: 54.02241
+            lon: 27.24536
+        source: gov
 osm:
     -
         type: way
@@ -38,3 +54,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75819#75819'
                 version: '25 Sep 2022, Sun, 20:20'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/294'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-vlk
+gov:
+    title: 'Заказник «Борки»'
+    type: gov_type-reserve
+    status: gov_status-local
+    area_size: 521.64
+    founded_on: 29.12.2014
 images:
     -
         file: 04c91bea70632652b521d38a9c2bde7b.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '96303'
+    -
+        file: gov/382cac1ef3d412e72bf6b607977c6727.jpg
+        source:
+            type: gov
+    -
+        file: gov/47b32bfbf142cacefb1f0bc463d05be3.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.686903
+            lon: 26.867309
+        source: gov
 meta:
     fgb:
         post_id: '96303'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96303#96303'
                 version: '20 Aug 2020, Thu, 21:59'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1053'

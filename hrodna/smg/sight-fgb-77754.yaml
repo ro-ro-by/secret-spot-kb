@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-smg
+gov:
+    title: 'Углянский валун'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.0006
+    founded_on: 23.03.1995
 images:
     -
         file: b344e386ab13c0dded1722226efa0584.jpg
@@ -23,6 +29,18 @@ images:
                 post_id: '77754'
         meta:
             author: ВалероС
+    -
+        file: gov/92e1bcccde4ea75d23f7f7d5e4d74de1.jpg
+        source:
+            type: gov
+    -
+        file: gov/b56a29e9aa5a7c6ff82be4511943a5c7.jpg
+        source:
+            type: gov
+    -
+        file: gov/2d47c47ff23c21f63bdb5bf12aa6c186.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -30,6 +48,12 @@ location:
             lat: '54.514542'
             lon: '26.609350'
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 54.514542
+            lon: 26.60935
+        source: gov
 meta:
     fgb:
         post_id: '77754'
@@ -41,3 +65,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77754#77754'
                 version: '25 Nov 2021, Thu, 15:35'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/678'

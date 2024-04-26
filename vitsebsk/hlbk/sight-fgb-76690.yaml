@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+gov:
+    title: 'Валун «Чертов камень» велецкий'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.0007
+    founded_on: 18.03.2008
 images:
     -
         file: b2b6027d0f29b0011ea409109021cdd9.jpg
@@ -42,6 +48,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76690'
+    -
+        file: gov/6c91009602216935df3382475a83e483.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -49,6 +59,12 @@ location:
             lat: 55.26277
             lon: 27.90639
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.261931
+            lon: 27.907915
+        source: gov
 meta:
     fgb:
         post_id: '76690'
@@ -60,3 +76,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76690#76690'
                 version: '14 May 2022, Sat, 12:04'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/392'

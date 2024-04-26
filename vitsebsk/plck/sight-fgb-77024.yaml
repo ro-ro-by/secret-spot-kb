@@ -4,6 +4,24 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+gov:
+    title: 'Большой камень Бикульничский'
+    type: gov_type-monument_geological
+    status: gov_status-local
+    area_size: 0.00115
+    founded_on: 23.05.2001
+images:
+    -
+        file: gov/5e489a915a7bf5e7154c92d3330a7b85.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.270278
+            lon: 28.794444
+        source: gov
 meta:
     fgb:
         post_id: '77024'
@@ -15,3 +33,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77024#77024'
                 version: '14 May 2021, Fri, 15:34'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/1253'

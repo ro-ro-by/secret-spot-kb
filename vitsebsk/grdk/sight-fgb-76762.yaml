@@ -4,6 +4,12 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-grdk
+gov:
+    title: 'Валун «Большой камень» скрипкинский'
+    type: gov_type-monument_geological
+    status: gov_status-country
+    area_size: 0.00092
+    founded_on: 18.03.2008
 images:
     -
         file: c6a928821aed7e7a4de85d1aaf4306dc.jpg
@@ -15,6 +21,10 @@ images:
             type: fgb
             fgb:
                 post_id: '76762'
+    -
+        file: gov/217b2d1283117689fe0dfccba66bcea8.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -22,6 +32,12 @@ location:
             lat: 55.4443
             lon: 29.78208
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 55.444844
+            lon: 29.782647
+        source: gov
 meta:
     fgb:
         post_id: '76762'
@@ -33,3 +49,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76762#76762'
                 version: '20 May 2021, Thu, 9:19'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/228'

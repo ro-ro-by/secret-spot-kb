@@ -4,6 +4,12 @@ type: park
 belongsTo:
     region: region-brest
     subregion: subregion-brz
+gov:
+    title: 'Старинный парк «Старые Пески»'
+    type: gov_type-monument_botanical
+    status: gov_status-local
+    area_size: 7.712
+    founded_on: 19.04.1983
 images:
     -
         file: 8b08bd645b940cfb207fbbbf1d25233b.jpg
@@ -13,6 +19,14 @@ images:
             type: fgb
             fgb:
                 post_id: '74497'
+    -
+        file: gov/f015ef6dd47c2c8bd72fadc3be24c89e.jpg
+        source:
+            type: gov
+    -
+        file: gov/bf15be428cd2e112e855e922c8536c66.jpg
+        source:
+            type: gov
 location:
     -
         type: point
@@ -20,6 +34,20 @@ location:
             lat: 52.516389
             lon: 25.1975
         source: fgb
+    -
+        type: point
+        coordinates:
+            lat: 52.490785152004
+            lon: 25.215645838592
+        source: gov
+    -
+        type: geojson
+        geojson:
+            file: 'repo://location-oopt-26255.geojson'
+        source:
+            type: oopt
+            oopt:
+                id: '26255'
 meta:
     fgb:
         post_id: '74497'
@@ -31,3 +59,11 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74497#74497'
                 version: '22 Sep 2022, Thu, 20:32'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/104'
+        -
+            type: oopt
+            oopt:
+                id: '26255'

@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+gov:
+    title: 'Заказник «Борисовский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 2731.4
+    founded_on: 04.02.2015
 images:
     -
         file: 56dfe0adae59792113bcd8948cf131e6.jpg
@@ -25,6 +31,12 @@ location:
             osm:
                 type: way
                 id: 633604252
+    -
+        type: point
+        coordinates:
+            lat: 54.2404
+            lon: 28.2477
+        source: gov
 osm:
     -
         type: way
@@ -47,3 +59,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96052#96052'
                 version: '10 Jun 2020, Wed, 12:25'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/331'

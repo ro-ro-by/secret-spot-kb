@@ -4,6 +4,12 @@ type: area
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+gov:
+    title: 'Заказник «Волмянский»'
+    type: gov_type-reserve
+    status: gov_status-country
+    area_size: 614.5
+    founded_on: 29.12.2001
 images:
     -
         file: b48dcf6291341041afe1d12ca3c1308a.jpg
@@ -13,6 +19,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75979'
+    -
+        file: gov/dbe061be2d97519781ae78b581322479.jpg
+        source:
+            type: gov
+    -
+        file: gov/879cd7817acf6142fc1aeff817e8e7d0.jpg
+        source:
+            type: gov
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.94135
+            lon: 27.92016
+        source: gov
 meta:
     fgb:
         post_id: '75979'
@@ -24,3 +45,7 @@ meta:
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75979#75979'
                 version: '10 Sep 2021, Fri, 19:52'
+        -
+            type: web
+            web:
+                url: 'https://www.minpriroda.gov.by/ru/svg_map-ru/getElement/347'
