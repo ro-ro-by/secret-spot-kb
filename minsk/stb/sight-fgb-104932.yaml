@@ -1,0 +1,31 @@
+id: sight-fgb-104932
+title: 'Родник Сула (Ленских)'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-stb
+images:
+    -
+        file: b4283de6a6e4558516bc8e371bb8cc71.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104932'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.74379
+            lon: 26.87923
+        source: fgb
+meta:
+    fgb:
+        post_id: '104932'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104932#104932'
+                version: '23 Oct 2023, Mon, 15:42'

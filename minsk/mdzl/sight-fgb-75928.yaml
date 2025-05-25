@@ -4,6 +4,38 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-mdzl
+images:
+    -
+        file: 2f139db41429dab44cc5b24eafa5a42d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75928'
+        meta:
+            author: ВалероС
+    -
+        file: 846520608adce5a2bb0fd2962aa477b7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75928'
+        meta:
+            author: ВалероС
+    -
+        file: 4c051c60fd9a6a1af808ebdfa2f74dca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75928'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.920914
+            lon: 27.061436
+        source: fgb
 meta:
     fgb:
         post_id: '75928'
@@ -14,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75928#75928'
-                version: '27 Apr 2021, Tue, 20:32'
+                version: '09 Oct 2023, Mon, 16:11'

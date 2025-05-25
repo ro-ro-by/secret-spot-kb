@@ -1,5 +1,5 @@
 id: sight-fgb-77066
-title: 'Щербишские родники'
+title: 'Щербишские родники (Меския)'
 type: spring
 belongsTo:
     region: region-vitsebsk
@@ -38,6 +38,20 @@ images:
             type: fgb
             fgb:
                 post_id: '77066'
+    -
+        file: 74f729eea0f3c1778dd1de8b2bda6508.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77066'
+    -
+        file: 70cc0ccb07d2ae4680d5c76dd9c7a958.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77066'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -55,4 +69,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77066#77066'
-                version: '12 May 2022, Thu, 7:02'
+                version: '09 Dec 2024, Mon, 12:34'

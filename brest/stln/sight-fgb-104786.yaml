@@ -1,0 +1,17 @@
+id: sight-fgb-104786
+title: 'Пойма Львы'
+type: area
+belongsTo:
+    region: region-brest
+    subregion: subregion-stln
+meta:
+    fgb:
+        post_id: '104786'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104786#104786'
+                version: '03 Oct 2023, Tue, 23:19'

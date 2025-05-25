@@ -15,6 +15,21 @@ images:
                 post_id: '97146'
         meta:
             author: 'Алексея Матеша'
+    -
+        file: 4fb41ec36636fd495f646bdd280f01d9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '97146'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.842527
+            lon: 29.605727
+        source: fgb
 meta:
     fgb:
         post_id: '97146'
@@ -25,4 +40,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97146#97146'
-                version: '04 Dec 2020, Fri, 22:08'
+                version: '22 Jan 2025, Wed, 14:17'

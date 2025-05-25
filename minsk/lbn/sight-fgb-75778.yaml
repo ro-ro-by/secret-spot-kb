@@ -13,6 +13,37 @@ images:
             type: fgb
             fgb:
                 post_id: '75778'
+    -
+        file: c7262bf0ab0aefc3ff0e802a19c6d491.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75778'
+    -
+        file: 412376e0b9d30db08b8169b6f6489f9d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75778'
+    -
+        file: 3d63f7c6f900ebf8ba4efaeb05400c78.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75778'
+    -
+        file: 90589c1ce1a5f752b0b24ea9a65f396b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75778'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.819438
+            lon: 28.115037
+        source: fgb
 meta:
     fgb:
         post_id: '75778'
@@ -23,4 +54,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75778#75778'
-                version: '05 Apr 2022, Tue, 9:41'
+                version: '20 Jan 2025, Mon, 15:22'

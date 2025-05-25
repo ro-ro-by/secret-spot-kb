@@ -1,0 +1,26 @@
+id: sight-fgb-106468
+title: Родник
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bbr
+images:
+    -
+        file: 0c75b383f150212b94fb2d9da7f5a4f1.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '106468'
+        meta:
+            author: Victoryor
+meta:
+    fgb:
+        post_id: '106468'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106468#106468'
+                version: '12 Jun 2024, Wed, 11:04'

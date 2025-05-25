@@ -1,0 +1,26 @@
+id: sight-fgb-106482
+title: 'Каменны крыж'
+type: stone
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-smg
+images:
+    -
+        file: 68e7ff511eb4546881f73c2822cb7b05.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106482'
+        meta:
+            author: 'Алег Дзярновіч'
+meta:
+    fgb:
+        post_id: '106482'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106482#106482'
+                version: '13 Jun 2024, Thu, 0:10'

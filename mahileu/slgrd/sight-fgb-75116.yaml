@@ -6,13 +6,13 @@ belongsTo:
     subregion: subregion-slgrd
 images:
     -
-        file: 8c0894fc189b88fe01e2915cc6bff95a.jpg
-        tags:
-            - 'image-tag:object:overview'
+        file: 9a415d12262c07716878775b37e05503.jpg
         source:
             type: fgb
             fgb:
                 post_id: '75116'
+        meta:
+            author: 'Антон Комаров'
 location:
     -
         type: point
@@ -30,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75116#75116'
-                version: '27 Mar 2021, Sat, 22:42'
+                version: '24 Jun 2024, Mon, 12:50'

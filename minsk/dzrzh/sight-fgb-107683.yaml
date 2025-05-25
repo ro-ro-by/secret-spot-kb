@@ -1,0 +1,17 @@
+id: sight-fgb-107683
+title: Родник
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-dzrzh
+meta:
+    fgb:
+        post_id: '107683'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107683#107683'
+                version: '12 Dec 2024, Thu, 9:44'

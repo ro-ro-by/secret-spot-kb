@@ -1,0 +1,42 @@
+id: sight-fgb-107969
+title: 'Каменный крест'
+type: stone
+belongsTo:
+    region: region-minsk
+    subregion: subregion-brzn
+images:
+    -
+        file: 2d0d8c55c7f407f47796f5b6f243da77.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107969'
+        meta:
+            author: Victoryor
+    -
+        file: c51c646953f46db5982eef3a4acffe09.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107969'
+        meta:
+            author: Victoryor
+    -
+        file: a2fb2c6cf00fa5bbfb3e270cb79b61ee.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107969'
+        meta:
+            author: Victoryor
+meta:
+    fgb:
+        post_id: '107969'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107969#107969'
+                version: '23 Jan 2025, Thu, 8:26'

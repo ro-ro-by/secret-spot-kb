@@ -1,0 +1,33 @@
+id: sight-fgb-105052
+title: 'Родник Басины-2'
+type: spring
+belongsTo:
+    region: region-brest
+    subregion: subregion-brnv
+images:
+    -
+        file: f94489b352a57c3ad8e969437fefd999.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105052'
+        meta:
+            author: 'Viktor 2018k'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.0244
+            lon: 25.60054
+        source: fgb
+meta:
+    fgb:
+        post_id: '105052'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105052#105052'
+                version: '02 Nov 2023, Thu, 12:54'

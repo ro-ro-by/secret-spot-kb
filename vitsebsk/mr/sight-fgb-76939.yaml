@@ -1,5 +1,5 @@
 id: sight-fgb-76939
-title: 'Новопогостский Большой Камень'
+title: 'Новопогостский Большой Камень (Чертов камень)'
 type: boulder
 belongsTo:
     region: region-vitsebsk
@@ -9,6 +9,45 @@ images:
         file: 3f48431abe0698db24808cf31266c3c6.jpg
         tags:
             - 'image-tag:object:overview'
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+    -
+        file: fca419ae5676b2ac904e84f3dbe4343b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+        meta:
+            author: Victoryor
+            version: '2022'
+    -
+        file: 171adf631ef0d27adc161a776ed74033.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+    -
+        file: 5b9fc0035408b89fb6a465cad58b10a4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+    -
+        file: 693e5c8c8e5a72ae7e48ada2290777a1.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+    -
+        file: 56bbd89d2c04bd6e8303a2295078581e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76939'
+    -
+        file: a3ac3a7b3ef6423b851ed1a169f7bbec.jpg
         source:
             type: fgb
             fgb:
@@ -30,4 +69,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76939#76939'
-                version: '13 Dec 2021, Mon, 6:46'
+                version: '24 Feb 2025, Mon, 8:54'

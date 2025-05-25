@@ -1,0 +1,50 @@
+id: sight-fgb-106474
+title: 'Каменный крест и жернова'
+type: stone
+belongsTo:
+    region: region-minsk
+    subregion: subregion-krp
+images:
+    -
+        file: e76e073eb863ff52517b7ef170973bec.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106474'
+        meta:
+            author: Victoryor
+    -
+        file: 767e692f3a7e9c6e90689db024d4465b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106474'
+        meta:
+            author: Victoryor
+    -
+        file: 0517e2722803d740137f278b8ec25519.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106474'
+        meta:
+            author: Victoryor
+    -
+        file: 960ad5079c709cbfe4b9a1f6c3cd56ad.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106474'
+        meta:
+            author: Victoryor
+meta:
+    fgb:
+        post_id: '106474'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106474#106474'
+                version: '12 Jun 2024, Wed, 14:04'

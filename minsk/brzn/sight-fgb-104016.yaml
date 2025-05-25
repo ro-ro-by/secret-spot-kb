@@ -6,6 +6,12 @@ belongsTo:
     subregion: subregion-brzn
 images:
     -
+        file: 8f31273ce2cca99d629159faa7f3e08e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104016'
+    -
         file: 1f69c66db4b24e23a2f5af3691050620.jpg
         tags:
             - 'image-tag:object:overview'
@@ -32,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=104016#104016'
-                version: '20 Jun 2023, Tue, 19:15'
+                version: '22 Jan 2025, Wed, 13:54'

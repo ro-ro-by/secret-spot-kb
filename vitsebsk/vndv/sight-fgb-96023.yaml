@@ -4,6 +4,22 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+images:
+    -
+        file: 8346f4e5ebfeff5701209894d88d0643.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '96023'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.91263
+            lon: 27.89195
+        source: fgb
 meta:
     fgb:
         post_id: '96023'
@@ -14,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96023#96023'
-                version: '02 Jul 2020, Thu, 0:50'
+                version: '27 Oct 2023, Fri, 9:22'

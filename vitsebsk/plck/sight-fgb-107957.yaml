@@ -1,0 +1,24 @@
+id: sight-fgb-107957
+title: 'Камень ТВЛ'
+type: stone
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-plck
+images:
+    -
+        file: 2ca1ec9a388e8efedae7aef253087334.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107957'
+meta:
+    fgb:
+        post_id: '107957'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107957#107957'
+                version: '22 Jan 2025, Wed, 9:50'

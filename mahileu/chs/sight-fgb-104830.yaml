@@ -1,0 +1,33 @@
+id: sight-fgb-104830
+title: 'Родник в д. Риминка'
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-chs
+images:
+    -
+        file: c12ffd1ffb5b469e107e5fd8537dd346.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104830'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.70242
+            lon: 31.0846
+        source: fgb
+meta:
+    fgb:
+        post_id: '104830'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104830#104830'
+                version: '23 Oct 2023, Mon, 15:25'

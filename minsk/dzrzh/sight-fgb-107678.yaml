@@ -1,0 +1,33 @@
+id: sight-fgb-107678
+title: 'Родник Шпильки'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-dzrzh
+images:
+    -
+        file: 6901dc5ce560a62cb6a13ff03cb5287d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107678'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.76689
+            lon: 27.20656
+        source: fgb
+meta:
+    fgb:
+        post_id: '107678'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107678#107678'
+                version: '12 Dec 2024, Thu, 9:27'

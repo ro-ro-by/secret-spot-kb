@@ -1,9 +1,18 @@
 id: sight-fgb-78766
-title: 'Около пляжа'
+title: 'Родник у Городского пляжа'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-smlv
+images:
+    -
+        file: 9243479d70f6200ef99e91338df92a4e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78766'
+        meta:
+            author: 'Сергей Глиндзич'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78766#78766'
-                version: '10 Sep 2021, Fri, 16:13'
+                version: '12 Dec 2024, Thu, 9:31'

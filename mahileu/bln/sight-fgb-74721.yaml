@@ -4,6 +4,22 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-bln
+images:
+    -
+        file: 1a6934df214f2f2f8006dc9313c833b9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74721'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.895526
+            lon: 29.694148
+        source: fgb
 meta:
     fgb:
         post_id: '74721'
@@ -14,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74721#74721'
-                version: '06 Feb 2021, Sat, 22:24'
+                version: '22 Jan 2025, Wed, 14:19'

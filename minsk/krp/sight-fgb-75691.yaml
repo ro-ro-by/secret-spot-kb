@@ -13,6 +13,14 @@ images:
             type: fgb
             fgb:
                 post_id: '75691'
+    -
+        file: 4659f6720d44dcad673e44242eb420ea.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75691'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -30,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75691#75691'
-                version: '23 Jan 2022, Sun, 0:25'
+                version: '12 Jun 2024, Wed, 14:31'

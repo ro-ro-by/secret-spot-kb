@@ -15,6 +15,14 @@ images:
                 post_id: '86912'
         meta:
             author: 'Максим Астрейко'
+    -
+        file: 36109ccd1e00ddebe84bbe0e77433ba9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '86912'
+        meta:
+            author: 'Александр Гиль'
 location:
     -
         type: point
@@ -32,4 +40,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=86912#86912'
-                version: '26 Jan 2021, Tue, 13:20'
+                version: '11 Dec 2024, Wed, 9:58'

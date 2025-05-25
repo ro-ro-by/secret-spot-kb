@@ -1,0 +1,43 @@
+id: sight-fgb-104828
+title: 'Сосна "Ведьмина лапа"'
+type: tree
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vtb
+images:
+    -
+        file: e03cf55e1cee93a058648b60af86de08.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104828'
+        meta:
+            author: 'Дмитрий Бородин'
+    -
+        file: e7a59613dbb81578c7459c430deb441b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104828'
+        meta:
+            author: 'Дмитрий Бородин'
+tree:
+    type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.24137
+            lon: 30.14361
+        source: fgb
+meta:
+    fgb:
+        post_id: '104828'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104828#104828'
+                version: '11 Oct 2023, Wed, 14:00'

@@ -21,6 +21,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77127'
+    -
+        file: 6cba44328948d49dabe870b211fed888.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77127'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.761947
+            lon: 29.708177
+        source: fgb
 meta:
     fgb:
         post_id: '77127'
@@ -31,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77127#77127'
-                version: '02 Oct 2021, Sat, 11:49'
+                version: '11 Oct 2023, Wed, 13:44'

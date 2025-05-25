@@ -1,0 +1,17 @@
+id: sight-fgb-105357
+title: Валун
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-lpl
+meta:
+    fgb:
+        post_id: '105357'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105357#105357'
+                version: '25 Dec 2023, Mon, 20:54'

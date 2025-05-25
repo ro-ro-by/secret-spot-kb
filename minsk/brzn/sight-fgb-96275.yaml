@@ -1,9 +1,25 @@
 id: sight-fgb-96275
-title: 'Лечебный камень'
+title: 'Родник у моста'
 type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+images:
+    -
+        file: e8fb4c19149fd27630e12fda0249fb0c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '96275'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.68618
+            lon: 28.83116
+        source: fgb
 meta:
     fgb:
         post_id: '96275'
@@ -14,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96275#96275'
-                version: '04 Jul 2020, Sat, 13:18'
+                version: '22 Jan 2025, Wed, 12:51'

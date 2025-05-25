@@ -1,0 +1,33 @@
+id: sight-fgb-104833
+title: 'Родник У винокурни'
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-drbn
+images:
+    -
+        file: ee620a3b661ac74c153d104965b72ffd.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104833'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.04808
+            lon: 30.97246
+        source: fgb
+meta:
+    fgb:
+        post_id: '104833'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104833#104833'
+                version: '11 Oct 2023, Wed, 15:02'

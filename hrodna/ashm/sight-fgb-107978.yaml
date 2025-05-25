@@ -1,0 +1,30 @@
+id: sight-fgb-107978
+title: 'Іасафатаў камень'
+type: stone
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-ashm
+images:
+    -
+        file: 12b9764f23c4137872ae8bfbd5d7be67.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107978'
+    -
+        file: b698485d9509a3dfa896c141446ecbe5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107978'
+meta:
+    fgb:
+        post_id: '107978'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107978#107978'
+                version: '23 Jan 2025, Thu, 10:30'

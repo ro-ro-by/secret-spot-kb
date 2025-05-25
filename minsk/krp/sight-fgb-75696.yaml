@@ -4,8 +4,32 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+images:
+    -
+        file: 266a1a9e71c415658c84407a811f533b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75696'
+        meta:
+            author: Victoryor
+    -
+        file: 6d30cd8d3b075893bcd5da6c836a9539.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75696'
+        meta:
+            author: Victoryor
 tree:
     type: pine
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.098683
+            lon: 29.038088
+        source: fgb
 meta:
     fgb:
         post_id: '75696'
@@ -16,4 +40,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75696#75696'
-                version: '04 May 2021, Tue, 15:43'
+                version: '12 Jun 2024, Wed, 14:02'

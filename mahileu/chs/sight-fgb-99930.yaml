@@ -16,6 +16,29 @@ images:
         meta:
             author: 'А. Някрасава'
             version: 2017
+    -
+        file: 9dd8e41834457aa66ca6d9c4bec3951d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99930'
+        meta:
+            author: Victoryor
+    -
+        file: 2c7e08077245be1548dd67ba311ed18e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99930'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.859574
+            lon: 31.034716
+        source: fgb
 meta:
     fgb:
         post_id: '99930'
@@ -26,4 +49,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99930#99930'
-                version: '05 May 2022, Thu, 15:27'
+                version: '11 Oct 2023, Wed, 14:55'

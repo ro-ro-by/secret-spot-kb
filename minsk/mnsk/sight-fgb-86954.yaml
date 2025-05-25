@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+images:
+    -
+        file: 1f91d4caa190719ecfbb6856535b256e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '86954'
+        meta:
+            author: 'ПИГ Стрела'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=86954#86954'
-                version: '26 Jan 2021, Tue, 13:54'
+                version: '20 Oct 2023, Fri, 15:12'

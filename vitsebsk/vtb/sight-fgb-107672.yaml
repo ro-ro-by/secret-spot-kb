@@ -1,0 +1,34 @@
+id: sight-fgb-107672
+title: 'Родник Колдуново'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vtb
+images:
+    -
+        file: d012a7372c47584b836fe93802f39d5e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107672'
+        meta:
+            author: 'Антон Комаров'
+            version: '2024'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.24716
+            lon: 30.15432
+        source: fgb
+meta:
+    fgb:
+        post_id: '107672'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107672#107672'
+                version: '12 Dec 2024, Thu, 8:17'

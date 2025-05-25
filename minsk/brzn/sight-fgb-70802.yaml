@@ -13,6 +13,37 @@ images:
             type: fgb
             fgb:
                 post_id: '70802'
+    -
+        file: 6baa49b3ff0f4788f9411fc9907ad856.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '70802'
+        meta:
+            author: Victoryor
+    -
+        file: b83a659693cd5404b204b2398eb372fe.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '70802'
+        meta:
+            author: Victoryor
+    -
+        file: a27fb83d30e2d48a6853a4788b7317ca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '70802'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.888845
+            lon: 29.351972
+        source: fgb
 meta:
     fgb:
         post_id: '70802'
@@ -23,4 +54,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70802#70802'
-                version: '17 Feb 2020, Mon, 23:37'
+                version: '23 Jan 2025, Thu, 9:27'

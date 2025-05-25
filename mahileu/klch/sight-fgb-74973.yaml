@@ -13,6 +13,24 @@ images:
             type: fgb
             fgb:
                 post_id: '74973'
+    -
+        file: 787dff8d0479e9c8b7f290914553b6b6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74973'
+        meta:
+            author: Victoryor
+            version: '2024'
+    -
+        file: 3c0ccab27e053894d4fe379fb9de1cc6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74973'
+        meta:
+            author: Victoryor
+            version: '2024'
 location:
     -
         type: point
@@ -30,4 +48,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74973#74973'
-                version: '11 Nov 2022, Fri, 0:02'
+                version: '20 Jan 2025, Mon, 14:45'

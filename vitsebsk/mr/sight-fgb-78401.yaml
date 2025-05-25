@@ -15,6 +15,25 @@ images:
                 post_id: '78401'
         meta:
             author: 'И.Климкович, 2016.'
+    -
+        file: 891bf5828d8b8044648479db39182231.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78401'
+    -
+        file: 3c8e088429046597e6b45de95c2ac029.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78401'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.617822
+            lon: 27.658476
+        source: fgb
 meta:
     fgb:
         post_id: '78401'
@@ -25,4 +44,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78401#78401'
-                version: '30 Apr 2021, Fri, 18:35'
+                version: '12 Feb 2025, Wed, 14:00'

@@ -1,9 +1,33 @@
 id: sight-fgb-75973
-title: 'Акамянелая вёска'
+title: 'Лик Христа на кресте'
 type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-slck
+images:
+    -
+        file: 7bd5c62b256040a5bf43355e42d9539f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75973'
+        meta:
+            author: Victoryor
+    -
+        file: f83f14b6f108df12ccfdbf64033f32e8.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75973'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.230867
+            lon: 27.658535
+        source: fgb
 meta:
     fgb:
         post_id: '75973'
@@ -14,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75973#75973'
-                version: '08 Sep 2021, Wed, 11:02'
+                version: '22 Jan 2025, Wed, 12:46'

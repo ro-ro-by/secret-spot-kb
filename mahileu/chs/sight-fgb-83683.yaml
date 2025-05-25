@@ -1,9 +1,18 @@
 id: sight-fgb-83683
-title: Родник
+title: 'Родник Благовичи-1'
 type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+images:
+    -
+        file: 2243643a2bcdb3908c3744c321931c41.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '83683'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=83683#83683'
-                version: '17 Nov 2021, Wed, 15:04'
+                version: '23 Oct 2023, Mon, 15:35'

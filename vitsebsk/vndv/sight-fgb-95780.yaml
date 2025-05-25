@@ -6,13 +6,13 @@ belongsTo:
     subregion: subregion-vndv
 images:
     -
-        file: 4bef7d7104f730bf97ce2cb2c6b2ee05.png
-        tags:
-            - 'image-tag:object:overview'
+        file: ae55fda5c9b74e42d98824d5393f4749.jpg
         source:
             type: fgb
             fgb:
                 post_id: '95780'
+        meta:
+            author: 'Антон Комаров'
 location:
     -
         type: point
@@ -30,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95780#95780'
-                version: '02 Jul 2020, Thu, 0:49'
+                version: '27 Oct 2023, Fri, 9:29'

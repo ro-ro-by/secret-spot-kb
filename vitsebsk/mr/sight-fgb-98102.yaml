@@ -16,6 +16,29 @@ images:
         meta:
             author: 'И. Е. Климкович'
             version: 2016
+    -
+        file: d419d5d937725ac6c5080a549281e1ec.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98102'
+        meta:
+            author: Victoryor
+    -
+        file: a1f586ec7ae5bc2acc174a9bc481eaab.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98102'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.624486
+            lon: 27.609519
+        source: fgb
 meta:
     fgb:
         post_id: '98102'
@@ -26,4 +49,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98102#98102'
-                version: '04 Jun 2021, Fri, 17:04'
+                version: '12 Feb 2025, Wed, 14:02'

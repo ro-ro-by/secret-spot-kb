@@ -1,9 +1,70 @@
 id: sight-fgb-75473
-title: 'Святое озеро'
+title: 'Родник Капланцы (Святое озеро)'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+images:
+    -
+        file: 90038d8b3f7fb3ba1886a4d9804b1506.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+        meta:
+            author: Victoryor
+    -
+        file: 315f1bf50de3efb22698bdce51cf16b1.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+        meta:
+            author: Victoryor
+    -
+        file: a8dfcb075808f32fd2a16c6ff3ef6b30.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+        meta:
+            author: Victoryor
+    -
+        file: 04e08096715f0a28a2a89d7701b17034.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+    -
+        file: 19e7a3c1460b55cffa95627278fdd1f9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+    -
+        file: 2a72d7a682e0941ba45c5939f7190b61.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+    -
+        file: c829d63140fce5698f398448cb5fa163.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+    -
+        file: 9e8715552179f972d6acce16ce0a30e8.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
+    -
+        file: a877f25b5d1790a19bf01f52608c4d3f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75473'
 location:
     -
         type: point
@@ -21,4 +82,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75473#75473'
-                version: '17 Feb 2020, Mon, 14:05'
+                version: '23 Jan 2025, Thu, 10:47'

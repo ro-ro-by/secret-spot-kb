@@ -1,0 +1,30 @@
+id: sight-fgb-107938
+title: Валун
+type: boulder
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-vrnv
+images:
+    -
+        file: 1a337ee169230cf331f1c3db497c4849.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107938'
+    -
+        file: 7d183df5eca4555becd2a675cfc6232e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107938'
+meta:
+    fgb:
+        post_id: '107938'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107938#107938'
+                version: '20 Jan 2025, Mon, 15:13'

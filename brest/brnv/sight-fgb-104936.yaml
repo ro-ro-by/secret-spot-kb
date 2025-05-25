@@ -1,0 +1,33 @@
+id: sight-fgb-104936
+title: 'Родник Пенчин-1'
+type: spring
+belongsTo:
+    region: region-brest
+    subregion: subregion-brnv
+images:
+    -
+        file: 4d9e77456819f2339bf53c524974408b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104936'
+        meta:
+            author: 'Александр Гиль'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.33113
+            lon: 26.13095
+        source: fgb
+meta:
+    fgb:
+        post_id: '104936'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104936#104936'
+                version: '23 Oct 2023, Mon, 16:23'

@@ -13,6 +13,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77072'
+    -
+        file: ffa34e4bd4837b188c26e0b69b8ed16a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77072'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.169535
+            lon: 27.049795
+        source: fgb
 meta:
     fgb:
         post_id: '77072'
@@ -23,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77072#77072'
-                version: '20 Aug 2021, Fri, 12:30'
+                version: '31 Oct 2024, Thu, 14:54'

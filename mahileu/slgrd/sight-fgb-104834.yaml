@@ -1,0 +1,24 @@
+id: sight-fgb-104834
+title: 'Камни со знаками'
+type: stone
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-slgrd
+images:
+    -
+        file: 77e16bdce1baa7ebfcd1c508de16ec8b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104834'
+meta:
+    fgb:
+        post_id: '104834'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104834#104834'
+                version: '11 Oct 2023, Wed, 15:10'

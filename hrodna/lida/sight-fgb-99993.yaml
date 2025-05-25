@@ -4,6 +4,23 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-lida
+images:
+    -
+        file: 86740f86bc3d483343ccce03eaa22dc5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99993'
+        meta:
+            author: 'Белавской Анны'
+    -
+        file: 1936eb13696288943a1337ef01eab07b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99993'
+        meta:
+            author: 'Белавской Анны'
 meta:
     fgb:
         post_id: '99993'
@@ -14,4 +31,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99993#99993'
-                version: '12 May 2022, Thu, 15:02'
+                version: '23 Jan 2025, Thu, 9:37'

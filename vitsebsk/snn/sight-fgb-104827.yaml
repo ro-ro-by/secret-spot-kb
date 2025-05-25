@@ -1,0 +1,26 @@
+id: sight-fgb-104827
+title: 'Валун со знаками'
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-snn
+images:
+    -
+        file: b1180b2699857bb8f7a9abcb5eabcd87.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104827'
+        meta:
+            author: Victoryor
+meta:
+    fgb:
+        post_id: '104827'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104827#104827'
+                version: '11 Oct 2023, Wed, 13:54'

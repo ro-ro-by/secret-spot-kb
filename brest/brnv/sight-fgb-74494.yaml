@@ -1,9 +1,18 @@
 id: sight-fgb-74494
-title: Родник
+title: 'Родник Трацевка'
 type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+images:
+    -
+        file: 69c85b4bbd351310aa7c7bdf2d854763.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74494'
+        meta:
+            author: 'Александр Гиль'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74494#74494'
-                version: '12 Feb 2020, Wed, 23:27'
+                version: '27 Oct 2023, Fri, 12:23'

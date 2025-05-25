@@ -1,0 +1,34 @@
+id: sight-fgb-107980
+title: 'Памятный камень штатному училищу'
+type: stone
+belongsTo:
+    region: region-brest
+    subregion: subregion-brz
+images:
+    -
+        file: 2408c593c1cf10cc164cab4d9de245d9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107980'
+        meta:
+            author: Victoryor
+    -
+        file: d07a94539a5cb680133be8a8287e875e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107980'
+        meta:
+            author: Victoryor
+meta:
+    fgb:
+        post_id: '107980'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107980#107980'
+                version: '23 Jan 2025, Thu, 11:00'

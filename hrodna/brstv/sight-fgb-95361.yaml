@@ -4,6 +4,28 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-brstv
+images:
+    -
+        file: b859eeecc99d32eda507785b54d74712.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '95361'
+        meta:
+            author: Victoryor
+    -
+        file: dee5727766de21bd19c83a8e9e78beb1.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '95361'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.4147
+            lon: 23.895
+        source: fgb
 meta:
     fgb:
         post_id: '95361'
@@ -14,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95361#95361'
-                version: '19 Feb 2020, Wed, 14:36'
+                version: '24 Feb 2025, Mon, 9:40'

@@ -4,6 +4,26 @@ type: sacral_hill
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+images:
+    -
+        file: 00dc9946596fa185db38f53ebdd8dc86.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '103001'
+    -
+        file: c17d6063755480f2529a3a5065d99f64.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '103001'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.1524
+            lon: 29.2542
+        source: fgb
 meta:
     fgb:
         post_id: '103001'
@@ -14,4 +34,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=103001#103001'
-                version: '04 May 2023, Thu, 12:30'
+                version: '12 Jun 2024, Wed, 14:53'

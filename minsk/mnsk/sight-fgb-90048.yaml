@@ -1,9 +1,26 @@
 id: sight-fgb-90048
-title: 'Под Лысой горой'
+title: 'Родник Лекоревка (Целебный)'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+images:
+    -
+        file: 46a32d17c3dbf8940ea73b59d2bfa817.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '90048'
+        meta:
+            author: 'Антон Комаров'
+            version: '2024'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.17387
+            lon: 27.53544
+        source: fgb
 meta:
     fgb:
         post_id: '90048'
@@ -14,4 +31,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=90048#90048'
-                version: '26 Jan 2021, Tue, 14:20'
+                version: '12 Dec 2024, Thu, 8:46'

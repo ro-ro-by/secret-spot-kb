@@ -1,0 +1,33 @@
+id: sight-fgb-107970
+title: 'Родник У бывшего моста'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-brzn
+images:
+    -
+        file: 191196b3cc793e1f00b9c8c42a2bbedc.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107970'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.85863
+            lon: 29.3204
+        source: fgb
+meta:
+    fgb:
+        post_id: '107970'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107970#107970'
+                version: '23 Jan 2025, Thu, 8:37'

@@ -1,9 +1,24 @@
 id: sight-fgb-79523
-title: Бювет
+title: 'Бювет Орловского'
 type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-krsk
+images:
+    -
+        file: 449b62f9ce9ed84878cea2e853cd2f92.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '79523'
+    -
+        file: 28cdb55c524e46a18c8fe8c349284c8e.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '79523'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=79523#79523'
-                version: '17 Sep 2021, Fri, 21:43'
+                version: '20 Oct 2023, Fri, 14:46'

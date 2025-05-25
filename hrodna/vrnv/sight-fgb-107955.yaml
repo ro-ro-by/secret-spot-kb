@@ -1,0 +1,24 @@
+id: sight-fgb-107955
+title: Дзева–Блюдас
+type: boulder
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-vrnv
+images:
+    -
+        file: 1264cb0b12daacf5f718fd36ded5bfdf.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107955'
+meta:
+    fgb:
+        post_id: '107955'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107955#107955'
+                version: '22 Jan 2025, Wed, 9:40'

@@ -1,5 +1,5 @@
 id: sight-fgb-74546
-title: 'Каменный идол'
+title: 'Каменный идол (Залужский идол)'
 type: boulder
 belongsTo:
     region: region-brest
@@ -15,6 +15,12 @@ images:
                 post_id: '74546'
         meta:
             author: 'Виктор Гайдучик'
+    -
+        file: e2b7314a0fab930427154deecc811b60.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74546'
 meta:
     fgb:
         post_id: '74546'
@@ -25,4 +31,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74546#74546'
-                version: '04 Dec 2020, Fri, 22:14'
+                version: '01 Mar 2025, Sat, 0:32'

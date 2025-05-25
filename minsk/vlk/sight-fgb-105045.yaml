@@ -1,0 +1,24 @@
+id: sight-fgb-105045
+title: Валун
+type: boulder
+belongsTo:
+    region: region-minsk
+    subregion: subregion-vlk
+images:
+    -
+        file: c47bff386f940b1ef83edb2680bb2bf7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105045'
+meta:
+    fgb:
+        post_id: '105045'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105045#105045'
+                version: '02 Nov 2023, Thu, 10:48'

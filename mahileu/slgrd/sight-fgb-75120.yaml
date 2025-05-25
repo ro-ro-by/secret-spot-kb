@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-slgrd
+images:
+    -
+        file: dcce72ca1ce8aa292fa82fdd0ff1ecab.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75120'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75120#75120'
-                version: '05 Feb 2021, Fri, 22:43'
+                version: '27 Oct 2023, Fri, 9:46'

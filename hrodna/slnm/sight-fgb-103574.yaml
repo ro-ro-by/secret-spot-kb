@@ -1,9 +1,16 @@
 id: sight-fgb-103574
-title: 'Гара Каўпак'
+title: Валун-чаша
 type: sacral_hill
 belongsTo:
     region: region-hrodna
     subregion: subregion-slnm
+images:
+    -
+        file: c09a4ca5de657c51a75b16a8d781d99d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '103574'
 meta:
     fgb:
         post_id: '103574'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=103574#103574'
-                version: '02 Jun 2023, Fri, 9:15'
+                version: '24 Jan 2025, Fri, 10:41'

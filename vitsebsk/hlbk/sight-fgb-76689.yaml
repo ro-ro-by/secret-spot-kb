@@ -36,6 +36,18 @@ images:
             fgb:
                 post_id: '76689'
     -
+        file: 8849d9fd3b0dafd1cf9cc2c56626afb5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76689'
+    -
+        file: f45adc588975a43e74b4a1e8c9c4c77d.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '76689'
+    -
         file: 97cdd5d4876461f4fac29dd0797472bb.jpg
         tags:
             - 'image-tag:object:photo'
@@ -62,4 +74,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76689#76689'
-                version: '24 Jan 2021, Sun, 11:03'
+                version: '31 Oct 2024, Thu, 11:43'

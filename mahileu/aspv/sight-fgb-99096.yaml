@@ -4,6 +4,31 @@ type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+images:
+    -
+        file: 3e4ddd64065a75dcda5df186067ee06a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99096'
+        meta:
+            author: Victoryor
+    -
+        file: a2e800fb9abbffd6dd07ed2103fe5d53.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99096'
+        meta:
+            author: Victoryor
+    -
+        file: 8d2a85595117d15aa5711ae0b9967c29.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99096'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99096#99096'
-                version: '21 Jun 2023, Wed, 23:02'
+                version: '02 Nov 2023, Thu, 13:55'

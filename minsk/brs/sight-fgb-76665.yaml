@@ -1,9 +1,18 @@
 id: sight-fgb-76665
-title: Родник
+title: 'Родник Серпутово'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+images:
+    -
+        file: ad4ac50f779307e86378cf0626adb2ca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76665'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76665#76665'
-                version: '04 Mar 2020, Wed, 16:35'
+                version: '11 Dec 2024, Wed, 12:57'

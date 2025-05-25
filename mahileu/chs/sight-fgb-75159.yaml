@@ -4,6 +4,22 @@ type: boulder
 belongsTo:
     region: region-mahileu
     subregion: subregion-chs
+images:
+    -
+        file: c4375f58bea9b78302fb364e9a4d9eb3.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75159'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.7848806
+            lon: 31.1007152
+        source: fgb
 meta:
     fgb:
         post_id: '75159'
@@ -14,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75159#75159'
-                version: '13 Mar 2023, Mon, 14:10'
+                version: '11 Oct 2023, Wed, 14:49'

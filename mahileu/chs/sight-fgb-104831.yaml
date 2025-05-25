@@ -1,0 +1,37 @@
+id: sight-fgb-104831
+title: 'Каменный крест'
+type: stone
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-chs
+images:
+    -
+        file: 7bfe59270255b4c340dd4daeeae8721c.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104831'
+    -
+        file: a8895ab08ad1bf896b4d3497b669b48c.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104831'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.844826
+            lon: 30.841901
+        source: fgb
+meta:
+    fgb:
+        post_id: '104831'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104831#104831'
+                version: '11 Oct 2023, Wed, 14:51'

@@ -1,0 +1,30 @@
+id: sight-fgb-107971
+title: 'Архаічная крапільніца'
+type: stone
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-mst
+images:
+    -
+        file: 1393455619c5a02f2c5cd3a9e7d8cb5b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107971'
+    -
+        file: 5244d793bbeb88030592c5f040358ba0.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107971'
+meta:
+    fgb:
+        post_id: '107971'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107971#107971'
+                version: '23 Jan 2025, Thu, 9:40'

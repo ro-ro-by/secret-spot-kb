@@ -1,0 +1,49 @@
+id: sight-fgb-107979
+title: 'Памятный камень картофелю'
+type: stone
+belongsTo:
+    region: region-brest
+    subregion: subregion-brz
+images:
+    -
+        file: e1641dca665d6e35cd9b66ccbe4767c5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107979'
+        meta:
+            author: Victoryor
+    -
+        file: 9be92eebc390036976d9df8447964f86.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107979'
+        meta:
+            author: Victoryor
+    -
+        file: 90908cf65a43297e0f8357981b15511a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107979'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.355396
+            lon: 24.904122
+        source: fgb
+meta:
+    fgb:
+        post_id: '107979'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107979#107979'
+                version: '23 Jan 2025, Thu, 10:55'

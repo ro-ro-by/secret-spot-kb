@@ -32,6 +32,27 @@ images:
         meta:
             author: 'І. Клімковіч'
             version: 2011
+    -
+        file: d4e00364fb82aeeea4a3c89f7b00b06e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76830'
+    -
+        file: c23f5f0ccb89ab2bd3444a263920a10c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76830'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.86201
+            lon: 28.755763
+        source: fgb
 meta:
     fgb:
         post_id: '76830'
@@ -42,4 +63,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76830#76830'
-                version: '20 Jun 2022, Mon, 11:15'
+                version: '20 Oct 2023, Fri, 14:57'

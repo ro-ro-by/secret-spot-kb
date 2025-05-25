@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+images:
+    -
+        file: 543fd78135c819d5d5951481d4b9abc7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99540'
+        meta:
+            author: 'Максим Астрейко'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99540#99540'
-                version: '23 Jan 2022, Sun, 0:31'
+                version: '20 Oct 2023, Fri, 15:10'

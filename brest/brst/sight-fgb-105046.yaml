@@ -1,0 +1,34 @@
+id: sight-fgb-105046
+title: 'Сівы камень'
+type: stone
+belongsTo:
+    region: region-brest
+    subregion: subregion-brst
+images:
+    -
+        file: 11869cda386d708c3b3d6f0c6d60c90f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105046'
+        meta:
+            author: 'Алекс Строкач'
+    -
+        file: 05c1e30304dcf610ee5ae1b5f679c619.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105046'
+        meta:
+            author: 'Алекс Строкач'
+meta:
+    fgb:
+        post_id: '105046'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105046#105046'
+                version: '02 Nov 2023, Thu, 11:02'

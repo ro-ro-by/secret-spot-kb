@@ -13,6 +13,19 @@ images:
             type: fgb
             fgb:
                 post_id: '75924'
+    -
+        file: 16967787c937e0e527553432e44c9b57.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '75924'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.920114
+            lon: 27.218665
+        source: fgb
 meta:
     fgb:
         post_id: '75924'
@@ -23,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75924#75924'
-                version: '27 Apr 2021, Tue, 20:13'
+                version: '09 Oct 2023, Mon, 16:05'

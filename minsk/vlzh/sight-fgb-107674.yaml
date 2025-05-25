@@ -1,0 +1,33 @@
+id: sight-fgb-107674
+title: 'Родник Исток-Связь'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-vlzh
+images:
+    -
+        file: 99c8b040af8772e8359add8f962dcf85.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107674'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.06865
+            lon: 27.15441
+        source: fgb
+meta:
+    fgb:
+        post_id: '107674'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107674#107674'
+                version: '12 Dec 2024, Thu, 8:30'

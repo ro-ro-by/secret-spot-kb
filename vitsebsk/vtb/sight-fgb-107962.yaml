@@ -1,0 +1,33 @@
+id: sight-fgb-107962
+title: Валун
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vtb
+images:
+    -
+        file: 72552d56a2e8d21aa7cc9708bc1f6b39.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107962'
+        meta:
+            author: 'Dzmitry Skvarcheuski'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.207704
+            lon: 30.207364
+        source: fgb
+meta:
+    fgb:
+        post_id: '107962'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107962#107962'
+                version: '22 Jan 2025, Wed, 14:38'

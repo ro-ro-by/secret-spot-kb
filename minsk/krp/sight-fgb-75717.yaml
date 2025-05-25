@@ -4,6 +4,64 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+images:
+    -
+        file: 7aa9660abde95cb42ffe11163e6c3022.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+    -
+        file: 532af48581099ddbec91ce143ab5718c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+    -
+        file: 9744f400c68ea98b1abd2d9a72348455.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+        meta:
+            author: Victoryor
+    -
+        file: 3fc317c4ab0564f6300b7428de4ac121.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+        meta:
+            author: Victoryor
+    -
+        file: 18ca13398335b05650c98653678088a1.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+        meta:
+            author: Victoryor
+    -
+        file: b3962528bb36cb64aead279773dba28f.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+    -
+        file: 657fba8a400babe9cb6b24b9340bad2e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75717'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.122583
+            lon: 29.332473
+        source: fgb
 meta:
     fgb:
         post_id: '75717'
@@ -14,4 +72,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75717#75717'
-                version: '06 May 2021, Thu, 13:16'
+                version: '25 Jan 2025, Sat, 11:19'

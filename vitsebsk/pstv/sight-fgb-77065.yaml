@@ -41,6 +41,20 @@ images:
             type: fgb
             fgb:
                 post_id: '77065'
+    -
+        file: dca1fa0c64543089b06be8ed042b74bb.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77065'
+    -
+        file: da6c5ff236b5bedf26eeb47c5f74e4e4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77065'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -64,4 +78,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77065#77065'
-                version: '11 May 2022, Wed, 6:43'
+                version: '31 Oct 2024, Thu, 14:38'

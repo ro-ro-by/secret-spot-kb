@@ -45,6 +45,14 @@ images:
                 post_id: '76684'
         meta:
             author: 'Александр Dehty'
+    -
+        file: e5bec3c5fc5912de0fa38a1a9d028b6e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76684'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -62,4 +70,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76684#76684'
-                version: '22 Jan 2021, Fri, 22:02'
+                version: '31 Oct 2024, Thu, 11:39'

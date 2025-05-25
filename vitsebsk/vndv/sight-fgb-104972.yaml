@@ -1,0 +1,33 @@
+id: sight-fgb-104972
+title: 'Родник Жегулёвский'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vndv
+images:
+    -
+        file: eb6997ad668f8b50804a12cc11748675.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104972'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.73915
+            lon: 27.98819
+        source: fgb
+meta:
+    fgb:
+        post_id: '104972'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104972#104972'
+                version: '27 Oct 2023, Fri, 8:40'

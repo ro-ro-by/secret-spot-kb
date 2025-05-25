@@ -1,0 +1,33 @@
+id: sight-fgb-107647
+title: 'Родник Кукини'
+type: spring
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-shch
+images:
+    -
+        file: 97668e011d18b71e641702698f2edc95.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107647'
+        meta:
+            author: 'Александр Гиль'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.61313
+            lon: 24.912
+        source: fgb
+meta:
+    fgb:
+        post_id: '107647'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107647#107647'
+                version: '09 Dec 2024, Mon, 13:26'

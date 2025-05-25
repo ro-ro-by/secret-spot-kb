@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-ivcv
+images:
+    -
+        file: be687c5b742f5db330c9f211fb5dcdaf.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99985'
 meta:
     fgb:
         post_id: '99985'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99985#99985'
-                version: '12 May 2022, Thu, 14:14'
+                version: '20 Jan 2025, Mon, 14:58'

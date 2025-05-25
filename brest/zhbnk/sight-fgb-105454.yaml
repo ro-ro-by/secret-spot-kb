@@ -1,0 +1,33 @@
+id: sight-fgb-105454
+title: 'Хмелевский колодец Анастасии'
+type: spring
+belongsTo:
+    region: region-brest
+    subregion: subregion-zhbnk
+images:
+    -
+        file: d3a1717ee77c5aceff8429346adcb73c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105454'
+        meta:
+            author: 'Александр Строкач'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.25153
+            lon: 23.88796
+        source: fgb
+meta:
+    fgb:
+        post_id: '105454'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105454#105454'
+                version: '03 Jan 2024, Wed, 12:30'

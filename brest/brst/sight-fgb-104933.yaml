@@ -1,0 +1,33 @@
+id: sight-fgb-104933
+title: 'Родник в д.Теребунь'
+type: spring
+belongsTo:
+    region: region-brest
+    subregion: subregion-brst
+images:
+    -
+        file: a108d84d1dc91f2c7909d057764c8d69.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104933'
+        meta:
+            author: 'Viktor 2018k'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.16857
+            lon: 23.52511
+        source: fgb
+meta:
+    fgb:
+        post_id: '104933'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104933#104933'
+                version: '23 Oct 2023, Mon, 15:51'

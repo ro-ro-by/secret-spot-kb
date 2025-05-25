@@ -1,9 +1,18 @@
 id: sight-fgb-75471
-title: Гицевищина
+title: 'Родник ГицЕвищина'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brzn
+images:
+    -
+        file: 0a8bd0be422d2506aef809fb588fd62e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75471'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75471#75471'
-                version: '17 Feb 2020, Mon, 14:02'
+                version: '23 Jan 2025, Thu, 9:22'

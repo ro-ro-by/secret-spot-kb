@@ -1,0 +1,17 @@
+id: sight-fgb-105049
+title: Родник
+type: spring
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-hrdn
+meta:
+    fgb:
+        post_id: '105049'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105049#105049'
+                version: '02 Nov 2023, Thu, 12:47'

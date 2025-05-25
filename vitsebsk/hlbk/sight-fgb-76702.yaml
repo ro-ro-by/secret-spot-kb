@@ -1,9 +1,33 @@
 id: sight-fgb-76702
-title: 'Камень Голубичский (Камень Галубіцкі)'
+title: 'Камень Голубичский'
 type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+images:
+    -
+        file: 9ed25ff04226b770cbd7ecdbbf5f3782.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76702'
+        meta:
+            author: ВалероС
+    -
+        file: 95b2266714745adf44b293a3452bafef.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76702'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.11275
+            lon: 27.96808
+        source: fgb
 meta:
     fgb:
         post_id: '76702'
@@ -14,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76702#76702'
-                version: '24 Jan 2021, Sun, 11:10'
+                version: '31 Oct 2024, Thu, 11:55'

@@ -1,9 +1,18 @@
 id: sight-fgb-99530
-title: Родник
+title: 'Родник Придорожный'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+images:
+    -
+        file: 974c92f0a6f0894b27535a670b6105ca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99530'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99530#99530'
-                version: '23 Jan 2022, Sun, 0:12'
+                version: '11 Dec 2024, Wed, 12:10'

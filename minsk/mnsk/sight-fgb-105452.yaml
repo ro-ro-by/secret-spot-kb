@@ -1,0 +1,33 @@
+id: sight-fgb-105452
+title: 'Купель в честь иконы Божией Матери «Живоносный источник»'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: ff98fb4d99362fcd18c40005696aff11.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105452'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.93775
+            lon: 27.49294
+        source: fgb
+meta:
+    fgb:
+        post_id: '105452'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105452#105452'
+                version: '03 Jan 2024, Wed, 12:21'

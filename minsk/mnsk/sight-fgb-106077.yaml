@@ -1,0 +1,24 @@
+id: sight-fgb-106077
+title: 'Парк «Красная Слобода»'
+type: park
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: 7c4434a4b3aee238963d3bbeff9c391d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106077'
+meta:
+    fgb:
+        post_id: '106077'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106077#106077'
+                version: '18 Apr 2024, Thu, 18:59'

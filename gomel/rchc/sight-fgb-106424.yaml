@@ -1,0 +1,44 @@
+id: sight-fgb-106424
+title: 'Дуб Мінтус'
+type: tree
+belongsTo:
+    region: region-gomel
+    subregion: subregion-rchc
+images:
+    -
+        file: 140303aba51841665f4aea5ce719c1b6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106424'
+    -
+        file: 7871537ad963e0b482c32486b910328f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106424'
+    -
+        file: eaf64cbb9d29b9b850f3c737ea578065.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106424'
+    -
+        file: 24e947ff655881c241dd32ee100c5ef7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106424'
+tree:
+    type: oak
+meta:
+    fgb:
+        post_id: '106424'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106424#106424'
+                version: '01 Jun 2024, Sat, 22:08'

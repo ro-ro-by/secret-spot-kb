@@ -1,9 +1,26 @@
 id: sight-fgb-92236
-title: Родник
+title: 'Родник Иванкава (Иванкин, Лихой)'
 type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-lhv
+images:
+    -
+        file: 020eeca9611f8aafc2a59998a01e3aa7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '92236'
+        meta:
+            author: Victoryor
+    -
+        file: da3aa6fcdcad1384ce9be244190842a3.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '92236'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=92236#92236'
-                version: '15 Nov 2020, Sun, 12:42'
+                version: '23 Oct 2023, Mon, 15:23'

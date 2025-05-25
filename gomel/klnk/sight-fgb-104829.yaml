@@ -1,0 +1,19 @@
+id: sight-fgb-104829
+title: 'Останковичские дубы-близнецы'
+type: tree
+belongsTo:
+    region: region-gomel
+    subregion: subregion-klnk
+tree:
+    type: oak
+meta:
+    fgb:
+        post_id: '104829'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104829#104829'
+                version: '11 Oct 2023, Wed, 14:37'

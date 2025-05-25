@@ -1,0 +1,33 @@
+id: sight-fgb-106476
+title: 'Родник у Берёзового озера'
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-krsk
+images:
+    -
+        file: 68b49c10743d89139c42e38d2550d86a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106476'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.21484
+            lon: 29.25877
+        source: fgb
+meta:
+    fgb:
+        post_id: '106476'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106476#106476'
+                version: '12 Jun 2024, Wed, 14:43'

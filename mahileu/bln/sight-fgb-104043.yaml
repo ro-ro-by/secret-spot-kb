@@ -15,6 +15,45 @@ images:
                 post_id: '104043'
         meta:
             author: 'А. Матеша'
+    -
+        file: f13d9a8e6d63f417bf89ad3beb22d547.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104043'
+        meta:
+            author: Victoryor
+    -
+        file: a21cbfd8a5a700caf9da79b4d723aec9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104043'
+        meta:
+            author: Victoryor
+    -
+        file: 678775141118adade8458242982083be.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104043'
+        meta:
+            author: Victoryor
+    -
+        file: 4db25eeb53e8cea78e8f2b8a37c741ce.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104043'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.806901
+            lon: 29.608871
+        source: fgb
 meta:
     fgb:
         post_id: '104043'
@@ -25,4 +64,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=104043#104043'
-                version: '20 Jun 2023, Tue, 22:52'
+                version: '22 Jan 2025, Wed, 14:30'
