@@ -25,6 +25,13 @@ images:
                 post_id: '78395'
         meta:
             author: 'Зміцер Скварчэўскі'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.770003
+            lon: 28.908358
+        source: fgb
 meta:
     fgb:
         post_id: '78395'
@@ -35,4 +42,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78395#78395'
-                version: '06 Oct 2021, Wed, 21:28'
+                version: '11 Oct 2023, Wed, 13:50'

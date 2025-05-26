@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-stb
+images:
+    -
+        file: 90dfb71ab0dc223ef243f2b9dcb59235.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76033'
+        meta:
+            author: 'Александр Гиль'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76033#76033'
-                version: '23 Jan 2022, Sun, 0:35'
+                version: '12 Dec 2024, Thu, 9:19'

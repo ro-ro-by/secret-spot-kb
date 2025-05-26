@@ -38,6 +38,21 @@ images:
             type: fgb
             fgb:
                 post_id: '77509'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.5292731
+            lon: 26.031853
+        source:
+            type: osm
+            osm:
+                type: node
+                id: 9392994778
+osm:
+    -
+        type: node
+        id: 9392994778
 meta:
     fgb:
         post_id: '77509'

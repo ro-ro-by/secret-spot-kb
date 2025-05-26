@@ -6,6 +6,15 @@ belongsTo:
     subregion: subregion-krsk
 forest:
     dominated_type: oak
+images:
+    -
+        file: e50b2f01c337ce1a7b0b9317db2742f0.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74820'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -23,4 +32,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74820#74820'
-                version: '11 Nov 2022, Fri, 1:08'
+                version: '12 Jun 2024, Wed, 14:38'

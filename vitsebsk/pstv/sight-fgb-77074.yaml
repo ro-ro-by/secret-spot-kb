@@ -4,6 +4,38 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-pstv
+images:
+    -
+        file: c8439fb431c62ab59834dbe44c089af9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77074'
+        meta:
+            author: ВалероС
+    -
+        file: ffb478e02e6c2adcf368764e2b5e9f9c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77074'
+        meta:
+            author: ВалероС
+    -
+        file: 2787c4b0815debeff61a6b2522b6d11b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77074'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.07894
+            lon: 26.294895
+        source: fgb
 meta:
     fgb:
         post_id: '77074'
@@ -14,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77074#77074'
-                version: '20 Aug 2021, Fri, 12:36'
+                version: '31 Oct 2024, Thu, 14:54'

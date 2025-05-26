@@ -1,0 +1,33 @@
+id: sight-fgb-106539
+title: 'Купель Глухариный ток'
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+images:
+    -
+        file: c9e379ff0b8fc5cc495a13dae14e0604.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106539'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.96317
+            lon: 29.65584
+        source: fgb
+meta:
+    fgb:
+        post_id: '106539'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106539#106539'
+                version: '24 Jun 2024, Mon, 12:14'

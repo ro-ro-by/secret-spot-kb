@@ -15,6 +15,19 @@ images:
                 post_id: '96031'
         meta:
             author: 'Л.Дучиц, 2016'
+    -
+        file: f33bf5a9ca3ca1264024481191a3dba9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '96031'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.617822
+            lon: 27.658476
+        source: fgb
 meta:
     fgb:
         post_id: '96031'
@@ -25,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96031#96031'
-                version: '30 Apr 2021, Fri, 18:52'
+                version: '12 Feb 2025, Wed, 13:59'

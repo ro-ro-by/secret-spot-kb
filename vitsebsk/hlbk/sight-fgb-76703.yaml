@@ -1,9 +1,31 @@
 id: sight-fgb-76703
-title: 'Камень Припернянский (Камень Прыпернаўскі)'
+title: 'Камень Припернянский'
 type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-hlbk
+images:
+    -
+        file: f9ccbf0039cc6d6943236a8d15157e7e.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '76703'
+    -
+        file: 588714a25f0bc6fa3f259c09d41abd33.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76703'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.079028
+            lon: 27.642912
+        source: fgb
 meta:
     fgb:
         post_id: '76703'
@@ -14,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76703#76703'
-                version: '24 Jan 2021, Sun, 11:12'
+                version: '31 Oct 2024, Thu, 12:05'

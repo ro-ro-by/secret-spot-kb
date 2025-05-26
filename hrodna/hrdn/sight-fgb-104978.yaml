@@ -1,0 +1,33 @@
+id: sight-fgb-104978
+title: 'Колонка Коложа'
+type: spring
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-hrdn
+images:
+    -
+        file: 260b0176d8430ce48861056eea0ce29e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104978'
+        meta:
+            author: 'Александр Гиль'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.67872
+            lon: 23.81852
+        source: fgb
+meta:
+    fgb:
+        post_id: '104978'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104978#104978'
+                version: '27 Oct 2023, Fri, 12:57'

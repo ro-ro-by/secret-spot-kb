@@ -1,0 +1,33 @@
+id: sight-fgb-107675
+title: 'Родник Касынка'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: 6c058ddbe102f6a1168cfcf23af878f1.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107675'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.07267
+            lon: 27.52094
+        source: fgb
+meta:
+    fgb:
+        post_id: '107675'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107675#107675'
+                version: '12 Dec 2024, Thu, 8:40'

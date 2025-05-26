@@ -1,0 +1,36 @@
+id: sight-fgb-108166
+title: 'Наполеоновская сосна (Вековая сосна)'
+type: tree
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-hlbk
+images:
+    -
+        file: 7cd6b756bc3bd08d6fb65ec7975264ae.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '108166'
+        meta:
+            author: Victoryor
+    -
+        file: b79444f0c39d866ffa51bb3bf12c6097.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '108166'
+        meta:
+            author: Victoryor
+tree:
+    type: pine
+meta:
+    fgb:
+        post_id: '108166'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=108166#108166'
+                version: '24 Feb 2025, Mon, 8:58'

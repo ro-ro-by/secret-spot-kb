@@ -1,0 +1,33 @@
+id: sight-fgb-107668
+title: 'Родник Стрелка-2'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-bshn
+images:
+    -
+        file: c9697ea8568617de88fae25b1f8fd18a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107668'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.05062
+            lon: 29.45596
+        source: fgb
+meta:
+    fgb:
+        post_id: '107668'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107668#107668'
+                version: '11 Dec 2024, Wed, 13:58'

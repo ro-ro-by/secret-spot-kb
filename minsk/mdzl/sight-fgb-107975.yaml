@@ -1,0 +1,24 @@
+id: sight-fgb-107975
+title: 'Архаічная крапільніца'
+type: stone
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mdzl
+images:
+    -
+        file: e595a6814eeef9180c2a814a153c676f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107975'
+meta:
+    fgb:
+        post_id: '107975'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107975#107975'
+                version: '23 Jan 2025, Thu, 10:04'

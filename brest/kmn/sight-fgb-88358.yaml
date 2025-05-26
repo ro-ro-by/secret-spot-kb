@@ -1,9 +1,18 @@
 id: sight-fgb-88358
-title: Родник
+title: 'Родник Рясна'
 type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+images:
+    -
+        file: dc5ecfa41874d687b35b6d24c53e3963.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '88358'
+        meta:
+            author: 'Viktor 2018k'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=88358#88358'
-                version: '09 Apr 2021, Fri, 0:24'
+                version: '02 Nov 2023, Thu, 13:41'

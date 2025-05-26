@@ -1,0 +1,24 @@
+id: sight-fgb-106462
+title: 'Самая вялікая буслянка Беларусі'
+type: tree
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-brsl
+images:
+    -
+        file: a9d9510621dba62c57e9cc4a0ca284ab.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '106462'
+meta:
+    fgb:
+        post_id: '106462'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106462#106462'
+                version: '12 Jun 2024, Wed, 10:01'

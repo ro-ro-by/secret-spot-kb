@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-brsl
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.5437006
+            lon: 27.0760392
+        source: fgb
 meta:
     fgb:
         post_id: '76145'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76145#76145'
-                version: '11 Jan 2020, Sat, 18:47'
+                version: '24 Jan 2025, Fri, 10:52'

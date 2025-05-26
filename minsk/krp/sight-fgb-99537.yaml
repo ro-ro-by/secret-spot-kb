@@ -1,9 +1,27 @@
 id: sight-fgb-99537
-title: Родник
+title: 'Родник Манча (Святой)'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+images:
+    -
+        file: 8158d7028cdfbca927b5c0b2b55dfda4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99537'
+        meta:
+            author: Victoryor
+    -
+        file: 10bae5f9871c9e3d6c97f6d02c4aa774.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99537'
+        meta:
+            author: Victoryor
+            version: '2024'
 location:
     -
         type: point
@@ -21,4 +39,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99537#99537'
-                version: '23 Jan 2022, Sun, 0:22'
+                version: '12 Jun 2024, Wed, 14:18'

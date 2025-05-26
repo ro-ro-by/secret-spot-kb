@@ -4,6 +4,13 @@ type: sacral_hill
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-plck
+images:
+    -
+        file: 74714ea067071bceab575d8cfa94e428.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '103129'
 meta:
     fgb:
         post_id: '103129'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=103129#103129'
-                version: '08 May 2023, Mon, 10:47'
+                version: '25 Jan 2025, Sat, 9:13'

@@ -4,6 +4,23 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+images:
+    -
+        file: a347650f05cc4fd557cdd102ddeccae6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76661'
+        meta:
+            author: Victoryor
+    -
+        file: 5fe404f4f8899e9f361c71db74e9757a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76661'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76661#76661'
-                version: '05 Mar 2020, Thu, 11:17'
+                version: '24 Feb 2025, Mon, 9:09'

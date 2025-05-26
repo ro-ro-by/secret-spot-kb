@@ -13,6 +13,20 @@ images:
             type: fgb
             fgb:
                 post_id: '77374'
+    -
+        file: 327f3b97c2f67afd06f442878bb11884.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77374'
+        meta:
+            author: ВалероС
+    -
+        file: b57a8743d249182db46dfc92f1cc0bd0.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77374'
 tree:
     type: pine
 location:
@@ -32,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77374#77374'
-                version: '08 Nov 2022, Tue, 20:59'
+                version: '25 Dec 2023, Mon, 21:14'

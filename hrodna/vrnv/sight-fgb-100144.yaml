@@ -4,6 +4,15 @@ type: boulder
 belongsTo:
     region: region-hrodna
     subregion: subregion-vrnv
+images:
+    -
+        file: 982f5eddc62a37df3c4521cc6c623537.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100144'
+        meta:
+            author: 'Теодор Нарбут'
 meta:
     fgb:
         post_id: '100144'
@@ -14,4 +23,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=100144#100144'
-                version: '18 May 2022, Wed, 8:17'
+                version: '22 Jan 2025, Wed, 11:51'

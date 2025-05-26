@@ -16,6 +16,27 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1987
+    -
+        file: 6ce373af0f6962f17ec1ae8fa0daedca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '70800'
+    -
+        file: 980c589e804c3f25c09194565fd58d46.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '70800'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.856438
+            lon: 29.213251
+        source: fgb
 meta:
     fgb:
         post_id: '70800'
@@ -26,4 +47,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=70800#70800'
-                version: '17 May 2022, Tue, 12:44'
+                version: '23 Jan 2025, Thu, 9:25'

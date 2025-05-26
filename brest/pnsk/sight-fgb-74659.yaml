@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-pnsk
+images:
+    -
+        file: 8c6b5e14ffae21ebff4a9d9a222c6e50.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74659'
+        meta:
+            author: 'Александр Строкач'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74659#74659'
-                version: '09 Apr 2021, Fri, 13:36'
+                version: '24 Jun 2024, Mon, 12:58'

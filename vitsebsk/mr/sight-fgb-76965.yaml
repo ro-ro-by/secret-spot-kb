@@ -4,6 +4,20 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-mr
+images:
+    -
+        file: 191220d441143f8491fe495bb2760156.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76965'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.717383
+            lon: 27.564273
+        source: fgb
 meta:
     fgb:
         post_id: '76965'
@@ -14,4 +28,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76965#76965'
-                version: '30 Apr 2021, Fri, 18:34'
+                version: '24 Feb 2025, Mon, 8:47'

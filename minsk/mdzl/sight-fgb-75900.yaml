@@ -40,6 +40,12 @@ images:
                 post_id: '75900'
         meta:
             author: Victoryor
+    -
+        file: dec0658c1e1f6c40aae30fd01a4a08b1.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '75900'
 location:
     -
         type: point
@@ -57,4 +63,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75900#75900'
-                version: '30 Oct 2021, Sat, 20:52'
+                version: '09 Oct 2023, Mon, 15:51'

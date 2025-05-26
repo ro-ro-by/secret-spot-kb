@@ -4,6 +4,29 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-przh
+images:
+    -
+        file: 1f267b46331f488258c155bab5c4176f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74678'
+        meta:
+            author: Victoryor
+            version: '2025'
+    -
+        file: 57d025d4c288168148f4a4a68e778f27.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74678'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.555939
+            lon: 24.581717
+        source: fgb
 meta:
     fgb:
         post_id: '74678'
@@ -14,4 +37,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74678#74678'
-                version: '05 Apr 2022, Tue, 9:02'
+                version: '23 Jan 2025, Thu, 10:50'

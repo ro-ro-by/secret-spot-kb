@@ -1,0 +1,31 @@
+id: sight-fgb-104980
+title: 'Бювет Андрея Первозванного'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: f0491ea527b11e0f4331980f22bc8121.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104980'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.85244
+            lon: 27.61751
+        source: fgb
+meta:
+    fgb:
+        post_id: '104980'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104980#104980'
+                version: '27 Oct 2023, Fri, 13:49'

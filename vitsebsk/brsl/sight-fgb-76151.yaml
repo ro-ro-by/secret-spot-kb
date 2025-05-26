@@ -43,6 +43,13 @@ images:
             type: fgb
             fgb:
                 post_id: '76151'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.4673389
+            lon: 26.999449
+        source: fgb
 meta:
     fgb:
         post_id: '76151'
@@ -53,4 +60,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76151#76151'
-                version: '13 Jun 2020, Sat, 0:33'
+                version: '24 Jan 2025, Fri, 13:06'

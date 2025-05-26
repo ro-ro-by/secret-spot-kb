@@ -1,0 +1,24 @@
+id: sight-fgb-107999
+title: 'Женский камень'
+type: stone
+belongsTo:
+    region: region-minsk
+    subregion: subregion-krp
+images:
+    -
+        file: 8d5592bfc32334d7ce08acf6929e4d68.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107999'
+meta:
+    fgb:
+        post_id: '107999'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107999#107999'
+                version: '25 Jan 2025, Sat, 11:21'

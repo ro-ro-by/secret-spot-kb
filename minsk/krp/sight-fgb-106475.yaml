@@ -1,0 +1,33 @@
+id: sight-fgb-106475
+title: 'Старый Сокол-2'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-krp
+images:
+    -
+        file: ec182901d13581a4bfd433972d0f0b93.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106475'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.13268
+            lon: 29.21573
+        source: fgb
+meta:
+    fgb:
+        post_id: '106475'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106475#106475'
+                version: '12 Jun 2024, Wed, 14:26'

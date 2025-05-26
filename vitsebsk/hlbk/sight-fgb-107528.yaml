@@ -1,0 +1,24 @@
+id: sight-fgb-107528
+title: Валун
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-hlbk
+images:
+    -
+        file: 2d08660b7ad9f079f6e26e4cab7cdb51.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107528'
+meta:
+    fgb:
+        post_id: '107528'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107528#107528'
+                version: '31 Oct 2024, Thu, 11:29'

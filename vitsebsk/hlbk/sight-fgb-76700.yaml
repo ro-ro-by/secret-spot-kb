@@ -1,5 +1,5 @@
 id: sight-fgb-76700
-title: 'Большой камень Давыдковский (Вялікі каменнь Давідкаўскі)'
+title: 'Большой камень Давыдковский'
 type: boulder
 belongsTo:
     region: region-vitsebsk
@@ -14,6 +14,21 @@ images:
             type: fgb
             fgb:
                 post_id: '76700'
+    -
+        file: 5953aee3d6882dd1474376e3ee901364.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76700'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.124288
+            lon: 28.032437
+        source: fgb
 meta:
     fgb:
         post_id: '76700'
@@ -24,4 +39,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76700#76700'
-                version: '24 Jan 2021, Sun, 10:47'
+                version: '31 Oct 2024, Thu, 11:56'

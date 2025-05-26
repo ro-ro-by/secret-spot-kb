@@ -1,0 +1,33 @@
+id: sight-fgb-106473
+title: Валун
+type: boulder
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-aspv
+images:
+    -
+        file: c3ba1f0e5f057ebb1651426a194b0a85.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106473'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.451249
+            lon: 28.955903
+        source: fgb
+meta:
+    fgb:
+        post_id: '106473'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106473#106473'
+                version: '12 Jun 2024, Wed, 13:52'

@@ -1,0 +1,40 @@
+id: sight-fgb-107985
+title: 'Родник Меньково'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: b87df1b27c88daf873bc7a9a452b6430.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107985'
+    -
+        file: 896c0bd6b51afbd6bc37e5408bc5d0a3.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107985'
+        meta:
+            author: 'Антон Комаров'
+            version: '2024'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.8771
+            lon: 27.28145
+        source: fgb
+meta:
+    fgb:
+        post_id: '107985'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107985#107985'
+                version: '24 Jan 2025, Fri, 9:34'

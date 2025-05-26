@@ -32,6 +32,20 @@ images:
                 post_id: '77579'
         meta:
             author: ВалероС
+    -
+        file: f671a90af1f46c81b206a9bb8682d031.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77579'
+    -
+        file: 3cb7a445cc37e0e6b898d2ddeb496481.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77579'
+        meta:
+            author: ЗУК
 meta:
     fgb:
         post_id: '77579'
@@ -42,4 +56,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77579#77579'
-                version: '30 Oct 2021, Sat, 22:08'
+                version: '27 Dec 2023, Wed, 21:05'

@@ -1,9 +1,18 @@
 id: sight-fgb-97369
-title: Родник
+title: 'Родник Стрелка-1'
 type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-bshn
+images:
+    -
+        file: 6f19162a58542894d473a3e80492d2e2.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '97369'
+        meta:
+            author: 'Антон Комаров'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=97369#97369'
-                version: '27 Jan 2021, Wed, 14:05'
+                version: '11 Dec 2024, Wed, 13:15'

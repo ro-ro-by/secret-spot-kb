@@ -32,6 +32,45 @@ images:
             type: fgb
             fgb:
                 post_id: '77134'
+    -
+        file: a1b508e1e70c4757204f1f44a11c4853.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77134'
+        meta:
+            author: Victoryor
+    -
+        file: 496208323108cafafaece2274f6329b4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77134'
+        meta:
+            author: Victoryor
+    -
+        file: 460bcf2f45ac52a1140db1ea4a751565.jpeg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77134'
+        meta:
+            author: Victoryor
+    -
+        file: 67b9c5b9df7da4b8a79d4290d8156b64.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77134'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.97039
+            lon: 29.700683
+        source: fgb
 meta:
     fgb:
         post_id: '77134'
@@ -42,4 +81,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77134#77134'
-                version: '02 Oct 2021, Sat, 11:59'
+                version: '31 Dec 2023, Sun, 14:05'

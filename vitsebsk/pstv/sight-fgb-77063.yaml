@@ -29,13 +29,43 @@ images:
             type: fgb
             fgb:
                 post_id: '77063'
+    -
+        file: 2cd79cfc368a7f4be1c2c0ead5939f09.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77063'
+        meta:
+            author: ВалероС
+    -
+        file: c83336f87c444a05c436b39336d2266b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77063'
+        meta:
+            author: ВалероС
+    -
+        file: c09b49ed2d19fdd67b56987430e90d41.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77063'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
         coordinates:
-            lat: 55.0375
-            lon: 26.53333
-        source: fgb
+            lat: 55.03356
+            lon: 26.53434
+        source:
+            author:
+                name: ВалероС
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106007#106007'
+                version: '08 Apr 2024, Mon, 12:43'
 meta:
     fgb:
         post_id: '77063'
@@ -46,4 +76,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77063#77063'
-                version: '28 Apr 2022, Thu, 11:51'
+                version: '31 Oct 2024, Thu, 14:44'

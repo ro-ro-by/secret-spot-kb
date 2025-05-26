@@ -1,0 +1,33 @@
+id: sight-fgb-104977
+title: 'Родник Татарский (на Пролетарской)'
+type: spring
+belongsTo:
+    region: region-brest
+    subregion: subregion-brnv
+images:
+    -
+        file: 63b433710754174d45deefa42d2875f4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104977'
+        meta:
+            author: 'Александр Гиль'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.33242
+            lon: 26.00943
+        source: fgb
+meta:
+    fgb:
+        post_id: '104977'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104977#104977'
+                version: '27 Oct 2023, Fri, 12:44'

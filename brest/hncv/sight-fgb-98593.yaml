@@ -4,6 +4,15 @@ type: area
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+images:
+    -
+        file: 8dc93d0e50d7526540e79076775ad440.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98593'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98593#98593'
-                version: '02 Sep 2021, Thu, 21:41'
+                version: '11 Oct 2023, Wed, 14:17'

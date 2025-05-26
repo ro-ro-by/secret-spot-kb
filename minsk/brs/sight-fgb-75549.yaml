@@ -1,9 +1,18 @@
 id: sight-fgb-75549
-title: "Ёзусик\t(Святого Яна)"
+title: 'Ёзусик (Святого Яна)'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+images:
+    -
+        file: 4e74da3f80558bce57df9d58adab9343.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75549'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75549#75549'
-                version: '04 Mar 2020, Wed, 16:16'
+                version: '11 Dec 2024, Wed, 11:56'

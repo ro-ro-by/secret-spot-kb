@@ -15,6 +15,14 @@ images:
                 post_id: '78681'
         meta:
             author: Strela
+    -
+        file: 8d3434c10001b9e008318681c38507ba.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78681'
+        meta:
+            author: 'Леонид Гапеенко'
 location:
     -
         type: point
@@ -32,4 +40,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78681#78681'
-                version: '27 Jan 2021, Wed, 14:31'
+                version: '09 Dec 2024, Mon, 13:14'

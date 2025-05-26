@@ -1,0 +1,30 @@
+id: sight-fgb-107998
+title: Городище
+type: sacral_hill
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-brstv
+images:
+    -
+        file: e9306a1ad7e48c3f57179f73120a6bbc.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107998'
+    -
+        file: f91ecb3394f3784d3b24402feb2e4216.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107998'
+meta:
+    fgb:
+        post_id: '107998'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107998#107998'
+                version: '25 Jan 2025, Sat, 10:40'

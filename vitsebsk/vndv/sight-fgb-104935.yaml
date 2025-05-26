@@ -1,0 +1,33 @@
+id: sight-fgb-104935
+title: 'Родник Евфросиниевский (Боровский)'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vndv
+images:
+    -
+        file: 54857c07fc4fdb49dddc2ad992b0bcb5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104935'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.80966
+            lon: 27.93209
+        source: fgb
+meta:
+    fgb:
+        post_id: '104935'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104935#104935'
+                version: '02 Nov 2023, Thu, 12:26'

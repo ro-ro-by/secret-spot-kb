@@ -1,9 +1,18 @@
 id: sight-fgb-88377
-title: Родник
+title: 'Родник Калоницы'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+images:
+    -
+        file: 9a868d28bc0a9c3104155705fe3c0e2c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '88377'
+        meta:
+            author: 'Максим Астрейко'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=88377#88377'
-                version: '26 Jan 2021, Tue, 13:56'
+                version: '20 Oct 2023, Fri, 15:14'

@@ -1,9 +1,18 @@
 id: sight-fgb-75848
-title: Родник
+title: 'Родник Раубичи'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-mnsk
+images:
+    -
+        file: fd37c2d3c156147443475b50ca9743d9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75848'
+        meta:
+            author: 'Максим Астрейко'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75848#75848'
-                version: '24 Jan 2021, Sun, 23:17'
+                version: '20 Oct 2023, Fri, 15:05'

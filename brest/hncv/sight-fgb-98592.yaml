@@ -4,6 +4,15 @@ type: boulder
 belongsTo:
     region: region-brest
     subregion: subregion-hncv
+images:
+    -
+        file: 04769cfb68876fdb2231c77343b0ce6e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98592'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98592#98592'
-                version: '02 Sep 2021, Thu, 21:39'
+                version: '11 Oct 2023, Wed, 14:16'

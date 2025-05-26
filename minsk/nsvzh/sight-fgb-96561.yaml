@@ -29,6 +29,12 @@ images:
             type: fgb
             fgb:
                 post_id: '96561'
+    -
+        file: 04a8300ad89c40d71a246a44eb1be587.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '96561'
 location:
     -
         type: point
@@ -46,4 +52,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=96561#96561'
-                version: '06 Jul 2022, Wed, 16:23'
+                version: '02 Jun 2024, Sun, 19:36'

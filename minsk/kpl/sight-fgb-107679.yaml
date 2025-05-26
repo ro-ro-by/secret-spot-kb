@@ -1,0 +1,31 @@
+id: sight-fgb-107679
+title: 'Родник Великая Раёвка (Святой)'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-kpl
+images:
+    -
+        file: e76f3000f441035c361ed2983b1c771d.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107679'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.12604
+            lon: 26.90027
+        source: fgb
+meta:
+    fgb:
+        post_id: '107679'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107679#107679'
+                version: '12 Dec 2024, Thu, 9:35'

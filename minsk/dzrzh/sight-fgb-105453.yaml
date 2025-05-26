@@ -1,0 +1,24 @@
+id: sight-fgb-105453
+title: 'Михалевщинская криница'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-dzrzh
+images:
+    -
+        file: af862f6cc323f8a2cb28cfea53996725.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105453'
+meta:
+    fgb:
+        post_id: '105453'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105453#105453'
+                version: '03 Jan 2024, Wed, 12:23'

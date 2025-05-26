@@ -1,0 +1,31 @@
+id: sight-fgb-106193
+title: 'Великоритские грабы'
+type: forest
+belongsTo:
+    region: region-brest
+    subregion: subregion-mlrt
+images:
+    -
+        file: 4c2e028403658d42743dccde5a392e48.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106193'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 51.936194
+            lon: 24.067806
+        source: fgb
+meta:
+    fgb:
+        post_id: '106193'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106193#106193'
+                version: '26 Apr 2024, Fri, 22:37'

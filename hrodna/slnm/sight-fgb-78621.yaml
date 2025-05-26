@@ -1,5 +1,5 @@
 id: sight-fgb-78621
-title: 'Белая криница (Альбертин)'
+title: 'Белая криница'
 type: spring
 belongsTo:
     region: region-hrodna
@@ -13,26 +13,6 @@ images:
             type: fgb
             fgb:
                 post_id: '78621'
-    -
-        file: baa3d384d71b4d95f4ba272773a4da55.jpg
-        tags:
-            - 'image-tag:object:photo'
-        source:
-            type: fgb
-            fgb:
-                post_id: '78621'
-        meta:
-            author: ВалероС
-    -
-        file: f4d699d4cd44952e5785b02b11e622ac.jpg
-        tags:
-            - 'image-tag:object:info'
-        source:
-            type: fgb
-            fgb:
-                post_id: '78621'
-        meta:
-            author: ВалероС
 location:
     -
         type: point
@@ -50,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78621#78621'
-                version: '20 Jun 2023, Tue, 22:39'
+                version: '02 Nov 2023, Thu, 13:50'

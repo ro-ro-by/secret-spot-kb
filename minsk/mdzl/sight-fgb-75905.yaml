@@ -41,6 +41,13 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1995
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.939375
+            lon: 26.938064
+        source: fgb
 meta:
     fgb:
         post_id: '75905'
@@ -51,4 +58,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75905#75905'
-                version: '19 May 2022, Thu, 12:00'
+                version: '09 Oct 2023, Mon, 15:55'

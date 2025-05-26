@@ -1,9 +1,18 @@
 id: sight-fgb-92224
-title: Родник
+title: 'Родник У пчелопитомника'
 type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brst
+images:
+    -
+        file: adfd4dbb54df38c58e9fde8f5d6b7f01.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '92224'
+        meta:
+            author: 'Viktor 2018k'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=92224#92224'
-                version: '20 Jun 2020, Sat, 21:35'
+                version: '02 Nov 2023, Thu, 13:04'

@@ -32,6 +32,21 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 2000
+    -
+        file: 27ee7a08fef3f1533a6408719c073fb3.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77328'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: '53.56522'
+            lon: '23.94847'
+        source: schema
 meta:
     fgb:
         post_id: '77328'
@@ -42,4 +57,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77328#77328'
-                version: '20 Jun 2022, Mon, 10:29'
+                version: '26 Apr 2024, Fri, 15:45'

@@ -1,9 +1,18 @@
 id: sight-fgb-78320
-title: Родник
+title: 'Родник Бриксичи'
 type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-brnv
+images:
+    -
+        file: 960aac6070cca9d4937d69f8ebd2ba18.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78320'
+        meta:
+            author: 'Александр Гиль'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78320#78320'
-                version: '01 Feb 2021, Mon, 21:29'
+                version: '27 Oct 2023, Fri, 12:48'

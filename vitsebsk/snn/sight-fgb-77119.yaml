@@ -27,6 +27,37 @@ images:
         meta:
             author: 'В. Вінакураў'
             version: 1990
+    -
+        file: 1931161d173d7162083ae0b6f575ebc6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77119'
+        meta:
+            author: Victoryor
+    -
+        file: 63f8f5a1bc90284f56e6a905eb91635e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77119'
+        meta:
+            author: Victoryor
+    -
+        file: 1b53a22c75e07c84e620ea8390c05059.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77119'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.727402
+            lon: 29.717118
+        source: fgb
 meta:
     fgb:
         post_id: '77119'
@@ -37,4 +68,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77119#77119'
-                version: '08 Jun 2021, Tue, 13:12'
+                version: '11 Oct 2023, Wed, 13:52'

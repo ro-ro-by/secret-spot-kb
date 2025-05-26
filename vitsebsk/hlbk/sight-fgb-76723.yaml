@@ -13,6 +13,30 @@ images:
             type: fgb
             fgb:
                 post_id: '76723'
+    -
+        file: f0a179d8bbe3d7c0a04e63dc7168e548.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76723'
+        meta:
+            author: ВалероС
+    -
+        file: 95b259c6881cb587945e1226cf29d940.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76723'
+        meta:
+            author: ВалероС
+    -
+        file: 797648c029ae6bd5a74ff121ae3e17c7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76723'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -30,4 +54,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76723#76723'
-                version: '23 Jan 2021, Sat, 10:03'
+                version: '11 Dec 2024, Wed, 9:46'

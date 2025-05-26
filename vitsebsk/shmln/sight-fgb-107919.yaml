@@ -1,0 +1,24 @@
+id: sight-fgb-107919
+title: 'Крупчансий валун'
+type: boulder
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-shmln
+images:
+    -
+        file: ed589e82937dcac11e567d553daa4dd0.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107919'
+meta:
+    fgb:
+        post_id: '107919'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107919#107919'
+                version: '17 Jan 2025, Fri, 22:18'

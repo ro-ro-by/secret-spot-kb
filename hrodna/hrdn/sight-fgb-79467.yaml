@@ -4,6 +4,16 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-hrdn
+images:
+    -
+        file: b0434d1d84fb021aa22c028f6e0736ac.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '79467'
+        meta:
+            author: 'Антон Комаров'
+            version: '2023'
 location:
     -
         type: point
@@ -21,4 +31,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=79467#79467'
-                version: '03 Dec 2021, Fri, 10:05'
+                version: '27 Oct 2023, Fri, 13:37'

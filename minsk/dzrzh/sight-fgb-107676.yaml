@@ -1,0 +1,31 @@
+id: sight-fgb-107676
+title: 'Чаплянская криница'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-dzrzh
+images:
+    -
+        file: fdb703542b0d9f5682a6a5c742383fcb.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107676'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.74671
+            lon: 27.09864
+        source: fgb
+meta:
+    fgb:
+        post_id: '107676'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107676#107676'
+                version: '22 Jan 2025, Wed, 14:23'

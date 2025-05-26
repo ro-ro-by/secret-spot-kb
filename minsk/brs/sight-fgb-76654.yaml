@@ -1,9 +1,18 @@
 id: sight-fgb-76654
-title: Родник
+title: 'Родник Зембин-1 (на Колхозной)'
 type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-brs
+images:
+    -
+        file: 4c60c7c54c42892b9393a5c6e1dd0107.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76654'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76654#76654'
-                version: '04 Mar 2020, Wed, 16:18'
+                version: '11 Dec 2024, Wed, 13:04'

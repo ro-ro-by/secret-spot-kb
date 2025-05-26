@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-hrodna
     subregion: subregion-dtl
+images:
+    -
+        file: 566d64e81dba366bef8c16fc28732e7b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77363'
+        meta:
+            author: 'Александр Гиль'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77363#77363'
-                version: '20 Aug 2021, Fri, 17:00'
+                version: '09 Dec 2024, Mon, 13:21'

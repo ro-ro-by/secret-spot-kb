@@ -30,6 +30,29 @@ images:
             type: fgb
             fgb:
                 post_id: '75902'
+    -
+        file: ac4f21e6be661edaa7f8120d4d29d934.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75902'
+        meta:
+            author: ВалероС
+    -
+        file: f3c9e017b6ec9a595fa96902def403f4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75902'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.93995
+            lon: 26.76786
+        source: fgb
 meta:
     fgb:
         post_id: '75902'
@@ -40,4 +63,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75902#75902'
-                version: '26 Apr 2021, Mon, 21:21'
+                version: '09 Oct 2023, Mon, 16:02'

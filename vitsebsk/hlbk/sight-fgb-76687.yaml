@@ -22,6 +22,22 @@ images:
             type: fgb
             fgb:
                 post_id: '76687'
+    -
+        file: 746ef9e2cb34dda05328b0797248ac57.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76687'
+        meta:
+            author: ВалероС
+    -
+        file: 1548a85603ac887df59b09fb11955aa0.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76687'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -39,4 +55,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76687#76687'
-                version: '22 Jan 2021, Fri, 22:12'
+                version: '31 Oct 2024, Thu, 11:52'

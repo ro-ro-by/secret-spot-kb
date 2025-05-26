@@ -32,6 +32,21 @@ images:
             type: fgb
             fgb:
                 post_id: '75542'
+    -
+        file: 9816bd1e34faed30c693ac06347b33ea.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75542'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.502075
+            lon: 28.221788
+        source: fgb
 meta:
     fgb:
         post_id: '75542'
@@ -42,4 +57,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75542#75542'
-                version: '04 Jun 2021, Fri, 16:34'
+                version: '22 Jan 2025, Wed, 12:05'

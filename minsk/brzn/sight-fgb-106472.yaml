@@ -1,0 +1,24 @@
+id: sight-fgb-106472
+title: 'Жертвенный пень'
+type: stone
+belongsTo:
+    region: region-minsk
+    subregion: subregion-brzn
+images:
+    -
+        file: ff28fc0cb89ad2de63a0192b9dbd4111.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '106472'
+meta:
+    fgb:
+        post_id: '106472'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106472#106472'
+                version: '12 Jun 2024, Wed, 13:47'

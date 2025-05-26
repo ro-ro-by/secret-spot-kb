@@ -1,9 +1,25 @@
 id: sight-fgb-78345
-title: Турский
+title: 'Родник Турский'
 type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+images:
+    -
+        file: 8212f23f5c56eb1edb484bc6a7fee7b6.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '78345'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.71659
+            lon: 28.07031
+        source: fgb
 meta:
     fgb:
         post_id: '78345'
@@ -14,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78345#78345'
-                version: '30 Jun 2020, Tue, 21:20'
+                version: '02 Nov 2023, Thu, 12:31'

@@ -1,0 +1,42 @@
+id: sight-fgb-107960
+title: 'Родник Малыш'
+type: spring
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-bln
+images:
+    -
+        file: ce6cb1c7fd510d34e0eccbcaba055585.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107960'
+        meta:
+            author: 'Сергей Юшкевич'
+            version: '2004'
+    -
+        file: 8f624b7c4086f332ba7ab758180824d2.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107960'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.81399
+            lon: 29.56838
+        source: fgb
+meta:
+    fgb:
+        post_id: '107960'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107960#107960'
+                version: '22 Jan 2025, Wed, 14:12'

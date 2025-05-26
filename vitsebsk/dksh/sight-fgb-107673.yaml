@@ -1,0 +1,33 @@
+id: sight-fgb-107673
+title: 'Родник Марговица'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-dksh
+images:
+    -
+        file: baf303679dfc6a21b1b445adb3f55176.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107673'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.74144
+            lon: 28.08393
+        source: fgb
+meta:
+    fgb:
+        post_id: '107673'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107673#107673'
+                version: '12 Dec 2024, Thu, 8:22'

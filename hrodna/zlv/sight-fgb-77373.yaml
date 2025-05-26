@@ -13,6 +13,38 @@ images:
             type: fgb
             fgb:
                 post_id: '77373'
+    -
+        file: b18802b25352d760bc5264226870aa96.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77373'
+        meta:
+            author: ВалероС
+    -
+        file: 9b2c30a5b9eb5214ef6f95db33f779bc.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77373'
+        meta:
+            author: ВалероС
+    -
+        file: 0f299b96863f2b9712814ba63d88d41b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77373'
+        meta:
+            author: ВалероС
+    -
+        file: df67fa20af8a9664670ec9db257369c2.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77373'
+        meta:
+            author: ВалероС
 tree:
     type: oak
 location:
@@ -32,4 +64,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77373#77373'
-                version: '08 Nov 2022, Tue, 20:58'
+                version: '25 Dec 2023, Mon, 21:11'

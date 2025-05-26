@@ -1,0 +1,33 @@
+id: sight-fgb-104930
+title: 'Родник Овчинниковых'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-shmln
+images:
+    -
+        file: be5957375e014455a7609757bd5c9493.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104930'
+        meta:
+            author: Кривич
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.13297
+            lon: 29.61388
+        source: fgb
+meta:
+    fgb:
+        post_id: '104930'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104930#104930'
+                version: '23 Oct 2023, Mon, 14:54'

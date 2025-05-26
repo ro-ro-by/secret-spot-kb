@@ -1,9 +1,32 @@
 id: sight-fgb-75438
-title: 1-Р
+title: 'Бювет Приднепровский (Скважины 1-Р, 2-Р, 3-Р и 4-Р)'
 type: spring
 belongsTo:
     region: region-gomel
     subregion: subregion-rgch
+images:
+    -
+        file: 9c5fec555aea804d11705b63881f316a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75438'
+    -
+        file: 8e3f49b9503e10c76200a1d4db0fa8c4.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75438'
+        meta:
+            author: Victoryor
+            version: '2024'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.07959
+            lon: 30.20118
+        source: fgb
 meta:
     fgb:
         post_id: '75438'
@@ -14,4 +37,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75438#75438'
-                version: '15 Nov 2021, Mon, 10:31'
+                version: '24 Jun 2024, Mon, 12:06'

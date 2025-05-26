@@ -4,6 +4,15 @@ type: tree
 belongsTo:
     region: region-minsk
     subregion: subregion-lbn
+images:
+    -
+        file: be8216ca2fe56bad92a147eee1ebe6d7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75767'
+        meta:
+            author: N-35
 tree:
     type: tilia
 location:
@@ -23,4 +32,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75767#75767'
-                version: '10 Nov 2022, Thu, 22:10'
+                version: '29 Sep 2023, Fri, 0:42'

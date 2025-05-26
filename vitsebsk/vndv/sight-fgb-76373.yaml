@@ -1,9 +1,18 @@
 id: sight-fgb-76373
-title: Родник
+title: 'Родник Борковичи-1'
 type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-vndv
+images:
+    -
+        file: 0ea2164825f95351634e2b8b642cdf0c.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76373'
+        meta:
+            author: 'Антон Комаров'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76373#76373'
-                version: '01 Jul 2020, Wed, 0:22'
+                version: '23 Oct 2023, Mon, 16:05'

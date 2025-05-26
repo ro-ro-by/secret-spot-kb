@@ -42,6 +42,22 @@ images:
             type: fgb
             fgb:
                 post_id: '77620'
+    -
+        file: 694f20a37ed25d511036dbe194aabfab.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77620'
+        meta:
+            author: ВалероС
+    -
+        file: 2f3e2278bd9990ffe01fe9f598d78104.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77620'
+        meta:
+            author: ВалероС
 location:
     -
         type: point
@@ -59,4 +75,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77620#77620'
-                version: '26 Nov 2021, Fri, 10:01'
+                version: '03 Oct 2023, Tue, 23:25'

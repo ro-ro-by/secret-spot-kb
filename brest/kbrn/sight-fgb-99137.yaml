@@ -15,6 +15,13 @@ images:
                 post_id: '99137'
         meta:
             author: 'Николай Кузич'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.19338
+            lon: 24.20858
+        source: fgb
 meta:
     fgb:
         post_id: '99137'
@@ -25,4 +32,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99137#99137'
-                version: '05 Apr 2022, Tue, 10:35'
+                version: '12 Dec 2024, Thu, 9:48'

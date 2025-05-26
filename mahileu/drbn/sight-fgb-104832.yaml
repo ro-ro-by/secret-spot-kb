@@ -1,0 +1,17 @@
+id: sight-fgb-104832
+title: Валуны
+type: boulder
+belongsTo:
+    region: region-mahileu
+    subregion: subregion-drbn
+meta:
+    fgb:
+        post_id: '104832'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104832#104832'
+                version: '11 Oct 2023, Wed, 14:57'

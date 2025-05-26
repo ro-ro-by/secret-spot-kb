@@ -4,6 +4,31 @@ type: spring
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+images:
+    -
+        file: 817a37511df4429d4a03864da8d85a5f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98390'
+        meta:
+            author: Victoryor
+    -
+        file: e7ecc255d6dc2dcb7141974cf9b62c2b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98390'
+        meta:
+            author: Victoryor
+    -
+        file: 334c84cc4429c67f479b5ea86a20d556.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '98390'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +46,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=98390#98390'
-                version: '04 Aug 2021, Wed, 22:43'
+                version: '24 Feb 2025, Mon, 9:29'

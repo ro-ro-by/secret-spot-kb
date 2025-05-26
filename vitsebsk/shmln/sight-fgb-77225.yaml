@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-shmln
+images:
+    -
+        file: 344e125182e2429ed4dbb6878b9854b7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77225'
 meta:
     fgb:
         post_id: '77225'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77225#77225'
-                version: '17 Aug 2022, Wed, 23:47'
+                version: '17 Jan 2025, Fri, 22:15'

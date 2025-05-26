@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-brest
     subregion: subregion-kmn
+images:
+    -
+        file: 156b50c6517ea4cfb10a656581a78438.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '74597'
+        meta:
+            author: 'Viktor 2018k'
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74597#74597'
-                version: '13 Nov 2020, Fri, 21:26'
+                version: '02 Nov 2023, Thu, 13:37'

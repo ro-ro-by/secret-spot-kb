@@ -6,6 +6,25 @@ belongsTo:
     subregion: subregion-stb
 forest:
     dominated_type: tilia
+images:
+    -
+        file: 64c25b2c26b0f5e95676418b2e8224b7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76019'
+    -
+        file: 53dae18b077137b2cd6f5109b7fce327.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76019'
+    -
+        file: a4b52f2e744be3aa5252d7f483e04cd5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76019'
 location:
     -
         type: point
@@ -23,4 +42,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76019#76019'
-                version: '09 Nov 2022, Wed, 0:05'
+                version: '13 Oct 2023, Fri, 6:52'

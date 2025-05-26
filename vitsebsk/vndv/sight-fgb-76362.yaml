@@ -6,29 +6,13 @@ belongsTo:
     subregion: subregion-vndv
 images:
     -
-        file: a02fd10d9356e30e07a28f2750c81498.jpg
-        tags:
-            - 'image-tag:object:photo'
+        file: 351f9cdbf6a4bf76d1921a4780cb1dd4.jpg
         source:
             type: fgb
             fgb:
                 post_id: '76362'
-    -
-        file: 3f933ea6c84074145d7082301cde4d28.jpg
-        tags:
-            - 'image-tag:object:photo'
-        source:
-            type: fgb
-            fgb:
-                post_id: '76362'
-    -
-        file: f253fa86283c41c4310e5c4540a97aa6.jpg
-        tags:
-            - 'image-tag:object:schema'
-        source:
-            type: fgb
-            fgb:
-                post_id: '76362'
+        meta:
+            author: 'Антон Комаров'
 location:
     -
         type: point
@@ -59,4 +43,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76362#76362'
-                version: '02 Jul 2020, Thu, 16:47'
+                version: '27 Oct 2023, Fri, 9:38'

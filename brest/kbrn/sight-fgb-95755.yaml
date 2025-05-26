@@ -17,6 +17,13 @@ images:
             author: ЗУК
 tree:
     type: oak
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.233639
+            lon: 24.720333
+        source: fgb
 meta:
     fgb:
         post_id: '95755'
@@ -27,4 +34,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=95755#95755'
-                version: '22 Sep 2022, Thu, 22:16'
+                version: '13 Nov 2023, Mon, 21:20'

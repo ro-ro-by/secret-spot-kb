@@ -1,9 +1,24 @@
 id: sight-fgb-99422
-title: Бювет
+title: 'Бювет Ленина №2 и №4'
 type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-bbr
+images:
+    -
+        file: c2cc8914ae316fa06784846ece93d5e5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99422'
+    -
+        file: 674a0fc9f552cb7347b4e6255a5895ca.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99422'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99422#99422'
-                version: '08 Jan 2022, Sat, 20:27'
+                version: '23 Oct 2023, Mon, 15:46'

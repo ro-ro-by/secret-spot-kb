@@ -1,0 +1,24 @@
+id: sight-fgb-105048
+title: Родник
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vndv
+images:
+    -
+        file: 01cfab5e8e99ca1c3cd91873b815c7e5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '105048'
+meta:
+    fgb:
+        post_id: '105048'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=105048#105048'
+                version: '02 Nov 2023, Thu, 12:36'

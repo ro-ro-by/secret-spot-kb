@@ -1,9 +1,18 @@
 id: sight-fgb-104060
-title: Лапичи
+title: Лапка
 type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-aspv
+images:
+    -
+        file: 1e2c8f4697ed8d8f803444fe98e47945.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104060'
+        meta:
+            author: Victoryor
 location:
     -
         type: point

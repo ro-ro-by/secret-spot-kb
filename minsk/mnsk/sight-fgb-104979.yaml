@@ -1,0 +1,33 @@
+id: sight-fgb-104979
+title: 'Бювет Взыскание Погибшим'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-mnsk
+images:
+    -
+        file: 4d85cc8a944a0f4382bf0a5abfd3dc1f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104979'
+        meta:
+            author: 'Антон Комаров'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.9327
+            lon: 27.56727
+        source: fgb
+meta:
+    fgb:
+        post_id: '104979'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104979#104979'
+                version: '27 Oct 2023, Fri, 13:45'

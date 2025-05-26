@@ -4,6 +4,13 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.061863
+            lon: 29.364496
+        source: fgb
 meta:
     fgb:
         post_id: '75719'
@@ -14,4 +21,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75719#75719'
-                version: '06 May 2021, Thu, 13:19'
+                version: '23 Jan 2025, Thu, 10:39'

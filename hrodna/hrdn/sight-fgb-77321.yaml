@@ -40,6 +40,85 @@ images:
                 post_id: '77321'
         meta:
             author: ВалероС
+    -
+        file: 9c5f128467b671491131ea3425036700.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 62db8f54a5ddb4a519d6e00d809c3b6f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 41430aa00279c46a0c2a5958ae300766.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 1c50d9088293a985a8dece7793863810.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: c87d46abdbd12eb3de7235ff8c2388ce.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 3400f52e357795d89f16fcf57902cf37.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 9ea3779863ac76f0f0dce5fd1dcf6273.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: 0eb3f6f3a42d0b4ce2923c569ebdf62b.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+    -
+        file: ca6bd6ddf1a7621b569990b5fa0c7859.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77321'
+        meta:
+            author: ВалероС
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.65593
+            lon: 23.911144
+        source: fgb
 meta:
     fgb:
         post_id: '77321'
@@ -50,4 +129,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77321#77321'
-                version: '30 Oct 2021, Sat, 19:34'
+                version: '26 Apr 2024, Fri, 15:57'

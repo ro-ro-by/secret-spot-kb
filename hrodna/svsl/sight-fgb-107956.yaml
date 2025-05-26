@@ -1,0 +1,24 @@
+id: sight-fgb-107956
+title: 'Ритуальный камень ятвягов'
+type: stone
+belongsTo:
+    region: region-hrodna
+    subregion: subregion-svsl
+images:
+    -
+        file: fccadb8ab441cb31b22ac676490ea83e.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107956'
+meta:
+    fgb:
+        post_id: '107956'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107956#107956'
+                version: '22 Jan 2025, Wed, 9:46'

@@ -4,6 +4,15 @@ type: spring
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+images:
+    -
+        file: 091cd0d27c14d36b6cc46adedcfa06a5.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '99538'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=99538#99538'
-                version: '23 Jan 2022, Sun, 0:29'
+                version: '12 Jun 2024, Wed, 14:21'

@@ -1,0 +1,17 @@
+id: sight-fgb-104971
+title: 'Святой родник'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-vndv
+meta:
+    fgb:
+        post_id: '104971'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104971#104971'
+                version: '02 Nov 2023, Thu, 12:32'

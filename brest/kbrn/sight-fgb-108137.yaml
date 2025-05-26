@@ -1,0 +1,26 @@
+id: sight-fgb-108137
+title: 'Дуб черешчатый на ул. Советской'
+type: tree
+belongsTo:
+    region: region-brest
+    subregion: subregion-kbrn
+images:
+    -
+        file: 6e622513d3c111bb323cb2e4e569b2dc.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '108137'
+tree:
+    type: oak
+meta:
+    fgb:
+        post_id: '108137'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=108137#108137'
+                version: '12 Feb 2025, Wed, 13:09'

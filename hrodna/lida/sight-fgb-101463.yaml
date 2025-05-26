@@ -13,6 +13,12 @@ images:
             type: fgb
             fgb:
                 post_id: '101463'
+    -
+        file: 98dd0cbd47ceab41b29fc29a177ac6e7.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '101463'
 tree:
     type: pine
 location:
@@ -32,4 +38,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=101463#101463'
-                version: '15 Nov 2022, Tue, 17:41'
+                version: '29 Mar 2024, Fri, 1:23'

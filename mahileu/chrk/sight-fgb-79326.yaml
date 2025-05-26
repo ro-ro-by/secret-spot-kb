@@ -1,15 +1,24 @@
 id: sight-fgb-79326
-title: Родник
+title: 'Родник на Краснореволюционной'
 type: spring
 belongsTo:
     region: region-mahileu
     subregion: subregion-chrk
+images:
+    -
+        file: b5437279db1c62bf404d90e444d785fe.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '79326'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
         coordinates:
-            lat: '53.56253'
-            lon: '31.39173'
+            lat: '53.56250'
+            lon: '31.39184'
         source: fgb
 meta:
     fgb:
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=79326#79326'
-                version: '15 Nov 2021, Mon, 15:57'
+                version: '11 Dec 2024, Wed, 11:52'

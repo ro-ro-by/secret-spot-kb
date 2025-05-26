@@ -1,0 +1,33 @@
+id: sight-fgb-104931
+title: 'Родник Улазовичи'
+type: spring
+belongsTo:
+    region: region-vitsebsk
+    subregion: subregion-shmln
+images:
+    -
+        file: 2239cc89295a3073ec4707f03fbac411.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '104931'
+        meta:
+            author: Кривич
+location:
+    -
+        type: point
+        coordinates:
+            lat: 55.12737
+            lon: 29.66183
+        source: fgb
+meta:
+    fgb:
+        post_id: '104931'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=104931#104931'
+                version: '23 Oct 2023, Mon, 15:00'

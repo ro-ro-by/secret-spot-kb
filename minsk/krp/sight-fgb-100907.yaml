@@ -4,6 +4,71 @@ type: boulder
 belongsTo:
     region: region-minsk
     subregion: subregion-krp
+images:
+    -
+        file: 3cb9006cae73ba10321c773aeb89e830.png
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 512d5709b3978ad7a790060309ff998a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 8af40c31ca58318003e3ed4e71046621.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 209411d30a8f285bb5ea82a82375bcb9.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: bed06aaf6d4c5da9bea8874288414d77.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 0c3f7d69a2793950afd4b8580d5f60bb.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 9c50a46561c8f67bf8dab49b8a9d4e2a.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
+    -
+        file: 3318ea67c8c2e123e5081eb7e336c27b.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '100907'
+        meta:
+            author: Victoryor
 meta:
     fgb:
         post_id: '100907'
@@ -14,4 +79,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=100907#100907'
-                version: '01 Aug 2022, Mon, 11:22'
+                version: '12 Jun 2024, Wed, 14:08'

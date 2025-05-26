@@ -1,0 +1,37 @@
+id: sight-fgb-106548
+title: 'Муравчицкие конгломераты'
+type: conglomerate
+belongsTo:
+    region: region-brest
+    subregion: subregion-kmn
+images:
+    -
+        file: c5173b890897e2d50ee1dd3d3ff4cbd3.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106548'
+    -
+        file: a451c8a3944b81923009e8a60028f121.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '106548'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 52.375952
+            lon: 23.506194
+        source: fgb
+meta:
+    fgb:
+        post_id: '106548'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=106548#106548'
+                version: '24 Jun 2024, Mon, 13:50'

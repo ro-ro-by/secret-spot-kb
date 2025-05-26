@@ -1,5 +1,5 @@
 id: sight-fgb-77220
-title: 'Святой колодец'
+title: 'Святой колодец (Родник Параскевы Пятницы)'
 type: spring
 belongsTo:
     region: region-vitsebsk
@@ -29,6 +29,14 @@ images:
             type: fgb
             fgb:
                 post_id: '77220'
+    -
+        file: ca8c29dcef9a2b15ec96be35994b7007.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '77220'
+        meta:
+            author: Кривич
 location:
     -
         type: point
@@ -46,4 +54,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=77220#77220'
-                version: '13 May 2021, Thu, 23:25'
+                version: '23 Oct 2023, Mon, 14:47'

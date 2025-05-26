@@ -4,6 +4,15 @@ type: area
 belongsTo:
     region: region-vitsebsk
     subregion: subregion-dksh
+images:
+    -
+        file: 5a4ffc74681dab29dd190de295638474.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '76813'
+        meta:
+            author: Victoryor
 location:
     -
         type: point
@@ -21,4 +30,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=76813#76813'
-                version: '22 May 2021, Sat, 11:14'
+                version: '24 Feb 2025, Mon, 9:26'

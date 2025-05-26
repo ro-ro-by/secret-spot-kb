@@ -1,0 +1,31 @@
+id: sight-fgb-107677
+title: 'Панская студня'
+type: spring
+belongsTo:
+    region: region-minsk
+    subregion: subregion-dzrzh
+images:
+    -
+        file: 5fde5c13b33bec2d93e12f0bd0b449b8.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '107677'
+location:
+    -
+        type: point
+        coordinates:
+            lat: 53.79408
+            lon: 27.13995
+        source: fgb
+meta:
+    fgb:
+        post_id: '107677'
+        author:
+            name: Валацуга
+    source:
+        -
+            type: web
+            web:
+                url: 'https://fgb.by/viewtopic.php?p=107677#107677'
+                version: '23 Jan 2025, Thu, 8:42'

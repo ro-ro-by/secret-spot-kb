@@ -1,5 +1,5 @@
 id: sight-fgb-74520
-title: 'Каменная голова (идол)'
+title: 'Каменная голова (Остромечевский идол)'
 type: boulder
 belongsTo:
     region: region-brest
@@ -9,6 +9,12 @@ images:
         file: c2069d669dd77cd969c27cc47549699c.jpg
         tags:
             - 'image-tag:object:overview'
+        source:
+            type: fgb
+            fgb:
+                post_id: '74520'
+    -
+        file: 80b00798cf72553c077e7f60052144d6.jpg
         source:
             type: fgb
             fgb:
@@ -23,4 +29,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=74520#74520'
-                version: '04 Dec 2020, Fri, 22:22'
+                version: '01 Mar 2025, Sat, 0:33'

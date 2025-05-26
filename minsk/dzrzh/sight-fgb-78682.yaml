@@ -1,5 +1,5 @@
 id: sight-fgb-78682
-title: Чапля
+title: 'Новосёлковская криница'
 type: spring
 belongsTo:
     region: region-minsk
@@ -9,6 +9,12 @@ images:
         file: e53ff08f2e06fdb260f10813726aab32.jpg
         tags:
             - 'image-tag:object:photo'
+        source:
+            type: fgb
+            fgb:
+                post_id: '78682'
+    -
+        file: c3dcaef6e7811ad1d95f7551d57993cf.jpg
         source:
             type: fgb
             fgb:
@@ -30,4 +36,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=78682#78682'
-                version: '27 Jan 2021, Wed, 14:32'
+                version: '12 Dec 2024, Thu, 9:22'

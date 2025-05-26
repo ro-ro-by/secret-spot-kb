@@ -35,6 +35,29 @@ images:
             type: fgb
             fgb:
                 post_id: '75722'
+    -
+        file: 01d1625eaf68ee0c27d951bc9ed1322f.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75722'
+        meta:
+            author: Victoryor
+    -
+        file: 0d4f6ea267a42a24cd1504c21e6f3f39.jpg
+        source:
+            type: fgb
+            fgb:
+                post_id: '75722'
+        meta:
+            author: Victoryor
+location:
+    -
+        type: point
+        coordinates:
+            lat: 54.052388
+            lon: 29.270867
+        source: fgb
 meta:
     fgb:
         post_id: '75722'
@@ -45,4 +68,4 @@ meta:
             type: web
             web:
                 url: 'https://fgb.by/viewtopic.php?p=75722#75722'
-                version: '05 May 2022, Thu, 14:33'
+                version: '12 Jun 2024, Wed, 14:34'

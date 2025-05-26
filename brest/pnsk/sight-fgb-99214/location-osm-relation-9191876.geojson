@@ -4245,6 +4245,7 @@
   "type": "Feature",
   "id": "node/7375219598",
   "properties": {
+    "seamark:type": "gate",
     "waterway": "lock_gate",
     "id": "node/7375219598"
   },
@@ -4260,6 +4261,7 @@
   "type": "Feature",
   "id": "node/7375219599",
   "properties": {
+    "seamark:type": "gate",
     "waterway": "lock_gate",
     "id": "node/7375219599"
   },
